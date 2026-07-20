@@ -1,0 +1,30 @@
+AGENT: Hello jerry397820902, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to reserve a taxi for 06:30AM tomorrow morning.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Will be credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride tomorrow at 6:30 am? If you'd like, I can use your home address at 2 0 3 0 University Boulevard West, Silver Spring, Maryland. Would that work for you? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I found your pickup address as 2 0 3 0 University Boulevard West, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Reservoir. 3800 Reservoir Road. Washington DC.
+AGENT: Okay, I found the dropoff address as 3 8 0 0 Reservoir Road Northwest, Washington, District of Columbia. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Jerry. <emotion value="peaceful"/>
+AGENT: You mentioned pickup time tomorrow at 6:30 AM. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: It's just me and I don't need a wheelchair.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: Pick me up at my at my garage entrance.
+AGENT: Alright, the estimated fare is 33 dollars, paying with your credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will proceed with booking just your one-way trip. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so booking your trip now. <emotion value="peaceful"/>
+AGENT: Your trip is booked for tomorrow at 6:30 AM. Your confirmation number is 2 1 3 6 7 4 7 0 8. Is there anything else I can help you with?
+CALLER: Can you repeat the confirmation number?
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 4 7 0 8. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, jerry397820902. Have a wonderful day!

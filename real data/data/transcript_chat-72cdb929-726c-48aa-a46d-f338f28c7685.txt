@@ -1,0 +1,41 @@
+AGENT: Hello Chi, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Can you please send me a taxi?
+AGENT: I'd be happy to help with that. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cull and dry.
+AGENT: Did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? If not, please let me know how you'd like to pay.
+CALLER: Car number three two eight four zero eight.
+AGENT: Thank you for providing your Call and Ride details. Your payment method is set to Call and Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 9901. Break the blood, and she was raised.
+AGENT: Just to confirm, is your pickup address 9 9 0 1 Braddock Road, Silver Spring, Maryland?
+CALLER: Yeah.
+AGENT: I have 9 9 0 1 Braddock Road, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes. 9901 Up Road in US. Right?
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 9254 New Hampshire Avenue,
+AGENT: Just to confirm, is your dropoff address 9 2 5 4 New Hampshire Avenue?
+CALLER: Yes.
+AGENT: I found a similar address from recent trips: 9 2 4 5 New Hampshire Avenue, Silver Spring, Maryland. Is that the correct dropoff location?
+CALLER: Yes. 9254. North 245.
+AGENT: Your dropoff address has been verified, Chi. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: Two minutes possible.
+AGENT: Got it, I'll arrange your pickup as soon as possible. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Just a regular cap would do.
+AGENT: Thank you. Will you have any special instructions or notes for the driver?
+CALLER: Yes, ma'am. Once I get there, I'm gonna come into the store a few minutes, come back out. I need to wait the drive away from me for five minutes come back out, and he will take me back here home. Okay?
+AGENT: The estimated fare for your trip is 7.5 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: A few minutes after we arrived there, I come in the store. They come back out, and they will take me home here, back home. Okay?
+AGENT: I've scheduled your return pickup for about one hour after your arrival. How many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: For your return trip, I have the pickup as 9 2 4 5 New Hampshire Avenue and the dropoff as 9 9 0 1 Braddock Road. Is that correct?
+CALLER: Yes, ma'am.
+AGENT: The estimated fare for your return trip is 7.5 dollars, paying with your Call and Ride card. Should I go ahead and book both trips?
+CALLER: Yes, ma'am.
+AGENT: Thank you. I am now booking both your trips.
+AGENT: Your main trip is scheduled for today at 6:39 AM with confirmation number 2 1 3 6 8 0 3 0 3. Your return trip is scheduled for today at 7:39 AM with confirmation number 2 1 3 6 8 0 3 0 4. Is there anything else I can help you with?
+CALLER: No. That'll be
+AGENT: Thank you for calling Barwood & Regency, Chi. Have a wonderful day.
+CALLER: Thank you.

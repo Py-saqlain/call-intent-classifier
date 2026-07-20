@@ -1,0 +1,12 @@
+AGENT: Hello Jin, this is Ana from Barwood & Regency. Vehicle 520 has arrived at your pickup location. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+CALLER: Yes.
+AGENT: How can I assist you with your ride today? Would you like to book a trip, check on a current ride, or something else?
+CALLER: It's gonna print right.
+AGENT: Could you please clarify what you mean by "It's gonna print right"? Are you looking to book a ride, check a trip status, or something else?
+CALLER: Check on the current ride.
+AGENT: Your driver is currently at the pickup location on Georgia Avenue in Silver Spring, and your ride is scheduled to leave shortly at 12:29 pm. Would you like any other information?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

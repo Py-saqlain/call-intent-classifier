@@ -1,0 +1,19 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+CALLER: Take your time. Just let me know when you're ready.
+AGENT: I’m here to help whenever you’re ready. What name should I use to set up your profile with Barwood & Regency?
+CALLER: I wanna make sure I get your name right. Could you please say your name for me?
+AGENT: Of course! My name is Ana. Now, may I have your name to set up your profile with Barwood & Regency?
+CALLER: Thank you, Anna. This is Anna from Barwood and Regency. How can I help you today?
+AGENT: Thanks, Anna. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I'm Anna. I'm here to help you with your ride.
+AGENT: Okay, Anna, how can I assist you with your ride today?
+CALLER: If you'd like to book a trip or need assistance, just let me know what you need.
+AGENT: Uhh, if you want to book a ride or need help with anything else, just tell me what you need, and I'll get you to the right place. <emotion value="peaceful"/>
+CALLER: I'm here to help with your payment method for the ride. Could you please tell me how you would like to pay to help with your cash. First, I need your name to call. What name should I use for your profile? To get started, could you please tell me how you would like to pay for your ride? We accept cash, credit card, and call and ride.
+AGENT: I’m here to help with your payment method whenever you’re ready. Could you please tell me your name for the profile, and how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: I already have your name as I'm here to help with Now could you please help me with pay for your ride file. We accept card?
+AGENT: Uhh, I understand you want to tell me your payment method. Could you please confirm how you would like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Not quite right. Proceed again, and please tell me your name and pay for your ride. I'm the accepted to your ride card first. Anyone's ride to set up your profile. I wanna make sure I have everything right. Could you please tell me how you would like to Okay. Your ride? I wanna make sure that everything is barwood. Could you please call me your name so I can set up your profile I already have experience in a technical analysis on my end. Tell me how you would like to with your agent who we access. Credit card, and call and ride. I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

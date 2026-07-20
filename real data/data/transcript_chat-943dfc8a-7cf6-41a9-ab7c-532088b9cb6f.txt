@@ -1,0 +1,29 @@
+AGENT: Hello Louies, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I need a taxi to pick me up. From from 10901 Georgia Avenue.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit
+CALLER: And submit me to I'm paying credit card.
+AGENT: Okay so I've got that payment noted as credit card.
+CALLER: Yes.
+AGENT: Okay, I have your pickup confirmed at 1 0 9 0 1 Georgia Avenue, Wheaton, Maryland. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Five three one Randolph Road Silver Spring, Maryland. Two zero nine zero four.
+AGENT: Thank you. Let me check that dropoff address for you. <emotion value="peaceful"/>
+AGENT: Okay, so I found your dropoff address as 5 3 1 Randolph Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Both your pickup and dropoff addresses have been verified, Louies.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Your pickup address is 10901 Georgia Avenue in Wheaton, Maryland. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now,
+AGENT: Okay great! I've got your pickup time as today at 3:48 PM. Alright, soo <break
+CALLER: as soon as possible,
+AGENT: Alright, soo how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. This one. One person. It's raining. It's raining.
+AGENT: Alright, the estimated fare is 13.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 3:48 PM. Your confirmation number is 2 1 3 6 7 4 3 0 4. Is there anything else I can help you with?
+CALLER: There's no let me write that down. I have to write the pickup numbers what?
+AGENT: The confirmation number for your trip is 2 1 3 6 7 4 3 0 4. Please let me know if you need me to repeat it or if there's anything else I can assist you with.
+CALLER: Yeah. Let's repeat it. Two one three six Again?
+AGENT: The full confirmation number is 2 1 3 6 7 4 3 0 4. Would you like me to say it again?
+CALLER: No. Okay.
+AGENT: Thank you for calling Barwood & Regency, Louies. Have a wonderful day.

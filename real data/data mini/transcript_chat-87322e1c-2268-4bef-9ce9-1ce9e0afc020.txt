@@ -1,0 +1,23 @@
+AGENT: Hello Donald, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, we're at the Kaiser in Gaithersburg. And we would like a ride to Damascus, Maryland.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Well, I could I use a credit card, but is that safe?
+AGENT: Using a credit card is perfectly safe with us. Okay so, I've got that payment noted as credit card. Let me proceed with verifying it for you. <emotion value="grateful"/>
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: I found Kaiser Permanente Gaithersburg Medical Center at 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found Damascus, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Donald.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now.
+AGENT: Okay great! I've got your pickup time as today at 3:12 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Two. Two
+AGENT: Okay great! I've got that noted. Will anyone be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Two. Two No. We can get in. I she I pushed her around in a wheel Okay.
+AGENT: Alright, the estimated fare is 32 dollars, paying with your credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm booking your trip now.
+AGENT: Your trip is booked for today at 3:12 PM. Your confirmation number is 2 1 3 6 7 3 4 7 8. Is there anything else I can help you with?
+CALLER: That's it.
+AGENT: Thank you for calling Barwood & Regency, Donald. Have a wonderful day!

@@ -1,0 +1,48 @@
+AGENT: Hi Bob, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Is this Bartwood taxi?
+AGENT: Uhh, yes, this is Barwood Cab and Regency Taxi. How can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: I need to go to sixty four eleven Chillum Place Northwest.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Washington, DC
+AGENT: Thanks for that, but I’m still missing how you’d like to pay. Could you please tell me your payment method? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: I found the address as 6 4 1 1 Chillum Place Northwest, Washington, District of Columbia. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Cash. Cash.
+AGENT: Your dropoff address has been verified. Now, may I have your pickup address, please? <emotion value="peaceful"/>
+CALLER: Eleven thirty one University Boulevard West, Silver Spring, Maryland.
+AGENT: I found the address as 1 1 3 1 University Boulevard West, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. That's correct.
+AGENT: Your pickup address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Then when hello?
+AGENT: Hmm <break time="300ms"/> sorry, I want to make sure I understand. Could you please tell me the time you'd like to be picked up? <emotion value="hesitant"/>
+CALLER: Hello? Hello?
+AGENT: Hello! I'm here to help you with your ride details. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Probably not. Probably about 09:40.
+AGENT: Okay, just to confirm, you would like to be picked up today at 9:40 AM, is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay great! I've got your pickup time noted for today at 9:40 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: All of of my staff. My staff.
+AGENT: Hmm <break time="300ms"/> sorry, could you please tell me the number of passengers who will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: My nurse Two. Two
+AGENT: Alright, so let me confirm those details. Your pickup is 1 1 3 1 University Boulevard West. Your dropoff is 6 4 1 1 Chillum Place Northwest, Washington. Pickup time is 9:40 AM. You have 2 passengers, including yourself, and you will need a wheelchair-accessible vehicle. The estimated fare is 19 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. It's not don't need a wheelchair. No. Yep.
+AGENT: Just to clarify, you do not need a wheelchair-accessible vehicle for this trip, correct? <emotion value="peaceful"/>
+CALLER: No. I want no return trip. No.
+AGENT: Thank you for confirming. I am processing your trip booking now. Please hold on a moment.
+AGENT: Your trip is booked for today at 9:40 AM. Your confirmation number is 2 1 3 6 7 0 4 7 0. Is there anything else I can help you with?
+CALLER: Would you like that?
+AGENT: Could you please clarify what you mean by "Would you like that?" so I can assist you better?
+CALLER: Say that again.
+AGENT: Your trip is booked for today at 9:40 AM. Your confirmation number is 2 1 3 6 7 0 4 7 0. Is there anything else I can help you with?
+CALLER: Right. Right. What's the current what's the current phrase confirmation number is? Could you write it down? Hello?
+AGENT: The confirmation number for your trip is 2 1 3 6 7 0 4 7 0. Is there anything else I can assist you with?
+CALLER: You say again? Please say again. Could you could you go slowly? One three. Could you repeat that number slowly?
+AGENT: Certainly. Your confirmation number is 2 <break time="300ms"/> 1 <break time="300ms"/> 3 <break time="300ms"/> 6 <break time="300ms"/> 7 <break time="300ms"/> 0 <break time="300ms"/> 4 <break time="300ms"/> 7 <break time="300ms"/> 0. Is there anything else I can help you with?
+CALLER: Two one three six seven zero four seven zero That's it. Nope. Nope. Sorry.
+AGENT: Thank you for confirming the confirmation number. If you need any further assistance, just let me know. Is there anything else I can do for you today?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Bob. Have a great day!
+CALLER: Hello.
+AGENT: Hello! How can I assist

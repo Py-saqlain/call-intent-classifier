@@ -1,0 +1,37 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Yes. My name is.
+AGENT: Thank you for sharing your name. Could you please tell me your full name so I can set up your profile?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Eight twenty five. Avenue. Coast Salmon Avenue.
+AGENT: I’m here to help with your ride, but first I need your full name to set up your profile. Could you please tell me your name?
+CALLER: Smith.
+AGENT: Thanks, Smith. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I'm gonna ride from Doge I from to
+AGENT: Okay, I understand you want to book a ride. Could you please tell me the full pickup address and the destination address?
+CALLER: I'm I'm going to pay one five Stater Avenue Silver Spring, Maryland.
+AGENT: Thanks for that. Just to be clear, is your pickup location "one five Stater Avenue, Silver Spring, Maryland," or is that your destination? And could you please tell me the other address as well?
+CALLER: Two zero nine one zero.
+AGENT: Could you please clarify if "two zero nine one zero" is the pickup address or the destination address? Also, if possible, please provide the street name and city for that address.
+CALLER: Eight one five one eight one
+AGENT: I want to make sure I have your trip details right. Could you please tell me the full pickup address and the full destination address, including street names and cities?
+CALLER: Holy Holy Cross Hospital. Well, you pick me up at Holy Cross Hospital. Emergency room. Address. And take me to eight one five Stater Avenue,
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: I found a few locations for Holy Cross Hospital Emergency Room. 
+Option one: 19801 Observation Drive, Germantown, Maryland. 
+Option two: 19801 Observation Drive, Germantown, Maryland (same as option one). 
+Which one is correct?
+CALLER: I'm in Silver Springs.
+AGENT: Thank you for that detail. Just to clarify, are you referring to Holy Cross Hospital Emergency Room near Silver Spring, Maryland? If so, I want to make sure I find the correct location for your pickup. Could you please confirm or provide any nearby landmarks or cross streets? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Thank you. Since the Holy Cross Hospital Emergency Room you mentioned is near Silver Spring, Maryland, I will proceed with that location for your pickup. Now, about your dropoff address at 8 1 5 Stater Avenue, let me confirm that for you.
+AGENT: I found the dropoff address as eight one five Thayer Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found a few locations for Holy Cross Hospital Emergency Room. 
+Option one: 19801 Observation Drive, Germantown, Maryland. 
+Option two: 19801 Observation Drive, Germantown, Maryland (same as option one). 
+Which one is correct?
+CALLER: No. I'm I'm in Silver Spring.
+AGENT: Thank you for clarifying that you are in Silver Spring. To make sure I find the correct Holy Cross Hospital Emergency Room near Silver Spring, could you please provide any nearby landmarks or cross streets? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.

@@ -1,0 +1,12 @@
+AGENT: Hi Lisa, this is Ana with Barwood & Regency. Your ride is scheduled for pickup today at 11:45 AM. How can I assist you today?
+CALLER: What cab number?
+AGENT: Could you please tell me if you are asking about the cab number for a trip you already have booked, or are you looking to book a new ride? That way I can direct you to the right
+CALLER: Yes. No. Yes.
+AGENT: Your driver is assigned and the vehicle number is 1126. The pickup is scheduled for 11:45 am at 1 2 0 2 8 Cherry Hill Road. Would you like any other details?
+CALLER: Yes. Wrong address.
+AGENT: Could you please provide the correct pickup address you want for your trip?
+CALLER: One four zero three nine Castle Boulevard,
+AGENT: Just to confirm, you want to update your pickup address to 1 4 0 3 9 Castle Boulevard, Silver Spring, Maryland, right?
+CALLER: Yes. And a return trip from 120200 Cherry Boulevard Road.
+AGENT: To confirm, your return trip pickup address is 1 2 0 2 0 Cherry Hill Road, Silver Spring, Maryland?
+AGENT: Take your time. Just let me know when you're ready.

@@ -1,0 +1,42 @@
+AGENT: Hello Jiqing, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to book a taxi, please.
+AGENT: Thank you for choosing us for your ride. How would you like to pay for your taxi? We accept cash, credit card, and Call and Ride.
+CALLER: I pick coin to ride.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Cotton.
+AGENT: I want to make sure I understand correctly—did you mean Call and Ride for
+CALLER: Is three five one.
+CALLER: Yes. Yes. Called you right.
+CALLER: Last digit last six digits are 351. 202.
+AGENT: Thank you for providing the digits. Just to confirm, the last six digits of your Call and Ride card are 3 5 1 2 0 2, correct?
+CALLER: Yes. Thank you.
+AGENT: Thank you for confirming your payment with Call and Ride. I’m moving forward with your booking now.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Is it one five eight hundred and sixty five.
+CALLER: CRA d b e s. B r a n c h. W a y.
+AGENT: Just to confirm, is your pickup address 1 5 8 8 6 5 Cradbes Branch Way?
+CALLER: No. Wrong. The number is fifteen thousand hundred sixty five.
+AGENT: Thank you for the correction. To be sure I have it right, is your pickup address 1 5 0 6 5 Cradbes Branch Way? Could you please confirm the street name as well?
+CALLER: One five eight six five.
+AGENT: Thank you for clarifying. Is your pickup address 1 5 8 6 5 Cradbes Branch Way? Could you please confirm the city and state for this address?
+CALLER: Black bill Maryland,
+CALLER: 20855.
+AGENT: Thank you. To confirm, is your pickup address 2 0 8 5 5 Cradbes Branch Way, Black Bill, Maryland?
+CALLER: Oh, no. No. No. No. No. No. No. No. No. I said it's typical. Okay. Can I give you the address again, please?
+AGENT: Of course, please go ahead and provide the pickup address again. I'm here to help.
+CALLER: One five eight six five. Rather branch Way, Lockview, Marin, ZIP code, two thousand eight. Five five.
+AGENT: I couldn't find an address matching 1 5 8 6 5 Rather Branch Way in Lockview, Maryland. Could you please double-check the street name or provide a nearby landmark or cross street to help locate it?
+CALLER: Grab us.
+AGENT: Could you please clarify or
+CALLER: C r a b b e s. B
+AGENT: Thank you for clarifying. Is your pickup address 1 5 8 6 5 Crabbes Branch Way, Lockview,
+CALLER: c r a b b e s.
+AGENT: I still couldn't find 1 5 8 6 5 Crabbes Branch Way in Lockview, Maryland. Could you please provide a nearby landmark, cross street,
+CALLER: Thank you. Yes. Yes. Yes. Yes. Thank you.
+AGENT: Just to confirm, is your pickup address 3 2 3 Copley Place, Gaithersburg, Maryland?
+CALLER: No. No. No. No. No. I'm not sure. You. No. No. No. Let me con let me give you again. Okay?
+AGENT: Of course, please take your time and provide the pickup address again when you're ready.
+CALLER: One five eight six
+CALLER: Yes.
+AGENT: Thank you. Could you
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

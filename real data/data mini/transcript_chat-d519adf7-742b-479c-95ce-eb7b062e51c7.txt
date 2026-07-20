@@ -1,0 +1,30 @@
+AGENT: Hello Edith, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I could get a care to service spring.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Can I Cash?
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Yeah. One zero four two one Motor City Drive, in Bethesda.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found your pickup address as one zero four two one Motor City Drive, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found Silver Spring, Maryland as your destination. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Yes. One nine one nine Rosemary Hills Drive.
+AGENT: Just to clarify, you want to go to one nine one nine Rosemary Hills Drive in Silver Spring, Maryland, correct? <emotion value="hesitant"/>
+CALLER: Yes
+AGENT: Your dropoff address has been verified, Edith.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Your main trip pickup address is 10421 Motor City Drive, Bethesda, Maryland. When would you like to be picked up? <emotion value="peaceful"/>
+When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time as today at 11:10 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Yes. One. Knee. Just me.
+AGENT: Alright, the estimated fare is 26 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will skip the return trip. Should I go ahead and book your ride now? <emotion value="peaceful"/>
+CALLER: Yes, please.
+AGENT: Okay so <break time="250ms"/> I am booking your ride now. <emotion value="grateful"/>
+AGENT: Your ride is booked for today at 11:10 PM. Your confirmation number is 2 1 3 6 7 6 6 3 8. Is there anything else I can help you with?
+CALLER: That'll be it.
+AGENT: Thank you for calling Barwood & Regency, Edith. Have a wonderful day!
+CALLER: Thank you.

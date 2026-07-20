@@ -1,0 +1,12 @@
+AGENT: Hi Jacob, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Oh, yeah. Oh, my number. Last time the con you send me the con. That guy take me everywhere, all around. Collect me almost $160.
+AGENT: Uhh, I understand you're concerned about a previous trip and the charges. How can I assist you with your ride or booking today?
+CALLER: Then that time I called you, yeah, Yeah. I is there anything you can help me today to go to Patel and come back?
+AGENT: Alright, how would you like to pay for your trip to Patel and back? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: No. No. No. No. Actually, last time the con treated me,
+AGENT: Hmmm.. that didn't seem right, could you please tell me how you would like to pay for your trip this time? We accept cash, credit card, and Call and Ride.
+CALLER: you guys told me that Jacob, next time,
+AGENT: I want to make sure I understand you correctly about your payment. Could you please tell me how you would like to pay for your trip today?
+CALLER: No. No. No. I don't have money. No. Actually, see, my question is, he treated me. He told me next time, we will do ride for a one time, Jacob. Why I'm calling. Is there anything you can help me? That's fine. Otherwise, no. I broke, honey.
+AGENT: I hear you, and I want to help as best I can. Since you mentioned you don’t have money right now, I’m not able to offer rides without payment on this line. Would you like me to connect you to a live agent who might be able to assist you further? <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

@@ -1,0 +1,40 @@
+AGENT: Hello Maureen, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: You can book a ride. Calling ride.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Alright.
+AGENT: Could you please tell me which payment method you'd like to use? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: Call and ride. Call him ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Thank you. Could you please provide the last six digits of your Call and Ride card now? <emotion value="peaceful"/>
+CALLER: Yeah. Three four five five seven six.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Mhmm.
+AGENT: I didn't catch the pickup address. Could you please tell me where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Two zero nine
+AGENT: Thank you. Could you please provide the street name and city for the pickup address at two zero nine? <emotion value="peaceful"/>
+CALLER: one zero Frederick Road in Germantown, Maryland.
+AGENT: Okay, so I have two zero nine one zero Frederick Road, Germantown, Maryland as your pickup address. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Okay, so I found the pickup address as two zero nine one zero Frederick Road, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One nine zero one seven Staley Bridge Road, in Germantown, Maryland.
+AGENT: Okay, so I have one nine zero one seven Staley Bridge Road, Germantown, Maryland as your dropoff address. Is that correct? <emotion value="peaceful"/>
+CALLER: Mhmm. Correct.
+AGENT: Okay, so I found the dropoff address as one nine zero one seven Staleybridge Road, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Maureen.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time as today at 12:54 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just me and no.
+AGENT: Okay great! I've got 1 passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 11.5 dollars, paying with Call And Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 12:54 PM. Your confirmation number is 2 1 3 6 7 3 2 1 6. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Maureen. Have a wonderful day!

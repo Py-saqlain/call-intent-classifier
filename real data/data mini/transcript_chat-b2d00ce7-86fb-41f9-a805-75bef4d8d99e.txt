@@ -1,0 +1,11 @@
+AGENT: Hello Barbara, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Ma'am, there's five five for today. I pick up a job. What was your prove out for me? Is it gonna take it out I know.
+AGENT: Could you please clarify if you are looking to book a ride for today at 5:55, or if you are asking about the status or ETA of a ride? I want to make sure I understand correctly so I can assist you best.
+CALLER: I want to talk to the dispatcher.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: Transfer me.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you.

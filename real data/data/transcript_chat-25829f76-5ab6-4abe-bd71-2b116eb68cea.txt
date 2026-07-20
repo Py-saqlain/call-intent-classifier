@@ -1,0 +1,52 @@
+AGENT: Hi Mike, this is Ana with Barwood & Regency. I see you have a will-call trip scheduled today from 2 0 4 2 6 Apple Harvest Circle in Germantown to 1 5 5 Watkins Station Circle in Gaithersburg. How can I assist you today?
+CALLER: Cancel all trips.
+AGENT: I see one trip on your account. Trip one: pickup at 20426 Apple Harvest Circle in Germantown, Maryland, going to 155 Watkins Station Circle in Gaithersburg, Maryland. Would you like me to cancel this trip for you? <emotion value="hesitant"/>
+CALLER: Yeah. Cancel those tips. Yes.
+AGENT: Okay so that trip has been cancelled for you. Is there anything else I can help you with? <emotion value="grateful"/>
+CALLER: Yes. I would like to book a taxi.
+AGENT: Alright, how would you like to pay for your taxi? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride.
+AGENT: Okay, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero zero
+AGENT: Hmmm.. that didn't seem right, could you try again with the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Three zero six six three six.
+AGENT: Okay so I've got that payment noted as Call And Ride.
+AGENT: Could you please tell me the pickup address for your taxi? <emotion value="peaceful"/>
+CALLER: 18715 North Frederick Avenue. In Gaithersburg.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is 1 8 7 1 5 North Frederick Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: I found a few locations for booking a taxi. 
+Option one: 8 2 0 1 Snouffer School Road, Gaithersburg. 
+Option two: 1 8 3 1 1 Lost Knife Circle Unit, Montgomery Village. 
+Option three: 4 0 1 North Frederick Avenue, Gaithersburg. 
+Option four: 1 5 8 0 5 Paramount Drive, Rockville. 
+Option five: 4 0 2 King Farm Boulevard, Rockville. 
+Which one would you like to use? <emotion value="peaceful"/>
+CALLER: None of the above. None.
+AGENT: Okay, I understand none of those are correct. Could you please provide a more specific address, landmark, or cross street for where you'd like to be dropped off? <emotion value="apologetic"/>
+CALLER: Three professional drive.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so your dropoff address is 3 Professional Drive, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Mike. I'll now proceed with the next steps to arrange your taxi.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: It's four
+AGENT: Just to confirm, you mean 4 AM or 4 PM? <emotion value="hesitant"/>
+CALLER: Four twenty five.
+AGENT: Alright, since it's currently 4:16 PM, I will assume you mean 4:25 PM, is that correct? <emotion value="hesitant"/>
+CALLER: Yes. 04:25PM.
+AGENT: Okay great! I've got your pickup time as today at 4:25 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Two and no. No wheelchair accessory.
+AGENT: Okay great! I've got 2 passengers and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 5.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes. We'll call.
+AGENT: Okay, I will set up a will-call return trip for you.
+AGENT: Your return trip will be a will-call, with pickup at 3 Professional Drive and dropoff at 1 8 7 1 5 North Frederick Avenue. The estimated fare for the return trip is 6.5 dollars, paying with Call and Ride. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so <break time="250ms"/> I'm booking both trips for you now. <emotion value="peaceful"/>
+AGENT: Your main trip is scheduled for today at 4:25 PM with confirmation number 2 1 3 6 7 6 1 4 4. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 6 1 4 5. You can call back when you're ready for the return trip and a driver will be dispatched then. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Mike. Have a wonderful day!
+CALLER: Okay.

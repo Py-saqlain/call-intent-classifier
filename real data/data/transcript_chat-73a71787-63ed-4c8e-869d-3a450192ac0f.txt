@@ -1,0 +1,45 @@
+AGENT: Hello ASFA, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, I need the ride.
+AGENT: I'm glad to help you with your ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, cash it is. I'll proceed with your booking now.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: It is 444 Maple Avenue East, Virginia. The ZIP code is 22180.
+AGENT: I have 4 4 4 Maple Avenue East, Vienna, Virginia as your pickup address. Is that correct?
+CALLER: No. Sorry. That's not correct.
+AGENT: Thank you for letting me know. Could you please provide the correct pickup address?
+CALLER: Absolutely. Uh, the correct pickup address is three two one University Boulevard West, Silver Spring, The ZIP code is 20901.
+AGENT: I have 3 2 1 University Boulevard West, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Repeat.
+AGENT: You said 3 2 1 University Boulevard West, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: That's correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Now the drop off address is the four four four Maple Avenue East Vienna Virginia. The ZIP code is 22180.
+AGENT: I have 4 4 4 Maple Avenue East, Vienna, Virginia as your dropoff address. Is that correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified. Thank you, ASFA.
+AGENT: When would you like to be picked up?
+CALLER: Tomorrow,
+AGENT: What time tomorrow would you like to be picked
+CALLER: Tomorrow.
+AGENT: You mentioned tomorrow but didn't specify a time. What time tomorrow would you like to be picked up?
+CALLER: I want to be picked up tomorrow at 10AM, but I also need a round trip whereby I will be leaving at the drop off address at 12PM so that you can return me back.
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. How many passengers will be traveling, including yourself? Also, will you need a wheelchair-accessible vehicle?
+CALLER: Yes. I need the wheelchair accessible vehicle. And if I can get the wheelchair cab 249, I will be so happy.
+AGENT: I've noted your request for a wheelchair-accessible vehicle and the specific cab number 249. How many passengers will be traveling in total?
+CALLER: Oh, Myself, and one caregiver.
+AGENT: The estimated fare for your main trip is 53.5, paying with cash. You mentioned you'd like a return trip leaving from your dropoff address at 12 PM. Would you still like me to set that up?
+CALLER: Yes. I would like you to send that up.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: At 12PM.
+AGENT: Your return trip pickup time is set for tomorrow at 12:00 PM. How many passengers will be traveling on the return trip, including yourself? Also, will you need a wheelchair-accessible vehicle for the return trip?
+CALLER: Two. Yes. I will need the wheelchair accessible vehicle for the return trip, and two passengers in total will be traveling.
+AGENT: For your return trip, I have the pickup address as 4 4 4 Maple Avenue East and the dropoff address as 3 2 1 University Boulevard West. Is that correct?
+CALLER: That's correct.
+AGENT: The estimated fare for your return trip is 53.5, paying with Self. Should I go ahead and book both your main and return trips?
+CALLER: Yes.
+AGENT: Booking your main and return trips now.
+AGENT: Your main trip is scheduled for tomorrow at 10:00 AM with confirmation number 2 1 3 6 7 8 2 3 1. Your return trip is scheduled for tomorrow at 12:00 PM with confirmation number 2 1 3 6 7 8 2 3 2. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, ASFA. Have a wonderful day!
+CALLER: Right.

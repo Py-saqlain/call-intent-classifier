@@ -1,0 +1,29 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Norma, n o r m a, Gleason, g l e a s o n,
+AGENT: Thanks, Norma. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need to get a ride, please, from a Shell station in Gaithersburg. To the Best Buy in Rockville.
+AGENT: Alright, Norma, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: My credit card. Yeah. Yeah. Actually, let me take it to you. 15? So
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as credit card. <emotion value="grateful"/>
+CALLER: Summit Avenue. Oh, South Summit. Okay. Okay, ma'am. Do you want my card now?
+CALLER: You you think you have it already from last time?
+AGENT: Hmm <break time="350ms"/> I found a few Shell stations in Gaithersburg. <break time="700ms"/> Option one: 7 6 2 0 Lindbergh Drive, Gaithersburg. <break time="500ms"/> Option two: 1 5 South Summit Avenue, Gaithersburg. <break time="500ms"/> Option three: 4 5 5 North Frederick Avenue, Gaithersburg. <break time="500ms"/> Which one would you like to use? <emotion value="hesitant"/>
+AGENT: I found a few Shell stations in Gaithersburg. 
+Option one: 7 6 2 0 Lindbergh Drive. <break time="500ms"/> 
+Option two: 1 5 South Summit Avenue. <break time="500ms"/> 
+Option three: 4 5 5 North Frederick Avenue. <break time="500ms"/> 
+Which one would you like to use?
+AGENT: I found a few Shell stations in Gaithersburg. 
+Option one: 7 6 2 0 Lindbergh Drive. 
+Option two: 1 5 South Summit Avenue. 
+Option three: 4 5 5 North Frederick Avenue. 
+Which one would you like to use?
+CALLER: Okay. The address here is one five yeah. Which one is 15 South Summit. Yes. Yes. Yes. Option two. Option two. Yes. Option 2. Option 2. Option 2.
+AGENT: I'm sorry, but I couldn't find any results for South Summit Avenue as a dropoff location. Could you please provide a more complete address or a nearby landmark for the Best Buy in Rockville?
+CALLER: Option 2.
+AGENT: I want to make sure I understand correctly—are you referring to the second option for the dropoff address? Could you please provide the full address or more details about that location?
+CALLER: I'm trying to give you hello?
+AGENT: Yes, Norma, I’m here with you. Let’s get your dropoff address sorted out. Could you please tell me the full address or a nearby landmark for the Best Buy in Rockville?
+CALLER: Take that. Take out. Out the drawer. Pick up.
+AGENT: I want to make sure I understand you correctly. Are you saying you want to be picked up from the Shell station at 15 South Summit Avenue, Gaithersburg, and dropped off at Best Buy in Rockville? Could you please provide the full address or a nearby landmark for the Best Buy location?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

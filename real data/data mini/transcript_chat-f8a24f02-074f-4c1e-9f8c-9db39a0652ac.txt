@@ -1,0 +1,24 @@
+AGENT: Hello Maria, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Ah, okay. Yeah. Have problem with my phone. Okay. I need to go to human resource and pick up the drive. I'm gonna pay with call and drive card.
+AGENT: Okay, I have noted that you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Okay. Three three six nine nine seven.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Mhmm.
+AGENT: I didn't quite catch the pickup address. Could you please tell me
+CALLER: It is let me see. One four six thirty five. No. No. No. Sorry. Sorry. One zero nine twenty Connecticut Avenue,
+CALLER: Kensington, Maryland. Two zero eight nine five. Rebecca apartment
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found 1 0 9 2 0
+CALLER: Okay.
+AGENT: I found a few locations for human resource.  
+Option one: 18520 Office Park Drive, Montgomery Village.  
+Option two: 101 Lakeforest Boulevard, Gaithersburg.  
+Option three: 9711 Washingtonian Boulevard, Gaithersburg.  
+Option four: 656 Quince Orchard Road, Gaithersburg.  
+Option five: 1 Research Court, Rockville.  
+Which one is correct? <emotion value="hesitant"/>
+CALLER: I don't know what are you talking about. What you are you telling me thing? I have not tell you.
+AGENT: I understand, no problem. Could you please tell me the full address or a nearby landmark for the human resource location you want to go to? That
+CALLER: Can I talk to other person? Can I talk to other person, please?
+AGENT: I can help you with your trip details — would you like to continue?

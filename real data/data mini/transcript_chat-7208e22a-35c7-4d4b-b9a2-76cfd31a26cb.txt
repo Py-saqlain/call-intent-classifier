@@ -1,0 +1,15 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Maria Alvarado Pena?
+CALLER: Yes.
+AGENT: Thanks, Maria. This is Ana from Barwood & Regency. Vehicle 1023 has arrived at your pickup location. How can I assist you today?
+CALLER: Thank you.
+AGENT: Uhh, you're welcome. Is there anything else I can assist you with today? <emotion value="grateful"/>
+CALLER: What's my next scheduled pickup?
+AGENT: Let me check the status of your upcoming trip for you.
+AGENT: Okay, so your next scheduled pickup is today at 11:00 am from 1 9 7 0 1 Muncaster Road in Derwood. Your driver is currently at the location. Anything else? <emotion value="content"/>
+CALLER: Next,
+AGENT: Your following scheduled pickup after today is on July 13th at 11:00 am from the same address, 1 9 7 0 1 Muncaster Road in Derwood. Would you like details on any other trips?
+CALLER: Today, pickup in the afternoon.
+AGENT: Uhh, I don't see a scheduled pickup for this afternoon today. Would you like me to help you book one? <emotion value="peaceful"/>
+AGENT: Looks like you already have trips from 1 9 7 0 1 Muncaster Road to 7 5 2 4
+CALLER: Representative, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

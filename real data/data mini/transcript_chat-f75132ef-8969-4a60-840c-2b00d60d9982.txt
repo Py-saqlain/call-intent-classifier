@@ -1,0 +1,8 @@
+AGENT: Hi Khianna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Associate.
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.
+CALLER: Representative.

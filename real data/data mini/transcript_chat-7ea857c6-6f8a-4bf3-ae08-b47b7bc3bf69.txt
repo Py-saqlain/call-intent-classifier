@@ -1,0 +1,9 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yeah.
+AGENT: Could you please tell me your name so I can set up your profile?
+CALLER: I said. My driver's here. Where you at?
+AGENT: I understand your driver is there. If you need help with your ride or anything else, I can assist you. What can I do for you today?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

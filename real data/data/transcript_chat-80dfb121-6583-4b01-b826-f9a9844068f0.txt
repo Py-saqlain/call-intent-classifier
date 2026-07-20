@@ -1,0 +1,28 @@
+AGENT: Hi Christine, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: This is not Christine. This is Leo. Do I have a cab of one nine seven five seven Crystal Rock Drive,
+AGENT: Thank you for letting me know, Leo. Just to confirm, are you asking if you have a cab scheduled for 1 9 7 5 7 Crystal Rock Drive?
+CALLER: No. I'd like to have a cab of 19757 Just two rods you have.
+AGENT: Thanks for sharing that, Leo. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, Leo. Your payment method is set to credit card.
+AGENT: Leo, I have the pickup address as one nine seven five seven Crystal Rock Drive, Germantown, Maryland. Is that
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One nine two zero eight. Circle Gate Drive, Germantown, Maryland.
+AGENT: Thank you for the dropoff address, Leo. Let me confirm: is your destination one nine two zero eight Circle Gate Drive, Germantown, Maryland?
+CALLER: Yes.
+AGENT: Leo, I have the dropoff address as one nine two zero eight Circle Gate Drive, Germantown, Maryland. Is that correct?
+CALLER: That's correct.
+AGENT: Your dropoff address has been verified, Christine. I'll proceed with the next steps now.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will you need a wheelchair-accessible vehicle?
+CALLER: One one No.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 7 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 4:17 pm. Your confirmation number is 2 1 3 6 7 9 6 9 5. Is there anything else I can help you with?
+CALLER: No. That's all.
+AGENT: Thank you for calling Barwood & Regency, Christine. Have a wonderful day.

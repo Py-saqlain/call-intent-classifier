@@ -1,0 +1,32 @@
+AGENT: Hello Junior, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. A book of cash.
+AGENT: Thank you for letting me know you'll be paying with cash.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Yeah. I told y'all over and over. 1135 University Boulevard, Rest.
+AGENT: I have 1 1 3 5 University Boulevard West, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes. You could you got it.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Drop off egg red one zero seven five o Columbus columbum pipe Silver Spring, Maryland. Two zero nine zero one. Hudson, Pittsburgh, Maryland.
+CALLER: Oh, good morning.
+AGENT: Good morning! Just to confirm, is your dropoff address 1 0 7 5 Columbus Boulevard, Silver Spring, Maryland?
+AGENT: I didn't quite catch the dropoff address. Could you please repeat the destination address for your ride?
+CALLER: I told you Give me give me me humor.
+AGENT: I have 1 0 7 5 0 Columbia Pike, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. Correct.
+AGENT: Your dropoff address has been verified, Junior. I will now proceed with the next steps.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: just myself.
+AGENT: Thank you. Will you have any special instructions or notes for the driver?
+CALLER: I have no wheelchair. I get some I can get three.
+AGENT: I have recorded that there is no wheelchair needed. Do you have any special instructions for the driver?
+CALLER: Nope. Nope. Actually, you just you know, you just only drop me off, and that's it.
+AGENT: The estimated fare for your trip is 12.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: Yep.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: The the guy not no. None. Zero. You you know, you just just drop me off.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 10:02 AM. The confirmation number is 2 1 3 6 7 9 2 6 3. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Junior. Have a wonderful day.

@@ -1,0 +1,59 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Excuse me. Can you hear me? Ma'am?
+AGENT: Yes, I can hear you clearly. This is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Okay. My name is Tawana King.
+AGENT: Thank you, Tawana. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a taxi, please.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your taxi ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Carlimide.
+AGENT: Hmmm.. <break time="300ms"/> did you mean Call and Ride for your payment method?
+CALLER: Yes, ma'am.
+AGENT: Okay so <break time="300ms"/> could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero nine six zero nine six
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Okay. I'm at fifteen two hundred Shady Grove Road in Rockville, two zero eight five two.
+AGENT: Okay, <break time="300ms"/> so I found your pickup location as one five two zero zero Shady Grove Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes, ma'am.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: That's correct. I'm going to all these and Germantown on Frederick Road
+AGENT: Hmm <break time="350ms"/> let me check that address. Could you please clarify if you mean a specific place on Frederick Road in Germantown, or are you referring to
+CALLER: Okay.
+CALLER: All these, the grocery store, a l d I,
+CALLER: It's on Frederick Road in Germantown in the shopping center.
+AGENT: I found a few shopping centers on Frederick Road in Germantown. <break time="700ms"/> Option one: Gaitherstowne Plaza, 260 North Frederick Avenue, Gaithersburg. <break time="500ms"/> Option two: Walnut Hill Shopping Center, 733 South Frederick Avenue, Gaithersburg. <break time="500ms"/> Option three: Montgomery Village Center, 19201 Centerway Road, Montgomery Village. <break time="500ms"/> Option four: Gaithersburg Square, 524 North
+CALLER: No. One one
+AGENT: Uh, I am sorry, but could you please clarify which one you mean?
+CALLER: No. Germantown.
+AGENT: Thank you for clarifying. It looks like the shopping centers I found are in Gaithersburg and Montgomery Village, not Germantown. Could you please provide a nearby landmark, cross street, or more
+CALLER: The oldies in Germantown
+CALLER: It's in the same shopping center. Where the Michaels is.
+AGENT: Okay, so I found ALDI at 2 0 9 0 4 Frederick Road, Germantown, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Thank you.
+AGENT: Your dropoff address has been verified, Tawana.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when
+CALLER: Noun.
+AGENT: I didn't quite catch that. Could you please tell me what time you'd like to be picked up? <emotion value="hesitant"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time set for today at 11:50 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+AGENT: Take your
+CALLER: One
+AGENT: Thank you. Will you be needing a wheelchair accessible vehicle? <emotion
+CALLER: one No.
+AGENT: Okay, no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 25 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 11:50 AM. Your confirmation number is 2 1 3 6 7 6 9 4 4. Is there anything else I can help you with?
+CALLER: Yes. I wanna put in a open trip to go to from all these to thirteen six ten Little Seneca Parkway in burg.
+AGENT: I want to make sure I understand correctly. You want to schedule a trip to 1 3 6 1 0 Little Seneca Parkway in Germantown, Maryland? Is that right?
+CALLER: And Clarksburg, Clarksburg, Maryland.
+AGENT: Thank you for clarifying. So you want a trip to 1 3 6 1 0 Little Seneca Parkway
+CALLER: I wanna open trip.
+AGENT: Thank you. I'll start arranging an open trip for you to 1 3 6 1 0 Little Seneca Parkway in Clarksburg, Maryland. Please hold on a moment while I process that.
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: Take your time. Just let me know when you're ready.

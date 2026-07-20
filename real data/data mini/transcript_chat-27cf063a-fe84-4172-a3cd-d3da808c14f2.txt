@@ -1,0 +1,16 @@
+AGENT: Hello Kiranben, this is Ana from Barwood & Regency. Your pickup is scheduled for today at 12:30 PM. How can I assist you today?
+CALLER: Hello?
+AGENT: How can I assist you with your ride today?
+CALLER: Yes.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: I mean, I think mid 12:00. Right?
+AGENT: Could you please tell me what you would like to do around 12:00? Are you looking to book a ride, check a trip status, or something else?
+CALLER: Yes.
+AGENT: Looks like you already have trips from Mount Airy to Damascus at today 12:30 pm, from Damascus to Mount Airy at July 6th 9:30 am, and 7 more. What would you like to do?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Alright.
+AGENT: Status, cancel, change, a new trip, or something else?
+CALLER: Twelve. 12:00 media. Okay? Mounted to the mess.
+AGENT: It sounds like you want a ride around 12:00 pm from Mount Airy to Damascus. Is that correct?
+CALLER: Yes. Got it.
+AGENT: Since you already have a trip scheduled from Mount Airy to Damascus at 12:30 pm today, would you like to modify that trip, book a new one, or check the status of your existing trips?

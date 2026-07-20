@@ -1,0 +1,25 @@
+AGENT: Hello Inna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I need the toxin. Right now.
+AGENT: Uhh, just to be sure, did you mean you need a taxi ride right now? If so, I can help get that arranged for you.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I do
+AGENT: Could you please tell me which payment method you would like to use? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: colon right.
+AGENT: Just to confirm, did you mean Call and Ride as your payment method? <emotion value="hesitant"/>
+CALLER: Yes. The correct.
+AGENT: Okay so I've got that payment noted. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three one eight eight one three
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: Pickup. Fourteen four zero. One Travila Garden Circle.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Uh, I am sorry, but I could not locate fourteen four zero one Travila Garden Circle. Could you please provide the street number again or a nearby landmark? <emotion value="apologetic"/>
+AGENT: Could you please confirm the pickup address again? You mentioned fourteen four zero one Travila Garden Circle. Is that correct? <emotion value="peaceful"/>
+CALLER: What correct.
+AGENT: Uh, I am sorry, but I could not locate fourteen four zero one Travila Garden Circle. Could you please provide the street number again or a nearby landmark? <emotion value="apologetic"/>
+CALLER: Please agent. Agent. Give me agent.
+AGENT: I can help you confirm that pickup address right now — shall we continue?
+CALLER: Continue 14401 Tradila Garden Circle.
+AGENT: Okay, so I found 1 4 4 0 1 Traville Gardens Circle, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Got it. Correct.
+AGENT: I'm sorry, but the location "toxin" appears to be outside our service area. Could you please provide a different dropoff address? <emotion value="apologetic"/>

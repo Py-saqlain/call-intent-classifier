@@ -1,0 +1,18 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Mary?
+CALLER: Yeah.
+AGENT: Thanks, Mary. This is
+CALLER: What's the address here?
+AGENT: Your home address on file is 1 8 2 0 5 Lost Knife Circle, Gaithersburg, Maryland. Is that the address you want to use for pickup
+CALLER: Last
+AGENT: Could you please clarify what you mean by "Last"? Are you referring to your last pickup address or something else?
+CALLER: Need to have need to have a cab come to 962 last night drive Whose the address? 96 to lost my truck?
+AGENT: Just to confirm, did you mean 9 6 2 Lost Knife Circle for your pickup address?
+CALLER: Okay.
+AGENT: Thanks for
+CALLER: No. Five six two North Frederick.
+AGENT: Thanks for clarifying your pickup address as 5 6 2 North Frederick. Now, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Yeah. Cash.
+AGENT: Thank you, cash it is.
+AGENT: I have the pickup address as one eight two zero five Lost Knife Circle, Gaithersburg, Maryland. Is that correct?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: What? Oh, well, let's go Hold on a second.

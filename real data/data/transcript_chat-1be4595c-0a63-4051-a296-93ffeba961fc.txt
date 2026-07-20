@@ -1,0 +1,37 @@
+AGENT: Hello Lavonia, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: How are doing today? Can you connect can I get someone to come over to Wheaton, Maryland? The shopping mall at Wheaton.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: You do cash? Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? Where should the driver come to pick you up? <emotion value="peaceful"/>
+CALLER: What's the address again? Your address? What's your address?
+AGENT: I’m here to help you with your ride, but I don’t have a physical address. Could you please tell me where you would like the driver to pick you up from? For example, your home address or another location. <emotion value="peaceful"/>
+CALLER: Okay. Okay. 2002009 Hickory Hill Lane,
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found the pickup address as two zero zero nine Hickory Hill Lane, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: I found a few locations for the shopping mall at Wheaton, Maryland. 
+Option one: 7101 Democracy Boulevard, Bethesda. 
+Option two: Georgia Avenue and Shorefield Road, Wheaton. 
+Option three: 2774 to 2798 University Boulevard West, Silver Spring. 
+Option four: 11160 Veirs Mill Road, Wheaton. 
+Option five: 10901 Georgia Avenue, Wheaton. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Option four. Option four.
+AGENT: Your dropoff address has been verified. Thank you, Lavonia.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Hello? One second. The pickup address is the mall on the drop off address is Hickory Lane.
+AGENT: Sure, let me update that address.
+AGENT: I found Westfield Wheaton at 11160 Veirs Mill Road, Wheaton, Maryland for your pickup. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: It looks like the pickup and dropoff addresses are the same. Could you please provide a different pickup address? <emotion value="apologetic"/>
+CALLER: I wanna change the drop off address.
+AGENT: Sure, I can help with that. Please tell me the new dropoff address you'd like to use. <emotion value="peaceful"/>
+CALLER: Two zero zero nine Hickory Lane, Hill. Silver Spring, Maryland.
+AGENT: Okay, so I found the dropoff address as two zero zero nine Hickory Hill Lane, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Okay, so I found the dropoff address as two zero zero nine Hickory Hill Lane, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: It seems the dropoff address is the same as the pickup address. Could you please provide a different dropoff address? <emotion value="apologetic"/>
+CALLER: What is the pickup address?

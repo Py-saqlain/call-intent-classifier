@@ -1,0 +1,13 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Kenneth Brooks?
+CALLER: Yeah.
+AGENT: Thanks for confirming, Kenneth. This is Barwood & Regency. How can I assist you today?
+CALLER: Speaking of agent,
+AGENT: I’m here to help you. What can I assist you with regarding an agent?
+CALLER: Speak with agent. Hey. Hey. What's up? Cheating off. In the computer room. You know where the computer room at? Hell. But I'm not Crazy idea.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: She got a bit on the pool to get
+AGENT: Could you please tell me a bit more about what you need help with? That way I can assist you better or connect you to the right person.
+CALLER: Hello?
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: Speak with agent.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

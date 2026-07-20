@@ -1,0 +1,49 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Gloria Sullivan?
+CALLER: Hi. No.
+AGENT: Thank you for letting me know. May I ask who I’m speaking with, please? If you’d like, I can also share the names I have on this number.
+CALLER: Great. That's in low. Grape Latino.
+AGENT: I don’t see a profile under the name Grape Latino. We can set one up when you book a trip. Would you like help with that?
+CALLER: Yeah.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride
+AGENT: Okay, just to confirm, you said Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Thank you. Could you please say the last six digits of your
+CALLER: Three four nine six nine three.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 14510. Holmcrest Road. Silver Spring, Maryland two zero nine zero six.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 1 4 5 1 0 Homecrest Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Could you please provide the dropoff address? <emotion value="peaceful"/>
+CALLER: Five five zero zero Noel North Drive.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found
+CALLER: Columbia two one zero four five.
+AGENT: Okay, so I found 5 5 0 0 Knoll North Drive, Columbia, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: What time? Ten? 10:00.
+AGENT: Just to make sure I get this right, did you mean 10:00 AM or 10:00 PM for your pickup time? <emotion value="peaceful"/>
+CALLER: 10AM.
+AGENT: Okay great! I've got your pickup time as today at 10:00 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One one No. No wheelchair.
+AGENT: Thanks for that. I've noted 1 passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No. Pickup at the front door, drop off at the front door. And return.
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. I've also noted your instructions to pick up and drop off at the front door. Do you have any other special instructions for the driver? <emotion value="peaceful"/>
+AGENT: Alright, so let me confirm those details. Your
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 10:00 AM. Your confirmation number is 2 1 3 6 7 0 4 8 8. Is there anything else I can help you with?
+CALLER: Can you repeat the confirmation number?
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 0 4 8 8. Is there anything else I can assist you with?
+CALLER: Return.
+AGENT: I'll get started on arranging your return trip now. Please hold on for a moment.
+AGENT: I want to make sure I have the right information for your return trip. Could you please tell me your name again?
+CALLER: Grace. Woah. L a t I n w o. First name, Grace.
+AGENT: Thanks, Grace. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Return trip
+AGENT: Hmm, let me check on your return trip details. Uhh, it looks like I need to verify your profile first to access that information. Let me connect you with a representative who can help right away.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

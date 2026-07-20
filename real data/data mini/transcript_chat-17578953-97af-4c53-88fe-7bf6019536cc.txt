@@ -1,0 +1,9 @@
+AGENT: Hello Abraham, this is Ana from Barwood & Regency. I see you have a will-call trip scheduled today from 1 4 9 9 5 Shady Grove Road in Rockville to 1 7 4 0 1 Amity Drive in Gaithersburg. How can I assist you today?
+CALLER: I want the return round trip to back in my home. Please
+AGENT: I understand you want the return trip to be back to your home at 1 7 4 0 1 Amity Drive, Gaithersburg, Maryland. Could you please confirm if that's correct? Also, do you want to book a round trip now, and if so, could you provide the
+CALLER: Yes. Yes. Yes. The current I run the round trip. Please.
+AGENT: You already have a trip from Rockville to Gaithersburg scheduled for today as a will-call. What would you like to do next?
+CALLER: I want round trip by Gong.
+AGENT: Could you please clarify what you mean by "round trip by Gong"? Are you referring to a specific pickup location or something else?
+CALLER: Same location. Same location. That said before.
+AGENT: I'm connecting you now to a customer service representative who can assist you further. Please stay on the line.

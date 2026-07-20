@@ -1,0 +1,48 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Kia.
+AGENT: Thanks, Kia. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a cab at North MedStar emergency
+AGENT: Alright, Kia, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Thank you, Kia. Could you please tell me the pickup address for your ride?
+CALLER: The main entrance.
+AGENT: Thank you, Kia. Could you please provide the street address or the location near the main entrance where the driver should pick you up?
+CALLER: Prince William.
+AGENT: Hmm <break time="350ms"/> let me check that address. I want to make sure I get it right for you. Could you please provide a street number or more specific location in Prince William for your pickup?
+CALLER: 1st William Drive. Oh my god.
+AGENT: No worries, Kia. Just to confirm, is your pickup address 1 1 William Drive in Prince William, Virginia? <emotion value="peaceful"/>
+CALLER: No. What is that?
+AGENT: Sorry about that, Kia. Let me make sure I got it right. You said 1st William Drive in Prince William. Could you please confirm the exact street number and spelling of the street name again? <emotion value="apologetic"/>
+CALLER: I said med star health
+AGENT: I found a few MedStar Health locations. 
+Option one: 1 2 1 1 1 Darnestown Road, Gaithersburg, Maryland. 
+Option two: 2 9 0 1 Olney Sandy Spring Road, Olney, Maryland. 
+Option three: 1 8 1 0 1 Prince Philip Drive, Olney, Maryland. 
+Which one would you like?
+CALLER: Option three. Option three.
+AGENT: Your pickup address has been verified. Now, let me find the North MedStar emergency location for your dropoff.
+AGENT: I found a few North MedStar emergency locations. 
+Option one: 5 0 1 North Frederick Avenue, Gaithersburg, Maryland. 
+Option two: 8 8 2 Muddy Branch Road, Gaithersburg, Maryland. 
+Option three: 1 2 1 1 1 Darnestown Road, Gaithersburg, Maryland. 
+Option four: 1 8 1 0 1 Prince Philip Drive, Olney, Maryland. 
+Which one would you like?
+CALLER: Opt in for Opt in four.
+AGENT: Your dropoff address has been verified, Kia. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: As soon as possible.
+AGENT: Okay, Kia, I've scheduled your pickup for today as soon as possible. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Thanks for that. Will you be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. One passenger.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: Correct.
+AGENT: Alright, the estimated fare is 5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: This is my pickup spot.
+AGENT: Thanks for letting me know. Just to confirm, is this the pickup location for your main trip, or are you referring to the return trip? <emotion value="peaceful"/>
+CALLER: Yes. This is my pickup.
+AGENT: Got it, thanks for confirming your pickup location. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Great! I'll start collecting the details for your return trip now. <emotion value="peaceful"/>
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>

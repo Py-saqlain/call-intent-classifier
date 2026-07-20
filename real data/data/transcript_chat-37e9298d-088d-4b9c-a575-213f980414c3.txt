@@ -1,0 +1,23 @@
+AGENT: Hi John, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to make I have reservations for a cab tomorrow coming by my house at one one five two three. Fourth Avenue Silver Spring, and it's a 8807 Colesville Road. Silver Spring. Have it come by my house at 09:10AM. I'll call at 08:40AM tomorrow. Sure. Get certified. 09:10AM. And then I'll get return trip from eight years, seven calls for a road to the swing. To 11533. 1 Avenue Silver Spring is to reach return trip.
+AGENT: Looks like you already have trips from 11523 Georgia Avenue to 8807 Colesville Road at tomorrow 9:10 am, and back at 12:00 pm. What would you like to do? <emotion value="grateful"/>
+CALLER: I would like to cash the cab. To leaving my house at 11523 George Avenue, Silver Spring headed to 880712 Road, Silver Spring. I had to come by my house at 09:10. I'll call at 08:40AM and make sure it's available nearby. 09:10.
+AGENT: I see two trips on your account.  
+ Trip one: pickup at 11523 Georgia Avenue at 9:10 am going to 8807 Colesville Road in Silver Spring.  
+ Trip two: pickup at 8807 Colesville Road at 12:00 pm going back to 11523 Georgia Avenue in Silver Spring.  
+Which one would you like to cancel? <emotion value="hesitant"/>
+CALLER: I'm not very canceled.
+AGENT: Hmm <break time="300ms"/> let me pull that up for you.
+AGENT: I see two trips on your account.  
+ Trip one: pickup at 11523 Georgia Avenue at 9:10 am going to 8807 Colesville Road in Silver Spring.  
+ Trip two: pickup at 8807 Colesville Road at 12:00 pm going back to 11523 Georgia Avenue in Silver Spring.  
+Which one would you like to cancel? <emotion value="hesitant"/>
+CALLER: I will keep both the appointments. Don't cancel.
+AGENT: Alright, I will keep both trips as they are. Is there anything else I can assist you with? <emotion value="grateful"/>
+CALLER: Yeah. Before I let you go, I'll have thirty seconds. You'll you'll be by my house at 09:10AM tomorrow on Friday the tenth at at 09:10AM. I'll call at 08:40AM to make sure that the guy here by nine. Ten AM. And the return trip is from 88 Of 7 Colesville Road, so we're fine. To 11523 Gordon Avenue, Silver Spring. By twelve noon,
+AGENT: Your pickup tomorrow at 9:10 am from your house at 1 1 5 2 3 Georgia Avenue is scheduled, and your return trip from 8 8 0 7 Colesville Road to 1 1 5 2 3 Georgia Avenue is set for 12:00 pm. You can call at 8:40 am to check on the driver. Anything else? <emotion value="peaceful"/>
+AGENT: Looks like you already have trips from 11523 Georgia Avenue to 8807 Colesville Road at tomorrow 9:10 am, and back at 12:00 pm. What would you like to do? <emotion value="grateful"/>
+CALLER: Yeah. That's it. See the cab drive I'll call the cab driver and then
+AGENT: Uhh <break time="300ms"/> I can't contact the driver directly, but customer support can help you with that. Let me connect you to a representative now. <emotion value="sympathetic"/>
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Oh, hold on. Okay? Hold on. Hello? Hi.

@@ -1,0 +1,47 @@
+AGENT: Hello Maynuna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to book a ride No. I'm not gonna walk. I don't feel like walking.
+AGENT: I understand you need a ride and don't want to walk. How would you like to pay for your trip today? We accept cash, credit card, and Call and Ride.
+CALLER: Yeah. I'm fine.
+AGENT: Could you please let me know which payment method you'd like to use for your ride? Cash, credit card, or Call and Ride?
+CALLER: Caller nine.
+AGENT: Just to make sure, did you mean Call and Ride as your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three two five one six four.
+AGENT: Thank you, your payment method is set as Call and Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: One five six zero eight Marathon Circle.
+AGENT: I have 1 5 6 0 8 Marathon Circle, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 323 Copeley Place.
+AGENT: I have 3 2 3 Copley Place, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Okay. I think it goes on the floor. Yes.
+AGENT: Your dropoff address has been verified, Maynuna.
+AGENT: We have noted that you need one wheelchair and that you cannot walk. Is this information correct? Please say yes to confirm or let me know if any changes are needed.
+CALLER: No. No. No wheelchair.
+AGENT: Thank you for the correction. You do not need a wheelchair, and we have noted that you cannot walk. When would you like to be picked up?
+CALLER: I can walk Oh my god. Now
+AGENT: I have set your pickup time as now and noted that you can walk. How many passengers will be traveling, including yourself? Also, please let me know if anyone will need a wheelchair-accessible vehicle.
+CALLER: One.
+AGENT: The estimated fare for your trip is 6.5 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: Great, I will start collecting the details for your return trip now.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Don't know.
+AGENT: Since you are not sure about the return trip pickup time, I have recorded it as a will-call trip. Now, how many passengers will be traveling on the return trip, including yourself? Also, please let me know if anyone will need a wheelchair-accessible vehicle.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: What do you want? Hello?
+AGENT: I am here to help you with your return trip details. Could you please tell me how many passengers will be traveling on the return trip, including yourself? Also, will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Thank you. Will anyone need a wheelchair-accessible vehicle for the return trip?
+CALLER: No.
+AGENT: For your return trip, I have the pickup address as 3 2 3 Copley Place, Gaithersburg, Maryland, and the dropoff address as 1 5 6 0 8 Marathon Circle, Gaithersburg, Maryland. Is that correct?
+CALLER: Yeah.
+AGENT: The estimated fare for your return trip is 6.5 dollars, paying with your Call and Ride account. Should I go ahead and book both trips?
+CALLER: Yes.
+AGENT: Booking your trips now.
+AGENT: I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 2:11 PM with confirmation number 2 1 3 6 6 9 5 6 0. Your return trip is a will-call booking with confirmation number 2 1 3 6 6 9 5 6 1. You can call back when you're ready for the return trip, and a driver will be sent then. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Maynuna. Have a wonderful day!

@@ -1,0 +1,13 @@
+AGENT: Hello Nancy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm just confirming my reservation for a ride tomorrow at 6AM at 15 Oxford Street going to Reagan Airport.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Tomorrow morning at 6AM. Just confirming.
+AGENT: Alright, let me check on that reservation for you right now.
+AGENT: Looks like you already have a trip from Chevy Chase to Arlington at tomorrow 6 AM. What would you like to do?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Nope.
+AGENT: Status, cancel, change, a new trip, or something else?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: You're blooping out. I can't hear you. Could I speak to an agent?
+AGENT: I can help with your reservation details — would you like to continue with me?
+CALLER: Yeah.

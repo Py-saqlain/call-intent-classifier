@@ -1,0 +1,11 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Call out for. Store or call out.
+AGENT: I'm sorry, I didn't quite catch your name. Could you please tell me your name so I can assist you with your ride?
+CALLER: Stuart
+AGENT: Thanks, Stuart. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Call out
+AGENT: Uhh, could you please clarify what you mean by "call out"? Are you looking to book a ride, or do you need assistance with something else? <emotion value="hesitant"/>
+CALLER: This is a ride for Stuart. Stewart needs to be called out.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Customer service.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

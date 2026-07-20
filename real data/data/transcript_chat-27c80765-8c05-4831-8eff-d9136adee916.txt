@@ -1,0 +1,34 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Unknown?
+CALLER: No. You're speaking with miss Panda.
+AGENT: Thanks, Ethel. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I want a pickup.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I'm calling for my friend. She need a cab. What Pickup address one three one. Cash.
+AGENT: Okay so I've got that payment noted as cash.
+CALLER: Correct.
+AGENT: Okay, so I found your pickup location as 1 3 1 6 Fenwick Lane, Silver Spring, Maryland. Is that correct?
+AGENT: I found a few locations for 131. 
+ Option one: 131 Centerway, Greenbelt, Maryland. 
+ Option two: 131 Klee Alley, Silver Spring, Maryland. 
+ Option three: 131 Park Drive, Catonsville, Maryland. 
+ Which one is correct? <emotion value="hesitant"/>
+CALLER: I go to the social security office. On New Hampshire Avenue.
+AGENT: Thank you. Could you please provide the street number for the Social Security Office on New Hampshire Avenue?
+CALLER: I don't know the number about the social Security office. Is on New Hampshire Avenue.
+AGENT: Hmm <break time="350ms"/> let me check that address. I will look for the Social Security Office on New Hampshire Avenue nearby.
+AGENT: I found the Social Security Administration at 1 0 2 3 0 New Hampshire Avenue, Silver Spring, Maryland. Is that the correct destination?
+CALLER: Yes. Yes.
+AGENT: Your pickup and dropoff addresses have been verified, Ethel.
+AGENT: When would your friend like to be picked up? <emotion value="peaceful"/>
+CALLER: No. No. If they can. She's called. P a r a l, Paral. She's downstairs waiting.
+AGENT: When would your friend like to be picked up? <emotion value="peaceful"/>
+CALLER: Now now right now if they can do it right now.
+AGENT: Okay, I've got the pickup time as today at 9:13 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including your friend? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Call it Call it. 1. 1. One No. No. No.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 21 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+CALLER: Thank you.
+AGENT: Your main trip is scheduled for today at 9:13 AM. Your confirmation number is 2 1 3 6 7 5 5 3 4. Is there anything else I can help you with?

@@ -1,0 +1,41 @@
+AGENT: Hello Marilyn, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I I needed
+AGENT: Uhh, I didn't quite catch that. How can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: I need a taxi.
+AGENT: Alright, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Taxi
+AGENT: Hmmm.. that didn't seem quite like a payment method. Could you please tell me how you'd like to pay? We accept cash, credit card, or Call and Ride. <emotion value="apologetic"/>
+CALLER: Cash. Yes.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your taxi? If you'd like, I can use your home address at one four five one zero Homecrest Road, Aspen Hill, Maryland. Would that work for you? <emotion value="peaceful"/>
+AGENT: Could you please tell me the pickup address for your taxi? If you'd like, I can use your home address at one four five one zero Homecrest Road, Aspen Hill, Maryland. Would that work for you? <emotion value="peaceful"/>
+CALLER: 3801 International Drive,
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 3 8 0 1 International Drive, Silver Spring, Maryland as your pickup address. Is that correct? <emotion value="peaceful"/>
+CALLER: Silver Spring.
+AGENT: Thank you for confirming. I will now verify your pickup address.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One four five one zero Homecrest Road. Aspen Hill.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 1 4 5 1 0 Homecrest Road, Aspen Hill, Maryland as your dropoff address. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Marilyn.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Just to clarify, did you mean you want to be picked up right now, or would you prefer to call back later when you're ready? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Now.
+AGENT: Okay great! I've got your pickup time as now, today at 1:35 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One person no wheelchair. Suzanne.
+AGENT: The estimated fare is 9.5 dollars, paying with self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so <break time="250ms"/> I'm booking your trip now.
+AGENT: Your trip is booked for today at 1:35 PM. Your confirmation number is 2 1 3 6 7 5 8 7 3. Is there anything else I can help you with?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+CALLER: Yes. Yes.
+AGENT: Great! Your trip is booked for today at 1:35 PM. Your confirmation number is 2 1 3 6 7 5 8 7 3. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Marilyn. Have a wonderful day.

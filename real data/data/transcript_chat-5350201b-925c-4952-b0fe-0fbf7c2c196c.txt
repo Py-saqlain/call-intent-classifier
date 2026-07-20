@@ -1,0 +1,54 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Sanusi Bong?
+CALLER: Yeah.
+AGENT: Thanks for confirming, Sanusi. This is Barwood & Regency. How can I assist you today?
+CALLER: I need to have a special order a taxi. Wheelchair taxi, with a taxi number 1159 request.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and write.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay so I've got that payment noted. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yes. 351764.
+AGENT: Thank you, your payment method is set as Call And Ride.
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 16709 Shear Lane.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found that location: 1 6 7 0 9 Shea Lane, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the dropoff address? <emotion value="peaceful"/>
+CALLER: Nine nine zero nine Medical Center.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found that location: 9 9 0 9 Medical Center Drive, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: We have noted that you need a wheelchair-accessible taxi and the note "wheelchair taxi." Is that correct? Please say yes to confirm. <emotion value="peaceful"/>
+CALLER: And I need wheelchair taxi number 1159.
+AGENT: Thank you for that detail about the taxi number. For now, let's confirm the wheelchair and note information first. Is it correct that you need one wheelchair and the note "wheelchair taxi"? Please say yes to confirm. <emotion value="peaceful"/>
+CALLER: Wheelchair, taxi
+AGENT: Okay great! I've got that noted. When would you like to be picked up? <emotion value="grateful"/>
+CALLER: Ten thirty.
+AGENT: Just to confirm, did you mean 10:30 AM or 10:30 PM for your pickup time? <emotion value="hesitant"/>
+CALLER: 1020.
+AGENT: Hmm, sorry, let me get that right. Did you mean 10:20 AM or 10:20 PM for your pickup time? <emotion value="apologetic"/>
+CALLER: 10:20AM.
+AGENT: Okay great! I've got your pickup time as today at 10:20 AM. How many passengers will be traveling, including yourself? <emotion value="grateful"/>
+CALLER: Three
+AGENT: Alright, so let me confirm those details. Your pickup is 1 6 7 0 9 Shea Lane. Your dropoff is 9 9 0 9 Medical Center Drive. Pickup time is today at 10:20 AM. You have three passengers traveling, and you will be paying with your Call and Ride account. The estimated fare is 12.5 dollars. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, great! I'll start collecting the details for your return trip now. <emotion value="peaceful"/>
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Twelve. None.
+AGENT: Okay great! I've got your return trip pickup time as today at 12:00 PM and no wheelchairs needed. How many passengers will be traveling on the return trip? <emotion value="grateful"/>
+CALLER: Three.
+AGENT: Got it. Just to confirm, for your return trip, the pickup will be at 9 9 0 9 Medical Center Drive, Rockville, Maryland, and the dropoff will be at 1 6 7 0 9 Shea Lane, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 14.5 dollars, paying with your Call and Ride account. Should I go ahead and book both your main trip and return trip? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I'm booking both your main trip and return trip now. <emotion value="grateful"/>
+AGENT: I'm processing your booking for both the main trip and the return trip now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 10:20 AM with confirmation number 2 1 3 6 7 0 4 8 0. Your return trip is scheduled for today at 12:00 PM with confirmation number 2 1 3 6 7 0 4 8 1. Is there anything else I can help you with?
+CALLER: Yes.
+AGENT: What else can I assist you with today?
+CALLER: I need request taxi number one one five nine.
+AGENT: I'll connect you to a representative who can assist with your taxi number request. Please hold for a moment.
+CALLER: Thank you.
+AGENT: Thank you for calling Barwood & Regency, Sanusi. Have a wonderful day!

@@ -1,0 +1,9 @@
+AGENT: Hello Dickerson, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes. I am.
+AGENT: Okay, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Because I've already spoken to the the driver. Okay? And he told me to call. So it's a wheelchair in a driver already knows exactly where to to pick me up at. Okay?
+AGENT: It looks like you don't have an active trip scheduled right now. Would you like me to help you book a ride? <emotion value="peaceful"/>
+CALLER: Hello? No. Excuse me. I'm trying to tell you Okay? Hello? Hello? Hello? Oh, boy. Hello?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Yeah.

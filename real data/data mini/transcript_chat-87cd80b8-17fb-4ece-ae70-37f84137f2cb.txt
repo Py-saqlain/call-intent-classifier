@@ -1,0 +1,20 @@
+CALLER: Let's see. I could
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Clarice Hairston?
+CALLER: Got it.
+AGENT: Thanks for confirming, Clarice. This is Barwood & Regency. How can I assist you today?
+CALLER: Okay. We need the cab sent to five six two South Frederick Avenue. Gaithersburg, Maryland.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credicorp,
+AGENT: Okay so I've got credit card noted. Let me process that for you now. <emotion value="peaceful"/>
+AGENT: Okay so I've got that
+AGENT: Okay, so your pickup address is 5 6 2 South Frederick Avenue, Gaithersburg, Maryland.
+CALLER: When the cab driver comes, he's gonna have to come on the west
+AGENT: I understand you want the cab driver to come on the west side. Just to confirm, is the pickup address 5 6
+CALLER: On the west, Deer South West Deer Park Road. Size.
+AGENT: Uh, I am
+CALLER: West Deer Park Road South
+AGENT: Uh, I am sorry, but could you please repeat the full pickup address including the house number and street name?
+CALLER: Okay.
+AGENT: Could you please provide the full pickup address
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: I need those tabs sent to five six two South need a cash sent to five six two dot

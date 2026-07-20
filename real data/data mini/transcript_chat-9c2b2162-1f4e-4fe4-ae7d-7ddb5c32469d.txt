@@ -1,0 +1,20 @@
+AGENT: Hi Wendy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like to I need a cap.
+AGENT: I can help you with that. Could you please tell me the pickup location for your cab?
+CALLER: Two tasks to court. Rockville.
+AGENT: Thank you for sharing your pickup and dropoff locations. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Colin Wright.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three three five seven.
+AGENT: I noticed you provided only four digits for your Call and Ride card. Could you please provide the full last six digits?
+CALLER: Three three five seven five nine.
+AGENT: Thank you, your payment method is set to Call And Ride. I will proceed with your booking now.
+AGENT: Could you please provide the pickup address for your trip?
+CALLER: Two test court, rough bill.
+AGENT: I have the pickup address as 2 Taft Court, Rockville, Maryland. Is that correct? Please say yes if it is right.
+CALLER: Yeah.
+CALLER: Yeah. Yes. Yes.
+AGENT: I found several courts in Rockville: Courthouse Center at 12 N Washington Street, 6th District Court Civil Department at 27 Courthouse Square, Montgomery County Courthouse at 27 Courthouse Square, Montgomery County District Court at 27 Courthouse Square, and Red Brick Courthouse at 29 Courthouse Square. Which one would you like to go to?
+AGENT: I found several courts in Rockville: Courthouse Center at 12 N Washington Street, 6th District Court Civil Department at 27 Courthouse Square, Montgomery County Courthouse at 27 Courthouse Square, Montgomery County District Court at 27 Courthouse Square, and Red Brick Courthouse at 29 Courthouse Square. Which one would you like to go to?

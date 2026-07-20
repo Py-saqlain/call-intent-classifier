@@ -1,0 +1,42 @@
+AGENT: Hello Annecar, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Uh, I wanted to to get a cab to go to West I think it's called Westfield or either Wheaton Mall. Georgia Avenue.
+AGENT: Thanks for sharing your destination. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Okay. It'll be cash.
+AGENT: Thank you, cash it is. I'll proceed with that for your ride.
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: Okay.
+AGENT: Could you please tell me the address or location where you would like to be picked up?
+CALLER: $13.15.
+AGENT: I didn't catch the pickup address. Could you please tell me where you'd like the cab to pick you up?
+CALLER: You can't can you hear me?
+AGENT: Yes, I can hear you. Could you please tell me the address or location where you would like to be picked up?
+CALLER: Can you hear me? Hi. Thirteen fifteen, Apple Avenue,
+CALLER: Silver Spring, Maryland
+AGENT: Just to confirm, your pickup address is one three one five Apple Avenue, Silver Spring, Maryland. Is that correct?
+AGENT: I have 1 3 1 5 Apple Avenue, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: yes Yes.
+AGENT: I found a few locations matching your destination: Wheaton Plaza at 2774-2798 University Boulevard West in Silver Spring, Westfield Wheaton at 11160 Veirs Mill Road in Wheaton, and 10901 Georgia Avenue in Wheaton. Which one would you like to go to?
+CALLER: Either one doesn't matter.
+AGENT: Since either location works for you, I'll go ahead and select Westfield Wheaton at 11160 Veirs Mill Road, Wheaton, Maryland for your dropoff. Is that okay?
+CALLER: Yes Okay.
+AGENT: Your dropoff address has been verified. Thank you, Annecar. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: Yes. That's fine.
+AGENT: Could you please tell me the specific time you would like to be picked up?
+CALLER: I'm ready now.
+AGENT: Thank you. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just no, honey. It's just me.
+AGENT: Got it, one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No. I don't. Oh, one of your tabs was just here. He let somebody out so I can
+AGENT: Annecar, the estimated fare for your trip is 14 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: he just pulled off. Okay.
+AGENT: Would you like me to set up a return trip for you now, or just book this one-way trip?
+CALLER: No. Uh, no. I don't because I know I'm gonna be in there for a little while.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 10:16 AM. Your confirmation number is 2 1 3 6 7 9 2 7 7. Is there anything else I can help you with?
+CALLER: In there for a while.
+AGENT: Understood. If you need to book a return trip later, just give us a call. Is there anything else I can assist you with right now?
+CALLER: No. That'll be it. Okay.
+CALLER: I appreciate your help.
+AGENT: Thank you for calling Barwood & Regency, Annecar. Have a wonderful day!
+CALLER: Mhmm. Alright. Thank you. You too.

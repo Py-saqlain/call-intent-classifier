@@ -1,0 +1,38 @@
+AGENT: Hello JANICIA, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like to have a appointment now.
+AGENT: Just to be sure, are you looking to book a ride for an appointment right now? If so, could you please tell me the
+CALLER: Yes. Yeah.
+CALLER: Hello?
+AGENT: Hello! How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Card.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: This is the CVS the giant Connecticut Avenue.
+AGENT: I found a few locations that might match your
+CALLER: What is the address?
+AGENT: Here are the addresses I found for CVS or Giant on Connecticut
+CALLER: Oh,
+CALLER: yeah. Giant. Giant Connecticut Avenue.
+AGENT: The Giant Pharmacy is located at 1 3 7 8 1 Connecticut Avenue in Silver Spring, Maryland. Is that the correct pickup location?
+CALLER: Wait a minute. I'm looking for your number.
+AGENT: Take your time. Just let me know when you're ready with the pickup address.
+CALLER: What is the number here? Hello? Do you have an address of your Address.
+AGENT: Yes, I have the address for the Giant Pharmacy on Connecticut Avenue
+CALLER: The address?
+AGENT: The address for the Giant Pharmacy is 1 3 7 8 1 Connecticut Avenue, Silver Spring, Maryland. Would you like me to use this as your pickup location?
+CALLER: Yes Yeah.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: One four five zero eight. Homecrest. Road.
+AGENT: Just to confirm, is your dropoff address 1 4 5 0 8 Homecrest Road?
+CALLER: Yes.
+AGENT: I have 1 4 5 0 8 Homecrest Road, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Janicia.
+AGENT: You mentioned you want to be picked up now for your appointment. Is that correct? Please say yes to confirm or no to correct.
+CALLER: Yes. Yes.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Okay. Only myself.
+AGENT: Thank you. Will you have any special instructions or requests for the driver?
+CALLER: Just don't forget to pick me up now.
+AGENT: Janicia, the estimated fare for your trip is 9 dollars, paying with credit card. Would you like to schedule a return trip as well?
+CALLER: No. No.

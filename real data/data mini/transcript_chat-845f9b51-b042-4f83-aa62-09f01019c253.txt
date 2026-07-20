@@ -1,0 +1,15 @@
+AGENT: Hello Debra, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a ride.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Qualify. Call arrive.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great! Please go ahead and tell me the last six digits of your Call and Ride card when you're ready. <emotion value="peaceful"/>
+CALLER: Three four one five nine.
+AGENT: Hmmm.. that didn't seem quite right. Could you please provide exactly six digits from your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Three four one five
+AGENT: Hmmm.. that’s only four digits. Could you please provide all six digits from your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Agent,
+AGENT: I can help you with the payment details right now — want to keep going?
+CALLER: Agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

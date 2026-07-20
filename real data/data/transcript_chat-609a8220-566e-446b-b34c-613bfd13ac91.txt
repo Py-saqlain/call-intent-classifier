@@ -1,0 +1,61 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Thanks, I'm actually. Oh, okay. Well, am I seeing something? No? I know. Yeah. I'm talking. Don't.
+AGENT: I’m sorry, I didn’t quite catch your name. Could you please tell me your name again?
+CALLER: Okay. Fatima.
+AGENT: Thank you, Fatima. This is Ana from Barwood &
+CALLER: Last you want your last name? Okay.
+AGENT: If you’d like to provide your last name, I can note it down for you. Otherwise, we can continue without it. What would you prefer?
+CALLER: Okay. Continue with that one. Continue with that one.
+AGENT: Alright, Fatima. How can I assist you today with your ride or transportation needs?
+CALLER: Yeah. I think we'll learn now. Ten. Ten eight forty five.
+AGENT: Alright,
+CALLER: Lanham seven wooden twenty. Hello?
+AGENT: Hmmm.. that didn’t seem like a payment method. Alright, how would you like to pay for your ride? We accept cash, credit card, or Call and
+CALLER: Hello?
+AGENT: I’m here to help. When you’re ready, could you please tell me how you would like to pay?
+CALLER: Yeah. I think
+AGENT: Hmmm.. <break time="300ms"/> I didn’t quite catch your payment method. Could you please tell me if you’d like to pay with cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Thank you.
+AGENT: I’m here to help whenever you’re ready.
+CALLER: Six one zero zero Six one zero zero. Sergeant Road, Pottsville, Maryland. Two zero seven eight two.
+AGENT: Hmm <break time="350ms"/> let me check that address. You said six one zero zero Sergeant Road, Pottsville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Hyattsville at h y a t t s v I l l e. Habspero.
+AGENT: Uh, I am sorry, but could you please repeat the address? I want to make sure I get it right. <emotion value="apologetic"/>
+CALLER: Six one zero zero. Sergeant Road. Hartsville, Maryland. Two zero seven eight two.
+AGENT: Okay, so I found that location: 6 1 0 0 Sergeant Road, Hartsville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+CALLER: H y a t t s v I l n e. Aspenose.
+AGENT: Just to confirm, I found the pickup address as 6 1 0 0 Sargent Road, Chillum, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No, ma'am. I have will. I have will. H y a t t s. V I l l e.
+AGENT: Thank you for clarifying. Let me update the address to 6 1 0 0 Sargent Road, Hyattsville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I found the pickup address as 6 1 0 0 Sargent Road, Hyattsville, Maryland. Is that correct? <emotion
+CALLER: I will tell them
+AGENT: I’m sorry, I didn’t quite catch that. Could you please confirm if 6 1 0 0
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yes. The zippy stools Alright. The ZIP is ten eight forty five.
+AGENT: Uh, I am sorry, but could you please repeat the dropoff address? I want
+CALLER: I'm sorry. Could you please
+AGENT: Of course, take your time. Could you please tell me the dropoff address again when you’re ready? <emotion value="peaceful"/>
+CALLER: Yeah. That's what I'm trying to get again.
+AGENT: I understand. Could you please say the dropoff address slowly and clearly for me? I want to make sure I get it right. <emotion value="peaceful"/>
+CALLER: The address is ten eight four five Lanham seven, s e v e r n. Road. Glendale, Maryland, to zero seven six nine.
+AGENT: Hmm <break time="350ms"/> let me check that address. You said 1 0 8 4 5 Lanham Severn Road, Glendale, Maryland.
+CALLER: Two zero eight r
+AGENT: Uh, I am sorry, but could you please repeat the dropoff address?
+CALLER: S E V E R N. Six
+AGENT: Just to confirm, I found a few locations. <break time="700ms"/> Option one: 1 0 8 4 5 Lanham Severn Road, Glendale. <break time="500ms"/> Option two: 1 0 8 4 5 Lanham Severn Road, Severn. <break time="500ms"/> Which one is correct? <emotion value="hesitant"/>
+CALLER: One zero eight four five. Lanham seven Wood, Glendale. Megalam. Glendale. Megalam. G l e n d a l e.
+AGENT: Uh, I am sorry, but could you please repeat that dropoff address again? I want to make sure I get it right. <emotion value="apologetic"/>
+CALLER: Ten zero I mean, ten eight four five Lanham Seven Road,
+AGENT: Okay, so I found that location: 1 0 8 4 5 Lanham Seven Road, Glendale, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: nine six Yes.
+AGENT: I’m sorry, but I couldn’t locate 1 0 8 4 5 Lanham Seven Road, Glendale, Maryland. Could you please provide the full street address, city, and state again? <emotion value="apologetic"/>
+CALLER: Well, One zero eight four five. Lanham seven Road, l e n h e n l l e n h e m. Lanham. Seven is s e v e r n. Severn Road,
+AGENT: Uh, I am sorry, but could you please repeat the dropoff address? I want to make sure I get it right. <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

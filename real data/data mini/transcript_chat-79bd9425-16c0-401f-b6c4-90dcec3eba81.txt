@@ -1,0 +1,9 @@
+AGENT: Hi Lisa, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: The vehicle, engine. Engine. Engine. K.
+AGENT: I’m here to help whenever you’re ready. Is there something specific you’d like to arrange or ask about your ride?
+CALLER: Engine. Engine. Engine. Engine.
+AGENT: I’m here to assist you. Could you please tell me how I can help with your ride today?
+CALLER: Hey, Jay.
+AGENT: I’m here to help you with your ride. What can I do for you today?
+AGENT: Take your time. Just let me know when you're ready.

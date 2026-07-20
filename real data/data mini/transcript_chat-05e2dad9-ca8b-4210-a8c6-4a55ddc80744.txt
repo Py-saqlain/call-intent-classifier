@@ -1,0 +1,15 @@
+AGENT: Hi James, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I need a taxi.
+AGENT: Alright, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: Well,
+AGENT: Alright, take your time. When you're
+CALLER: I'm gonna I'm gonna I'm gonna give me a representative.
+CALLER: Community representatives.
+AGENT: I can help with your taxi booking — would you like to continue?
+CALLER: Okay. So what what do you need?
+AGENT: Could you please tell me where you would like to be picked up from?
+CALLER: 3429 South Leisure World Boulevard, The unit number is 88 Dash 2 E Silver Spring, Maryland.
+AGENT: Thank you for that address. Now, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Okay.
+AGENT: Alright, could you please tell me which payment method you'd like to use? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: Never mind.

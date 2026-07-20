@@ -1,0 +1,18 @@
+AGENT: Hello, Ahsaint. This is Ana from Barwood & Regency. Vehicle 1045 is on the way and should arrive in about 13 minutes, around 10:07. Also, you have a will-call trip scheduled today from 655 Watkins Mill Road in Gaithersburg to 9308 Willow Creek Drive in Montgomery Village. How can I assist you today?
+CALLER: Is on that It's my pickup is one eight two zero seven North Knife Circle,
+AGENT: Looks like you already have trips from Montgomery Village to Gaithersburg at 9:34 AM today, and a will-call trip from Gaithersburg to Montgomery Village. What would you like to do? <emotion value="grateful"/>
+CALLER: apartment one zero three, Gadensburg.
+AGENT: Could you please clarify if you want to update or add this as a pickup or dropoff address for one of your existing trips, or if you want to book a new trip?
+CALLER: I call from morning from 08:00. To go to the hospital. Is six five five watt kins Mill Road.
+AGENT: You still have trips scheduled from Montgomery Village to Gaithersburg at 9:34 AM today and a will-call trip back from Gaithersburg. What would you like to do next? <emotion value="grateful"/>
+AGENT: Take your time. Just let me know
+CALLER: I waiting for the pick me up. At last night circle. To go to Six five five Watson Mill Road, I'm going, dear. They're supposed to pick me up at last
+AGENT: Okay, so your driver is about 15 minutes away from 1 8 2 0 7 Lost Knife Circle, heading to 6 5 5 Watkins Mill Road. Anything else? <emotion value="content"/>
+CALLER: Yes. Yes.
+AGENT: Okay, so your driver in vehicle 1 0 4 5 is on the way and will arrive for pickup in about 13 minutes. Anything else? <emotion value="content"/>
+CALLER: Okay.
+AGENT: If you need any more help with your ride or anything else, just let me know.
+CALLER: Yeah. Because my my appointment is nine fifteen. And it's about 10:00 now. And I'm calling from 08:00, and I cannot get the tax rate.
+AGENT: Uhh I'm sorry about that. Let me connect you with a representative who can help right away. <emotion value="sympathetic"/>
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Yes.

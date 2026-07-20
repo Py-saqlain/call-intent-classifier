@@ -1,0 +1,49 @@
+AGENT: Hello Donna, this is Ana from Barwood & Regency. Your trip is scheduled for pickup today at 3:06 PM. How can I assist you today?
+CALLER: Just checking.
+AGENT: Uhh, how can I assist you today? Are you looking to book a ride, check on a trip, or something else? <emotion value="peaceful"/>
+CALLER: Check on a trip
+AGENT: Uhh <break time="300ms"/> your trip from 1301 Piccard Drive to 355 Martins Lane is running late right now. <emotion value="sympathetic"/> Let me connect you with
+CALLER: No.
+AGENT: Just to confirm, if you don't want to proceed with booking a trip right now, that means no trips will be booked. Is that correct? <emotion value="hesitant"/>
+CALLER: No.
+AGENT: Alright, since you don't want to cancel, let's get started with your ride booking. First, could you please tell me your pickup address? <emotion value="peaceful"/>
+AGENT: Could you please tell me your pickup address to start the booking? If you'd like,
+CALLER: One sweet 01 Carr Drive.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 1 0 1 Lake Drive, Sterling, Virginia. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: No. No. No.
+AGENT: Okay, I understand that is not correct. Could you please repeat the pickup address again? <emotion value="apologetic"/>
+CALLER: 1301.
+AGENT: Okay, so you said 1 3 0 1. To make
+CALLER: Checking on script.
+AGENT: Uh, I’m here to help with your ride. Could you please tell me the full pickup address including the street name and city? <emotion value="peaceful"/>
+CALLER: 1301 pick card.
+CALLER: Brock ville,
+AGENT: Okay, so you said 1 3 0 1 Piccard Drive, Rockville, Maryland. Let me check that address. <emotion value="peaceful"/>
+CALLER: Yeah. Yeah. Yeah. Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Three five five Martin's Lane Rock ville.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 3 5 5 Martins Lane, Rockville, Maryland. Is that the correct dropoff address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Donna.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: All am right.
+AGENT: Hmmm.. <break time="300ms"/> I didn't quite catch that. Did you mean cash, credit card, or Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Call and ride
+AGENT: Okay so <break time="300ms"/> you've chosen Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yeah. It is. Three two seven six four zero.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! <break time="200ms"/> I've got your pickup time as today at 3:28 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. One.
+AGENT: Okay great! <break time="200ms"/> I've got 1 passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: Down
+AGENT: The estimated fare is 11 dollars, paying with Call And Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 3:28 PM. Your confirmation number is 2 1 3 6 7 4 2 8 9. Is there anything else I can help you with?
+CALLER: No.
+CALLER: No
+AGENT: Thank you for calling Barwood & Regency, Donna. Have a wonderful day.

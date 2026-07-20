@@ -1,0 +1,41 @@
+AGENT: Hi Tamika, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Customer service. I need a cab.
+AGENT: Alright, how would you like to pay for your cab today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call a ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: 010923.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your cab? <emotion value="peaceful"/>
+CALLER: One that took us up at or Station. But I can't fucking dance. Fucking see. I'm from stumbling. I wanna take some shit.
+AGENT: I'm sorry, I didn't quite catch that. Could you please repeat the pickup address for your cab? <emotion value="apologetic"/>
+CALLER: I'm going by with them. I thought it'd be helpful, like, for you, like, if you're fucking. So when we see I just don't want you walking. Customer service. He's calling back.
+AGENT: I want to make sure I get your pickup address right. Could you please clearly tell me the street address or location where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Let me go station.
+AGENT: I found a few locations. 
+ Option one: Railroad Street, Gaithersburg. 
+ Option two: Maryland 20877. 
+ Option three: 5 South Summit Avenue, Gaithersburg. 
+ Option four: Gaithersburg MARC, Gaithersburg. 
+ Option five: 15903 Somerville Drive, Rockville. 
+ Which one would you like to use for your pickup? <emotion value="peaceful"/>
+CALLER: Shady Grove Road. Station.
+AGENT: Just to clarify, did you mean the location at 15903 Somerville Drive, Rockville, which is the WMATA Shady Grove Rail Yard? <emotion value="peaceful"/>
+CALLER: Shady Road Station.
+AGENT: Hmm  let me check that address.
+AGENT: I found a few locations. 
+ Option one: Muncaster Mill Road and Shady Grove Road, Redland. 
+ Option two: Muncaster Mill Road and Shady Grove Road, Maryland. 
+ Option three: Muncaster Mill Road and Shady Grove Road, Maryland 20879. 
+ Option four: Shady Grove Road and Mill Run Drive, Redland. 
+ Option five: Shady Grove Road and Mill Run Drive, Redland. 
+ Which one is correct for your pickup? <emotion value="peaceful"/>
+CALLER: Option four.
+AGENT: The address at Shady Grove Road and Mill Run Drive, Redland could not be located. Could you please provide a complete street address with a street number, city, and state for your pickup? <emotion value="apologetic"/>
+CALLER: I Baby, I'm gonna take the pen. I'm gonna baby, I've already had the. Forty five days Baby. Flip all fucking right? Take off my own for days.
+AGENT: I'm sorry, I didn't quite catch that. Could you please provide the full street address with a street number, city, and state for your pickup location? <emotion value="apologetic"/>
+CALLER: Baby, I was going to take the pants off your head. I told you that the driver from Metro Access came too early.
+AGENT: I want to make sure I get your pickup address right. Could you please clearly tell me the street address or location where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: The driver's been there.
+AGENT: I understand. To help you get a cab, could you please tell me the exact pickup address or location where you want the driver to come? <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Road Station.

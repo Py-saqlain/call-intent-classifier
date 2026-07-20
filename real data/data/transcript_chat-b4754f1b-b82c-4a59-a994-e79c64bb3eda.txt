@@ -1,0 +1,31 @@
+AGENT: Hi Leah, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Lead listen, I am aware. Of her mother's nutrition and it's going to happen. I did get rid of it. I told the family member that and I it has I I have gotten rid of it here. I have.
+AGENT: I'm here to help with your transportation needs. Could you please let me know if you would like to book a ride or if there's something else I can assist you with today?
+CALLER: Look arise.
+AGENT: Could you please tell me more about how I can assist you with your ride or transportation needs today?
+CALLER: Book a ride,
+AGENT: Thank you for letting me know you'd like to book a ride. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: Six eight
+AGENT: Could you please provide the street name and city along with the number six eight for the pickup address?
+CALLER: New Hampshire Avenue. Tacoma Park two zero nine one two.
+AGENT: I couldn't find an exact match for 6 8 New Hampshire Avenue in Tacoma Park, Maryland. However, I found a location called 4840 Abbyville Place number 68 in Olney, Maryland. Is that the correct pickup location?
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide the full pickup address again, including the street number, street name, city, and state?
+CALLER: Six eight eight one. New Hampshire Avenue, Tacoma, Park,
+AGENT: I have 6 8 8 1 New Hampshire Avenue, Takoma Park, Maryland as your pickup address. Is that correct?
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Zero. Four zero.
+AGENT: Could you please provide the street name and city along with the numbers zero four zero for the dropoff address?
+CALLER: It's one three t eight. Thirteen Street, no spring 20910.
+AGENT: I couldn't locate the dropoff address as given. Could you please provide the full street address, city, and state again for the dropoff?
+CALLER: Eight zero four zero
+AGENT: Could you please provide the street name and city along with the numbers eight zero four zero for the dropoff address?
+CALLER: one three six eight three
+AGENT: Could you please provide the street name and city along with the numbers one three six eight three for the dropoff address?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Street.
+AGENT: I want to

@@ -1,0 +1,5 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Name is Kelsey Collie, c o l l I e.
+AGENT: Thanks, Kelsey. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Hi, Chikurai. And I was told that it was with your company. To Howard University Hospital at 01:14PM yesterday, the July 10, and I accidentally left my phone dropped my phone in the car and didn't realize it in after the driver had gone. And I tried to get in contact with Metro Access who made the arrangements so that you could let the driver know that I did However, I didn't have any success in that. And we went through quite a bit of the time. And they and then last night, eventually, someone said, well, we can't do anything tonight. Nobody's here to help you. So I'm calling today to find out who can help me.
+AGENT: I'm connecting you now to a customer service representative who can assist with your phone left in the car. Please stay on the line.

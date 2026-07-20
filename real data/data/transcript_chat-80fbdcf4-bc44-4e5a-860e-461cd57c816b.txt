@@ -1,0 +1,33 @@
+AGENT: Hello Kathleen, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Need to reserve a tax please.
+AGENT: I'd be happy to help with your reservation. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, I have your payment method as credit card.
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: One zero four zero one Rosevenor Place, Rockville, Maryland two zero eight five two
+AGENT: I have the pickup address as one zero four zero one Grosvenor Place, Rockville, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Ronald Reagan National Airport
+AGENT: I have the dropoff address as two four zero one Smith Boulevard, Arlington, Virginia. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Kathleen. I will now proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: Tomorrow
+CALLER: at ten o'clock No. 10:30 in the morning.
+AGENT: Just to confirm, you would like to be picked up tomorrow at 10:30 AM, correct?
+CALLER: Correct.
+AGENT: Thank you for confirming your pickup time. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: I have noted that no wheelchair-accessible vehicle is needed. How many passengers will be traveling, including yourself?
+CALLER: One
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip from 1 0 4 0 1 Grosvenor Place to 2 4 0 1 Smith Boulevard is 40 dollars and 50 cents, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip. Should I go ahead and book it now?
+CALLER: Yes.
+AGENT: I am booking your trip now.
+AGENT: Your trip is booked for tomorrow at 10:30 AM. The confirmation number is 2 1 3 6 6 9 7 6 1. Is there anything else I can help you with?
+CALLER: No, thank you.
+AGENT: Thank you for calling Barwood & Regency, Kathleen. Have a wonderful day!

@@ -1,0 +1,11 @@
+AGENT: Hi Mike, this is Ana with Barwood & Regency. I see you have a will-call trip scheduled today from 8 8 3 Russell Avenue to 1 5 5 Watkins Station Circle in Gaithersburg. How can I assist you today?
+CALLER: Activate my trip, please.
+AGENT: Hmm <break time="700ms"/> let me check that for you.
+AGENT: Okay so <break time="500ms"/> your trip with reference zero two one three six seven four eight eight zero is now activated.
+AGENT: Your trip is now activated with confirmation number zero two one three six seven four eight eight zero. A driver will be dispatched to your pickup location shortly. Is there anything else I can assist you with? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Mike. Have a great day!
+AGENT: Thank you for calling Barwood & Regency, Mike. Have a great day!
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

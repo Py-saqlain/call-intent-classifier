@@ -1,0 +1,7 @@
+AGENT: Hello Saheim, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: You can pick up at twenty one nineteen Fallon Creek Road on two seventy five hundred Hanover Parkway.
+AGENT: Thank you for sharing your pickup details. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card. Oh. Card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: I have the pickup as 2119 Falling Creek Road, Silver Spring, Maryland, and the dropoff as 7500 Hanover Parkway, Greenbelt, Maryland. Is that correct?
+CALLER: Yes.

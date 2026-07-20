@@ -1,0 +1,32 @@
+AGENT: Hi Alex, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I need to make a reservation.
+AGENT: Thank you for letting me know. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, I have your payment method as credit card.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Five zero one North Frederick Avenue in Gaithersburg, Maryland
+AGENT: I have the pickup address as 5 0 1 North Frederick Avenue, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: It's, um, One one four three one. Tony Point Place in Germantown.
+AGENT: I have the dropoff address as 1 1 4 3 1 Stoney Point Place, Germantown, Maryland. Is that correct?
+CALLER: Yes. That's correct.
+AGENT: Your dropoff address has been verified, Alex. I will now proceed with the next steps for your reservation.
+AGENT: When would you like to be picked up?
+CALLER: 08:30PM.
+AGENT: Thank you. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: 08:30PM today.
+AGENT: You already mentioned 8:30 PM today as your pickup time. Could you please tell me how many passengers will be traveling, including yourself, and if anyone will need a wheelchair-accessible vehicle?
+CALLER: Just me and no wheelchair and no instructions for the driver.
+AGENT: The estimated fare for your trip is 13 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: But keep it open for now.
+AGENT: Just to clarify, would you like to set up a will-call or open return trip that you can call for when you're ready? Or would you prefer to decide about the return trip later?
+CALLER: Yes. Call. Call.
+AGENT: Thank you. I will set up a will-call return trip for you.
+AGENT: Your return trip will be a will-call, picking up at 11431 Stoney Point Place and going back to 501 North Frederick Avenue. The estimated fare is 13 dollars, paying with your credit card. Should I go ahead and book both trips?
+CALLER: Yes.
+AGENT: Thank you, I am booking both trips for you now.
+AGENT: Thank you for your patience. I am booking both your main trip and your will-call return trip now.
+AGENT: Your main trip is scheduled for today at 8:30 PM with confirmation number 2 1 3 6 6 8 0 6 9. Your return trip is a will-call booking with confirmation number 2 1 3 6 6 8 0 7 0. Is there anything else I can help you with?
+CALLER: Well, thank you.
+AGENT: Thank you for calling Barwood & Regency, Alex. Have a wonderful day!

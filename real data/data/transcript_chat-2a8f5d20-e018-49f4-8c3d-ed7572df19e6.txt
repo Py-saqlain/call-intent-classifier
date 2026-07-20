@@ -1,0 +1,45 @@
+AGENT: Hello Rose, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello?
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: I would like to schedule a cab for 10:30AM this morning.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: To get started, could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Three nine six North Summit Avenue,
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+CALLER: Gaithersburg, Maryland to
+AGENT: Okay, so I found your pickup location at three nine six North Summit Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Okay, so I have the pickup as three nine six North Summit Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: It's the the Walmart in Germantown, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address. <emotion value="peaceful"/>
+AGENT: I found Walmart Supercenter at 2 0 9 1 0 Frederick Road, Germantown, Maryland. Is that the correct destination? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Rose.
+AGENT: You mentioned you want to be picked up today at 10:30 AM. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Okay great! How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Two. Two.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. You said two passengers, correct? And will anyone need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: No. No wheelchair. There's two people.
+AGENT: Okay great! I've got two passengers and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+AGENT: Take your time. Just
+CALLER: Yes. It's it's a van. I need I need a step store.
+AGENT: Thank you for letting me know you need a step-stool and a van. I'll make sure the driver is informed. <emotion value="grateful"/> Do you have any other instructions for the driver?
+CALLER: It doesn't it doesn't have to be a van. But if it is a van, I need a stitch stool.
+AGENT: Okay, I understand. You don't require a van specifically, but if the vehicle is a van, you will need a step stool. I'll make sure the driver is aware of that. <emotion value="grateful"/> Is there anything else you'd like the driver to know?
+CALLER: Okay. No. That's it.
+AGENT: Alright, the estimated fare is 20 dollars, paying with a credit card. You mentioned two passengers and no wheelchair, and if the vehicle is a van, you need a step stool. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 10:30 am. Your confirmation number is 2 1 3 6 7 5 3 6 3. Is there anything else I can help you with?
+CALLER: Now
+AGENT: I see you'd like to book a trip for now. Let me connect you to the booking team to get that arranged.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm I'm ready.
+AGENT: Perfect, your driver is on the way. Please take your time getting ready. If you need to pass a message to the driver or have any issues, I can connect you to a representative who can assist. Is there anything else I can help you with? <emotion value="peaceful"/>
+CALLER: No. No.
+AGENT: Thank you for calling Barwood & Regency, Rose. Have a wonderful day.
+CALLER: No. Wait. Hello?

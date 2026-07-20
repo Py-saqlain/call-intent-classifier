@@ -1,0 +1,32 @@
+AGENT: Hi David, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: New ride.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Nine nine zero five Medical Center Drive, rockville Maryland
+AGENT: Okay, so I found your pickup address as nine nine zero five Medical Center Drive, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Two six two one Research Boulevard, Rockville, Maryland.
+AGENT: I found your dropoff address as two six two one Research Boulevard, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, David. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got
+CALLER: Now.
+AGENT: Hmm, sorry, let me get that right. You already told me you want to be picked up now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="apologetic"/>
+CALLER: One passenger No wheelchair.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions for the driver? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 7 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No, thank you.
+AGENT: Alright, I will proceed with booking just your one-way trip. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay so <break time="250ms"/> I'm booking your trip now.
+AGENT: Your main trip is booked for today at 10:20 AM. Your confirmation number is 2 1 3 6 7 5 5 9 8. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, David. Have a wonderful day!

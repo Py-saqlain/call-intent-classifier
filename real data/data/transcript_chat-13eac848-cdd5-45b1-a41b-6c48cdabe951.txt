@@ -1,0 +1,41 @@
+AGENT: Hello Tetros, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Right. Schedule. Right.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call it back.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Color.
+AGENT: Hmmm.. that didn't seem right, could you please confirm if you meant Call and
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three three five three two zero. No.
+AGENT: Hmmm.. that didn't seem right, could you please say the last six digits of your Call and Ride card again? <emotion value="apologetic"/>
+CALLER: It is. 335320.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: The address is one zero seven five zero Columbia Pike Silver Spring Merlin.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found the pickup address as one zero seven five zero Columbia Pike, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yes. Three two one University Boulevard,
+AGENT: Thank you. Let me check that address for you. <emotion value="peaceful"/>
+AGENT: Okay, I found the dropoff address as three two one University Boulevard West, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Tetros. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Just to clarify, did you mean you want to be picked up right now, or would you prefer to schedule a will-call trip to call back later? <emotion value="hesitant"/>
+CALLER: Yes. Yes. Right now.
+CALLER: 249. Cab number 249. Right now.
+AGENT: Alright, soo how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: You know
+AGENT: Could you please tell me how many passengers will
+CALLER: wheelchair vehicle. Two passengers.
+AGENT: Okay great! I've got two passengers and one wheelchair-accessible vehicle needed. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: Yeah. Cab number two four nine recommended.
+AGENT: Alright, the estimated fare is 8.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 12:13 PM. Your confirmation number is 2 1 3 6 7 1 8 8 6. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Tetros. Have a wonderful day!

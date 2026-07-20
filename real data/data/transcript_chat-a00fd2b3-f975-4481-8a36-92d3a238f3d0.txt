@@ -1,0 +1,40 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Vicky?
+AGENT: Thanks, Vicky. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need to get a cat at one nine six zero nine Drive apartment number twelve, and I'm going to the Safeway here in one nine seven one eight Germantown Road, In Germantown.
+AGENT: Thank you for sharing your pickup and dropoff locations. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: I need a round trip. We're paying cash.
+AGENT: Got it, I'll arrange the return trip once your main trip is set up. Your payment method is cash.
+AGENT: I wasn't able to find the full address for your pickup at one nine six zero nine Drive apartment number twelve. Could you please provide the city and state for this address?
+CALLER: No. No. After in in 19609 Crystal Rock Drive.
+AGENT: I have the pickup address as one nine six zero nine Crystal Rock Drive, Germantown, Maryland. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified, Vicky. I will now proceed with your dropoff address.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: What One. No. There's one passionate that's me.
+AGENT: Thank you for letting me know there is one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No. Just have the driver come on. They call me when you're outside.
+AGENT: The estimated fare for your main trip is 6 dollars, paying with cash. You mentioned you'd like a return trip — would you still like me to set that up?
+CALLER: Yes. Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: If the calves can wait, I appreciate it. I'm only gonna be probably, like, two minutes, fifteen minutes.
+AGENT: Would you prefer your return trip pickup time to be about 15 minutes after your first trip, or would you like to specify a different time?
+CALLER: Like, five two minutes. No. Leave it like that. Leave it like Okay. Ten minutes.
+AGENT: Your return trip is scheduled for today at 11:49 PM, about 10 minutes after your first trip. How many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One. One. It's all no. It's only me.
+AGENT: For your return trip, I have the pickup address as one nine seven one eight Germantown Road, Germantown, Maryland, and the dropoff address as one nine six zero nine Crystal Rock Drive, Germantown, Maryland. Is that correct?
+CALLER: Yes. Yes.
+AGENT: The estimated fare for your return trip is 6 dollars, paying with your Self account. Should I go ahead and book both trips?
+CALLER: Yes. Book more funds.
+AGENT: Booking your trips now.
+AGENT: I'm booking both your main and return trips now. Please hold on a moment.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 5 6 3, scheduled for today at 1:49 PM. Your return trip is also booked with confirmation number 2 1 3 6 6 5 6 3 5, scheduled for today at 11:49 PM. Is there anything else I can assist you with?
+CALLER: No. It doesn't no. Act me is that important? Yes. Pick up now. She says, It's supposed to be a one, not eleven. Hello?
+AGENT: I understand you want the pickup time to be at 1:49 PM, not 11:49 PM. Let me connect you to a representative who can assist with adjusting your trip. Please hold for a moment.
+CALLER: Hello? Anybody here?
+AGENT: I'm here to help. It sounds like you want to adjust your pickup time to 1:49 PM instead of 11:49 PM. Let me connect you to a representative who can assist with that. Please hold for a moment.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Can I speak to a representative? No. Can I speak yeah, please? Thank you. No. I need representative. No. No. No. No. No. No. I speak let me take your Please do so.
+AGENT: I'm connecting you to

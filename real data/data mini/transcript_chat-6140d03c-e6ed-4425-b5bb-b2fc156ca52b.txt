@@ -1,0 +1,22 @@
+AGENT: Hello Farrah, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello? Yeah. I'm here. Can you hear me?
+AGENT: How can I assist you with your ride today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: What schedule? Right.
+AGENT: Are you looking to schedule a new ride, check the status of an existing trip, or something else?
+CALLER: It was an interesting trip.
+AGENT: If you'd like, I can help you check
+CALLER: I hate AI.
+AGENT: I understand. If you'd prefer to speak with a live representative, I can connect you right away. Would you like me to do that?
+CALLER: No.
+AGENT: Alright, I'm here to help. What can I assist you with regarding your ride today?
+CALLER: No. Schedule trips. What time is it?
+AGENT: It is currently 9:55 AM. What time would you like to schedule your trip for?
+CALLER: What do oh, Jesus. A lot of customer service.
+AGENT: I’m here to make things easier for you. Just let me know when and where you’d like to go, and I’ll help get your trip scheduled.
+CALLER: Customer service. Live person. I would like to speak to a live person.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Provide if I schedule the pickup for today.
+CALLER: I forgot.
+AGENT: Did you want to tell me what you
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

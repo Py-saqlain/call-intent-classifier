@@ -1,0 +1,44 @@
+AGENT: Hello Goerge, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I need to talk to I need to speak to I need a I need a Regency cab.
+AGENT: Thank you for letting me know you need a Regency cab. To get started, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: I'm use I'm using call and ride.
+AGENT: Great, you're using Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Okay. It's
+AGENT: I didn't catch the digits. Could you please say the last six digits of your Call and Ride card again?
+CALLER: Okay. Hold let me okay. It's zero zero thirty five twenty sixty nine.
+AGENT: Thank you for providing your Call and Ride information. Your payment method is set as Call And Ride.
+AGENT: Could you please tell me the pickup address for your Regency cab?
+CALLER: Okay. The pickup address I'm at I'm at DaVita. I'm at DaVita Kidney Care It's it's it's a kidney center. It's it's it's in Germ Germantown.
+AGENT: I found a few DaVita Kidney Care locations in Germantown. There's DaVita Middlebrook Dialysis at 1 2 4 0 1 Middlebrook Road, suite 1 6 0. Then there's DaVita Germantown Dialysis at 2 0 1 1 1 Century Boulevard, suite C. And also DaVita Germantown At Home at the same 2 0 1 1 1 Century Boulevard, suite C. Which one would you like to use for your pickup?
+CALLER: I'm using one in Germantown.
+AGENT: Just to be sure, do you mean the DaVita location at 1 2 4 0 1 Middlebrook Road, suite 1 6 0, or the one at 2 0 1 1 1 Century Boulevard, suite C in Germantown?
+CALLER: Yes. I'm the one in Germantown. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. Uh, thirty six North Summit Drive. In Gaithersburg, Maryland.
+AGENT: I have 3 6 North Summit Drive, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Oh, on. Hold on. Hold on, ma'am. This might be might be right here.
+AGENT: Take your time. Just let me know when you're ready to confirm or if you need to provide a different dropoff address.
+CALLER: Oh, hold on. 36 North Summer Drive. Yes. Come on, Mary. I got it. Never mind, ma'am. He he's here. Hello? He's here.
+AGENT: Your dropoff address has been verified, George. I'll now proceed with arranging your Regency cab.
+AGENT: When would you like to be picked up?
+CALLER: Alright. Good.
+AGENT: Could you please tell me what time you would like to be picked up?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: You get it by mayor Sure. Yeah. Hold hold hold
+AGENT: Whenever you're ready, please tell me the time you'd like to be picked up.
+CALLER: I received it for a Yeah. I got it. I know you had. My bad. Hello? Appreciate it. Yeah. Yeah. I know. We we we we we in the cab. Okay. Okay.
+AGENT: Could you please tell me the time you would like to be picked up?
+CALLER: Okay.
+AGENT: Could you please tell me the number of passengers traveling with you, including yourself, and if anyone will need a wheelchair-accessible vehicle?
+CALLER: Okay. Okay. Cool.
+AGENT: Could you please tell me how many passengers will be traveling, including yourself, and if anyone will need a wheelchair-accessible vehicle?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay. First time using it. Can
+AGENT: Could you please tell me how many passengers will be traveling, including yourself, and if anyone will need a wheelchair-accessible vehicle?
+CALLER: Would you be one pick me up all the time? No. No. No. Come back tomorrow. 05:30. Y'all running early in the morning at 05:30? Oh, I'm telling y'all gone.
+AGENT: I have your pickup time set for tomorrow at 5:30 AM. Now, could you please tell me how many passengers will be traveling, including yourself, and if anyone will need a wheelchair-accessible vehicle?
+CALLER: Hey. I'm just late coming back. Jack will
+AGENT: Could you please tell me the number of passengers traveling with you, including yourself, and if anyone will need a wheelchair-accessible vehicle?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

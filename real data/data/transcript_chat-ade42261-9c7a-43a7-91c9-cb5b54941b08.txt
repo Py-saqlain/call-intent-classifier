@@ -1,0 +1,45 @@
+AGENT: Hello Barry, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need taxi to come to 23528 4th Haven Way.
+AGENT: Thank you for letting me know the pickup address is 23528 4th Haven Way. Could you please confirm the city and state for this address? Also, where would you like to go?
+CALLER: I like to go to two zero nine four four Frederick Road.
+AGENT: Thanks for sharing your destination at 2 0 9 4 4 Frederick Road. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Yeah. Cash.
+AGENT: Great, we'll use cash for your payment.
+CALLER: Cash.
+AGENT: I have the pickup address as 2 3 5 2 8 Forest Haven Way in Clarksburg, Maryland, and the dropoff as 2 0 9 4 4 Frederick Road in Germantown, Maryland. Is that correct?
+AGENT: I have the pickup address as 2 3 5 2 8 Forest Haven Way, Clarksburg, Maryland, and the dropoff address as 2 0 9 4 4 Frederick Road, Germantown, Maryland. Is that correct?
+CALLER: Okay. Yeah. Correct. Yes.
+AGENT: Your pickup and dropoff addresses have been verified, Barry.
+AGENT: When would you like to be picked up?
+CALLER: Correct.
+AGENT: Could you please tell me the time you would like to be picked up?
+CALLER: Now?
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Now two thirty. Two.
+AGENT: I noticed you mentioned "now two thirty" and "two." Just to clarify, are you updating your pickup time to 2:30 PM, or should I keep it as now? Also, is the number of passengers two? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two and no. Yes.
+AGENT: I've updated your pickup time to today at 2:30 PM with 2 passengers and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: Come as soon as possible.
+AGENT: Barry, the estimated fare for your trip is 14.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Three thirty.
+AGENT: Just to confirm, you mean 3:30 PM for your return trip pickup time, correct?
+CALLER: Yes. Correct. Yes.
+AGENT: Thank you for confirming 3:30 PM for your return trip pickup. How many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: 2. No.
+AGENT: For your return trip, I have the pickup at 2 0 9 4 4 Frederick Road and the dropoff at 2 3 5 2 8 Forest Haven Way. Is that correct?
+CALLER: Correct. Yes.
+AGENT: The estimated fare for your return trip is 14.5 dollars, paying with your Self account. Should I go ahead and book both trips?
+CALLER: Yes.
+AGENT: I am now booking both trips for you.
+AGENT: Both your main trip and return trip are booked. Your main trip confirmation number is 2 1 3 6 6 3 5 6 8 with pickup today at 2:30 PM. Your return trip confirmation number is 2 1 3 6 6 3 5 6 9 with pickup today at 3:30 PM. Is there anything else I can help you with?
+CALLER: I don't wanna book a return trip. Cancel it.
+AGENT: I will cancel the return trip for you right away and make sure the main trip stays as scheduled. Please hold on a moment.
+AGENT: I see two trips booked: your return trip at 2:30 pm from Forest Haven Way to Frederick Road, and your main trip at 3:30 pm from Frederick Road to Forest Haven Way. You want to cancel the return trip at 2:30 pm, correct?
+CALLER: Correct. Yes.
+AGENT: Your return trip at 2:30 pm has been cancelled. Is there anything else I can help you with?
+CALLER: No. I need to ask you as soon as possible right now. To two three five two eight four shaving way.
+AGENT: I understand you need a ride as soon as possible to 2 3 5 2 8 4 Shaving Way. Let me connect you to the main dispatcher who can assist with immediate bookings. Please hold on.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yeah. Yeah. 23528 Fort Taylor Way, Pickup. Drop off, two zero nine one four four Credit Grove.

@@ -1,0 +1,14 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Yeah. So my name is Ron
+AGENT: Thanks, Ron. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a ride.
+AGENT: Thank you, Ron. How would you like to pay for
+CALLER: I need a cab ride now.
+AGENT: Got it, Ron. Just to make sure, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: 24644. Right?
+AGENT: I want to make sure I understand correctly—are you saying you'd like to pay with Call and Ride and that 2 4 6 4 4 are the last six digits of your card? If so, could you please provide the full six digits? If not, please let me know which payment method you'd prefer.
+CALLER: The DC access number
+AGENT: Thank you for that, Ron. Just to clarify, are you referring to a Call and Ride card for payment? If so, could you please provide the last six digits of that card? If you meant a different payment method, please let me know.
+CALLER: How much would it cost? I thought it was seven dollars.
+AGENT: I don't have the fare information yet since we are still gathering your trip details. Meanwhile, could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.

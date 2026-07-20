@@ -1,0 +1,12 @@
+AGENT: Hi Tia, this is Ana with Barwood & Regency. You have two trips today — one scheduled for pickup at 9:00 AM with vehicle 222, and another at 11:30 AM with vehicle 1034. How can I assist you today?
+CALLER: Looking for cab.
+AGENT: Looks like you already have trips from Germantown to Silver Spring at 9 AM and back at 11:30 AM. What would you like to do? <emotion value="grateful"/>
+CALLER: I'm waiting for the cab.
+AGENT: Hmm <break time="300ms"/> your trip from Bent Willow Circle to Colesville Road is accepted, but I don't see an ETA for the driver right now. I'll keep you posted. <emotion value="peaceful"/> Anything else?
+CALLER: Okay. Come on in, sweetie. No.
+AGENT: Hmm <break time="300ms"/>
+CALLER: Correct.
+AGENT: Looks like you already have trips from Germantown to Silver Spring at 9 AM and back at 11:30 AM. What would you like to do? <emotion value="grateful"/>
+CALLER: Just looking for the cab.
+AGENT: Hmm <break time="300ms"/> your trip with vehicle 222 is accepted and scheduled for pickup today at 9:00 AM, but I don't see an ETA for the driver right now. I'll keep you posted. <emotion value="peaceful"/> Anything else?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

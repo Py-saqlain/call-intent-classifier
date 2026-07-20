@@ -1,0 +1,55 @@
+AGENT: Hello Robert, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, yes. I'd like a taxi.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Still there?
+AGENT: Yes, I'm here. How would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: K. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: To get started, may I have the pickup address for your taxi ride, please? <emotion value="peaceful"/>
+CALLER: Cash.
+CALLER: Six thousand California Circle,
+AGENT: Okay, so I found that location. Is 6 0 0 0 California Circle, Rockville, Maryland correct for your pickup? <emotion value="peaceful"/>
+AGENT: Okay, so I found 6 0 0 0 California Circle, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Okay, so I found that location. Is 6 0 0 0 California Circle, Rockville, Maryland correct for your pickup? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, may I have the dropoff address, please? <emotion value="peaceful"/>
+CALLER: One one six three two
+AGENT: Uh, I am sorry, but could you please provide the street name or location along with the number one one six three two? <emotion value="peaceful"/>
+CALLER: Rockville Pike.
+AGENT: Okay, so I have the address as 1 1 6 3 2 Rockville Pike. Let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found 1 1 6 3 2 Rockville Pike, Rockville, Maryland. Is that correct for your dropoff? <emotion value="peaceful"/>
+CALLER: Yes. Yes. Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now?
+AGENT: Okay, I've got your pickup time as now, today at 11:20 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Just one
+AGENT: Okay great! I've got one passenger. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/> When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Male.
+AGENT: Thank you, I've noted that the driver should be aware of male passenger. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, so let me confirm those details. Your pickup is 6 0 0 0 California Circle. Your dropoff is 1 1 6 3 2 Rockville Pike. Pickup time is 11:20 AM. You have one passenger, and you will be paying yourself. The estimated fare is 5.5 dollars. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes. I'll be it's a round trip.
+AGENT: Alright, thanks for confirming you'd like a round trip. I'll start collecting the return trip details for you now. <emotion value="peaceful"/>
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: It'll be just a few minutes.
+AGENT: The return trip pickup time must be at least 10 minutes after your main trip pickup time, which is today at 11:20 AM. Could you please provide a valid return pickup time that is at least 10 minutes later? Or would you prefer to just book a one-way trip instead? <emotion value="hesitant"/>
+CALLER: Eleven thirty.
+AGENT: Just to confirm, do you mean 11:30 AM or 11:30 PM for your return trip pickup time? <emotion value="peaceful"/>
+CALLER: AM.
+AGENT: Thank you, I've scheduled your return trip pickup for today at 11:30 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One
+AGENT: Okay great! I've got one passenger for the return trip. Will you be needing a wheelchair accessible vehicle for the return trip? <emotion value="peaceful"/>
+CALLER: No. Just one. Jesus Christ.
+AGENT: Got it. I'll arrange the return trip once your main trip details are complete. Now, just to confirm, for your return trip, the pickup is at 1 1 6 3 2 Rockville Pike, and the dropoff is at 6 0 0 0 California Circle. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: The estimated fare for your return trip is 5.5 dollars, paying with cash. Should I go ahead and book both trips for you? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so I'll proceed with booking both your trips now. <emotion value="grateful"/>
+AGENT: Thank you for your patience. I'm booking both your main trip and your return trip now.
+AGENT: Your main trip is scheduled for today at 11:20 AM with confirmation number 2 1 3 6 7 0 5 7 1. Your return trip is scheduled for today at 11:30 AM with confirmation number 2 1 3 6 7 0 5 7 2. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Robert. Have a wonderful day.

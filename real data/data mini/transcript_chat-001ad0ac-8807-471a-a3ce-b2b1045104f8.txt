@@ -1,0 +1,22 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: John,
+AGENT: Thanks, John. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Can I get a taxi cab?
+AGENT: Alright, John, how would you like to pay for your taxi cab today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: John, could you please tell me the pickup address for your taxi ride? <emotion value="peaceful"/>
+CALLER: The pickup address is one eight two five eight Taunton Road,
+AGENT: Okay, John, I found the pickup address as one eight two five eight Contour Road, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: The destination is. The address is I know.
+AGENT: Uh, I am sorry, but could you please repeat the destination address? <emotion value="peaceful"/>
+CALLER: What's that road? Yeah. I did.
+AGENT: Could you please say the full destination address again, including the street number and street name? That will help me find it accurately. <emotion value="peaceful"/>
+CALLER: My address is eight fourteen my address is eight
+AGENT: Uh, I am sorry, but could you please say the full destination address again, including the street number and street name? <emotion value="peaceful"/>
+CALLER: Eight one four Christopher
+AGENT: John, the address eight one four Christopher appears to be outside our service area. Could you please provide a different destination address within Montgomery County, D C, or Northern Virginia? <emotion value="apologetic"/>
+CALLER: It's Alice. It's out of their limit. Stop. Mhmm. It's out of their limit. Oh, good. Yeah. Well,
+CALLER: They said I'll go up.

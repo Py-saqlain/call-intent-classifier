@@ -1,0 +1,27 @@
+AGENT: Hello Darius, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to cab to 911 Brickman Circle.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: K.
+AGENT: Hmmm.. that didn't seem right, could you try again? How would you like to pay for your ride? Cash, credit card, or Call and Ride? <emotion
+CALLER: Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, I found the address as nine one one Brick Manor Circle, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: One eight one zero one Old Baltimore Avenue. Colony, Maryland. The green turtle,
+AGENT: Hmm, it looks like one eight one zero one Old Baltimore Avenue in Colony, Maryland is outside our service area. Could you please provide a different pickup address? <emotion value="apologetic"/>
+CALLER: This Olney, Maryland. Olney, o l n e y.
+AGENT: Hmm, I couldn't find one eight one zero one Old Baltimore Avenue in Olney, Maryland. Could you please confirm the full street address, city, and state again? <emotion value="apologetic"/>
+CALLER: Hold on a second.
+AGENT: Take your time. Just let me know when you're ready with the pickup address. <emotion value="peaceful"/>
+CALLER: What's what's the call? Addressing number? Yeah. But what's Pony Village. Oh, yeah. I could do that too.
+AGENT: I couldn't find
+CALLER: Town center.
+CALLER: Sounds good. Okay.
+AGENT: I found a few locations
+CALLER: Okay. Is you ready?
+AGENT: I found a few locations.  
+Option one: 18200-18250 Flower Hill Way, Gaithersburg, Maryland.  
+Option two: 8031 Snouffer School Road J,
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: No. What one eight one eight one zero one South Center Drive. Yeah.

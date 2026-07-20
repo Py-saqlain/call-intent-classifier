@@ -1,0 +1,47 @@
+AGENT: Hi Tamika, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: To
+AGENT: Uhh, could you please tell me a bit more about where you'd like to go or what you need help with? <emotion value="peaceful"/>
+CALLER: Yes. I want to
+AGENT: Okay, I’m here to help. What would you like to do or where would you like to go? <emotion value="peaceful"/>
+AGENT: Take
+CALLER: Just a second.
+AGENT: your time. Let me know when you're ready. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm going to two six zero zero Hayden Drive, Tennessee, Maryland two zero nine zero two. Florida Shingers, Elementary School.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Calling by.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+CALLER: Customer service.
+CALLER: I'm gonna book a trip
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero one zero nine two three.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Okay, so I have the dropoff address as two six zero zero Hayden Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: One six zero zero one. Road.
+AGENT: Thank you. Just to clarify, is your pickup address one six zero zero one Road, or did you mean a different street name? Could you please confirm the full street name? <emotion value="hesitant"/>
+CALLER: One. Six zero zero one Steady Grove Road, Rockville, Maryland two zero eight five zero. Rare booth plus.
+AGENT: Okay, so I have the pickup address as one six zero zero one Shady Grove Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified, Tamika.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now I'm ready to go.
+AGENT: Okay great! I've got your pickup time as today at 12:55 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thanks for letting me know no wheelchair is needed. How many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: Three.
+AGENT: Okay great! I've got that noted. Do you have any special instructions or requests for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 33 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 12:55 PM. Your confirmation number is 2 1 3 6 7 5 7 9 9. Is there anything else I can help you with?
+CALLER: Yes. Can you send me a text message to confirm, or can I speak to the customer service?
+AGENT: I can connect you to a customer service representative who can assist you with that. Please hold for a moment.
+CALLER: Perfect. Thank you.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

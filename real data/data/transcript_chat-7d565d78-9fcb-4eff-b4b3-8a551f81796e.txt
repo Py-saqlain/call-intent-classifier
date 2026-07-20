@@ -1,0 +1,35 @@
+AGENT: Hi Joan, this is Ana with Barwood & Regency. How can I help you today?
+CALLER: I need a pickup. Change I'm at the
+AGENT: Uhh, I want to make sure I understand you correctly. You need a pickup, and you mentioned "I'm at the" — could you please tell me the full pickup location?
+CALLER: Fifteen two
+AGENT: Okay, just to confirm, is your pickup address 1 5 2 something? Could you please provide the full street name or location?
+CALLER: 15204 Miller Drive.
+AGENT: Thank you. And where would you like to go from 1 5 2 0 4 Miller Drive?
+CALLER: For four. Four four one one o
+AGENT: Could you please clarify your destination address? I want to make sure I get it right. You said "For four. Four four one one o" — is that a street number or something else?
+CALLER: No. It's just three It's it's it's four one one host. He's gonna rule a problem at
+AGENT: I’m sorry, I’m having a little trouble understanding the destination address. Could you please say it again slowly or spell out the street name if possible?
+CALLER: Okay. For for
+AGENT: I want to make sure I get your destination right. You said "for
+CALLER: 411
+AGENT: Thanks for that. Could you please tell me the full destination address including the street name and city? Just the number 4 1 1 is not enough to locate it.
+CALLER: Four four
+AGENT: I’m still not quite
+CALLER: four one one zero He's he's the ruler of the.
+AGENT: I’m still having a bit of trouble understanding the full destination address. Could you please say the street name after the number 4 1 1 0? That will help me get it right for you.
+CALLER: Eastfield, Alabama.
+AGENT: Thank you for that. Just to confirm, your pickup is at 1 5 2 0 4 Miller Drive, and your destination is 4 1 1 0 Eastfield, Alabama?
+CALLER: Yes.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay. It's four. One one o e zero
+AGENT: Hmmm.. that sounds like you might be giving the last six digits of a Call and Ride card. Just to confirm, are you paying with Call and Ride? <emotion value="hesitant"/>
+CALLER: No. He he still rule a lot there,
+AGENT: Alright, thanks for letting me know. Could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Do Medicare.
+AGENT: I want to make sure you get the right help. We only accept cash, credit card, and Call and Ride on this line. If you'd like, I can connect you to a live agent who can assist with Medicare and other options. Would you like me to do that? <emotion value="hesitant"/>
+CALLER: Central five eight eight eight.
+AGENT: I’m sorry, but I didn’t catch your payment method clearly. Could you please tell me again how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: Medic him.
+AGENT: Just to let you know, we only accept cash, credit card, and Call and Ride here. If you want, I can connect you to a live agent who can help with Medicare. Would you like me to do that? <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

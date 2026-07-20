@@ -1,0 +1,42 @@
+AGENT: Hello Kevin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a ride
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Phone ride card. Bone ride.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero eight six three zero three.
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: so by eighteen three one five lost my Circle.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 1 8 3 1 5 Lost Knife Circle, Montgomery Village, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the dropoff address? <emotion value="peaceful"/>
+CALLER: Four four eight North Frederick Avenue.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 4 4 8 North Frederick Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now.
+AGENT: Okay, great! How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: This one passed no will no wheelchair.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions for the driver? <emotion value="grateful"/>
+CALLER: Yes. Tell the driver, wait for me for five minutes, and bring me back home.
+AGENT: Alright, so let me confirm those details. Your pickup is 1 8 3 1 5 Lost Knife Circle. Your dropoff is 4 4 8 North Frederick Avenue. Pickup time is right now. You have one passenger, no wheelchair needed. The driver will wait for you for five minutes and bring you back home. The estimated fare is 7 dollars, paying with Call and Ride. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: Yes. Return trip. Those drivers wait for me for five minutes. And bring me back home.
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Five minutes of the afternoon, dropped the tow drivers away from me.
+AGENT: Hmm, sorry, let me get that right. Did you mean you want the return trip pickup time to be five minutes after your first trip ends? <emotion value="apologetic"/>
+CALLER: Yes.
+AGENT: Okay great! I've scheduled your return trip pickup for five minutes after your first trip ends. How many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One passenger and no wheelchair.
+AGENT: I have your return trip pickup as 4 4 8 North Frederick Avenue, Gaithersburg, Maryland, and your return dropoff as 1 8 3 1 5 Lost Knife Circle, Montgomery Village, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 7 dollars, paying with Call and Ride. Should I go ahead and book both trips for you now? <emotion value="peaceful"/>
+CALLER: Yes, please.
+AGENT: Okay so <break time="250ms"/> I'm booking both trips for you now. <emotion value="grateful"/>
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 0 9 4 5, and your return trip is booked with confirmation number 2 1 3 6 7 0 9 4 6. Both trips are scheduled for today, with the main trip pickup at 4:06 pm and the return trip pickup at 9:06 pm. Is there anything else I can help you with?
+CALLER: No. That's it.
+AGENT: Thank you for calling Barwood & Regency, Kevin. Have a great day!
+CALLER: You too. Bye bye.

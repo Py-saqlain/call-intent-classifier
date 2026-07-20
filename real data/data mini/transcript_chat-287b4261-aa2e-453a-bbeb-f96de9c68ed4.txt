@@ -1,0 +1,7 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Diane Dickerson?
+CALLER: Representative. No.
+AGENT: Thank you for letting me know. May I ask who I am speaking with today? You can also tell me if you want me to list the names I have here.
+CALLER: You found it.
+AGENT: Thanks, Diane. This is Ana from Barwood & Regency. Vehicle 1006 is on the way and will arrive in approximately 22 minutes. How can I assist you today?
+CALLER: She said twenty minutes.
+AGENT: Okay, I understand you heard about a twenty-minute arrival time. If you'd like, I can help you with anything else related to your ride or assist you with a new booking. What can I

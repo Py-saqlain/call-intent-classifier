@@ -1,0 +1,36 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Loise Macauley?
+CALLER: Yes. I see a cab here. I want to take his I see a cab in 655, Cab346. Let him pick me up, please. I'm in Kaiser six five five Watkins, New Gettysburg.
+AGENT: Thanks, Loise. This is Barwood &
+CALLER: Let's him pick me.
+AGENT: Alright, how would you like to pay for your ride today? We accept
+CALLER: I'm I'm sitting in front of the building.
+AGENT: Thanks for letting me know you're in front of the building. Just
+CALLER: Right. The car is coming now. Call the cab. 346. I used him before. Call 346. He's coming out now. He dropped the person. Call 346. Tell him call my is sitting right here on the bench in the front. It dropped the. It just broke.
+AGENT: Thanks for the update about cab 346 and your location. Just to make sure everything is set, could you
+CALLER: I want to go. Look. He's going now. Carl, it it it it's moving. It's going. Oh, that's my Don't tell him that the for you. Look. He's going There you go. Okay. No sense. I told you call him. And you let him go. I told you can't please call him. Just drop somebody, and he's going now. It should take me call him now. Pick me from 655. What gives me those guys up building? I'm going to jump on down to the center.
+AGENT: I understand you want cab 346 to pick you up from 6 5 5 Watkins, New Gettysburg, and take you downtown. Before I proceed, could you please tell me how you would like to pay for this
+CALLER: Well, call him. He's he's driving. He's going.
+CALLER: I don't know you call and ride.
+AGENT: Okay, just to confirm, you would like to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yes. Three two five four two zero. Three two five four two zero. Louise.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Okay, so I found 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Correct Yes. And the Kaiser. That's where he's just just coming from. Kaiser Building. Tell him I'm sitting in front of the building in the bank.
+AGENT: Your pickup address has been verified. Where would you like to go? <emotion value="peaceful"/>
+CALLER: Transit center.
+AGENT: I found a few locations. 
+ Option one: Washington Grove Lane and Center Street, Washington Grove. 
+ Option two: Girard Street and Federal Way, Gaithersburg. 
+ Option three: Girard Street and Teachers Way, Gaithersburg. 
+ Option four: East Diamond Avenue and Old Towne Youth Center, Gaithersburg. 
+ Option five: Montgomery County
+CALLER: You know what? You know what? You know what?
+AGENT: Uh, I am
+CALLER: You listen. Listen. Listen.
+AGENT: I'm here and listening.
+CALLER: Listen. Listen. Let let the. Let the cab take me to one nine seven one eight.
+AGENT: Uh,
+CALLER: That's better for me.
+CALLER: I think the cab take me now. From from from, uh, Kaiser to one nine seven one eight Germantown Road at the Safeway Supermarket.
+AGENT: I found a
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

@@ -1,0 +1,10 @@
+AGENT: Hello Angelica, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Alright. I get a card?
+AGENT: Uhh, just to make sure I understand correctly, are you asking about using a card as your payment method for a ride? <emotion value="peaceful"/>
+AGENT: Okay so I've got that payment noted as Credit Card.
+AGENT: To get started, could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Thank you for letting me know you'll be paying with cash. Now, could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 19347.
+AGENT: Hmm <break time="350ms"/> let me check that address. Just to confirm, is your pickup address 1 9 3 4 7 with a street name or city you can provide? The number alone isn't enough to locate it. <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.

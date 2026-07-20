@@ -1,0 +1,49 @@
+AGENT: Hello ennette, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, schedule for a pickup
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? If you'd like, I can also use your home address at 9 6 1 6 Main Street, Damascus, Maryland. Would you like to be picked up from there? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so your pickup address is 9 6 1 6 Main Street, Damascus, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 9807 Main Street, Damascus, Maryland.
+AGENT: Okay, so your dropoff address is 9 8 0 7 Main Street, Damascus, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Cat one zero four five.
+AGENT: Your dropoff address has been verified. Thank you, Ennette. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 1045.
+AGENT: Just to confirm, did you mean 10:45 AM or 10:45 PM for your pickup time? <emotion value="hesitant"/>
+CALLER: No. Driver, 1045.
+AGENT: Hmm, sorry, let me get that right. You said 10:45, but could you please clarify if you mean in the morning or in the evening? <emotion value="hesitant"/>
+CALLER: Incorrect. Not the right time.
+AGENT: Alright, could you please tell me the exact time you would like to be picked up? <emotion value="hesitant"/>
+CALLER: 6PM.
+AGENT: Okay great! I've got your pickup time as today at 6:00 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One
+AGENT: Will that one passenger require a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: 1045. Yes.
+AGENT: Okay, I've noted 1 passenger and that a wheelchair-accessible vehicle is needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: Yes. Driver 1045.
+AGENT: Alright, the estimated fare is 5.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, great. I'll start collecting the details for your return trip now.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 7PM.
+AGENT: Okay, I've got your return trip pickup time as today at 7:00 PM. How many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One.
+AGENT: Thanks for that. Will anyone need a wheelchair-accessible vehicle for the return trip? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: For your return trip, I have the pickup location as 9 8 0 7 Main Street, Damascus, and the dropoff location as 9 6 1 6 Main Street, Damascus. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 5.5 dollars, paying with Cash. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes. 1045.
+AGENT: Just to confirm, are you asking to update the payment method for your main trip or use it for the return trip? <emotion value="hesitant"/>
+CALLER: No. Driver 1045.
+AGENT: Thank you for your patience. I'm processing the booking for both your main and return trips now.
+AGENT: Your main trip is scheduled for today at 6:00 PM with confirmation number 2 1 3 6 7 3 4 7 9. Your return trip is scheduled for today at 7:00 PM with confirmation number 2 1 3 6 7 3 4 8 0. Is there anything else I can help you with?
+CALLER: Yes. Agent.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

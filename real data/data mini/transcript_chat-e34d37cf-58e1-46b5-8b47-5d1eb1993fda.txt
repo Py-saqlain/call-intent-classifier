@@ -1,0 +1,10 @@
+AGENT: Hi Mike, this is Ana with Barwood & Regency. Vehicle 1027 is on the way and should be there in about 9 minutes, around 6:29 pm. How can I assist you today?
+CALLER: You know what, Anna? It's getting later and later each time. If this driver still working?
+AGENT: Uhh, so you want to check if your driver is still working or on the way? Let me connect you to the trip status team who can provide the latest update on your ride.
+AGENT: Okay, so your driver is currently on the way and should be there in about
+CALLER: Okay.
+AGENT: Okay, so your driver in vehicle 1 0 2 7 is on the way and should arrive in about 9 minutes, around 6:29 pm. Anything else I can check for you?
+CALLER: I'm not another nine minutes. Okay? How long do I have to wait
+AGENT: Okay, so your driver is about 9 minutes away right now, but sometimes traffic or other factors can affect that. If you want, I can connect you with a representative who might be able to assist further. Would you like me to do that?
+CALLER: Yes. Please.
+AGENT: I'm connecting you now to a customer service representative who can assist you further. Please stay on the line.

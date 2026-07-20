@@ -1,0 +1,11 @@
+AGENT: Hello George, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Please don't call me.
+AGENT: I understand. If there's anything you need or want to arrange, just let me know how I can assist you.
+CALLER: Hello.
+AGENT: How can I assist you with your ride today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Very
+AGENT: Could you please tell me more about what you need help with?
+CALLER: No. I'm gonna be big 12.
+AGENT: I want to make sure I understand you correctly. Are you looking to book a ride for 12 passengers?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

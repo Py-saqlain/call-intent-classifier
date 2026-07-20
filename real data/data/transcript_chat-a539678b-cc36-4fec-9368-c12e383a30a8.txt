@@ -1,0 +1,51 @@
+AGENT: Hi Sonny, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I'm trying to catch a cab to go to seven eleven in Olney.
+AGENT: Thanks for letting me know your destination is Seven Eleven in Olney. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Gosh.
+AGENT: No rush at all. Take your time. When you're ready, just let me know how you'd like to pay for your ride.
+CALLER: I said I will pay cash
+AGENT: Thank you for letting me know you'll be paying with cash.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Three five two five Bounty Way in Coney, Maryland.
+AGENT: Just to confirm, did you mean three five two five Bantry Way in Olney, Maryland?
+CALLER: Yes.
+AGENT: I have the pickup address as three five two five Bantry Way, Olney, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: I found two Seven Eleven locations near Olney. One is at six eight four eight Olney Laytonsville Road in Laytonsville, Maryland, and the other is at one eight one two zero Georgia Avenue in Olney, Maryland. Which one would you like to go to?
+CALLER: Dewan on Georgia Avenue.
+AGENT: Just to confirm, you want to go to the Seven Eleven at one eight one two zero Georgia Avenue in Olney, Maryland?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Sonny. I'll now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: Right. You. 3525 Battery Way in Honi, Maryland,
+AGENT: Sure, let me update that address.
+AGENT: I couldn't find an exact match for three five two five Battery Way in Honi, Maryland. The closest match I found is one nine seven four five Garrett Highway in Oakland, Maryland. Is that the correct pickup location?
+CALLER: No. The back back to Banqui word, d a n t r y. Pantry.
+AGENT: Thank you for clarifying. So the pickup address is three five two five Bantry Way in Olney, Maryland, correct?
+CALLER: Yeah. Yes.
+AGENT: I have the pickup address as three five two five Bantry Way, Olney, Maryland. Is that correct?
+CALLER: Yes. Yes.
+AGENT: I've successfully updated your pickup address. What time would you like your pickup to be?
+AGENT: When would you like to be picked up?
+CALLER: Right now, Right now.
+AGENT: Got it, I've scheduled your pickup for right now. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: it's just me.
+AGENT: Thank you for letting me know it's just you and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 5.5 dollars, and you will be paying with Self. Would you like to schedule a return trip as well?
+CALLER: Well, the the the the the the for me She's on trip.
+AGENT: Just to clarify, are you booking a return trip back to 3 5 2 5 Bantry Way, or is the trip we just set up your return journey?
+CALLER: Yes. The.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Like to drive out to work for me when I go in the 07:11 to buy to buy the money money park card.
+AGENT: Could you please tell me the specific time you would like to be picked up for your return trip?
+CALLER: When when when the driver text me there, he's gonna he's around three book it. The driver will take me there and bring me back home.
+AGENT: To make sure I have the right pickup time for your return trip, could you please tell me the exact time you want to be picked up? For example, a specific hour like 3 PM or 7:11 AM.
+CALLER: I have specific time. I'm booking the car to take me there right now and bring me back home.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 8 3 7 4, and your pickup is today at 1:51 PM. Is there anything else I can assist you with?
+CALLER: Run trip booking.
+AGENT: I’m going to connect you with the booking team now to help with your trip.
+CALLER: Thank you.
+AGENT: Thank you for calling Barwood & Regency, Sonny. Have a wonderful day!
+CALLER: Thank you.

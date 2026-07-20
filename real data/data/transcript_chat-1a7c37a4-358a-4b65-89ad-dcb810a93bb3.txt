@@ -1,0 +1,45 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Madeline Turner?
+CALLER: Yes.
+AGENT: Thanks for confirming, Madeline. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: What time is my cab coming today?
+AGENT: I don't see any active trips scheduled for you today. Would you like me to help you book a ride?
+CALLER: Yes, please.
+AGENT: Alright, Madeline, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride.
+AGENT: Okay, just to confirm, you said Call and Ride for payment, right? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Right. Yes.
+AGENT: Could you please tell me the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three two five six. Three six
+AGENT: Hmmm.. that didn't seem right, could you try again with the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Three two five
+AGENT: Hmmm.. that still seems to be fewer
+CALLER: six three six
+AGENT: Thank you for that. Just to be sure, the last six digits you gave me are 3 2 5 6 3 6, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: May I have the pickup address for your trip, please? <emotion value="peaceful"/>
+CALLER: 111. Nine nine Vers Mill Road, Silver Spring, Maryland next Dina,
+AGENT: Hmm <break time="350ms"/> let me check that address.  You said 1 1 1 9 9 Vers Mill Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes. Yes. Yes. Yes.
+AGENT: Okay, so I found 1 1 1 9 9 Veirs Mill Road, Silver Spring, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. May I have the dropoff address, please? <emotion value="peaceful"/>
+CALLER: Three five one three And Wynn Street, There was Spring. Marrow.
+AGENT: Hmm <break time="350ms"/> let me check that address. You said 3 5 1 3 Wynn Street, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. Three five one three e d w I n street
+AGENT: Okay, so the correct address is 3 5 1 3 Edwin Street, Silver Spring, Maryland. Is that right? <emotion value="peaceful"/>
+AGENT: Okay, so I found 3 5 1 3 Edwin Street, Silver Spring, Maryland.
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time as today at 8:45 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One No. One passenger
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No. I do not.
+AGENT: Alright, so let me confirm those details. Your pickup is 1 1 1 9 9 Veirs Mill Road. Your dropoff is 3 5 1 3 Edwin Street. Pickup time is today at 8:45 AM. The estimated fare is 8 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for confirming. I am processing your booking now. Please hold on a moment.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 0 4 3 5. Your pickup is today at 8:45 AM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Madeline. Have a wonderful day!

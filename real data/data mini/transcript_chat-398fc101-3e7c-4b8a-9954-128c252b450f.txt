@@ -1,0 +1,21 @@
+AGENT: Hi Everett, this is Ana with Barwood & Regency. Vehicle 346 is on the way and should be there for your pickup in about 9 minutes. How can I assist you today?
+CALLER: So there there is a a car on their way?
+AGENT: I want to make sure I understand correctly—are you asking if you currently have a driver on the way
+CALLER: Hello?
+AGENT: How can I assist you with your ride today?
+CALLER: Yes.
+AGENT: Your driver is on the way and expected
+CALLER: The people there
+AGENT: Could you please clarify what you mean by "the people there"? Are you asking about the driver or someone else?
+CALLER: Yeah. I'm asking about the driver.
+AGENT: Your driver is assigned and on the way to pick you up shortly. If you need to contact them, customer support can assist you with that.
+CALLER: Okay.
+AGENT: If you need any more help with your ride, just let me know.
+CALLER: Yeah. Can I speak to you you said they're on their way? The driver is on their way?
+AGENT: Yes, your driver is on their way to pick you up at 6:51 am. If you want to speak directly with the driver, I’m unable to connect you, but customer support can help with that. Would you like me to connect you to them?
+CALLER: No. No. I'm not Yes.
+AGENT: Just to be sure, would you like me to connect you to customer support to help with your driver?
+CALLER: Yes.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you. Thank you.
+AGENT: You're

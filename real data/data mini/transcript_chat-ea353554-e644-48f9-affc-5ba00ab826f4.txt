@@ -1,0 +1,8 @@
+AGENT: Hello Lloyd, this is Ana with Barwood & Regency. Your pickup is scheduled for today at 11:30 AM. How can I assist you today?
+CALLER: I'm ready to be picked up now.
+AGENT: You have an active trip scheduled for today at 11:30 am from 2 4 1 5 Musgrove Road in Silver Spring. The driver is not assigned yet. Would you like me to keep this trip as is or help you with anything else?
+CALLER: Operator, please.
+CALLER: Operator,
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Operator.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,59 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I told you my name.
+AGENT: I’m sorry, I didn’t catch your name yet. Could you please tell me your name again so I can set up your profile?
+CALLER: Alfondrocavirone.
+AGENT: Thank you, Alfondrocavirone. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Uh, I'm trying to get a cab
+AGENT: I’d be happy to help you with that. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Card.
+AGENT: Thank you, I have your payment method as credit card.
+AGENT: Could you please tell me the pickup address where the driver should meet you?
+CALLER: One eight seven one five North Frederick Avenue.
+AGENT: I have the pickup address as one eight seven one five North Frederick Avenue, Gaithersburg, Maryland. Is that correct?
+CALLER: Yeah. Yeah.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: 14355 Bell Cree Drive in Silver Spring, Maryland.
+AGENT: I have the dropoff address as one four three five five Bel Pre Drive, Silver Spring, Maryland. Is that correct?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified. Thank you, Alfondrocavirone.
+AGENT: When would you like to be picked up?
+CALLER: Cassandra Calderon.
+AGENT: I’m here to help with your pickup time, passengers, wheelchairs, and driver notes. Could you please tell me what time you would like to be picked up?
+CALLER: Either the pad I need it right now.
+AGENT: Just to clarify, would you like a pickup right now, or would you prefer to schedule a will-call trip to call back when you’re ready?
+CALLER: Right now.
+AGENT: I have your pickup time set for right now, today at 7:13 PM. How many passengers will be traveling, including yourself? And will you need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thank you for letting me know you do not need a wheelchair-accessible vehicle. How many passengers will be traveling, including yourself?
+CALLER: Yep. That's me. Just me.
+AGENT: Got it, one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 35 dollars, paying with your own payment method. Would you like to schedule a return trip as well?
+CALLER: Yeah. Yes.
+AGENT: Great, I'll start collecting the details for your return trip.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Pretty much within five, ten minutes after being dropped off.
+AGENT: I have your return trip pickup time set for about five minutes after your first trip. How many passengers will be traveling on the return trip, including yourself? And will you need a wheelchair-accessible vehicle?
+CALLER: That's me.
+AGENT: Thank you for confirming one passenger for the return trip. Will you need a wheelchair-accessible vehicle for the return trip?
+CALLER: No.
+AGENT: For your return trip, I have the pickup address as one four three five five Bel Pre Drive, Silver Spring, Maryland, and the dropoff address as one eight seven one five North Frederick Avenue, Gaithersburg, Maryland. Is that correct?
+CALLER: Yeah.
+AGENT: The estimated fare for your return trip is 35 dollars, paying with your credit card. Should I go ahead and book both trips for you?
+CALLER: Yeah.
+AGENT: I’m booking both trips for you now.
+AGENT: I’m processing your booking for both trips now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 7:13 PM with confirmation number 2 1 3 6 6 4 9 6 5. Your return trip is scheduled for tomorrow at 12:13 AM with confirmation number 2 1 3 6 6 4 9 6 6. Is there anything else I can help you with?
+CALLER: It's it's trip is for today.
+AGENT: Yes, your main trip is indeed scheduled for today at 7:13 PM. If you need any other assistance or have questions, just let me know.
+AGENT: Take your time.
+CALLER: What time is the return trip scheduled for? Hello? Hello? What time is the return trip scheduled for? Hello?
+AGENT: Your return trip is scheduled for tomorrow at 12:13 AM. Is there anything else I can assist you with?
+CALLER: Schedule it five minutes after after drop off.
+AGENT: I understand you'd like to schedule the return trip for five minutes after your drop-off. Let me connect you to a representative who can assist with adjusting the return trip time.
+CALLER: Just schedule the trip.
+CALLER: Trip.
+AGENT: I’m ready to help you with your trip. Could you please confirm the pickup and dropoff addresses and the exact time you want the return trip scheduled? You mentioned five minutes after your dropoff—if you can provide the dropoff time or address, that will help me set it correctly.
+AGENT: Take your time. Just let me know when you're ready.

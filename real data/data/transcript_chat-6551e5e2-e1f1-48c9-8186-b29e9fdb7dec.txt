@@ -1,0 +1,35 @@
+AGENT: Hello Tony, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like a cab. For about nine fifteen to take me to for eight twenty seven East Rockville Pike.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yes. Three one seven four zero one.
+AGENT: Thank you, your Call and Ride payment is all set. <emotion value="grateful"/>
+AGENT: Okay, so I found the dropoff address as eight two seven Rockville Pike Suite East, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Eight two seven East Rockville Pike.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: Two zero eight
+AGENT: Thank you. Could you please provide the street name and city for the pickup address at two
+CALLER: one four six
+AGENT: I have the numbers two zero eight and one four six so far. Could you please provide the full street address including the street name and city for your pickup? <emotion value="peaceful"/>
+CALLER: One four six four three Bauer Drive, Rockville two zero eight five three.
+AGENT: Okay, so I found your pickup address as one four six four three Bauer Drive, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified, Tony.
+AGENT: Just to confirm, you would like to be picked up today at 9:15 AM, is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. Just me. I have a cane.
+AGENT: Alright, the estimated fare is 11 dollars, paying with Call and Ride. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I'm not sure. I may be at that office for about an hour I'll call when I'm ready.
+AGENT: Okay, your return trip is set as will-call, so you can call back when you're ready. Now, for the return trip, how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Just me. No.
+AGENT: For your return trip, I have the pickup as eight two seven Rockville Pike and the dropoff as one four six four three Bauer Drive. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 11 dollars, paying with Call and Ride. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Please. Yes.
+AGENT: Your main trip is scheduled for today at 9:15 AM with confirmation number 2 1 3 6 7 6 7 3 2. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 6 7 3 3. You can call back when you're ready for the return trip, and a driver will be sent then. Is there anything else I can help you with?
+CALLER: No. Thank you. You've done great. Appreciate your time.
+AGENT: Thank you for calling Barwood & Regency, Tony. Have a wonderful day!

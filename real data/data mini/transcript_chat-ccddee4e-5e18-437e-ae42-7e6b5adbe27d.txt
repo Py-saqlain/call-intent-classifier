@@ -1,0 +1,18 @@
+AGENT: Hi Hirsche, this is Ana from Barwood & Regency. Your pickup is scheduled for today at 12:00 PM. How can I assist you today?
+CALLER: Cancel.
+AGENT: I see you have two trips booked: your main trip at midnight from Fernwood Road to East West Highway in Bethesda, and your return trip at noon from East West Highway back to Fernwood Road. Which one would you like to cancel, or do you want to cancel both?
+CALLER: Both of both.
+AGENT: You have two trips scheduled. Just to confirm, you want to cancel both the main trip at midnight and the return trip at noon, correct?
+CALLER: Yes.
+AGENT: Both your main trip at midnight and your return trip at noon have been
+CALLER: No.
+AGENT: Just to confirm, you want to keep both trips and not cancel any?
+CALLER: I want to cancel twelve noon and yes, both
+AGENT: To clarify, you want to cancel both trips including the one at twelve noon, correct?
+CALLER: Yes.
+AGENT: Both trips, including the one at twelve noon, have already been cancelled. Is there anything else I can help you with?
+CALLER: Is there a cancellation number
+AGENT: Yes, the cancellation numbers for your trips are 0 2 1 3 6 7 9 6 8 4 and 0 2 1 3 6 7 9 6 8 3. Can I assist you with anything else?
+CALLER: Repeat.
+AGENT: The cancellation numbers are zero two one three six seven nine six eight four, and zero two one three six seven nine six eight three. Anything else I can help with?
+CALLER: No. Thank you very much. Bye.

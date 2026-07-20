@@ -1,0 +1,16 @@
+AGENT: Hello Angela, this is Ana from Barwood & Regency. Your pickup is scheduled for today at 5:20 PM. How can I assist you today?
+CALLER: Pickup.
+AGENT: Could you please tell me the pickup address you'd like to use?
+CALLER: Current reservation.
+AGENT: You have an active trip scheduled for pickup today at 5:20 pm from 4 4 9 4 Palmer Road North in Bethesda to 1 1 0 Lee Avenue in Takoma Park. No driver or vehicle has been assigned yet. Would you like me to keep you updated or assist with anything else?
+CALLER: Address.
+AGENT: Could you please specify if you want to update or confirm the pickup or dropoff address?
+CALLER: I wanted to confirm pickup address.
+AGENT: Your pickup address is 4 4 9 4 Palmer
+CALLER: Change pickup address.
+AGENT: Please provide the new pickup address you'd like to use.
+CALLER: Representative.
+CALLER: Representative. Customer service.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Agent, please. Agent, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

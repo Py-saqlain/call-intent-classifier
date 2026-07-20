@@ -1,0 +1,30 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Lawrence Davis.
+AGENT: Thanks, Lawrence. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yes. Uh, do you have any cabs in, um, Damascus area? Well, what's that? What's this
+AGENT: Uhh, so you're asking if we have cabs available in the Damascus area? <emotion value="peaceful"/>
+CALLER: But oh, Bethesda. Bethesda. Yes, ma'am.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Is Bethesda church where cash Cash. Cash. Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: I found a few locations near Bethesda. Option one: Bethesda Metro Station, Bethesda. Option two: Bethesda Church, Bethesda. Which one is correct? <emotion value="hesitant"/>
+CALLER: What what is the Catholic church?
+AGENT: Let me check for Catholic churches in Bethesda. <emotion value="peaceful"/>
+AGENT: I found a few Catholic churches near Bethesda. Option one: St. Mary's Catholic Church at 5 2 0 Veirs Mill Road, Rockville. Option two: Saint Raphael Catholic Church at 1 5 1 3 Dunster Road, Rockville. Option three: St. Elizabeth Catholic Church at 9 1 7 Montrose Road, Rockville. Option four: Shrine of Saint Jude Thaddeus Catholic Church at 1 2 7 0 1 Veirs Mill Road, Rockville. Option five: Chapel of Our Lady of Lourdes in North Bethesda. Which one would you like? <emotion value="hesitant"/>
+CALLER: None. I'm not in that area. I'm I'm up in Germantown.
+AGENT: Okay, so you're looking for a Catholic church in Germantown instead of Bethesda. Let me find some options for you there. <emotion value="peaceful"/>
+AGENT: I found a few Catholic churches near Germantown. Option one: St. Francis of Assisi at 6 7 0 1 Muncaster Mill Road, Derwood. Option two: St Martin Of Tours Church at 2 0 1 South Frederick Avenue, Gaithersburg. Option three: St. John Neumann Catholic Church at 9 0 0 0 Warfield Road, Gaithersburg. Option four: St. Rose of Lima Catholic Church at 1 1 7 0 1 Clopper Road, Gaithersburg. Option five: Our Lady of Perpetual Help Syro-Malabar Catholic Church at 2 0 5 3 3 Zion Road, Gaithersburg. Which one would you like? <emotion value="hesitant"/>
+CALLER: The math is I mean, the It's still going the wrong way.
+AGENT: I understand, it sounds like those options are not quite right for you. Could you please provide a more specific address or landmark near the Catholic church you want in Germantown? That way I can find the exact location for your pickup. <emotion value="peaceful"/>
+CALLER: I'm in Damascus.
+AGENT: Thanks for letting me know you're in Damascus. Could you please tell me the full pickup address there, or a nearby landmark to help find your exact location? <emotion value="peaceful"/>
+CALLER: I mean, the math is the master
+AGENT: I'm sorry, I didn't quite catch that. Could you please repeat or clarify what you meant by "the math is the master"? <emotion value="hesitant"/>
+CALLER: what's the address Okay.
+AGENT: Could you please tell me the full address or the name of the place you want to be picked up from? That way I can help find the exact location for your ride. <emotion value="peaceful"/>
+CALLER: It's ninety eight
+AGENT: Thank you. Could you please provide the full street name and city along with the number ninety eight? That will help me find the exact pickup address for you. <emotion value="peaceful"/>
+CALLER: Ninety eight thirteen
+AGENT: Thanks for that. Could you please tell me the street name and city for the address ninety eight thirteen? That way I can locate it accurately for your pickup. <emotion value="peaceful"/>
+CALLER: But there's the church road the master of Maryland.
+AGENT: Okay, so the

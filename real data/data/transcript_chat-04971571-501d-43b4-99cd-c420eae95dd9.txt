@@ -1,0 +1,27 @@
+AGENT: Hello, Hyman. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Pickup at five two five five Lock Road Northwest.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so I found 5 2 5 5 Loughboro Road Northwest, Washington, District of Columbia. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, may I have the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Six one one one Montrose Road, Rockville, Maryland.
+AGENT: Okay, so I found 6 1 1 1 Montrose Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now,
+AGENT: Okay great! I've got your pickup time as today at 3:56 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One. There'll be one passenger.
+AGENT: Thanks for that. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay great! No wheelchair accessible vehicle needed. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: Alright, so let me confirm those details. Your pickup is 5255 Loughboro Road Northwest. Your dropoff is 6111 Montrose Road. Pickup time is today at 3:56 PM. You have one passenger traveling, and you will be paying with Self. The estimated fare is 29 dollars. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for confirming. I am processing your booking now. Please hold on a moment.
+AGENT: Your main trip is booked for today at 3:56 PM. Your confirmation number is 2 1 3 6 7 0 9 3 1. Is there anything else I can help you with?
+CALLER: Nope. That's it.
+AGENT: Thank you for calling Barwood & Regency, Hyman. Have a wonderful day!
+CALLER: You too.

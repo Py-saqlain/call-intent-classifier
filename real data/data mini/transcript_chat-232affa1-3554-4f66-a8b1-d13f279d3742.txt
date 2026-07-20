@@ -1,0 +1,6 @@
+AGENT: Hello Gail, this is Ana from Barwood & Regency. I see you have a will-call trip scheduled today from 1 9 7 1 8 Germantown Road to 2 1 0 0 0 Father Hurley Boulevard in Germantown. How can I assist you today?
+CALLER: Well, he said he said that he'd be outside the key Safeway, but I don't see him. He told me to call. You told me to call, so I'm calling. I'm all done.
+CALLER: Hello?
+AGENT: Uhh, I’m here. How can I assist you today? <emotion value="peaceful"/>
+CALLER: Well, I'm waiting for my cab. Out of seat, please. I'm outside and safely. He's not here. I don't see him.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

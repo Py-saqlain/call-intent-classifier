@@ -1,0 +1,32 @@
+AGENT: Hello Lady, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when
+CALLER: Luca Cab. Reserve a ride.
+AGENT: Thank you for choosing Luca Cab. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Am I paying with card or cash?
+AGENT: I don’t have your payment method yet. Would you prefer to pay with cash, credit card, or Call and Ride?
+CALLER: Pay card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Where would you like to be picked up?
+CALLER: 620 Perry Parkway.
+AGENT: I have 6 2 0 Perry Parkway, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Where would you like to go?
+CALLER: One seven zero one three King James Way.
+AGENT: I have 1 7 0 1 3 King James Way, Gaithersburg, Maryland as your destination address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Lady.
+AGENT: When would you like to be picked up?
+CALLER: No.
+AGENT: Could you please clarify if you want to be picked up right now or if you prefer to schedule a will-call trip to call back later?
+CALLER: Pickup right now.
+AGENT: Got it, I'll arrange your pickup for right now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger.
+AGENT: Thank you. Will you need a wheelchair-accessible vehicle for this trip?
+CALLER: No.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: There will be few luggages.
+AGENT: The estimated fare for your trip is 7.5 dollars, and you will be paying with your own payment method. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Your will-call trip is booked with confirmation number 2 1 3 6 6 7 0 5 6. You can call back when you are ready, and a driver will be dispatched to your pickup location shortly. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Lady. Have a wonderful day.

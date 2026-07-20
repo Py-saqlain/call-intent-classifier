@@ -1,0 +1,9 @@
+AGENT: Hi Richard, this is Ana with Barwood & Regency. Your pickup is scheduled for today at 2:37 PM. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes, buddy.
+AGENT: How can I assist you with your ride today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: We just got we just described in the.
+AGENT: I want to make sure I understand you correctly. Are you looking to book a new ride or do you need help with an existing trip?
+CALLER: Hello?
+AGENT: I'm here to help. Would you like to book a new ride, check the status of a trip, or speak with a representative?

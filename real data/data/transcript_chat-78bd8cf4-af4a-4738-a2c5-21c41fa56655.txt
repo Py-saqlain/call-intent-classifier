@@ -1,0 +1,32 @@
+AGENT: Hello, Partrica. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to order a new cab please.
+AGENT: Thank you for choosing us for your ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: It's gonna be calling. Right?
+AGENT: Just to make sure, did you mean Call and Ride for your payment method?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Oh, I'm ready.
+AGENT: Great! Could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero two zero four three five.
+AGENT: Thank you, your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Three one one six. Hewitt Avenue.
+AGENT: I have 3 1 1 6 Hewitt Avenue, Aspen Hill, Maryland as your pickup address. Is that correct?
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes.
+AGENT: Could you please tell me the destination or dropoff address for your ride?
+CALLER: I am going
+AGENT: Could you please complete the destination address or let me know where you are going?
+CALLER: thirteen seven eight one. Connecticut Avenue. The John State School.
+AGENT: I have 1 3 7 8 1 Connecticut Avenue, Aspen Hill, Maryland as your dropoff address. Is that correct?
+CALLER: Third one three eight seven one Connecticut Avenue. So the
+CALLER: Yeah.
+AGENT: I couldn't find an exact match for 3 3 8 7 1 Connecticut Avenue, Silver Spring, Maryland. Could you please confirm if you meant 1 3 7 8 1 Connecticut Avenue, Silver Spring, Maryland?
+AGENT: I couldn't find an exact match for 3 3 8 7 1 Connecticut Avenue. Did you mean 1 3 7 8 1 Connecticut Avenue in Silver Spring, Maryland?
+CALLER: The one. No. It's this
+AGENT: I understand you want to use 3 3 8 7 1 Connecticut Avenue. Could you please provide the city and state for this address to help me locate it accurately?
+CALLER: Yes.
+AGENT: Could you please tell me the city and state for 3 3 8 7 1 Connecticut Avenue?
+CALLER: It is 13. It
+AGENT: Could you please clarify the city and state for the address 3 3 8 7 1 Connecticut Avenue?
+AGENT: I'm

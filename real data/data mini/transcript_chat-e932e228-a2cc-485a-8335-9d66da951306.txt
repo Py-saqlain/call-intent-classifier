@@ -1,0 +1,25 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: James.
+AGENT: Thanks, James. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a cab
+AGENT: Thanks for letting me know, James. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Card.
+AGENT: Thank you, James. Your payment method is set to credit card.
+AGENT: James, could you please tell me the pickup address for your cab ride?
+CALLER: Eighty Grove Metro.
+AGENT: James, I found a few locations related to "Eighty Grove Metro":
+
+1. WMATA Shady Grove Rail Yard at 1 5 9 0 3 Somerville Drive, Rockville, Maryland
+2. Shady Grove at 1 5 9 0 3 Somerville Drive, Rockville, Maryland
+3. Metropolitan Grove Road, 3 Metropolitan Court, Gaithersburg, Maryland
+4. Grosvenor-Strathmore in North Bethesda, Maryland
+
+Which one would you like to use for your pickup?
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: The second one.
+AGENT: Just to clarify, you want the dropoff address to be Shady Grove at 1 5 9 0 3 Somerville Drive, Rockville, Maryland? Or did you mean something else for the dropoff?
+CALLER: Operator. Operator.
+AGENT: I can help with your booking details — would you like to continue?
+CALLER: Operator, two zero nine zero Yes.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

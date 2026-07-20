@@ -1,0 +1,44 @@
+AGENT: Hello Jayson, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm trying to leave trying to leave at six ten six one zero East Diamond Avenue, suite one hundred a, Gaithersburg, Maryland two zero eight two zero eight seven seven.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Colin Wright. Colin Wright.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay so I've got that you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero eight four four nine eight.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+CALLER: Yes.
+AGENT: Could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is 6 1 0 East Diamond Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Six one zero East Diamond Avenue, suite one hundred one zero zero a Gaithersburg, Maryland two zero eight seven seven.
+AGENT: Thank you for the clarification. Just to confirm, your pickup address is 6 1 0 East Diamond Avenue, suite 1 0 0 A, Gaithersburg, Maryland, 2 0 8 7 7. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One two zero three eight Chestnut Glen Road, Clarksburg, Maryland two zero eight seven one.
+AGENT: Thank you. Let me check that dropoff address for you. <emotion value="peaceful"/>
+AGENT: Okay, your dropoff address is 1 2 0 3 8 Chestnut Glen Road, Clarksburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Jayson.
+AGENT: Just to confirm, you would like to be picked up at 6:10 PM today, correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Hmm, sorry, let me get that right. Could you please tell me the correct pickup time you want? <emotion value="apologetic"/>
+CALLER: Twelve
+AGENT: Alright, so you want to be picked up at 12:00 PM today, correct? <emotion value="peaceful"/>
+CALLER: thirty five. 1230. PM.
+AGENT: Okay, so you want to be picked up today at 12:30 PM, is that right? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time as today at 12:30 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Sure.
+AGENT: Could you please tell me the number of passengers and if anyone will need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Only one passenger. Just myself.
+AGENT: Thanks for letting me know there will be one passenger. Will you need a wheelchair-accessible vehicle for this trip? <emotion value="peaceful"/>
+CALLER: Only one passenger. No. No.
+AGENT: Okay, I've noted one passenger and no wheelchair needed. Do you have any special instructions or requests for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 27.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 12:30 PM. Your confirmation number is 2 1 3 6 7 5 7 6 9. Is there anything else I can help you with?
+CALLER: I don't think so. Have a good day. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Jayson. Have a wonderful day!
+CALLER: Thank you.

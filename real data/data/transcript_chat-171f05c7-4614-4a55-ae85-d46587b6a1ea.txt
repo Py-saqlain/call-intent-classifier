@@ -1,0 +1,21 @@
+AGENT: Hello Pundal, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Hi. Uh, can I have the cap?
+AGENT: Sure, I can help you with that. Could you please tell me where you would like the cab to pick you up from?
+CALLER: Pick from one company, Nine five zero two Tunstall Place.
+AGENT: Thank you for the pickup address at 9 5 0 2 Tunstall Place. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: I have 9 5 0 2 Tunstall Place, Montgomery Village, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: I like to go auto tune not FedEx. Gettysburg, and I just dropped my car parked down there and then I'll come back same place. Nine five zero two Townstall Place.
+AGENT: I found Gettysburg, Pennsylvania 1 7 3 2 5 as the destination. Is that the place you want to go?
+CALLER: No. No. Is auto John Gatasburg, Maryland.
+AGENT: I found several auto
+CALLER: North
+AGENT: Could you please clarify if you mean the location "Precision Tune Auto Care" at 1 9 3 9 8 Montgomery Village Avenue in Montgomery Village, Gaithersburg, Maryland? Or is there another specific place you have in mind?
+CALLER: No. Just nearby. Townstall Place. That one is AutoZone. AutoZone. Not Frederick. It's Gettysburg.
+AGENT: I found AutoZone Auto Parts at 2 4 0 North Frederick Avenue, Gaithersburg, Maryland. Is that the place you want to go?
+CALLER: Yes, please.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+AGENT: Your dropoff address has been

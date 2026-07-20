@@ -1,0 +1,37 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Tony.
+AGENT: Thanks, Tony. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Trying to get a taxi
+AGENT: Alright, Tony, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmmm.. <break time="300ms"/> I want to make sure I understand you correctly. Could you please tell me how you would like to pay? Cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Thank you for letting me know about the payment. Now, could you please tell me the pickup address where the taxi should come to get you? <emotion value="peaceful"/>
+CALLER: One eight zero nine
+AGENT: Thank you. Could you please provide the street name and city for the pickup address at one eight zero nine? <emotion value="peaceful"/>
+CALLER: Prince Philip Drive,
+AGENT: Thank you. Could you please tell me the city for one eight zero nine Prince Philip Drive? <emotion value="peaceful"/>
+CALLER: Prince Philip Drive, Olney, Maryland
+AGENT: Hmm <break time="350ms"/> I couldn't find an exact match for one eight zero nine Prince Philip Drive in Olney, Maryland. However, I found a location at two nine zero one Olney Sandy Spring Road, Olney, Maryland. Is that the place you meant? <emotion value="hesitant"/>
+AGENT: Hmm <break time="350ms"/> I couldn't find an exact match for one eight zero nine Prince Philip Drive in Olney, Maryland. However, I found a location at two nine zero one Olney Sandy Spring Road, Olney, Maryland. Is that the place you meant? <emotion value="hesitant"/>
+CALLER: No. It's
+AGENT: I’m sorry, I didn’t catch the rest of the address. Could you please repeat the full pickup address for me? <emotion value="apologetic"/>
+CALLER: No. One eight zero nine.
+AGENT: Okay, so just to be clear, your pickup address is one eight zero nine Prince Philip Drive, Olney, Maryland, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found a few locations related to one eight zero nine Prince Philip Drive, Olney, Maryland. <break time="700ms"/> Option one: 2901 Olney Sandy Spring Road, Olney. <break time="500ms"/> Option two: 18111 Prince Philip Drive, Olney. <break time="500ms"/> Option three: 18101 Prince Philip Drive, Olney. <break time="500ms"/> Option four: 18101 Prince Philip Drive, Olney. <break time="500ms"/> Option five: 18101 Prince Philip Drive, Olney. <break time="500ms"/> Which one is correct? <emotion value="hesitant"/>
+CALLER: 18109.
+AGENT: Thank you, your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Prince Philip Drive. In Albany,
+AGENT: Thank you. Could you please provide the street number for the dropoff address on Prince Philip Drive in Albany? <emotion value="peaceful"/>
+CALLER: Seventeen zero four
+AGENT: Thank you. Could you please confirm the city and state for seventeen zero four Prince Philip Drive? <emotion value="peaceful"/>
+CALLER: Scaffold Hill Road.
+AGENT: I’m sorry, I’m a bit confused. You mentioned seventeen zero four Prince Philip Drive in Albany, but now you said Scaffold Hill Road. Could you please clarify the full dropoff address you want? <emotion value="apologetic"/>
+CALLER: 1704 Chapel Hill Road, Silver Spring, Maryland.
+AGENT: Hmm <break time="350ms"/> I couldn't find seventeen zero four Chapel Hill Road in Silver Spring, Maryland. Could you please confirm if the street name or city might be different, or provide any nearby landmarks? <emotion value="hesitant"/>
+CALLER: Seventeen zero four Chapel Hill Road, Silver Spring, Maryland.
+AGENT: I’m sorry, but I couldn’t find any results for seventeen zero four Chapel Hill Road in Silver Spring, Maryland. Could you please double-check the address or provide another nearby landmark or cross street? <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

@@ -1,0 +1,17 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Njideka Odiana?
+CALLER: Yes.
+AGENT: Thank you for confirming.
+AGENT: Thanks, Njideka. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need to schedule a a pickup for my current place right now.
+AGENT: Thanks for letting me know. How would you like to pay for your ride? We accept cash, credit card,
+CALLER: To oh, I'm saying no. I need to go to the bank, M and T Bank.
+AGENT: I
+CALLER: Close to me. M and T Bank.
+AGENT: Got it, you want to go to M and T Bank near you. Before we continue, could
+CALLER: Yes.
+AGENT: Thank you. Now, how would you like to pay for your ride? We accept cash, credit card, and Call
+CALLER: Yes. Yes. Yes.
+AGENT: I want to make sure I get your payment method right. Would you like to pay with cash, credit card, or Call and Ride?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

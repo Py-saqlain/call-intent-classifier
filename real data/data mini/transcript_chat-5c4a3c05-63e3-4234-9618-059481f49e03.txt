@@ -1,0 +1,16 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with James?
+CALLER: Hello?
+AGENT: Yes, I’m here to help. Is this James I’m speaking with?
+CALLER: Let me speak with someone.
+CALLER: Well, look at
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Trip status.
+AGENT: This is Barwood & Regency. Could you please tell me your name so I can assist you with your trip status?
+CALLER: Barbara tay. I didn't know, but we
+AGENT: Thanks, Barbara. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Ordered a cab. What's where is
+AGENT: I can help you check the status of your cab. May I have the name the booking was made under, please?
+CALLER: Barbara Chase.
+CALLER: They don't need it. But it's okay. I don't know.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Nothing. So.

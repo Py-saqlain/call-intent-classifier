@@ -1,0 +1,14 @@
+AGENT: Hi Marion, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I am ready for pickup.
+AGENT: It looks like you don't have an active trip scheduled right now. Would you like me to help you book a ride?
+CALLER: No.
+AGENT: Just to confirm, you want to cancel the booking process and not schedule any trips right now?
+CALLER: That's right.
+AGENT: Just to confirm, if I proceed with canceling, no trips will be booked. Is that okay?
+CALLER: Yes.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yeah. Hey, Jim. Agent.
+CALLER: Metro access.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Agent.

@@ -1,0 +1,10 @@
+AGENT: Hi Chris, this is Ana with Barwood & Regency. The driver is at your location now. How can I assist you today?
+CALLER: Uh, just time.
+AGENT: Could you please tell me what time you would like your pickup?
+CALLER: L
+AGENT: I didn't quite catch that. Could you please tell me the time you'd like to be picked up?
+CALLER: you know,
+AGENT: I’m here to help whenever you’re ready. Just let me know the time you want for your pickup or if there’s something else I can assist with.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay.
+AGENT: How can I assist you today? Are you looking to book a ride, check on a trip, or something else?

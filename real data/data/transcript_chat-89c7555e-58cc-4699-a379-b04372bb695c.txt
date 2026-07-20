@@ -1,0 +1,30 @@
+AGENT: Hi Janette, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello?
+AGENT: How can I assist you with your ride today?
+CALLER: Need car and ride pickup.
+AGENT: Thank you for letting me know. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: With my calling right.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Three four zero zero one five.
+AGENT: Thank you, your payment method is set as Call and Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Rockville Metro Station.
+AGENT: I found Rockville Metro Station at 251 Hungerford Drive, Rockville, Maryland. Is that the correct pickup location?
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 503 Blandford Street, Rockville, Maryland 20850.
+AGENT: I have 5 0 3 Blandford Street, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: Yeah. Correct.
+AGENT: Your dropoff address has been verified, Janette. I will now proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One No. And one person.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: Nope. I'll be waiting outside for
+AGENT: Janette, the estimated fare for your trip is 6 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: No. Thank you.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 1:52 PM. Your confirmation number is 2 1 3 6 6 8 3 7 2. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Janette. Have a wonderful day!

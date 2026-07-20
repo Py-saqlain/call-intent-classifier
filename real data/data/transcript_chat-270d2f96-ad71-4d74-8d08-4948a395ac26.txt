@@ -1,0 +1,28 @@
+AGENT: Hello, this is Ana with Barwood & Regency. This is Jackson, correct? How can I assist you today?
+CALLER: Ordering a cab for 09:45 this morning.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: May I have the pickup address for your ride, please? If you'd like, I can use your home address at 9 4 0 1 Russell Road, Silver Spring, Maryland. Would that work for you? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I found that location. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, may I have the dropoff address for your ride? <emotion value="peaceful"/>
+CALLER: Two four one five Musgrove, Road, Silver Spring.
+AGENT: Okay, so I found that location. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: Just to confirm, you would like to be picked up today at 9:45 AM, is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One passenger don't need wheelchair accessible.
+AGENT: Okay great! Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, so let me confirm those details. Your pickup is 9 4 0 1 Russell Road. Your dropoff is 2 4 1 5 Musgrove Road. Pickup time is 9:45 AM. One passenger, no wheelchair needed. The estimated fare is 22 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your main trip is booked for today at 9:45 AM. Your confirmation number is 2 1 3 6 7 0 4 2 8. Is there anything else I can help you with?
+CALLER: Repeat confirmation number.
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 0 4 2 8. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Jackson. Have a wonderful day.

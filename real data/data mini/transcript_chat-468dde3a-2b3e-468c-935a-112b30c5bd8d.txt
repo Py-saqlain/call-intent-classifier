@@ -1,0 +1,30 @@
+AGENT: Hello William, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Can I get a taxi?
+AGENT: I'd be happy to help you with that. How would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call me right.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three zero seven six six seven.
+AGENT: Thank you, your payment with Call and Ride is all set.
+AGENT: To get started, may I have the pickup address for your taxi ride?
+CALLER: 6020 California Circle, North Bethesda, Maryland.
+AGENT: I have 6 0 2 0
+CALLER: Two zero eight five two.
+AGENT: Just to confirm, is your pickup address 6 0 2 0 California Circle, North Bethesda, Maryland?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Eight. Zero zero five. Gram mercy
+AGENT: Could you please clarify the dropoff address? It sounds like you said "eight zero zero five Gram mercy." Is
+CALLER: Jason.
+AGENT: Could you please confirm the full dropoff address including the street number and street name or any nearby landmark? This will help me find the exact
+CALLER: Eight zero zero five
+AGENT: Could you please provide the street name or any
+CALLER: Eight eight zero
+AGENT: I want to make sure I have your dropoff address correctly. Could you please provide the full street number and street name or a nearby landmark for your destination?
+CALLER: eight zero zero five Gramercy Boulevard. Eight zero zero five.
+CALLER: Grand Mercy Boulevard,
+AGENT: I
+CALLER: Deerwood, Maryland two zero eight five five.
+AGENT: I have 8 0 0 5 Gramercy Boulevard, Rockville, Maryland. Is that correct?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

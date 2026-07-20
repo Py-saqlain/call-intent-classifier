@@ -1,0 +1,25 @@
+AGENT: Hello Jhong, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to book a trip
+AGENT: Okay, I can help you with that. Let me start the booking process for you.
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Colin Wright.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay so I've got that you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three five one two seven seven.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: May I have the pickup address for your trip, please? <emotion value="peaceful"/>
+CALLER: 3 Pooksil Road, Beth Bethesda, Maryland.
+AGENT: Hmm, let me check that address. <emotion value="peaceful"/>
+AGENT: I found a close match: 5 1 5 1 Pooks Hill Road, Bethesda, Maryland. Is that the correct pickup address? <emotion value="hesitant"/>
+CALLER: Three Pooks Hill Road.
+AGENT: Okay, so you mean 3 Pooks Hill Road, Bethesda, Maryland? <emotion value="peaceful"/>
+AGENT: Okay, so I found 3 Pooks Hill Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. May I have the dropoff address, please? <emotion value="peaceful"/>
+CALLER: Two zero zero one Road. Rockville. Maryland.
+AGENT: Hmm, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found 2 0 0 1 Veirs Mill Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: May I have the pickup address for your trip, please? <emotion value="peaceful"/>

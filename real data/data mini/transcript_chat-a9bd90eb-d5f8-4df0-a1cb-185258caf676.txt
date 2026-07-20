@@ -1,0 +1,11 @@
+AGENT: Hello Lucille, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: We need to return care from five zero nine to 18600 Cross Country Lane. I'm at five zero nine at Capital One. I'm gonna return to one eight six hundred cross country lane.
+CALLER: I'm ready now.
+AGENT: Thanks for letting me know you're ready. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: And how long?
+AGENT: There isn't an active trip scheduled right now.
+CALLER: Ready to go now. Seven three. What? I had already called for a return trip before I left home. I got a bad leg and it hurt and I can't stand on it too long.
+AGENT: I don't see an active trip scheduled right now. Since you mentioned you had called for a return trip earlier, I can help you get that set up again or connect you with someone who can assist. Would you like me to do that?
+CALLER: Yeah. Because I'm ready to go. I don't feel good because my legs is hurting. I'm so my leg is hurting.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

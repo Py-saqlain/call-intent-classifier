@@ -1,0 +1,54 @@
+AGENT: Hello Fatema, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Very good. How are you?
+AGENT: Uhh, I'm here and ready to help. What can I do for you today? <emotion value="peaceful"/>
+CALLER: Okay.
+CALLER: Okay.
+AGENT: Alright, whenever you're ready, just let me know how I can
+CALLER: Okay. I need the task I need taxi, please.
+CALLER: Hello?
+AGENT: Hi there, how would you like to pay for your taxi ride
+CALLER: Hello? Yes. Calling right.
+AGENT: Okay so I've got that you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yeah. Last six digits. Three. Four, zero six
+CALLER: seven six.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you would like to be picked up? <emotion value="peaceful"/>
+CALLER: Pickup address. You need the pickup address?
+AGENT: Yes, please. I need the pickup address to arrange your taxi. Where should the driver come to pick you up? <emotion
+CALLER: Okay. Eight eight three three Wynn Avenue.
+AGENT: Hmm
+CALLER: Wayne Avenue.
+CALLER: Eight three three Wayne Avenue, Whole Foods.
+AGENT: I found a few locations.  
+Option one: 8 3 3 3 Wayne Avenue, Silver Spring.  
+Option two: 8 3 3 3 Wayne Avenue, Chevy Chase.  
+Which one is
+CALLER: No. No. No. Only on not not Yeah. No. Eight three three Wayne Avenue.
+AGENT: Okay, so just to confirm, your pickup address is eight three three Wayne Avenue. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Okay, so I found the address as eight three three Wayne Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Two three zero three greenery Lane Silver Spring.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found the address as two three zero three Greenery Lane, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified. Thank you, Fatema. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No. It's it's possible.
+AGENT: Could you please clarify if you mean you want to be picked up right now, or if you prefer a will-call trip where you call back when ready? <emotion value="hesitant"/>
+CALLER: No. I'm ready. I'm in I'm waiting in front. I'm ready.
+AGENT: Okay great! I've got your pickup time as today at 8:32 PM. How many passengers will
+CALLER: Oh, you need the phone? You need the phone number?
+AGENT: I’m just gathering the number of passengers and wheelchair needs right now. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One one No.
+AGENT: Okay great! I've got that noted. Do you have any special instructions for the driver? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 18 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will proceed with just the one-way trip then. Let me confirm, you do not want to schedule a return trip,
+CALLER: Okay.
+AGENT: Your trip is booked for today at 8:32 PM. Your confirmation number is 2 1 3 6 7 6 6 2. Is there anything else I can help you with?
+CALLER: You said yeah. No. No. I'm fine. Everything is good. Fine.
+AGENT: Thank you for calling Barwood & Regency, Fatema. Have a wonderful day!
+CALLER: Thank you. Bye bye.

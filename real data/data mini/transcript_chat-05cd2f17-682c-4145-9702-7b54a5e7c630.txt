@@ -1,0 +1,9 @@
+AGENT: Hello Woodrow, this is Ana from Barwood & Regency. The driver is at your location now. How can I assist you today?
+CALLER: Bye. You have a good day, sir.
+AGENT: {"recipient_name":"functions.Close_Call","parameters":{}}
+Thank you for calling. Have a great day, Woodrow.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yeah. Can I talk to somebody?
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: And I I need to talk to somebody.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

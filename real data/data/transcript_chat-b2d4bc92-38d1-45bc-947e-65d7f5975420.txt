@@ -1,0 +1,45 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with David Saah?
+CALLER: Yes. I need a text to pick me up right now, please.
+AGENT: Thanks, David. This is Ana from Barwood & Regency. I'll connect you now to arrange your pickup right away.
+CALLER: Thank you.
+AGENT: How can I assist you with your ride request right now?
+CALLER: I need to be picked up right now and taken to Home Depot.
+AGENT: Thank you for letting me know your destination is Home Depot and you need a pickup right now. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Yes. Michael, I can't County car on a ride.
+AGENT: Just to make sure I understand, did you mean you want to pay with Call and Ride? If so, could you please provide the last six digits of your Call and Ride card? If not, please let me know which payment method you'd prefer.
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three two three one one zero.
+AGENT: Thank you, your payment with Call and Ride is all set.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: I'm going to Home Depot, Shea Grove.
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: 17665 Shady Springs Terrace, Gaithersburg, Maryland 20877. One seven six six five Shady Spring Terrace, Gaithersburg, Maryland two zero eight seven seven.
+AGENT: I have 1 7 6 6 5 Shady Spring Terrace, Gaithersburg, Maryland. Is that correct?
+CALLER: Yeah. Yes. Yes.
+AGENT: The Home Depot Shea Grove location you mentioned is outside our service area. Could you please provide a different destination address?
+CALLER: Home Depot, Rockville.
+AGENT: I found several Home Depot locations near Rockville. Which one would you like to go to?
+
+1. 1 5 7 4 0 Shady Grove Road, Gaithersburg, Maryland
+2. 2 1 0 1 0 Frederick Road, Germantown, Maryland
+3. 1 4 0 0 0 Georgia Avenue, Aspen Hill, Maryland
+4. 7 1 1 1 Westlake Terrace, Bethesda, Maryland
+
+Please tell me the number of the location you prefer.
+CALLER: The one I get that one. Yes. Yes. That one. Yes. The first one, yes. The first one,
+AGENT: Your dropoff address has been verified, David. I will now proceed with arranging your ride.
+AGENT: You mentioned you want to be picked up right now. Is that correct? Please say yes to confirm or let me know if you want a different pickup time.
+CALLER: The first one. Yes. Yes.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. I'm confirming yes. One.
+AGENT: Thank you for confirming one passenger and that a wheelchair-accessible vehicle is needed. Do you have any special instructions or notes for the driver?
+CALLER: No wheelchair needed.
+AGENT: Got it, no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: David, the estimated fare for your trip is 14.5 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: I'd be picked up right now by the tax and I don't know one how long it's gonna take to get there. And I don't what I'm gonna do when I get there, so I don't know when I'm gonna leave.
+AGENT: If you want to be picked up right now for your return trip, that sounds like you want the pickup time as soon as possible. I will record your return trip pickup time as now. How many passengers will be traveling on the return trip, and will anyone need a
+CALLER: This is wrong. I need to be picked up for

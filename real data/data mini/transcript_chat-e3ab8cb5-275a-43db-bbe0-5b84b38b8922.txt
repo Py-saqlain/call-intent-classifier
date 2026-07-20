@@ -1,0 +1,20 @@
+AGENT: Hello Fargollah, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi from Road Trip to Silver Spring, please.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call on right card.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Alright. Zero six four five five seven.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: I found a few locations for your pickup.  
+Option one: Road Trip, 1 0 0 0 0 Brunswick Avenue, Silver Spring, Maryland.  
+Option two: Road Trip, 1 2 3 Main Street, Silver Spring, Maryland.  
+Which one is correct? <emotion value="hesitant"/>
+CALLER: One zero zero zero zero Brunswick Avenue.
+AGENT: I found a few locations for your dropoff in Silver Spring.  
+Option one: Downtown Silver Spring, Maryland.  
+Option two: Silver Spring Metro Station, Maryland.  
+Which one would you like? <emotion value="hesitant"/>
+CALLER: But that was on the this one is a this one is a drop off.
+AGENT: Just

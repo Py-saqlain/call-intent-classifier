@@ -1,0 +1,7 @@
+AGENT: Hi Amy, this is Ana with Barwood & Regency. Vehicle 634 has arrived at your pickup location. How can I assist you today?
+CALLER: You are a little bit busy, Beth? Do I need leave the water?
+AGENT: Uhh, I'm here to help you. Could you please tell me what you need assistance with today? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hey, George.
+AGENT: Uhh, how can I assist you with your ride or transportation needs today? <emotion value="peaceful"/>
+CALLER: I'm getting cold.

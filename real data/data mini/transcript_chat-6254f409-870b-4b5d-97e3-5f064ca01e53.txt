@@ -1,0 +1,11 @@
+AGENT: Hello Thomas, this is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Yes. Uh, somebody just called me about three minutes ago. I was in the breast
+CALLER: I was just returning the call.
+AGENT: How can I assist you with your ride or reservation today?
+CALLER: Yes. What time my ride will be?
+AGENT: I don't see any active trips scheduled for you right now. Would you like me to help you book a ride?
+CALLER: Yes. For today. For right now.
+AGENT: For your ride today, how would you like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: Caulin rye. How much cash? Because I had a ride with y'all. Scheduled ride with y'all, three minutes ago. Somebody just called me when I'm calling them and I can't get back in there.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, I’ll need the last six digits of your Call and Ride card to proceed. Also, I don’t have the fare information yet, but I can help get your ride set up first.
+CALLER: Sorry.

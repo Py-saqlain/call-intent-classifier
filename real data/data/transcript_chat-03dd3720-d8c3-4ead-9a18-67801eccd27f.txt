@@ -1,0 +1,14 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Thanks for calling, Norlan. How can I help you today?
+CALLER: Hi. I just wanted to double check that you have a pickup listed for a Darlene Stein. Sometimes, it's either 12:45 or 01:00. Can you double check that for me?
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: I'm sorry. What? What's that? What? Hello? Hello?
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: I want to find out if there's a pickup listed for Darlene Stein
+AGENT: I can check the status of a trip for Darlene Stein for you. One moment please.
+AGENT: There is no active pickup listed right now for Darlene Stein. Would you like me to help you schedule one?
+CALLER: Nothing. I I think that is one schedule One was scheduled by Andy yesterday.
+AGENT: If you want, I can connect you to a live agent who can check that for you. Would you like me to do that?
+CALLER: Alright. Thank you.
+CALLER: Yeah.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Okay.

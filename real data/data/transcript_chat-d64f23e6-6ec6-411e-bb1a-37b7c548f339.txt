@@ -1,0 +1,41 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Viviani Ali
+AGENT: Thank you, Viviani. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a cab to take me to Cherry Hill Road at Dentist Hospital.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash. Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 1836 Medsarak Road.
+AGENT: Thank you. Let me check that address for you. <emotion value="peaceful"/>
+CALLER: Apartment 419, airlock. Mhmm.
+AGENT: Okay, so I found the pickup location as one eight three six Metzerott Road, Adelphi, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Mhmm. I'm in the lobby.
+AGENT: Thank you for confirming your pickup at one eight three six Metzerott Road, Adelphi, Maryland. Now, I will look up the dropoff location, Cherry Hill Road at Dentist Hospital. <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found a few
+CALLER: Yes.
+AGENT: I found a few locations for Cherry Hill Road at Dentist Hospital. Option one: 12020 Cherry Hill Road, Silver Spring, Maryland. Option two: 631 Cherry Hill Road, Baltimore, Maryland. Option three: 1617 Kings Highway North, Cherry Hill Township, New Jersey. Option four: 2314 Church Road, Cherry Hill Township, New Jersey. Option five: 31 Covered Bridge Road, Cherry Hill Township, New Jersey. Which one is correct? <emotion value="hesitant"/>
+CALLER: Silver Spring, Maryland.
+AGENT: Thank you. Let me confirm the dropoff address as 1 2 0 2 0 Cherry Hill Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Viviani. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now,
+AGENT: Okay, I've got
+CALLER: Morning, Paul. Good.
+AGENT: Hmm, sorry, let me get that right. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: One five one passenger No.
+AGENT: Okay great! I've got that noted. Will you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: No. Nothing. Just drop it to the hospital. That's it.
+AGENT: Alright, the estimated fare is 16.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes.
+CALLER: Yes, please.
+AGENT: Okay so <break time="250ms"/> I'm booking your trip now.
+AGENT: Your trip is booked for today at 6:06 am. Your confirmation number is 2 1 3 6 7 5
+CALLER: Thank you.
+AGENT: Thank you for calling Barwood &
+CALLER: Have nothing to write it down.
+CALLER: Can you

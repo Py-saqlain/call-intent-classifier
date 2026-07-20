@@ -1,0 +1,43 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with The n g u y e n?
+CALLER: Yes.
+AGENT: Thanks for confirming, The. This is Barwood & Regency. How can I assist you today?
+CALLER: I would like to have a ride
+AGENT: Thank you for letting me know you'd like a ride. To get started, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: with call and ride.
+AGENT: Great, you’d like to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero nine one five two seven.
+AGENT: Thank you, your payment with Call and Ride is all set. I will proceed with arranging your ride now.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 7620. Maple Avenue.
+AGENT: I have 7 6 2 0 Maple Avenue, Takoma Park, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Round trip.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Now, could you please tell me the destination or dropoff address for your ride?
+CALLER: Eight seven five zero. Arliss Street.
+AGENT: I have 8 7 5 0 Arliss Street, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. Giant Food.
+AGENT: Your dropoff address has been verified, The. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: Now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. One person.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: This person is deaf and cannot hear you. Please be patient.
+AGENT: The estimated fare is 8 dollars, paying with your Call and Ride card. You mentioned you'd like a return trip — would you still like me to set that up?
+CALLER: Yes.
+AGENT: Great, I'll start collecting the details for your return trip now.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: I don't know what time the cab is coming now. It depends on what time the cab shows up for the pickup.
+AGENT: That's okay, I have recorded your return trip as a will-call trip. Now, for the return trip, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One person. No.
+AGENT: For your return trip, I have the pickup as 8 7 5 0 Arliss Street and the dropoff as 7 6 2 0 Maple Avenue. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 8 dollars, paying with your Call and Ride card. Should I go ahead and book both trips?
+CALLER: Yes.
+AGENT: I am booking both trips for you now.
+AGENT: Your main trip is scheduled for today at 11:34 AM with confirmation number 2 1 3 6 6 3 3 3 1. Your return trip is a will-call booking with confirmation number 2 1 3 6 6 3 3 3 2. Is there anything else I can help you with?
+CALLER: What time is the pickup trip?
+AGENT: Your pickup trip is scheduled for today at 11:34 AM. Is there anything else you would like to know?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, The. Have a wonderful day!

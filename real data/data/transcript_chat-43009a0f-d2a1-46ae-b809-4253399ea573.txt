@@ -1,0 +1,57 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Ngindu Nkongolo?
+CALLER: Yes.
+AGENT: Thanks for confirming, Ngindu. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I would like to book a trip, please.
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Alright.
+AGENT: Hmmm.. that didn't seem like a payment method. Could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: Oh, calling live.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, I will need the last six digits of your Call and Ride card. <emotion value="peaceful"/>
+CALLER: Zero eight five six zero two.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: To get started, could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: Twenty two eight hundred seat shop job, Glassburg,
+AGENT: Hmm <break time="350ms"/> let me check that address. It sounds like you said "twenty two eight hundred seat shop job, Glassburg." Could you please clarify or repeat the street number and street name? Also, is the city Clarksburg, Maryland? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Thank you. Just to confirm, did you mean 2 2 8 0 0 Sweet Shrub Drive, Clarksburg, Maryland? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I found 2 2 8 0 0 Sweet Shrub Drive, Clarksburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 18900 Kingsview Road in Germantown.
+AGENT: Hmm <break time="350ms"/> let me check that address. You said 1 8 9 0 0 Kingsview Road, Germantown, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I found 1 8 9 0 0 Kingsview Road, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Ngindu. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: And now the cub is under the way. He descended cub is two eight zero. Two eight zero.
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. Your pickup time is today at 12:08 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair accessible vehicle? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes. We checked testable vehicle.
+AGENT: Okay great! I've got that you need a wheelchair accessible vehicle. How many passengers will be traveling, including yourself? <emotion value="grateful"/>
+CALLER: One
+AGENT: Okay great! I've got that noted. Will you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: I have a driver's name.
+AGENT: Alright, the estimated fare is 21 dollars, paying with Call And Ride. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: One one thirty.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. Did you mean 1:30 AM or 1:30 PM for your return trip pickup time? <emotion value="apologetic"/>
+CALLER: 01:30PM.
+AGENT: Okay great! I've got your return trip pickup time as today at 1:30 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling on your return trip, including yourself? And will anyone need a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: Yes. Which access per week?
+AGENT: For your return trip, I have the pickup at 1 8 9 0 0 Kingsview Road, Germantown, Maryland, and the dropoff at 2 2 8 0 0 Sweet Shrub Drive, Clarksburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 21 dollars, paying with Call And Ride. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thank you for your patience. I'm now booking both your main and return trips together. Please hold on for just a moment.
+AGENT: Your main trip is scheduled for today at 12:08 PM with confirmation number 2 1 3 6 7 4 6 9 1. Your return trip is scheduled for today at 1:30 PM with confirmation number 2 1 3 6 7 4 6 9 2. Is there anything else I can assist you with?
+CALLER: Yeah. The card number is hey. Can I give you guys card number?
+AGENT: For your Call and Ride card, I can only take the last six digits for verification. I cannot take the full card number over the phone. Would you like to provide the last six digits of your card now?
+CALLER: No. No. The tax that that the part no. The tab number the tab number is there.
+AGENT: I want to make sure I understand you correctly. Are you referring to the trip confirmation number or something else? Could you please clarify?
+CALLER: Can I speak to can I speak to somebody else, please?
+CALLER: Hello? Can I speak to somebody else, please?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Can I speak to some

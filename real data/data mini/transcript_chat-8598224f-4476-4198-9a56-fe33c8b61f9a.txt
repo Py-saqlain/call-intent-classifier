@@ -1,0 +1,14 @@
+AGENT: Hello John, this is Ana with Barwood & Regency. Vehicle 1092 is on the way and should arrive for your pickup around 9:50 am. How can I assist you today?
+CALLER: Uh, I want you to cancel that because this don't make any sense.
+AGENT: Hmm <break time="300ms"/> I see one trip on your account. <break time="700ms"/> Trip one: pickup at 2 0 4 Skidmore Boulevard in Gaithersburg at 9:35 am going to 4 6 Bureau Drive in Gaithersburg. <break time="500ms"/> Would you like me to cancel this trip for you? <emotion value="hesitant"/>
+CALLER: Wait a minute. Yeah. And I I called you way before 09:31. You were supposed be here at eight eight. Quarter to nine.
+AGENT: Hmm <break time="300ms"/> I understand your concern about the timing. Just to confirm, would you still like me to cancel the trip scheduled for 9:35 am from 2 0 4 Skidmore Boulevard to 4 6 Bureau Drive? <emotion value="hesitant"/>
+CALLER: Yeah. Because it's it's something to tell now.
+AGENT: Okay so <break time="200ms"/> that trip has been cancelled for you. Is there anything else I can help you with? <emotion value="grateful"/>
+CALLER: And you said he's supposed to be here at 09:35. So he's not even here now. Yeah. Y'all need to get it together because you know, you're gonna get a bad report.
+AGENT: I understand your frustration. Is there anything else I can assist you with today?
+CALLER: You know, and I've been standing here and you understand it. How can you understand it? When I've been calling ever since quarter to nine, just through three times you told me. One would be here, at quarter to nine. The next one is on its way.
+AGENT: I hear you, and I’m really sorry for the wait and the trouble this has caused you. Let me connect you with a representative who can assist you further with this issue.
+AGENT: I really wish I could reach the driver directly to help you right now, but I’m not able to do that. What I can do is connect you with a customer support representative who can assist you with this situation. Let me transfer you to them.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+AGENT: I'm experiencing a technical

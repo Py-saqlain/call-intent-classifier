@@ -1,0 +1,18 @@
+AGENT: Hello Henry, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello? Representative, please. Hello? I just need to book a ride. Going to 85 King Farm Boulevard. Harry Ash, and let you wear your assespa.
+AGENT: Hi there! How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: The Greek eleven eighty three. C a c a s h.
+AGENT: Thank you for letting me know you'll be paying with cash.
+CALLER: Cash.
+AGENT: I couldn't locate 85 King Farm Boulevard. Could you please provide the full street address including the city and state?
+AGENT: I couldn't locate 85 King Farm Boulevard. Could you please provide the full street address including the city and state? If you want, I can also use your home address for pickup, which is 2 Helen Heneghan Way, Rockville, Maryland. Would you like to use that as your pickup address?
+CALLER: Rockville, Maryland. King Palm Boulevard. Eight eight zero five That's not what my That's not what I'm at.
+AGENT: Thank you for the clarification. Just to confirm, is your dropoff address 8 8 0 5 King Palm Boulevard, Rockville, Maryland?
+CALLER: No. Hell no.
+AGENT: Okay, I understand. Let's try again. Could you please tell me your dropoff address with the full street number, street name, city, and state?
+CALLER: 805.
+AGENT: Thank you. Could you please provide the full street name, city, and state for the dropoff address starting with 8 0 5?
+CALLER: Boulevard, Robert Mueller, King Farm Boulevard,
+AGENT: Just to confirm, is your dropoff address 8 0 5
+CALLER: Robert mother. Bye. That's what you represent.

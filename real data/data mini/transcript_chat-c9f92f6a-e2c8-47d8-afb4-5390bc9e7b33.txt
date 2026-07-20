@@ -1,0 +1,7 @@
+AGENT: Hi Sydney, this is Ana with Barwood & Regency. You have two trips today — one confirmed for pickup at 12:30 PM with vehicle 1165, and another accepted for pickup at 1:30 PM with vehicle 1165 and driver 819. How can I assist you today?
+CALLER: Cancel both traps.
+AGENT: I found two trips for you: your return trip at 12:30 pm from 108 Olde Towne Avenue to 229 Kentlands Boulevard, and your main trip at 1:30 pm from 229 Kentlands Boulevard to 108 Olde Towne Avenue. Would you like me to cancel both of these trips?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yeah. Yes. Cancel both.
+AGENT: Both trips have been cancelled for you. Is there anything else I can help you with?
+CALLER: No.

@@ -1,0 +1,17 @@
+AGENT: Hi Bella, this is Ana with Barwood & Regency. Vehicle 365 has arrived at your pickup location. How can I assist you today?
+CALLER: Where are you today? Where did he go?
+AGENT: Uhh, I'm here to help you with your ride needs. Are you looking to book a new trip, check the status of a current ride, or something else? <emotion value="peaceful"/>
+AGENT: Okay, so your driver is currently at your pickup location on 1 1 0 Congressional Lane in
+CALLER: Where is it?
+AGENT: Okay, so your driver is currently at your pickup location on 1 1 0 Congressional Lane in Rockville. <emotion value="content"/>
+CALLER: Now it's one one one. One, one, Yeah. But where is he?
+AGENT: Uhh, the driver is right there at your pickup address on 1 1 0
+CALLER: I'm in by the name bank. I'm by the name wealth Fargo bank. Hello?
+AGENT: Uhh, I see you're near the Wells Fargo Bank. Your driver is currently at 1 1 0 Congressional Lane, which should be close by. If you need more help locating the driver, I can connect you with a representative. <emotion value="peaceful"/>
+CALLER: He is Yeah. I mean oh, here he is. Oh, I'm sorry.
+AGENT: No worries at all. I'm
+CALLER: Okay. Okay. Okay.
+AGENT: Okay, so your driver has picked you up and is on the way now. <emotion value="content"/> Anything else I can help with?
+CALLER: Okay. I thought somebody saw you before. Yes. Okay. Now have a little problem. I had the. That's not okay. So can you put that in the car? Okay. Yeah. I can get it.
+AGENT: Uhh, I can't contact the driver directly to pass messages or items, but customer support can help with that. Let me connect you to a representative who can assist you right away. <emotion value="sympathetic"/>
+AGENT: I'm connecting you now to a customer service representative who can assist you with that. Please stay on the line.

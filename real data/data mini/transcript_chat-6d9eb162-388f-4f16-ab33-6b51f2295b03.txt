@@ -1,0 +1,19 @@
+AGENT: Hello Dung, this is Ana from Barwood & Regency. Vehicle 1076 is on the way and will arrive in approximately 16 minutes. You also have a will-call trip scheduled today from 15001 Shady Grove Road in Rockville to 12439 Falconbridge Drive in Gaithersburg. How can I assist you today?
+CALLER: Have the Pedro pickup address one two four three nine Falcon Place go to one five zero zero one City Go. Can you check for me?
+AGENT: Just to make sure I have it right: You want a pickup at 1 2 4 3 9 Falcon Place, and the dropoff at 1 5 0 0 1 City Go? Could you please confirm or clarify the dropoff address a bit more? "City Go" doesn't sound like a
+CALLER: Yes. Yes.
+AGENT: Looks like you already have trips from Gaithersburg to Rockville at 9:04 am today, and from Rockville to Gaithersburg as a will-call trip today. What would you like to do?
+CALLER: The coming soon
+AGENT: Could you please clarify what you mean by "the coming soon"? Are you asking about the status
+CALLER: The driver coming
+AGENT: Your driver is about 15 minutes away from 1 2 4 3
+CALLER: The cap come to one, two, four, three, nine, five, second place.
+AGENT: Just to confirm, you want the pickup address updated to 1 2 4 3 9 5 Second Place? Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your trip with reference number 0 2 1 3 6 7 9 3 4 2 is now activated. A driver will be dispatched to your pickup location shortly. If you need anything else, just let me know.
+CALLER: No. Okay. Thank you. They're coming soon. Right?
+AGENT: Yes, that's right. Your driver is on the way and will be there soon. If you need any further assistance, feel free to ask.
+CALLER: Thank you. Thank you so much. Bye bye.
+AGENT: Your trip is activated with confirmation number 0 2 1 3 6 7 9 3 4 2. A driver will be dispatched to your pickup location shortly. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Dung. Have a wonderful day!

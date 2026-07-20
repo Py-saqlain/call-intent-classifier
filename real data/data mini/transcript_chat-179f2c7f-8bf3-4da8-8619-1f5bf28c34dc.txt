@@ -1,0 +1,24 @@
+AGENT: Hi Mark, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a phone I need a cab sent to six Montgomery Village Avenue.
+AGENT: Okay, you want a cab sent to 6 Montgomery Village Avenue. Could you please tell
+CALLER: Take this day.
+AGENT: Alright, you want the pickup to be today. Could you please tell me the pickup
+CALLER: Yes.
+AGENT: Alright,
+CALLER: Six Montgomery Village. Avenue. Six Montgomery Village Avenue.
+AGENT: Thanks for confirming the address as 6 Montgomery Village Avenue. Now, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash. Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so your dropoff address is 6
+CALLER: How long would it take?
+CALLER: Pittsburgh.
+AGENT: Hmm <break time="300ms"/> let me pull that up for you. Uhh <break time="300ms"/> I don't see an active trip scheduled right now. Would you like me to help you book a ride to 6 Montgomery Village Avenue? <emotion value="peaceful"/>
+AGENT: Hmm <break time="300ms"/> I don't see an active trip scheduled right now. Would you like me to help you book a ride to 6 Montgomery Village Avenue? <emotion value="peaceful"/>
+CALLER: If you want to,
+AGENT: Okay, <break time="300ms"/> so your pickup is 5 6 2 South Frederick Avenue, Gaithersburg, Maryland, and your dropoff is 6 Montgomery Village Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I understand that one of the addresses is not correct. Could you please tell me which address needs to be corrected, the pickup or the dropoff? <emotion value="peaceful"/>
+CALLER: Talk with the agent, please.
+AGENT: I
+CALLER: The agent, please. Talk with a agent. And agent, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

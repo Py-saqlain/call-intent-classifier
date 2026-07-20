@@ -1,0 +1,40 @@
+AGENT: Hi Sue, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I wanna need a taxi for Costco.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Hello? Hello?
+AGENT: I'm here to help. How would you like to pay for your ride to Costco? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cord and ride
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes. I I gonna use your cord and ride the cutter.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please say the last six digits of your Call and Ride card when you're ready? <emotion value="peaceful"/>
+CALLER: Okay. Three four
+AGENT: Hmmm.. that didn't seem right, could you try again with all six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Four, four, five. Yes. 3445, or 46.
+AGENT: Hmmm.. that didn't seem right, could you try again with all six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Three, four. Four five four six
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: Eleven thirty five. Universal approval.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found your pickup address as one one three five University Boulevard West, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: West
+AGENT: Thank you for confirming the pickup address as one one three five University Boulevard West, Silver Spring, Maryland. I will now verify it. <emotion value="peaceful"/>
+AGENT: I found a few Costco locations. Option one: 880 Russell Avenue number 213b, Gaithersburg, Maryland. Option two: 880 Russell Avenue number 213b, Gaithersburg, Maryland. Option three: 880 Russell Avenue number 213b, Gaithersburg, Maryland. Option four: 880 Russell Avenue number 213b, Gaithersburg, Maryland. Option five: 880 Russell Avenue number 213b, Gaithersburg, Maryland. Which one would you like to use? <emotion value="hesitant"/>
+CALLER: I like one one one six zero. Road.
+AGENT: Uh, I am sorry, but could you please clarify which of the Costco options you would like to use? They are all at 880 Russell Avenue number 213b in Gaithersburg, Maryland. If you have a different address in mind, please let me know. <emotion value="apologetic"/>
+CALLER: No.
+AGENT: Okay, please provide the full dropoff address or location you want to go to. <emotion value="peaceful"/>
+CALLER: No. One one one six zero
+AGENT: Could you please provide the full street name or city along with the number one one one six zero? That will help me find the correct dropoff address for you. <emotion value="peaceful"/>
+CALLER: one one one Oh my god. Yes.
+AGENT: Uh, I am sorry, but could you please repeat the full dropoff address including the street name and city? Just the number one one one is not enough to locate it. <emotion value="apologetic"/>
+CALLER: This is 11160 Besame Road. Yes. 11160 Road.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: I couldn't find 11160 Besame Road. Could you please provide the city and state for that address? <emotion value="apologetic"/>
+CALLER: Maryland.
+AGENT: Thank you. Let me check 11160 Besame Road, Maryland. <emotion value="peaceful"/>
+AGENT: I couldn't find any results for 11160 Besame Road, Maryland. Could you please provide a nearby landmark, cross street, or a different address? <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Okay. Okay.

@@ -1,0 +1,31 @@
+AGENT: Hi Marlina, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi.
+AGENT: Thank you for reaching out. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, cash is all set for your payment method.
+AGENT: Could you please tell me the address where you'd like to be picked up?
+CALLER: 3415 Greencastle Road,
+AGENT: I have 3 4 1 5 Greencastle Road, Burtonsville, Maryland as your pickup address. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Three three eight zero Cheswick Court.
+AGENT: I have 3 3 8 0 Chiswick Court, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Marlina.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+CALLER: No. Just one.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 30.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your main trip is scheduled for today at 4:06 PM. Your confirmation number is 2 1 3 6 7 9 6 8 7. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Marlina. Have a wonderful day.
+CALLER: Thank you.
+AGENT: Close_Call
+Thank

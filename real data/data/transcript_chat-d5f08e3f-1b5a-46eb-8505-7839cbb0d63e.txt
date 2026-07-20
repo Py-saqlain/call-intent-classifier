@@ -1,0 +1,39 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Vinora Baul?
+CALLER: Alright. Yeah.
+AGENT: Thanks, Vinora. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I would like to have a ride.
+AGENT: I'd be happy to help you with that. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Alpha. Polarize.
+AGENT: I want to make sure I understand you correctly. Did you mean to say Call and Ride for your payment method?
+CALLER: I'm sorry.
+AGENT: No problem at all. Could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call on right.
+AGENT: Thank you for confirming Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three four seven two seven five.
+AGENT: Thank you, your payment with Call and Ride has been verified.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Oh, I think that's my desk. And one two three one one Parklawn Drive.
+AGENT: I have 1 2 3 1 1 Parklawn Drive, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yeah. Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: One six zero zero one Road.
+AGENT: Could you please provide the full street name and city for the dropoff address? The number alone is not enough to locate it.
+CALLER: Rockville.
+AGENT: I couldn't locate 1600 1 Road in Rockville. Could you please provide the full street name and state for the dropoff address?
+CALLER: Shammy Grove Grove.
+AGENT: Just to confirm, is the dropoff address 1600 Shammy Grove Grove in Rockville, Maryland?
+CALLER: 606100 The address is sixteen thousand and one Shady Grove Road.
+AGENT: I have 1 6 0 0 1 Shady Grove Road, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Vinora. I will now proceed with the next steps.
+AGENT: When would you like to be picked up?
+CALLER: Right now,
+AGENT: Thanks, I've scheduled your pickup for right now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No. No. We care. No.
+AGENT: Vinora, the estimated fare for your trip is 22.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well?
+CALLER: No. No. No return trip.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 1:57 PM. Your confirmation number is 2 1 3 6 7 8 2 8 1. Is there anything else I can help you with?
+CALLER: No. That's all for today. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Vinora. Have a wonderful day!
+CALLER: Thank you. You too.

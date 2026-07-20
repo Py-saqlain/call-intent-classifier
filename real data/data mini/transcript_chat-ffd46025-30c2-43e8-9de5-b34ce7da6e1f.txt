@@ -1,0 +1,11 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Revenue, eight point nine Okay.
+AGENT: Thanks, Revenue. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need to know the status of my ride
+AGENT: Hmm, let me check that for you. Uhh, I’m not able to find any active trips under your profile right now. Would you like me to help you book a new ride?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Oh, okay. So you're gonna take us? But you get it now? Yes. Well, okay. If you're ready, we're ready. Yes. Okay. Thank you.
+AGENT: Okay, I’m ready to help you book your ride now. Where would you like to be picked up?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yeah. Yeah. Yeah.
+AGENT: Whenever you're ready, please tell me your pickup address.

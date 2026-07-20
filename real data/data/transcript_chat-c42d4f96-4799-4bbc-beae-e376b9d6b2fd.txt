@@ -1,0 +1,12 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Mbala Bernadett?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+CALLER: I'm a bank by two Jewish.
+AGENT: Thank you for letting me know. Just to be sure, is your name Mbala Bernadett or would you like to tell me the name you prefer to use for your rides with Barwood & Regency?
+CALLER: Okay. Hello?
+AGENT: Hi, thanks for confirming. This is Ana with Barwood & Regency. How can I assist you with your ride today?
+Thanks for confirming. This is Ana with Barwood & Regency. How can I assist you with your ride today?
+CALLER: Yes. Hello. The right caller was in church. I answered him with the lower voice that I was coming. And they said he's gone. Let me check. Can you see where is my right? Please?
+AGENT: I understand you're trying to check on your ride's location. I can't contact the driver directly, but I can connect you with a representative who can help with that. Let me connect you now.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Can do that because I have witnessed. I was in the chapel praying, but I cannot speak loud in a chapel.

@@ -1,0 +1,42 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Colinary?
+CALLER: No.
+AGENT: Thank you for letting me know. May I ask who I’m speaking with today? You can also tell me if it’s David or someone else.
+CALLER: Susan
+AGENT: I don’t see a profile under the name Susan. We can set one up for you when you book a ride. Would you like help with that?
+CALLER: No, ma'am. No, ma'am. Speak to the dispatcher, please.
+CALLER: Oh, good. Thank you. So you there is a master somewhere? Good. Mhmm. Okay.
+AGENT: Uhh, I’m here to help you with your ride needs. What can I assist you with today? <emotion value="peaceful"/>
+CALLER: Schedule a pickup for tomorrow morning.
+AGENT: I want to make sure I have the right person for your ride. Could you please tell me your name again?
+CALLER: The guest name is Henson Moore.
+AGENT: Thanks, Henson. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Schedule a pickup for 8AM tomorrow morning.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: He will pay with a credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for the ride tomorrow at 8 AM?
+CALLER: 8500 River Road,
+AGENT: Okay, so I found that location as 8 5 0 0 River Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Reagan Airport
+AGENT: Just to confirm, are you referring to Ronald Reagan Washington National Airport at 2401 Smith Boulevard, Arlington, Virginia? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Okay, so I found that location as 2 4 0 1 Smith Boulevard, Arlington, Virginia. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Henson.
+AGENT: You mentioned a pickup for tomorrow at 8:00 AM. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One one No.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 41.5 dollars, paying with your credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. <emotion value="peaceful"/>
+AGENT: Thank you for your patience. I am now processing your booking.
+AGENT: Your main trip is scheduled for tomorrow at 8:00 am. Your confirmation number is 2 1 3 6 7 4 4 4 9. Is there anything else I can help you with?
+CALLER: Repeat the number.
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 4 4 4 9. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Henson. Have a wonderful day!

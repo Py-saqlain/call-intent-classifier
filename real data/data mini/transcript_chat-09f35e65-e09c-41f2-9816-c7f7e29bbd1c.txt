@@ -1,0 +1,9 @@
+AGENT: Hi Tracy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I made a Oh, appointment for pick up tomorrow morning from seven to 600 Maple Avenue. One two one one eight eight six Hilli Way. At 10:30 tomorrow morning. I call to confirm
+AGENT: Looks like you already have a trip from Takoma Park to Silver Spring at 10:30 tomorrow morning. What would you like to do?
+CALLER: I've got to confirm to my brother appointment for tomorrow morning. To go to the doctor because I don't wanna be late.
+AGENT: If you want to confirm or check the status of your existing trip for tomorrow morning, I can help with that. Would you like me to check the trip status for you?
+AGENT: Take your time. Just let me know when
+CALLER: Hello?
+AGENT: You have an active trip scheduled for tomorrow at 10:30 am from 7 6 2 0 Maple Avenue in Takoma Park to 1 1 8 8 6 Healing Way in Silver Spring. The driver and vehicle have not been assigned yet. Would you like me to help with anything else?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

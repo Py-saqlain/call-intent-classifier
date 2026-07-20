@@ -1,0 +1,9 @@
+AGENT: Hi Leah, this is Ana with Barwood & Regency. Vehicle 1045 has arrived at your pickup location. How can I assist you today?
+CALLER: And I don't see the driver says that the lobby unless he's parked. No. Hold on.
+AGENT: I hear you mentioning the driver and the lobby. Are you looking for information about your current ride's status or would you like help with something else related to your trip?
+CALLER: She's not. She's She's a real one.
+AGENT: It sounds like you might be talking about your driver. If you have any questions or need assistance with your ride, just let me know how I can help.
+CALLER: The vehicle tracker says at locations, but the driver is not here at the lobby. Entrance. And I'm still standing here
+AGENT: The system shows that vehicle 1045 has arrived at your pickup location. I understand you're not seeing the driver at the lobby entrance. If you'd like, I can connect you with a customer representative who can assist you further. Would you like me to do that?
+CALLER: Yes.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

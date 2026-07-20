@@ -1,0 +1,15 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Ernie Moncrieffe?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Thank you. Just to confirm, are you Ernie Moncri
+AGENT: If you are Ernie Moncrieffe, please say yes or confirm. If not, please tell me your name so I can assist you properly.
+CALLER: Thanks, Ernie. This is Barwood and Regency. How can I help you today?
+AGENT: Thanks, Ernie. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I'm Anna, and I'm here to help you. What can I do for you today?
+AGENT: How can I assist you with your ride today? Are you looking to book a trip, check on an existing ride, or something else?
+CALLER: I can connect you to a person. Though the agent wait can be long.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: If it's quick, I can help right now instead. Which would you prefer?
+AGENT: Great! Please tell me what you need help with today.
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

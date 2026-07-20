@@ -1,0 +1,14 @@
+AGENT: Hi Barry, this is Ana with Barwood & Regency. How can I help you today?
+CALLER: I need to actually come to two three five two eight fourth Haven Way.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card?
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so your dropoff address is 2 3 5 2 8 Forest Haven Way, Clarksburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Was it at the plate? That the pickup address?
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: The dropoff address is that's what I'm picking my my my pick the pickup address is two three five two eight Forest Haven Way.
+AGENT: Just to clarify, your pickup address is 2 3 5 2 8 Forest Haven Way. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct. Yes.
+AGENT: Okay, so your pickup address is 2 3 5 2 8 Forest Haven Way, Clarksburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct. Yes.
+AGENT: I see that your pickup and dropoff addresses are the same. They need to be different for the ride. Could you please provide a different pickup address? <emotion value="apologetic"/>

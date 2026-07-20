@@ -1,0 +1,16 @@
+AGENT: Hello Alberta, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello. In Spanish, please?
+AGENT: Uhh, how can I assist you today? <emotion value="peaceful"/>
+CALLER: Okay. Give me a sec.
+AGENT: Take your time. I'm here when you're ready. <emotion value="peaceful"/>
+CALLER: What do I do? I can do that.
+AGENT: Umm, could you tell me a bit more about what you'd like to do? Are you looking to book a ride, check on a trip, or something else? <emotion value="peaceful"/>
+CALLER: Book a ride. Yeah.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash?
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Alright. Just give me one second. Okay?
+AGENT: Of course, take your time. I'm here when you're ready. <emotion value="peaceful"/>
+CALLER: Alright. The direction would be eighty seven zero one Ramsey Avenue, Silver Street, Maryland.
+AGENT: Okay, so I have the pickup address as eight seven zero one Ramsey

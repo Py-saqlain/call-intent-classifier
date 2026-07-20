@@ -1,0 +1,32 @@
+AGENT: Hello Henry, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello? Need to schedule a pickup for eight zero five King Farm Boulevard going return to home why didn't you stop by the Giant to get food first?
+AGENT: Thank you for sharing your pickup and return details. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash only. Cash only. Only.
+AGENT: Thank you for letting me know you'll be paying with cash. I'll proceed with that for your ride.
+AGENT: I have the pickup address as 8 0 5 King Farm Boulevard in Rockville, Maryland, and the dropoff as 2 Helen Heneghan Way in Rockville, Maryland. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified, Henry. Now, could you please provide the destination or dropoff address?
+AGENT: When would you like to be picked up?
+CALLER: Two hundred and Two hell and a half away. Robert Mueller, Does Jack does jump off?
+AGENT: I’m sorry, I didn’t quite catch that. Could you please tell me the time you would like to be picked up?
+CALLER: Dumbai sauce. Okay. Well, lunch over time then.
+AGENT: The time you requested has already passed. What time would you like to be picked up instead?
+CALLER: And five it's probably As soon as the storm soon as possible. As soon as possible.
+AGENT: I have your pickup time set for today at 5:00 PM. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Let myself, it's on one patcher. Me and the wheelchair. I'd like to wheelchair accessible, please.
+AGENT: Thank you. I have recorded 1 passenger and 1 wheelchair-accessible vehicle. Do you have any special instructions for the driver?
+CALLER: Once I get picked up, I need to stop by. The giant pig man or something to eat, please. That's the only thing.
+AGENT: The estimated fare for your trip is 12.5 dollars, and you will be paying with cash. You mentioned you want a wheelchair-accessible vehicle for one passenger, with a pickup at 8 0 5 King Farm Boulevard and a stop at 2 Helen Heneghan Way. Would you like to schedule a return trip as well?
+CALLER: Elect your wheelchair. No. Just take him take with you. I need to stop by then go to two hell and away. Home.
+AGENT: Just to confirm, you want the driver to pick you up at 8 0 5 King Farm Boulevard, stop by the Giant Food store first, then go to 2 Helen Heneghan Way, and finally take you home. Is that correct?
+CALLER: Yes.
+AGENT: I have 2 Helen Heneghan Way, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Thank you for confirming. The dropoff address has been successfully updated. What payment method would you like to use for this trip?
+AGENT: The estimated fare for your trip is 12.5 dollars, and you will be paying with your Self account. Would you like to schedule a return trip as well?
+CALLER: No. No. No. Thank you.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your main trip is scheduled for today at 5:00 PM. Your confirmation number is 2 1 3 6 7 9 7 2 0. Is there anything else I can help you with?
+CALLER: Make sure Yeah. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Henry. Have a wonderful day.
+CALLER: You feel low?

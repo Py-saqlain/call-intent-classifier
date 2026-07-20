@@ -1,0 +1,57 @@
+AGENT: Hello Dr., this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Taxi.
+AGENT: Uhh, how can I assist you with your taxi ride today? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your taxi ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your taxi ride? <emotion value="peaceful"/>
+CALLER: West Western Hotel.
+AGENT: I found a few locations. 
+ Option one: 1 2 5 1 W Montgomery Avenue, Rockville, Maryland. 
+ Option two: 8 4 1 9 Baltimore Avenue, College Park, Maryland. 
+ Option three: 7 8 0 1 Leesburg Pike, Falls Church, Virginia. 
+ Option four: 1 N 2nd Street, Laurel, Maryland. 
+ Which one is correct? <emotion value="hesitant"/>
+CALLER: Yes. That's western. Twelve fifty one west Montgomery Avenue. Option one,
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One.
+AGENT: Uh, I am sorry, but could you please provide the full destination or dropoff address? Just saying "one" is not enough for me to find the location. <emotion value="apologetic"/>
+CALLER: Safeway grocery store. One four nine three nine.
+AGENT: I found a few Safeway grocery stores. 
+ Option one: 2 0 2 1 1 Goshen Road, Gaithersburg, Maryland. 
+ Option two: 4 0 3 Redland Boulevard, Rockville, Maryland. 
+ Option three: 1 4 9 3 9 Shady Grove Road, Rockville, Maryland. 
+ Option four: 5 5 1 0 Norbeck Road, Rockville, Maryland. 
+ Option five: 3 3 3 3 Spartan Road, Olney, Maryland. 
+ Which one would you like? <emotion value="hesitant"/>
+CALLER: 14939 Katy Grove Road. 14939 Shady Grove Road. Option 3, Option 3. Option 3.
+AGENT: Your dropoff address has been verified, Dr.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 08:00.
+AGENT: Just to confirm, you mean 8:00 AM for your pickup time, right? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Okay great! I've got your pickup time set for today at 8:00 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One,
+AGENT: And will you need a wheelchair-accessible vehicle for this trip? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 8 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, thanks for confirming. I'll start collecting the details for your return trip now. <emotion value="peaceful"/>
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 08:15.
+AGENT: Just to confirm, you mean 8:15 AM for your return trip pickup time, correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Okay great! I've got your return trip pickup time set for today at 8:15 AM. <emotion value="grateful"/> Now, how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One Okay.
+AGENT: Thanks for that. Will you need a wheelchair-accessible vehicle for the return trip? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: For your return trip, I have the pickup at 1 4 9 3 9 Shady Grove Road, Rockville, Maryland, and the dropoff at 1 2 5 1 W Montgomery Avenue, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: The estimated fare for your return trip is 8 dollars, paying with Credit Card. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I'm booking both trips for you now. <emotion value="grateful"/>
+AGENT: Your main trip is scheduled for today at 8:00 AM with confirmation number 2 1 3 6 7 3 9 5 6. Your return trip is scheduled for today at 8:15 AM with confirmation number 2 1 3 6 7 3 9 5 7. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Dr. Allen. Have a wonderful day!

@@ -1,0 +1,55 @@
+AGENT: Hello Clara, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Good afternoon. I need a colon ride taxi, please. Don't going to pay anything.
+AGENT: Okay so I've got that payment noted as Cash. <emotion value="grateful"/>
+AGENT: Good afternoon! To get started, may I have the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: I am going to pick up one zero two five zero West Lake Drive, Bethesda.
+AGENT: Okay, so I found 1 0 2 5 0 Westlake Drive, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes. That's correct.
+AGENT: Your pickup address has been verified. Now, may I have the dropoff address for your ride? <emotion value="peaceful"/>
+CALLER: I am going to seventy nine five five CVS
+AGENT: I found a few locations. 
+ Option one: CVS at 1 9 1 0 0 Montgomery Village Avenue, Gaithersburg. 
+ Option two: CVS at 5 4 6 North Frederick Avenue, Gaithersburg. 
+ Option three: CVS at 2 0 Upper Rock Circle, Rockville. 
+ Option four: CVS at 1 9 9 0 1 Frederick Road, Germantown. 
+ Option five: CVS at 3 1 1 Kentlands Boulevard, Gaithersburg. 
+ Which one is correct? <emotion value="hesitant"/>
+CALLER: We are going in in the CVS to get my line.
+AGENT: Uh, I am sorry, but could you please tell me which CVS location you mean? You can say the city or street name to help me find the right one. <emotion value="peaceful"/>
+CALLER: Took it online. Potomac.
+AGENT: I found a few locations. 
+ Option one: CVS at 1 7 6 5 1 Redland Road, Derwood. 
+ Option two: CVS Pharmacy at 1 7 6 5 1 Redland Road, Derwood. 
+ Option three: CVS Pharmacy at 2 0 Upper Rock Circle, Rockville. 
+ Option four: CVS at 2 0 Upper Rock Circle, Rockville. 
+ Option five: CVS Pharmacy at 2 5 Grand Corner Avenue, Gaithersburg. 
+ Which one is correct? <emotion value="hesitant"/>
+CALLER: I am going to 7955 To Kirkman Lane Potomac.
+AGENT: Okay, so I found 7 9 5 5 Tuckerman Lane, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Pickup is in one zero two five zero Westlake Drive, bethesda. Maryland.
+AGENT: Sure, let me update that address.
+AGENT: Okay, so I found 1 0 2 5 0 Westlake Drive, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Alright, so let me confirm those details. Your pickup address has been updated. What is your dropoff address? <emotion value="peaceful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Pickup is one zero two five zero Westlake Drive, Bethesda.
+AGENT: Your main trip pickup address is 10250 Westlake Drive, Bethesda, Maryland. How many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: Only one Only one. Only one. Only me.
+AGENT: Okay great! I've got that noted for one passenger. When would you like to be picked up? <emotion value="grateful"/>
+CALLER: Try now, please.
+AGENT: Okay, I've scheduled your pickup for today at 1:30 PM. Will you need a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: Pardon me? Can you tell me again?
+AGENT: Your pickup is scheduled for today at 1:30 PM. Will you need a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: I have I have my my walker. I have a walker.
+AGENT: Alright, so let me confirm those details. Your pickup is 1 0 2 5 0 Westlake Drive. Your dropoff is 7 9 5 5 Tuckerman Lane. Pickup time is today at 1:30 PM. You have one passenger traveling and you will need a wheelchair accessible vehicle. The estimated fare is 8.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: I have to pay $5?
+AGENT: The estimated fare for your trip is 8.5 dollars. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: I am not going to pay because I have a call on ride.
+AGENT: Just to confirm, would you like to update the payment method for your main trip to Call and Ride, or use it for the return trip? <emotion value="peaceful"/>
+CALLER: Only I would like to go one trip
+AGENT: Alright, so let me confirm those details. Your pickup is 1 0 2 5 0 Westlake Drive. Your dropoff is 7 9 5 5 Tuckerman Lane. Pickup time is today at 1:30 PM. You have one passenger traveling and you will need a wheelchair accessible vehicle. Your payment method is now Cash. Should I go ahead and book this trip? <emotion value="peaceful"/>
+AGENT: Alright, so let me confirm those details. Your pickup is 1 0 2 5 0 Westlake Drive. Your dropoff is 7 9 5 5 Tuckerman Lane. Pickup time is today at 1:30 PM. You have one passenger traveling and you will need a wheelchair accessible vehicle. The estimated fare is 8.5 dollars, paying with Cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

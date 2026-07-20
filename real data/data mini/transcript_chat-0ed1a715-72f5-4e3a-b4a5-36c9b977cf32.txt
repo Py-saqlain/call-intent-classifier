@@ -1,0 +1,17 @@
+AGENT: Hi Anna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I I I knew that a proxy. Please.
+AGENT: Uhh, could you please tell me how I can assist you today? <emotion value="peaceful"/>
+CALLER: Apache.
+AGENT: I'm sorry, I didn't quite catch that. Could you please tell me more about what you need help with? <emotion value="hesitant"/>
+CALLER: Yeah. I need a taxi.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Gordon. Right?
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Got it. Garlic. Garlic.
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Golden rice.
+AGENT: Hmmm.. did you mean Call and Ride for payment? If so, I can ask for the last six digits of your Call and Ride card. If not, please let me know how you'd like to pay—cash or credit card are also options. <emotion value="apologetic"/>
+CALLER: Yeah. It's zero
+AGENT: Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Yeah. It's zero zero zero nine one Yes. Sierra

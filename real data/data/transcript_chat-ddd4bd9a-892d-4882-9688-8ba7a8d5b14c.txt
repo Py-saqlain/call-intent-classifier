@@ -1,0 +1,19 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Aster?
+CALLER: Yes.
+AGENT: Thank you for confirming, Aster. Let me get you all set up.
+AGENT: Thanks, Aster. This is Ana from Barwood & Regency. Vehicle 1135 is on the way and will arrive for your pickup in approximately 24 hours. What can I help you with today?
+CALLER: I'm waiting for the time to even you're coming. You know? You told me nine thirty six. But no taxi is coming. Good morning.
+AGENT: I understand you're expecting a taxi around 9:36, but it hasn't arrived yet. Let me check the status of your current trip for you.
+AGENT: Your current trip pickup was scheduled for 10:04 this morning from 1315 Apple Avenue in Silver Spring, and your driver is assigned and on the way, expected to arrive around 10:09. Is there anything else I can check for you?
+CALLER: I'm looking for the fact that this is.
+AGENT: Could you please clarify what specific information you are looking for about your trip?
+CALLER: About my pip, I want to go to Montgomery Mall. So he told me it's 09:36, but still, there is no taxes.
+AGENT: Thank you for clarifying.
+CALLER: No.
+AGENT: I see you want a ride to Montgomery Mall and were told 9:36, but no taxi arrived then. Your current trip shows a pickup at 10:04 from Apple Avenue with a driver assigned and arriving soon. Would you like me to confirm or update your destination to Montgomery Mall for this trip?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Plus Which is already confirmed there. You know, I'm waiting. I want to know whether it is coming or not coming.
+AGENT: Your driver is assigned and expected to arrive shortly for your pickup at 1315 Apple Avenue; the taxi is on the way. Would you like me to connect you with customer support for more details?
+CALLER: Okay. Okay.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+AGENT: [No further response]

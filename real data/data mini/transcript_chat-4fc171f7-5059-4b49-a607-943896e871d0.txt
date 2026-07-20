@@ -1,0 +1,11 @@
+AGENT: Hello Olusola, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let
+CALLER: Do I have a right to micro access? To be picked up at one eight one one one Priscilla Drive.
+AGENT: I can help with your ride request from 1 8 1 1 1 Priscilla Drive. To get started, could you please let me know how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: No. Metro access.
+AGENT: I understand you mentioned Metro access, but for this service, I can assist with rides only. Could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: Can you get me to your agent
+CALLER: Hello?
+AGENT: I’m here to help. What can I do for you today?
+CALLER: I like the live agent, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

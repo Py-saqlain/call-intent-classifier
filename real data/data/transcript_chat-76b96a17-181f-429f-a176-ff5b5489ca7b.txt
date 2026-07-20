@@ -1,0 +1,32 @@
+AGENT: Hello Mary, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Can I get a cab at one eight seven one five North Frederick
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I'm paying cash today?
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so your pickup address is one eight seven one five North Frederick Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Two zero one South Frederick Avenue. In Gaithersburg.
+AGENT: Alright, let me check that address.
+AGENT: Okay, so your dropoff address is two zero one South Frederick Avenue, Gaithersburg, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah. How much would it cost?
+AGENT: Just to confirm, your dropoff address is two zero one South Frederick Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified. Mary, I'll now proceed with arranging your ride.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Okay. How much would it cost?
+AGENT: The estimated fare for your main trip is $11.5. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Immediately, please. Eleven
+AGENT: The number of passengers you mentioned, eleven, exceeds our vehicle capacity. Our sedans can carry up to 3 passengers, vans up to 5 passengers, and wheelchair vans up to 3 passengers plus 1 wheelchair. Could you please provide an updated number of passengers? Also, let me know if anyone will need a wheelchair-accessible vehicle. <emotion value="hesitant"/>
+CALLER: One one One. One pickup.
+AGENT: Okay great! I've got that noted. Will you be needing a wheelchair accessible vehicle? <emotion value="grateful"/>
+CALLER: No, ma'am. No.
+AGENT: Okay, no wheelchair accessible vehicle needed. Do you have any special instructions or requests for the driver? <emotion value="peaceful"/>
+CALLER: Just to be on time, please. I have to be there by 06:32.
+AGENT: Alright, the estimated fare is 11.5, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No, ma'am. No. Thank you.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 5:28 PM. Your confirmation number is 2 1 3 6 7 3 5 7 8. Is there anything else I can help you with?
+CALLER: No, ma'am. Just have the cabin time, please.
+AGENT: Thank you for calling Barwood & Regency, Mary. Have a wonderful day!
+CALLER: Okay.

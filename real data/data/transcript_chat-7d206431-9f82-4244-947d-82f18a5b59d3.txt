@@ -1,0 +1,45 @@
+AGENT: Hello Roger, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a trans need transportation.
+AGENT: Okay, I can help you with arranging transportation for your needs. Let me connect you to the booking specialist who can assist with your trip details.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I have a what do you call this? A Cash App card.
+AGENT: Thanks
+CALLER: Visa.
+AGENT: Warmly, we only accept cash, credit card, and Call and Ride on this line. Visa is not accepted here. Would you like to pay with cash, credit card, or Call and Ride instead? <emotion value="hesitant"/>
+CALLER: Oh, it's it's a it's a debit. It's it's a debit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: May I have the pickup address for your trip, please? <emotion value="peaceful"/>
+CALLER: Yeah. One two one Harmony Hall Road.
+AGENT: Okay, so I found that location. Is 1 2 1 Harmony Hall Road, Gaithersburg, Maryland the correct pickup address? <emotion value="peaceful"/>
+CALLER: Gaithersburg. Yes.
+AGENT: Your pickup address has been verified. Could you please provide the dropoff address? <emotion value="peaceful"/>
+CALLER: Seven thirty three South Frederick,
+CALLER: Gaithersburg,
+AGENT: Okay, so I found that location. Is 7 3 3 South Frederick Avenue, Gaithersburg, Maryland the correct dropoff address? <emotion
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: You mentioned "trans need transportation" as a note for the driver. Is that correct? Please say yes to confirm or let me know if it needs to be changed. <emotion value="hesitant"/>
+CALLER: Say what? No. Repeat what you just said. I didn't catch that.
+AGENT: You mentioned "trans need transportation" as a note for the driver. Is that correct? Please say yes if that is right, or no if you want to change it. <emotion value="hesitant"/>
+CALLER: Oh, I I wanna I wanna yeah. I need the trip done today.
+AGENT: Thanks for clarifying. Just to confirm, you want the note "trans need transportation" recorded for the driver, correct? And for the pickup time, when today would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now. As soon as possible.
+CALLER: Brooke, I don't understand. What what did you what did what you said something about to pick up or something?
+AGENT: Okay, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion
+CALLER: And this just myself. No. Just myself, and it's gonna be a round trip.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Okay great! <emotion value="grateful"/> I've got that noted: 1 passenger, no wheelchair. Next, do you have any special instructions for the driver?
+CALLER: No. Just call me when he gets here.
+AGENT: Alright, so let me confirm those details. Your pickup is 1 2 1 Harmony Hall Road. Your dropoff is 7 3 3 South Frederick Avenue. Pickup time is 10:39 AM. The estimated fare is 8.5 dollars, paying with Credit Card. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: Yeah. Because I'll see. I'm just going in the store and come right back out.
+AGENT: Great, thanks for confirming. I'll start collecting the return trip details for you now. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: So it's I'm just going in the store and coming right back out.
+AGENT: Thanks for letting me know. For your return trip pickup time, would you like to be picked up a certain number of hours after your first trip? If so, how many hours later? Or do you have a specific time in mind? <emotion value="peaceful"/>
+CALLER: He doesn't have to leave. He'll drop me off. He stays there. I go in the store and come back out. And he brings me home.
+AGENT: Okay, so you want the driver to wait while you go into the store and then bring you back home afterward. Since this means no separate return trip pickup time is
+CALLER: Yes. Yes.
+AGENT: Thank you for explaining. I'll go ahead and process your main trip booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 10:39 AM. Your confirmation number is 2 1 3 6 7 0 5 2 9. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Roger. Have a wonderful day!
+CALLER: You're gonna have to drive or call me when he gets here.

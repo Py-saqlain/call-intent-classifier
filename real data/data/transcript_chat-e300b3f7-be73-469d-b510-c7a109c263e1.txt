@@ -1,0 +1,63 @@
+AGENT: Hello Ron, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Like to book a round trip.
+AGENT: Uhh, okay, I can help you with that round trip booking. Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+AGENT: I see your home address is 1 4 0 0 9 Woodwell Terrace in Silver Spring, Maryland. Would you like to use that as your pickup address for the round trip? <emotion value="grateful"/>
+Would you also please provide the destination address and the pickup time for the first trip?
+CALLER: Yeah. Yes.
+AGENT: Great! So your pickup will be from 1 4 0 0 9 Woodwell Terrace, Silver Spring, Maryland. Could you please tell me the dropoff address for your first trip? <emotion value="grateful"/>
+If you prefer, you can just say the name of the place or landmark for the dropoff.
+CALLER: One four zero zero Yeah. Yes.
+AGENT: Uhh, I want to make sure I got that right. Did you mean the dropoff address is also 1 4 0 0 0 Woodwell Terrace, or did you want to say something else? <emotion value="hesitant"/>
+CALLER: 14450.
+AGENT: Thank you for clarifying. Is the dropoff address 1 4 4 5 0 Woodwell Terrace, Silver Spring, Maryland? <emotion value="grateful"/>
+CALLER: No. It's one four four five o Layhill Road. Silver Spring.
+AGENT: Thanks for that. So the dropoff address is 1 4 4 5 0 Layhill Road, Silver Spring, Maryland. Is that correct? <emotion value="grateful"/>
+CALLER: Yes.
+AGENT: Perfect. Now, could you please tell me the pickup time for your first trip? <emotion value="peaceful"/>
+CALLER: I'm ready. I'm waiting. Now.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, just to confirm, your pickup address is 1 4 0 0 9 Woodwell Terrace, Silver Spring, Maryland, and your dropoff address is 1 4 4 5 0 Layhill Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified.
+AGENT: Just to confirm, you would like to be picked up now, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One
+AGENT: Thanks for that. Will you need a wheelchair-accessible vehicle for this trip? <emotion value="peaceful"/>
+CALLER: Don't need a wheelchair. One passenger.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: It's a round trip. I'll only be at my destination for about three minutes.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Now, do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: Just that it's a round trip. I want him to wait at my destination.
+AGENT: Alright, so let me confirm those details. Your pickup is 1 4 0 0 9 Woodwell Terrace. Your dropoff is 1 4 4 5 0 Layhill Road. Pickup time is 11:40 AM. You have one passenger and will need a wheelchair-accessible vehicle. The estimated fare is 7.5 dollars, paying with Self. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Great! I'll start collecting the details for your return trip now.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Just five minutes after I go to my destination, It's a round trip.
+AGENT: Okay, I've noted your return pickup time as five minutes after your first trip. Now, how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One.
+AGENT: Thanks for that. Will you need a wheelchair-accessible vehicle for the return trip? <emotion value="peaceful"/>
+CALLER: No. No.
+AGENT: Just to confirm, for your return trip, the pickup will be at 1 4 4 5 0 Layhill Road, Silver Spring, Maryland, and the dropoff will be at 1 4 0 0 9 Woodwell Terrace, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: It is.
+AGENT: The estimated fare for your return trip is 7.5 dollars, paying with Self. Should I go ahead and book both trips for you? <emotion value="peaceful"/>
+CALLER: Please.
+AGENT: Okay, so I’m booking both trips for you now.
+AGENT: I'm booking both your main and return trips now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 11:40 AM with confirmation number 2 1 3 6 7 0 5 9 7. Your return trip is scheduled for today at 4:40 PM with confirmation number 2 1 3 6 7 0 5 9 8. Is there anything else I can help you with?
+CALLER: The time on the return trip doesn't sound right.
+AGENT: The return trip is set for today at 4:40 PM. Would you like me to help you change that time?
+CALLER: Yes.
+AGENT: I’ll connect you to an agent who can assist with changing your return trip time. Please hold for a moment.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay. I'm trying to say it's a round trip. I'll only be three to five minutes at my destination.
+AGENT: Thank you for explaining that. So you want the driver to wait for you at the destination for about three to five minutes before heading back, correct? <emotion value="grateful"/>
+CALLER: So I'd like the driver to wait.
+AGENT: Looks like you already have trips from 1 4 0 0 9 Woodwell Terrace to 1 4 4 5 0 Layhill Road at today 11:40 AM, and back at today 4:40 PM. What would you like to do? <emotion value="grateful"/>
+CALLER: Exactly, yes.
+AGENT: I understand you'd like to modify your trip to have the driver wait at your destination for about three to five minutes. Trip modifications need to be handled by a live agent. Let me connect you with someone who can help.
+CALLER: Thank you.
+AGENT: I'm connecting you now to a customer service representative who can assist you further. Please stay on the line.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

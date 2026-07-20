@@ -1,0 +1,49 @@
+AGENT: Hi Cathleen, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I need a taxi. At Shady Grove Road. An e at the at Shady Grove. At the main entrance.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I both cash and credit card.
+AGENT: Hmmm.. that didn't seem right, could you please choose just one payment method for this ride: cash or credit card? <emotion value="apologetic"/>
+CALLER: Yeah. Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: I found one location for Shady Grove Road main entrance near 1 2 3 5 Potomac Valley Road, Rockville, Maryland. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: No. It is, um, City Grove Hospital. Um, Medical Center Drive.
+AGENT: Okay, let me look up City Grove Hospital on Medical Center Drive. <emotion value="peaceful"/>
+AGENT: I found Adventist HealthCare Shady Grove Medical Center at 9 9 0 1 Medical Center Drive, Rockville, Maryland. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Giant food at Kentland Boulevard. K e n t l a n d.
+AGENT: Okay, let me look up Giant Food at Kentland Boulevard. <emotion value="peaceful"/>
+AGENT: I found Giant Food at 2 2 9 Kentlands Boulevard, Gaithersburg, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Cathleen.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your main trip pickup address is 9901 Medical Center Drive, Rockville, Maryland. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: Just myself.
+AGENT: Okay great! I've got one passenger noted. When would you like to be picked up? <emotion value="grateful"/>
+CALLER: Five minutes.
+AGENT: Okay, I've scheduled your pickup for today at 9:52 PM. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. I no. I don't need it.
+AGENT: Okay, no wheelchair accessible vehicle needed. Do you have any special instructions for the driver? <emotion value="peaceful"/>
+CALLER: No. No.
+AGENT: The estimated fare is 12.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Please. Yes.
+AGENT: Alright, thank you. I'll start collecting the details for your return trip now. <emotion value="peaceful"/>
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Oh, return trip should be in, like, ten minutes
+AGENT: Okay, I've scheduled your return trip pickup for today at 10:02 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling on the return trip, including yourself? <emotion value="peaceful"/>
+CALLER: One.
+AGENT: Okay great! I've got one passenger noted for the return trip. Will you be needing a wheelchair accessible vehicle for the return trip? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: For your return trip, I have the pickup at 2 2 9 Kentlands Boulevard and the dropoff at 9 9 0 1 Medical Center Drive. Is that correct? <emotion value="peaceful"/>
+CALLER: No. The drop off is one four four zero one to a bill garden Circle.
+AGENT: Okay, let me update the return trip dropoff to 1 4 4 0 1 T a b b a l Garden Circle. <emotion value="peaceful"/>
+AGENT: I found 1 4 4 0 1 Traville Gardens Circle, Rockville, Maryland. Is that the correct dropoff location for your return trip? <emotion value="peaceful"/>
+CALLER: Right.
+AGENT: Your dropoff address for the return trip has been verified, Cathleen.
+AGENT: The estimated fare for your return trip is 13 dollars, paying with Credit Card. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so <break time="250ms"/> I'm booking both your trips now. <emotion value="peaceful"/>
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 4 4 5 4, and your pickup is today at 9:52 PM. Your return trip is also booked with confirmation number 2 1 3 6 7 4 4 5 5, with pickup today at 10:02 PM. Is there anything else I can help you with?
+CALLER: No. That's good.
+AGENT: Thank you for calling Barwood & Regency, Cathleen. Have a wonderful day!

@@ -1,0 +1,43 @@
+AGENT: Hi Mary, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I am at the one zero two one five
+AGENT: Could you please tell me the street name or location you are at with the number one zero two one five?
+CALLER: One.
+AGENT: Thanks for that. Could you please
+CALLER: Onward Road, Bethesda, Maryland. Bethesda,
+AGENT: Thank you for sharing your location at one zero two one five Onward Road, Bethesda, Maryland. How would you like to pay for
+CALLER: Mhmm. Mhmm. Mhmm. Cash.
+AGENT: Thank you for letting me know you'll be paying with cash.
+CALLER: Mhmm. And then I'm going eight eight zero nine Mary Mead Court
+CALLER: Potomac, Maryland
+AGENT: I found the pickup address as one zero two one five Fernwood Road, Bethesda, Maryland. Is that correct?
+CALLER: two zero eight five four. Right.
+AGENT: Just to clarify, are you confirming the pickup address as two zero eight five four Fernwood Road, Bethesda, Maryland?
+CALLER: No. No. No. No.
+AGENT: Thank you for letting me know. Could you please provide
+CALLER: The pickup address, the one zero one zero two. One zero two one five Hornwood Road,
+AGENT: Thank you for the correction. Just to confirm, is your pickup address one zero two one five Hornwood Road, Bethesda, Maryland?
+CALLER: Right. Phone Pornwood Road. Bethesda, Maryland.
+AGENT: Thank you for confirming your pickup address as one zero two one five Hornwood Road, Bethesda, Maryland. Is that correct?
+CALLER: Right.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Okay. Eight eight zero nine Mary Mead Court, Potomac, Maryland 20854.
+AGENT: Thank you for providing the destination address as eight eight zero nine Mary Mead Court, Potomac, Maryland. Is that correct?
+CALLER: Mhmm. Bye.
+AGENT: I have your destination as eight eight zero nine Mary Mead Court, Potomac, Maryland. Is that correct?
+CALLER: Correct. Right. Correct.
+AGENT: Your dropoff address has been verified, Mary.
+AGENT: When would you like to be picked up?
+CALLER: Now I'm waiting. Would you send the cab as soon as possible, please?
+AGENT: I will arrange for a cab to pick you up as soon as possible. How many passengers will be traveling, and will anyone need a
+CALLER: Bye. One No no wheelchair.
+AGENT: I have recorded one passenger with no wheelchair needed. Do you have any special instructions for the driver?
+CALLER: No. No. Not at all.
+AGENT: Mary, the estimated fare for your trip is 13 dollars, and you will be paying with cash. Would you like to schedule a return trip as well?
+CALLER: No. No.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your main trip is scheduled for today at 11:56 AM. Your confirmation number is 2 1 3 6 7 8 0 8 7. Is there anything else I can help you with?
+CALLER: No. I I'm waiting now. Please send the cab as soon as possible, please.
+AGENT: I understand you are waiting now. Your trip is already scheduled for pickup shortly. If you need anything else, just let me know.
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Mary. Have a wonderful day.
+CALLER: Thank you.

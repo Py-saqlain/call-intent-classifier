@@ -1,0 +1,28 @@
+AGENT: Hi Kevin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I need a cab to 3 Marcus Court. In Rockville, Maryland.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Dash.
+AGENT: Hmmm.. that didn't seem right, could you try again? You can pay with cash, credit card, or Call and Ride. <emotion value="apologetic"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so your dropoff address is 3 Marcus Court, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I understand the dropoff address is not correct. Could you please provide the correct dropoff address again? <emotion value="apologetic"/>
+CALLER: Parkridge Lane, in Germantown, Maryland.
+AGENT: Hmm, I couldn't find Parkridge Lane in Germantown, Maryland. Could you please provide a more complete address or a nearby landmark to help me locate it? <emotion value="apologetic"/>
+CALLER: Posterior
+AGENT: Uh, I am sorry, but could you please clarify the full address or provide the street number on Posterior? That will help me find the exact location. <emotion value="apologative"/>
+CALLER: No. No. No. West Westterior Westterior
+AGENT: Hmm, I am having
+CALLER: Westterior.
+AGENT: Hmm, I am having trouble finding "Westterior." Could you please provide the street number or a nearby landmark to help me locate it? <emotion value="apologetic"/>
+CALLER: Outback Steakhouse.
+AGENT: I found a few Outback Steakhouse locations. 
+Option one: 1 3 7 0 3 Georgia Avenue, Silver Spring. 
+Option two: 1 4 7 1 8 Baltimore Avenue, Laurel. 
+Option three: 3 5 0 0 East-West Highway, Hyattsville. 
+Which one would you like to use? <emotion value="peaceful"/>
+CALLER: None of them. None.
+AGENT: Okay, I understand none of those are correct. Could you please provide a more specific address, landmark, or cross street near the Outback Steakhouse you want? <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Thank you.

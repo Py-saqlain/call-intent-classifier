@@ -1,0 +1,12 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name or the phone number on your account to get started?
+CALLER: Uh, I'm calling here for a customer. Work at the Aspergill Giant. Her phone's about to die. What do you have a do you have a wait. So you need their name and their phone number, or what do need? Hello? Hello? What's your name? Sofia Kim. Do you have an account with them? What's the account number? Hello? Sofia, can 1235?
+AGENT: I understand you're calling for Sofia Kim. To help you best, could you please provide either her phone number or the full name exactly as it appears on her account? That way I can find her profile for you.
+CALLER: Your your phone number. Two four zero nine three eight one nine one five.
+AGENT: I couldn't find a profile under the name Sofia Kim with that phone number. Would you like me to help you set up a new profile for her so we can assist with the ride?
+CALLER: Need to make a profile for you.
+AGENT: Great, I can help with that. Could you please tell me the full name exactly
+CALLER: Yep. They need to make an account for you. They need to make an account for you.
+AGENT: I want to make sure I get the name right. Could you please
+CALLER: Can I can I hit Can I speak to a representative?
+CALLER: Can I speak to a representative?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

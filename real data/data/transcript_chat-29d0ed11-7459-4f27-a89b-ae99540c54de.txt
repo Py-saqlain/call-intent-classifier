@@ -1,0 +1,27 @@
+AGENT: Hello Ria, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like a pickup and a drop off.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I'd like to know how much it's going to cost.
+AGENT: I don't have the fare information yet since we are still gathering your trip details. Meanwhile, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Is address, you know? Renee?
+AGENT: Uh, I am sorry, but could you please repeat the pickup address? I want to make sure I get it right. <emotion value="peaceful"/>
+CALLER: Making sure Make 7141 Macon Drive,
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, I found 7 1 4 1 Lake Drive, Warrenton, Virginia. Is that correct? <emotion value="peaceful"/>
+CALLER: Macon Street. I'm sorry. Seven one
+AGENT: Okay, so you meant 7 1 4 1 Macon Drive, is that right? <emotion value="hesitant"/>
+CALLER: Wrong.
+AGENT: Thank you for clarifying. Could you please say the full pickup address again, including the street number and street name? <emotion value="peaceful"/>
+CALLER: 7141 Macon Street, Frederick, Maryland.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: I couldn't find 7 1 4 1 Macon Street in Frederick, Maryland. Could you please confirm the street number, street name, city, and state again? <emotion value="apologetic"/>
+CALLER: Seven one four one Macon Street, Frederick, Maryland two one seven zero three.
+AGENT: Thank you for the full details. Let me check that address again. <emotion value="peaceful"/>
+AGENT: I still couldn't find 7 1 4 1 Macon Street in Frederick, Maryland. Could you please check if the street name or number might be different, or provide a nearby landmark or cross street? <emotion value="apologetic"/>
+CALLER: I can't find the address. That's what I told them. May I speak to a representative, please?
+AGENT: I can help you find the right address — would you like to continue? <emotion value="peaceful"/>
+CALLER: I'd like a representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

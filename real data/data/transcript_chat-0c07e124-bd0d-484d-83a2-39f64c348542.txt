@@ -1,0 +1,82 @@
+AGENT: Hi John, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like to make reservations for a bar and cab by my house at twelve noon on Saturday, 07/18/2026. Come into my house at one one five two three Jordan Avenue, Silver Spring.
+AGENT: Thank you for sharing your trip details. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Headed to one nine nine East Montgomery Avenue. Call nine
+AGENT: I see you'd like to pay with Call and Ride, but I need the last six digits of your Call and Ride card to proceed. Could you please provide those six digits?
+CALLER: Three four two nine six one.
+AGENT: Thank you, your payment with Call and Ride is all set. I will proceed with your reservation now.
+AGENT: I have the pickup address as 1 1 5 2 3 Georgia Avenue, Silver Spring, Maryland, and the dropoff address as 1 9 9 East Montgomery Avenue, Rockville, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup and dropoff addresses have been verified, John. I will now proceed with arranging your reservation.
+AGENT: You mentioned your pickup time as Saturday at 12 noon. Is that correct?
+CALLER: right? What I'd like to do is I'd like to have the tab Correct.
+AGENT: Thank you for confirming your pickup time for Saturday at 12 noon. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: I'd like to make a return trip to just one.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Now, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Give me one moment. No.
+AGENT: Take your time. When you're ready, please let me know how many passengers will be traveling and if anyone will need a wheelchair-accessible vehicle.
+CALLER: I I I'd like to make
+AGENT: I’m here to help. Could you please tell me how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: On the return, No. I was could you send the cap to 199 East Montgomery Avenue, Rockville? At 11533 Jordan Avenue, Silver Spring? Around 03:30PM, leaving Rockville for Silver Spring. Leaving 199 East Montgomery Avenue ahead to one one five two three. Silver Spring.
+AGENT: Just to confirm, your pickup time is Saturday, July 18th at 12 noon. Is that correct?
+CALLER: Correct.
+AGENT: Thank you for confirming your pickup time. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thank you. Will you need a wheelchair-accessible vehicle for this trip?
+CALLER: No. Just myself. One.
+AGENT: Thank you for that information. Do you have any special instructions or notes for the driver?
+CALLER: No. But I would like to make a return trip 199 East Montgomery Avenue.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Since there are no special instructions for the driver, I have recorded that as well.
+AGENT: The estimated fare for your main trip is 20 dollars, and you will be paying with your Call and Ride account. You mentioned you'd like a return trip — would you still like me to set that up?
+CALLER: Yes. I can make a return trip leaving one ninety nine Everything's in Yeah.
+AGENT: Thank you for confirming you'd like to set up the return trip. I will start collecting the details for your return trip now.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Yes, please. Okay.
+AGENT: Could you please tell me the specific time you would like to be picked up for your return trip?
+CALLER: 03:30PM.
+AGENT: Thank you for providing the return trip pickup time as 3:30 PM. I will store that now.
+AGENT: Your return trip pickup time is set for Saturday, July 18th at 3:30 PM. How many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: What? Yeah.
+AGENT: Could you please tell me how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just one. Just one
+AGENT: Thank you. Will you need a wheelchair-accessible vehicle for your return trip?
+CALLER: No. No. I want
+AGENT: To confirm, your return trip pickup will be at 1 9 9 East Montgomery Avenue, and your return dropoff will be at 1 1 5 2 3 Jordan Avenue, Silver Spring, Maryland. Is that correct?
+CALLER: No. No. Towards no. Georgia Avenue, not Georgia. Georgia, G E 0 R T I A. I'll be leaving the return trip will be leaving at one at three thirty PM from one ninety nine East Montgomery Avenue leaving Rockville or 11553 Georgia Avenue, Silver Spring at 03:30PM. Return trip.
+AGENT: Thank you for the correction. Just to clarify, your return trip pickup is at 1 9 9 East Montgomery Avenue in Rockville, and your return dropoff is at 1 1 5 5 3 Georgia Avenue in Silver Spring, leaving at 3:30 PM. Is that correct?
+CALLER: No. No. It'll be leaving it'll be headed to 11523 Georgia Avenue, Silver Spring, leaving one ninety nine East Montgomery Avenue, Rockville for 11523 Georgia Avenue Silver Spring three seventy PM on the return trip.
+AGENT: Please confirm the return trip dropoff address as 1 1 5 2 3 Georgia Avenue, Silver Spring, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Your return trip dropoff address has been verified, John. I will now proceed with arranging your return trip.
+AGENT: The estimated fare for your return trip is 20 dollars, paying with your Call and Ride account. Should I go ahead and book both your main trip and return trip now?
+CALLER: Okay. Ready?
+AGENT: Great, I am booking both your main trip and return trip now.
+CALLER: Got it.
+AGENT: Thank you for your patience. I am now booking both your main trip and your return trip together. Please hold on a moment.
+AGENT: Your main trip confirmation number is 2 1 3 6 7 9 4 5 6 with pickup on July 18th at 12:00 PM. Your return trip confirmation number is 2 1 3 6 7 9 4 5 7 with pickup on July 18th at 3:30 PM. Is there anything else I can help you with?
+AGENT: I'm still working on booking your trips. Please give me just a moment.
+AGENT: Your main trip confirmation number is 2 1 3 6 7 9 4 5 6 and your return trip confirmation number is 2 1 3 6 7 9 4 5 7. Is there anything else I can assist you with?
+CALLER: Do I need to get his number or can I just use my call and ride card?
+AGENT: You can just use your Call and Ride card for the trips. There's no need to get a separate confirmation number for that. Is there anything else I can help you with?
+CALLER: Or was that about 08:10?
+AGENT: Could you please clarify what you mean by "08:10"? Are you asking about a pickup time or something else?
+CALLER: Thank you. What I'm trying to say is that I will call for the
+AGENT: I’m here to help. Could you please finish your sentence or let me know what you will call for?
+CALLER: cab to come by at twelve noon on Saturday, the eighth. Eighteenth. I will do that because what I need to do at 11:30AM, I'll make sure to have a good my house at 12PM.
+AGENT: Thank you for clarifying. Your pickup is scheduled for 12:00 PM on Saturday, July 18th. If you want to call when you're ready for the cab to come by, you can do that as well. Is there anything else I can assist you with?
+CALLER: can can I call it yellow, please.
+AGENT: I understand you'd like to request a yellow vehicle. Unfortunately, we don't have an option to specify vehicle color for your ride. Is there anything else I can assist you with?
+CALLER: I will call the cab I will
+AGENT: If you prefer to call when you’re ready for the cab, I can help you set up a will-call booking instead. Would you like me to do that for you?
+CALLER: Yeah. I'll see the cab driver at
+AGENT: I can help you set up a will-call booking so you can call when you’re ready and a driver will be dispatched to your location. Would you like me to proceed with that?
+CALLER: No. Just had the cab come by on Saturday, the eighteenth at twelve noon. I'll call 11:30 in to make sure that the cab will get by my house Twelve noon headed to one ninety nine East on top of that.
+AGENT: Got it. Your cab is scheduled to pick you up on Saturday, July 18th at 12:00 PM to go to 1 9 9 East Montgomery Avenue. You plan to call at 11:30 AM to confirm. Is there anything else I can assist you with?
+CALLER: I will call the cab driver 11:30 and cash the cab at twelve noon. On return trip.
+AGENT: Thank you for letting me know. Just to confirm, you will call the cab driver at 11:30 AM and pay cash for the cab at 12:00 PM for your return trip. Is that correct?
+CALLER: No. I'm not paying cash. I'm gonna use one call and ride.
+AGENT: Thank you for clarifying. You will call the cab driver at 11:30 AM and use your Call and Ride card to pay for the cab at 12:00 PM. Is that correct?
+CALLER: Correct.
+AGENT: Thank you for confirming. Your cab is scheduled for Saturday, July 18th at 12:00 PM, and you'll call the driver at 11:30 AM, paying with your Call and Ride card. Is there anything else I can assist you with?
+CALLER: That's it. Is there anything else? No. I thank you so much for all your help.
+AGENT: Thank you for calling Barwood & Regency, John. Have a wonderful day!

@@ -1,0 +1,12 @@
+AGENT: Hello Clarence, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to assign my ride to four one four for pickup at 10720 Georgia Avenue, Silver Spring, Maryland apartment two zero four, ZIP code 20902.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Oh, Uh, associate agent, please. Agent.
+CALLER: Hello? Hello?
+AGENT: Uhh, I’m here to help. What can I do for you today? <emotion value="peaceful"/>
+CALLER: Agent, please.
+AGENT: I can take care of the payment details right now — want to keep going?
+CALLER: I wanna talk to agent, associate agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you.
+AGENT: I’m here

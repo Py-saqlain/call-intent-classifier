@@ -1,0 +1,40 @@
+CALLER: That's a long time you've been Nice.
+AGENT: Hello, this is Ana with Barwood
+CALLER: Hi. What's your name? Mariam? Hi. I'm sitting with Miriam, and she had called a cab three hours ago. She's waiting at Trader Joe's for someone to pick her up.
+AGENT: Thanks for letting me know. This is Ana with Barwood & Regency. May I please have your name so I can assist you with the ride for Miriam?
+CALLER: My name is Kate.
+AGENT: Thanks, Kate. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a tab for a woman named Miriam. K. Okay.
+CALLER: Maryam.
+AGENT: Thanks for clarifying the name Miriam. How would she like to pay for the ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Thank you for choosing Call and Ride. Could you please provide the last six digits of Miriam's Call and Ride card?
+CALLER: Two three seven nine. It's the left. 4. Two six. Zero six. 06.
+CALLER: Two three seven nine.
+AGENT: I heard the digits two three seven nine, but I need six digits for the Call and Ride card. Could you
+CALLER: Oh, 6. Zero six two three seven nine.
+AGENT: Thank you, I have verified the Call and Ride payment for Miriam.
+CALLER: I'm sorry.
+AGENT: No worries at all. To get started, could you please tell me the pickup address for Miriam's ride?
+CALLER: Two five five North Washington Street, Rockville, Maryland two zero eight five zero.
+AGENT: I have the pickup address as two five five North Washington Street, Rockville, Maryland.
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address for Miriam's ride?
+CALLER: One four five zero eight. One five four zero eight. Was it? Palm Terrace Road?
+AGENT: Could you please confirm the full dropoff address? Is it one four five zero eight Palm Terrace Road? And if you know, please also provide
+CALLER: What? It goes up. Right? Yeah. Yes. Two zero nine zero six. Yes. That's Silver Spring, Maryland.
+AGENT: Just to confirm, is the dropoff address one four five zero eight Palm Terrace Road, Silver Spring, Maryland?
+CALLER: Yes.
+AGENT: I wasn't able to locate 14508 Palm Terrace Road in Silver Spring, Maryland. Could you please double-check the street number or name, or provide any nearby landmarks or cross streets to help find the correct dropoff address?
+CALLER: What's the can you spell the address?
+AGENT: I’m happy to help with the address.
+CALLER: Like, the street? Eight five Home Terrace. Home Terrace Road. H 0 M E. Oh, thank you.
+AGENT: Thank you for spelling that out. Just to confirm, is the dropoff address 85 Home Terrace Road in Silver Spring, Maryland?
+CALLER: 0906. Can you say the street number one more time?
+AGENT: Sure, the street number you mentioned is
+CALLER: The number? 15408 Home Terrace Road.
+AGENT: I couldn't find 15408 Home Terrace Road in Silver Spring, Maryland. Could you please confirm if the street name or
+CALLER: Yeah. Yeah. Yes. Correct.
+AGENT: I couldn't find any results for 15408 Home Terrace Road in Silver Spring, Maryland. Could you please check if the street name or number might be different, or provide another nearby landmark or address?
+CALLER: Can you spell the street?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

@@ -1,0 +1,9 @@
+AGENT: Hello Fatima, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Three days six. Normally, I moved this resolution. I did before her.
+AGENT: I'm sorry, I didn't quite catch that. Could you please tell me how I can assist you with your ride today?
+CALLER: Need that right right now, 6AM.
+AGENT: Thanks for letting me know you need a ride at 6 AM. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Medicaid.
+AGENT: We only accept cash, credit card, and Call and Ride for payment. Would you like me to connect you to a live agent who can help with other options?
+CALLER: Can I talk to the agent, please?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

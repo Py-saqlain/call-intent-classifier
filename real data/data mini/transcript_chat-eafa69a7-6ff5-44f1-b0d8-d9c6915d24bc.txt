@@ -1,0 +1,23 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Stage.
+AGENT: Thanks, Stage. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a ride.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Card and cash?
+AGENT: Hmmm.. <break time="300ms"/> I want to make sure I get this right. Would you like to pay with a credit card or with cash? Or did you mean something else? <emotion value="apologetic"/>
+CALLER: Cards.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Uh, I am sorry, but could you please say the pickup address where the driver should come to get you? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I want to make sure I understand
+CALLER: The pickup address is one twenty
+AGENT: Thank you. Could you please provide the full street name and city along with the number one twenty for your pickup address? <emotion value="peaceful"/>
+CALLER: It's one nineteen Walker Avenue.
+AGENT: Okay, so I found 1 1 9 Patterson Avenue, Fredericksburg, Virginia. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please repeat the pickup address again? <emotion value="peaceful"/>
+CALLER: One nine nineteen Walker Avenue,
+AGENT: Okay, I found 1 9 1 9 Howard Avenue, Tysons, Virginia. Is that the correct pickup address? <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

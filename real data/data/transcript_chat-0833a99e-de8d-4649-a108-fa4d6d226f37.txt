@@ -1,0 +1,46 @@
+AGENT: Hello Alba, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I like you to send me a call, please.
+AGENT: Uhh, just to be sure, are you asking to book a ride with us? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yes. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Okay. Hold on. I thought it was yesterday.
+AGENT: No problem at all. Whenever you're ready, just let me know the pickup address. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Great! Please tell me the pickup address for your ride. <emotion value="peaceful"/>
+CALLER: 12201, Drive, Silver Spring, Maryland. 20904.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 1 2 2 0 1 Atherton Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Plum Orchard Drive,
+AGENT: Okay, so you want Plum Orchard Drive instead of Atherton Drive. Let me check that address for you.
+AGENT: Okay, so I found 1 2 2 0 1 Plum Orchard Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Plum Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One seven two five Drive, Silver Spring, Maryland two zero nine zero four.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I found a location close to what you said: 1 7 2 5 Staley Manor Drive, Silver Spring, Maryland. Is that the correct dropoff address? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, Alba.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now.
+AGENT: Okay, your pickup time is set for today at 10:06 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Two.
+AGENT: Thanks for letting me know there will be two passengers. Will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One including myself,
+AGENT: Okay great! I've got that there are two passengers total, with one needing a wheelchair-accessible vehicle. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No. No. No. Wheelchair.
+AGENT: Alright, the estimated fare is 8.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Eight point five.
+AGENT: Yes, that's right, the estimated fare is eight point five dollars. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Eight seven one. No.
+AGENT: Alright, no return trip then. Would you like me to go ahead and book your ride now? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so <break time="250ms"/> I'm booking your ride now.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is booked for today at 10:06 AM. Your confirmation number is 2 1 3 6 7 3 0 2 7. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Alba. Have a wonderful day.

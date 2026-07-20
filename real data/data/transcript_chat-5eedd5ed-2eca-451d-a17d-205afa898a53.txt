@@ -1,0 +1,36 @@
+AGENT: Hello JANICIA, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like to have a reservation now.
+AGENT: Thank you for choosing us for your reservation. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please provide the pickup address for your reservation?
+CALLER: Yeah. One four five zero eight. Homecrest Road,
+AGENT: I have 1 4 5 0 8 Homecrest Road, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yeah. Yeah. Correct.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Destination. Hang on. Aspen Hill. CVS, Pharmacy.
+AGENT: I found two locations for CVS Pharmacy in Aspen Hill at 1 3 7 2 9 Connecticut Avenue, Aspen Hill, Maryland. Which one would you like
+CALLER: That's the one.
+AGENT: Your dropoff address has been verified, Janicia. I will now proceed with your reservation.
+AGENT: I have noted that you would like to be picked up now. Is that correct? Please
+CALLER: Yeah. Yeah. Yeah.
+AGENT: Thank you for confirming your pickup time as now. How many passengers will
+CALLER: Yes.
+AGENT: Could you please tell me how many passengers will be
+CALLER: Myself?
+CALLER: Nice job.
+AGENT: Thank you. Will you be needing a wheelchair accessible vehicle for this trip?
+CALLER: No.
+AGENT: Thank you. Do you have any special instructions or
+CALLER: No.
+AGENT: The estimated fare for your trip is 9.5 dollars, paying with a
+CALLER: This will be on time.
+AGENT: Just to confirm, would you like to schedule a return trip as well?
+CALLER: Yeah. I call back.
+AGENT: I have set up a will-call return trip for you, with the same payment method and one passenger. The return trip pickup will be at 13729 Connecticut Avenue, and the dropoff will be at 14508 Homecrest Road. The fare for the return trip is also 9.5 dollars. Would you like me to book both trips now?
+CALLER: I will call back to return.
+AGENT: Thank you for letting me know. I am processing your main trip booking now. Please hold for a moment.
+CALLER: Okay.
+AGENT: Your main trip is scheduled for today at 2:39 pm. The confirmation number is 2 1 3 6 7 8 3 7 6. Is there anything else I can help you with?
+CALLER: All. How long I have to wait?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

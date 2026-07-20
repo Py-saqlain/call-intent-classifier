@@ -1,0 +1,26 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Dana Bowen?
+CALLER: Yes.
+AGENT: Thank you for confirming, Dana. Let me get you all set up now.
+AGENT: Thanks for confirming, Dana. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I would like to get a cab right now.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: To get started, could you please tell me the address where you'd like to be picked up?
+CALLER: One nine seven one eight Sidney Boulevard, Demigel, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I'm sorry, but I couldn't find 1 9 7 1 8 Sidney Boulevard in Demigel, Maryland. Could you please double-check the street name and city for me?
+CALLER: No. Touch me. Touch me. Century Century Boulevard, in Gemma Drive, New York.
+AGENT: Uh, I am sorry, but <break time="300ms"/> could you repeat the address you want to be picked up from?
+CALLER: 5th Way, Same way.
+AGENT: Could you please provide the full street address including the street number and city for your pickup location? That will help me find it accurately.
+CALLER: One nine seven one eight Century
+AGENT: Thank you. Just to confirm, is your pickup address 1 9 7 1 8 Century Boulevard? If not, please provide the full street name and city.
+CALLER: can I speak can I please speak to a live person I don't wanna talk to AI? Yes.
+AGENT: I can help with your booking details if you'd like — shall we continue?
+CALLER: Yes. Yes. It is. Yes.
+CALLER: Yes. Yes.
+AGENT: Alright, the estimated fare is still being calculated, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+AGENT: Okay, Dana, let's start fresh. Could you please tell me the full address where you'd like to be picked up?
+CALLER: Yes.
+AGENT: Thank you, Dana. Could you please provide the full pickup address including the street number, street name, city, and

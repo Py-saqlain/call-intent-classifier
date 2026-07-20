@@ -1,0 +1,11 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Would there be the Cajun?
+AGENT: I’m here to help with rides at Barwood & Regency. Could you please tell me your name so I can assist you better?
+CALLER: Adobe EKG.
+AGENT: Thanks, Adobe. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: They just called me.
+AGENT: I want to make sure I understand correctly—are you looking to book a ride now, or do you need help with a call you received?
+CALLER: I need help with the call I received.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Connect me properly.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

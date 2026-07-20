@@ -1,0 +1,14 @@
+AGENT: Hello Miller, this is Ana from Barwood & Regency. Your trip with vehicle 1035 is accepted and scheduled for pickup today at 2:20 PM. How can I assist you today?
+CALLER: One second. Okay.
+AGENT: Take your time. Let me know how I can assist you when you're ready.
+CALLER: Please
+AGENT: How can I assist you with your ride or reservation today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello? Hello?
+AGENT: I'm here to help. What can I do for you today?
+CALLER: Hello?
+AGENT: How can I assist you with your ride or reservation today?
+CALLER: Went from a wall.
+AGENT: Could you please clarify what you mean by "went from a wall"? Are you trying to book a ride or need help with something else?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Book a ride.

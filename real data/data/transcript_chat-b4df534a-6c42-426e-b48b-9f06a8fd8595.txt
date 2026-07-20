@@ -1,0 +1,34 @@
+AGENT: Hello Jude, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a taxi for tomorrow
+AGENT: Alright, how would you like to pay for your taxi tomorrow? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: To get started, could you please tell me the pickup address for your ride tomorrow? <emotion value="peaceful"/>
+CALLER: 6112 Roseland Drive, Rockville, Maryland 20852.
+AGENT: Okay, so your pickup address is 6 1 1 2 Roseland Drive, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: I a d.
+AGENT: I found the address as 1 Aviation Circle, Washington, District of Columbia. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will disregard that address. Could you please provide the dropoff address again? <emotion value="apologetic"/>
+CALLER: Dallas Airport.
+AGENT: Okay, so your dropoff address is 1 Saarinen Circle, Dulles, Virginia. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified. Thank you, Jude.
+AGENT: What time tomorrow would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 05:45AM.
+AGENT: Just to confirm, you want to be picked up tomorrow at 5:45 AM, correct? <emotion value="peaceful"/>
+AGENT: Okay great! I've
+CALLER: Correct.
+AGENT: Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Four. Four people We don't need a wheelchair accessible via
+AGENT: Okay great! I've got four passengers and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 65 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Thanks.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for tomorrow at 5:45 AM. Your confirmation number is 2 1 3 6 7 3 7 8 9. Is there anything else I can help you with?
+CALLER: That's it. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Jude. Have a wonderful day!
+CALLER: Thank you.

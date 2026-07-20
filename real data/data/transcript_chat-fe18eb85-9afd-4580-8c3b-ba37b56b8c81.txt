@@ -1,0 +1,30 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Judith Torrance.
+AGENT: Thank you, Judith. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need to book a
+AGENT: Okay, I’m here to help you book a ride. Could you please tell me where you would like to be picked up from? <emotion value="peaceful"/>
+CALLER: cab for an important medical appointment on Monday,
+AGENT: Got it. Could you please tell me the pickup address for your ride on Monday? <emotion value="peaceful"/>
+CALLER: Pickup address is three four zero seven twenty ninth Street, Northwest, Washington, DC two triple zero eight
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Hmm, let me check that address again. I couldn't locate 3 4 0 7 2 9th Street Northwest Washington DC. Could you please confirm the street number and name, and the city and state for your pickup address? <emotion value="apologetic"/>
+CALLER: It's three four zero seven twenty ninth Street Northwest, two zero zero zero eight three two four five.
+AGENT: Thank you for that. Just to confirm, your pickup address is 3 4 0 7 2 9th Street Northwest, Washington, DC 2 0 0 0 8. Is that correct? <emotion value="peaceful"/>
+CALLER: I am not sure.
+AGENT: No problem at all. Could you please provide any nearby landmarks or cross streets to help identify your pickup location more clearly? <emotion value="peaceful"/>
+CALLER: Yes. Ordway Street, and twenty ninth Street Northwest.
+AGENT: I found a location at 2 7 5 5 Ordway Street Northwest, Washington, DC 2 0 0 0 8. Is this the correct pickup address? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will not use that address. Could you please provide the full street number and name for your pickup location again? <emotion value="apologetic"/>
+CALLER: The street number is 29th Street, Northwest,
+AGENT: I see you mentioned 29th Street Northwest. Could you please provide the street number for the building on 29th Street Northwest? That way I can find the exact pickup address for you. <emotion value="peaceful"/>
+CALLER: Three four zero seven.
+AGENT: I couldn't find 3 4 0 7 29th Street Northwest, Washington, DC. Could you please double-check the street number and name or provide any nearby landmarks? <emotion value="apologetic"/>
+CALLER: No.
+AGENT: I understand this is a bit tricky. Could you please provide any other nearby streets or landmarks around your pickup location that might help me find it? <emotion value="peaceful"/>
+CALLER: Ordway Street, and Connecticut Avenue.
+AGENT: I couldn't find a location at Ordway Street and Connecticut Avenue in Washington, DC. Could you please provide a nearby building number or a different landmark to help narrow it down? <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: No.

@@ -1,0 +1,9 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Adrian Barber?
+CALLER: Yes.
+AGENT: Thanks, Adrian. This is Barwood & Regency. You have been picked up by vehicle 1181. How can I assist you today?
+CALLER: Agent. I ain't been picked up. In my life. No.
+AGENT: Uhh, I understand, Adrian. It sounds like you want to book a ride. Let me help you with that.
+AGENT: Looks like you already have trips from Gaithersburg to Rockville at 6 PM today, from Rockville to Gaithersburg on May 6th, 2076 at 7:05 AM, and one more. What would you like to do?
+CALLER: Agent. One guy gets fucked with Uber home. And then they made me take this truck.
+AGENT: I hear you, Adrian. If you want to discuss or change your current trips or need help with a new ride, I can connect you with a representative who can assist. Would you like me to do that for you?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

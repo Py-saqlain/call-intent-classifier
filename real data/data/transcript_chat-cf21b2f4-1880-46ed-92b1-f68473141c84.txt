@@ -1,0 +1,29 @@
+AGENT: Hi Christina, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Did you already send cap for me?
+AGENT: I can help you check the status of your trip or any existing bookings. Let me connect you to the trip status team who can provide that information.
+AGENT: I don't see any active trip or cab assigned for you right now. Would you like me to help you book a ride?
+CALLER: Give you the information Yeah.
+AGENT: Great! Let's start with your pickup address. Where would you like the driver to pick you up?
+CALLER: My god. Again, I have to repeat. Six one one one Montrose Road. I I put everything in my wallet. I can't find it.
+AGENT: Thank you for confirming your pickup address as 6 1 1 1 Montrose Road. Is that in North Bethesda, Maryland? And where would you like to go?
+CALLER: Are you gonna send a yes.
+AGENT: Just to confirm, your pickup is 6 1 1 1 Montrose Road in North Bethesda, Maryland. Is that correct? And could you please tell me your destination address?
+CALLER: I'm so giant. Rockford pike.
+AGENT: Thank you. So your destination is Rockville Pike. Is that correct? Would you like to specify a particular number on Rockville Pike, or just the general area?
+CALLER: Giant. I don't head. Yes.
+AGENT: Thank you for confirming. Your pickup is 6 1 1 1 Montrose Road, North Bethesda, and your destination is Rockville Pike. What time would you like the pickup to be?
+CALLER: Yes.
+AGENT: Just to be sure, do you want the pickup right now or at a specific time?
+CALLER: No. I'm ready to wait to I said now, n o w
+AGENT: Thank you for letting me know you want the pickup right now. What payment method will you be using for this ride?
+CALLER: Shit. Cash. How many times I have to answer that question? 10 times?
+AGENT: Thank you for confirming cash as your payment method. I’m booking your ride now.
+AGENT: Thank you for confirming cash as your payment method.
+AGENT: I have 6 1 1 1 Montrose Road, North Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: I wasn't able to find any location matching "answer that question? 10 times." Could you please provide the full destination address or a nearby landmark?
+CALLER: 6111 Montrose Road. Maryland Bethesda, Maryland
+AGENT: I have 6 1 1 1 Montrose Road, North Bethesda, Maryland as your dropoff address. Is that correct?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: pickup at first.
+AGENT: I have 6 1 1 1

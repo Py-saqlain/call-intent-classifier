@@ -1,0 +1,40 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Right. Name is Jacqueline.
+AGENT: Thanks, Jacqueline. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yeah. I would like to ride from one two one zero four Grandview Avenue Silver Spring to thirty seven twenty nine Glen Eagle Drive, Silver Spring.
+AGENT: Thank you for sharing your pickup and dropoff addresses, Jacqueline. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: You're welcome. I And do and what? Hello?
+AGENT: I'm here to help, Jacqueline. Could you please let me know how you'd like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: What is the cut and ride?
+AGENT: It sounds like you’re asking about Call and Ride. It’s a payment option where you use a special card to pay for your rides. If you’d like to use Call and Ride, I’ll just need the last six digits of your card to process the payment. Would you like to pay with Call and Ride?
+CALLER: No. I don't have that. I never heard of it before. But I could give you my card number.
+AGENT: Thank you for letting me know, Jacqueline. When you say your card number, do you mean a credit or debit card? If so, I can process that for you without needing the full number—just confirming that you want to pay by credit card. Is that correct?
+CALLER: Okay. Quick.
+AGENT: Thank you, Jacqueline. Your payment by credit card is all set. I’m moving forward with your booking now.
+AGENT: I wasn't able to find the pickup address at one two one zero four Grandview Avenue in Silver Spring. Could you please provide the pickup address again?
+CALLER: Good. That's the address one two one zero four Grandview Avenue, Silver Spring. Let's wait for Lindell.
+AGENT: Thank you for confirming the pickup address as one two one zero four Grandview Avenue, Silver Spring. Is that correct?
+CALLER: And Georgia Avenue.
+AGENT: Just to clarify, is your pickup address one two one zero four Grandview Avenue in Silver Spring, or is it on Georgia Avenue? Could you please confirm the exact pickup address?
+CALLER: Correct. Correct. Correct. It's
+AGENT: I’m still having trouble locating one two one zero four Grandview Avenue in Silver Spring. Could you please provide any nearby landmarks, cross streets, or additional details to help find the pickup location?
+CALLER: Okay. Glendell. Lend. Lendel. It's right off of Lendeil. Glendale and Mason. Those are the connecting streets. To Grandview.
+AGENT: I found two locations on Grandview Avenue near Glendale and Mason in Silver Spring: one is eleven four zero one Grandview Avenue, and the other is eleven two three zero Grandview Avenue. Which one is your pickup address?
+CALLER: Okay.
+AGENT: Could you please tell me which one you would like to use for your pickup address: eleven four zero one Grandview Avenue or eleven two three zero Grandview Avenue?
+CALLER: I need one
+AGENT: Thank you for letting me know. I will use eleven four zero one Grandview Avenue for your pickup address. Is that correct?
+CALLER: Isaac it's 12104. Right? One 2 okay. One two zero four. It's 12104. Right. That's what I give a 12104. Yes. Yes. Hello? Hell
+AGENT: I understand you want to use one two one zero four Grandview Avenue as your pickup address. Since I couldn't find that exact address earlier, could you please confirm if eleven four zero one Grandview Avenue is close or if you have any other nearby landmarks or details to help locate one two one zero four Grandview Avenue?
+CALLER: Correct. Okay. What about 12106?
+AGENT: I couldn't find one two one zero six Grandview Avenue in Silver Spring. Could you please double-check the address or provide any nearby landmarks or cross streets to help locate it?
+CALLER: 12106. Can you
+AGENT: I’m still not able to find one two one zero six Grandview Avenue in Silver Spring. Could you please provide any additional details, like nearby landmarks or cross streets, to help me locate it?
+CALLER: Linden Linden is the closest street. It did come okay. Wise Mint. Can you find Wiseman?
+CALLER: Linden Linden is the closest street. It did come okay. Wise Mint. Can you find Wiseman?
+AGENT: I couldn't find Wiseman near Linden in Silver Spring. Could you please check the spelling or provide another nearby landmark or cross street?
+AGENT: I couldn't find Wiseman near Linden in Silver Spring. Could you please check the spelling or provide another nearby landmark or cross street to help locate your pickup address?
+CALLER: Can you okay. What about Weisman? Can you find Weisman? Not lending. Lending. Lending. Yes. Okay.
+AGENT: I couldn't find Weisman near Linden in Silver Spring either. Could you please provide any other nearby streets, landmarks, or details that might help locate your pickup address?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Thank you.

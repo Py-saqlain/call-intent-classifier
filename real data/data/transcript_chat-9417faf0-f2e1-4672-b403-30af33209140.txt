@@ -1,0 +1,41 @@
+AGENT: Hi Mike, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi. Hello?
+AGENT: How can I assist you with your taxi ride today?
+CALLER: I need a taxi. I had a
+AGENT: Thank you for reaching out. How would you like to pay for your taxi ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Calling ride.
+AGENT: Did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Thirty four ninety forty.
+AGENT: Thank you for providing your Call and Ride details. Your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your taxi ride?
+CALLER: 18715 North Frederick Avenue. Gaithersburg, Maryland.
+AGENT: I have 1 8 7 1 5 North Frederick Avenue, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 155 Walken Station Circle. Gaithersburg, Maryland.
+AGENT: I found a similar address: 1 5 5 Watkins Station Circle, Gaithersburg, Maryland. Is that the correct dropoff location?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Mike. I will now proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: Yeah.
+AGENT: Could you please tell me the specific time you would like to be picked up?
+CALLER: It's four four fifty five.
+AGENT: Just to clarify, did you mean 4:55 AM or 4:55 PM for your pickup time?
+CALLER: Yes.
+AGENT: I want to make sure I get the right time for you. Did you mean 4:55 PM for your pickup?
+CALLER: Yes. So four fifty.
+AGENT: Thank you for confirming your pickup time as today at 4:55 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle?
+CALLER: One. One and no.
+AGENT: Got it, one passenger and one wheelchair-accessible vehicle needed. Do you have any special instructions or notes for the driver?
+AGENT: How can I assist you with your taxi ride today?
+CALLER: No wheelchair accessory needed.
+AGENT: Thank you for letting me know no wheelchair-accessible vehicle is needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Mike, the estimated fare for your trip is 6 dollars, and you'll be paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 4:55 PM. Your confirmation number is 2 1 3 6 7 9 7 1 7. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Mike. Have a great day!

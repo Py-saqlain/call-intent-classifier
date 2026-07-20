@@ -1,0 +1,57 @@
+CALLER: Italia.
+AGENT: Hi, this is Ana with Barwood & Regency. Am I speaking with Italia Gabriel?
+CALLER: Yes. Cannot see that.
+AGENT: Thanks for confirming, Italia. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Yes can I have a text to 133818 Dover Drive? Germantown, Maryland two zero eight seven four.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Could see that.
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: It is three five one zero eight seven
+AGENT: Thank you, your Call and Ride payment is all set. <emotion value="grateful"/>
+AGENT: Hmm <break time="350ms"/> I couldn't find 1 3 3 8
+CALLER: Okay.
+AGENT: Could you please provide the full street number and name for the dropoff address again? Just the number and street name will help me find it. <emotion value="peaceful"/>
+CALLER: It drop off address is it's on Meadowbrook. One two nine one four Middlebrook Road, Germantown, Maryland.
+AGENT: Okay, so I found 1 2 9 1 4 Middlebrook Road, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Coke. Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: Yep. Is thirteen three one eight Dovedale Dove Dale Way, Germantown, Maryland 20874. Now
+AGENT: Okay, so I found 1 3 3 1 8 Dovedale Way, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified, Italia.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Thank you.
+CALLER: Now.
+AGENT: Okay, I've got your pickup time as today at 10:46 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One. Yes.
+AGENT: Okay great! I've got one passenger and one wheelchair needed. Do you have any special instructions
+CALLER: Mhmm.
+AGENT: Could you please tell me any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 10 dollars, paying with Call and Ride. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: You wanna set it up return trip? Again? You come. Yes.
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: When you want them to pick you up? To bring you back here? Nobody's Yeah. Yeah. What time?
+AGENT: What time would you prefer for your return trip pickup? <emotion value="peaceful"/>
+CALLER: Maybe
+AGENT: Could you please
+CALLER: 11:00.
+AGENT: Just to confirm, did you mean 11:00 AM or 11:00 PM for your return trip pickup? <emotion value="peaceful"/>
+CALLER: It's 11:30AM.
+AGENT: Okay, I've got your return trip pickup time as today at 11:30 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One person and one wheelchair.
+AGENT: For your return trip, I have the pickup at 1 2 9 1 4
+CALLER: K.
+AGENT: The
+CALLER: Correct.
+AGENT: Okay so <break time="250ms"/> the estimated fare for your return trip is 10 dollars, paying with Call and Ride. Should I go ahead and book both trips? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes. Ready.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is
+CALLER: Thank you.
+AGENT: Your main trip confirmation number is 2 1 3 6 7 5 6 2 2, with pickup today at 10:46 AM. Your return trip confirmation number is 2 1 3 6 7 5 6 2 3, with pickup today at 11:30 AM. Is there anything else I can help you with?
+CALLER: That's it. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Italia. Have a wonderful day!

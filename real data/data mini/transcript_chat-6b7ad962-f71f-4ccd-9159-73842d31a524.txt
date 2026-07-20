@@ -1,0 +1,6 @@
+AGENT: Hello Anthony, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello, operator.
+AGENT: Hi there! How can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Lab agent.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Do I have agent

@@ -1,0 +1,28 @@
+AGENT: Hello Michelle, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Call and ride.
+AGENT: <emotion value="hesitant"/> Thank you for letting me know you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero six three eight one zero.
+AGENT: <emotion value="grateful"/> Okay so I've got that payment noted as Call And Ride.
+AGENT: <emotion value="peaceful"/> Could you please tell me the pickup address for your ride?
+CALLER: Four one one four, Howard Avenue, in Kensington, Maryland
+AGENT: <emotion value="peaceful"/> Okay, let me check that address.
+AGENT: I have 4 1 1 4 Howard Avenue, Kensington, Maryland as your pickup address. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+AGENT: Take your time. Just let me know
+CALLER: Forty nine zero five Macon Road. Walk through.
+AGENT: <emotion value="peaceful"/> Okay, let me check that address.
+AGENT: I have 4 9 0 5 Macon Road, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: Correct
+AGENT: Your dropoff address has been verified. Thank you, Michelle. I will now proceed with the next steps for your trip.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Alright, soo <break time="300ms"/> how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion
+CALLER: One one No.
+AGENT: Okay great! <emotion value="grateful"/> I've got that noted. Do you have any special instructions or information for the driver?
+CALLER: No. No, ma'am.
+AGENT: Alright, the estimated fare is 10 dollars, paying with your Call And Ride card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 5:30 PM. Your confirmation number is 2 1 3 6 7 6 1 7 4. Is there anything else I can help you with?
+CALLER: No.

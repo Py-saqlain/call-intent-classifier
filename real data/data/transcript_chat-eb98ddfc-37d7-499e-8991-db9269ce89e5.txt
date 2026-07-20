@@ -1,0 +1,48 @@
+AGENT: Hello db, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a trip.
+AGENT: Okay, I can help with that. Could you please tell me where you would like to be picked up from?
+CALLER: 14810 Brochard Road, view two zero eight five zero.
+AGENT: Just to confirm, your pickup address is 1 4 8 1 0 Broschart Road, Rockville, Maryland, correct?
+CALLER: Yes.
+AGENT: Great! Where would you like to go?
+CALLER: Eight six three zero Stanton Street, Silver Spring, Maryland.
+AGENT: Thank you. Your dropoff address is 8 6 3 0 Stanton Street, Silver Spring, Maryland, correct?
+CALLER: Yes.
+AGENT: When would you like your pickup?
+CALLER: 7AM.
+AGENT: Just to confirm, you want your pickup at 7 AM tomorrow morning, correct?
+CALLER: Yes
+AGENT: Alright, how would you like to pay? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: What's calling right?
+AGENT: It sounds like you might be asking about Call and Ride. That's one of our accepted payment methods where you use a special card. Would you like to pay with Call and Ride? If so, I will ask you for the last six digits of your card. Or would you prefer cash or credit card instead? <emotion value="hesitant"/>
+CALLER: Credit card
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so your pickup is at 1 4 8 1 0 Broschart Road, Rockville, Maryland, and your dropoff is at 8 6 3 0 Fenton Street, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup and dropoff addresses have been verified, db. I will now proceed with arranging your trip.
+AGENT: Just to confirm, you want your pickup at 7 AM tomorrow morning, correct?
+CALLER: Yes.
+AGENT: Okay great! How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One one passenger. No wheelchair.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 39.5 dollars, paying with your credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, I'll start collecting the return trip details for you now. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: 10AM.
+AGENT: Just to confirm, you want your return trip pickup at 10 AM, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! How many passengers will be traveling on your return trip, and will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One
+AGENT: Okay, one passenger for the return trip. Will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: For your return trip, I have the pickup at 8 6 3 0 Fenton Street, Silver Spring, Maryland, and the dropoff at 1 4 8 1 0 Broschart Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 39.5 dollars, paying with your credit card. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, I'll proceed with booking both trips for you now. <emotion value="grateful"/>
+AGENT: Thank you for your patience. I'm booking both your main and return trips now.
+AGENT: Your main trip confirmation number is 2 1 3 6 7 7 7 8 2, with pickup tomorrow at 7:00 AM. Your return trip confirmation number is 2 1 3 6 7 7 7 8 3, with pickup tomorrow at 10:00 AM. Is there anything else I can help you with?
+CALLER: I'm paying with an account number.
+AGENT: I understand you want to pay with an account number. For payment, we accept cash, credit card, or Call and Ride. If you'd like, I can

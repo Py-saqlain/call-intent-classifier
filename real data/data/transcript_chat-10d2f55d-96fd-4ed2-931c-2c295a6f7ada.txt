@@ -1,0 +1,40 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with William Dotson?
+CALLER: This is he.
+AGENT: Thanks for confirming, William. This is Barwood & Regency. How can I assist you today?
+CALLER: I'd like to send a full ride, please, for calling the large
+AGENT: Thank you for letting me know you'd like to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Sure. Give me a sec to pull it out of my phone.
+AGENT: Take your time. Just let me know the last six digits when you're ready.
+CALLER: Ready. Three four nine nine two five.
+AGENT: Thank you for providing the digits. Your payment with Call and Ride is verified.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Give me a sec while I drop the to bail. Let me see.
+AGENT: No rush at all. Just let me know the pickup address whenever you're ready.
+CALLER: One three zero six zero Middlebrook Road, Germantown, Maryland.
+AGENT: I have 1 3 0 6 0 Middlebrook Road, Germantown, Maryland as your pickup address. Is that correct?
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: One nine four one nine fucking him way. Germantown, Maryland two zero eight seven four.
+AGENT: I want to make sure I got that right. Did you say 1 9 4 1 9 Fenton Way, Germantown, Maryland?
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please repeat the dropoff address again?
+CALLER: One nine four one nine dot king hen white, German pound, Maryland two zero eight seven four.
+AGENT: Thank you. Just to confirm, is your dropoff address 1 9 4 1 9 King Henry Way, Germantown, Maryland?
+CALLER: No.
+AGENT: Thanks for letting me know. Could you please say the dropoff address again, maybe a little slower or with any nearby landmarks?
+CALLER: One nine four one nine Buckingham Way, Germantown, Maryland two zero eight seven four.
+AGENT: I have 1 9 4 1 9 Buckingham Way, Germantown, Maryland as your dropoff address. Is that correct?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, William. I'll proceed with the next steps now.
+AGENT: When would you like to be picked up?
+CALLER: Right away.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just me, way or care needed.
+AGENT: Thank you. Will you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: William, the estimated fare for your trip is 6.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your main trip is scheduled for today at 12:08 PM. Your confirmation number is 2 1 3 6 7 8 1 0 8. Is there anything else I can help you with?
+CALLER: That's it. Thank you.
+AGENT: Thank you for calling Barwood & Regency, William. Have a wonderful day!

@@ -1,0 +1,15 @@
+AGENT: Hello Debra, this is Ana from Barwood & Regency. Your ride with vehicle 1064 has been accepted and is scheduled to arrive by 1:01 pm, about 36 minutes from now. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: My window is between twelve and 12:30. My window of pickup is twelve to 12:30.
+AGENT: You already have a trip from Glenn Dale to Washington scheduled for today at 12:20 pm. What would you like to do? <emotion value="grateful"/>
+CALLER: Except by ride.
+AGENT: I see one trip on your account. Trip one: pickup at 1 1 4 0 0 Glenn Dale Boulevard at 12:20 pm going to Washington. Would you like me to cancel this trip for you? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, I won't cancel that trip. Is there anything else I can help you with? <emotion value="peaceful"/>
+CALLER: Speak to representative.
+CALLER: Hello?
+AGENT: Hi there! How can I assist you today? <emotion value="peaceful"/>
+CALLER: Speak to an agent.
+AGENT: I can help with your booking details if you'd like — how can I assist you further?
+CALLER: Speak to an agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

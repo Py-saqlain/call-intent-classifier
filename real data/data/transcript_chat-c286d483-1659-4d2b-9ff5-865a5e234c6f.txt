@@ -1,0 +1,34 @@
+AGENT: Hello Ms, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to book a trip.
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride.
+AGENT: Okay, great. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three one one three zero five.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: 625 Songbird Drive,
+AGENT: Okay, so I found 6 2 5 Hungerford Drive, Rockville, Maryland as your pickup address. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One zero one Passerside Place.
+AGENT: Okay, I found 1 0 1 Pasture Side Place, Rockville, Maryland as your dropoff address. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yes.
+AGENT: Your dropoff address has been verified. Thank you, Ms.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Just to confirm, what time would you like to be picked up?
+CALLER: Right now.
+AGENT: Okay great! I've got your pickup time as today at 11:21 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Now.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: One and no.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: One passenger. No special vehicle.
+AGENT: The estimated fare is 8.5 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes, please.
+AGENT: Okay so <break time="250ms"/> I am booking your trip now.
+AGENT: Thank you for waiting. I am booking your trip now.
+AGENT: Your trip is booked for today at 11:21 AM. Your confirmation number is 2 1 3 6 7 4 0 8 6. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Ms. Hardy. Have a wonderful day!

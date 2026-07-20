@@ -1,0 +1,13 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Nadine Tomlinson?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Advanced
+AGENT: I don't have a profile under the name Advanced. Could you please tell me your name so I can help you?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Ready.
+AGENT: Thank you. Could you please tell me your name?
+CALLER: Nadine Tomlin,
+AGENT: Thanks, Nadine. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I'd like to speak with an agent
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Agent
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

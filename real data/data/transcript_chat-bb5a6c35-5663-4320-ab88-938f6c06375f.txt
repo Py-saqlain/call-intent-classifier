@@ -1,0 +1,25 @@
+AGENT: Hello Brown, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi to one one three four two six Daventry Way.
+AGENT: Thank you for sharing your destination. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Call them right.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: 339280.
+AGENT: Thank you, your payment with Call and Ride is all set.
+AGENT: I have the dropoff address as one three four two six Daventry Way, Germantown, Maryland. Is that correct?
+CALLER: No.
+AGENT: Thank you for letting me know. Please provide the correct dropoff address, or if you prefer, you can give me a nearby landmark or cross street to help find
+CALLER: One nine seven one one nine seven three five Germantown Road.
+AGENT: I couldn't locate the address one nine seven one one nine seven three five Germantown Road. Could you please provide the full street address including the city and state?
+CALLER: One nine seven three five. Germantown Road,
+AGENT: I have the dropoff address as one nine seven three five Germantown Road, suite one nine zero, Germantown, Maryland. Is that correct?
+CALLER: Yeah. Germantown Road.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: 13426 Darren Tree Way,
+AGENT: I have the pickup address as one three four two six Daventry Way, Germantown, Maryland. Is that correct?
+CALLER: Yeah.
+AGENT: Your pickup address has been verified, Mr. Brown.
+AGENT: When would you like to be picked up?
+CALLER: Now Can I speak to a representative?
+AGENT: I can help with your booking details — would you like to continue?
+CALLER: No. I'm gonna speak to someone.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

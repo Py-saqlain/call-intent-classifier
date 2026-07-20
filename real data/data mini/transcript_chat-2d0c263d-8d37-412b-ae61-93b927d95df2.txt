@@ -1,0 +1,21 @@
+AGENT: Hi Mary, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I want a taxi for Harrison Junior. Using a call and ride card.
+AGENT: Thanks for letting me know you're using a Call and Ride card. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Sure. It's three four eight two eight one For Harrison DeMar junior.
+AGENT: Thank you, your Call and Ride payment is all set.
+CALLER: Okay. So don't you want the address?
+AGENT: Yes, could you please provide the pickup address where the driver should come to get you?
+CALLER: Yeah. The so hold on. It's two one one two let see that. Right? It's 2 it's 2 it's two zero two one one Goshen Road
+AGENT: I have 2 0 2 1 1 Goshen Road, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yeah. 20 yeah. Uh-huh. That's right. Two zero eight seven nine. I'm going to nine testament street my destination.
+AGENT: Your pickup address has been verified. Now, about your destination, you mentioned nine Testament Street. Could you please confirm the full destination address?
+CALLER: Yes. It's it's 9 Chestnut Street in Gaithersburg, Maryland 20877. Lord.
+AGENT: I have 9 Chestnut Street, Gaithersburg, Maryland as your destination address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Mary. I'll now proceed with arranging your trip.
+AGENT: When would you like to be picked up?
+CALLER: Oh my gosh. Now let me I could have spoke to a to a someone else.
+CALLER: Dude, that's why I don't like to talk to your AI.
+AGENT: I'm connecting you to a customer service representative now. Please stay
+CALLER: Okay.
+AGENT: I'm connecting you

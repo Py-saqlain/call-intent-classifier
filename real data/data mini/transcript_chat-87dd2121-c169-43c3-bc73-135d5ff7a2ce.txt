@@ -1,0 +1,28 @@
+AGENT: Hello Debrah, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: New round trip.
+AGENT: Uhh, okay. I can help you with booking a new round trip. Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: One four five
+AGENT: Hmmm.. that didn't seem right, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Private card.
+AGENT: Okay, I understand you want to pay with a card. Just to confirm, do you mean a credit card? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? If you want, you can also say "home" and I will use your saved home address. <emotion value="peaceful"/>
+CALLER: Home.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found your pickup location as 1 9 8 0 1 Observation Drive, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. No. No. No. No. No. No. No. No. No. It's one four five
+AGENT: Uh, I am sorry, but could you repeat the full pickup address including the street name? <emotion value="apologetic"/>
+CALLER: zero eight Home Crust Road,
+CALLER: zero eight Home Crust Road,
+AGENT: Okay, so I found your pickup location as 1 4 5 0 8 Homecrest Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Okay, so I found your pickup location as 1 4 5 0 8 Homecrest Road, Aspen Hill, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Fourteen. Five zero eight.
+AGENT: Uh, I am sorry, but could you repeat the full pickup address including the street name? <emotion value="apologetic"/>
+CALLER: Yes. Oh my god.
+AGENT: Okay, so I found your pickup location as 1 4 5 0 8 Homecrest Road, Aspen Hill, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Can I speak to an agent please?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+AGENT: I can help with your booking if you'd like — shall we
+CALLER: 10.

@@ -1,0 +1,33 @@
+AGENT: Hello Yolanda, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I always be picked up today using my call and ride card.
+AGENT: Alright, I see you want to use your Call and Ride card. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three four five three six zero.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up today? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thank you. Could you please say the full
+CALLER: Two nine one four Regina
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found 2 9 1 4 Regina Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One five nine zero Rockville Pike, Rockville
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found 1 5 9 0 Rockville Pike, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Yolanda. <emotion value="peaceful"/>
+AGENT: When today would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Nine thirty. Nine twenty five.
+AGENT: Just to confirm, did you mean 9:30 AM or 9:30 PM for your pickup time today? <emotion value="hesitant"/>
+CALLER: No. Nine twenty five AM.
+AGENT: Okay great! I've got your pickup time noted for today at 9:25 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No. And just one.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No. No. Nothing.
+AGENT: Alright, the estimated fare is 17 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Thank you.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 9:25 AM. Your confirmation number is 2 1 3 6 7 3 9 7 4. Is there anything else I can assist you with?
+CALLER: Nothing else. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Yolanda. Have a wonderful day!
+CALLER: Thank you.

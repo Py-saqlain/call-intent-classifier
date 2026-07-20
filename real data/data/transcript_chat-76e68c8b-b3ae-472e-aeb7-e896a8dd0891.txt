@@ -1,0 +1,28 @@
+AGENT: Hi Junior, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I said, I ain't waiting for my cab.
+AGENT: I understand you're feeling frustrated about waiting for your cab. How can I assist you with your ride right now?
+CALLER: I'm not gonna be picked because I'm because I'm sleeping for my car It would be because I'm
+AGENT: It sounds like you might be saying you’re not going to be ready for your car because you’ll be sleeping. Is that right? Could you please tell me how I can help you with your ride?
+CALLER: I can give my cab now.
+AGENT: Thank you for letting me know. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Told you. Cash.
+AGENT: Thank you for confirming cash as your payment method.
+AGENT: Could you please tell me the address where you'd like to be picked up?
+CALLER: 1135 Universal Boulevard.
+AGENT: I have 1 1 3 5 University Boulevard West, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Destination is one zero seven five o Cook. Let's see. Okay. Long time. Two four one Silver Spring, Maryland ZIP code is two zero two zero nine zero one. My ZIP code My 20 My
+AGENT: I couldn't find an address matching "1075 O Cook Long Time Two Four One, Silver Spring, Maryland." Could you please repeat the dropoff address slowly or provide any nearby landmarks or cross streets to help identify it?
+CALLER: Hey, dude. Listen. Listen to me.
+AGENT: I'm here and listening. Please go ahead and tell me the dropoff address again when you're ready.
+CALLER: Listen. When zero one zero seven five zero Columbus Heights a a Pacific Spring, Maryland two zero nine zero one ZIP code.
+AGENT: I wasn't able to locate 10750 Columbus Heights in Silver Spring, Maryland. Could you please confirm the street name or provide any nearby landmarks or cross streets to help me find the correct dropoff address?
+CALLER: No. No. No.
+AGENT: I want to make sure I get your dropoff address right. Could you please say the street number and street name again slowly? If you know a nearby landmark or cross street, that would help too.
+CALLER: Told you, one zero seven Do you got that? 107? Five zero A columbus pipe. Silver Spring, Maryland.
+AGENT: Did you mean 1 0 7 5 0 Columbia Pike, Silver Spring, Maryland as your dropoff address?
+CALLER: You got it.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+AGENT: Your dropoff address has been
+CALLER: Yes, you are. Yes.

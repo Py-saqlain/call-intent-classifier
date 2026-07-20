@@ -1,0 +1,40 @@
+AGENT: Hello Angelica, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Case in the capital 19347 Circle Gate Drive.
+AGENT: Umm, it sounds like you want to book a ride to or from 19347 Circle Gate Drive. Could you please tell me if that's your pickup location or your destination? And also, when would you like the pickup? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and
+CALLER: This Cat.
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, I found the dropoff location as 1 9 3 4 7 Circle Gate Drive, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. That's the pickup.
+AGENT: Thank you for clarifying. So 1 9 3 4 7 Circle Gate Drive, Germantown, Maryland is your pickup address. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 200 Skidmore Boulevard.
+AGENT: Hmm, let me check that address. 200 Skidmore Boulevard — could you please tell me the city and state for that address? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Gaithersburg, Maryland. Gaithersburg, Maryland
+AGENT: Okay, so I found a few locations.  
+Option one: 200 Skidmore Boulevard, Gaithersburg.  
+Option two: 200 Skidmore Boulevard, Rockville.  
+Which one is correct? <emotion value="hesitant"/>
+CALLER: gaithersburg,
+AGENT: Okay, so I found the dropoff address as 2 0 0 Skidmore Boulevard, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: 19347 Circle Gate Drive. Yes,
+AGENT: Okay, so I found the pickup address as 1 9 3 4 7 Circle Gate Drive, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified, Angelica.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: As soon as possible.
+AGENT: Okay, I've got your pickup time as today at 6:57 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One passenger and no
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 22 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 6:57 PM. Your confirmation number is 2 1 3 6 7 2 3 4 4. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Angelica. Have a wonderful day!

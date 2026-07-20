@@ -1,0 +1,10 @@
+AGENT: Hi Joseph, this is Ana with Barwood & Regency. Your pickup is scheduled for today at 12:30 PM. How can I assist you today?
+CALLER: Okay. Wanna cancel cancel the
+AGENT: I see you have two trips booked today: a return trip at 12:30 pm from 710 Roeder Road in Silver Spring to 6420 Rockledge Drive in Bethesda, and a main trip at 2:45 pm from 6420 Rockledge Drive in Bethesda to 710 Roeder Road in Silver Spring. Which one would you like to cancel, or do you want to cancel both?
+CALLER: Yep. Both. Both. Both.
+AGENT: Both trips have been cancelled for you, the 12:30 pm return trip and the 2:45 pm main trip. Is there anything else I can help you with?
+CALLER: No. Driving to heaven. Been been even here. 11:30 pickup. No call.
+AGENT: I see no active trips on file, and your two trips at 12:30 pm and 2:45 pm were already cancelled. If you need a new ride or anything else, just let me know.
+CALLER: Yeah.
+CALLER: Oh, okay. I'm just kidding.
+AGENT: Your two trips with confirmation numbers zero two one three six seven seven one two zero

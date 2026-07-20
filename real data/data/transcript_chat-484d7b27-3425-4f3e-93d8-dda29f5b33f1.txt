@@ -1,0 +1,39 @@
+AGENT: Hello Suzette, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Schedule a pickup.
+AGENT: Thank you for choosing us for your ride. How would you like to pay for your trip today? We accept cash, credit card, and Call and Ride.
+CALLER: Did you want to pay by cash or card
+AGENT: Yes, I was just asking how you would prefer to pay. Would you like to use cash, credit card, or Call and Ride for your trip?
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Card.
+AGENT: I have your payment method as credit card. Now, could you please provide the pickup address for your ride?
+CALLER: Nine six zero
+AGENT: Just to confirm, is your pickup address nine six zero North Frederick Avenue, Gaithersburg, Maryland?
+CALLER: Yes.
+AGENT: I have the pickup address as nine six zero North Frederick Avenue, Gaithersburg, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 803 Russell Avenue,
+AGENT: Thank you. Just to confirm, is your dropoff address eight zero three Russell Avenue? Could you please also tell me the city and state for this address?
+CALLER: Gaithersburg, Maryland
+AGENT: I have the dropoff address as eight zero three Russell Avenue, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Suzette. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: How many passengers will be traveling, including yourself? Also, will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 6 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip. Should I go ahead and book it now?
+CALLER: Yeah.
+AGENT: I am booking your trip now.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 5 5 2 2. The pickup is today at 11:16 AM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Suzette. Have a wonderful day!

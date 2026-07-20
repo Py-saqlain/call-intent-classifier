@@ -1,0 +1,36 @@
+AGENT: Hello MILA, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Taxes.
+AGENT: Could you please tell me a bit more about what you need help with regarding taxes? Are you looking to book a ride related to a tax appointment, or do you have a question about a trip?
+CALLER: Taxi No. No. No. No. No. No.
+AGENT: It sounds like you want to arrange a taxi ride. Where would you like to be picked up, and where would you like to go?
+CALLER: Cab. Cab. Yes.
+AGENT: Thank you for choosing us for your cab ride. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Seven twenty one Beacon Road,
+AGENT: I’ve noted your pickup address as seven two one Beacon Road. Now, could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Debit card.
+AGENT: Thank you, your payment method is set as credit card.
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: Seven twenty one Beacon Road, Silver Spring
+AGENT: I have the pickup address as seven two one Beacon Road, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. Giant Food Store. 1121 New Hampshire Avenue. No. Safeway. I'm sorry. Safeway.
+AGENT: Thank you for the correction. I will look up Safeway as your dropoff address.
+AGENT: I found several Safeway locations. Here are some options:
+
+1. Safeway at 2 0 2 1 1 Goshen Road, Gaithersburg, Maryland
+2. Safeway at 4 0 3 Redland Boulevard, Rockville, Maryland
+3. Safeway at 2 0 2 1 1 Goshen Road, Montgomery Village, Maryland
+
+Which one would you like to use?
+CALLER: Eleven twenty one
+AGENT: To clarify, are you referring to the Safeway at 1 1 2 1 New Hampshire Avenue, or would you like to choose one of the Safeway locations I mentioned earlier?
+CALLER: New Hampshire Avenue, Silver Springs.
+CALLER: Eleventh twenty one New Hampshire Avenue.
+AGENT: I couldn't find an exact match for eleven twenty one New Hampshire Avenue in Silver Spring. Could you please confirm if you meant 1 3 1 5 Apple Avenue, apartment 1 1 2 1, Silver Spring, Maryland? If not, please provide more details or correct the address.
+AGENT: I couldn't find an exact match for 1 1 2 1 New Hampshire Avenue, Silver Spring, Maryland. Could you please confirm if this is the correct dropoff location, or provide any additional details to help identify it?
+CALLER: I just need safeways. Okay.
+AGENT: I understand you want to go to a Safeway. I found these Safeway locations:
+
+1. Safeway at 2 0 2 1 1 Goshen Road, Gaithersburg, Maryland
+2. Safeway at 4 0 3

@@ -1,0 +1,48 @@
+AGENT: Hi John, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Need a cab.
+AGENT: Okay, I can help you with that. Could you please tell me where you would like to be picked up? <emotion value="grateful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello? I'm ready.
+AGENT: Great! How would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? If you want, I can use your home address at one eight six three one Lake Shore Drive, Montgomery Village, Maryland. Would you like to be picked up there? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, could you please provide the full pickup address where you would like to be picked up? <emotion value="peaceful"/>
+CALLER: One eight seven four
+AGENT: Thank you. Could you please provide the street name and city for the pickup address one eight seven four? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: I understand. To make sure I get your pickup location right, could you please tell me the street name or a nearby landmark for one eight seven four? <emotion value="peaceful"/>
+CALLER: No. Redo.
+AGENT: Okay, let's try again. Could you please tell me the full pickup address including the street number, street name, and city? <emotion value="peaceful"/>
+CALLER: One eighty seven twenty four Walker's Choice Road. Apartment 5, Montgomery Village, Maryland.
+AGENT: Okay, so I found
+CALLER: Two zero eight eight seven.
+AGENT: I want to make sure I have your pickup address correct. You said one eight seven two four Walker's Choice Road, Apartment 5, Montgomery Village, Maryland. Is that right? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: I'm going to CubeSport storage and air park.
+AGENT: I found a few locations for CubeSport storage and air park. 
+Option one: 8001 Snouffer School Road, Gaithersburg, Maryland. 
+Option two: 300 Old Game Preserve Road, Gaithersburg, Maryland. 
+Option three: 4 Research Place, Rockville, Maryland. 
+Option four: 44 Research Place, Rockville, Maryland. 
+Option five: 7110 Woodmont Avenue, Bethesda, Maryland. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Number one.
+AGENT: Your dropoff address has been verified, John.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time as today at 6:51 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just one. And no.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Do you have any special instructions or requests for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 12.5 dollars, paying with cash. Would
+CALLER: Yep.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: One way. Just one way trip.
+AGENT: Thank you for your patience. I'm processing your one-way trip booking now. Please hold on a moment.
+AGENT: Your one-way trip is scheduled for today at 6:51 am. Your confirmation number is 2 1 3 6 7 3 8 7 4. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, john. Have a wonderful day!

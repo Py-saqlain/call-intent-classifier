@@ -1,0 +1,14 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello? I'm ready.
+AGENT: Great! What name should I use to set up your profile with Barwood & Regency?
+CALLER: Yeah.
+AGENT: Could you please tell me your name so I can create your profile?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Gail.
+AGENT: Thanks, Gail. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Representative.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Representative.
+AGENT: I'm connecting you to a customer service
+CALLER: The pay is Okay.

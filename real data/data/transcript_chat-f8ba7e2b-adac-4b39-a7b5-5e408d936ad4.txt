@@ -1,0 +1,48 @@
+AGENT: Hello Shellyn, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Do y'all have any, um, tabs available?
+AGENT: Uhh, just to make sure I understand, are you asking if we have any taxis or rides available right now? <emotion value="hesitant"/>
+AGENT: Alright,
+CALLER: Yes, ma'am.
+AGENT: I want to make sure I understand correctly—are you asking about available rides or taxis right now? And also, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: Yes. Yes.
+AGENT: Got it, thanks! Could you please tell me how you would like to pay? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: Cash. Cash, man. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Only The Outback Steakhouse What's this address?
+AGENT: I found a few Outback Steakhouse locations.  
+Option one: 1 3 7 0 3
+CALLER: 13707. Yeah.
+AGENT: Okay, so you mean 13707 Georgia Avenue, Silver Spring, Maryland? <emotion value="hesitant"/>
+CALLER: This month, 3707. Yes.
+AGENT: Okay, so you mean 3 7 0 7 Georgia Avenue, Silver Spring, Maryland? <emotion value="hesitant"/>
+CALLER: 13707 Georgia Ave.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 3101, he would have a
+AGENT: Could you please provide the full address or name of the place for the dropoff? Just "3101" is not enough for me to find it. <emotion value="peaceful"/>
+CALLER: 3101 Hewitt Avenue, Silver Spring, Maryland.
+AGENT: Okay, I found 3 1 0
+CALLER: Two zero nine zero six.
+AGENT: Okay, so I found 3 1 0 1 Hewitt Avenue, Aspen Hill, Maryland, zip code 2 0 9 0 6. Is that the correct dropoff address? <emotion value="hesitant"/>
+CALLER: And that's Connect.
+AGENT: Just to be sure, you said the dropoff address is 3 1 0 1 Hewitt Avenue, Aspen Hill, Maryland, zip code 2 0 9 0 6, correct? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Shellyn.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: So I need it in about fifteen minutes, twenty minutes. Not right at the moment.
+AGENT: Okay great! I've got your pickup time set for today at 9:27 PM. <emotion value="grateful"/> Alright, soo
+CALLER: I'm waiting on my food.
+AGENT: Thanks for letting me know you're waiting on your food. I've made a note of that for the driver. <emotion value="grateful"/>
+CALLER: Hi. Alright. Hello?
+AGENT: Your pickup time is today at 9:27 PM, and I've noted that you're waiting on your food. Now, soo <break
+CALLER: Hello?
+AGENT: I
+CALLER: Okay.
+AGENT: Alright, soo <break time="300ms"/> how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion
+CALLER: One. One
+CALLER: No.
+AGENT: Alright, the estimated fare is 6.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No, ma'am.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 9:27 PM. Your confirmation number is 2 1 3 6 7 3 7 9 8. Is there anything else I can help you with?
+CALLER: No, ma'am. Thank you.

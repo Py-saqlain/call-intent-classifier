@@ -1,0 +1,30 @@
+AGENT: Hello, Denia. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to see about getting a cab this is a call and ride.
+AGENT: Alright, how about you please provide the last six digits of your Call and Ride card so I can verify your payment? <emotion value="peaceful"/>
+CALLER: Zero nine seven nine eight seven.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: One nine two four eight Circle Gate Drive in Germantown.
+AGENT: Okay, so your pickup address is 1 9 2 4 8 Circle Gate Drive, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Six five five Watkins Mill Drive, in Gaithersburg.
+AGENT: I found a similar address from recent trips: 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Denia.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: When
+CALLER: I'm ready now.
+AGENT: Okay great! I've got your pickup time as today at 3:06 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One No.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Do you have any special instructions or requests for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 13.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: No. I'm ready.
+AGENT: Okay so <break time="250ms"/> you're all set! I will proceed with booking your trip now. <emotion value="grateful"/>
+CALLER: Okay. Thank you.
+AGENT: Your main trip is confirmed with the number 2 1 3 6 7 3 4 7 3, and your pickup is today at 3:06 PM. Is there anything else I can help you with?
+CALLER: No. That's all.
+AGENT: Thank you for calling Barwood & Regency, Denia. Have a wonderful day!
+CALLER: You too. Thank you.

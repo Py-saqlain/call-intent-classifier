@@ -1,0 +1,16 @@
+AGENT: Hello Ondina, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Is this is coming the taxi for me, please?
+AGENT: Uhh, I can help you with that. Are you asking if your taxi is already on the way, or would you like to book a new ride? <emotion value="peaceful"/>
+AGENT: It looks like you don't have an active trip scheduled right now. Would you like
+CALLER: Yeah. I I I looking for one taxi. I need to go home.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I pay cash. They always
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+CALLER: Okay.
+CALLER: Okay. The tax is coming down or not?
+AGENT: I see that your dropoff address is 2 5 1 Rockville Pike, Rockville, Maryland. Is that correct? Please say yes to confirm. <emotion value="peaceful"/>
+CALLER: Yeah. He rocked his bike. Yeah. Rockville Metro Station. It's six five zero. That is the address.
+AGENT: Okay, just to clarify, is your pickup address 6 5 0 Rockville Pike, Rockville, Maryland? <emotion value="peaceful"/>
+CALLER: Yes. I go to 9357 Copenhagen Drive.
+AGENT: Thank you for that. Just to confirm, your dropoff
+CALLER: Yeah. Yeah. Yes. Thank thank you so much. It's I think it's coming soon. Thank you. Bye.

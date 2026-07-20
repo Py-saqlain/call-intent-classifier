@@ -1,0 +1,19 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: David Bridgers,
+AGENT: Thanks, David. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a taxi.
+AGENT: Alright, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: May I please have the pickup address for your taxi? <emotion value="peaceful"/>
+CALLER: The only theater
+AGENT: I found a location called Olney Theatre Center at 2001 Olney Sandy Spring Road, Olney, Maryland. Is that the correct pickup location? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: All for best to mention? Phone out for destination. Metro station.
+AGENT: Uh, I am sorry, but I couldn't find any location matching "mention? Phone out for destination. Metro station." Could you please provide the full address or a more specific destination? <emotion value="apologetic"/>
+CALLER: The glenmont metro station.
+AGENT: I found Glenmont, Maryland 2 0 9 0 6. Is that the correct dropoff location? <emotion value="hesitant"/>
+CALLER: No.
+AGENT: Okay, I will discard that suggestion. Could you please provide a more specific address or landmark near the Glenmont Metro Station? <emotion value="apologetic"/>
+CALLER: I don't know.

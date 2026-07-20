@@ -1,0 +1,32 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Beverly Wingate?
+CALLER: Yes.
+AGENT: Thanks for confirming, Beverly. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I need a cab at 874 Orchard Boulevard, Gaithersburg, Maryland.
+AGENT: Thank you for that information, Beverly. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call my
+AGENT: Did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero four eight
+AGENT: The last six digits of your Call and Ride card seem to be incomplete. Could you please provide all six digits?
+CALLER: three three seven. Zero zero four eight three three seven.
+AGENT: Thank you for providing the digits. Just to confirm, are the last six digits of your Call and Ride card 0 0 4 8 3 3 7, or did you mean a different sequence?
+CALLER: Yes. That's correct.
+AGENT: Thank you, Beverly. Your payment method is set to Call and Ride.
+AGENT: I have 8 7 4 Quince Orchard Boulevard, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 311 Kentlands Boulevard, Gaithersburg, Maryland.
+AGENT: I have 3 1 1 Kentlands Boulevard, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Beverly. I will now proceed with the next steps.
+AGENT: When would you like to be picked up?
+CALLER: Now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One, no wheelchair accessible vehicle needed.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: Yes. No wheelchair accessible vehicle needed.
+AGENT: The estimated fare for your trip is 9 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 11:36 AM. Your confirmation number is 2 1 3 6 6 8 0 8 7. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Beverly. Have a wonderful day.

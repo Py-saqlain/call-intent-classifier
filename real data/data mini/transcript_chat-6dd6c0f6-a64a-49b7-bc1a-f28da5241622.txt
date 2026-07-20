@@ -1,0 +1,10 @@
+AGENT: Hello Zacariah, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I gave order. No. I gave order. Driver here. Sit down. What the problem?
+AGENT: Uhh, it sounds like your driver is already there and you're ready to go. Is there something specific you need help with regarding your ride right now? <emotion value="peaceful"/>
+CALLER: I am I my name name is Zakaria Kerala. Wait. Wait. I am Zakaria. I am. It's big office. No. Give a order. This is. Call. You are. Yours. Speak speak office.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Order order. Give order. Okay. Mom,
+AGENT: I want to
+CALLER: You speak the. Jewish, Yes.
+AGENT: I’m here to help with your ride and payment. Could you please tell me how you would like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Didn't you? Talk to that. Stop Hello? Hello? Hello?

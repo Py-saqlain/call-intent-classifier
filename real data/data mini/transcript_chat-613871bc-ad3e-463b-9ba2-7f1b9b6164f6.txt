@@ -1,0 +1,25 @@
+AGENT: Hello Janice, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Schedule trip.
+AGENT: I'd be happy to help schedule your trip. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Fall and ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready. Use
+AGENT: I didn't catch the digits. Could you please say the last six digits of your Call and Ride card again?
+CALLER: Stay cool.
+AGENT: It seems I didn't get the digits clearly. Could you please say the last six digits of your Call and Ride card one more time?
+CALLER: Three one two four zero.
+AGENT: I heard five digits: three one two four zero. The last six digits should be six numbers. Could you please provide the complete six-digit number from your Call and Ride card?
+CALLER: Three one two four zero two.
+AGENT: Thank you for providing your Call and Ride card details. Your payment method is set to Call and Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: 929 Bonifant Street, Silver Spring, Maryland Side door,
+AGENT: I have 9 2 9 Bonifant Street, Silver Spring, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Nine two nine Bonaparte Street,
+AGENT: Thank you for the correction. Just to confirm, is your pickup address 9 2 9 Bonaparte Street, Silver Spring, Maryland?
+CALLER: Yes.
+AGENT: I found 9 2 9 Bonifant Street, Silver Spring, Maryland as the closest match to your correction. Is that the correct pickup address?
+CALLER: Yes.

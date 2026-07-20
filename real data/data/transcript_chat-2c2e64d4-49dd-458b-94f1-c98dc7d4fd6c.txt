@@ -1,0 +1,33 @@
+AGENT: Hello Urmil, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I am calling for taxi. I already called. I don't know whether when it is coming.
+AGENT: Uhh <emotion value="sympathetic"/> I don't see an active trip for you right now. Would you like me to help you book a new taxi?
+CALLER: Yes.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and write.
+AGENT: Just to confirm, did you mean Call and Ride? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: 026549. I already called. I already called.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thank you. Could you please say
+CALLER: So I will I am just asking how much time it will take. I already already told you some some everything.
+AGENT: I understand you want to know the time, but first I need to get your pickup and dropoff
+CALLER: You want the address?
+AGENT: Yes, please. I need the pickup address to start arranging your ride. Could you provide that? <emotion value="peaceful"/>
+CALLER: Yes. I am waiting for my ride. Please.
+AGENT: I want to make sure I get your pickup address right so I can arrange your ride quickly. Could you please tell me the address where you want to be picked up? <emotion value="peaceful"/>
+CALLER: My address is ten five one two b Lane, Potomac.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 1 0 5 1 2 Bridle Lane, Potomac, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: 10512. Yes. 512 Beach Lawn Lane, Potomac.
+AGENT: You mentioned 5 1 2 Beach Lawn Lane, Potomac. Is that your pickup address correction, or is that your dropoff address? <emotion value="hesitant"/>
+CALLER: Yes. Call and ride. Yes.
+AGENT: Okay, let me check 5 1 2 Beach Lawn Lane, Potomac. <emotion value="peaceful"/>
+CALLER: Yes, please. How much time it will take? Please, can you tell me that, please?
+AGENT: I want to make sure I get your pickup address right so I can arrange your ride quickly. Could you please provide the full street number and name for your pickup location? <emotion value="peaceful"/>
+CALLER: I am waiting outside. So
+AGENT: Thank you for letting me know. To get your ride on the way, I still need the exact pickup address. Could you please tell me the full street number and street name where you are waiting? <emotion value="peaceful"/>
+CALLER: Thank you so much. And please dear, you can you tell me the time
+AGENT: I understand you want to know the time, but first I need to get your pickup and dropoff addresses confirmed so I can arrange your ride
+CALLER: How much time it will just take
+AGENT: I want to help with your timing question as soon as I have your pickup and dropoff addresses confirmed. Could you please provide the dropoff address now? <emotion value="peaceful"/>

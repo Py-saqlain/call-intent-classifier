@@ -1,0 +1,46 @@
+AGENT: Hello JACKY, this is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I wanna pick up.
+AGENT: Thanks for letting me know. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Eighty one thirty. Wisconsin Avenue.
+CALLER: But as the Maryland.
+AGENT: I have 8 1 3 0 Wisconsin Avenue, Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Amtrak. Mohan Mohanan station Washington DC.
+AGENT: I found a few locations related to Amtrak in Washington DC:
+CALLER: Think it's Union Station.
+AGENT: I found these options for Union Station in Washington DC:  
+1. Union Station Bus Terminal at 1 0 2 H Street
+CALLER: Union.
+AGENT: Your dropoff address has been verified, Jacky.
+AGENT: When would you like to be picked up?
+CALLER: Union Station.
+AGENT: Yes,
+CALLER: Friday, July third, 2026, at eleven o'clock in the morning.
+AGENT: You mentioned Friday, July third, 2026, at eleven o'clock in the morning. Since that time has already passed, could you please provide a new pickup time?
+CALLER: I beg your pardon? The time hasn't passed. The days July second.
+AGENT: Thank you for clarifying that today is July second. You want to be picked up tomorrow, Friday, July third, at eleven o'clock in the morning. Is that correct?
+CALLER: I wanna be picked up tomorrow Friday,
+CALLER: July third, twenty twenty six, at 11AM in the morning.
+AGENT: Got it, your pickup is scheduled for tomorrow, July third, at 11:00 AM. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Two passengers.
+AGENT: Thank you, I have recorded two passengers and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: Take the fastest route to union Amtrak train station.
+AGENT: The estimated fare for your trip from 8 1 3 0 Wisconsin Avenue to 7 0 1 First Street Northeast is 29 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your trip is scheduled for tomorrow at 11:00 AM with confirmation number 2 1 3 6 6 4 5 3 0. Is there anything else I can assist you with?
+CALLER: Yes. Can you repeat that confirmation number?
+AGENT: Certainly. The confirmation number is 2 1 3 6 6 4
+CALLER: Hold on, please. Hold on. Hold on, please.
+AGENT: Take your time. I'm here when you're ready.
+CALLER: Okay.
+AGENT: How can I assist you further?
+CALLER: Okay. I'm ready. I'm ready. I'm ready. Confirmation number is
+AGENT: The confirmation number is 2 1 3 6 6 4 5 3 0. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Jacky. Have a wonderful day!
+CALLER: You're welcome. Thank you.

@@ -1,0 +1,39 @@
+AGENT: Hello Lucille, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I'd like to get a cab to come to 18600 Cross Country Lane. And I wanna return. I'm going to Capital One then I gotta go to the Montgomery Village to the boost mobile phone company.
+AGENT: Thank you for sharing your trip details. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Trash.
+AGENT: Could you please clarify your payment method? We accept cash, credit card, and Call and Ride. Which one would you prefer?
+CALLER: Actually, I told you. Cash.
+AGENT: Thank you for confirming cash as your payment method.
+AGENT: I have 1 8 6 0 0 Cross Country Lane, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: I found several Capital One locations. There's a Capital One Bank and an ATM at 5 0 9 North Frederick Avenue in Gaithersburg, and another Capital One Bank and ATM at 1 2 Bureau Drive in Gaithersburg. There's also a Capital One Bank at 1 4 9 4 3 Shady Grove Road in Rockville. Which one would you like to go to?
+CALLER: Five zero nine, federal cabinet.
+AGENT: Just to confirm, did you mean 5 0 9 North Frederick Avenue in
+CALLER: In Gettysburg,
+AGENT: I want to make sure I have this right. You said 5 0 9 North Frederick Avenue in
+CALLER: Yes. Yes. Yes. Yes.
+AGENT: Your dropoff address has been verified, Lucille. I'll now proceed with arranging your trip.
+AGENT: When would you like to be picked up?
+CALLER: Right now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. I don't think I know you are. Just one.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: Yeah. You know how to get there. I know how to get
+AGENT: The estimated fare is 10.5 dollars, paying with cash. Would you like to
+CALLER: Anyway and then I'm a call back because I need a.
+AGENT: You mentioned you'd like a return trip — would you still like me to set that up?
+CALLER: Yeah. Yes. I'm going to Montgomery. Village.
+AGENT: Sure, I'll start collecting the return trip details for you.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Time I come out the bank. I'll call you.
+AGENT: Thank you for letting me know. I am processing your main trip booking now. Please hold
+CALLER: I call you
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 8 4 8 9. The pickup time is today at 2:51 PM. Is there anything else I can help you with?
+CALLER: 247. Okay. I'll I'm ready. I'm ready now.
+AGENT: Since you’re ready now, I’ll connect you to the booking team to arrange your immediate trip. Please hold for a moment.
+AGENT: Take your time getting ready. If you need to send a message or ask the driver something, I can't contact them directly, but I can connect you with a representative who can help. Would you like me to do that?
+CALLER: Yeah. I'm just tracking it's it's it's how long is it gonna be here?
+AGENT: I see your trip is marked as running late, and there isn't a driver assigned yet. I’ll connect you with a representative who can assist you further. Please hold for a moment.
+CALLER: Thank you.
+AGENT: I'm connecting you to

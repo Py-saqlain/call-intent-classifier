@@ -1,0 +1,6 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Uh-huh. Uh-huh. Right. Who who who's calling to get my name? Hello?
+AGENT: I’m Ana with Barwood & Regency, and I’d like to get your name so I can help set up your profile. What name should I use for you?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

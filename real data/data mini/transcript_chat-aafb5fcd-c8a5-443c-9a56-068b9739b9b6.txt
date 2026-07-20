@@ -1,0 +1,12 @@
+AGENT: Hi Francisco, this is Ana from Barwood & Regency. Your pickup is scheduled for today at 10:00 AM. How can I assist you today?
+CALLER: I need it tightly.
+AGENT: Could you please tell me a bit more about what you need tightly? Are you looking to book a ride or something else I can assist with?
+CALLER: Yeah.
+AGENT: Are you looking to book a ride now? If so, could you please tell me your pickup location?
+CALLER: See, right now right now,
+AGENT: Looks like you already have trips scheduled from 1218 Clagett Drive to 5544 Norbeck Road at 5:15 am, and back at 10 am, plus several more. What would you like to do?
+CALLER: Eugene you see? You see five fifty mini. Here in my house.
+AGENT: I want to make sure I understand you correctly. Are you saying you want a ride from your house at 5:50 am?
+AGENT: Take your time. Just
+CALLER: Get it? No?
+AGENT: Take your time. Just let me know how I can assist you with your ride.

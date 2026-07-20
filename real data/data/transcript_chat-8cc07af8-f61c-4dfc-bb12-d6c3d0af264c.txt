@@ -1,0 +1,31 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Adele Biancarelli?
+CALLER: Yes. You are.
+AGENT: Thanks, Adele. This is Barwood & Regency. How can I help you today?
+CALLER: I need to go to um health department of health and human services on 8818 Georgia Avenue Silver Spring.
+AGENT: Thank you for sharing your destination. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: I have a call and ride.
+AGENT: Great! Could you please provide the last six digits of your Call and Ride card?
+CALLER: Sure. It's five one. Five two five.
+AGENT: Thank you for that. I need exactly six digits from your Call and Ride card. Could you please provide all six digits?
+CALLER: I gave you six digits, but here it goes again. Three five one five two five One two three four five six. Yeah.
+AGENT: I heard several digits there. Could you please clearly say just the six digits from your Call and Ride card one more time?
+CALLER: Sure. Five, No. Three five. One five two five
+AGENT: Thanks for repeating that. I heard "three five one five two five" as the six digits. Is that correct?
+CALLER: Yeah. That's fine.
+AGENT: Thank you, Adele. Your Call and Ride payment is all set.
+CALLER: Correct.
+AGENT: Both your addresses have been verified, Adele. I will now proceed with the next steps for your trip.
+AGENT: I have 8 8 1 8 Georgia Avenue, Silver Spring, Maryland as your dropoff address. Is that correct?
+AGENT: When would you like to be picked up?
+CALLER: Now ASAP.
+AGENT: Got it, your pickup time is set for today at 1:09 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: And if you can't do it, know, let me know because I have happy. Just just me, honey. Yeah. No. I have a walker.
+AGENT: Adele, the estimated fare for your trip is 93.5 dollars, and you'll be paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: I have a collapsible walker.
+AGENT: Thank you for letting me know about your collapsible walker. Would you like me to add that information as a special note for the driver? Also, would you like to schedule a return trip for your ride?
+CALLER: I'm not showing up coming back. I'll have to call back. But what did you say my cost was for the ride? $93?
+AGENT: The estimated fare for your ride is 93.5 dollars. Since you mentioned you won't be coming back right now, I will not schedule a return trip. Is there anything else I can assist you with?
+CALLER: How could that be, Nick? Oh, you know, if I cancel the trip, I'm gonna cancel it.
+AGENT: Just to confirm, if you cancel now, no trips will be booked. Would you like me to cancel the entire booking?
+CALLER: No. Because I'm not paying $93 for a trip.
+AGENT: I understand

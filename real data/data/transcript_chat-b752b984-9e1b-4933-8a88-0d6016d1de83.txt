@@ -1,0 +1,37 @@
+AGENT: Hello Dr., this is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Give me live contact
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: I want to book taxing one one eight four. For a ride.
+AGENT: Let me get that set up for you right now.
+AGENT: Thanks for letting me know about the taxi one one eight four. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Yes. One two five one. West Montgomery Avenue, Rockville, Maryland
+AGENT: I have 1 2 5 1 West Montgomery Avenue, Rockville, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: It's one word. Rockville, Maryland.
+AGENT: Thank you for clarifying. So your pickup address is 1 2 5 1 West Montgomery Avenue, Rockville, Maryland. Is that correct?
+CALLER: Correct. Correct.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: One four nine three nine. Shady Grove Road.
+AGENT: I have 1 4 9 3 9 Shady Grove Road, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: Alright. Correct.
+AGENT: Your dropoff address has been verified. Thank you, Dr.
+AGENT: When would you like to be picked up?
+CALLER: Other instructions I want him to pick me up at twelve It's now 11:23, 12:23. I want him to pick me up at twelve thirty.
+AGENT: Just to confirm, you want to be picked up today at 12:30 PM, correct?
+CALLER: Yes. And he must call me. I'm in a hotel room. He must call me upon his arrival.
+AGENT: Your pickup time is set for today at 12:30 PM, and I've noted that the driver should call you upon arrival since you're in a hotel room. How many passengers will be traveling, including yourself? And will you need a wheelchair-accessible vehicle?
+CALLER: One No. I need taxi one one eight one. Eight four. Understand understand
+AGENT: The estimated fare for your trip is 8 dollars, and you will be paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: Not yet.
+AGENT: Understood. Would you like me to go ahead and book your trip for today at 12:30 PM from 1 2 5 1 West Montgomery Avenue in Rockville to 1 4 9 3 9 Shady Grove Road?
+CALLER: Correct.
+AGENT: Thank
+CALLER: Yes
+AGENT: Your trip is booked for today at 12:30 PM. Your confirmation number is 2 1 3 6 6 8 0 7 4. Is there anything else I can help you with?
+CALLER: Yes. Repeat the taxi number. Cab number. That I have requested.
+AGENT: You mentioned taxi number one one eight one eight four. Is that correct?
+CALLER: No. Wrong. I am repeating I want taxi number one one eight four.
+AGENT: I understand you'd like to modify your trip to request taxi number one one eight four. Trip modifications need to be handled by a live agent. Let me connect you with someone who can help.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

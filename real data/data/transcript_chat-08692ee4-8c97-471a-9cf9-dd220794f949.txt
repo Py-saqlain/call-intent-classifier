@@ -1,0 +1,60 @@
+AGENT: Hello Dorothy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like a cab to come to thirty two ten Norbeck Road Silver Spring, Maryland, taking me to leisure world to the bank
+AGENT: Thank you for sharing your pickup and dropoff locations. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: I do cash. Well, either one.
+AGENT: Great, we'll use cash for your payment. I'll proceed with that now.
+AGENT: I have 3 2 1 0 Norbeck Road, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Say that again.
+AGENT: Your pickup address is 3 2 1 0 Norbeck Road, Silver Spring, Maryland. Is that correct?
+CALLER: Yeah.
+AGENT: I found a few locations related to Leisure World and the bank area in Silver Spring, Maryland:
+
+1. Truist at 3 8 7 6 International Drive
+2. Clubhouse Two at 3 3 0 0 North Leisure World Boulevard
+3. Leisure World Corporation at 3 3 0 5 North Leisure World Boulevard
+4. Mutual 19 B of Leisure World Maryland at 1 5 3 1 1 Beaverbrook Court
+
+Which one would you like to go to?
+CALLER: I'm going to my bank Right. It's sixty eight hundred International Drive.
+AGENT: I found 3 8 7 6 International Drive, Silver Spring, Maryland as the address for your bank. Is that correct?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Wait a wait a minute. I've been calling in. Hold on, please. Hold on. On. Hold on.
+AGENT: I'm here whenever you're ready. Take your time.
+CALLER: PNC Bank. PNC Bank.
+AGENT: Thank you for that detail. Could you please provide the street address or location for the PNC Bank you want to go to?
+CALLER: I think it's 700 or six hundred
+AGENT: Could you please clarify the street number? Is it 700 or 600? And if you know the street name or any other details, that would help me find the exact PNC Bank location for you.
+CALLER: international drive.
+AGENT: I have 3 8 7 6 International Drive, Silver Spring, Maryland as the address for the PNC Bank. Is that correct?
+CALLER: That's wrong. That one. That's where I'm going.
+AGENT: Just to be sure, you want to go to the PNC Bank at 3 8 7 6 International Drive, Silver Spring, Maryland, correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Dorothy.
+AGENT: When would you like to be picked up?
+CALLER: 01:00.
+AGENT: Just to confirm, do you mean 1:00 PM today for your pickup time?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Thank you for confirming 1:00 PM today as your pickup time. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: I'm traveling alone.
+AGENT: The estimated fare for your trip is 8 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: Ah, yes.
+AGENT: Great, I'll start collecting the details for your return trip now.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: 02:00.
+AGENT: Just to confirm, do you mean 2:00 PM for your return trip pickup time?
+CALLER: Yeah.
+AGENT: Thank you for confirming 2:00 PM for your return trip pickup. How many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Just to clarify, do you mean no passengers for the return trip, or no wheelchair-accessible vehicle needed? Could you please specify the number of passengers and whether a wheelchair-accessible vehicle is required?
+CALLER: One passenger myself. Only.
+AGENT: For your return trip, I have the pickup address as 3 8 7 6 International Drive and the dropoff address as 3 2 1 0 Norbeck Road. Is that correct?
+CALLER: Yeah.
+AGENT: The estimated fare for your return trip is 8 dollars, paying with cash. Should I go ahead and book both your trips now?
+CALLER: Yeah.
+AGENT: I'll proceed with booking both your trips now.
+AGENT: Your main trip is scheduled for today at 1:00 pm with confirmation number 2 1 3 6 6 6 2 6 4. Your return trip is scheduled for today at 2:00 pm with confirmation number 2 1 3 6 6 6 2 6 5. Is there anything else I can help you with?
+CALLER: It's
+AGENT: I didn't catch the rest of that. Could you please repeat?
+CALLER: That's it. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Dorothy. Have a wonderful day!

@@ -1,0 +1,11 @@
+AGENT: Hi Michelle, this is Ana from Barwood & Regency. Your ride is scheduled for pickup today at 7:00 AM. How can I assist you today?
+CALLER: No.
+AGENT: How can I assist you today?
+CALLER: Here. Put this over there.
+AGENT: Could you please tell me a bit more about what you need help with? Are you looking to book a ride, check on a trip, or something else?
+CALLER: We gotta keep the place free to because the police
+AGENT: It sounds like you might need assistance related to a ride or transportation. Could you please let me know if you'd like to book a trip or if you need help with something else?
+CALLER: Okay. That's not funny. No. Yeah. Put this over there.
+AGENT: If you need help with booking a ride or anything related to transportation, just let me know what you need, and I'll be happy to assist you. What can I do for you today?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Should be a the police say you should be ashamed of yourself. Oh, that's okay. And the weather was coming. No. He said, you hear and see a mother

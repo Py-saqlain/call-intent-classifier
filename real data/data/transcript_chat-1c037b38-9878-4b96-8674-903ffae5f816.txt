@@ -1,0 +1,33 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Dylan.
+AGENT: Thanks, Dylan. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Taxi.
+AGENT: Alright, Dylan, how would you like to pay for your taxi ride? We accept cash, credit card, and
+CALLER: 6%, bitch.
+AGENT: <emotion value="hesitant"/> Hmmm.. that didn't seem like a payment method I recognize. Could you please tell me if you'd like to pay with cash, credit card, or Call and Ride?
+CALLER: Card.
+AGENT: Okay so I've got that payment noted as credit card. Let me process that for you now.
+AGENT: <emotion value="grateful"/> Okay so I've got that payment noted as credit card.
+AGENT: <emotion value="peaceful"/> Could you please tell me the pickup address for your taxi ride?
+CALLER: 9800 Martin Luther King junior Highway.
+AGENT: Okay, so I found the pickup address as nine eight zero zero Martin Luther King Junior Highway, Lanham, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 5500 Georgia Avenue.
+AGENT: Okay, I found the dropoff address as five five zero zero Georgia Avenue Northwest, Washington,
+CALLER: Okay.
+AGENT: Your dropoff address has been verified, Dylan. I'll now proceed with the next steps.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time as today at 1:06 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Two two passengers No. Two passengers. No wheelchair accessible.
+AGENT: Okay great! I've got that noted for two passengers and no wheelchair-accessible vehicle. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: No. I do not.
+AGENT: Alright, the estimated fare is 35.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion
+CALLER: That's fine.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 1:06 AM. Your confirmation number is 2 1 3 6 7 6 6 6 5. Is there anything else I can help you with?
+CALLER: How long until they get here?
+AGENT: For estimated arrival times, I can connect you with a representative who can provide the most current details. Let me transfer you now.
+AGENT: Hmm, let me pull that up for you. Uhh, I’m having trouble finding your trip details right now because your profile isn’t identified. Let me connect you with a representative who can help you directly.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

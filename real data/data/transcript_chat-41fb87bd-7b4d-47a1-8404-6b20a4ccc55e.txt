@@ -1,0 +1,29 @@
+AGENT: Hello Annette, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Plan a trip.
+AGENT: Okay, I can help with that. Could you please tell me where you would like to be picked up from?
+CALLER: One one four zero two December way Silver Spring, Maryland 20904.
+AGENT: Thank you for the pickup address at 1 1 4 0 2 December Way, Silver Spring, Maryland. Where would you like to go?
+CALLER: Mhmm. Three four zero eight Hamilton Street, Hyattsville, Maryland.
+AGENT: Got it. Your dropoff location is 3 4 0 8 Hamilton Street, Hyattsville, Maryland. When would you like to be picked up?
+CALLER: Yes. I'm ready now.
+AGENT: Alright, so you want to be picked up now from 1 1 4 0 2 December Way, Silver Spring, Maryland, to go to 3 4 0 8 Hamilton Street, Hyattsville, Maryland. Do you have a preferred payment method for this trip?
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash.
+AGENT: I have your dropoff address as 3 4 0 8 Hamilton Street, Hyattsville, Maryland confirmed. However, I couldn't locate the pickup address at 1 1 4 0 2 December Way, Silver Spring, Maryland. Could you please provide the full pickup address again, including the street name and city? <emotion value="apologetic"/>
+CALLER: One one four zero two December like the month way, w a y, Apartment 204, Silver Spring, Maryland two zero nine zero four.
+AGENT: Hmm, let me check that address again. I wasn't able to locate 1 1 4 0 2 December Way Apartment 204, Silver Spring,
+CALLER: Okay.
+AGENT: I couldn't find any results for December Way in Silver Spring. Could you please double-check the street name or provide a nearby landmark or cross street to help identify the pickup location?
+CALLER: It is off of the December Drive. On Lockwood.
+AGENT: Thank you for that detail. Just to confirm, your pickup is near December Drive and Lockwood in Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: I wasn't able to find a location for December Drive and Lockwood in Silver Spring, Maryland. Could you please provide any other nearby landmarks, cross streets, or a different address to help locate
+CALLER: Okay.
+AGENT: Could you please provide another nearby landmark, cross street, or a different address to help locate your pickup?
+CALLER: Lockwood Drive. That's in White Oak.
+AGENT: Thank you for that information. Just to confirm, your pickup is on Lockwood Drive in White Oak, Maryland. Is that
+CALLER: Lockwood. Yeah.
+CALLER: That's not my pickup. I I live on December Way. It is off of Lockwood.
+AGENT: I understand you live on December Way, which is off of Lockwood Drive. Since I couldn't find December Way directly, could you please provide a nearby cross street or landmark on December Way to help me locate your exact pickup address?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Sure.

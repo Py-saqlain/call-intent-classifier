@@ -1,0 +1,31 @@
+AGENT: Hello Celestine, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Are you trying to get the cab down to muddy branch giant?
+AGENT: Uhh, are you looking to book a ride to the Muddy Branch Giant? Let me know if you'd like me to help with that. <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: So
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: The long term value.
+AGENT: Hmmm.. <break time="300ms"/> I didn't quite catch that as a payment method. Could you please tell me if you'd like to pay with cash, credit
+CALLER: Call and ride.
+AGENT: Okay so <break time="300ms"/> you've chosen Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three two three seven seven.
+AGENT: Hmmm.. <break time="300ms"/> that seems to be only five digits. Could you please provide the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Three two three seven seven one.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: One seven one one two Queen Victoria Court,
+AGENT: Okay, let me check that address. <break time="350ms"/> I found the address 1 7 1 1 2 Queen Victoria Court, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay, so I have 1 7 1 1 2 Queen Victoria Court, Gaithersburg, Maryland as your pickup address. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: I found Giant Food at 8 4 2 Muddy Branch Road, Gaithersburg, Maryland. Is that the place you want to go? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, Celestine.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I'm here. I wanna return. I just need pick up my pharmacy.
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. Now, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I want to go in and out.
+AGENT: Could you please tell me what time you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Five minutes after I wasn't in the same. Round trip.
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. Now, when would you like to be picked up? <emotion value="peaceful"/>

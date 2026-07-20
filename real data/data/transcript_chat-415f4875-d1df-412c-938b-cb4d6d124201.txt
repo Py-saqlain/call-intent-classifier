@@ -1,0 +1,30 @@
+AGENT: Hello Tyra, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm doing a call and ride
+AGENT: Alright, how about you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three five one four two six
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 14201, Wolf Creek Place, Silver Spring, Maryland
+AGENT: Okay, so I have the pickup address as one four two zero one Wolf Creek Place, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One two nine one four Penrose Street. Rockville, Maryland.
+AGENT: Hmm, let me check that address. I couldn't find 12914 Penrose Street in Rockville, Maryland. Could you please confirm the street number and name again or provide any nearby landmarks? <emotion value="apologetic"/>
+CALLER: It's in a residential area.
+AGENT: Thank you for that detail. Could you please provide the exact street number on Penrose Street in Rockville, Maryland? That will help me find the correct address for you. <emotion value="peaceful"/>
+CALLER: Okay. See.
+AGENT: Uh, I am sorry, but could you please repeat the street number and name for the dropoff address? <emotion value="peaceful"/>
+CALLER: Hold please
+AGENT: I'm here whenever you're ready. Take your time. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay.
+AGENT: Great! Whenever you're ready, please provide the street number and name for the dropoff address again. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: One two nine one four. Penrose Street, Rockville, Maryland
+AGENT: I couldn't find 12914 Penrose Street in Rockville, Maryland. Could you please double-check the address or provide a nearby landmark or cross street to help locate it? <emotion value="apologetic"/>
+CALLER: Let me talk to a representative, please.
+AGENT: I can help you with the address details right now — want to continue?
+CALLER: I wanna speak to a, uh, agent. Please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Yeah.
+AGENT: If you need any further assistance after speaking with the representative,

@@ -1,0 +1,34 @@
+AGENT: Hello Patricia, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I need a ride soon.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero eight four eight zero three.
+AGENT: Thank you, your Call and Ride payment is all set. <emotion value="grateful"/>
+AGENT: May I have your pickup address, please? <emotion value="peaceful"/>
+CALLER: Six one one one, Montrose Road, North Bethesda, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found that location. Is 6 1 1 1 Montrose Road, North Bethesda, Maryland your pickup address? <emotion value="peaceful"/>
+CALLER: That's my pickup address.
+AGENT: Your pickup address has been verified. May I have your dropoff address, please? <emotion value="peaceful"/>
+CALLER: One one two four two Triangle Lane, Wheaton, Maryland two zero nine zero two.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found that location. Is 1 1 2 4 2 Triangle Lane, Wheaton, Maryland your dropoff address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: You mentioned you need a ride soon. Is that correct for your pickup time? <emotion value="peaceful"/>
+CALLER: I'd like to be picked up at at at around 05:00PM today.
+AGENT: Okay, just to confirm, you want to be picked up today at 5:00 PM, right? <emotion value="peaceful"/>
+CALLER: Right.
+AGENT: Okay great! I've got your pickup time as today at 5:00 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: It's just one one one passenger, me.
+AGENT: Thanks for letting me know there will be one passenger. <emotion value="grateful"/> Will you be needing a wheelchair-accessible vehicle?
+CALLER: Only if you have one available. I I don't have a wheel I have a I have a push cart.
+AGENT: Alright, so let me confirm those details. Your pickup is 6 1 1 1 Montrose Road. Your dropoff is 1 1 2 4 2 Triangle Lane. Pickup time is today at 5:00 PM. One passenger will be traveling, and you may need a wheelchair-accessible vehicle. The estimated fare is 16 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for confirming. I am processing your booking now. Please hold on a moment.
+AGENT: Your main trip is booked for today at 5:00 PM. Your confirmation number is 2 1 3 6 7 0 9 6. Is there anything else I can help you with?
+CALLER: Is there a driver available?
+AGENT: I don't have real-time driver availability details, but your trip is confirmed and a driver will be assigned to you. If you want, I can check the status or connect you with someone who can provide updates. Would you like me to do that?
+CALLER: Yes.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,12 @@
+AGENT: Hello Patricia, this is Ana from Barwood & Regency. You have two trips today — your pickup is scheduled for 5:30 PM, and Vehicle 1019 is on the way, expected to arrive at 6:47, about 6 minutes from now. How can I assist you today?
+CALLER: I'm calling about express trip.
+AGENT: Uhh, okay. Are you looking to book an express trip now, or do you need help with an existing express trip? <emotion value="peaceful"/>
+AGENT: Looks like you already have trips from Takoma Park to Greenbelt at 6:46 am today, from Takoma Park to Silver Spring at 5:30 pm today, and one more. What would you like to do? <emotion value="grateful"/>
+CALLER: I would like to check the status on the first trip from to 6956. Hanover Parkway.
+AGENT: Okay, so your driver for the trip from 7 6 2 0 Maple Avenue to 6 9 5 6 Hanover Parkway is assigned and the pickup is scheduled for 6:46 am today. Your driver is about 1 minute away now. Anything else? <emotion value="content"/>
+CALLER: What's the status on that one?
+AGENT: Your trip is accepted and the driver is on the way, expected to arrive very shortly. Anything else? <emotion value="content"/>
+CALLER: One, is what what's his tag what's your customer number? What's the cab number?
+AGENT: The vehicle number for your driver is 1 0 1 9, and the driver number is 2 2 7 2. Anything else? <emotion value="content"/>
+CALLER: Alright. That's it. Thank you.
+AGENT: Thank you for calling Barwood & Regency,

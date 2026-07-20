@@ -1,0 +1,60 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Debra Howard?
+CALLER: No. I'm I'm I'm well, I'm trying to see if I can schedule a cab Yes. And it it would be her but I'm trying to see if I could schedule a cab. Do I come through this this phone line or do I use another one?
+AGENT: Thanks for letting me know. Could you please tell me your name so I can find your profile and assist you with scheduling a cab?
+CALLER: It would be Deborah Howard.
+AGENT: Thank you, Debra. This is Ana from Barwood & Regency. How can I assist you with scheduling your cab today?
+CALLER: Not for today. I would like to schedule for July 25.
+AGENT: Thank you for letting me know you'd like to schedule a cab for July 25. Could you please tell me the pickup address and the destination for that day?
+CALLER: Okay. And and and I must have wheelchair access.
+AGENT: Got it, you will need wheelchair access for your ride on July 25. Could you please provide the pickup address and the destination address for that trip?
+CALLER: Yeah. The address is one zero zero four zero Edgewater Terrace. Fort Washington, Maryland.
+AGENT: Thank you for the pickup address at 1 0 0 4 0 Edgewater Terrace, Fort Washington, Maryland. What is the destination address or location for your trip on July 25?
+CALLER: Oh, no. I'm sorry. For the pick me up. I'm sorry. I gave you the wrong address for the pick me up. You want my pickup address? Right?
+AGENT: Yes, please. I just want to make sure I have the correct pickup address for your ride on July 25. Could you please provide it again?
+CALLER: No. Okay. The pickup address for July 25 is one four nine zero nine health Center Drive, Apartment 133, Bowie, Maryland two zero seven one six.
+AGENT: Thank you for the updated pickup address at 1 4 9 0 9 Health Center Drive, Apartment 1 3 3, Bowie, Maryland. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: It would be by credit card.
+AGENT: Thank you, I have your payment method as credit card.
+AGENT: I have the pickup address as 1 4 9 0 9 Health Center Drive, Bowie, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address for your trip?
+CALLER: Okay. Destination address is one zero zero four zero Edgewater Terrace Fort Washington, Maryland. Two zero seven four four.
+AGENT: Thank you for the destination address at 1 0 0 4 0 Edgewater Terrace, Fort Washington, Maryland. Is that correct?
+CALLER: Yeah.
+AGENT: I have the dropoff address as 1 0 0 4 0 Edgewater Terrace, Fort Washington, Maryland. Is that correct?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, Debra.
+AGENT: We have noted that you need one wheelchair for your trip. Is that correct? Please say yes to confirm or let me know if it needs to be changed.
+AGENT: Take your time. Just let me know
+CALLER: We I'm gonna I'm gonna have two my PCA with me and I'm gonna have another person with me. He's gonna be with myself. He's gonna make three people.
+AGENT: Thank you for letting me know. So that makes three passengers in total, including yourself. Is that correct? Also, please confirm if you still need one wheelchair for the trip.
+CALLER: Yes. Yes. I still need the wheelchair act one wheelchair act accessible.
+AGENT: Thank you for confirming three passengers and one wheelchair-accessible vehicle. When would you like to be picked up on July 25?
+CALLER: 9AM.
+AGENT: Just to confirm, you would like to be picked up at 9:00 AM on July 25, correct?
+CALLER: Yes.
+AGENT: Your pickup time is set for July 25th at 9:00 AM. Do you have any special instructions or notes for the driver?
+CALLER: To build the code that have to be used for the gate to be open on that day. To call me and give me to call this number Paul, call me. So I can give them the code to open up the gate. I'm also gonna need a return trip back.
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. I've noted that the driver should call you to get the gate code to open the gate. Let me save that for the driver.
+AGENT: Debra, the estimated fare for your trip is 78 dollars, paying with a credit card. You mentioned you'd like a return trip — would you still like me to set that up?
+CALLER: Yeah. You say it's $78?
+AGENT: Yes, the estimated fare for your trip is 78 dollars. Would you like me to go ahead and set up the return trip for you as well?
+CALLER: Okay.
+AGENT: For your return trip, when would you like to be picked up?
+CALLER: I would like to be picked up at
+AGENT: Could you please tell me the time you would like to be picked up for your return trip?
+CALLER: 4PM.
+AGENT: Just to confirm, you would like to be picked up at 4:00 PM for your return trip, correct?
+CALLER: Okay.
+AGENT: Your return trip pickup time is set for July 25th at 4:00 PM. Will the passenger and wheelchair counts be the same as your main trip, with three passengers and one wheelchair?
+CALLER: Yes.
+AGENT: For your return trip, I have the pickup address as 1 0 0 4 0 Edgewater Terrace and the dropoff address as 1 4 9 0 9 Health Center Drive. Is that correct?
+CALLER: Is correct.
+AGENT: The estimated fare for your return trip is 78 dollars, paying with Self. Should I go ahead and book both trips for you?
+CALLER: Yes.
+AGENT: I am booking both trips for you now.
+AGENT: Both your main trip and return trip are booked. Your main trip confirmation number is 2 1 3 6 6 9 5 3 6 with pickup at 9:00 AM on July 25th. Your return trip confirmation number is 2 1 3 6 6 9 5 3 8 with pickup at 4:00 PM on July 25th. Is there anything else I can help you with?
+CALLER: Can you Yes. I would like to edit the telephone number.
+AGENT: I understand you'd like to modify the telephone number on your booking. Trip modifications need to be handled by a live agent. Let me connect you with someone who can help.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Oh, and and what was the the

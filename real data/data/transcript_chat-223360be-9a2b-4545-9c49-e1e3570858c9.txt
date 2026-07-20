@@ -1,0 +1,44 @@
+AGENT: Hi Tyra, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Call and ride.
+AGENT: Thank you for letting me know you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three five
+AGENT: I heard
+CALLER: one four.
+AGENT: I heard the digits three five one four, but I need exactly six digits from your Call and Ride card. Could you please provide all six digits?
+CALLER: Three five one four two six.
+AGENT: Thank you, your Call and Ride payment method is verified and ready to use.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: MedStar Montgomery Medical Center.
+AGENT: I found MedStar Montgomery Medical Center at 18101 Prince Philip Drive, Olney, Maryland. Is this the correct pickup location?
+CALLER: Yes
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: One four two zero one wolf Creek Place, Silver Spring, Maryland.
+AGENT: I have 1 4 2 0 1 Wolf Creek Place, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: No.
+AGENT: Thank you for letting me know. Please provide the correct dropoff address.
+CALLER: One four two zero one. Wolf Creek Place,
+AGENT: You
+CALLER: in Silver
+AGENT: To confirm, is your dropoff address 1 4 2 0 1 Wolf Creek Place in Silver Spring, Maryland?
+CALLER: Yes.
+AGENT: I have 1 4 2 0 1 Wolf Creek Place, Silver Spring, Maryland as your dropoff address. Is that correct?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay. I'm ready.
+AGENT: Your dropoff address has been verified, Tyra. I will now proceed with arranging your trip.
+AGENT: When would you like to be picked up?
+CALLER: Two PM.
+AGENT: Thank you. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yep. One passenger.
+AGENT: Got it, one passenger
+CALLER: No. No wheelchair. Accessible vehicle.
+AGENT: Thank you for clarifying, one passenger with no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: Just air conditioning.
+AGENT: The estimated fare for your trip is 18 dollars, and you'll be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No. One way trip.
+AGENT: Okay, I will proceed with just the one-way trip. Should I go ahead and book your ride for 2 PM from 1 8 1 0 1 Prince Philip Drive to 1 4 2 0 1 Wolf Creek Place?
+CALLER: Yes.
+AGENT: Booking your trip now.
+AGENT: Your trip is booked for today at 2:00 PM. The confirmation number is 2 1 3 6 6 6 8 7 9. Is there anything else I can help you with?
+CALLER: I need to change the time of the trip.
+AGENT: I understand you'd like to change the time of your trip. Trip modifications need to be handled by a live agent. Let me connect you with someone who can help.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

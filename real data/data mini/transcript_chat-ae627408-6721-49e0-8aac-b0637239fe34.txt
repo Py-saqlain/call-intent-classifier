@@ -1,0 +1,17 @@
+AGENT: Hello Coleen, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a trip.
+AGENT: Thank you for choosing us for your trip. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card?
+CALLER: Three three four two zero eight.
+AGENT: Thank you, your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: I hopped seven seven five
+AGENT: I want to make sure I have your pickup address right. Did you say 7 7 5? Could you please provide the street name and city as well?
+CALLER: rockville pike
+CALLER: rockville Pike.
+CALLER: Rockville Maryland.
+AGENT: I have 7 7 5 Rockville Pike, Rockville, Maryland as your pickup address. Is that correct?
+AGENT: I have 7 7 5 Rockville Pike, Rockville, Maryland as your pickup address. Is that correct?
+AGENT: I have 7 7 5 Rockville Pike, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yes. Yes. Yes.

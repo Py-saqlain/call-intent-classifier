@@ -1,0 +1,6 @@
+AGENT: Hi Nicole, this is Ana with Barwood & Regency. Your pickup is scheduled for today at 12:30 PM. How can I assist you today?
+CALLER: Allah is
+AGENT: Uhh, how can I assist you with your ride or transportation needs today? <emotion value="peaceful"/>
+CALLER: A lot of Asian
+AGENT: I'm here to help with your transportation needs. Could you please tell me if you'd like to book a ride or if you have any questions about your trip? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.

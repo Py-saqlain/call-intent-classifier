@@ -1,0 +1,20 @@
+AGENT: Hi Michael, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. That's it. This is Ricky. I'm calling I need a cab going to nine zero zero Wayne Avenue in Silver Springs.
+AGENT: Thanks for letting me know, Ricky. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Crush. Crush.
+AGENT: Thank you, Ricky. Your payment method is set to cash.
+AGENT: I wasn't able to locate 900 Wayne Avenue in Silver Springs. Could you please provide the city and state for that address?
+CALLER: Silver Springs, Maryland.
+AGENT: I have 9 0 0 Wayne Avenue, 2nd floor, Silver Spring, Maryland 2 0 9 1 0. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: 9901 Medica Center Drive,
+AGENT: Thank you for the pickup address. Just to confirm, is it 9 9 0 1 Medical Center Drive?
+CALLER: at the new building location.
+AGENT: I have 9 9 0 1 Medical Center Drive, Rockville, Maryland. Is that correct?
+CALLER: May I speak with an operator, please?
+CALLER: Operator, please.
+AGENT: I can help confirm your pickup address right now — shall we continue?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+AGENT: Your dropoff address has been
+CALLER: No. Operator, please. Yeah.

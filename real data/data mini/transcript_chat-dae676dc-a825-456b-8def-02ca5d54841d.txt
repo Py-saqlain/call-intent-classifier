@@ -1,0 +1,36 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Amelie?
+CALLER: Yes.
+AGENT: Thanks for confirming, Amelie. This is Barwood & Regency. How can I assist you today?
+CALLER: I would like to book a trip.
+AGENT: Thank you for letting me know you'd like to book a trip. To get started, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: Could you please provide the pickup address for your trip?
+CALLER: Two five zero one. Moss Grove Road.
+AGENT: Thank you. Just to confirm, is your pickup address 2 5 0 1 Moss Grove Road?
+CALLER: Silver Spring, Maryland.
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Twenty one zero one Fairland Road,
+AGENT: Just to confirm, is your dropoff address 2 1 0 1 Fairland Road?
+CALLER: Yes.
+AGENT: To confirm, is your dropoff address 2 1 0 1 Fairland Road, Silver Spring, Maryland?
+CALLER: Okay. Yes.
+AGENT: Your dropoff address has been verified, Amelie.
+AGENT: When would you like to be picked up?
+CALLER: 11:00.
+AGENT: Just to confirm, do you mean 11:00 AM or 11:00 PM for your pickup time?
+CALLER: 11PM.
+AGENT: Your pickup time is set for today at 11:00 PM. How many passengers will be traveling, including yourself? And will you need a wheelchair-accessible vehicle?
+CALLER: 11PM tonight. One. One.
+AGENT: Thank you. I have recorded one passenger and one wheelchair. Do you have any special instructions or notes for the driver?
+CALLER: No. No. No wheelchair. No wheelchair.
+AGENT: I have updated your wheelchair count to zero. Do you have any special instructions or notes for the driver?
+CALLER: Just a passenger. No wheelchair.
+AGENT: Amelie, the estimated fare for your trip is 8 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No. Thank you.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 11:00 PM. Your confirmation number is 2 1 3 6 6 9 7 3 0. Is there anything else I can assist you with?
+CALLER: No. That will be all. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Amelie. Have a wonderful day!

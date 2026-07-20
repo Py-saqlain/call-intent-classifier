@@ -1,0 +1,36 @@
+AGENT: Hello Laura, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Need to book a cab.
+AGENT: Alright, how would you like to pay for your cab today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Alright.
+AGENT: Hmmm.. that didn't seem right, could you try again? How would you like to pay for your cab? Cash, credit card, or Call and Ride? <emotion value="apologetic"/>
+CALLER: Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three two eight five. Five. Six.
+AGENT: Hmmm.. that didn't seem right, could you please say the last six digits of your Call and Ride card again, all six digits together? <emotion value="apologetic"/>
+CALLER: 328556.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 104 Park Avenue, Gaithersburg, Maryland
+AGENT: Okay, so I have the pickup address as one zero four Park Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Twenty Courthouse Square, Rockville, Maryland
+AGENT: Okay, so I have the dropoff address as two zero Courthouse Square, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Laura, thank you. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Alright, soo <break time="300ms"/> how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Yes. One, no wheelchair.
+AGENT: Okay great! <break time="200ms"/> I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: Now
+AGENT: I already have your pickup time as now. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 18 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will proceed with booking just your one-way trip. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so <break time="250ms"/> I am booking your trip now.
+AGENT: Your trip is booked for today at 1:24 PM. Your confirmation number is 2 1 3 6 7 3 2 4 7. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood

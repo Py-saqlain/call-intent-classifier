@@ -1,0 +1,20 @@
+AGENT: Hi Jimmy, this is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Connect me with operator.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: I need a taxi. At fifty eight thirty Riggs Road, Gaithersburg, Maryland.
+AGENT: Thank you for sharing your pickup location at 5 8 3 0 Riggs Road, Gaithersburg, Maryland. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: K. Cash. Cash.
+AGENT: Thank you for choosing cash as your payment method.
+AGENT: I have the pickup address as 5 8 3 0 Riggs Road, Gaithersburg, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: I'm going one one bath 115 Summerville Road, Shady Grove Metro.
+AGENT: Thank you for the destination address at 1 1 5 Summerville Road. Just to clarify, is the dropoff at 1 1 5 Summerville Road, or is it at the Shady Grove Metro station? Could you please confirm the exact dropoff location?
+CALLER: It it it's the same address. 115 Summerville Road, Shade Grove Metro.
+AGENT: I couldn't find an exact match for 1 1 5 Summerville Road, Shady Grove Metro. I found a location at 1 5 9 0 3 Somerville Drive, Rockville, Maryland. Is this the place you want to go?
+CALLER: No. I don't want rob you. I'm going to Shady Grove. Shady Grove. Shady Grove Metro. And what the fuck? Connect me with a agent.
+CALLER: Hello?
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: I need I need I need a agent. Connect me with a agent, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Recent place.

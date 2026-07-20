@@ -1,0 +1,13 @@
+AGENT: Hi Tynyea, this is Ana with Barwood & Regency. You have two trips today — one where you've already been picked up by vehicle 1055, and another with vehicle 280 arriving by 11:03, just about 5 minutes away. How can I assist you today?
+CALLER: Customer service. Date.
+AGENT: How can I assist you with your ride or booking today?
+CALLER: Customer service. Customer service.
+AGENT: I’m here to help with your ride or booking. What can I do for you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Customer service
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Transfer the call.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Did you

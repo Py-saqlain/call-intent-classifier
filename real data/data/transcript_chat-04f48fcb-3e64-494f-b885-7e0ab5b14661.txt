@@ -1,0 +1,37 @@
+AGENT: Hello Braby, this is Ana with Barwood & Regency. How can
+CALLER: Yes. I need a taxi I'm at 5454 Wisconsin Avenue.
+AGENT: Thank you for letting me know your location at 5454 Wisconsin Avenue. How would you like to pay for your ride today? We accept cash, credit card,
+CALLER: Credit card.
+AGENT: Thank you for choosing credit card as your payment method.
+CALLER: Okay.
+AGENT: I have 5 4 5 4 Wisconsin Avenue, Chevy Chase, Maryland. Is that
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 77201 Pyle Road.
+AGENT: To confirm, is your dropoff address 7 7 2 0 1 Pyle Road? Could you please also provide the city
+CALLER: Nope. Nope. Nope. Nope. Nope. Nope. Nope. Seven two zero one. Seven two zero one.
+AGENT: Thank you for clarifying. So your dropoff address is 7 2 0 1 Pyle Road. Could you please tell
+CALLER: Mhmm.
+CALLER: Correct.
+CALLER: And I was wondering, do they want me do they wanna meet me up front or out back?
+AGENT: I have 7 2 0 1 Pyle Road, Bethesda, Maryland as your dropoff
+CALLER: Correct.
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Braby.
+AGENT: When
+CALLER: Okay. Good.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a
+CALLER: One. One No.
+AGENT: Thank you. When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: I've noted your pickup time as today at 9:06 AM. Do you have any special instructions or notes for the driver?
+CALLER: Nope. No.
+AGENT: The estimated fare for your trip is 12.5 dollars, paying with Self. Would you like to schedule a
+CALLER: Okay. Okay.
+AGENT: For your return
+CALLER: No. That that's it.
+AGENT: Thank you for your patience. I'm booking your trip now.
+AGENT: Your main trip is scheduled for today at 9:06 AM. Your confirmation number is 2 1 3 6 6 9 1 9 6. Is there anything else I can help you with?
+CALLER: K. I think that's it.
+AGENT: Thank you for calling Barwood & Regency, Braby. Have a wonderful day!
+CALLER: Okay. So when okay. Bye bye.

@@ -1,0 +1,43 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with William Dotson?
+CALLER: This is a
+AGENT: Could you please tell me your full name so I can assist you properly?
+CALLER: William Datsun.
+AGENT: Thanks, William. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Book a trip
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call a drug. Call right.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Great! Please provide the last six digits of your Call and Ride card when you're ready. <emotion value="peaceful"/>
+CALLER: Uh-huh.
+CALLER: Got it.
+AGENT: Hmmm.. that didn't seem like six digits. Could you please say the last six digits of your Call and Ride card again? <emotion value="apologetic"/>
+CALLER: Three four nine nine two five.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: One nine four one nine fucking him way German town.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 1 9 4 1 9 Buckingham Way, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the dropoff address? <emotion value="peaceful"/>
+CALLER: Four six five North Frederick Avenue,
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 4 6 5 North Frederick Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Tomorrow.
+AGENT: What time tomorrow would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 07:00AM, One moment and I have another call. Just a sec.
+AGENT: You said 7:00 AM tomorrow. Is that correct? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm back. Sorry about that.
+AGENT: No problem at all. Just to confirm, you want to be picked up tomorrow at 7:00 AM, right? <emotion value="peaceful"/>
+CALLER: Just regard the trip. Make sure access actually came through.
+AGENT: Okay great! I've got your pickup time as tomorrow at 7:00 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Cancel service.
+CALLER: Cancel trip.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Cancel tomorrow's trip.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

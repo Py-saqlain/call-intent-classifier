@@ -1,0 +1,9 @@
+AGENT: Hi Andrea, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Schedule a cab pickup.
+AGENT: I'd be happy to help with your cab pickup. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit to butter.
+AGENT: Just to confirm, did you mean credit card for your payment method?
+CALLER: Yes.
+AGENT: Thank you for confirming your payment with credit card.
+AGENT: Could you please provide the pickup address for your cab ride?
+CALLER: Representative please.

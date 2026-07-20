@@ -1,0 +1,7 @@
+AGENT: Hello Myra, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi to 1776 Jefferson Street in Rockville.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Probably cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, I found the dropoff location as 1 7 7 6 Jefferson Street, Rockville. Is that correct? <emotion value="peaceful"/>
+CALLER: That's the pickup. Let me speak to a agent.

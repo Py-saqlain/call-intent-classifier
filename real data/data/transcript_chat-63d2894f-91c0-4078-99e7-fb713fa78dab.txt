@@ -1,0 +1,42 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Libreda, how can I assist you today?
+CALLER: Book a trip.
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Calling my calling my calling my
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you would like to pay? You can choose cash, credit card, or Call and Ride. <emotion value="apologetic"/>
+CALLER: All invite calling my calling my
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Alright, please provide the last six digits of your Call and Ride card when you're ready. <emotion value="peaceful"/>
+CALLER: Three three zero zero seven three.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: 25 Grand Corner Avenue,
+AGENT: Okay, so I found 25 Grand Corner Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Gaithersburg.
+AGENT: Your pickup address has been verified. Could you please provide the dropoff address? <emotion value="peaceful"/>
+CALLER: Yes
+AGENT: Could you please tell me the dropoff address for your trip? <emotion value="peaceful"/>
+CALLER: Two research Court, Rockville.
+AGENT: Okay, so I found 2 Research Court, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: 2 Research Court, Rockville. Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your main trip pickup address is 25 Grand Corner Avenue, Gaithersburg, Maryland. How many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: Now. Yeah. Yes.
+AGENT: Okay great! I've got your pickup time as today at 9:22 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One. One.
+AGENT: Okay great! I've got one passenger. Will you be needing a wheelchair accessible vehicle? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Okay great! I've noted no wheelchair accessible vehicle is needed. Do you have any special instructions for the driver? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 9.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Oops. I'm sorry. I didn't get out the door.
+AGENT: No problem at all. Just to confirm, you do not want to schedule a return trip, correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 9:22 AM. Your confirmation number is 2 1 3 6 7 1 7 4 4. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Libreda. Have a wonderful day.
+CALLER: Thank you.
+AGENT: You're very

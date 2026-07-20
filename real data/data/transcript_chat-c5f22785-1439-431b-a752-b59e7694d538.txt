@@ -1,0 +1,43 @@
+AGENT: Hi Sally, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: credit card
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Yeah. I've got to look it up. I don't on that balt, do see in Wildwood, but the the Okay. It is open. Find me.
+AGENT: Uh, I am sorry, but could you please repeat the pickup address? <emotion value="hesitant"/>
+CALLER: I'm here. It's one zero three two three. Old Georgetown Road. Valducci's grocery store,
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found your pickup at one zero three two three Old Georgetown Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah. And they have to come to the side of the store. Only place to pick up.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Eight one nine six Inverness Ridge Road. Potomac.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found your dropoff at eight one nine six Inverness Ridge Road, Potomac, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Maryland.
+AGENT: Just to confirm, the dropoff address is eight one nine six Inverness Ridge Road, Potomac, Maryland, correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified. Thank you, Sally. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmm <break time="300ms"/> sorry, I didn't catch the pickup time. Could you please tell me when you would like to be picked up? <emotion value="hesitant"/>
+CALLER: Oh, oh, well, What time is it now? Hello?
+AGENT: It is currently 5:44 PM. What time would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Five years. 05:45.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. Did you mean 5:45 AM or 5:45 PM for your pickup time? <emotion value="hesitant"/>
+CALLER: Six o'clock Oh, PM. PM. 06:00PM.
+AGENT: Okay great! I've got your pickup time as today at 6:00 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Just one.
+AGENT: Thanks for letting me know there will be one passenger. Will you need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. But I do have a rollator. Holds up. Like a walker.
+AGENT: Alright, the estimated fare is 11.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: I don't need a wheelchair. No.
+AGENT: Thanks for clarifying that you do not need a wheelchair-accessible vehicle. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. I'm this is I'm going to my home.
+AGENT: Thank you for the details. I am processing your booking now. Please hold on a moment.
+AGENT: Your main trip is booked for today at 6:00 PM. Your confirmation number is 2 1 3 6 7 6 1 8 0. Is there anything else I can help you with?
+CALLER: No. Just make sure to tell them they have to come to the side. Of the store. There's no front pickup. Of the store.
+AGENT: Thank you for letting me know about the pickup location at the side of the store. I'll make sure the driver is informed. Is there anything else I can assist you with?
+CALLER: They have to come in from the side to your parking lot. Yes. Okay. Nope. That's it. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Sally. Have a wonderful day!
+CALLER: Thank you. Goodbye.

@@ -1,0 +1,12 @@
+AGENT: Hi Donna, this is Ana from Barwood & Regency. Vehicle 249 is on the way and should be there in about a minute for your pickup at 11:31. How can I assist you today?
+CALLER: Where's my ride?
+AGENT: Your driver is about 2 minutes away from 7 3 7 Frederick Road in Gaithersburg. Would you like me to provide any other details?
+CALLER: No.
+AGENT: Your driver in vehicle 2 4 9 is on the way and will arrive for your pickup in about 24 hours. Is there anything else I can help you with?
+CALLER: I'm putting a pickup in twenty four hours. What are you saying?
+AGENT: I see, you are scheduling a pickup for about 24 hours from now. If you'd like, I can help you book that ride or check details for a future trip. Would you like to proceed?
+CALLER: No, I'm not. No need.
+AGENT: Just to confirm, you want to cancel the entire booking and not schedule any trips? Please let me know if that is correct.
+CALLER: Speak with a representative.
+CALLER: Speak with a representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,35 @@
+AGENT: Hello Richard, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi. Yeah. I need a cab ride to BWI Airport tonight.
+AGENT: Thanks for letting me know your destination is BWI Airport tonight. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, I have your payment method as credit card.
+AGENT: I have the dropoff address as 7 0 5 0 Friendship Road, Baltimore, Maryland. Is that correct?
+CALLER: I don't think so. A minute.
+AGENT: Take your time. Just let me know when you're ready with the correct address.
+CALLER: It's oh, it's it's the airport b w Baltimore, Washington Airport. So I don't know
+AGENT: Thank you for clarifying. The dropoff is Baltimore-Washington International Airport, which is at 7 0 5 0 Friendship Road, Baltimore, Maryland. Is that correct?
+CALLER: Okay, yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: One five seven one five Cherry c h e r r y, Cherry Blossom Lane.
+AGENT: Thank you. Just to confirm, is your pickup address 1 5 7 1 5 Cherry Blossom Lane?
+CALLER: Yes.
+AGENT: I have your pickup address as 1 5 7 1 5 Cherry Blossom Lane, North Potomac, Maryland. Is that correct?
+CALLER: Gaithersburg, Maryland.
+AGENT: Thank you for the correction. So your pickup address is 1 5 7 1 5 Cherry Blossom Lane, Gaithersburg, Maryland. Is that right?
+CALLER: Yes.
+AGENT: I couldn't find 1 5 7 1 5 Cherry Blossom Lane in Gaithersburg, Maryland. Could you please confirm the full street address, city, and state again?
+CALLER: 15715 Cherry Blossom Lane, I have three towns in my ZIP code. I use Gaithersburg,
+AGENT: Thank you for explaining. Just to be sure, your pickup address is 1 5 7 1 5 Cherry Blossom Lane, and you use Gaithersburg as the city in your ZIP code area. Is that correct?
+CALLER: Yes. Yes.
+AGENT: I wasn't able to find 1 5 7 1 5 Cherry Blossom Lane in Gaithersburg, Maryland in our system. Could you please provide any nearby landmark, cross street, or additional details to help locate your pickup address?
+CALLER: Kentlands Kentlins Maryland. Gaithersburg, Maryland.
+AGENT: Thank you for that. To clarify, is your pickup address 1 5 7 1 5 Cherry Blossom Lane in the Kentlands area of Gaithersburg, Maryland?
+CALLER: Caitlin's area
+AGENT: Got it, you said Caitlin's area in Gaithersburg, Maryland. Could you please confirm if your pickup address is 1 5 7 1 5 Cherry Blossom Lane in Caitlin's area, Gaithersburg, Maryland?
+CALLER: Yeah. Sure. Yep. Kentland's. Right.
+CALLER: No Kent Kent lands.
+AGENT: Thanks for clarifying. I found Kentlands Psychotherapy at 3 0 1 Inspiration Lane, Gaithersburg, Maryland. Is that the correct pickup location?
+AGENT: I found a location called Kentlands Psychotherapy at 3 0 1 Inspiration Lane, Gaithersburg, Maryland. Is this the place you mean for your pickup?
+AGENT: I found Kentlands Psychotherapy at 3 0 1 Inspiration Lane, Gaithersburg, Maryland. Is that the correct pickup location?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Jesus.

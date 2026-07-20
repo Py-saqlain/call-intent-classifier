@@ -1,0 +1,39 @@
+AGENT: Hello Ceasar, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Oh, Okay. 7051.
+AGENT: Uhh, just to be sure, are you referring to 7 0 5 1 Carroll Avenue in Takoma Park, Maryland? Is that your pickup or dropoff location? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I think well, it might
+AGENT: Hmmm.. that didn't seem quite clear, could you please tell me how you'd like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+AGENT: Take your time.
+CALLER: Yes.
+AGENT: Alright, how would you like to pay? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Going right.
+AGENT: Hmmm.. that didn't seem right, could you try again? How would you like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Cold and dry.
+AGENT: Hmmm.. that didn't seem right, did you mean Call and Ride? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Okay. Three. Five one seven eight, zero
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Okay, so I found 7 0 5 1 Carroll Avenue, Takoma Park, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Three five one seven eight zero. Yes.
+AGENT: Your pickup address has been verified. Now, where would you like to go? What is your dropoff address? <emotion value="peaceful"/>
+CALLER: I'm going to pray
+AGENT: I found a few locations. 
+ Option one: 8 0 5 1 Cessna Avenue Suite, number 1 6 4, Gaithersburg, Maryland. 
+ Option two: 2 0 1 South Frederick Avenue, Gaithersburg, Maryland. 
+ Option three: 6 3 2 5 Griffith Road, Laytonsville, Maryland. 
+ Option four: 1 1 8 1 8 Seven Locks Road, Rockville, Maryland. 
+ Option five: 5 3 1 Norwood Road, Silver Spring, Maryland. 
+ Which one is correct? <emotion value="hesitant"/>
+CALLER: You see everything is drowned. I gave a direction. Okay. Put the attention, please.
+AGENT: I’m here and listening carefully. Could you please tell me which of those locations is the correct one for your dropoff? <emotion value="peaceful"/>
+CALLER: One, four hundred. Four green blood.
+AGENT: Just to make sure I got that right, did you mean 8 0 5 1 Cessna Avenue Suite, number 1 6 4, Gaithersburg, Maryland? <emotion value="peaceful"/>
+CALLER: You have it wrong everything. I say many times put attention please.
+AGENT: I want to make sure I get this exactly right for you. Could you please say the dropoff address again slowly and clearly? <emotion value="apologetic"/>
+CALLER: The other is one This is a one four hundred.
+AGENT: Hmm, let me check that address again. Could you please say the full dropoff address one more time, including the street number and street name? <emotion value="apologetic"/>
+CALLER: This is one four hundred Forest Green Road suite three three zero, Sievert is Premerilan,
+AGENT: I couldn't locate that address. Could you please provide a full address or a different nearby location for your dropoff? <emotion value="apologetic"/>
+AGENT: Take your time.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

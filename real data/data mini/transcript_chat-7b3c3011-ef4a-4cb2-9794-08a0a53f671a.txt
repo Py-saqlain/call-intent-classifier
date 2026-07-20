@@ -1,0 +1,14 @@
+AGENT: Hello susaN, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Box is the one.
+AGENT: Uhh, could you please clarify what you mean by "Box"? Are you referring to a pickup or dropoff location, or something else? <emotion value="hesitant"/>
+CALLER: Oh, yeah.
+AGENT: Okay, I’m here to help. Are you looking to book a ride or do you need assistance with something else? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Customer assistant.
+AGENT: Alright, I will connect you to a customer assistant who can help you further.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: You're gonna take the shower. Need to go watch your fucking dog. Oh, I Did you put boy deodorant and girl deodorant? But is that okay for this until you you know, You know? Because I don't wanna put all these chemicals. And then she go to poo and then eats it up.
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: Transfer me.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

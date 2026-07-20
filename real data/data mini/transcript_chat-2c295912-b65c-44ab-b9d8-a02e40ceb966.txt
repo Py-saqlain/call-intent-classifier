@@ -1,0 +1,10 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Yeah. My name is Navnit Kumar Rasudeva. I'm calling from the ELM the one text is booked for from ELM to that f a h. Safra Lodge. And 07:00, they gave the time. But after that, no big
+AGENT: Thanks, Navnit. This is Ana from Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yeah.
+AGENT: I understand you mentioned a trip booked from ELM to Safra Lodge at 7:00. Are you calling to check the status of that trip?
+CALLER: Okay. What is the taxi number?
+AGENT: I'm connecting you now to a customer service representative who can provide the taxi number and assist you further. Please stay on the line.
+AGENT: I'm connecting you now to a customer service representative who can provide the taxi number and assist you further. Please stay on the line.
+CALLER: Yeah. Okay. Okay.

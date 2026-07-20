@@ -1,0 +1,18 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: The numbers you gave me. Yes. Now do you wanna talk to them? Yes. From leisure work, we are expecting would you send somebody to the leisure wall, please? Green too.
+AGENT: Thanks, Yes. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yes. Green two. Bring two. Building 4. That's Leisure Wall.
+AGENT: Thank you for the details about the pickup at Green two, Building four, Leisure Wall. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Building Hello? That cat.
+AGENT: I want to make sure I understand your payment method correctly. Did you mean cash for your payment?
+CALLER: Yes. That cat. Cash. Cash. Cash. Cash.
+AGENT: Thank you for confirming cash as your payment method.
+AGENT: I have the pickup address as Walgreens, 6 6 2 Quince Orchard Road, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes. No. Me give you the No. No, ma'am. Let me give you the the correct address. One five one zero zero Drive Silver Spring,
+AGENT: Thank you for the correction. Just to confirm, is the pickup address 1 5 1 0 0 Drive, Silver Spring?
+CALLER: Yes. It's Interlact interlactant.
+AGENT: I have the pickup address as 1 5 1 0 0 Interlachen Drive, Silver Spring, Maryland. Is that correct?
+CALLER: Interlocking Drive. Yes. Yes.
+AGENT: I have the pickup address as 1 5 1 0 0 Interlachen Drive, Silver Spring, Maryland. Is that correct?
+CALLER: Okay. Yes.
+AGENT: I found one location for Leisure Wall: Claude Moore Recreation and Community Center at 4 6 1 0 5 Loudoun Park Lane, Sterling, Virginia. Is that the place you want to go?

@@ -1,0 +1,9 @@
+AGENT: Hello James, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: My return ride home
+AGENT: Could you please tell me the address or location where you want to be picked up for your return ride home?
+CALLER: Where am I? Yeah. Second. This is two three nine one Green Spring Drive ammonium t I m o n I u m Maryland two one zero nine three.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Oh, shoot. I thought the state covered it.
+AGENT: I understand. Just to let you know, we only accept cash, credit card, and Call and Ride for payment on this line. Would you like to use one of these methods? <emotion value="hesitant"/>
+CALLER: No. What's the medicaid line?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

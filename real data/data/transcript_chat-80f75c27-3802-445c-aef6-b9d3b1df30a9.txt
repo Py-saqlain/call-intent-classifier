@@ -1,0 +1,51 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Martina?
+CALLER: Yeah.
+AGENT: Thanks for confirming, Martina. This is Barwood & Regency. How can I assist you today?
+CALLER: Hi. I just received a a call from a.
+AGENT: Uhh, I didn't quite catch that last part. Could you please tell me again what you received a call about? <emotion value="hesitant"/>
+CALLER: A ride? A taxi ride?
+AGENT: Okay, so you got a call about a taxi ride? Are you looking to book a new ride, or do you want to check on a ride you already have scheduled? <emotion value="peaceful"/>
+CALLER: Yeah. Wanna check on a ride I have scheduled.
+AGENT: Hmm, let me check that for you. Uhh, it looks like there isn't an active trip scheduled under your name right now. Would you like me to help you book a new ride? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit?
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 607 Bradford Street?
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found the pickup address as six zero seven Blandford Street, Rockville, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: I'm going to a social, um, Social Security building.
+AGENT: Okay, let me look for the Social Security building nearby.
+AGENT: I found a few Social Security Administration locations. 
+Option one: 315 N Washington Street, Rockville, Maryland. 
+Option two: 10230 New Hampshire Avenue, Silver Spring, Maryland. 
+Option three: 8999 Bennett Creek Boulevard, Frederick, Maryland. 
+Option four: 10800 Parkridge Boulevard, Reston, Virginia. 
+Option five: 8865 Stanford Boulevard Lakeside Building, Suite 110, Columbia, Maryland. 
+Which one would you like to go to? <emotion value="hesitant"/>
+CALLER: The one in Rockville.
+AGENT: Your dropoff address has been verified, Martina.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Today.
+AGENT: Since you said today, could you please tell me what time you would like to be picked up? <emotion value="peaceful"/>
+CALLER: About twenty minutes.
+AGENT: Okay great! I've got your pickup time set for today at 12:41 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thanks for letting me know no wheelchair is needed. How many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: One
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 7 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay, great! I'll start collecting the details for your return trip now.
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Like I said,
+AGENT: I want to make sure I get your return trip pickup time right. Could you please tell me the time you'd like to be picked up for your return trip? <emotion value="hesitant"/>
+CALLER: Immediate.
+AGENT: Thank you for your patience. I'm processing your main trip booking now.
+AGENT: Your main trip is booked for today at 12:41 PM. Your confirmation number is 2 1 3 6 7 3 1 7 2. Is there anything else I can help you with?
+CALLER: No. That's it.
+AGENT: Thank you for calling Barwood & Regency, MARTINA. Have a wonderful day!

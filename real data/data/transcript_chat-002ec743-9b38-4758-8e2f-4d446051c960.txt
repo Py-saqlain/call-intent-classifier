@@ -1,0 +1,23 @@
+AGENT: Hi Sally, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I need a tap right now.
+AGENT: I can help with that. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Eight one nine six excuse me, Inverness Ridge Road,
+AGENT: I have 8 1 9 6 Inverness Ridge Road,
+CALLER: Potomac Sorry.
+AGENT: That's perfectly
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Nordstrom Montgomery Mall Bethesda, Maryland.
+CALLER: The Sovereign Center.
+AGENT: I found Nordstrom at 7 1 1 1 Democracy Boulevard, Bethesda, Maryland. Is that the correct dropoff location?
+CALLER: Yeah. They might have to go downstairs to the garage.
+AGENT: Your dropoff address has been verified, Sally. I will now proceed with your booking.
+AGENT: You mentioned you need a ride right now. Is that correct? Please say yes to confirm or let me
+CALLER: Yeah. Yes.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

@@ -1,0 +1,12 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Martina?
+CALLER: Yes.
+AGENT: Thanks, Martina. This is Ana from Barwood & Regency. Vehicle 1009 is on the way and will arrive in about 3 minutes, with an estimated pickup at 3:04 pm. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+CALLER: Yeah.
+AGENT: Okay, great. How can I assist you with your ride or any other service today? <emotion value="peaceful"/>
+CALLER: Hi. I need a okay. Because this was on a. She told me around ten minutes. I'm trying to find out. Is it in the area?
+AGENT: So you’re checking if your ride is nearby since you were told it would be about ten minutes? Let me connect you to the trip status team who can give you the latest update on your driver’s location.
+AGENT: Okay, so your driver is about 4 minutes away and should arrive around 3:07 pm at 607 Blandford Street. Is there anything else I can help you with? <emotion value="content"/>
+CALLER: Thank you.
+AGENT: Thank you for calling Barwood & Regency, Martina. Have a wonderful day!

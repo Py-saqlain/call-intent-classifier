@@ -1,0 +1,10 @@
+AGENT: Hi Nicole, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Allah Asian.
+AGENT: Uhh, I'm here to help. Could you please tell me what you need assistance with today? <emotion value="peaceful"/>
+CALLER: Allow agent
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Allah Asia.
+AGENT: Uhh, I want to make sure I understand you correctly. Are you looking to book a ride or do you need help with something else? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Allah, angel.
+AGENT: I want to make sure I understand you correctly. Are you trying to book a ride or do you need help with something else? <emotion value="peaceful"/>

@@ -1,0 +1,38 @@
+AGENT: Hi Veronica, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Taxi.
+AGENT: How can I assist you with your taxi ride today?
+CALLER: Technically, go home.
+AGENT: Thanks for letting me know your destination is home. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Ten.
+AGENT: Could you please clarify how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: 10. Cash.
+AGENT: Thank you, I have your payment method as cash.
+AGENT: I have the dropoff address as eight three eight four Colesville Road, Silver Spring, Maryland. Is that correct?
+CALLER: No.
+AGENT: Thank you for letting me know. Please provide the correct dropoff address.
+CALLER: 8700 Jones Mill Road, Chevy Chase Mill.
+AGENT: I have the dropoff address as eight seven zero zero Jones Mill Road, Chevy Chase, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: I'm at I'm at eighty seven hundred Jones Mill Road. That's where I am. I went to 3145 North West, Washington, DC.
+AGENT: I have the pickup address as eight seven zero zero Jones Mill Road, Chevy Chase, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: It looks like the pickup and dropoff addresses are the same, which won't work for the ride. Could you please confirm the dropoff address again or provide a different destination?
+CALLER: 3145 Pleasant Street Northwest, Washington, DC.
+AGENT: I have the dropoff address as three one four five Mount Pleasant Street Northwest, Washington, District of Columbia. Is that correct?
+CALLER: Yes.
+AGENT: Both your pickup and dropoff addresses have been verified, Veronica.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. At one per
+AGENT: Thank you, I have recorded 1 passenger and no wheelchair needed. Do you have any special instructions for the driver?
+CALLER: No, ma'am.
+AGENT: The estimated fare for your trip is 20 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: Nowhere.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 5:09 PM. The confirmation number is 2 1 3 6 7 8 4 7 6. Is there anything else I can assist you with?
+CALLER: Hello?
+AGENT: You already have a trip from Chevy Chase to Washington today at 5:09 PM. What would you like to do?
+CALLER: Texas.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

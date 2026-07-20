@@ -1,0 +1,16 @@
+AGENT: Hi Veronica, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Cab
+AGENT: How can I assist you with your cab ride today?
+CALLER: cab home
+AGENT: Would you please let me know how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash. Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: I have 8 3 8 4 Colesville Road, Silver Spring, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: No.
+AGENT: Thank you for letting me know. Please provide the correct pickup address.
+CALLER: 8700 Jonesville Road,
+AGENT: I have 8 7 0 0 Centreville Road, Manassas, Virginia as your pickup address. Is that correct?
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide the correct pickup address again?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Okay.

@@ -1,0 +1,29 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Ralph?
+CALLER: Yes. I'm waiting for a cab.
+AGENT: Thanks for confirming, Ralph. This is Ana from Barwood & Regency. How can I assist you with your ride today?
+CALLER: I'm with arrived one five nine zero one
+AGENT: Uhh, just to make sure I got that right, you said you're at 1 5 9 0 1? Could you please tell me the full street name and city for your pickup location? <emotion value="peaceful"/>
+CALLER: Frederick is on service crew. You know?
+AGENT: Okay, so your pickup location is 1 5 9 0 1 Frederick Road, Derwood, Maryland. Is that correct? <emotion value="grateful"/>
+CALLER: Yes.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, I found the pickup address as 6 7 0 1 Muncaster Mill Road, Derwood, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. No. No. It's on. It's a Rockville pike. It's on Avenue in Southwest China.
+AGENT: Thank you for the correction. So the pickup address is on Rockville Pike Avenue in Southwest China. Let me look that up for you. <emotion value="apologetic"/>
+AGENT: I found a location called Bob's Shanghai 66 at 3 0 5 North Washington Street, Rockville. Is that the correct pickup location? <emotion value="hesitant"/>
+CALLER: No. No. No. It's fine. One five nine zero one South Frederick Avenue Rockville, Maryland, 2855.
+AGENT: I found a few locations.  
+Option one: 1 5 1 3 6 a Frederick Road, Rockville.  
+Option two: 4 8 5 South Stonestreet Avenue, Rockville.  
+Option three: 5 7 2 5 Frederick Avenue, Rockville.  
+Which one is correct? <emotion value="hesitant"/>
+CALLER: One five nine zero one for the five meter.
+AGENT: Just to clarify, you said "one five nine zero one for the five meter." Could you please repeat or clarify that address? I want to make sure I get it exactly right. <emotion value="peaceful"/>
+CALLER: One, one five one five nine zero one Frederick Avenue.
+AGENT: Thank you for clarifying. So the address is 1 1 5 9 0 1 Frederick Avenue. Is that correct? <emotion value="peaceful"/>
+CALLER: No. It's no. It's one five nine zero one Frederick Avenue.
+AGENT: Okay, I found the pickup address as 1 5 9 0 1 Frederick Road, Woodbine, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: This hey. This is Joe with now. Rock Rockville Rockville man. Okay.

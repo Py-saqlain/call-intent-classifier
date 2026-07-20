@@ -1,0 +1,7 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Michael Hickman?
+CALLER: Yes.
+AGENT: Thanks, Michael. This is Barwood & Regency. Vehicle 1005 has arrived at your pickup location. How can I assist you today?
+CALLER: Agent.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.

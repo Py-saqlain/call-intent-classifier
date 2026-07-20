@@ -1,0 +1,15 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Duck Donald?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: No.
+AGENT: Thank you for letting me know. May I ask who I’m speaking with today? You can also tell me if you want me to list the names I have on this number.
+CALLER: Agent
+AGENT: I have a few profiles on this number. Could you please tell me your name so I can find your profile? The names I have here include Lambert Okoro, Peete Anthony, Everett Eva, Marian Floyd, Maria Aguilara, Eric Hearn, Flori Liss, Florette Rhoden, Clifton, Duck Donald, Ruby Watson, Charles Bailey, George Richmond, and Stuart Goins. Which one are you?
+CALLER: Agent.
+AGENT: I want to make sure I connect you to the right person. Could you please tell me your name? If you prefer, I can list the names I have on this number again.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Metro access.
+AGENT: I’m here to help with your ride. Could you please tell me your name so I can find your profile? If you want, I can also list the names I have on this number for you.
+CALLER: Metro access.
+CALLER: Metro Access.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

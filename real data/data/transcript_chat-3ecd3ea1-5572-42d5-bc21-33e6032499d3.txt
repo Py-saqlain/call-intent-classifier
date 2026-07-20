@@ -1,0 +1,34 @@
+AGENT: Hello Romane, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like to reserve a cap please
+AGENT: I'd be happy to help you reserve a cab. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit.
+AGENT: Thank you, I have your payment method as credit card. I'll proceed with your reservation now.
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: One one eight four eight Farmland Drive.
+AGENT: I have the pickup address as one one eight four eight Farmland Drive, Rockville, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Data support.
+AGENT: I found several locations related to "Data support":
+
+1. AZ Computer Services LLC at 132 Tulip Drive, Gaithersburg, Maryland
+2. designDATA at 610 Professional Drive, Suite 102, Gaithersburg, Maryland
+3. Sky Data Vault at 1 Research Court, Suite 450, Rockville, Maryland
+4. Dataprise at 9600 Blackwell Road, 4th floor, Rockville, Maryland
+5. I.T. Help For All, LLC at 11740 Othello Terrace, Germantown, Maryland
+
+Which one would you like to use as your dropoff address?
+CALLER: No. None. It's Dallas airport.
+AGENT: Just to confirm, you mean Washington Dulles International Airport in Virginia, right?
+CALLER: Yes.
+AGENT: I have the dropoff address as one Saarinen Circle, Dulles, Virginia. Is that correct?
+CALLER: Me.
+AGENT: Just to be sure, did you mean to say "yes" that the dropoff address is one Saarinen Circle, Dulles, Virginia?
+CALLER: I want to go to the Dallas Airport.
+AGENT: Thank you for confirming. The dropoff address is one Saarinen Circle, Dulles, Virginia. Is that correct?
+CALLER: I don't know.
+AGENT: No problem. To clarify, Dallas Airport is often a mishearing for Dulles Airport here. If you want to go to Washington Dulles International Airport, the address is one Saarinen Circle, Dulles, Virginia. Does that sound right for your destination?
+CALLER: Talk to a representative.
+AGENT: I can help with your reservation details — would you like to continue?
+CALLER: No. To a representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

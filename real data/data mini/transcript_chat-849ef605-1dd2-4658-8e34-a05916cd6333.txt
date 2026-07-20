@@ -1,0 +1,15 @@
+AGENT: Hello devira, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to speak to a live person but I have to make an update
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: I don't know what you're saying. What?
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: I no. I need I need to set up a pickup, which they told me wasn't I called in on Friday to give enough time. And now I don't have anything working. And I need to get somebody to talk to to get me a cab at 08:00 on Tuesday morning in my home, and I have to give all that information we're going to the hospital complex on Prince Philip Drive, and I I need change the number. They sent us a thing in changed the place where we had to go. We were supposed to go to 18101, but now they want us to go to the across the street to eighteen one zero nine. That make any sense?
+CALLER: Hello? Hello? Hello? What are they telling you?
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and
+CALLER: Hello?
+AGENT: Alright, how would you like to pay for your
+CALLER: Is this is this the live agent Is this the live agent? Hello? Can you hear me?
+AGENT: I’m here to help with your payment method for the ride. How would you like to pay today? We accept cash,
+CALLER: I need I need to speak to a live person Please
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Customer service. Thank

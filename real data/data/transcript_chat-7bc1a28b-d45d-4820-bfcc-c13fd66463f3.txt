@@ -1,0 +1,43 @@
+AGENT: Hello Michael, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes I'd like to reserve a trip please
+AGENT: Great! How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, I have your payment method as credit card.
+AGENT: Could you please provide the pickup address for your trip?
+CALLER: Nine thousand Rockville Pike nih building ten. South entrance
+AGENT: I found a few locations related to NIH Building 10 South Entrance near 9000 Rockville Pike in Bethesda, Maryland. Here are the options:
+
+1. National Institutes of Health South Drive Entrance at Old Georgetown Road and South Drive, Bethesda
+2. National Institutes of Health at 9000 Rockville Pike, Bethesda
+3. NIH Visitor Vehicle Inspection Station at 9000 Rockville Pike, Bethesda
+
+Which one would you like to use for your pickup?
+CALLER: Can you repeat those options, please?
+AGENT: Certainly! Here are the options again:
+
+1. National Institutes of Health South Drive Entrance at Old Georgetown Road and South Drive, Bethesda
+2. National Institutes of Health at 9000 Rockville Pike, Bethesda
+3. NIH Visitor Vehicle Inspection Station at 9000 Rockville Pike, Bethesda
+
+Which one would you like to use for your pickup?
+CALLER: Number two.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Twenty eight zero three Aquarius Avenue, Silver Spring, Maryland two zero nine zero six.
+AGENT: I have the dropoff address as two eight zero three Aquarius Avenue, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Michael. I will now proceed with your trip reservation.
+AGENT: When would you like to be picked up?
+CALLER: Right now.
+AGENT: Thanks, I've set your pickup time for right now. How many passengers will be traveling, including yourself? Also, will anyone need a wheelchair-accessible vehicle?
+CALLER: Okay. One passenger and I'm blind.
+AGENT: Thank you for letting me know. Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: The estimated fare for your trip is 26 dollars, and you will be paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just your one-way trip. Should I go ahead and book it now?
+CALLER: Yes, please.
+AGENT: Thank you, I am booking your trip now.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 7 9 7 7 7. Your pickup is today at 5:23 pm. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Michael. Have a wonderful day!

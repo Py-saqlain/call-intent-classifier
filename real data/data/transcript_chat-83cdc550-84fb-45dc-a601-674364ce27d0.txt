@@ -1,0 +1,44 @@
+AGENT: Hello Tharlene, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I like to book a new trip.
+AGENT: Thank you for choosing to book a new trip. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Columbia.
+AGENT: It sounds like you mentioned "Columbia," but I want to make sure I understand your payment method. Could you please tell me how you would like to pay for your ride? Cash, credit card, or Call and Ride?
+CALLER: Call the ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yeah.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three four three five three zero.
+AGENT: Thank you, your payment method is set to Call and Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Two zero four zero six Shore Harbor Drive,
+AGENT: I have 2 0 4 0 6 Shore Harbour Drive, Germantown, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Yes. The Safeway on Germantown Road in Germantown.
+AGENT: I found Safeway at 1 9 7 1 8 Germantown Road, Germantown, Maryland. Is that the correct dropoff location?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Tharlene. I will now proceed with the next steps.
+AGENT: When would you like to be picked up?
+CALLER: Now I'm ready.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just myself.
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+CALLER: Just myself. No. No.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: No. No.
+AGENT: The estimated fare for your trip is 8 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Within fifteen minutes.
+AGENT: How many passengers will be traveling on your return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Myself.
+AGENT: Will you be needing a wheelchair-accessible vehicle for your return trip?
+CALLER: No. No. No.
+AGENT: For your return trip, I have the pickup address as 1 9 7 1 8 Germantown Road, Germantown, Maryland, and the dropoff address as 2 0 4 0 6 Shore Harbour Drive, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 8 dollars, paying with your Call and Ride card. Should I go ahead and book both trips?
+CALLER: Yes.
+AGENT: Booking your trips now.
+AGENT: Your main trip is scheduled for today at 12:34 PM with confirmation number 2 1 3 6 6 9 3 7 8. Your return trip is scheduled for today at 12:45 PM with confirmation number 2 1 3 6 6 9 3 7 9. Is there anything else I can help you with?
+CALLER: That'll be all.
+AGENT: Thank you for calling Barwood & Regency, Tharlene. Have a wonderful day!

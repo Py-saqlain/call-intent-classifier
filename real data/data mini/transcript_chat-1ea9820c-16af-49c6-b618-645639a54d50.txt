@@ -1,0 +1,27 @@
+AGENT: Hello Allen, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like a taxi for tomorrow morning at 06:30AM.
+AGENT: Alright, how would you like to pay for your ride tomorrow morning at 6:30 am? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash cash is fine.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride tomorrow morning at 6:30 am? If you'd like, I can also use your home address at 5 5 2 1 Spruce Tree Avenue, Bethesda, Maryland. Would you like to be
+CALLER: Five five
+AGENT: Just to clarify, did you mean five five two one Spruce Tree Avenue in Bethesda, Maryland as your pickup address? <emotion
+CALLER: Yes.
+AGENT: Okay,
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Dulles Airport IAD
+AGENT: Okay, I found the dropoff address as Saarinen Circle, Sterling, Virginia. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Allen.
+AGENT: You mentioned you want to be picked up tomorrow at 6:30 am. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time set for tomorrow at 6:30 am. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One. No.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 62.5 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No, thank you.
+AGENT: Alright, I will skip the return trip. <emotion value="peaceful"/>
+AGENT: Your main trip is booked for tomorrow at 6:30 am. Your confirmation number is 2 1 3 6 7 3 8 0 0. Is there anything else I can help you with?
+CALLER: Good night.

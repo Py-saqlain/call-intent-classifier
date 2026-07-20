@@ -1,0 +1,33 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Patricia Thomas?
+CALLER: No.
+AGENT: Thank you for letting me know. May I ask who I’m speaking with today? Your name, please?
+CALLER: My my name is Darlene Kerr, k e r r.
+AGENT: Thanks, Darlene. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I am at Kaiser Permanente which is at six five five Watkins Mill Road, Gaithersburg,
+AGENT: Thank you for sharing
+CALLER: two zero eight seven nine And are you still there? Hello?
+AGENT: Yes, I’m here. How would you like to pay for your ride today?
+CALLER: Okay.
+AGENT: Could you please tell me how you would like
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+CALLER: Okay. I want to go
+AGENT: I have 6 5 5 Watkins Mill Road,
+CALLER: to to
+AGENT: Could you please clarify your destination address?
+CALLER: My destination address
+AGENT: Could you please tell me the full address or name of the place you want to go to?
+CALLER: is
+AGENT: I’m here to help. Could you please provide the full destination address or the
+CALLER: Asbury Methodist Village,
+AGENT: Thank you. Could you please provide the street number or any additional details for Asbury Methodist Village?
+CALLER: Three zero one Odin o d e n h a l l, Gaithersburg,
+CALLER: two zero eight seven seven.
+AGENT: Just to confirm, your destination is 3 0 1 Odenhall Road, Gaithersburg, Maryland 2 0 8 7 7, correct?
+CALLER: That's right.
+AGENT: I couldn't verify 3 0 1 Odenhall Road. The closest match I found is 2 0 1 Russell Avenue in Gaithersburg. Could you please confirm the correct street number for your destination?
+CALLER: Try three one o. Odinhall.
+AGENT: Just to confirm, your destination is 3 1 0 Odenhall Road, Gaithersburg, Maryland, correct?
+CALLER: I hope so. See if that pops up for you.
+AGENT: I wasn't able to find 3 1 0 Odenhall Road in Gaithersburg. Could you please double-check the street number or provide any other nearby landmark or cross street to help locate your destination?
+CALLER: I'm gonna have to hang up and find out I I can drive there practically with my eyes closed, but I cannot give you across street. Goodbye.

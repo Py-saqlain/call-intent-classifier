@@ -1,0 +1,37 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Annette.
+AGENT: Thanks, Annette. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I like to reserve a taxi for pickup.
+AGENT: Thank you, Annette. To get your taxi reservation started, may I ask how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you for choosing credit card as your payment method. I’m confirming that for you now.
+AGENT: Annette, could you please tell me the pickup address for your taxi?
+CALLER: 6801 Rockledge Drive in Bethesda,
+AGENT: I have 6 8 0 1 Rockledge Drive, Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Dallas Airport.
+AGENT: I have 1 Saarinen Circle, Dulles, Virginia as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Annette. I will now proceed with the next steps for your reservation.
+AGENT: Annette, when would you like to be picked up?
+CALLER: Today at 10:45.
+AGENT: Just to confirm, you would like to be picked up today at 10:45 AM, correct?
+CALLER: Yes
+AGENT: Thank you for confirming your pickup time at 10:45 AM today. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: one no wheelchair.
+AGENT: I have recorded 1 passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: Please let the guard gate know that you are there to pick up an employee who's returning to the airport.
+AGENT: Annette, the estimated fare for your trip is 62 dollars, and you will be paying with a credit card. Would you like to schedule a return trip as well?
+CALLER: No. Thank you.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your trip is scheduled for today at 10:45 AM. Your confirmation number is 2 1 3 6 7 9 2 0 7. Is there anything else I can assist you with?
+CALLER: Yes. Please repeat confirmation number.
+AGENT: The confirmation number for your trip is 2 1 3 6 7 9 2 0 7. Is there anything else I can help you with?
+CALLER: Yes. Please confirm confirmation number.
+AGENT: The confirmation number for your trip is 2 1 3 6 7 9 2 0 7. Is there anything else I can assist you with?
+CALLER: Who should I call if I don't get picked up?
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Will I get a text to let me know when the com when the taxi driver is on en route.
+AGENT: I can help with that information right now. Let me connect you to the trip status team who can provide details about notifications and your ride's progress.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

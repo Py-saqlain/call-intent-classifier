@@ -1,0 +1,43 @@
+AGENT: Hi Maynuna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to book a ride.
+AGENT: Thank you for letting me know. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Overnight.
+AGENT: I want to make sure I understand you correctly. Are you saying you want to pay with cash, credit card, or Call and Ride? Or did you mean something else by "overnight"?
+CALLER: Call and ride.
+AGENT: Great, for Call and Ride, could you please provide the last six digits of your Call and Ride card?
+CALLER: Three two five one six four.
+AGENT: Thank you, your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 15608 Marathon Circle.
+AGENT: I have 1 5 6 0 8 Marathon Circle, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One zero zero zero three. Fields Road. Gaithersburg, Maryland.
+AGENT: I have 1 0 0 0 3 Fields Road, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified. Thank you, Maynuna.
+AGENT: When would you like to be picked up?
+CALLER: Right now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+CALLER: One. One. And no
+AGENT: Thank you for confirming there is one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: And no
+AGENT: The estimated fare for your trip is 6 dollars, and you will be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: Great, I'll start collecting the details for your return trip.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: I'll call
+AGENT: For your return trip, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Will you be needing a wheelchair-accessible vehicle for your return trip?
+CALLER: No.
+AGENT: For your return trip, I have the pickup address as 1 0 0 0 3 Fields Road, Gaithersburg, Maryland, and the dropoff address as 1 5 6 0 8 Marathon Circle, Gaithersburg, Maryland. Is that correct?
+CALLER: Yeah.
+AGENT: The estimated fare for your return trip is 6 dollars, paying with your Call and Ride account. Should I go ahead and book both your main trip and return trip?
+CALLER: K.
+AGENT: I am booking both your main trip and return trip now.
+AGENT: Your main trip is scheduled for today at 6:20 AM with confirmation number 2 1 3 6 7 0 3 3 8. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 0 3 3 9. You can call back when you're ready for the return trip and a driver will be dispatched then. Is there anything else I can help you with?
+CALLER: So
+AGENT: Thank you for calling Barwood & Regency, Maynuna. Have a great day!

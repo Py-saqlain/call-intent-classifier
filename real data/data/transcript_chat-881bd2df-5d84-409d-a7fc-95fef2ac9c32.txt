@@ -1,0 +1,60 @@
+AGENT: Hi Kera, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi.
+AGENT: Alright, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: K.
+AGENT: Hmmm.. that didn't seem right, could you try again? How would you like to pay? Cash, credit card, or Call and Ride? <emotion value="apologetic"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your taxi? If you'd like, I can also use your home address at 1 2 4 0 0 Valleyside Way, Germantown, Maryland. Would you like to be picked up from there? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I have your pickup confirmed at 1 2 4 0 0 Valleyside Way, Germantown, Maryland. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: PNC Bank.
+AGENT: I found a few PNC Bank locations. 
+Option one: 7 0 2 Russell Avenue, Gaithersburg, Maryland. 
+Option two: 1 4 9 4 5 Shady Grove Road, Rockville, Maryland. 
+Option three: 3 6 9 Hungerford Drive, Rockville, Maryland. 
+Which one would you like to go to? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Germantown.
+AGENT: Thank you. So you want to go to the PNC Bank at 7 0 2 Russell Avenue, Gaithersburg, Maryland? <emotion value="peaceful"/>
+CALLER: Germantown, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I found a PNC Bank at 1 3 0 7 4 Middlebrook Road, Germantown, Maryland. Is that the place you want to go? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Your pickup address has also been verified. Thank you, Kera.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: It's a round trip. And I wanna get picked up now.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One more person.
+AGENT: Okay great! I've got 2 passengers noted. Will anyone be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 7.5 dollars, paying with Self. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Great, I'll start collecting the return trip details now.
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Immediately.
+AGENT: The return trip pickup time must be at least 10 minutes after your main trip pickup time, which is today at 4:48 PM. Could you please provide a valid return pickup time, or would you prefer to just book a one-way trip instead? <emotion value="hesitant"/>
+CALLER: 05:00.
+AGENT: Just to confirm, you mean 5:00 PM for your return trip pickup time? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thank you for confirming 5:00 PM. Now, for your return trip, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. And no.
+AGENT: For your return trip, I have the pickup at 1 3 0 7 4 Middlebrook Road, Germantown, Maryland, and the dropoff at 1 2 4 0 0 Valleyside Way, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 8.5 dollars, paying with Self. Should I go ahead and book both trips for you? <emotion value="peaceful"/>
+CALLER: Paying with cash.
+AGENT: Just to confirm, would you like to update the payment method for your main trip, or use cash for the return trip only? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Alright, for your return trip, how would you like to pay? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+AGENT: Take
+CALLER: Cash.
+AGENT: Alright, the payment method has been updated to cash. The estimated fare for your return trip is 8.5 dollars, paying with cash. Should I go ahead and book both trips for you? <emotion value="peaceful"/>
+AGENT: Alright, the estimated fare for your return trip is 8.5 dollars, paying with Self. Should I go ahead and book both trips for you? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so <break time="250ms"/> I'm booking both trips for you now.
+AGENT: Thank you for your patience. I'm booking both your main and return trips now.
+AGENT: Your main trip is confirmed with the number 2 1 3 6 7 7 2 8 6, scheduled for today at 4:48 PM. Your return trip is confirmed with the number 2 1 3 6 7 7 2 8 7, scheduled for today at 5:00 PM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Kera. Have a wonderful day!

@@ -1,0 +1,23 @@
+AGENT: Hello Samuel, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Can I get a cup now?
+AGENT: How can I assist you with your ride today? Are you looking to book a trip or check on an existing one?
+CALLER: I wanna book a trip.
+AGENT: Thank you for letting me know you'd like to book a trip. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Gosh.
+AGENT: No rush at all. Take your time and let me know how you'd like to pay whenever you're ready.
+CALLER: I'm ready. Paid cash.
+AGENT: Thank you for choosing cash as your payment method.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: Is one nine seven one eight That's Safeway.
+AGENT: I have 1 9 7 1
+CALLER: Germantown.
+AGENT: I have 1 9 7 1 8 Germantown Road, Germantown, Maryland as your pickup address. Is that correct?
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide the
+CALLER: One nine seven one
+AGENT: To make sure I have it right, is your pickup address 1 9 7 1 Germantown Road, Germantown, Maryland?
+CALLER: No.
+AGENT: Could you please provide the full pickup address again, including the street
+CALLER: He said, wait for us. He Just wait for us. Yeah. Way thought. If we're thought,
+AGENT: I want to make sure I get your pickup address correctly. Could you please say the full street number and street name again slowly?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

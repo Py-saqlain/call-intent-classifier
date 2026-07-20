@@ -1,0 +1,28 @@
+AGENT: Hello Urmil, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello?
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Yes. I am going to Kevin John Shopping Center. I already called you for taxi.
+AGENT: I see you already have a trip booked with us. Would you like to check the status of that trip, cancel it, make any changes, or speak with a representative? <emotion value="peaceful"/>
+AGENT: I can connect
+CALLER: I I have caller. Right?
+AGENT: Just to clarify, are you asking if you already have a ride booked with us?
+CALLER: Zero two six five four nine.
+AGENT: Thanks for sharing those numbers. Are you providing a Call and Ride card number for payment, or is there something else you'd like to do with that?
+CALLER: I my pickup as a assistant 512 Beach Lane,
+AGENT: Okay, you want your pickup address to be 5 1 2 Beach Lane. Is that correct?
+CALLER: Time yes. Five one two Beach Law Lane, Potomac.
+AGENT: Thanks for confirming your pickup address as 5 1 2 Beach Lane, Potomac. When would you like your pickup time to be?
+CALLER: This is my pick pick pickup address. Nine five one two Beach Lane, Potomac.
+AGENT: Just to make sure I have it right, is your pickup address 9 5 1 2 Beach Lane, Potomac?
+CALLER: Yes.
+CALLER: And I have call and ride.
+AGENT: Alright, how would you like to pay? We accept cash, credit card, and Call and Ride. You mentioned Call and Ride—could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: I am going to shopping center, just CVS.
+AGENT: Thanks for letting me know your destination is CVS at the shopping center. Now, could you please provide the last six digits of your Call and Ride card so I can proceed with the payment? <emotion value="peaceful"/>
+CALLER: Yes. And how much time it will take please,
+AGENT: I don't have the trip duration information yet. Meanwhile, could you please provide the last
+CALLER: please?
+AGENT: Alright, how would you like to pay? We accept cash, credit card, and Call and Ride. You mentioned Call and Ride—could you please
+CALLER: I already called. I already called.
+AGENT: Hmmm.. that didn't seem right, could you please say the last six digits of your Call and Ride card again? <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

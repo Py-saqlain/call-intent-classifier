@@ -1,0 +1,28 @@
+AGENT: Hello, Libreda. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I like a cab at two research court.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Rockville. Calling them alright. Column light.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay so I've got that you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three three zero zero seven three.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Okay, so I found 2 West Court, Sterling, Virginia. Is that the correct dropoff address? <emotion value="peaceful"/>
+CALLER: No. No. 14939 Shady Grove Road.
+AGENT: Okay, so I found 1 4 9 3 9 Shady Grove Road, Rockville, Maryland. Is that the correct dropoff address? <emotion value="peaceful"/>
+CALLER: I'll put it over there. Yes.
+AGENT: Your dropoff address has been verified. Now, could you please tell me the pickup address? <emotion value="peaceful"/>
+CALLER: Okay.
+AGENT: Where should I pick you up from? <emotion value="peaceful"/>
+CALLER: Two research court.
+AGENT: I found 2 West Court, Sterling, Virginia. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Two research court. Rock Ville, Pretty hard to hear No. No. Two
+AGENT: Hmm, let me check that address again. You said two research court in Rockville, correct? <emotion value="hesitant"/>
+AGENT: Okay, I found a similar address: 4 Research Court, Rockville, Maryland. Is that the correct pickup address? <emotion value="hesitant"/>
+CALLER: no. 2 Research Court, Rockville. Yes.
+AGENT: Your pickup address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No. 2 Research Court.
+AGENT: I see you mentioned the address again, but right now I'm focusing on collecting your pickup time, number of passengers, wheelchair needs, and any driver notes. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Two two week. Two weeks. 2 Research Court.
+AGENT: Hmm, sorry, let me get that right. Did you mean a pickup in two weeks? If so, could you please tell me what time on that day you would like to be picked up? <emotion value="apologetic"/>

@@ -1,0 +1,7 @@
+AGENT: Hello Alexander, this is Ana from Barwood & Regency. Vehicle 1033 is on the way and should arrive in about 19 minutes, around 7:11 pm. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Since you said you're ready, may I ask if you want to book a new ride or check the status of an existing trip?
+CALLER: Check the status of the system trip.
+AGENT: Your current trip pickup was scheduled for 6:30 pm from 1 0 9 0 1 Georgia Avenue in Silver Spring, and your driver is expected to arrive around 7:11 pm. Would you like any other details?
+AGENT: Take your time. Just let me know when you're ready.

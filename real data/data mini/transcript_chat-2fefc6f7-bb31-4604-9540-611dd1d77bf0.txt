@@ -1,0 +1,18 @@
+AGENT: Hi Tracy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Oh, yes. Pickup. I pick him up at 10:00?
+AGENT: Just to clarify, are you looking to schedule a pickup for 10:00 AM today? Could you please confirm the pickup location and the destination?
+CALLER: Yes.
+AGENT: Thank you for confirming the pickup time at 10:00 AM. How would you like to pay for this ride? We accept cash, credit card, and Call and Ride.
+CALLER: Colorize. Take when the computer. Call and ride.
+AGENT: Just to make sure I understand correctly, did you mean you would like to pay using Call and Ride? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero eight seven seven five six.
+AGENT: Thank you, your payment with Call and Ride is all set. I will proceed with arranging your pickup at 10:00 AM.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: One nine seven eight five Crystal Rock Drive,
+AGENT: I have 1 9 7 8 5 Crystal Rock Drive, Germantown, Maryland as your pickup address. Is that correct?
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: No. No. No. No. No. No. No. It's 20 it's twenty one thousand
+AGENT: I want to make sure I have your dropoff address correctly. You mentioned "twenty one thousand." Could you please provide the full dropoff address including the street name

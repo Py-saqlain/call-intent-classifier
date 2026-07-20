@@ -1,0 +1,37 @@
+AGENT: Hi Paul, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a new trip.
+AGENT: Thank you for choosing us for your trip. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Colin Rod.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Six. Zero zero five.
+AGENT: Thank you, your payment with Call and Ride is all set.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: One one two zero one Georgia Avenue. Wheaton, Maryland.
+AGENT: I have 1 1 2 0 1 Georgia Avenue, Wheaton, Maryland as your pickup address. Is that correct?
+CALLER: Yes. Delivery destination 12305 Village Square Terrace. Rockville, Maryland.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+AGENT: Take your time. Just let me
+CALLER: Hello?
+AGENT: Take your time. Just let me know the destination address when you're ready.
+CALLER: 12305 Village Square Terrace.
+CALLER: Rockville, Maryland. Thank you.
+AGENT: I have 1 2 3 0 5 Village Square Terrace, North Bethesda, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Paul.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: What?
+AGENT: Your main trip pickup address is 11201 Georgia Avenue, Wheaton, Maryland. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger.
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle?
+CALLER: Then
+AGENT: Could you please clarify if you will need a wheelchair-accessible vehicle for your trip?
+CALLER: No. I will not need a wheelchair.
+AGENT: Thank you for letting me know. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 14.5 dollars, paying
+CALLER: Front of shore.
+AGENT: Your main trip is scheduled for today at 3:26 PM. The confirmation number is 2 1 3 6 6 9 6 5 2. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Paul. Have a great day!

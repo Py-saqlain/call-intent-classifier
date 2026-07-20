@@ -1,0 +1,23 @@
+AGENT: Hello William, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm making a car reservation.
+CALLER: A taxi reservation.
+AGENT: Alright, how would you like to pay for your taxi reservation? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I don't like really talking to a computer.
+AGENT: I understand, and I'm here to make this as easy and smooth
+CALLER: I'll pay when I get into testing.
+AGENT: Hmmm.. that didn't seem quite clear, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: I was gonna pay when I got in the taxi.
+AGENT: Okay, so I've got that payment noted as cash, since paying when you get in the taxi usually means cash. <emotion value="grateful"/>
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: One eight eight one three. Poppyseed Lane, Germantown, Maryland two zero eight seven four
+AGENT: Okay, let me check that address. One eight eight one three Poppy Seed Lane,
+CALLER: I would like to speak to an agent.
+CALLER: Hello? Hello?
+AGENT: I'm here and ready to help. Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: I just did one eight eight one three poppy seed Lane, Germantown, Maryland. Let me speak to an agent, please.
+AGENT: I will connect you to a live agent right away. Please hold for a moment.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I mean, I'm ready now to transfer me to a live agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you.

@@ -1,0 +1,72 @@
+AGENT: Hi Anna, this is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi, please.
+AGENT: Thank you for reaching out. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Yes, please.
+AGENT: Could you please tell me which payment method you would like to use: cash, credit card, or Call and Ride?
+CALLER: Well and dry.
+AGENT: I want to make sure I understand you correctly. Did you mean to pay with cash?
+CALLER: Colon, dry.
+AGENT: It sounds like you might be saying Call and Ride. Is that correct? If so, I will ask for the last six digits of your Call and Ride card.
+CALLER: Yes. Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes. Yes. Oh, yeah. Well, I do. Yeah. Zero nine one three one. Zero zero nine one three one.
+AGENT: Thank you for providing your Call and Ride card details. Your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Yes.
+AGENT: Thank you. Could you please provide the full pickup address including the street number and street name?
+CALLER: Yes. Yeah. Seven four zero one
+AGENT: Thank you for the street number seven four zero one. Could you please tell me the street name and city for the pickup address?
+CALLER: Yeah. Seven four zero one Seven four nine five yeah, Westlake
+AGENT: Just to clarify, is the pickup address seven four zero one Westlake Terrace in Bethesda, Maryland?
+CALLER: Let me see. Westlake Terrace.
+AGENT: Take your time. Just let me know when you are ready to confirm the pickup address.
+CALLER: Yeah. Yeah. But there is that.
+AGENT: Thank you. So the pickup address is seven four zero one Westlake Terrace, Bethesda, Maryland. Is that correct?
+CALLER: Yeah. See. Yes. Yes.
+AGENT: I have seven four zero one Westlake Terrace, Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. Mhmm.
+AGENT: Could you please tell me the destination or dropoff address for your ride?
+CALLER: Yes. Mhmm. Yeah. If one two one seven It's in Rockville.
+AGENT: Thank you for the street number one two one seven. Could you please tell me the street name and confirm that it is in Rockville?
+CALLER: Yeah. It's I I spelling for you. It's b r o a d I think it's I. O o c d. I It's in a Brooke Broadway Broadway Drive,
+AGENT: Thank you for the details. Just to confirm, is the dropoff address one two one seven Broadway Drive, Rockville, Maryland?
+CALLER: Trop team. Trop team. Yes. Yes.
+AGENT: I wasn't able to find one two one seven Broadway Drive in Rockville, Maryland. Could you please confirm the street name or provide any nearby landmarks or cross streets to help identify the dropoff address?
+CALLER: I only saw this b r o a d at I think it's I didn't see RW. W. O o d.
+AGENT: Thank you for the clarification. Just to confirm, is the street name Broadwood Drive in Rockville, Maryland?
+CALLER: Yeah. Sorry. Yes. Yeah. Maryland.
+AGENT: I have one two one seven Broadwood Drive, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. Yes, please.
+AGENT: Your dropoff address has been verified, Anna. I will now proceed with arranging your trip.
+AGENT: When would you like to be picked up?
+CALLER: Now. Now. I'm ready.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Only No. No. Not today.
+AGENT: Thank you for letting me know no wheelchair is needed. How many passengers will be traveling, including yourself?
+CALLER: Only me today. Only me today. No. Not
+AGENT: Thank you. Will you have any special instructions or notes for the driver?
+CALLER: yes. Yes. Yes.
+AGENT: Please tell me the special instructions or notes you have for the driver.
+CALLER: No. No.
+AGENT: The estimated fare for your trip is 18.5 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: Like, 05:00.
+AGENT: Just to clarify, are you asking to schedule a return trip around 5:00 pm?
+CALLER: Or four four 05:00 is fine.
+AGENT: Thank you for confirming 5:00 pm for the return trip. I will start collecting the return trip details now.
+AGENT: When would you like to be picked up for your return trip?
+CALLER: Yes. 5PM. Yes. Yes. Yes. Now.
+AGENT: Your return trip pickup time is set for today at 5:00 PM. How many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: 5PM. Myself. No. No. No. Myself. Not today. I have to came.
+AGENT: For your return trip, I have the pickup address as one two one seven Broadwood Drive and the dropoff address as seven four zero one Westlake Terrace. Is that correct?
+CALLER: Yes. Yes. Yes. Thank you.
+AGENT: The estimated fare for your return trip is 18.5 dollars, paying with your Call and Ride account. Should I go ahead and book both your main and return trips?
+CALLER: Yeah. It's I pay with the call and ride.
+AGENT: Thank you for confirming that you want to book both trips and pay with your Call and Ride account. I am now booking your rides.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 9 4 5 3, scheduled for today at 1:20 PM. Your return trip is also booked with confirmation number 2 1 3 6 6 9 4 5 4, scheduled for today at 5:00 PM. Is there anything else I can help you with?
+CALLER: No. No. No. How long I have to wait?
+AGENT: I don't have the exact wait time right now, but your driver will be dispatched shortly for your main trip. If you'd like, I can connect you to someone who can provide the current status and estimated arrival time. Would you like me to do that?
+CALLER: Yes. Yes, please. Will go into the lobby right now.
+CALLER: Screen waiting downstairs.
+AGENT: I'm connecting you now to a customer service representative who can provide your driver's current status and estimated arrival time. Please stay on the line.

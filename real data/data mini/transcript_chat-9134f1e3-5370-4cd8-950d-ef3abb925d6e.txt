@@ -1,0 +1,7 @@
+AGENT: Hi Khianna, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Portary.
+AGENT: Uhh, could you please clarify what you mean by "Portary"? Are you looking to book a ride, check a trip status, or something else?
+CALLER: Hello? Yeah. Please can you Yes.
+AGENT: Okay, I’m here to help. Are you looking to book a ride, check on a trip,
+CALLER: Okay. I'll it. Thank you.

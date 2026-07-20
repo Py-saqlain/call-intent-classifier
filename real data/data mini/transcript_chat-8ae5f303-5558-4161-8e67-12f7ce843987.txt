@@ -1,0 +1,9 @@
+AGENT: Hello Tselot, this is Ana with Barwood & Regency. Your trip is scheduled for pickup today at 11:44 AM. How can I assist you today?
+CALLER: Please connect me to the customer service.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Please cancel my research and please cancel it.
+AGENT: I can take care of that for you.
+AGENT: Hmm <break time="300ms"/> I see one trip on your account. <break time="700ms"/> Trip one: pickup at 7 2 1 Beacon Road in Silver Spring at 11:44 am going to 18 Observation Court in Germantown. <break time="500ms"/> Would you like me to cancel this trip?
+CALLER: Now please cancel it. It. I don't know if it's canceled. I can't cancel my program.
+AGENT: Okay so <break time="200ms"/> that trip has been cancelled for you. Is there anything else I can help you with?
+CALLER: Me with the comparison customer service.

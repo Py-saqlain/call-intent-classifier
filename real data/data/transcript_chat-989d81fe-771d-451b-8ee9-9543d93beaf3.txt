@@ -1,0 +1,29 @@
+AGENT: Hello Janette, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. The name is Kimberly Johnson. And I need to call them by pickup.
+AGENT: Could you please clarify what you mean by "call them by pickup"? Are you looking to book a ride for Kimberly Johnson with a specific pickup address, or do you want to activate a will-call trip for pickup? Let me know how I can assist you with Kimberly's ride.
+CALLER: Calling right. No. I want I need to give you my address.
+AGENT: Thank you for clarifying. Please go ahead and tell me your pickup address when you're ready.
+CALLER: It's five zero three Blandford Street,
+AGENT: Thank you for sharing your pickup address at 5 0 3 Blandford Street. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Calling by Calling by.
+AGENT: Just to make sure I understand correctly, did you mean you want to pay with Call and Ride? If so, could you please provide the last six digits of your Call and Ride card? If you meant a different payment method, please let me know.
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card? This will help me verify your payment.
+CALLER: three four zero zero one five.
+AGENT: Thank you, your payment with Call and Ride is all set.
+AGENT: I have the pickup address as 5 0 3 Blandford Street, Rockville, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 101st Street, Rockville, Maryland two zero eight five one.
+AGENT: Thank you for the dropoff address at 1 0 1 s t Street, Rockville, Maryland. Is that correct?
+CALLER: Say it again.
+AGENT: You said 1 0 1 s t Street, Rockville, Maryland. Is that correct?
+CALLER: No. It's one hundred first Street. Rockville, Maryland.
+AGENT: I have the dropoff address as 1 0 0 First Street, Rockville, Rockville, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Janette. I will now proceed with the next steps for your trip.
+AGENT: When would you like to be picked up?
+CALLER: Now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Will you be needing a wheelchair-accessible

@@ -1,0 +1,38 @@
+AGENT: Hi Mike, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi. Man.
+AGENT: I can help you with that. Could you please tell me where you would like to be picked up?
+CALLER: Eighteen seven one five North Frederick Avenue, Gaithersburg, Maryland.
+AGENT: Thank you for the pickup address. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three zero six six three six.
+AGENT: Thank you, your payment with Call and Ride is all set.
+AGENT: I have 1 8 7 1 5 North Frederick Avenue, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 19851. Observation Drive in Germantown, Maryland.
+AGENT: Thank you for the dropoff address. I will confirm it for you.
+AGENT: I have 1 9 8 5 1 Observation Drive, Germantown, Maryland as your dropoff address. Is that correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Mike. I will now proceed with your booking.
+AGENT: When would you like to be picked up?
+CALLER: At one forty. PM. Today.
+AGENT: I have your pickup time as today at 1:40 PM. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Two and no.
+AGENT: Thank you. Will you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 11 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: Great, I will start collecting the details for your return trip.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Will call.
+AGENT: Your return trip is recorded as a will-call trip. How many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Two and no.
+AGENT: For your return trip, I have the pickup address as 1 9 8 5 1 Observation Drive, Germantown, Maryland, and the dropoff address as 1 8 7 1 5 North Frederick Avenue, Gaithersburg, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: The estimated fare for your return trip is 12 dollars, paying with your Call and Ride card. Should I go ahead and book both your main trip and return trip now?
+CALLER: Yes.
+AGENT: Booking your trips now.
+AGENT: Your main trip is scheduled for today at 1:40 pm with confirmation number 2 1 3 6 7 9 4 7 4. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 9 4 7 5. You can call back when you're ready for the return trip, and a driver will be dispatched then. Is there anything else I can help you with?
+CALLER: No. No, man.
+AGENT: Thank you for calling Barwood & Regency, Mike. Have a great day!

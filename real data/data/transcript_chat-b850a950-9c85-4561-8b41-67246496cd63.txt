@@ -1,0 +1,61 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Ricky Jones.
+AGENT: Thanks, Ricky. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a I need to get a ride.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: And that I have a debit card
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: It's hold on a minute. It's is Holy Cross
+AGENT: Thank you. Could you please provide the full street address or a nearby cross street for Holy Cross? That will help me find the exact pickup location. <emotion value="peaceful"/>
+CALLER: Germantown.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found Holy Cross Health Partners at Asbury Methodist Village, 2 0 1 Russell Avenue, Gaithersburg, Maryland. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: Hold on. No. No. No.
+AGENT: Okay, no problem. Could you please tell me the correct pickup address again? <emotion value="apologetic"/>
+CALLER: No. Yes. One ninety eight zero one one nine eight
+AGENT: Thank you. Just to confirm, is your pickup address 1 9 8 0 1 1 9 8? Could you please provide the street name and city as well? <emotion value="peaceful"/>
+CALLER: One ninety eight zero one. Observation Road,
+AGENT: Thank you. Let me check that address for you. <emotion value="peaceful"/>
+AGENT: Okay, I found 1 9 8 0 1 Observation Drive, Germantown, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: No. It's one nine eight zero
+AGENT: Okay, just to be sure, you said the street number is one nine eight zero. Could you please provide the full street name and city again? <emotion value="apologetic"/>
+CALLER: Yes. That's correct.
+AGENT: Thank you for confirming. Could you please provide the full street name and city for the pickup address with the number one nine eight zero? <emotion value="peaceful"/>
+CALLER: It's not it's one nine eight zero one.
+AGENT: Thanks for clarifying. So the street number is one nine eight zero one. Could you please tell me the full street name and city for that address? <emotion value="peaceful"/>
+CALLER: Observation Drive, Germantown, Maryland.
+AGENT: Okay, I have 1 9 8 0 1 Observation Drive, Germantown, Maryland. Is that correct for your pickup address? <emotion value="peaceful"/>
+CALLER: No. No. 1908 Observation Road, I mean, Observation Road,
+AGENT: Okay, thank you for the correction. Let me check 1 9 0 8 Observation Road for you. <emotion value="peaceful"/>
+AGENT: Okay, I found 1 9 0 8 Observation Drive, Germantown, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: No. It's not.
+AGENT: I understand. Could you please tell me the correct destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Let's start over.
+AGENT: Just to confirm, would you like to cancel the current booking and start over with a new ride? <emotion value="hesitant"/>
+CALLER: Pickup address.
+AGENT: Thank you for letting me know. Since your pickup address is already collected, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: No. Let's start back over with the pickup address.
+AGENT: Just to confirm, you want to cancel the current booking and start fresh with a new pickup address? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Alright, let's start fresh. Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: One nine eight zero one observation Road, Germantown, Maryland.
+AGENT: Okay, let me check 1 9 8 0 1 Observation Road, Germantown, Maryland for you. <emotion value="peaceful"/>
+AGENT: Okay, I found 1 9 8 0 1 Observation Drive, Germantown, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Is observation load
+AGENT: Okay, just to be sure, you said Observation Road, not Drive. Let me check 1 9 8 0 1 Observation Road, Germantown, Maryland for you. <emotion value="peaceful"/>
+AGENT: I see the system found 1 9 8 0 1 Observation Drive, Germantown, Maryland. Is that the correct pickup address, or did you mean something else? <emotion value="peaceful"/>
+CALLER: It's road. It's not drive. It's road.
+AGENT: Thank you for clarifying that the street is Observation Road, not Drive. Let me look up 1 9 8 0 1 Observation Road, Germantown, Maryland again for you. <emotion value="peaceful"/>
+AGENT: I couldn't find 1 9 8 0 1 Observation Road in Germantown, Maryland. Could you please double-check the street number or provide a nearby landmark or cross street? <emotion value="apologetic"/>
+CALLER: That's correct.
+AGENT: Just to be sure, you mean 1 9 8 0 1 Observation Road, Germantown, Maryland, and you want to use that as your pickup address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found a few locations on Observation Road in Germantown, Maryland.  
+Option one: 1 9 8 5 1 Observation Drive, Suite 4 5 5.  
+Option two: 1 9 8 5 1 Observation Drive, Suite 3 1 5.  
+Option three: 2 0 4 1 0 Observation Drive, Suite 2 1 0.  
+Option four: 2 0 4 1 0 Observation Drive, Suite 2 0 3.  
+Which one is the correct pickup location? <emotion value="peaceful"/>

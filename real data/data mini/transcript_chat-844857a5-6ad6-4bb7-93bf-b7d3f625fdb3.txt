@@ -1,0 +1,13 @@
+AGENT: Hello Mija, this is Ana from Barwood & Regency. The driver is at your location now. How can I assist you today?
+CALLER: Yeah. I'm with, uh, cost Costco.
+AGENT: Uhh, okay. Are you looking to book a ride to or from Costco, or is there something else I can help you with today? <emotion value="peaceful"/>
+AGENT: Looks like you already have a trip from Gaithersburg to Rockville at 11:45 am today. What would you
+CALLER: Hello? What kind of things do over here cost the car?
+CALLER: I am $12.30.
+AGENT: I can take care of the payment details right now — want to keep going?
+CALLER: I'm with a coffin Costco cake burger. I'm the job of 12 or 30. From my home 1441 Garden Circle, Las Vegas 20850.
+AGENT: Looks like you already have a trip from Gaithersburg to Rockville at 11:45 am today. What would you like to do?
+CALLER: No. I'm changing the credit study.
+CALLER: Yeah Hello?
+AGENT: I understand you'd like to modify your trip. Trip modifications need to be handled by a live agent. Let me connect you with someone who can help.
+CALLER: I'm I'm

@@ -1,0 +1,10 @@
+AGENT: Hi Susan, this is Ana from Barwood & Regency. Your pickup is scheduled for today at 2:30 PM. How can I assist you today?
+CALLER: Can I get it earlier?
+AGENT: Uhh, could you please tell me which ride or pickup time you're referring to that you'd like to get earlier? <emotion value="hesitant"/>
+CALLER: 02:30PM.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Agent, please
+CALLER: Hello?
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: Transfer me, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,32 @@
+AGENT: Hi Amy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yep. Pickup at 20141 Century Germantown.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so I found 20141 Century Boulevard, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+Your pickup address has been verified. Could you please provide the dropoff address? <emotion value="peaceful"/>
+CALLER: Eight five zero one Snorfer School Road, Gaithersburg, Maryland two zero eight seven nine.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 8 5 0 1 Snouffer School Road, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Just to clarify, did you mean you want to be picked up right now, or would you prefer a will-call trip where you call back when you're ready? <emotion value="hesitant"/>
+CALLER: No.
+AGENT: Could you please let me know if you want a pickup right now or if you prefer to call back later when you’re ready? <emotion value="hesitant"/>
+CALLER: Pick up now.
+AGENT: Okay great! I've got your pickup time as right now, today at 10:46 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Just to make sure I understand, will there be no passengers traveling, or did you mean something else? Could you please tell me how many passengers will be riding and if anyone needs a wheelchair-accessible vehicle?
+CALLER: Just one person. One person.
+AGENT: Okay great! I've got one passenger. Will you need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Okay, no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, so let me confirm those details. Your pickup is 2 0 1 4 1 Century Boulevard. Your dropoff is 8 5 0 1 Snouffer School Road. Pickup time is 10:46 AM. You have one passenger, no wheelchair needed. The estimated fare is 21 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 10:46 AM. Your confirmation number is 2 1 3 6 7 0 5 3 9. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Amy. Have a wonderful day!
+CALLER: Bye

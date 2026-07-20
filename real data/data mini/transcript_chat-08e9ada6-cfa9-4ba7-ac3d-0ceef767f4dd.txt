@@ -1,0 +1,13 @@
+AGENT: Hello jackson, this is Ana from Barwood & Regency. Your ride is scheduled for pickup today at 10:00 AM. How can I assist you today?
+CALLER: I need to speak to an agent.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: I'm supposed to have a pickup at 08:30AM. Today.
+AGENT: Hmm, let me check on that for you. Uhh, it looks like your pickup at 8:30 am today is active but no driver has been assigned yet. I'll keep you posted. Is there anything else I can check for you? <emotion value="peaceful"/>
+CALLER: Where what is the pickup address?
+AGENT: Your pickup address is 2 3 0 2 Glenmont Circle in Silver Spring. Anything else? <emotion value="peaceful"/>
+CALLER: No. I need to call back at for the eight thirty Call me for the 08:30 when the taxi's here.
+AGENT: I understand you want to call back at 8:30 am and have the taxi dispatched then. I'll make a note of that for you. If you need anything else, just let me know.
+AGENT: I can't reach the driver directly, but I can connect you with a representative who can help with your request about calling back at 8:30 am. Let me do that for you.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: No. No. No. No. I need to speak to somebody. No. I need to speak
+AGENT: I'm

@@ -1,0 +1,28 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Thanks for calling, Grasman. How can I assist you today?
+CALLER: I'd like to get a pickup on a cab as soon as possible.
+AGENT: Thanks for letting me know you'd like a pickup as soon as possible. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Nine nine zero five Medical Center Drive,
+AGENT: I have 9 9 0 5 Medical Center Drive, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: That's that's correct. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Eight six zero five Bells Mill Road in Potomac.
+AGENT: I have 8 6 0 5 Bells Mill Road, Potomac, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Mr. Grasman.
+AGENT: You mentioned you want to be picked up as soon as possible. Is that correct? Please say yes to confirm or let me know if you want a different pickup time.
+CALLER: Yes.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 21.5 dollars, paying with your own payment method. Would you like to schedule a return trip as well?
+CALLER: From as soon as possible. No.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your main trip is scheduled for today at 3:24 PM. Your confirmation number is 2 1 3 6 6 9 6 5 0. Is there anything else I can help you with?
+CALLER: No thank you
+AGENT: Thank you for calling Barwood & Regency, Grasman. Have a wonderful day!

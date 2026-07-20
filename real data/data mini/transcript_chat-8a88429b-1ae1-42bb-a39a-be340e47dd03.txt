@@ -1,0 +1,19 @@
+CALLER: Background solidar. Hello?
+AGENT: Uhh, hi there. How can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Do you know what is the pickup address? Hello?
+AGENT: Your home address on file is 2 3 6 0 6 Public House Road, Clarksburg, Maryland. Would you like to use this as your pickup
+CALLER: Yes. Yes.
+AGENT: Looks like you already have trips from Clarksburg to
+CALLER: Yes.
+CALLER: No. I am saying that I'm I I wanna cancel the ride for today.
+AGENT: I can take care of that for you.
+AGENT: I see two trips for
+CALLER: Okay. Both the side. Yes. Both the side.
+AGENT: I see two trips on your account.  
+Trip one: pickup at 2 3 6 0 6 Public House Road at 3:00 pm going to Germantown.  
+Trip two: pickup at 2 0 1 1 1 Century Boulevard at 7:30 pm going to Clarksburg.  
+Would you like me to cancel both of these trips for today? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay so those trips have been cancelled for you. Is there anything else I can help you with? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Nazrul. Have a great day!

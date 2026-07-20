@@ -1,0 +1,5 @@
+AGENT: Hello James, this is Ana with Barwood & Regency. Vehicle 207 is on the way and should arrive for your pickup in about 8 minutes at 3:19 pm. How can I assist you today?
+CALLER: Okay. Thank you.
+AGENT: [functions.Close_Call]
+Thank you for calling. Have a great day!
+AGENT: Take your time. Just let me know when you're ready.

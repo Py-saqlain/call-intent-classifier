@@ -1,0 +1,16 @@
+AGENT: Hi Toya, this is Ana from Barwood & Regency. Your trip is scheduled for pickup today at 3:06 AM. How can I assist you today?
+CALLER: Careful trip.
+AGENT: Uhh, I want to make sure I understand you correctly. Are you looking to book a trip or do you need help with something else? <emotion value="peaceful"/>
+AGENT: Looks like you already have a trip from Clarksburg to Germantown at 3:06 am today. What would you like to do?
+CALLER: Kids
+AGENT: Hmm, I’m not sure I understand. Are you asking about passengers or something else related to your trip? Could you please clarify? <emotion value="hesitant"/>
+CALLER: Cancel.
+AGENT: I see one trip on your account. Pickup at 2 3 9 1 0 Catawba Hill Drive in Clarksburg at 3:06 am going to Richter Farm Road in Germantown. Would you like me to cancel this trip for you? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so that trip has been cancelled for you. Is there anything else I can help you with? <emotion value="grateful"/>
+CALLER: Yeah.
+AGENT: Hmm <break time="300ms"/> I don't see any other active trips on your account right now. What else can I help you with? <emotion value="peaceful"/>
+CALLER: Cancel.
+AGENT: Hmm <break time="300ms"/> I don't see any active trips to cancel on your account. Is there something else I can assist you with? <emotion value="apologetic"/>
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Toya. Have a wonderful day.

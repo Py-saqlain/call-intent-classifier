@@ -1,0 +1,74 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Aster?
+CALLER: Yes. Yes.
+AGENT: Thanks for confirming, Aster. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I want to go to Montgomery Paul. To Montgomeric Montgomery County. Mall Montgomery Mall. Democracy blue bot. So I would texting.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmmm.. that didn't seem right, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Call and ride. It is call and drive. Have call and ride card.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yes. Okay. Zero zero. Zero nine two three nine two.
+AGENT: Thank you, your Call and Ride payment is all set. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: One three one five Apple Avenue. Silver Springs, Maryland two zero nine one zero Silver Spring Maryland Two zero nine one zero ZIP code.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is one three one five Apple Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. You are right.
+AGENT: I found a location called Westfield Montgomery at 7 1 0 1 Democracy Boulevard, Bethesda, Maryland. Is that the place you want to go? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Aster.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Okay.
+AGENT: Could you please tell me the time you would like to be picked up? <emotion value="hesitant"/>
+CALLER: Okay. You know, do you send me the taxi just now?
+AGENT: I’m here to help with collecting your pickup time, passenger count, wheelchair needs, and any driver notes. Could you please tell me the time you would like to be picked up? <emotion value="peaceful"/>
+CALLER: I don't know. The time that the the driver come in my pickup address. Did you send it to did you send it maybe now? The time Are you going to send me now the taxi?
+AGENT: If you want the taxi to come right away, I can arrange that for you. Would you like me to book your pickup for right now? <emotion value="peaceful"/>
+CALLER: Hello? Yes. Okay. The pickup, I want just now.
+AGENT: Okay great! I've got your pickup time as right now. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: I have my eight knee.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. Did you mean you have eight passengers? That would be more than our vehicle capacity. Could you please tell me how many passengers will be traveling, including yourself, and if anyone needs a wheelchair-accessible vehicle? <emotion value="apologetic"/>
+CALLER: No. No. You know, we have two. Two. We are too. Me and my caregiver.
+AGENT: Okay great! I've got 2 passengers traveling. Will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Yes.
+AGENT: Okay great! I've noted that a wheelchair-accessible vehicle is needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: Nothing. We have the chasing a creature mobile, Speaking mobile.
+AGENT: Alright, the estimated fare is 26 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: It is $26 from here to go there with color and ride.
+AGENT: Yes, that's right. The estimated fare is 26 dollars, and you'll be paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yeah. Because returning back. You know? At eleven
+AGENT: Okay, so you'd like to schedule a return trip for 11 am. Let me start collecting the return trip details for you. <emotion value="peaceful"/>
+AGENT: What time would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Okay.
+AGENT: Could you please tell me the time you would like to be picked up for your return trip? <emotion value="hesitant"/>
+CALLER: In our, like, progress.
+AGENT: I'm sorry, I didn't quite catch that. Could you please tell me the specific time you want to be picked up for your return trip? <emotion value="hesitant"/>
+CALLER: Which is eleven.
+AGENT: Okay great! I've got your return trip pickup time as today at 11:00 AM. Alright, soo <break time="300ms"/> how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Yes.
+AGENT: Could you please tell me how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: Two.
+AGENT: Okay great! I've got 2 passengers for the return trip. Will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: That's it. Yeah. The the returning time is 11:30 thirty. 11:30 returning time.
+AGENT: Just to clarify, you want the return trip pickup time to be 11:30 AM instead of 11:00 AM? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay great! I've updated your return trip pickup time to today at 11:30 AM. Will anyone need a wheelchair-accessible vehicle for the return trip? <emotion value="grateful"/>
+CALLER: Yes. Yes. I I have. Yeah.
+AGENT: Okay, for your return trip, I have the pickup at 7 1 0 1 Democracy Boulevard and the dropoff at one three one five Apple Avenue. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 27 dollars, paying with Call and Ride. Should I go ahead and book both trips for you? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Thank you for your patience. I'm processing the booking for both your main and return trips now. Please hold on a moment.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 5 5 7 0, pickup today at 9:37 AM. Your return trip is also booked with confirmation number 2 1 3 6 7 5 7 1, pickup today at 11:30 AM. Is there anything else I can help you with?
+CALLER: Please send it on my text message.
+AGENT: I’m unable to send text messages directly, but you can call us anytime to get your confirmation details or assistance. Is there anything else I can do for you right now?
+CALLER: Fixed message. There's a combination there. There's a couple of formation. Time. I look at the confirmation the confirmation there tends to be the my text message. Okay. Thank you. Please send it send me now.
+AGENT: I understand you'd like the confirmation details sent to your text message. Unfortunately, I can't send texts directly, but if you call our number or use our app, you can access your booking information there anytime. Is there anything else I can assist you with?
+CALLER: I'm outside. Okay?
+AGENT: Thank you for letting me know you're outside. If you need a ride right now, I can help get a driver dispatched to your location immediately. Would you like me to do that?
+CALLER: Can you send it now, or I I have to wait?
+AGENT: I’m not able to send text messages directly from here. If you want, I can connect you to a live agent who might be able to assist with that. Would you like me to do that for you?
+CALLER: Yes. I'm waiting.
+AGENT: Connecting you now to a representative who can assist you further. Please hold for a moment.
+CALLER: Thank you. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Aster. Have a wonderful day.

@@ -1,0 +1,9 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm sorry? You need my name again?
+AGENT: Yes, please. I need your name so I can set up your profile and assist you with your ride. What name should I use for you?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Chelsea Collier. I am speaking. Please, you can just screen the automatic people, but I I I want to speak to someone
+AGENT: Thanks, Chelsea. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I called earlier concerning, uh, my lost telephone and I would like to have a response. I was told I would get a response by email. However, I have not received an email nor a return of my phone call.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

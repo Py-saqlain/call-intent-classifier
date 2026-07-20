@@ -1,0 +1,44 @@
+AGENT: Thank you for calling Barwood & Regency. May I have your name or phone number to find your profile?
+CALLER: Lintel.
+AGENT: Thanks, Lintel. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Miss Lynn Toll needs to be picked up from one five two two five Shady Grove Road.
+AGENT: Thank you for the pickup details. How would Miss Lynn Toll like to pay for the ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, the payment method is set to credit card.
+AGENT: I have the pickup address as one five two two five Shady Grove Road, Rockville, Maryland. Is that correct?
+CALLER: Yes. Suite 201.
+AGENT: The address with Suite 201 still resolves to one five two two five Shady Grove Road, Rockville, Maryland. Is that correct?
+CALLER: The address is 15225 Shady Grove Road, Rockville, suite two zero one.
+AGENT: The address including suite two zero one still resolves to one five two two five Shady Grove Road, Rockville, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Two nine one two
+AGENT: Thank you for the dropoff address number. Could you please provide the street name and city for the dropoff location?
+CALLER: Backtree Lane.
+AGENT: Could you please tell me the city and state for the dropoff address at two nine one two Backtree Lane?
+CALLER: Silver Spring.
+AGENT: I have the dropoff address as two nine one two Birchtree Lane, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Lintel. I will now proceed with the next steps.
+AGENT: When would you like Miss Lynn Toll to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including Miss Lynn Toll? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Will Miss Lynn Toll need a wheelchair-accessible vehicle?
+CALLER: She has a wheelchair.
+AGENT: Are there any special instructions or notes for the driver?
+CALLER: Yes. You need a wheelchair accessible vehicle.
+AGENT: The estimated fare for your trip is 26.5 dollars, and you will be paying with Self. Would you like to schedule a return trip as well?
+CALLER: Because she has a wheelchair. No. God.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 3:00 PM. The confirmation number is 2 1 3 6 6 4 7 8 8. Is there anything else I can help you with?
+CALLER: No. What time will they be here?
+AGENT: Your pickup is scheduled for 3:00 PM today. If you have any other questions or need assistance, just let me know.
+CALLER: Okay. When the person comes, can they come to 201? To get miss Lynn, please?
+AGENT: I want to make sure I understand correctly: should the driver come to apartment or room number 2 0 1 to pick up Miss Lynn?
+CALLER: Yes. I want the driver to come into two zero one to get miss Lynn.
+AGENT: Thank you for clarifying. I will add a note for the driver to come into apartment 2 0 1 to pick up Miss Lynn. Is there anything else you would like me to include or assist with?
+CALLER: It it is sweet 201, not apartment. Suite 201. It's the doctor's office, 201.
+AGENT: Got it. I will note that the driver should come into suite 2 0 1, the doctor's office, to pick up Miss Lynn. Anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Lintel. Have a wonderful day.

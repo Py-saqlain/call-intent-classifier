@@ -1,0 +1,10 @@
+AGENT: Hello, Brittney. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Taxi cancellation.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+CALLER: Customer service.
+CALLER: Hello?
+AGENT: Uhh, how can I assist you with your ride or booking today? <emotion value="peaceful"/>
+CALLER: I want to cancel a ride.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+CALLER: Can I speak to a representative?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

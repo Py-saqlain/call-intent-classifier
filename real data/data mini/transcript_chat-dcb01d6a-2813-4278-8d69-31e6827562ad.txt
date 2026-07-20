@@ -1,0 +1,7 @@
+AGENT: Hello Jhong, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Agent, please.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,24 @@
+AGENT: Hello Louis, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm calling for a taxi.
+AGENT: Okay, I can help you with that. Let me get some details to book your taxi. Where would you like to be picked up from? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Four Wait a minute. Credit card. Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your taxi? If you'd like, I can use your home address at 1 0 8 1 0 Connecticut Avenue, Kensington, Maryland. Would you like to be picked up from there? <emotion value="peaceful"/>
+CALLER: No. No.
+AGENT: Alright, could you please provide the full pickup address where you'd like the taxi to pick you up? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: I understand. If you prefer, you can tell me a nearby landmark or cross street to help identify your pickup location. Would that work for you? <emotion value="peaceful"/>
+CALLER: Wait a minute. Can't Can I speak with somebody? Because you just keep going running around May I speak with a a person?
+CALLER: Agent.
+CALLER: Agent.
+CALLER: Hello?
+AGENT: I am here to assist you. Please let me know the pickup address or how I can help you further. <emotion value="peaceful"/>
+CALLER: Can you transfer me to an agent?
+CALLER: A person, This is awful.
+AGENT: I can help with your booking details if you'd like — shall we continue? <emotion value="peaceful"/>
+CALLER: Agent, please. Please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: No. No. Let me have an agent. Listening
+AGENT: I'm
+CALLER: Listening Thank you.

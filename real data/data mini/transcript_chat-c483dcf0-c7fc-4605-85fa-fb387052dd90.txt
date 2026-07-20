@@ -1,0 +1,11 @@
+AGENT: Hello HUMPHEY, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi. Um, this is Judy. I'm calling from the public defender's office. We need a taxi to seven locks.
+AGENT: Hi Judy, thanks for letting me know. How would you like to pay for the
+CALLER: So so the this is isn't this a Regency?
+AGENT: Yes, this is Regency Taxi. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: We have ma'am, I'm calling from the office of the public defender. We have an account with you guys.
+AGENT: Thank you for letting me know about your account with us. Could you please confirm how you would like to pay for this ride? Is it through your account, or would you prefer cash, credit card, or Call and Ride?
+CALLER: Can I talk to a person, please?
+AGENT: I can take care of the payment details right now — want to keep going?
+CALLER: No. I need to talk to customer service.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

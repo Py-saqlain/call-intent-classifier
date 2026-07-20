@@ -1,0 +1,17 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Clementina Calderon?
+CALLER: Yes.
+AGENT: Thanks, Clementina. This is Ana from Barwood & Regency. Your ride with vehicle 562 is confirmed and will arrive by 1:45 pm, about 50 minutes from now. How can I assist you today?
+CALLER: I want to know what is coming my eye.
+AGENT: Uhh, I can help you check on your ride status and when your driver will arrive. Let me get that information for you.
+AGENT: Okay, so your driver is about 3 minutes away and will pick you up at 1:42 pm from 19851 Observation Drive in Germantown. Anything else?
+CALLER: When you say 149? PM,
+AGENT: I said 1:42 pm, the scheduled pickup time for your ride. Does that work for you?
+CALLER: Yes. Yes. I I wanna back my home. It's one three five hundred.
+AGENT: Just to confirm, you want a ride back to your home at 1 3 5 0 0 Derry Glen Court in Germantown, correct?
+CALLER: Okay. And, yeah, waiting again. One night eight five one Observation Drive.
+AGENT: So you want to be picked up again at 1 9 8 5 1 Observation Drive in Germantown for your return trip home, is that right?
+CALLER: Yes. Yes. They yes.
+AGENT: Looks like you already have a trip from 1 9 8 5 1 Observation Drive to 1 3 5 0 0 Derry Glen Court at today 1:42 pm. What would you like to do?
+CALLER: Yes. Yeah. I wanna back my home.
+AGENT: I'm connecting you now to a customer service representative. Please stay on the line.
+CALLER: Just in case, could you please please cancel?

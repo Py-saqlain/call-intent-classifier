@@ -1,0 +1,12 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Yes. My name is Priscilla. I need a handicap car for my client.
+AGENT: Thank you, Priscilla. This is Ana from Barwood & Regency. How can I assist you with arranging the handicap car today?
+CALLER: Yes. The person is in what's the name? Okay. You know what? See see I'm working my friend is working there right now. So I'm giving the number right now to her to call you right now because they need a ride on Monday. If Monday, two 02:00 is available. Yeah. 01:30 between 01:32 if the car will be available.
+AGENT: Thank you for the information, Priscilla. To help with the booking, may I ask how you would like to pay for the ride? We accept cash, credit card, and Call and Ride.
+CALLER: Yep.
+AGENT: Could you please let me know which payment method you would like to use: cash, credit card, or Call and Ride?
+CALLER: Okay. You know what? Let me call, and they'll get back I I don't know the the the the reason you say how much do you charge?
+AGENT: I understand you'd like to know the fare. Let me check your trip details first. What payment method would you prefer to use for this ride: cash, credit card, or Call and Ride?
+CALLER: Okay.
+AGENT: Could you please tell me which payment method you would like to use for this ride: cash,
+CALLER: Okay. Cool. Hold on. Let me let let me allow my

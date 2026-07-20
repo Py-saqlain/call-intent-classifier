@@ -1,0 +1,47 @@
+AGENT: Hello Roshan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I wanted to know if the cab um, when it's gonna reach the destination to um, to one nine four zero one Crystal Rock Drive, Germantown, Maryland Seneca Valley High School.
+AGENT: Uhh <break time="300ms"/> it looks like there is no active trip scheduled to that address right now. Would you like me to help you book a ride there? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Alright, how would you like to pay for your ride? We
+CALLER: Already booked a ride there. I wanted to know when it was coming. It was supposed to have been booked at three. Cash.
+AGENT: Okay so I've got that payment noted as cash. Let me check your trip details for the expected arrival time.
+AGENT: I
+CALLER: Okay.
+AGENT: Alright, since you mentioned cash for payment, I'll proceed with that. Could you please confirm the pickup address for me?
+CALLER: Yes. One nine four zero one Crystal crystal rock Drive, Germantown, Maryland two zero eight seven four.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so your pickup address is one nine four zero one Crystal Rock Drive, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One three four five three Demetrius Way, Germantown, Maryland.
+AGENT: Okay, let me check that address for you.
+AGENT: Okay, so your dropoff address is one three four five three Demetrias Way, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Roshan.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I had
+CALLER: one at 03:00, a pickup for 03:00. Already.
+AGENT: Just to confirm, you mean a pickup at 3:00 PM today, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The time you requested has already passed. When would you like to be picked up instead? <emotion value="hesitant"/>
+CALLER: Right now,
+AGENT: Okay great! I've got your pickup time set for right now. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One No.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: Yes. The person will meet them in front of the school interest in front of the school.
+AGENT: Alright, the estimated fare is 7 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main
+CALLER: When is the approximate time
+AGENT: Your main trip is scheduled for today at 3:28 PM. Is there anything else I can help you with?
+CALLER: Yes. When is the approximate time the driver will be there?
+AGENT: The driver will aim to arrive right around your scheduled pickup time at 3:28 PM. Is there anything else you'd like to know?
+CALLER: Yes. And could the driver call me when he reached a destination?
+AGENT: I understand that would be helpful. Unfortunately, our drivers do not make calls upon arrival. Is there anything else I can assist you with?
+CALLER: And now,
+AGENT: Looks like you already have a trip from 19401 Crystal Rock Drive to 13453 Demetrias Way at today 3:28 PM. What would you like to do? <emotion value="grateful"/>
+CALLER: I would like to get the ride
+AGENT: Your ride is scheduled for today at 3:28 PM, but no driver has been assigned yet. I'll keep you posted. Is there anything else I can do for you? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Roshan. Have a great day!

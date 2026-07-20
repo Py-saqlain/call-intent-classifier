@@ -1,0 +1,13 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Yeah.
+AGENT: Could you please tell me your name so I can assist you with setting up your profile?
+CALLER: Was
+AGENT: I didn't quite catch your name. Could you please say it again?
+CALLER: And what kind they're gonna send you? Oh, I I wanna sleep because this is my worst. Please listen to her. Please sleep up. We found it, mom. He slept all night. We would stay up all night. He's gonna stay up all night. And so I I don't even wanna go to bed because so much. I wanna go home and go to bed.
+AGENT: Thank you for sharing that. When you're ready, could you please tell me your name so I can help you get started with Barwood & Regency?
+CALLER: Oh, I see. I've got Regency cap.
+AGENT: Thanks for letting me know you have Regency Cab. To assist you further, may I please have your name?
+CALLER: Yes.
+AGENT: Great! Could you please tell me your name?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Michelle,

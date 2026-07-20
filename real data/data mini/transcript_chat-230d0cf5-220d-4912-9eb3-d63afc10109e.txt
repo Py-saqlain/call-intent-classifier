@@ -1,0 +1,20 @@
+AGENT: Hello Josphine, this is Ana with Barwood & Regency. How
+CALLER: Yes. Good afternoon.
+AGENT: Uhh, good afternoon. How can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Yeah. I want to take a study of our right to return home.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: It's supposed to stand a car to pick up miss Josephine.
+AGENT: Thank you for letting me know about the pickup for Miss Josephine. When
+CALLER: And you call earlier and said that it's been
+AGENT: I want to make sure I have your payment method for the ride. How would you like to pay today? Cash, credit card,
+CALLER: Yes. Flu. It's already paid. Already paid. We have easy pass.
+CALLER: It's a machine.
+AGENT: Hmmm.. that didn't seem right, could you please confirm if you mean cash, credit card, or Call and Ride for payment? We accept those three methods. <emotion value="apologetic"/>
+CALLER: Excuse me. It's it's already pay.
+AGENT: Okay so I've got that payment noted as already paid. Just to confirm, is that correct that no further payment is needed for this ride? <emotion value="grateful"/>
+CALLER: Excuse me. We have to pick up. Yes. Yes. 11:40. And it's already past twelve. Can you know what time the driver arrive?
+AGENT: I don't have the pickup time information yet. Could you please tell me how you would like to pay for the ride? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: Nothing. Human. That's a machine. Can I speak to a Asian?
+CALLER: Never had that trust in young Yeah. It's a robot.
+AGENT: I'm connecting you to a customer
+CALLER: I speak to the agent? I like to speak to Israeli people. I want to

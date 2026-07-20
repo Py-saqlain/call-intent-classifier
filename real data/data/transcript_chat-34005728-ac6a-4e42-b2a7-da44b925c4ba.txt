@@ -1,0 +1,54 @@
+AGENT: Hello Victory, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, please, we need the the services of, uh,
+AGENT: Uhh, so how can I assist you with your ride today? <emotion value="peaceful"/>
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Hello? Hello?
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: Please, we went we have an appointment with radiology department
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: calling right.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="peaceful"/>
+CALLER: Come again. Come again.
+AGENT: Hmmm.. that didn't seem right, could you please confirm if you meant Call and Ride for payment? Or would you prefer cash or credit card instead? <emotion value="apologetic"/>
+CALLER: Alright.
+AGENT: Thank you for confirming. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: One one three four six one.
+AGENT: Okay so I've got those digits noted. Let me verify your Call and Ride payment now. <emotion value="peaceful"/>
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: My it's 99861 Del Castro Road.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I couldn't find an exact match for 9 9 8 6 1 Del Castro Road in Montgomery Village, Maryland. However, I found a location at 7 3 1 5 Muncaster Mill Road, Derwood, Maryland 2 0 8 5 5. Is that the correct pickup location? <emotion value="hesitant"/>
+CALLER: Okay. 9861 Delcastle Road, Nine eight six one
+AGENT: Okay, let me check that address for you. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is 9 8 6 1 Dellcastle Road, Montgomery Village, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Delcastell Road. When come
+AGENT: Just to be sure, is your pickup address 9 8 6 1 Delcastell Road, Montgomery Village, Maryland? <emotion value="hesitant"/>
+CALLER: Yep. Yes. Yes.
+AGENT: I found a few radiology departments.  
+Option one: 6 5 5 Watkins Mill Road, Gaithersburg.  
+Option two: 1 5 2 2 5 Shady Grove Road, Rockville.  
+Option three: 1 4 9 9 5 Shady Grove Road, Rockville.  
+Option four: 9 6 0 1 Blackwell Road, Rockville.  
+Option five: 1 4 9 9 5 Shady Grove Road, Rockville.  
+Which one would you like? <emotion value="peaceful"/>
+CALLER: Community radiology center. Please let me confirm the the the address.
+AGENT: Just to confirm, you want the radiology department at 1 5 2 2 5 Shady Grove Road, Rockville, Maryland? <emotion value="peaceful"/>
+CALLER: Okay?
+AGENT: Your dropoff address has been verified, Victory. I will now proceed with your booking.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Let me check it back. I'm sorry. Let me check it back.
+AGENT: No problem at all, take your time. When you’re ready, just let me know what time you’d like to be picked up. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello? Hello?
+AGENT: Yes, I'm here to help. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Community, the online team.
+AGENT: Could you please clarify what you mean by "Community, the online team"? Are you referring to a pickup or dropoff location, or something else? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: We're already by 08:30.
+AGENT: Just to confirm, you would like to be picked up today at 8:30 AM, is that correct? <emotion value="peaceful"/>
+CALLER: Hello? 08:13. 08:13.
+AGENT: Hmm, sorry, let me get that right. Did you mean 8:13 AM for your pickup time? <emotion value="apologetic"/>
+CALLER: I think the end.
+AGENT: Thank you for calling Barwood & Regency, Victory. Have a wonderful day.
+CALLER: I need to thank you

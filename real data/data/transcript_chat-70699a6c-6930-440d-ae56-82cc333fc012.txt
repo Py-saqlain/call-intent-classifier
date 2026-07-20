@@ -1,0 +1,61 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Texting.
+AGENT: I’m here to help with your ride. Could you please tell me your name so I can set up your profile?
+CALLER: Yeah. You ride the ride the taxi?
+AGENT: Yes, I can help you book a taxi ride with Barwood & Regency. First, may I have your name to get started?
+CALLER: Yeah. Okay.
+AGENT: Could you please tell me your name?
+CALLER: Right now?
+AGENT: Yes, just your name so I can set up your profile and assist you with your ride. What’s your name?
+CALLER: Okay. J
+AGENT: Thank you. Could you please say your full name for me?
+CALLER: Yeah.
+AGENT: I didn’t catch your full name. Could you please say it again?
+CALLER: Okay. My cell phone number?
+AGENT: To get started, I need your name first to set up your profile. Could you please tell me your full name?
+CALLER: I don't understand.
+AGENT: No problem at all. To help you with your ride, I just need to know your name first. What name should I use to set up your profile?
+CALLER: My name, j e o n g. J a k I n.
+AGENT: Thanks, Jeong. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yeah. I need to now hear Maryland and the.
+AGENT: Could you please clarify what you mean by "hear Maryland and the"? Are you asking for a ride to or from a location in Maryland, or something else?
+CALLER: Okay. Hold on. Okay?
+AGENT: Take your time. Just let me know when you're ready or if you need any help.
+CALLER: Okay. Hold on.
+AGENT: No rush at all. I’m here whenever you’re ready.
+CALLER: On this world, and I'm calling Virginia.
+AGENT: Thank you for that. Are you looking to book a ride from Maryland to Virginia, or from Virginia to Maryland? Or is there a specific address or location in either state you want to share?
+CALLER: Yeah. Hey. You're here. And did you work? Okay. Okay. Okay. Hold on.
+AGENT: I’m here to help whenever you’re ready. Just let me know what you need or where you’d like to go.
+CALLER: Okay. And this word and the three two zero zero.
+AGENT: Just to make sure I understand correctly, are you saying the address includes the number 3 2 0 0? Could you please tell me the full street name or location along with that number?
+CALLER: Hello? Yeah. Yes.
+AGENT: I want to make sure I have your pickup address right. Could you please say the full address including the street name with the number 3 2 0 0?
+CALLER: Yes. Pickup in the ongoing Virginia.
+AGENT: Thank you for sharing your pickup location in Virginia. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Yeah. How yes. How much is yeah. Credit card, how much?
+AGENT: I don't have the fare information yet since we're still gathering your trip details. For now, I will proceed with credit card as your payment method. Let me verify that for you.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: I wasn't able to find an address matching "3 2 0 0 Virginia." Could you please provide the full street name or a nearby landmark to help me locate your pickup address?
+CALLER: Thirty two three two zero zero Maryland, did you work?
+AGENT: Just to confirm, did you mean "3 2 3 2 0 0 Maryland"? Could you please clarify the street name or any nearby landmark with that number?
+CALLER: Yeah. Three two zero zero. 3200 Maryland, New York.
+AGENT: Thank you for that. To clarify, is your pickup address "3 2 0 0 Maryland" in New York? Could you please confirm the full street name or any nearby landmark to help me find it accurately?
+CALLER: Digital word.
+AGENT: I want to make sure I understand correctly. Are you saying your pickup address is "3 2 0 0 Digital Word"? Could you please confirm or provide more details about the street or location?
+CALLER: No. I changed it. Changed my
+AGENT: I understand you want to change your pickup address. Could you please tell me the new pickup address you'd like to use?
+CALLER: Okay. Three one zero zero.
+AGENT: Thank you. Could you please provide the full street name or location along with the number 3 1 0 0 so I can find your pickup address?
+CALLER: The Yes. So digital world global Overlook. Overlook.
+AGENT: Just to confirm, is your pickup address "3 1 0 0 Digital World Global Overlook"? Could you please confirm if that is correct?
+CALLER: Yeah.
+AGENT: I couldn't find an exact match for "3 1 0 0 Digital World Global Overlook," but I found a location called "879 Spring Hill Road, McLean, Virginia." Is that the place you meant for pickup?
+CALLER: No. No. No. No. I something. No. Something no. I need this one. Thirty one zero zero digital wall and blue wall overlook.
+AGENT: I wasn't able to locate "3 1 0 0 Digital Wall Blue Wall Overlook." Could you please provide the full street address including the city and state?
+CALLER: What you say? In digital world, are you on digital world? Digital World.
+AGENT: Thank you for clarifying. Are you saying your pickup address is somewhere in Digital World? If so, could you please provide the street number and city or nearby landmark to help me find it?
+CALLER: Yeah. Yes. I hit on this word. This word. I don't understand. Something wrong.
+AGENT: I want to make sure I get your pickup address right. Could you please tell me the street number and the full street name or a nearby landmark in Digital World? That way I can find it accurately for you.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Okay.

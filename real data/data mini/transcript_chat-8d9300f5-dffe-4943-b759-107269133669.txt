@@ -1,0 +1,8 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Hi, Anna. This is Grace from the activation center on a recorded line. We received a recent inquiry regarding a warranty on your vehicle. Can you confirm the year, make, and model for me?
+AGENT: I’m Ana with Barwood & Regency, and I’m here to help with your ride service. For questions about vehicle warranties, I recommend contacting the activation center directly. How can I assist you with your transportation needs today?
+CALLER: Hi, Anna. This is Grace from the activation center on a recorded line. Received a recent inquiry regarding a warranty on your vehicle, and I just need to quickly verify the year, make, and model we have on file. Can you confirm those for me?
+AGENT: I’m Ana with Barwood & Regency, focused on helping with your ride service. For warranty verification, please reach out to the activation center directly. How can I assist you with your transportation needs today?
+CALLER: Hi. This is Grace calling from the activation center. On a recorded line. Received a recent inquiry regarding a warranty on your vehicle, and I just need to quickly verify the year, make, and model of your vehicle for me.
+AGENT: I’m Ana with Barwood & Regency, here to assist with your transportation needs. For warranty-related questions, please contact the activation center directly. How can I help you with your ride today?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

@@ -1,0 +1,28 @@
+AGENT: Hello Audrey, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab at nine one nine eight zero one. Operation Drive, at the Holy Cross Hospital
+AGENT: Thank you for that information. How would you like to pay for your ride? We accept cash, credit card, and Call and
+CALLER: Correct. Right.
+AGENT: Could you please tell me which payment method you would like to use: cash, credit card, or Call and Ride?
+CALLER: Credit Credit card.
+AGENT: Thank you for choosing credit card as your payment method. I’m moving forward with that now.
+AGENT: I wasn't able to locate 9 1 9 8 0 1 Operation Drive. Could you please provide the city and state for this address?
+CALLER: It's one nine eight zero one Medical Center, uh, Observation Drive in Germantown, Myanmar.
+AGENT: I found several locations near 19801 Medical Center Observation Drive in Germantown, Maryland:
+
+1. MedStar
+CALLER: Yes. It's a Holy Cross hospital. All across the hospital in Germantown, Mount
+AGENT: I found several Holy Cross Hospital-related locations:
+
+1. Holy Cross Health Partners at Asbury Methodist Village, 201 Russell Avenue, Gaithersburg, Maryland
+2. Holy Cross Health Partners Progressive Medical Care, 18530 Office Park Drive, Montgomery Village, Maryland
+3. Holy Cross Health Center in Gaithersburg, 220 Perry Parkway, Suite 5, Gaithersburg, Maryland
+4. Holy Cross Health Partners Rockville, 15245 Shady Grove Road, Suite 130, Rockville, Maryland
+5. Holy Cross Germantown Ambulance Bay, Germantown, Maryland
+
+Which one would you like to use as your dropoff location?
+CALLER: It's the Germantown hospital nine one nine eight zero one Observation Drive in Holy Cross Hospital in Germantown,
+AGENT: Your dropoff address has been verified, Audrey. I’m now passing your trip details along to arrange your ride.
+AGENT: When would you like to be picked up?
+CALLER: I'm a catcher buff.
+AGENT: Thanks for letting me know about cash. Now, when would you like to be picked up?
+AGENT: Take your time. Just let me know when you're ready.

@@ -1,0 +1,17 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Anan, this is the same person that I'm talking to before. Anna, I just needed I spoke I mentioned to you that we needed regular protection Monday to Friday for my son. To to Trackville. And then I asked her to transfer me to so manager there. The lady who answered it, say, what? We can give the the medicaid to book in through us. And then number one, allowing me to explain to her that we need a regular every day, Monday to Friday, for the rest of the year. And then Medicaid asked us to call you to find out that. And then with that information, they said that you call us back, and then we will generate what we have to generate.
+CALLER: Hello?
+AGENT: Uhh, yes, I'm here. How can I assist you with your ride needs today? <emotion value="peaceful"/>
+CALLER: No. Not today. What was speaking to Anna? Who am I speaking to? Hello? Hello?
+AGENT: I'm Ana, here to help you with your ride service. How can I assist you today? <emotion value="peaceful"/>
+CALLER: Oh, no.
+AGENT: I understand you were speaking with Anna before. How can I assist you with your request now? <emotion value="peaceful"/>
+CALLER: Oh, no. Oh, Anna. Well, I explained to you Yes. Okay. Thank you. You the name of your company and telephone number have it given to us by Medicaid. They have identified you as a provider for transportation. We need a regular transportation Monday through Friday to and from home and to Rockville. Through for the rest of the year. And then we want to make sure that and I that you understand what I'm saying so that I can call medicaid the booking office, and then they can proceed with the booking.
+AGENT: Thank you for explaining. To make sure I can assist you properly with the regular transportation for your son, may I please have your name?
+CALLER: T u r c I o s.
+AGENT: Thank you, Turcios. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Again, if you take question, Anna,
+AGENT: Uhh, I want to make sure I understand you correctly. Are you looking to schedule a regular ride Monday through Friday between your home and Rockville for your son? If so, I can help start that booking for you. <emotion value="peaceful"/>
+CALLER: No. You must have been joking. Okay.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+AGENT: I'm experiencing a

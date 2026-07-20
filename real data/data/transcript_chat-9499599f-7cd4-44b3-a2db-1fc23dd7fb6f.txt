@@ -1,0 +1,46 @@
+AGENT: Hello, Erenstine. This is Ana with Barwood &
+CALLER: Hello? Hello?
+AGENT: Uhh, hi there! How can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Yes. I would like to have a cab from from Holy Cross.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yeah. Credit card will be fine? Debit card
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+CALLER: Okay.
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Just I don't know the address. That's in Holy Cross.
+AGENT: Hmm <break time="350ms"/> let me check that address. I will look up Holy Cross for you right now.
+AGENT: I found a few
+CALLER: Oh, I think it's 1,500 for ethylene That's fifteen hundred Forest Glen Road.
+AGENT: Okay, just to clarify, is your pickup address fifteen hundred Forest Glen Road, Silver Spring, Maryland? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so your pickup address is one five zero zero Forest Glen Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, regarding your destination, I found several locations named Holy Cross. Option one: 201 Russell Avenue, Gaithersburg, Maryland. Option two: 18530 Office Park Drive, Montgomery Village, Maryland. Option three: 220 Perry Parkway number 5, Gaithersburg, Maryland. Option four: 15245 Shady Grove Road number 130, Rockville, Maryland. Which one is the correct Holy Cross location for your dropoff? <emotion value="peaceful"/>
+CALLER: What?
+AGENT: I found a
+CALLER: Am in. I am in Holy Cross right now.
+AGENT: Okay, so you are currently at Holy Cross and need a pickup from there? Could you please confirm
+CALLER: Okay? Right. From pickup from Holy Cross, I'm going to 1336 Missouri Avenue.
+AGENT: Just to confirm, is your dropoff address one three three six Eastern Avenue, Baltimore, Maryland? <emotion value="peaceful"/>
+CALLER: No. That's 1336 Missouri Avenue. Washington DC.
+CALLER: 20011.
+AGENT: Okay, just to confirm, your dropoff address is one three three six Missouri Avenue Northwest, Washington, District of Columbia. Is that correct? <emotion value="peaceful"/>
+CALLER: Alright. Yes. Yes.
+AGENT: Your dropoff address has been verified. Thank you, Erenstine.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Alright. Right now.
+AGENT: Okay great! I've got your pickup time as today at 6:47 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone
+CALLER: Juan. Yes, Juan.
+AGENT: I don't have the number of passengers yet. How many passengers will be traveling, including yourself? And will anyone need a
+CALLER: Yes. Yes. So one.
+AGENT: Okay great! I've got one passenger. <emotion value="grateful"/> Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Okay great! I've noted no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: Now just waiting to be picked up.
+AGENT: The estimated fare is 9.5 dollars, paying with Credit Card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 6:47 PM. Your confirmation number is 2 1 3 6 7 2 3 4 2. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Erenstine. Have a
+CALLER: Alright. Thank you. Bye.

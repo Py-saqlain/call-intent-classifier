@@ -1,0 +1,30 @@
+AGENT: Hi Andy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Need a ride, please.
+AGENT: Thank you for reaching out. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, cash is all set for your payment.
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: Sure. It's fifty eight Beacon Hill Court
+CALLER: Gaithersburg, Maryland two zero eight seven eight.
+AGENT: Just to confirm, your pickup address is 5 8 Beacon Hill Court, Gaithersburg, Maryland. Is that correct?
+CALLER: Exactly. Thank you.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yeah, it's fifteen Metropolitan Grove Road. It's the MBA.
+AGENT: To confirm, your dropoff address is 1 5 Metropolitan Grove Road, Gaithersburg, Maryland. Is that correct?
+CALLER: Yep. That's it.
+AGENT: Your dropoff address has been verified. Thank you, Andy.
+CALLER: okay. Is that are you there?
+AGENT: Yes, I'm here to help. When would you like to be picked up?
+CALLER: Right now, thank you.
+AGENT: I've noted your pickup time as right now. How many passengers will be traveling, including yourself? Also, will anyone need a wheelchair-accessible vehicle?
+CALLER: You One.
+AGENT: Just to confirm, is that one passenger traveling with no wheelchair needed?
+CALLER: Yes.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 10 dollars, and you will be paying with cash. Would you like to schedule a return trip as well?
+CALLER: No. Thank you.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 1:59 PM. Your confirmation number is 2 1 3 6 7 9 4 9 0. Is there anything else I can help you with?
+CALLER: No, thank you.
+AGENT: Thank you for calling Barwood & Regency, Andy. Have a wonderful day!

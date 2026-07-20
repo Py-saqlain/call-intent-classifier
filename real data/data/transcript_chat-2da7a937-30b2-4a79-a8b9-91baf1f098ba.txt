@@ -1,0 +1,32 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Sarah Kaplan?
+CALLER: Yes.
+AGENT: Thanks for confirming, Sarah. This is Barwood & Regency. How can I assist you today?
+CALLER: Sources sent to arrive immediately using call and route.
+AGENT: Okay, I see you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three four four six six zero.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Thank you for that. To get started, could you please tell me your pickup address? <emotion value="peaceful"/>
+CALLER: Two one three Marsh hollow plates.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 2 1 3 Marsh Hollow Place, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Eight seven one eight. Delcris Drive,
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 8 7 1 8 Delcris Drive, Montgomery Village, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Sarah.
+AGENT: I have the pickup time as right now, is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time noted for today at 7:11 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger. No accessibility issues.
+AGENT: Okay great! I've got one passenger and no wheelchair needs noted. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 22.5 dollars, paying with Call And Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will skip the return trip. Let me proceed with booking your one-way trip now. <emotion value="peaceful"/>
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 7:11 AM. Your confirmation number is 2 1 3 6 7 7 8 4 4. Is there anything else I can help you with?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I want to be contacted when a driver is assigned.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

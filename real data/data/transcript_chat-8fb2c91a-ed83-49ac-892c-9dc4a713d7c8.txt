@@ -1,0 +1,18 @@
+AGENT: Hello MR., this is Ana from Barwood & Regency. Vehicle 1092 has arrived at your pickup location. How can I assist you today?
+CALLER: Yeah. Come around.
+AGENT: Could you please tell me where you would like to be picked up and your destination?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+CALLER: It's okay. He's with model this week. No. No. No. No. In this case,
+AGENT: Could you please tell me if you would like to book a ride or if there is something else I can assist you with?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Right. Okay.
+AGENT: Looks like you already have a trip from 20910 Frederick Road to 19620 Waters Road at 11:50 AM today. What would you like to do?
+CALLER: Where are from? On Hey. Danny Danny, rest just like you need rest. Know that I'll strike it up, but I just eight hours. That's forty hours a week.
+AGENT: If you want to check the status or details of your current trip, I can help with that. Would you like me to do so?
+CALLER: You know, you want you want me, uh, you know, listening to me that any rest It was eight forty hours a week
+AGENT: It sounds like you might want to check on your current trip or need some assistance. Would you like me to check the status of your trip for you?
+CALLER: Well, you know, you sacrifice. You're making you would for your son, not for just, you know, I'm going on a stable.
+AGENT: I understand. If you need help with your ride or anything else, just let me know how I can assist you.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Forward at all. I'm not gonna really put the three weeks now. It's gonna start from tomorrow and finish end of quarter. Do you wanna wanna make it sound like it's.

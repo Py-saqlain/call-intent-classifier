@@ -1,0 +1,8 @@
+AGENT: Hi Mila, this is Ana from Barwood & Regency. Vehicle 1187 has arrived at your pickup location. How can I assist you today?
+CALLER: Not here.
+AGENT: Could you please tell me what you would like help with today?
+CALLER: Driver not here.
+AGENT: The system shows that vehicle 1187 has arrived at your pickup location. If you still cannot see the driver, I can connect you with a customer representative who can assist further. Would you like me to do that?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

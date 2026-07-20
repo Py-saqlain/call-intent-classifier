@@ -1,0 +1,38 @@
+AGENT: Hi Mark, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Okay. Oh, I like a taxi. To go to to come to. Five six two Come to 562. South Frederick Avenue, Gaithersburg, Maryland. And I'll be going to number six
+AGENT: Okay, I hear you want a taxi to come to 5 6 2 South Frederick Avenue in Gaithersburg, Maryland. Could you please tell me the full address or location for your destination starting with number six?
+CALLER: Montgomery Village Avenue, in Cape Yeah.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Number 6 is the address. It's only one number. I'm gonna pay
+AGENT: Okay, I understand the destination is number 6 Montgomery Village Avenue. And how would you like to pay for your ride? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: yeah. The my debit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so your pickup is 5 6 2 South Frederick Avenue, Gaithersburg, Maryland, and your dropoff is 6 Montgomery Village Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Right. That's correct. When they come when they come to my address, five six two South Frederick Avenue, Ask them to come in on the West Deer Park Drive. That'd be the front of the Some people go around the back. And see when they do that, I don't know that they're there. So if you mind doing that for me, please.
+AGENT: Thank you for letting me know about the West Deer Park Drive entrance for your pickup at 5 6 2 South Frederick Avenue. I'll make sure to pass that detail along to the driver. Your pickup and dropoff addresses are confirmed. Let me proceed with finalizing your ride now.
+AGENT: Your pickup and dropoff addresses have been verified, Mark. I'll now arrange your taxi.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now?
+AGENT: Okay great! I've got your pickup time as today at 10:33 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: I have an appointment. Okay. About two. Two.
+AGENT: Okay great! I've got two passengers and a note that you have an appointment. Will you be needing a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Yes. I didn't quite hear which say.
+AGENT: No problem. I asked if you will be needing a wheelchair-accessible vehicle for your trip. Will you need one? <emotion value="peaceful"/>
+CALLER: Oh, no. No. No. No. Thank you.
+AGENT: Alright, the estimated fare is 11 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: I don't know what I would like to, but right now, I don't know time he'd be finished. So I can give a I can't give a time right now.
+AGENT: Just to clarify, would you like to schedule a return trip now with an open will-call time, so you can call us when you're ready for the ride back? Or would you prefer to decide about the return trip later? <emotion value="peaceful"/>
+CALLER: Well, right now, I don't know what time I don't know how busy he is right now.
+AGENT: That's perfectly fine. If you'd like, I can set up your return trip as a will-call, so you can call us when you're ready to be picked up. Would you like me to do that? <emotion value="peaceful"/>
+CALLER: Yeah. But I'm gonna right. Yeah. I will. Right. I will.
+AGENT: Okay, your return trip will be set as a will-call, with pickup at 6 Montgomery Village Avenue and dropoff at 562 South Frederick Avenue. The estimated fare for the return trip is 12 dollars, paying with Credit Card. Should I go ahead and book both trips now? <emotion value="peaceful"/>
+CALLER: I will I will call when I'm finished. Okay?
+AGENT: Just to confirm, you want to book only the main trip now and keep the return trip as will-call for when you call back later? <emotion value="peaceful"/>
+CALLER: No. Just the one going. Not yet.
+AGENT: Thank you for your patience. I'm processing your main trip booking now. Please hold on a moment.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 6 8 5 7. Your pickup is today at 10:33 AM. Is there anything else I can help you with?
+CALLER: I will call That is all. It's okay. And how much is it now? $11 and what?
+AGENT: The fare for your main trip is 12 dollars. If you have any other questions or need assistance later, just let me know. Is there anything else I can do for you right now?
+CALLER: No. That's all. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Mark. Have a wonderful day!
+CALLER: Alright. So thank you. So I will call you later. Bye bye.

@@ -1,0 +1,38 @@
+AGENT: Hello, Ennette. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to book a.
+AGENT: I can help you with booking a ride. Could you please tell me where you would like to be picked up from?
+CALLER: 9616 Main Street.
+AGENT: Thank you for sharing your pickup address at 9 6 1 6 Main Street. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Calling right. Thirty four ten ninety six.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: Thank you for confirming Call and Ride as your payment method.
+AGENT: I have 9 6 1 6 Main Street, Damascus, Maryland as your pickup address. Is that correct?
+CALLER: That's correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Nine eight zero seven Main Street. Damascus.
+AGENT: Thank you for providing the dropoff address at 9 8 0 7 Main Street, Damascus. Let me check and confirm that address for you.
+AGENT: I have 9 8 0 7 Main Street, Damascus, Maryland as your dropoff address. Is that correct?
+CALLER: That's correct.
+AGENT: Your dropoff address has been verified, Ennette. I will now proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: Tomorrow morning. At 9AM.
+AGENT: I have your pickup time as tomorrow at 9:00 AM. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. Wheelchair pad. Eleven eighty four.
+AGENT: Just to clarify, how many passengers will be traveling with you? And you mentioned needing a wheelchair-accessible vehicle, is that correct? Also, if you have any special instructions for the driver, please let me know.
+CALLER: One. Yeah. We we have said
+AGENT: Thank you. I have recorded 1 passenger and 1 wheelchair-accessible vehicle needed. Do you have any special instructions for the driver?
+CALLER: yes. Driver number one one eight four.
+AGENT: The estimated fare for your trip tomorrow at 9:00 AM is 5.5 dollars, and you will be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: I want cab 1184.
+AGENT: I understand you want cab number one one eight four. I will make a note of that. Meanwhile, would you like to schedule a return trip as well?
+CALLER: Agent. Thank you.
+AGENT: I will connect you to a live agent now for further assistance.
+AGENT: I'm processing your booking now. Please hold on a moment.
+CALLER: No. No. No. No. No. I'm going to two zero six oh, Okay.
+AGENT: I'm still working on your booking. Please give me just a moment.
+I am continuing to process your booking. Please hold on a little longer.
+AGENT: I see you want to change your destination to two zero six oh. Let me connect you to an agent who can help update your trip details.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Yeah. Uh, I'm going to like, No. No. No. No. I'm going to two zero six Okay. Okay. Okay. I got okay. I have it No. No. No. No. No. No. One to 9807 Main Street,
+CALLER: Thank you.

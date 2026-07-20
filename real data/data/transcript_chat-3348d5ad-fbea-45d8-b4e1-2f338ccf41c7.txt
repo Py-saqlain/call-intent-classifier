@@ -1,0 +1,16 @@
+CALLER: Oh, I'm seeing that.
+AGENT: Uhh, okay. How can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Cancel. Cancel the transportation today. Cancel
+AGENT: I see two trips on your account.  
+Trip one: return trip pickup at 12 Dalamar Street in Gaithersburg at 10:30 am going to 6000 Executive Boulevard in Rockville.  
+Trip two: main trip pickup at 6000 Executive Boulevard in Rockville, will-call.  
+Which one would you like to cancel? Or would you like to cancel both? <emotion value="hesitant"/>
+CALLER: Both.
+AGENT: Okay so both trips have been cancelled for you. Is there anything else I can help you with? <emotion value="grateful"/>
+CALLER: Do I need to speak to a representative for that? Or is that taken care The what should I speak to a representative to make sure? Because the cab might still come. I don't want it to still come.
+AGENT: Hmm <break time="300ms"/> the cancellations have been processed successfully on our end, so no driver should be dispatched for those trips. If you want, I can connect you with a representative to double-check and give you extra peace of mind. Would you like me to do that? <emotion value="hesitant"/>
+CALLER: Okay.
+CALLER: Hello?
+AGENT: Uhh, yes, I’m here. How can I assist you further? <emotion value="peaceful"/>
+CALLER: Okay. The representative, you never need to speak to a representative to make sure that this is canceled.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

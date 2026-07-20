@@ -1,0 +1,27 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: David
+AGENT: Thanks, David. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: They need a kid.
+AGENT: Could you please clarify what you mean by "They need a kid"? Are you referring to the number of passengers or something else?
+CALLER: One passenger.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I know about
+AGENT: Hmmm.. <break time="300ms"/> I didn't quite catch that. Could you please tell me how you'd like to pay? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: or debit card I'm saying credit card
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: What's the address here?
+AGENT: Uh, I am sorry, but could you please tell me the pickup address where the driver should come to pick you up? <emotion value="peaceful"/>
+CALLER: Four one one seven.
+AGENT: Thank you. Could you please provide the street name and city for the pickup address? <emotion value="peaceful"/>
+CALLER: I just did. Four one one Howard
+AGENT: Okay, so I found 4 1 1 Howard Drive, Bedford County, Virginia. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Four one one. Do you Howard Avenue. Howard Avenue.
+AGENT: Hmm, let me check that address. <break time="350ms"/> I found 4 1 1 Lorraine Avenue, Fredericksburg, Virginia. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Howard Avenue, four one one Avenue.
+AGENT: Uh, I am sorry, but could you please repeat the street name and number for the pickup address? <emotion value="peaceful"/>
+CALLER: Four and one. One one Howard Avenue Kensington, Maryland.
+AGENT: I found a close address: 4 1 1 6 Howard Avenue, Kensington, Maryland. <break time="500ms"/> Is that the correct pickup address? <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Right.

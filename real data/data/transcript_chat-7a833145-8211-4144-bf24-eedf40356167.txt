@@ -1,0 +1,53 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Why number What's your name? Porger. How do you spell it? J o r d e. George.
+AGENT: Thanks, Jorde. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a pickup from Ayat bethesda, 7400 Wisconsin Avenue.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card. Oh, credit card. Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so your pickup address is seven four zero zero Wisconsin Avenue, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Uh-huh.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Okay. Hold on a second.
+AGENT: Take your time. I'm here when you're ready. <emotion value="peaceful"/>
+CALLER: Alright. One thousand one
+AGENT: Could you please provide the full street name and city for the address "one thousand one"? That way I can make sure I have the correct destination for you. <emotion value="peaceful"/>
+CALLER: Half Street, Half
+AGENT: Hmm <break time="350ms"/> let me check that address. One thousand one Half Street. Could you please tell me the city or nearby area for this address? <emotion value="peaceful"/>
+CALLER: yes. One thousand one Half 6000 West.
+AGENT: I want to make sure I have this right. You said one thousand one Half Street, and then six thousand West. Could you please clarify the full destination address including the street number, street name, and city? <emotion value="peaceful"/>
+CALLER: Half Half Street Southwest. Yep.
+CALLER: Can you hear me? Can you hear me?
+AGENT: Yes, I can hear you clearly. Thank you. To confirm, your destination is one thousand one Half Street Southwest. Is that correct? <emotion value="peaceful"/>
+AGENT: Yes, I can hear you clearly. I found the address as one zero zero one one fourteenth Street Northwest, Roanoke, Virginia. Is that correct? <emotion value="peaceful"/>
+CALLER: It's
+AGENT: It seems like you were about to say something. Could you please complete your destination address or let me know if the one I mentioned is correct? <emotion value="peaceful"/>
+CALLER: No. I say that definitely,
+AGENT: Thank you for clarifying. Could you please provide the correct destination address again so I can make sure to get it right for you? <emotion value="peaceful"/>
+CALLER: Okay. 1001 Half Street Southwest.
+AGENT: Thank you. So your destination is one zero zero one Half Street Southwest. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Jorde.
+AGENT: Your dropoff address has been verified, Jorde.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now. Right now.
+AGENT: Okay, I've got your pickup time as right now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Correct. Regular regular car.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: Only one passenger? No wheelchair accessible no
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions for the driver? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 5 8 7 point 5, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+CALLER: Thanks. Okay.
+AGENT: I'm still working on your booking. Please hold on just a moment.
+AGENT: Your main trip is scheduled for today at 1:43 PM. Your confirmation number is 2 1 3 6 7 2 0 0 8. Is there anything else I can help you with?
+AGENT: I'm still working on your booking. Please hold on just a moment.
+AGENT: Your main trip is scheduled for today at 1:43 PM. Your confirmation number is 2 1 3 6 7 2 0 0 8. Is there anything else I can help you with?
+CALLER: Thanks. Okay. Perfect. Okay. No. That's all. That's all
+CALLER: You.
+AGENT: Thank you for calling Barwood & Regency, Jorde. Have a wonderful day!
+CALLER: How long will it take?

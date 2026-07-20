@@ -1,0 +1,18 @@
+AGENT: Hello John, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to reserve a cash a taxi cab for tomorrow. From my home to Washington Reagan Airport.
+AGENT: Okay so I've got that payment noted as Cash.
+CALLER: Credit card.
+AGENT: Sure, let me update your payment method.
+AGENT: Alright, the payment method has been updated to Credit Card. What would you like to do next?
+AGENT: Okay, so
+CALLER: Reserve the taxi for pickup pickup at 1PM. Tomorrow.
+AGENT: I have your pickup as 5 1 2 Winding Rose Drive, Rockville,
+CALLER: Fourteen.
+AGENT: Uh, I am sorry, but could you please clarify what you mean by "fourteen"? Are you referring to a
+CALLER: That's better.
+AGENT: Your addresses have been verified, John.
+AGENT: Just
+CALLER: No. It's incorrect address.
+AGENT: I understand you want to correct the address, but I handle only the pickup time, passenger count, wheelchair count, and driver notes. Let me connect you to someone who can help with the address update.
+CALLER: Thank you.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

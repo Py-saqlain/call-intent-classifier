@@ -1,0 +1,29 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: It's not too short. I gave her. So
+AGENT: Thank you for sharing that. Could you please tell me your name again so I can make sure I have it correctly?
+CALLER: It doesn't prove your name. Zach Zach Zach John Doe?
+AGENT: I want to make sure I get your name right. Could you please say your full name clearly for me?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: John Doe, John Doe. That
+AGENT: Thanks, John. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yes. I'm looking for a a cab or a taxi to three three three three Spartan Road, only Maryland.
+AGENT: Thank you for that address. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: It could be cash.
+AGENT: Great, we'll use cash for your payment.
+AGENT: I have the dropoff address as three three three three Spartan Road, Olney, Maryland. Is that correct?
+CALLER: Yes. For a pickup. Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: Was that the pickup address? Yeah. This is that's the address for here. Oh, pickup address.
+AGENT: Just to clarify, you want the pickup address to be the same as the dropoff address at three three three three Spartan Road, Olney, Maryland?
+CALLER: No. The the drop off address will be different.
+AGENT: Thank you for clarifying. Could you please tell me the pickup address?
+CALLER: Ticket bathroom?
+AGENT: Could you please repeat that? I want to make sure I heard your pickup address correctly.
+CALLER: Three three three three three three three three three Spartan Road, Olney, Maryland.
+AGENT: That sounds like the same address as your dropoff. Could you please provide a different pickup address?
+CALLER: The drop off is different.
+AGENT: Thank you for letting me know. Could you please tell me the pickup address again so I can make sure I have it right?
+CALLER: Can I redo the the drop off?
+AGENT: Since your dropoff address is already verified, let's start fresh with your pickup address. Could you please provide the pickup address?
+AGENT: I'm experiencing a technical limitation on my end.
+CALLER: address with which you've verified is incorrect.

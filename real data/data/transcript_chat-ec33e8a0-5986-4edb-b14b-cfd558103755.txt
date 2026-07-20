@@ -1,0 +1,32 @@
+AGENT: Hi Wendy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a trip.
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: One five eight nine five. Jasid Drive, Jacob's Burg, Maryland 20877.
+AGENT: Hmm, let me check that address. I wasn't able to locate 1 5 8 9 5 Jasid Drive in Jacob's Burg, Maryland. Could you please confirm the street name and city again? <emotion value="apologetic"/>
+CALLER: Yes. One five eight nine five gazer Drive, Gaithersburg, Maryland two zero eight seven seven.
+AGENT: Okay, so I found 1 5 8 9 5 Gaither Drive, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Five five five zero Friendship Heights Boulevard,
+AGENT: Okay, I found 5
+CALLER: Chevy Chase, Maryland two zero eight
+AGENT: I found a few locations.  
+Option one: 5 5 5 0 Friendship Boulevard number 5 9 0, Chevy Chase, Maryland.  
+Option two: 5 5 5 0 Friendship Heights Boulevard, Chevy Chase, Maryland.  
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Oh, Lord. Five five five zero Friendship Heights Boulevard,
+AGENT: Okay, so I found 5 5 5 0 Friendship Heights Boulevard, Chevy Chase, Maryland. Is that
+CALLER: Cherry Chase, Maryland
+AGENT: Hmm, let me check that address. I want to make sure I get it right. Did you mean Chevy Chase, Maryland for the dropoff location? <emotion value="hesitant"/>
+CALLER: that is correct. Friendship High Boulevard.
+AGENT: Okay, so I found 5 5 5 0 Friendship Heights Boulevard, Chevy Chase, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. That's correct.
+AGENT: Hmm, I wasn't able to locate 5 5 5 0 Friendship Heights Boulevard in Chevy Chase, Maryland. Could you please provide any additional details like an apartment or suite number, or confirm the full address again? <emotion value="apologetic"/>
+CALLER: Yes. The address is five five five zero Friendship Heights Boulevard Chevy Chase, Maryland two zero eight one five.
+AGENT: I couldn't find an exact match for 5 5 5 0 Friendship Heights Boulevard in Chevy Chase, Maryland. However, I found 5 5 3 0 Wisconsin Avenue number 1 0 0, Chevy Chase, Maryland 2 0 8 1 5. Is that the correct dropoff location? <emotion value="hesitant"/>
+CALLER: No.
+AGENT: Okay, please provide the dropoff address again, and I'll look it up for you. <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

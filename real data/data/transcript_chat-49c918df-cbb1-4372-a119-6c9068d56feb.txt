@@ -1,0 +1,45 @@
+AGENT: Hello Lorelie, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Tried
+AGENT: Uhh, I want to make sure I understand you correctly. Are you trying to book a ride or is there something else I can assist you with? <emotion value="peaceful"/>
+CALLER: Book a ride.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: It's
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? If you'd like, I can use your home address at 1 3 4 0 5 Tilford Court, Germantown, Maryland. Would that work for you? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, please provide the pickup address you'd like us to use for your ride. <emotion value="peaceful"/>
+CALLER: It's Children's National Hospital, Washington DC.
+AGENT: I found Children's National Hospital at 1 1 1 Michigan Avenue Northwest, Washington, D C 2 0 0 1 0. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: Yes. It's the emergency enter.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 13405 Tilford Court, Germantown, Maryland
+AGENT: I found the dropoff address as 1 3 4 0 5 Tilford Court, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Lorelie. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Just to be sure, did you mean you want to be picked up right now, or would you prefer to call back later when you're ready? <emotion
+CALLER: Yes.
+AGENT: Thanks for clarifying. I'll set your pickup time as now. How many passengers
+CALLER: No. I need a I need a ride.
+AGENT: I understand you need a ride. To get started, could you please tell me when you would like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time set for now. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a
+CALLER: One one No.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. I've recorded 1 passenger and no wheelchair needed. Do you have any special instructions for the driver? <emotion value="hesitant"/>
+CALLER: Pick up at the emergency entrance.
+AGENT: Alright, the estimated fare is 71.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Cancel that, please.
+AGENT: Just to confirm, you want to cancel the entire booking and no trips will be scheduled, is that right? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: I am processing the cancellation of your booking now. If you need anything else or want to book a ride later, just let me know.
+CALLER: Okay.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+CALLER: Cancel the spot.
+AGENT: Hmm <break time="300ms"/> I don't see any active trips on your account to cancel. Could you please confirm if you meant a different booking or if there's something else I can assist you with? <emotion value="apologetic"/>
+CALLER: I I need to cancel the ride that I ordered.
+AGENT: Hmm <break time="300ms"/> I don't see any active trips on your account to cancel. Could you please confirm if you meant a different booking or if there's something else I can assist you with? <emotion value="apologetic"/>
+CALLER: No. That's all.
+AGENT: Thank you for calling Barwood & Regency, Lorelie. Have a wonderful day.
+CALLER: Me too.

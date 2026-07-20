@@ -1,0 +1,40 @@
+AGENT: Hello Dessy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a ride home, please.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and Colin ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes. Colin Ride.
+AGENT: Okay so I've got that payment noted. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three three five five eight. Five
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Okay, I have the dropoff as 1 8 7 0 0 Walkers Choice Road, Montgomery Village, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's right.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: One nine two zero zero. Montgomery Village Avenue.
+AGENT: Okay, so your pickup address is 1 9 2 0 0 Montgomery Village Avenue, Montgomery Village, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Right. It yes. And it's Lido's. It's a pizza place.
+AGENT: Your pickup address has been verified, Dessy.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time as today at 6:01 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And
+CALLER: Thank you.
+AGENT: Just to confirm, your pickup time is today at 6:01 PM. Is that correct? <emotion value="peaceful"/>
+CALLER: Just myself Yes.
+AGENT: Okay great! I've got one passenger traveling. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. No. There's a a dual conversation here.
+AGENT: Okay, I've noted that no
+CALLER: So try to bear with me. Somebody's interfering.
+AGENT: I understand, and I'm here to help you through this. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No. I just just wanna get picked up so I can get this lady off the line. With us. Okay?
+CALLER: Are you still there?
+AGENT: Yes, I'm here. The estimated fare for your trip is 7 dollars, paying
+CALLER: Okay.
+AGENT: Alright, the estimated fare is 7 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion
+CALLER: Correct.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No. No. I'm going home. Now. I'd like to be picked up now. I'm ready.
+AGENT: Thank you for confirming. I’m processing your immediate pickup now. Please hold on a moment.
+AGENT: Your main trip is booked for today at 6:01
+CALLER: Yeah. It can't be on much longer. Alright.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Why?

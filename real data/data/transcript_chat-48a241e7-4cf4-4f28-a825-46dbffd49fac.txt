@@ -1,0 +1,33 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: It's Keith.
+AGENT: Thanks, Keith. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I was trying to get a cab
+AGENT: Keith, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Okay.
+AGENT: Could you please let me know which payment method you prefer: cash, credit card, or Call and Ride?
+CALLER: Cash.
+AGENT: Thank you, Keith. Your payment method is set to cash. I will proceed with arranging your ride now.
+AGENT: Keith, could you please tell me the address where you'd like to be picked up?
+CALLER: Forty seven eighty three Allentown Road, Camp Springs, Maryland room one twenty nine,
+AGENT: Keith, I have the pickup address as four seven eight three Allentown Road, Camp Springs, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Fifty one fifty one Allentown Road, Camp Springs, Maryland.
+AGENT: Keith, I have the dropoff address as five one five one Allentown Road, Suitland, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Keith. I will now proceed with the next steps for your ride.
+AGENT: Keith, when would you like to be picked up?
+CALLER: At one forty five
+AGENT: Just to confirm, you would like to be picked up today at 1:45 PM, is that correct?
+CALLER: Yes.
+AGENT: Thank you for confirming the pickup time. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One and no.
+AGENT: I have recorded one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: Yes. I have some luggage.
+AGENT: Keith, the estimated fare for your trip is 6 dollars, and you will be paying with cash. You mentioned you have some luggage. Would you like to schedule a return trip as well?
+CALLER: No, ma'am.
+AGENT: Thank you for your patience, Keith. I'm processing your booking now.
+AGENT: Keith, your main trip is scheduled for today at 1:45 PM. Your confirmation number is 2 1 3 6 7 8 1 3 3. Is there anything else I can assist you with?
+CALLER: No, ma'am. Thank you so much.
+AGENT: Thank you for calling Barwood & Regency, Keith. Have a wonderful day!
+CALLER: Yes.

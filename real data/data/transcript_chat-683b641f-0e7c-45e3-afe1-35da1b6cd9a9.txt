@@ -1,0 +1,47 @@
+AGENT: Hello, this is Ana with Barwood & Regency. How can I assist you today, Frazier?
+CALLER: Uh, pickup.
+AGENT: Okay, I can help you with booking a pickup. Could you please tell me the pickup address? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Three
+AGENT: Hmmm.. that didn't seem like a payment method. Could you please tell me if you'd like to pay with cash, credit card, or Call and Ride? <emotion value="apologetic"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 3905 Bird Road, Kensington, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found your pickup address as three nine zero five Byrd Road, Kensington, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: DCA,
+AGENT: Okay, just to clarify, are you referring to Ronald Reagan Washington National Airport in Arlington, Virginia? And is this for arrivals or departures? <emotion value="peaceful"/>
+CALLER: Departures. Yes.
+AGENT: Okay, let me check that address.
+AGENT: Okay, so I found your dropoff address as two four zero one Smith Boulevard, Arlington, Virginia. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Mr. Frazier.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 02:45PM.
+AGENT: Just to confirm, you said 2:45 PM for your pickup time, correct? <emotion value="peaceful"/>
+AGENT: Okay great! I've got your pickup time as today at 2:45 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Tomorrow,
+AGENT: I see you said tomorrow. Could you please tell me what time tomorrow you would like to be picked up? <emotion value="peaceful"/>
+CALLER: 02:45PM.
+AGENT: Just to confirm, you said 2:45 PM tomorrow for your pickup time, correct? <emotion value="peaceful"/>
+AGENT: Okay great! I've got your pickup time as tomorrow at 2:45 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Okay, one passenger noted. <emotion value="grateful"/> Will you be needing a wheelchair accessible vehicle?
+CALLER: one passenger no wheelchair.
+AGENT: Okay, I've noted one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 44 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I understand you do not want to schedule a return trip. I will proceed with booking your one-way trip. Just to confirm, should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so <break time="250ms"/> I'm booking your trip now. <emotion value="grateful"/>
+AGENT: Your main trip is booked for tomorrow at 2:45 PM. Your confirmation number is 2 1 3 6 7 4 6 2 6. Is there anything else I can help you with?
+CALLER: Repeat the confirmation number.
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 4 6 2 6. Is there anything else I can assist you with?
+CALLER: Yeah. Repeat the confirmation number.
+AGENT: Of course. The confirmation number is 2 1 3 6 7 4 6 2 6. Is there anything else I can do for you?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, FRAZIER. Have a wonderful day!

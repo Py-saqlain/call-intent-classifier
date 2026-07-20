@@ -1,0 +1,38 @@
+AGENT: Hello NEWCAMB, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Okay. Uh, and I, I need a ride to go to Giant. I'm at, uh, fifty three fifty five Pooksil Road in Bethesda. And I need to go to Giant Old Georgetown Road. Giant.
+AGENT: Thank you for sharing your pickup and dropoff locations. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: One zero four hundred. Okay. A cache. Cash.
+AGENT: Thank you, I have your payment method as cash.
+CALLER: Cash.
+AGENT: I have your pickup as five three five five Pooks Hill Road, Bethesda, Maryland, and your dropoff as Giant Food at one zero four zero zero Old Georgetown Road, Bethesda, Maryland. Is that correct?
+AGENT: I have your pickup as 5 3 5 5 Pooks Hill Road, Bethesda, Maryland, and your dropoff as Giant Food at 1 0 4 0 0 Old Georgetown Road, Bethesda, Maryland. Is that correct?
+CALLER: Okay.
+AGENT: Your pickup and dropoff addresses have been verified, Newcamb.
+AGENT: When would you like to be picked up?
+CALLER: I'm ready right now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just me.
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 10 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: Alright. Yes. It'd be a round trip. I gotta pick up some kitty litter at Giant.
+AGENT: Great, I'll start collecting the return trip details for you now.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: I'm just gonna be in and out.
+AGENT: Would you like me to schedule your return pickup a couple of hours after your first trip, or do you have a specific time in mind?
+CALLER: No. I, uh, I'm just gonna get the kitty litter and leave.
+AGENT: Thank you for your patience. I'm processing your main trip booking now.
+CALLER: Okay.
+AGENT: I'm still working on your booking. Please give me a moment.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 9 3 4 9, and your pickup is today at 11:46 AM. Would you like to schedule the return trip now?
+AGENT: I'm still working on your booking. Please give me a moment.
+AGENT: Your main trip is confirmed with confirmation number 2 1 3 6 7 9 3 4 9, and your pickup is today at 11:46 AM. Would you like to schedule the return trip now?
+CALLER: No. I, uh, I'm just gonna pick up the, uh, kitty litter and then we're coming back home.
+AGENT: Thank you for letting me know. If you decide later that you'd like to schedule the return trip, just give us a call. Is there anything else I can assist you with right now?
+CALLER: Yes.
+AGENT: What else can I help you with today?
+CALLER: No. That's all. Oh, that's all. That's okay.
+AGENT: Thank you for calling Barwood & Regency, NEWCAMB. Have a wonderful day!
+CALLER: Okay. Thank you now.

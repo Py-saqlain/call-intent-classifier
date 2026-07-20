@@ -1,0 +1,48 @@
+AGENT: Hello Jane, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh-huh. Virtual assistant. Can I schedule a taxi for tomorrow morning?
+AGENT: Alright, how would you like to pay for your taxi tomorrow morning? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmmm.. that didn't seem right, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: Yes. I told you cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Thank you for letting me know about the payment. Now, could you please tell me the pickup address for your taxi tomorrow morning? <emotion value="peaceful"/>
+CALLER: I would like a taxi tomorrow morning okay, at 07:30AM. From two zero two Park Avenue Gaithersburg, Maryland.
+AGENT: Okay, so your pickup address is 2 0 2 Park Avenue, Gaithersburg, Maryland. Let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found 2 0 2 Park Avenue, Gaithersburg, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Gaithersburg.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Kaiser Walken Hill Road, Gaithersburg, Maryland.
+AGENT: Thank you. Let me check that address for you. <emotion value="peaceful"/>
+AGENT: I found 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. Is that the correct destination? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Jane. <emotion value="peaceful"/>
+AGENT: You mentioned you want to be picked up tomorrow morning. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. At five at 07:30AM.
+AGENT: Hmm, sorry, let me get that right. Did you mean 5 AM or 7:30 AM for your pickup time tomorrow morning? <emotion value="apologetic"/>
+CALLER: 07:30. 07:30AM.
+AGENT: Okay great! I've got your pickup time as tomorrow at 7:30 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: What No. Just just me. Just me.
+AGENT: Okay, I've noted 1 passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: Oh, return trip.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Now, do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No. No. No.
+AGENT: Alright, the estimated fare is 10 dollars, paying with Self. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: Yes, please.
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: I will call and let you know.
+AGENT: Okay, I've recorded your return trip as will-call. How many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Just me. Just me. Just me.
+AGENT: For your return trip, I have the pickup as 6 5 5 Watkins Mill Road and the dropoff as 2 0 2 Park Avenue, Gaithersburg. Is that correct? <emotion value="peaceful"/>
+CALLER: No. And it's just me.
+AGENT: Thank you for letting me know it's just you. Since the return trip addresses are not correct, could you please provide the correct pickup address for your return trip? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please tell me the correct pickup address for your return trip? <emotion value="peaceful"/>
+CALLER: The same as the pickup.
+AGENT: Okay, so your return trip pickup address is the same as your main trip pickup at 2 0 2 Park Avenue, Gaithersburg. Now, could you please provide the dropoff address for your return trip? <emotion value="peaceful"/>
+CALLER: Two zero two Park Avenue,
+AGENT: Thank you. Just to confirm, for your return trip, is the dropoff address also 2 0 2 Park Avenue, Gaithersburg? <emotion value="peaceful"/>
+CALLER: 202 Park Avenue,
+AGENT: Since your return trip dropoff address is the same as your pickup at 2 0 2 Park Avenue, Gaithersburg, the pickup and dropoff cannot be the same. Could you please provide a different dropoff address for your return trip? <emotion value="peaceful"/>
+CALLER: My god. I'm coming back home after my doctor's appointment. It's the same address. I need to come back home.
+AGENT: Got it, I understand you want to come back home after your appointment. So your return trip pickup will be 6 5 5 Watkins Mill Road. Now, could you please provide the dropoff address for your return trip? <emotion value="peaceful"/>
+CALLER: Oh my god.

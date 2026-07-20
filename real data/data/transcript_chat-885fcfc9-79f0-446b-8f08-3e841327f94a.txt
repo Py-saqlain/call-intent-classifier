@@ -1,0 +1,25 @@
+AGENT: Hello Coleman, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I have to I have calling right Hello?
+AGENT: How can I assist you with your ride today?
+CALLER: Yes. Car light.
+AGENT: Thank you for letting me know. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: I was calling right
+AGENT: Just to be sure, did you mean you would like to pay with Call and Ride? If so, I can ask for the last six digits of your Call and Ride card. If not, please let me know your preferred payment method.
+CALLER: sits zero zero three two seven nine three how how long is the wait
+AGENT: Thank you for providing your Call and Ride information. Your payment method is set to Call and Ride. The system will now proceed with your booking. If you have any other questions or details to add, please let me know.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Seven six two
+AGENT: To make sure I have the right address, could you please tell me the street name and city along with the number seven six two?
+CALLER: Oh, thoughts sound low.
+AGENT: I'm sorry, I didn't quite catch that. Could you please repeat the street name and city for the address starting with seven six two?
+CALLER: Also,
+AGENT: I didn't quite catch the full address. Could you please provide the street name and city for the address starting with seven six two?
+CALLER: Five
+AGENT: Could you please provide the full street number and the street name along with the city for your pickup address? Just the number alone isn't enough to locate it.
+CALLER: Oh, Oh, we three name Old Georgia Road.
+AGENT: Thank you. Just to confirm, is your pickup address seven six two three Old Georgia Road? And could you please tell me the city and state for this address?
+CALLER: No. 10625.
+AGENT: Thank you for the correction. Could you please confirm the full pickup address including the street name, city, and state for 1 0 6 2 5?
+CALLER: Hold towards town low. Save the fast
+AGENT: To confirm, is your pickup address 1 0 6 2 5 Old Georgetown Road, Bethesda, Maryland?
+CALLER: We'll call you back.

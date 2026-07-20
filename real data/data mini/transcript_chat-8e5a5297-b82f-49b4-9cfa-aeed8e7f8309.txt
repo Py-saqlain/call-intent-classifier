@@ -1,0 +1,10 @@
+AGENT: Hi Robert, this is Ana with Barwood & Regency. Your pickup is scheduled for today at 2:45 PM. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello? Marie? I'm ready, you dumb idiot.
+AGENT: I'm here to help you. How can I assist you with your ride today?
+CALLER: Twelve fifty I mean, 06:37AM going to 49 West Avenue at 12:50. They said it wasn't they said they needed to pick up. Avenue. At one thirty didn't even think that was long before 01:30. So I'm not late. I need on time. K?
+AGENT: Looks like you already have a trip from 4 0 9 Russell Avenue to 6 3 0 E Diamond Avenue at today 2:45 pm. What would you like to do?
+CALLER: 400 To 18 North 20 Drive at 02:45. Not 637 Avenue.
+AGENT: Thanks for the correction. You have a trip from 4 0 9 Russell Avenue to 1 8 North 2 0 Drive at today 2:45 pm. What would you like to do?
+CALLER: I might need to take care of it as soon as possible. I'm getting really pissed pissed off. It's taking too long.
+AGENT: I'm connecting you now to a customer service representative. Please stay on the line.

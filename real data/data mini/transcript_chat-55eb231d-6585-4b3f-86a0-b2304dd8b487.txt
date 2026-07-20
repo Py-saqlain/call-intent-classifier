@@ -1,0 +1,14 @@
+AGENT: Hi Sheryl, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Customer service.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: You can book a tip for tomorrow.
+AGENT: Let me get that set up for you right now.
+AGENT: Thanks for letting me know about your trip for tomorrow. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Calling live. Calling right.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? If so, I’ll ask for the
+CALLER: Yes. Yes.
+AGENT: Great! Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three zero. Thirty seven six five.
+AGENT: I’m sorry, the number you gave doesn’t seem to be six digits. Could you please provide exactly the last six digits of your Call and Ride card?
+AGENT: Take your time. Just let

@@ -1,0 +1,12 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Deborah Watson?
+CALLER: Yes.
+AGENT: Thanks, Deborah. This is Barwood & Regency. You have a will-call trip scheduled today from 814 West Diamond Avenue in Gaithersburg to 58 Pennydog Court in Silver Spring. How can I assist you today?
+CALLER: I'm I'm calling for my, um, return trip but the address is different.
+AGENT: I understand you want to arrange a return trip with a different address. Let me connect you to the booking team who can help set that up for you.
+AGENT: Looks like you already have a trip from Gaithersburg to Silver Spring today as a will-call. What would you like to do next?
+CALLER: I need a trip from Gaithersburg to Silver Spring.
+AGENT: Since you already have that trip scheduled, would you like to check its status, make a change, cancel it, or book a different trip?
+CALLER: I need to change the I need to I need to change the pickup address.
+AGENT: I'll connect you to a representative who can help update your pickup address for that trip.
+AGENT: I understand you'd like to change the pickup address for your trip. Trip modifications need to be handled by a live agent. Let me connect you with someone who can help.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

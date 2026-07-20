@@ -1,0 +1,40 @@
+AGENT: Hi Alex, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. Need to make a reservation for tomorrow.
+AGENT: Thanks for letting me know you need a ride for tomorrow. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: I'll pay with cash.
+AGENT: Thank you, I have your payment method as cash.
+AGENT: Could you please tell me the pickup address for your ride tomorrow?
+CALLER: Sure. It's 8130 Wisconsin Avenue, and I want to go to seven zero one first Street Northeast in Washington, DC.
+AGENT: I have the pickup address as eight one three zero Wisconsin Avenue, Bethesda, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please confirm the dropoff address as seven zero one First Street Northeast, Washington, District of Columbia? Is that correct?
+CALLER: Yes. That's correct.
+AGENT: Your dropoff address has been verified, Alex. I will now proceed with arranging your reservation for tomorrow.
+AGENT: What time tomorrow would you like to be picked up?
+CALLER: 08:30 in the morning.
+AGENT: I have your pickup time as tomorrow at 8:30 AM. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Two passengers and no need to. And no instructions for the driver.
+AGENT: The estimated fare for your trip tomorrow at 8:30 AM is 29 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: Great, I'll start collecting the details for your return trip.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: In our security metrics.
+AGENT: I have noted your driver instructions for the return trip. What time would you like to be picked up for your return trip?
+CALLER: One hour after the main trip,
+AGENT: Your return trip pickup time is scheduled for tomorrow at 9:30 AM. How many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Three passengers and no wheelchair.
+AGENT: For your return trip, I have the pickup address as seven zero one First Street Northeast and the dropoff address as eight one three zero Wisconsin Avenue. Is that correct?
+CALLER: No. I actually want to be dropped off at 521 G Street Northwest in Washington DC.
+AGENT: Thank you for the update. I will keep the return trip pickup as seven zero one First Street Northeast and update the dropoff to 521 G Street Northwest, Washington, District of Columbia. Let me confirm the new dropoff address for you.
+AGENT: I have the return trip dropoff address as five two one G Street Northwest, Washington, District of Columbia. Is that correct?
+CALLER: K.
+AGENT: Your return trip dropoff address has been verified, Alex. I will continue with your reservation.
+AGENT: The estimated fare for your return trip is 8.5 dollars, paying with cash. Should I go ahead and book both your main trip and return trip?
+CALLER: Yes. That's correct.
+AGENT: Booking your trip now.
+AGENT: Thank you for waiting. I am booking both your main trip and return trip now.
+AGENT: Your main trip is scheduled for tomorrow at 8:30 AM with confirmation number 2 1 3 6 6 5 5 0 4. Your return trip is scheduled for tomorrow at 9:30 AM with confirmation number 2 1 3 6 6 5 5 0 5. Is there anything else I can help you with?
+CALLER: Yes.
+AGENT: What else can I assist you with today?
+CALLER: No. Thank you. That's all.
+AGENT: Thank you for calling Barwood & Regency, Alex. Have a wonderful day!

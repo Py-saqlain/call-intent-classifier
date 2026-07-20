@@ -1,0 +1,48 @@
+AGENT: Hi Maynuna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Look at the at
+AGENT: Uhh, I didn't quite catch that. Could you please tell me how I can assist you today? <emotion value="peaceful"/>
+CALLER: Book a trip.
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Yes.
+AGENT: Hmmm.. that didn't seem right, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: Gosh.
+AGENT: I want to make sure I get your payment method right. Could you please tell me if you'd like to pay with cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Thank you for letting me know about the payment. Now, could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: 15608 Madison Circle.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found the pickup address as one five six zero eight Marathon Circle, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 1805 Cody Drive,
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found the dropoff address as one eight zero five Cody Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes. That is the correct address.
+AGENT: Your dropoff address has been verified, Maynuna.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now.
+AGENT: Okay great! I've got your pickup time as today at 9:09 AM. Alright, soo <break time="300ms"/> so how many
+CALLER: You want a little car?
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. How many passengers will be traveling, including yourself? And
+CALLER: The small car or bad?
+AGENT: I want to make sure
+CALLER: Yeah. So it's a small car. Sedan We want a Sedan.
+AGENT: I appreciate that, but I just need to know how many passengers will be traveling, including yourself, and if anyone will need a wheelchair-accessible vehicle. Could you please tell me the number of passengers and if a wheelchair
+CALLER: Two. Two. Two. Yeah.
+AGENT: Okay great! I've got that noted. Will you be needing a wheelchair accessible vehicle? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Okay great! I've got that noted. Do you have any special instructions for the driver? <emotion value="grateful"/>
+CALLER: Sedan.
+AGENT: Alright, the estimated fare is 41 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now? <emotion value="peaceful"/>
+AGENT: Take your time. Just
+CALLER: Yes. Yes.
+AGENT: Thank you for your patience. I am now processing your booking.
+CALLER: Yes. Yes. Book it.
+AGENT: Your main trip is scheduled for today at 9:09 AM. Your confirmation number is 2 1 3 6 7 6 7 6 9. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Maynuna. Have a wonderful day!

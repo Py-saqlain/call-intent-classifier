@@ -1,0 +1,44 @@
+AGENT: Hello Garry, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a a round trip to twenty eight zero one Weller Road I'm at 17100 Downing Street, and back to 17100 Downing Street.
+AGENT: Got it, I'll arrange the return trip once your main trip details are set up. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call me, Call him, Ryan.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yeah.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero zero
+AGENT: The last six digits you provided seem to be only two digits. Could you please provide all six digits of your Call and Ride card?
+CALLER: Zero zero three three seven two eight four.
+AGENT: Thank you, your payment method is set as Call and Ride.
+AGENT: I have 17100 Downing Street, Gaithersburg, Maryland for pickup, and 2801 Weller Road, Silver Spring, Maryland for dropoff. Is that correct?
+CALLER: Yes. It's gonna be round trip.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Now, I will proceed to verify both addresses for your main trip.
+AGENT: Your addresses have been verified, Garry.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Definitely.
+AGENT: To make sure I get this right, how many passengers will be traveling, and how many of them will need a wheelchair-accessible vehicle?
+CALLER: No. Just me.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+AGENT: When would you like to be picked up?
+CALLER: No. It's gonna be around six As soon as possible.
+AGENT: Just to clarify, would you prefer a pickup around 6 PM or as soon as possible?
+CALLER: As soon as possible.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare is 39 dollars, paying with Call and Ride. You mentioned you'd like a return trip — would you still like me to set that up?
+CALLER: Yeah.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Now As soon as possible now.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 9 7 0 0, and your pickup is today at 4:37 PM. Would you like me to help you book your return trip now?
+CALLER: Yes.
+AGENT: I am ready to assist you with booking your return trip now.
+AGENT: You already have a trip from Gaithersburg to Silver Spring today at 4:37 PM. What would you like to do?
+CALLER: Return trip at four fifty PM today.
+AGENT: Since you already have an active trip, I will connect you with a representative who can assist with scheduling your return trip.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

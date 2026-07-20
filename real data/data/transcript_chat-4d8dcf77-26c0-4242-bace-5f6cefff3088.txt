@@ -1,0 +1,31 @@
+CALLER: Anna with Barwood and Regency.
+AGENT: How can I assist you with your ride today?
+CALLER: How can I assist you today?
+CALLER: Yeah. I need to make a reservation.
+AGENT: Thank you for choosing Barwood and Regency. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card and call and ride. I'm going to pay with credit card.
+AGENT: Thank you for letting me know. Your payment method is set to credit card. I'll proceed with your reservation now.
+AGENT: Could you please provide the pickup address for your reservation?
+CALLER: 800 South Frederick Avenue,
+AGENT: I have the pickup address as 8 0 0 South Frederick Avenue, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes. That's correct,
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Yes. 730 21st Street Northwest in Washington DC.
+CALLER: I
+AGENT: I have the dropoff address as 7 3 0 21st Street Northwest, Washington, District of Columbia. Is that correct?
+CALLER: Yes, that's correct.
+AGENT: Your dropoff address has been verified, Sahar. I will now proceed with the next steps for your reservation.
+AGENT: When would you like to be picked up?
+CALLER: Saturday at 12PM.
+AGENT: Your pickup is scheduled for Saturday at 12:00 PM. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes.
+AGENT: Just to clarify, how many passengers will be traveling with you? And will you need a wheelchair-accessible vehicle?
+CALLER: One passenger and no wheelchair and no instructions for the driver.
+AGENT: The estimated fare for your trip is 53.5 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: Yes. But keep it open for now.
+AGENT: Your return trip will be set as a will-call, with pickup at 730 21st Street Northwest and dropoff at 800 South Frederick Avenue. The fare will be 53.5 dollars, paying with your credit card. Should I go ahead and book both trips now?
+CALLER: Yes. Full portrait.
+AGENT: Thank you for your patience. I'm booking both your main trip and your open return trip now. Please hold on a moment.
+AGENT: Your main trip is scheduled for July 18th at 12:00 PM with confirmation number 2 1 3 6 7 8 9 7 8. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 8 9 7 9. Is there anything else I can assist you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Sahar. Have a wonderful day!

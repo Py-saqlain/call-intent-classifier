@@ -1,0 +1,10 @@
+AGENT: Hi Luisa, this is Ana with Barwood & Regency. I see that vehicle 1004 has arrived at your pickup location. How can I assist you today?
+CALLER: Because Hello. I need to know where is my driver.
+AGENT: Uhh, let me check on your driver's status for you. I'll get that information right away.
+AGENT: Okay, so your driver with vehicle number 1004 has arrived at your pickup location. Anything else I can check for you? <emotion value="content"/>
+CALLER: My number and my telephone number Yes please My name is Luis Espinosa.
+AGENT: Hmm, let me pull up your trip details with your name Luis Espinosa.
+AGENT: Your current trip was scheduled for pickup at 11:30 am from 1 2 9 0 3 Pinnacle Drive in Germantown, Maryland. The driver and vehicle are assigned and the vehicle is at your location now. Is there anything else you would like to know?
+CALLER: I really wanna know where is the driver outside.
+AGENT: Uhh, I'm sorry about that. The system shows your driver is already at your pickup location, but I understand you can't see them. Let me connect you with someone who can help right away. <emotion value="sympathetic"/>
+AGENT: I'm connecting you now to a customer service representative who can help you locate your driver. Please stay on the line.

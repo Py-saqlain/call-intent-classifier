@@ -1,0 +1,37 @@
+AGENT: Hello matas, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a chat.
+AGENT: Uhh, just to make sure I understand, are you looking to book a ride? If so, could you please tell me where you'd like to be picked up and your destination?
+CALLER: Yes.
+CALLER: Okay. Okay. The pickup is seven four hundred. Lindbergh Drive, Gaithersburg Maryland two zero eight seven one.
+AGENT: Got it, your pickup is 7 4 0 0 Lindbergh Drive, Gaithersburg, Maryland. Where would you like to go?
+CALLER: Eight zero three Russell Avenue Gaithersburg, Maryland.
+AGENT: Thank you. Your dropoff is 8 0 3 Russell Avenue, Gaithersburg, Maryland. When would you like your pickup?
+CALLER: 11:15 this morning.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so your pickup is 7 4 0 0 Lindbergh Drive, Gaithersburg, Maryland, and your dropoff is 8 0 3 Russell Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified.
+AGENT: You mentioned 11:15 AM for your pickup time. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Today. 11:15 today.
+AGENT: Okay great! I've got your pickup time as today at 11:15 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Just me.
+AGENT: Okay great! I've got 1 passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Just want to have the confirmation number.
+AGENT: Just to confirm, your pickup time is today at 11:15 AM, with 1 passenger and no wheelchair needed. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thank you for confirming. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, so let me confirm those
+CALLER: It just arrived on time.
+AGENT: I'm glad to hear your ride arrived on time. If you need any further assistance or want to book another trip, just let me know. <emotion value="peaceful"/>
+CALLER: Okay. Can I have the confirmation number, please?
+AGENT: I don't have the confirmation number available right now. Your main trip pickup time is today at 11:15 AM. Is there anything else I can help you with? <emotion value="peaceful"/>
+CALLER: That's it. Thank you.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 11:15 AM. Your confirmation number is 2 1 3 6 7 0 5 2 2. Is there anything else I can assist you with?
+CALLER: Think it let me repeat that. The confirmation number, 213670522. Correct?
+AGENT: Yes, that's correct. Your confirmation
+CALLER: Okay. Okay.
+AGENT: Thank you for calling Barwood & Regency, matas. Have a wonderful day.

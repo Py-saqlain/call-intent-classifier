@@ -1,0 +1,19 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Unknown?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?
+AGENT: Hi there! This is Barwood & Regency. Am I speaking with Unknown?
+CALLER: No
+AGENT: May I ask who I’m speaking with? You can also tell me if you want me to list the names I have on this number.
+CALLER: MedStar Montgomery Medical Center
+AGENT: I see. The name you gave is a medical center, not a rider profile. Could you please tell me the name of the person I’m speaking with? If you want, I can list the names I have on this number for you.
+CALLER: Charles Thomas.
+AGENT: I don't have a profile under the name Charles Thomas. Profiles are created when booking a trip. Would you like help booking a ride today?
+CALLER: No.
+AGENT: Could you please tell me your name so I can assist you better?
+CALLER: Christine?
+AGENT: Thanks, Christine. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Checking on the right status, please.
+AGENT: Hmm, let me check that for you. Uhh, I’m not able to find an active trip under your profile right now. If you want, I can help you book a new ride. Would you like that? <emotion value="peaceful"/>
+CALLER: No. People are so annoying. This is such an annoying system they have. So annoying. Completely, like, infuriating. Can we please speak with a human?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you.

@@ -1,0 +1,31 @@
+AGENT: Hello Tahmasebi, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Reserve a ride for tomorrow at 09:30AM. Morning.
+AGENT: Thank you for letting me know your pickup time for tomorrow at 9:30 AM. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: All in right.
+AGENT: Could you please clarify how you would like to pay? Is it cash, credit card, or Call and Ride?
+CALLER: Call and ride.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero zero three five one six four zero.
+AGENT: Thank you, your payment method is set to Call And Ride. I’m moving forward with your booking now.
+AGENT: Could you please tell me the pickup address for your ride tomorrow at 9:30 AM?
+CALLER: Nine eight nine zero Washingtonian Boulevard, Gaithersburg.
+AGENT: I have 9 8 9 0 Washingtonian Boulevard, Gaithersburg, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address for your ride?
+CALLER: One seven zero five one Oakmont Avenue, Gaithersburg,
+AGENT: I have 1 7 0 5 1 Oakmont Avenue, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Mr. Tahmasebi. I am now passing your trip details to the booking team to complete your reservation.
+AGENT: You mentioned your pickup time is tomorrow at 9:30 AM. Is that correct? Please say yes to confirm or let me know if it needs to be changed.
+CALLER: Correct. Yes.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just me. No need any help.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 12.5 dollars, paying with Call And Ride. Would you like to schedule a return trip as well?
+CALLER: No. Thank you.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your main trip is scheduled for tomorrow at 9:30 AM. Your confirmation number is 2 1 3 6 7 8 5 7 8. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Tahmasebi. Have a wonderful day.
+CALLER: It

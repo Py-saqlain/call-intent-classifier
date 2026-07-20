@@ -1,0 +1,8 @@
+AGENT: Hello Robert, this is Ana with Barwood & Regency. Your trip is scheduled for pickup today at 12:50 PM. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Is the camera's way Yeah.
+AGENT: Uhh, I want to make sure I understand you correctly. Are you asking about booking a ride or something else I can assist you with? <emotion value="hesitant"/>
+CALLER: Room. Ryan's status.
+AGENT: Alright, I will check the status of your ride for you.
+AGENT: Uhh, I'm sorry about that. Your current trip from 6 3 0 East Diamond Avenue to 18 North Summit Drive is showing as late with no driver assigned yet. Let me connect you with a representative who can help right away. <emotion value="sympathetic"/>
+AGENT: I'm connecting you now to a customer service representative who can assist you further. Please stay on the line.

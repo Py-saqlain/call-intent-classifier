@@ -1,0 +1,13 @@
+AGENT: Hi Marie, this is Ana with Barwood & Regency. Vehicle 1183 has arrived at your pickup location. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: She needs to just be going to pick up something.
+AGENT: Okay, I can help with that. Could you please tell me the pickup address and the destination where she needs to go to pick up the item?
+CALLER: Can you wait? Okay.
+AGENT: Sure, take your time. Just let me know when you're ready to provide the details.
+CALLER: So you can't wait, you said? You can't wait. Okay.
+AGENT: Uhh, I’m here and ready whenever you are. I can stay on the line as long as you need. Just let me know the details when you’re ready. <emotion value="peaceful"/>
+CALLER: Hello? Okay. I would like to speak to someone.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: I need I need to speak to a agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thanks.

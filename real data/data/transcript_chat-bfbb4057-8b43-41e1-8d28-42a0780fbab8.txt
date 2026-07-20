@@ -1,0 +1,33 @@
+AGENT: Hello Barry, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Is any taxi coming to two three five two eight Forest Havenway?
+AGENT: So, you want to check if a taxi is coming to 2 3 5 2 8 Forest Haven Way? Let me connect you to the trip status team who can look that up for you.
+AGENT: There is no active trip currently scheduled to 2 3 5 2 8 Forest Haven Way. Would you like me to help you book a ride there?
+CALLER: Yes.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 23528 Forest Haven Way.
+AGENT: Hmm  let me check that address.
+AGENT: Okay, so I found 2 3 5 2 8 Forest Haven Way, Clarksburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Thank you. Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Two two seven hundred Sweet Shrub Drive,
+AGENT: Hmm  let me check that address.
+AGENT: Okay, so I found 2 2 7 0 0 Sweet Shrub Drive, Clarksburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct. Yes.
+AGENT: Your dropoff address has been verified. Your pickup address has also been verified. Barry, your addresses are all set.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay, I've got your pickup time as today at 9:23 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Two no. To yes. Yes.
+AGENT: Okay great! I've got 2 passengers and 1 wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No. I will try. No will no will No no wheelchair.
+AGENT: Alright, the estimated fare is 10.5, paying with credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for waiting. I am now
+CALLER: It's the one that red. Hello? So this is One way.
+AGENT: Your trip is booked for today at 9:23 AM. The confirmation number is B <break time="300ms"/> A <break time="300ms"/> 7 <break time="300ms"/>
+CALLER: Hello?
+AGENT: 9 <break time="300ms"/> 3 <break time="300ms"/> 1 <break time="300ms"/> 5. Is there anything else I can help you with?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

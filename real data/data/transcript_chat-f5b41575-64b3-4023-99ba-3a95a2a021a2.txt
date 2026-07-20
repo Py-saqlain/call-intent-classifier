@@ -1,0 +1,32 @@
+AGENT: Hello Judeth, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like a cab to pick me up at 6800 Tilden Lane, please.
+AGENT: Thank you for sharing your pickup address at 6800 Tilden Lane. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: I have 6 8 0 0 Tilden Lane, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: 15530 Russell Pike.
+AGENT: Thank you for the dropoff address at 15530 Russell Pike. May I know the city and state for this address, please?
+CALLER: Rock Maryland
+AGENT: I couldn't locate 15530 Russell Pike in Rock, Maryland. Could you please confirm if the city name is Rockville, Maryland? Or provide the correct city name?
+CALLER: Rock
+AGENT: It seems the city name "Rock" is incomplete or unclear. Could you please provide the full city name or a nearby landmark to help me find the correct address for 15530 Russell Pike?
+CALLER: Rockville is the city. Rockville. Rockville.
+AGENT: I still couldn't locate 15530 Russell Pike in Rockville, Maryland. Could you please verify the street name or provide any nearby landmarks or cross streets to help find the correct dropoff address?
+CALLER: Rockville Pike at the corner of Rockville Pike and Marinelli Road. Try
+AGENT: I found Bethesda North Marriott Hotel & Conference Center at 5701 Marinelli Road, Rockville, Maryland. Is this the correct dropoff location?
+CALLER: Fine. Sure.
+AGENT: Your dropoff address has been verified, Judeth.
+AGENT: When would you like to be picked up?
+CALLER: Now please.
+AGENT: Thanks, I've set your pickup time for now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: What One, no.
+AGENT: Thank you, I have recorded 1 passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Judeth, the estimated fare for your trip is 8 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No. Thank you.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 2:39 pm. Your confirmation number is 2 1 3 6 7 8 3 7 8. Is there anything else I can help you with?
+CALLER: No thank you.
+AGENT: Thank you for calling Barwood & Regency, Judeth. Have a wonderful day!

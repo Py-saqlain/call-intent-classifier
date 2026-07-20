@@ -1,0 +1,12 @@
+AGENT: Hello, Evelyne. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I had a reservation for me to access. They sent me a taxi.
+AGENT: I understand you had a reservation for Access and a taxi was sent. Are you calling to check the status of that ride or do you need help with something else regarding your reservation?
+CALLER: So I have to go down. I forget my time. I have to go together. Actually, somebody called me. I can get it.
+AGENT: It sounds like you need to go somewhere but you're not sure about the pickup time, and someone called you about it. Would you like me to help you check the time of your scheduled ride?
+CALLER: Yes.
+AGENT: You don't have any active trips scheduled right now. Would you like me to help you book a new ride?
+CALLER: My appointment was 10:00.
+AGENT: Thank you for that information. Since your appointment was at 10:00 am and you don't have an active trip now, would you like me to help you schedule a ride to get there or back?
+CALLER: They they are put it's 10:00. Somebody from would call me before I can get the the the phone. The app the the the the call. That's why I called back.
+AGENT: I understand you were expecting a call before your 10:00 am appointment ride, but you haven't received it yet. Let me connect you with a customer representative who can assist you further with this.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

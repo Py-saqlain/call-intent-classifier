@@ -1,0 +1,36 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Crystal Martin?
+CALLER: Yes.
+AGENT: Thanks for confirming, Crystal. This is Barwood & Regency. How can I assist you today?
+CALLER: Pickup.
+AGENT: Could you please tell me the pickup address you'd like to use?
+CALLER: Schedule a ride.
+AGENT: Thank you for letting me know you'd like to schedule a ride. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: Could you please provide the pickup address for your scheduled ride? If you'd like, I can use your home address at 28 Crestwood Drive, Gaithersburg, Maryland. Would that work for you?
+CALLER: Cash. Cash. Weiss On Russell Avenue.
+CALLER: No.
+AGENT: Just to clarify, you mentioned "Weiss on Russell Avenue" as the pickup address, but then said no. Could you please confirm the correct pickup address you'd like to use?
+AGENT: Thank you for letting me know. Could you please provide the correct pickup address again?
+CALLER: Yes. Weiss on Russell Avenue.
+AGENT: I found Weis at 8 8 3 Russell Avenue, Gaithersburg, Maryland. Is that the pickup location you want?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: 10214 Ridgeline Drive.
+AGENT: I have 1 0 2 1 4 Ridgeline Drive, Montgomery Village, Maryland as the dropoff address. Is that correct?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, Crystal. I'll now proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: Now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle?
+CALLER: No. No.
+AGENT: Thank you for letting me know. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 8.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 2:59 PM. Your confirmation number is 2 1 3 6 7 9 6 3 4. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Crystal. Have a wonderful day.

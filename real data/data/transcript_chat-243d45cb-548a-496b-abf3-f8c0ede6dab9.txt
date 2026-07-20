@@ -1,0 +1,67 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Marion Baird?
+CALLER: Yes.
+AGENT: Thanks, Marion. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yeah. Um, we need it. Cab of a van, like a will a well van to go to one six eight two six Georgia Avenue.
+AGENT: Thank you for sharing your destination. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Not today. I'm I I credit card.
+AGENT: Thank you, Marion. I've noted your payment method as credit card. We'll proceed with your booking now.
+AGENT: I have 1 6 8 2 6 Georgia Avenue, Olney, Maryland as your destination. Is that correct?
+CALLER: Okay.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: It's three zero zero five
+AGENT: Thank you. Could you please tell me the street name and city for the pickup address at three zero zero five?
+CALLER: leisure world all of it.
+AGENT: Just to confirm, is your pickup address three zero zero five South Leisure World Boulevard, Silver Spring, Maryland?
+CALLER: Yes.
+AGENT: I have three zero zero five South Leisure World Boulevard, Silver Spring, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified, Marion. I will now proceed with the next steps for your ride.
+AGENT: I have noted that you need a van. Is that correct? Please say yes to confirm.
+CALLER: Yes. Yes.
+AGENT: When would you like to be picked up?
+CALLER: Tomorrow at 01:30.
+AGENT: You said tomorrow at 1:30. Could you please clarify if that is 1:30 AM or 1:30 PM?
+CALLER: Yes. PM.
+AGENT: Your pickup time is set for tomorrow at 1:30 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yeah. On the fifteenth, July
+AGENT: I want to make sure I have your pickup time correct. Could you please confirm when you would like to be picked up? How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: what I'm calling for. The wheelchair accessible. That's what I'm calling for.
+AGENT: Thank you for letting me know you need a wheelchair-accessible vehicle. How many passengers will be traveling, including yourself?
+CALLER: Yes. We do need a wheelchair accessible. Yes.
+AGENT: I have noted that you need a wheelchair-accessible vehicle. How many passengers will be traveling, including yourself?
+CALLER: Not two.
+AGENT: The estimated fare for your trip is 14.5 dollars, and you will be paying with a credit card. Would you like to schedule a return trip as well?
+CALLER: One. And then me, two. So we are two.
+AGENT: Thank you for confirming that there will be two passengers, including yourself. Would you like to schedule a return trip as well?
+CALLER: Yes. At 02:00.
+AGENT: For your return trip, when would you like to be picked up?
+CALLER: Yes. 03:00.
+AGENT: You said 3:00. Could you please confirm if that is 3:00 AM or 3:00 PM for your return trip pickup?
+CALLER: Yes.
+AGENT: Could you please specify if you mean 3:00 AM or 3:00 PM for your return trip pickup time?
+CALLER: Three three PM.
+AGENT: The time you requested for your return trip has already passed. Could you please provide a new pickup time for your return trip?
+CALLER: I said tomorrow, not here, not today. The appointment is for tomorrow.
+AGENT: Thank you for clarifying that your return trip pickup is for tomorrow. What time tomorrow would you like to be picked up for your return trip?
+CALLER: Tomorrow. July 15 July fifteenth
+AGENT: Just to confirm, July 15th is today. Did you mean you want your return trip pickup on July 16th, tomorrow? If so, what time tomorrow would you like to be picked up for your return trip?
+CALLER: Tomorrow. July 15 July fifteenth July fifteenth twenty twenty three. July 5, sixteenth. Come on. It's it's gonna it might be come on.
+AGENT: I want to make sure I have your return trip date correct. Did you mean July 16th for your return trip pickup? If so, what time tomorrow would you like to be picked up?
+CALLER: I said 3PM at July fifth
+AGENT: Your return trip pickup time is set for tomorrow at 3:00 PM. How many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle for the return trip?
+CALLER: Two two Yes.
+AGENT: For your return trip, I have your pickup at 1 6 8 2 6 Georgia Avenue and your dropoff at 3 0 0 5 South Leisure World Boulevard, Silver Spring. Is that correct?
+CALLER: No. I'm doing everything wrong.
+AGENT: No problem, Marion. I have set your return trip pickup as the same as your main trip dropoff at 1 6 8 2 6 Georgia Avenue. What is the address for your return trip dropoff?
+CALLER: Three zero zero five South de Jawel Boulevard.
+AGENT: Just to confirm, is your return trip dropoff address three zero zero five South Leisure World Boulevard, Silver Spring, Maryland?
+CALLER: Yes.
+AGENT: I have three zero zero five South Leisure World Boulevard, Silver Spring, Silver Spring, Maryland as your return trip dropoff address. Is that correct?
+CALLER: If you want to Yes. It's only one.
+AGENT: Your return trip dropoff address has been verified, Marion. I will now proceed with the next steps for your return trip.
+AGENT: For your return trip, the pickup is at 3:00 PM on July 16th, with two passengers and a wheelchair-accessible vehicle. The estimated fare is 14.5 dollars, and the payment method is Self. Should I go ahead and book both trips for you?
+CALLER: Yes. Both trip. Yeah. Yes. Pickup at three 01:30. From three zero zero five South Leisure World, apartment one nineteen Return trip is three o'clock
+AGENT: Thank you for confirming. I am processing the booking for both your trips now. Please hold on a moment.
+AGENT: Your main trip is scheduled for tomorrow at 1:30 PM with confirmation number 2 1 3 6 7 8 4 3 2. Your return trip is scheduled for tomorrow at 3:00 PM with confirmation number 2 1 3 6 7 8 4 3 3. Is there anything else I can assist you with?
+CALLER: Gosh. Sure.
+AGENT: Thank you for calling Barwood & Regency, Marion. Have a wonderful day!

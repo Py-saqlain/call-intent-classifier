@@ -1,0 +1,37 @@
+AGENT: Hello Thomas, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I was supposed to have arrived this morning. They called me, and then I called back within three minute window No answer.
+AGENT: I understand you're concerned about a ride you were expecting this morning and that you tried to call back but didn't get an answer. Let me connect you with someone who can check the status of your trip and help you from here.
+AGENT: I don't see any active trip scheduled for you at the moment. Would you like me to help you book a new ride?
+CALLER: How much is new ride going compulsion?
+AGENT: I can help you with booking a new ride. To get started, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: Okay. How how how much do I have to pay a ride?
+AGENT: I don’t have the fare information yet for your new ride. Could you please tell me how you would like to pay for the ride? We accept cash, credit card, and Call and Ride.
+CALLER: Okay.
+AGENT: Could you please let me know which payment method you would like to use for your ride? Cash, credit card, or Call and Ride?
+CALLER: Cash. Cash. Cash.
+AGENT: Thank you for letting me know you’ll be paying with cash.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Seventy seven twenty six Hanover Parkway, Greenbelt, Maryland apartment t two. Two zero seven seven o.
+AGENT: I have 7 7 2 6 Hanover Parkway, Greenbelt, Maryland as your pickup address. Is that correct?
+CALLER: Yes. Yes. As soon as possible.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Forty four fifty one Place, Atlanta, Maryland. Building aura.
+AGENT: I have 4 4 5 1 Parliament Place, Lanham, Maryland as your dropoff address. Is that correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified. Thank you, Thomas. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: Right now,
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thank you. Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 17 dollars, and you will be paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now?
+CALLER: Sure.
+AGENT: I am booking your trip now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 7 4 2 1. Your pickup is today at 6:09 AM. Is there anything else I can assist you with?
+CALLER: No, man.
+AGENT: Thank you for calling Barwood & Regency, Thomas. Have a great day!

@@ -1,0 +1,15 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Seung Lee?
+CALLER: On the twenty first Place.
+AGENT: I want to make sure I have the right person first. Are you Seung Lee, or is this someone else?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Time do they need?
+AGENT: Before we get to the details, could you please confirm if I’m speaking with Seung Lee?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Turn right at the 21st Place.
+AGENT: I’m here to help with your ride, but first I need to confirm who I’m speaking with. Are you Seung Lee?
+CALLER: Then you'll take your first left onto Ingram
+AGENT: I want to make sure I have the right person before we continue. Are you Seung Lee?
+CALLER: then your destination will be on the right.
+AGENT: I’m here to assist you with your ride, but first I need to confirm your name. Are you Seung Lee?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Your destination on the right You know what?

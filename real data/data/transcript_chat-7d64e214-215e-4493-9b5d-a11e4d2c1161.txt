@@ -1,0 +1,51 @@
+AGENT: Hello Ondina, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I am in Rockville Metro Station again. I need to go to 9357 Copenhagen Drive.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Okay. Okay. Very fast because I I come from Virginia for two hour ago. Metro bus and everything.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I paying fast No. No. No. In cash. Like, always.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: I found a few locations for Rockville Metro Station. 
+Option one: 1 5 9 0 3 Somerville Drive, Rockville. 
+Option two: 3 7 8 Maryland 3 5 5, Rockville. 
+Option three: Rockville Station and Bay L, Rockville. 
+Option four: Rockville Station and Bay G, Rockville. 
+Option five: Rockville Station and Bay E, Rockville. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Am in route metro station, the the number is what is the number? Six five zero? Rockville pipe.
+AGENT: Just to clarify, are you saying your pickup is at 6 5 0 Rockville Pike? <emotion value="hesitant"/>
+CALLER: Yeah. I don't understand very well, but the the average there is nine five zero rockville pipe.
+AGENT: Okay, so just to be sure, your pickup is at 9 5 0 Rockville Pike, Rockville, Maryland? <emotion value="hesitant"/>
+CALLER: I need go to 9357 Copenhagen Drive. Potomac.
+AGENT: I have 9 3 5 7 Copenhaver Drive, Potomac, Maryland as your dropoff address. Is that correct? <emotion value="hesitant"/>
+CALLER: Yes.
+CALLER: Coming soon, please.
+AGENT: I found a few locations for Rockville Metro Station near 2 5 1 Rockville Pike, Rockville. 
+Option one: 1 5 9 0 3 Somerville Drive, Rockville. 
+Option two: 3 7 8 Maryland 3 5 5, Rockville. 
+Option three: Rockville MARC Amtrak Station, Rockville. 
+Option four: 2 5 1 Hungerford Drive, Rockville. 
+Option five: Rockville Station and Bay C, Rockville. 
+Which one is correct? <emotion value="hesitant"/>
+AGENT: I found a few locations for Rockville Metro Station near 2 5 1 Rockville Pike, Rockville. 
+Option one: 1 5 9 0 3 Somerville Drive, Rockville. 
+Option two: 3 7 8 Maryland 3 5 5, Rockville. 
+Option three: Rockville MARC Amtrak Station, Rockville. 
+Option four: 2 5 1 Hungerford Drive, Rockville. 
+Option five: Rockville Station and Bay C, Rockville. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: No. Rockville five six five zero. That's correct.
+AGENT: Just to confirm, is your pickup address 5 6 5 0 Rockville Pike, Rockville, Maryland? <emotion value="hesitant"/>
+CALLER: You know my address, the old way.
+AGENT: I have Rockville, Maryland as your pickup address. Is that correct? <emotion value="hesitant"/>
+CALLER: Mhmm.
+AGENT: Your pickup address has been verified, Ondina.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Yeah. Okay. I pay in cash and I go to five
+AGENT: Okay, I have noted 5 passengers for your trip. Do you need a wheelchair accessible vehicle? And when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: nine three five seven Copenhagen Drive. How many times do you say
+AGENT: Your main trip dropoff address is 9357 Copenhaver Drive, Potomac, Maryland. Do you need a wheelchair accessible vehicle? And when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Yes. Yes. Yes.
+AGENT: Thank you for letting me know you need a wheelchair accessible vehicle. With one wheelchair, the maximum number of passengers we can accommodate is 3. Could you please tell me the updated number of passengers? <emotion value="peaceful"/>
+CALLER: Okay. Thank you.
+AGENT: Alright, soo <break time="300ms"/>

@@ -1,0 +1,12 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Cyril Hunter?
+CALLER: Yes. Just call me.
+AGENT: Thanks, Cyril. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: You just called me. I'm calling you back.
+AGENT: I understand, Cyril. How can I assist you with your ride or any other request today?
+CALLER: I didn't have any questions.
+AGENT: Alright, Cyril. If you do need any assistance with booking a ride, checking a trip, or anything else, just let me know. Is there something you'd like to do now?
+CALLER: No. I don't, but I'll call you when need arise.
+AGENT: Understood, Cyril. Whenever you need a ride or assistance, just give us a call. If there's nothing else right now, I'll be here when you need us.
+CALLER: Alright. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Cyril. Have a wonderful day!
+AGENT: Take your time. Just let me know when you're ready.

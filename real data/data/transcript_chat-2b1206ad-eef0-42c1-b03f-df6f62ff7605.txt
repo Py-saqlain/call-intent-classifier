@@ -1,0 +1,48 @@
+AGENT: Hi Sandy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a ride from my home to Alaith.
+AGENT: Thank you for sharing your trip details. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Colon. Right?
+AGENT: Just to make sure, did you mean Call and Ride for your payment method?
+CALLER: Yeah. Or I can pay cash.
+AGENT: Thanks for confirming Call and Ride. Could you please provide the last six digits of your Call and Ride card? If you prefer to pay cash instead, just let me know.
+CALLER: I pay cash.
+AGENT: Great, we'll use cash for your payment.
+AGENT: I have 1 6 7 0 1 Crabbs Branch Way, Derwood, Maryland as your pickup address. Is that correct?
+CALLER: No. I am nine seven eleven Ladder Fern Terrace, Montgomery Village, Maryland.
+AGENT: Thank you for the correction. I will update your pickup address to 9 7 1 1 Ladder Fern Terrace, Montgomery Village, Maryland. Let me confirm that for you.
+AGENT: I have 9 7 1 1 Leatherfern Terrace, Montgomery Village, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: It looks like the dropoff location "Alaith" is outside our service area. Could you please provide a different destination address?
+CALLER: I have to go to Crawford Road
+AGENT: What is the street number on Crawford Road?
+CALLER: I don't know. McDonald's. McDonald's.
+AGENT: I found several
+CALLER: In Copper Road.
+AGENT: I found these McDonald's locations:
+
+1. 19388 Montgomery Village Avenue, Montgomery Village, Maryland
+2. 9100 Rothbury Drive, Gaithersburg, Maryland
+3. 18273 Flower Hill Way, Gaithersburg, Maryland
+4. 16701 Crabbs Branch Way, Rockville, Maryland
+5. 19230 Woodfield Road, Gaithersburg, Maryland
+
+None of these are on Copper Road. Could you please provide more details or a nearby landmark on Copper Road?
+CALLER: LA business. Or home home goods. Home goods.
+AGENT: Thank you for the details. Just to clarify, are you referring to the HomeGoods store on Copper Road? If so, could you please provide the street number or any nearby cross street to help me find the exact address?
+CALLER: Yes.
+AGENT: I
+CALLER: I don't have it. Next to it is LA Fitness.
+AGENT: I found these HomeGoods locations:
+
+1. 606 Quince Orchard Road, Gaithersburg, Maryland
+2. 18250 Village Mart Drive, Olney, Maryland
+3. 5130 Nicholson Lane, Kensington, Maryland
+
+The one next to LA Fitness is 606 Quince Orchard Road in Gaithersburg. Is that the correct dropoff address?
+CALLER: Yes. Next to consult. I like to edit fitness.
+AGENT: Got it, you want the dropoff at 606 Quince Orchard Road, Gaithersburg, Maryland, next to LA Fitness. Is that correct?
+CALLER: Yes. How much is it gonna be?
+AGENT: I’m here to help with addresses and trip details. For fare and pricing information, I’ll connect you to a live agent who can provide that. Please hold for a moment.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Agent now.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

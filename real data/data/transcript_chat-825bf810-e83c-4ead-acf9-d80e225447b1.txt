@@ -1,0 +1,47 @@
+AGENT: Hello Herbert, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Oh, shit. She won't get that over 200 that over 300? From No. It will go to, um, Mimi.
+AGENT: I'm sorry, I didn't quite catch that. Could you please clarify what you need help with?
+CALLER: I'm ready.
+AGENT: I don't see any active trips for you right now. Would you like me to help you book a ride?
+CALLER: A ride phone Yes.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: With my bank card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: To get started, could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Yes. It's one nine eight zero one. Observation Drive, Germantown. It's Holy Cross Hospital main entrance.
+AGENT: Okay, so your pickup is at one nine eight zero one Observation Drive, Germantown, Maryland, at the Holy Cross Hospital main entrance. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Right.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yes. They have to call because I'm up on the 5th Floor so I can come to Okay.
+AGENT: I want to make sure I understand correctly. Are you saying the destination is a place where someone will call you on the 5th floor for pickup? Could you please provide the address or location name for the dropoff? <emotion value="peaceful"/>
+CALLER: Yes. One nine one zero five.
+AGENT: Could you please tell me the street name and city for the dropoff address at one nine one zero five? <emotion value="peaceful"/>
+CALLER: Yes. One nine one zero five Frederick Road.
+CALLER: Frederick Road.
+AGENT: Okay, so your dropoff is at one nine one zero five Frederick Road, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Okay, so your dropoff is at one nine one zero five Frederick Road, Montgomery Village, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Wanna move up on your feet? Yes. That's it, ma'am.
+AGENT: Your dropoff address has been verified. Thank you, Herbert.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time as today at 1:08 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Hi. You go watch this. You're watching.
+AGENT: I want to make sure I get your passenger and wheelchair details right. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: No, just me. Uno.
+AGENT: Okay great! I've got 1 passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Right. May the note the main entrance of Holy Cross. Okay? The in Germantown on Observation Drive. I'm at gonna be at the main entrance. I have them to call me. On this number.
+AGENT: Alright, the estimated fare is 8 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Just as long as they pick me up here and take me home and that's it.
+AGENT: Your main trip is booked for today at 1:08 PM. Your confirmation number is 2 1 3 6 7 4 7 1 7. Is there anything else I can help you with?
+CALLER: Wait a minute. Hold on. Hold on. I'm at the hospital, so I have to get a pen out of my purse. Just give me a chance. Okay? I can write that down what you just said. Okay. Wait a minute. Oh, god.
+AGENT: Take your time, no rush at all. Just let me know when you're ready or if you need me to repeat the confirmation number for you.
+CALLER: Okay. Wait a minute. Wait. Wait. And go ahead and ask my at the nurse's desk. They got a pen or something. Okay. Excuse me, sir. Do you have a pen I can use right here?
+AGENT: I hope you find a pen quickly. Whenever you're ready, just let me know if you want me to repeat the confirmation number or if there's anything else I can assist with.
+CALLER: Okay. What is yes. I'm ready. What is that You are. Confirmation repeat.
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 4 7 1 7. Would you like me to say it again or is there anything else I can do for you?
+CALLER: 213674717. Right?
+AGENT: Yes, that's exactly right: 2 1 3 6 7 4 7 1 7. Is there anything else I can assist you with?
+CALLER: Okay. Okay. Thanks. No. That's it. Thank you, ma'am.
+AGENT: Thank you for calling Barwood & Regency,
+CALLER: Yes. I told them to call me, and then

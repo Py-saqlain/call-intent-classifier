@@ -1,0 +1,6 @@
+AGENT: Hi Victoria, this is Ana with Barwood & Regency. I see you have a will-call trip scheduled today from 3801 International Drive to 14514 Homecrest Road in Silver Spring. How can I assist you today?
+CALLER: Activate. Will call ride.
+AGENT: Okay so your trip is activated! A driver will be dispatched to your pickup at 3 8 0 1 International Drive, Silver Spring, Maryland shortly. The reference number for your trip is zero two one three six seven six six seven seven.
+AGENT: Your will-call trip is now activated, and the confirmation number is zero two one three six seven six six seven seven. A driver will be sent to your pickup location shortly. Is there anything else I can assist you with?
+CALLER: Send me ride status link.
+AGENT: I'm connecting you now to a customer service representative who can provide your ride status link. Please stay on the line.

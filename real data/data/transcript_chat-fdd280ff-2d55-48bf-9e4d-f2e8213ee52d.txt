@@ -1,0 +1,6 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I
+CALLER: Hello?
+CALLER: Hello?
+CALLER: Hello.
+CALLER: Mine
+CALLER: That's how you say it. Right?

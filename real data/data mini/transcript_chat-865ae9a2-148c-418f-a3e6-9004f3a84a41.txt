@@ -1,0 +1,17 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: It's all Oh, it makes sense. I can't.
+AGENT: I'm sorry, I didn't quite catch your name. Could you please say it again for me?
+CALLER: Speak to a representative. They're pick me up at one
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: You got three This is finished. One is a Oh, they grow? Oh, I thought it was all demigod. With the.
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: Status of my ride. Well, my insurance pay for a heating bag. Do they?
+AGENT: I can help you check the status of your ride. However, for questions about insurance coverage, I would need to connect you to a representative who can assist with that. Let me check your ride status for you now.
+AGENT: I’m sorry, I still need your name to look up your ride status. Could you please tell me your name?
+CALLER: Amanda Blackwell.
+AGENT: Thanks, Amanda. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I'm checking the status of my ride.
+AGENT: Hmm, let me pull that up for you. Uhh, I’m not able to find any active trips under your profile right now. Would you like me to help you book a new ride? <emotion value="peaceful"/>
+CALLER: Speak to representative.
+CALLER: Yeah. Or we could do. It don't matter. Okay.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

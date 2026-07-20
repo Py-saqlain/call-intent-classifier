@@ -1,0 +1,13 @@
+AGENT: Hi Nicole, this is Ana with Barwood & Regency. Vehicle 576 has arrived at your pickup location. How can I assist you today?
+CALLER: Allah Asia.
+AGENT: Uhh, I'm here to help you with your ride. Could you please tell me where you'd like to go or what you need assistance with? <emotion value="peaceful"/>
+CALLER: A lot of agents
+AGENT: Okay, I understand. How can I assist you with your ride or transportation needs today? <emotion value="peaceful"/>
+CALLER: At last agent.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Allah Asia.
+AGENT: Uhh, I want to make sure I understand you correctly. Are you looking to book a ride, check on a trip, or something else? <emotion value="peaceful"/>
+CALLER: Allah Asian.
+AGENT: Okay, I’m still not quite sure what you mean by "Allah Asian." Could you please tell me more about what you need help with regarding your ride or trip? <emotion value="peaceful"/>
+CALLER: I'm not Asia. Talk to someone. A liability. A lie agent. Not this morning.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

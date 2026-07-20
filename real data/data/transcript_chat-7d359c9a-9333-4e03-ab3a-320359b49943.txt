@@ -1,0 +1,40 @@
+AGENT: Hi Jed, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to book a trip to Decker Place.
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash or credit
+AGENT: Okay so I've got that payment noted as cash or credit. Could you please specify which one you'd prefer to use for this trip? <emotion value="hesitant"/>
+CALLER: Cash. Cash. Cash. Hello?
+AGENT: Okay, your payment method is set to cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: 16837 Crabs Branch Way, Durwood, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so your pickup address is 1 6 8 3 7 Crabbs Branch Way, Derwood, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. That's correct.
+AGENT: I'm sorry, but I couldn't find any locations for Decker Place. Could you please provide the full address or a nearby landmark for your destination? <emotion value="apologetic"/>
+CALLER: What's the number on decker?
+AGENT: I don't have that information. Could you please tell me the street number on Decker Place? That will help me find the exact location for your dropoff. <emotion value="peaceful"/>
+CALLER: Yeah. We need the number.
+AGENT: Yes, the street number is important to locate the exact address on Decker Place. Could you please provide the street number for Decker Place? <emotion value="peaceful"/>
+CALLER: Oh, do I have anything for you there?
+AGENT: I don't have any address information for Decker Place on file. Could you please provide the street number or any additional details about the location? That will help me find it for you. <emotion value="peaceful"/>
+CALLER: Okay. Do you want do you want to have some
+AGENT: I'm sorry, I didn't quite catch that. Could you please provide the street number or more details for Decker Place so I can assist with your dropoff address? <emotion value="peaceful"/>
+CALLER: Okay. It's gonna be 16325 Decker Place.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so your dropoff address is 1 6 3 2 5 Decker Place, Derwood, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Jed.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: We'd like to book that cab right now.
+AGENT: Okay, I've set your pickup time for right now. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Just one.
+AGENT: Thanks for that. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: Just one. They won't need a wheelchair accessible vehicle.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No. No. Thank you.
+AGENT: Alright, the estimated fare is 5.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 4:42 PM. Your confirmation number is 2 1 3 6 7 6 1 5 5. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Jed. Have a wonderful day!

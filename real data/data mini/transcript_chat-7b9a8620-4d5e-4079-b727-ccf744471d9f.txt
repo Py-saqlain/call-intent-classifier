@@ -1,0 +1,22 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Billy Ross.
+AGENT: Thanks, Billy. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I would like a test if a eight five zero two Leonard Drive, Silver Spring, Maryland
+AGENT: Thanks for sharing your pickup address at 8 5 0 2 Leonard Drive, Silver Spring, Maryland. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: two seventeen hundred April Lane Uh-huh. Yes. Uh-huh.
+AGENT: I heard the address 2 1 7 0 0 April Lane. Could you please let me know how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash. Yes. Cash.
+AGENT: Thank you, Billy. Your payment method is set to cash.
+AGENT: I have the pickup address as 8 5 0 2 Leonard Drive, Silver Spring, Maryland. Is that correct?
+CALLER: Cash.
+AGENT: I understand you said cash, but could you please confirm if the pickup address is 8 5 0 2 Leonard Drive, Silver Spring, Maryland? Is that correct?
+CALLER: Correct. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+AGENT: Thanks for sharing your pickup address at 8 5 0 2 Leonard Drive, Silver Spring, Maryland. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: 1700 April Lane. No. No. 1700 April
+AGENT: I heard the address 1 7 0 0 April Lane. Could you please let me know how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: k.
+AGENT: Could you please confirm if the pickup address is 8 5 0 2 Leonard Drive, Silver Spring, Maryland? Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

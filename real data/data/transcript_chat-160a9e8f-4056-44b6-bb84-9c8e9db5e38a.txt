@@ -1,0 +1,41 @@
+AGENT: Hello PARTRICA, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I'd like to book a new cab, please.
+AGENT: Thank you for choosing us for your ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero two zero four three five.
+AGENT: Thank you, your Call and Ride payment method is all set.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 3116. Hewitt Avenue,
+AGENT: I have 3 1
+CALLER: in St.
+AGENT: I have 3 1 1 6 Hewitt Avenue, Aspen Hill, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One three seven eight one. Connecticut Avenue.
+AGENT: I have 1 3 7 8 1 Connecticut Avenue, Aspen Hill, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Patricia. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One. No.
+AGENT: The estimated fare for your trip is 6 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Let's leave it open.
+AGENT: For your return trip, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: What
+AGENT: I don't have that return trip information yet. For your return trip, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Just to confirm, will anyone need a wheelchair-accessible vehicle for your return trip?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay. No one would need a wheelchair. No.
+AGENT: For your return trip, I have the pickup as 1 3 7 8 1 Connecticut Avenue and the dropoff as 3 1 1 6 Hewitt Avenue. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 6 dollars, paying with your Call and Ride card. Should I go ahead and book both trips?
+CALLER: Yes. Please.
+AGENT: Thank you, I am booking both trips for you now.
+AGENT: Your main trip is scheduled for today at 5:11 pm with confirmation number 2 1 3 6 6 9 7 1 5. Your return trip is a will-call booking with confirmation number 2 1 3 6 6 9 7 1 6. You can call back when you're ready for the return trip and a driver will be sent then. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Partrica. Have a wonderful day!

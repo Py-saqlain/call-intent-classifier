@@ -1,0 +1,20 @@
+AGENT: Hello Yvonne, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Need a taxi.
+AGENT: I'd be happy to help you with your taxi ride. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Calling my
+AGENT: It sounds like you might be saying "Call and Ride" for payment. Could you please confirm if that's correct? If so, I'll need the last six digits of your Call and Ride card to proceed. If you meant something else, just let me know.
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+CALLER: Diane. On
+AGENT: Thanks for that. Could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Great, Call and Ride it is. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three four nine three four seven.
+AGENT: Thank you for providing your Call and Ride details. Your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: One twenty zero two one twenty one two Cherry Hill Road, Silver Springs
+AGENT: I couldn't locate the pickup address you provided. Could you please confirm the full street number, street name, city, and state for the pickup location?
+CALLER: One twenty twelve. Cherry Hill Road, still with wings. Maryland
+AGENT: I found a few locations related to 1212 Cherry Hill Road, Silver Spring, Maryland, but none exactly match that address. Here are some options:
+
+1. Aspen Hill General & Cosmetic Dentistry at 13975

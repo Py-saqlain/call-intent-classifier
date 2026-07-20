@@ -1,0 +1,16 @@
+AGENT: Hi Seung, this is Ana from Barwood & Regency. You have been picked up by vehicle 579. How can I assist you today?
+CALLER: Uh, I want to cancel the reservation. I wanna cancel it.
+AGENT: I see two trips on your account.  
+Trip one: pickup at 8 4 2 Rockville Pike in Rockville at 2:14 pm going to Gleneagles Drive in Silver Spring.  
+Trip two: pickup at 8 4 2 2 Rockville Pike in Rockville at 2:36 pm going to Gleneagles Drive in Silver Spring.  
+Which one would you like to cancel?
+CALLER: Can't say both both Cancel both.
+AGENT: Hmm <break time="300ms"/> I found two trips on your account. Would you like me to cancel both of them for you?
+CALLER: I want to do I have a Only one.
+AGENT: Hmm <break time="300ms"/> just to be sure, you want to cancel only one trip? Which one would you like to cancel—the one at 2:14 pm or the one at 2:36 pm?
+CALLER: Two thirty six. So
+AGENT: Okay, <break time="300ms"/> so you want to cancel the trip with pickup at 2:36 pm from 8 4 2 2 Rockville Pike in Rockville going to Gleneagles Drive in Silver Spring. Is that correct?
+CALLER: Not that. Yeah. Yeah.
+AGENT: Okay so <break time="200ms"/> that trip has been cancelled for you. Is there anything else I can help you with?
+CALLER: I think you
+AGENT: Thank you for calling Barwood & Regency, Seung. Have a great day!

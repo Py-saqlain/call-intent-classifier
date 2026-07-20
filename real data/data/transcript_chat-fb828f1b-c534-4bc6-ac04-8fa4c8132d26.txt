@@ -1,0 +1,36 @@
+AGENT: Hello Roxana, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi, Cherry Grove. Metro. Station. Store Germantown, Maryland one three one twenty eight apartment three zero three, in Wanderlang Way,
+AGENT: Okay, you want a taxi to Cherry Grove Metro Station and then to a store in Germantown, Maryland at 1 3 1 2 8 Wanderlang Way, apartment 3 0 3. Let me make sure I have that right: Is your pickup location your current location or somewhere else?
+CALLER: I am in k d zero. Red line, Metro.
+CALLER: I'm in my way there. Soon.
+AGENT: Alright, I understand you're on the way to the Cherry Grove Metro Station on the Red Line. If you'd like to book a taxi from there to the store at 1 3 1 2 8 Wanderlang Way, apartment 3 0 3 in Germantown, Maryland, I can help with that. Would you like me to arrange that ride for you?
+CALLER: Oh, I I need I need a taxi from Chedi Grove to Germantown.
+AGENT: Alright, how would you like to pay for your taxi ride from Cherry Grove to Germantown? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Large.
+AGENT: Hmmm.. that didn't seem right, could you try
+CALLER: Fudge. Catch.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: I found a
+CALLER: Okay. I'm arriving in San Minas to the Metro in Cheri Grill.
+AGENT: Hmm, let
+CALLER: I'm in Rockville right now.
+AGENT: Your pickup address has been verified, Roxana. Now, could you please confirm the dropoff address at 1 3 1 2 8 Wanderlang Way, apartment 3 0 3, Germantown, Maryland?
+AGENT: When
+CALLER: Correct.
+AGENT: Could you please tell me what time you would like to be picked up for your trip? <emotion value="peaceful"/>
+CALLER: Probably in less than ten minutes.
+AGENT: Okay great! I've got your pickup time as today at 8:08 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers
+CALLER: Thank you.
+AGENT: I don't have the number of passengers yet. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One. One No. One robot.
+AGENT: Alright, the estimated fare is 22.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion
+CALLER: Okay.
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: I need I I need the taxi in Shady Grove too.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 8:08 PM. Your confirmation number is 2 1 3 6 7 7 7 5 9. Is there
+CALLER: Okay.
+AGENT: Thank you for calling Barwood & Regency, Roxana. Have a wonderful day.
+CALLER: Right. Send.
+CALLER: Five.

@@ -1,0 +1,41 @@
+AGENT: Hello Chip, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I wanna make a pickup. For wheelchair accessible.
+AGENT: Thank you for letting me know about the wheelchair accessibility. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, cash is all set for your payment method.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Six five three zero Democracy Boulevard, Bethesda, Maryland.
+AGENT: I have 6 5 3 0 Democracy Boulevard, Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Seven seven three one Scotland Drive, Potomac, Maryland.
+AGENT: I have 7 7 3 1 Scotland Drive, Potomac, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Chip.
+AGENT: I have that you need one wheelchair accessible vehicle. Is that correct? Please say yes to confirm.
+CALLER: Yeah. Yes.
+AGENT: Thank you for confirming the wheelchair accessibility. When would you like to be picked up?
+CALLER: This morning, 11:30, 12:00.
+AGENT: Just to clarify, would you prefer pickup at 11:30 AM or 12:00 PM this morning?
+CALLER: 12PM.
+AGENT: I have your pickup time as today at 12:00 PM. How many passengers will be traveling, including yourself?
+CALLER: Two.
+AGENT: Thank you. Will you be needing a wheelchair accessible vehicle for the two passengers? Also, do you have any special instructions for the driver?
+CALLER: Yes. We will need a wheelchair accessible and no special instructions.
+AGENT: The estimated fare for your trip is 10.5 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: Yes. At 08:00. PM.
+AGENT: You mentioned you'd like a return trip at 8:00 PM. Let me start collecting the return trip details for you.
+AGENT: For your return trip, could you please confirm the pickup time? You mentioned 8:00 PM, is that correct?
+CALLER: Yes.
+AGENT: Your return trip pickup time is set for today at 8:00 PM. How many passengers will be traveling on the return trip, and will you need a wheelchair accessible vehicle again?
+CALLER: Yes. We do need a wheelchair accessible, and it'd be two people.
+AGENT: For your return trip, I have the pickup address as 7 7 3 1 Scotland Drive, Potomac, Maryland, and the dropoff address as 6 5 3 0 Democracy Boulevard, Bethesda, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 11.5 dollars, paying with Cash. Should I go ahead and book both your trips now?
+CALLER: Yes.
+AGENT: I am booking both your trips now.
+AGENT: Both your main trip and return trip are booked. Your main trip confirmation number is 2 1 3 6 6 6 1 7 7, with pickup today at 12:00 PM. Your return trip confirmation number is 2 1 3 6 6 6 1 7 8, with pickup today at 8:00 PM. Is there anything else I can help you with?
+CALLER: Yes. I don't have a pen or piece of paper to write down the confirmation number. Is it could you send it to my phone?
+AGENT: I’m unable to send confirmation numbers directly to your phone, but you can always call us back anytime to have your confirmation numbers ready. Is there anything else I can assist you with right now?
+CALLER: No. Thank you. Have a good day.
+AGENT: Thank you for calling Barwood & Regency, Chip. Have a great day!

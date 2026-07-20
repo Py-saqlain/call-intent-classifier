@@ -1,0 +1,55 @@
+AGENT: Hello Rihana, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi. Call and die.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: No. I need to know how long will be take first. I need to know how long will it take to come here. I'm I'm right now, I'm.
+AGENT: Uhh <break time="300ms"/> I don't see an active trip for you right now. Would you like me to help you book a taxi? <emotion value="peaceful"/>
+CALLER: I'll book it. I need to know faster how long will it take. It is Can I give it to the address? Then you will check.
+AGENT: Yes, please go ahead and give me the pickup address, and I'll check how soon a taxi can get there. <emotion value="peaceful"/>
+CALLER: Okay. Okay. Six one zero North Frederick Avenue, Gettysburg, Maryland two zero eight seven seven. He's I I came some scrub. He's you know, the bulb items. Sam's Club's item.
+AGENT: Just to confirm, your pickup address is 6 1 0 North Frederick Avenue, Gettysburg, Maryland, near Sam's Club, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, I've got your pickup address as 6 1 0 North Frederick Avenue, Gettysburg, Maryland, near Sam's Club. Since you mentioned Call and Ride as your payment method, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yeah. Yes. Yeah. 222-0877 area area code.
+AGENT: Hmmm.. <break time="300ms"/> that didn't seem right, could you please provide exactly the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Let me give it to you. One second.
+AGENT: Take your time, I'm here when you're ready. <emotion value="peaceful"/>
+CALLER: Okay. Let me do it to you.
+AGENT: Alright, whenever you're ready, please go ahead and give me the last six digits of your Call and Ride card. <emotion value="peaceful"/>
+CALLER: Three three and up. 33. Is is it it take too long? I I will cancel it. You understand?
+AGENT: I understand you’re concerned about the time. Just to be sure, could you please provide the full six digits of your Call and Ride card? That way I can proceed with verifying your payment. <emotion value="peaceful"/>
+CALLER: Okay. Okay.
+AGENT: Whenever you're ready, please provide the full six digits of your Call and Ride card so I can verify your payment. <emotion value="peaceful"/>
+CALLER: Okay. Okay. Okay. Let me give it to you. Three three five one two two.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Thank you for that. Now, could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Remove me one second. Let me give it to you.
+AGENT: Take your time. Whenever you're ready, just let me know the pickup address. <emotion value="peaceful"/>
+CALLER: Two one one two one zero zero zero, Father, Harley, bird. Gelman Town, My lane two zero eight seven four.
+AGENT: Hmm <break time="350ms"/> let me check that address. You said two one one two one zero zero zero Father Harley Bird, Germantown, Maryland, lane two zero eight seven four. Just to clarify, is that one address or two separate addresses? Could you please confirm? <emotion value="hesitant"/>
+CALLER: Wrong. Wrong. Ma'am?
+AGENT: Uh, I am sorry, but could you please repeat the pickup address slowly and clearly? I want to make sure I get it exactly right for you. <emotion value="apologetic"/>
+CALLER: Up one. You're looking and I did And you you did you tell me when you drop one, you you told me wrong number. That is not correct.
+AGENT: I want to get this right for you. Could you please say the pickup address again, just the street number and street name first? That way I can confirm it clearly. <emotion value="apologetic"/>
+CALLER: Okay. Okay.
+AGENT: Thank you. Please go ahead and tell me the street number and street name for your pickup address when you’re ready. <emotion value="peaceful"/>
+CALLER: Six one zero
+AGENT: Thank you. Could you please provide the street name that goes with six one zero? <emotion value="peaceful"/>
+CALLER: Six one zero
+AGENT: I heard six one zero again. Could you please tell me the street name that goes with six one zero? For example, the name of the road or avenue? <emotion value="peaceful"/>
+CALLER: North Frederick Avenue, Yes. Not
+AGENT: Okay, so your pickup address is six one zero North Frederick Avenue. Is that correct? <emotion value="peaceful"/>
+CALLER: not Frederick Avenue.
+AGENT: Thank you for the correction. Could you please tell me the correct street name that goes with six one zero? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: I want to make sure I have the right street name for six one zero. Could you please say the street name again? <emotion value="peaceful"/>
+CALLER: Yes. This one did.
+AGENT: I’m sorry, I didn’t quite catch the street name. Could you please say the street name again for six one zero? <emotion value="apologetic"/>
+CALLER: 610 North Frederick Avenue.
+AGENT: Okay, so your pickup address is six one zero North Frederick Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Not Frederick Avenue, Gaithersburg, Maryland
+AGENT: Thank you for letting me know. Could you please tell me the correct city or street name that goes with six one zero? <emotion value="peaceful"/>
+CALLER: Ma'am, you like or just answering machine?
+AGENT: I’m here to help you. Please let me know the correct pickup address so I can assist you properly. <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Six one zero
+CALLER: Please. Please do it.

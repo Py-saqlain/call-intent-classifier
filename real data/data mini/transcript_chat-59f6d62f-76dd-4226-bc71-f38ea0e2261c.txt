@@ -1,0 +1,8 @@
+AGENT: Hi Gwen, this is Ana from Barwood & Regency. Your pickup is scheduled for today at 1:25 PM. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Oh, okay. I could hold. They said call would be coming in ten minutes. Ten minutes has come and gone.
+AGENT: I understand the wait can be frustrating. Are you calling to check on the status of a ride or would you like to book a new trip?
+CALLER: But I couldn't hear anything and I'm sending a call. This is. Need to take a box length Okay. What is the call I wanna make? Get in touch with them.
+AGENT: It sounds like you want to get in touch with someone about a call or a ride. If you need to speak with a live representative who can assist you directly, I can connect you to one right now. Would you like me to do that?
+CALLER: Yes.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

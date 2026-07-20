@@ -1,0 +1,30 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Patrick Flowers.
+AGENT: Thanks, Patrick. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a transport to Potomac Valley nursing facility.
+AGENT: Alright, Patrick, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Card.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Patrick, could you please tell me the pickup address for your ride?
+CALLER: It's one one one one nine rockville pipe.
+AGENT: Thank you, Patrick. Let me check that address. <emotion value="peaceful"/> I found a few locations.  Option one: 1 1 1 1 9 Rockville Pike, Rockville, Maryland.  Option two: 1 1 1 1 9 Rockville Pike, Bethesda, Maryland.  Which one is correct?
+CALLER: I believe this one is Rockville. It's white plant medical center One one one one nine White Flint Medical Center.
+AGENT: Okay, Patrick, just to clarify, you want the pickup at 1 1 1 1 9 Rockville Pike in Rockville, Maryland, near White Flint Medical Center? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay, Patrick, so your pickup is 1 1 1 1 9 Rockville Pike, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Patrick, I found Potomac Valley Rehabilitation and Nursing Center at 1 2 3 5 Potomac Valley Road, Rockville, Maryland. Is that the correct destination? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Patrick. I will now proceed with your booking.
+AGENT: Patrick, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Immediately.
+AGENT: Okay great! I've got your pickup time as today at 2:46 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. Wheelchair accessible vehicle and one passenger.
+AGENT: Okay great! I've got one passenger and a wheelchair-accessible vehicle needed. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: Alright, Patrick, the estimated fare is 17 dollars, paying with credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Patrick, your main trip is booked for today at 2:46 PM. Your confirmation number is 2 1 3 6 7 7 1 9 4. Is there anything else I can help you with?
+CALLER: No. That's it.
+AGENT: Thank you for calling Barwood & Regency, Patrick. Have a wonderful day!
+CALLER: You too.

@@ -1,0 +1,27 @@
+AGENT: Hello, this is Ana with Barwood & Regency. How can I assist you today, Hyman?
+CALLER: I'd like a cab to pick me up at five. Two five five Lostboro Road Northwest,
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so I found 5 2 5 5 Loughboro Road Northwest, Washington, District of Columbia. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please tell me your destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 6111 Montrose Road in Rockville.
+AGENT: Okay, so I found 6 1 1 1 Montrose Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified.
+AGENT: Just to confirm, you would like to be picked up today at 5:00 PM, is that correct? <emotion value="peaceful"/>
+CALLER: I'd like to be picked up right now.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. You want to be picked up right now instead of 5:00 PM, correct? <emotion value="hesitant"/>
+CALLER: Correct.
+AGENT: Okay great! I've got your pickup time as right now, today at 3:15 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thanks for that. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. It doesn't matter.
+AGENT: Okay, no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, so <break time="250ms"/> let me confirm those details. Your pickup is 5 2 5 5 Loughboro Road Northwest. <break time="250ms"/> Your dropoff is 6 1 1 1 Montrose Road. <break time="250ms"/> Pickup time is today at 3:15 PM. <break time="250ms"/> One passenger, no wheelchair needed. <break time="250ms"/> The estimated fare is 29 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 7 0 9 0. Your pickup is today at 3:15 PM. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Hyman. Have a great day!

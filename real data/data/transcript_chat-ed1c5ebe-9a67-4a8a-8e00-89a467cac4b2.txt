@@ -1,0 +1,33 @@
+AGENT: Hello Albert, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm calling. I need a pickup. I'm at Georgia Avenue fourteen zero thirty one Georgia Avenue.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Hmmm.. that didn't seem right, could you try again? How would you like to pay for your ride? Cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Ask credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so your pickup address is one four zero three one Georgia Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yes, ma'am. Yes, ma'am.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: It's gonna be a leisure war leisure war, Glenn Glend eagles. Glend Yeah. When the driver come, I'll give him the number. Because he's on the telephone now. But it's blenny. Leave your wall. He's like, five, seven minutes from where I'm standing.
+AGENT: Thank you for the dropoff information. Just to make sure I have it right, is your destination Leisure World, Glenn Dale, Maryland? <emotion value="hesitant"/>
+CALLER: Yes, ma'am. Glenn Eagles. Glenn Eagles.
+AGENT: Hmm, I couldn't find a location for Leisure World Glenn Eagles. Could you please provide the full street address or any nearby landmarks to help me find it? <emotion value="apologetic"/>
+CALLER: It's literally a wall anyway. When where where
+AGENT: Uh, I am sorry, but could you please repeat the full dropoff address or provide a nearby landmark or cross street to help me locate it? <emotion value="hesitant"/>
+CALLER: It's it's leisure wall by giant. It's Leisure World by Giant, the shopping center.
+AGENT: I found Leisure World Plaza at 3800 to 3860 International Drive, Silver Spring, Maryland. Is that the correct destination? <emotion value="peaceful"/>
+CALLER: Alright. Okay. Awesome. Okay. Many from Alright.
+AGENT: Your dropoff address has been verified. Thank you, Albert. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Alright. Okay. Okay. Okay. Right now right now, I'm I'm late for work. Right now. Right now. I need a cab right now.
+AGENT: Okay great! I've got your pickup time as right now. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Give us five. I am going to walk alone. Come on. Fucking shit, man. I'm alone. I'm going to walk.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 8 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No, ma'am.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 8:28 am. Your confirmation number is 2 1 3 6 7 3 9 7 5. Is there anything else I can help you with?
+CALLER: Thank you very much.
+AGENT: Thank you for calling Barwood & Regency, Albert. Have a wonderful day!
+CALLER: Last customer, please. That's all.

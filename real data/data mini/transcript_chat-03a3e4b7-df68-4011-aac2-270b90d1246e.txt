@@ -1,0 +1,15 @@
+AGENT: Hello Morris, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Can I have a taxi, please?
+AGENT: Alright, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+AGENT: Could you please tell me the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm done.
+AGENT: Hmmm.. that didn't seem right, could you try again with the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Three four I'm ready.
+AGENT: Hmmm.. that didn't seem right, could you try again with the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Can I have an agent?
+CALLER: Customer service.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

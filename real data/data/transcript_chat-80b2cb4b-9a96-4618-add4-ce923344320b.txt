@@ -1,0 +1,46 @@
+AGENT: Hi Leah, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Schedule a trip.
+AGENT: I'd be happy to help with scheduling your trip. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Card. Press. I mean, press.
+AGENT: Thank you, I have your payment method as credit card.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: No. I will I know you just need to drive.
+CALLER: The pickup address is two one zero zero six Frederick Road, Germantown seven six.
+AGENT: Just to confirm, your pickup address is 2 1 0 0 6 Frederick Road, Germantown, Maryland, correct?
+CALLER: Yes.
+AGENT: I have 2 1 0 0 6 Frederick Road, Germantown, Maryland as your
+CALLER: Yes, please.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One nine seven. Eight one. Frederick Road, Not the car. We just use it for me. Or whatever. Yeah. Germantown two zero eight seven six.
+AGENT: Just to confirm, your dropoff address is 1 9 7 8 1
+CALLER: Okay.
+AGENT: Could you please confirm the full dropoff address again? I want to make sure I have it exactly right.
+CALLER: The drop the drop off. Is one time seven. Eight one Frederick Road, Germantown,
+AGENT: Thank you
+CALLER: two zero eight
+AGENT: Thank you for the clarification. Just to confirm,
+CALLER: seven six.
+AGENT: Just to confirm, your dropoff address is 1 9 7 8 1 Frederick Road, Germantown, Maryland, correct?
+CALLER: Yes.
+AGENT: I have 1 9 7 8 1 Frederick Road, Germantown, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Leah.
+AGENT: When would you like to be picked up?
+CALLER: I like to be picked up. Now.
+AGENT: Got it, I'll arrange your pickup for now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One pasture. No chair.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No special instructions.
+AGENT: The estimated fare for your trip is 9 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I'll proceed with booking just the one-way trip for you. Should I go ahead and book it now?
+CALLER: I would like to schedule I would like to schedule I would like to I would like to schedule a wait time. With the trip.
+AGENT: Just to clarify, do you want to add a wait time during your trip, or are you asking to schedule a later pickup time?
+CALLER: Yes. A wait time.
+AGENT: Thank you for clarifying. I will make a note to include a wait time with your trip. Now, should I go ahead and book your trip with that included?
+CALLER: Yes.
+AGENT: Thank you for your patience. I'm processing your trip booking now with the wait time included.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 8 0 5 2. Your pickup is today at 11:19 AM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Leah. Have a wonderful day!
+CALLER: Thank you. Bye.

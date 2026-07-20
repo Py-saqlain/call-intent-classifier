@@ -1,0 +1,58 @@
+AGENT: Hello, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Um, I was just checking to see if someone were going to pick up my dry cleaning
+AGENT: So, you want to check if a ride is scheduled to pick up your dry cleaning? I'll connect you to the trip status team who can look into that for you.
+AGENT: It looks like you don't have any active trips scheduled right now. Would you like me to help you book a ride to pick up your dry cleaning?
+CALLER: Yes.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: It doesn't make any difference. Can you take the credit card off the phone? Over the phone?
+AGENT: Okay so I've got that you want to pay with a credit card. I won't need your card number over the phone, just confirming that credit card is your payment method. <emotion value="peaceful"/>
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your dry cleaning? If it's your home, just let me know and I can use that. <emotion value="peaceful"/>
+CALLER: No. Let's see. The pickup address is thirteen o four East West Highway. In Silver Spring. Kessler's Cleaners,
+AGENT: Okay, so your pickup address is one three zero four East West Highway, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address for your ride? <emotion value="peaceful"/>
+CALLER: Mhmm. Ten o one. Spring Street,
+AGENT: I found a location at one zero one North Street, York, Pennsylvania. Is that the correct dropoff address? <emotion value="hesitant"/>
+CALLER: Apartment 409, in Silver Spring, Maryland.
+AGENT: I found a few locations.  
+Option one: 9730 Glen Avenue, Silver Spring, Maryland.  
+Option two: 9734 Glen Avenue, Silver Spring, Maryland.  
+Option three: 9734 Glen Avenue, Silver Spring, Maryland.  
+Option four: 9824 Georgia Avenue, Silver Spring, Maryland.  
+Option five: 9300 Georgia Avenue, Silver Spring, Maryland.  
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Can you speak to a live person?
+CALLER: Hello.
+AGENT: Hi there! How can I assist you today?
+CALLER: Hi. I had called earlier to get someone to pick up my dry cleaning. And just now when I called to confirm it, the lady said there was nothing in the trip status about that. So she was gonna help me make it, but she didn't accept my address. She gives she gave me, like, six or seven others. So I guess I'm calling to see if I can get someone to pick up my dry cleaning and bring in six blocks.
+AGENT: Okay, I understand you want to book a ride to pick up your dry cleaning and bring it within six blocks. Could you please confirm the exact pickup address for me?
+CALLER: Okay. I don't want them to pick me up. I want them to go straight to the dry cleaner, pick us to the dry cleaning up, and bring it to me.
+AGENT: Got it. So you want the ride to start at the dry cleaner's location to pick up your dry cleaning and then bring it to your home. Could you please provide the address of the dry cleaner?
+CALLER: Right.
+AGENT: Could you please tell me the address of the dry cleaner where the driver should go to pick up your dry cleaning?
+CALLER: 13 o four
+AGENT: Thank you. Just to be sure, is the dry cleaner's address 1 3 0 4 East West Highway in Silver Spring, Maryland?
+CALLER: Thirteen o four East West Highway in Silver Spring, Maryland.
+AGENT: Thank you for confirming the dry cleaner's address as 1 3 0 4 East West Highway in Silver Spring, Maryland. Now, could you please provide the address where you would like the dry cleaning delivered?
+CALLER: Yes.
+AGENT: Could you please tell me the delivery address where you want the dry cleaning brought?
+CALLER: Ten o one
+AGENT: Thank you. Just to confirm, is the delivery address 1 0 1 Spring Street in Silver Spring, Maryland?
+CALLER: Yes. Apartment 409.
+AGENT: Thank you for confirming the delivery address as 1 0 1 Spring Street, Apartment 4 0 9, Silver Spring, Maryland. Would you like to schedule this pickup and delivery for now, or at a specific time?
+CALLER: No.
+AGENT: Okay, so your dropoff address is one zero zero one Spring Street, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Apartment 409.
+AGENT: Your dropoff address has been verified. Thank you, Lezonia.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: When would I like to be picked up? When would I want the dry cleaning to be picked up? I'm not traveling. I just want the dry cleaning picked up.
+AGENT: Yes, I understand you want the dry cleaning picked up. Could you please tell me what time you would like the pickup to happen?
+CALLER: No
+AGENT: Just to clarify, are you asking for a pickup right now, or would you prefer to schedule it for later or as a will-call trip?
+CALLER: What's the last thing you said?
+AGENT: I asked if you want the pickup right now, or if you would prefer to schedule it for later or as a will-call trip. When would you like the pickup?
+CALLER: No.
+AGENT: I want to make sure I understand correctly. Are you saying you want the pickup to happen right now? Or would you prefer to schedule it for a later time or as a will-call trip?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Thank

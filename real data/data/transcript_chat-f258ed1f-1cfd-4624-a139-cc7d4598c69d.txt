@@ -1,0 +1,42 @@
+AGENT: Hello Duane, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, yes. Um, please send a car to my home at 13530 Sherwood Forest Drive, I need to go to the Giant on Randolph Road.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yeah. It'll probably be cash
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+CALLER: And I and
+CALLER: I'd I'd like the driver to wait for me. When I go in the store.
+AGENT: Okay, I have your pickup as one three five three zero Sherwood Forest Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Two zero nine zero four.
+AGENT: Thank you for confirming your pickup address. I will now verify it. <emotion value="peaceful"/>
+AGENT: I found a location called Giant Food at 1 3 4 9 0 New Hampshire Avenue, Colesville, Maryland. Is that the place you want to go? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Duane. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: K. When will I'd like to be picked up right now.
+AGENT: Okay great! I've got your pickup time as today at 6:18 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself?
+CALLER: Thank you.
+AGENT: I don't have that passenger count yet. So, how many passengers will be traveling,
+CALLER: Just one.
+AGENT: Okay great! I've got one passenger. Will you be needing a
+CALLER: One
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. Did you mean you will need one wheelchair accessible vehicle? <emotion value="hesitant"/>
+CALLER: No no wheelchair no wheelchair No.
+AGENT: Okay, no wheelchair needed. Do you have any special instructions for the driver? <emotion value="peaceful"/>
+CALLER: I will want the driver to wait for me.
+AGENT: Alright, the estimated fare is 6.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes. At the same time, the driver will wait for me.
+AGENT: Thanks for letting me know about the driver waiting. Now about the return trip, would you like me to start collecting the details for that? <emotion value="peaceful"/>
+CALLER: It's the same. I'm just returning home.
+AGENT: Just to clarify, are you booking a return trip back to 13530 Sherwood Forest Drive, or is the trip we just set up your return journey? <emotion value="peaceful"/>
+CALLER: Yes. I am. Yes. I am.
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: It's the same. I I just I want the driver to wait for me and return me to my home. That's all.
+AGENT: Okay, for your return trip, I have the pickup as 1 3 4 9 0 New Hampshire Avenue, Colesville, Maryland, and the dropoff as 1 3 5 3 0 Sherwood Forest Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. It is.
+AGENT: The estimated fare for your return trip is 6.5 dollars, paying with Self. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes. Book both trips.
+AGENT: Okay so <break time="250ms"/> I'm booking both trips for you now. <emotion value="grateful"/>
+AGENT: Your main trip is scheduled for today at 6:18 am with confirmation number 2 1 3 6 7 5 3 6 5. Your return trip is scheduled for today at 8:18 am with confirmation number 2 1 3 6 7 5 3 6 6. Is there anything else I can help you with?
+CALLER: Nothing else.
+AGENT: Thank you for calling Barwood & Regency, Duane. Have a wonderful day!
+CALLER: Thanks. Bye.

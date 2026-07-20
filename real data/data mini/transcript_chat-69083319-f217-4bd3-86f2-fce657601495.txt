@@ -1,0 +1,8 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Britney from Metro Access.
+AGENT: Hi Britney, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Please.
+AGENT: Could you please let me know which payment method you'd like to use: cash, credit card, or Call and Ride?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Operator,
+AGENT: I can help with your payment details if you'd like — shall we continue?

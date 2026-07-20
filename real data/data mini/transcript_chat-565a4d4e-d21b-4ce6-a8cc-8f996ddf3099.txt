@@ -1,0 +1,21 @@
+AGENT: Hello fantos, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes, ma'am. Can you please send a, um, a cab to the Holy Cross in Germantown? For the front desk, please?
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: For the main entrance. Cash. Yes.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Okay. And I'm going to the two task What is the address? Nineteen eight zero one Observation Drive,
+CALLER: in Germantown, Maryland.
+AGENT: Okay, so I found 1 9 8 0 1 Observation Drive, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Okay, so I found 1 9 8 0 1 Observation Drive, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+Please confirm if 1 9 8 0 1 Observation Drive, Germantown, Maryland is the correct pickup address.
+CALLER: Correct.
+AGENT: I found a few locations. 
+ Option one: Holy Cross Health Partners at Asbury Methodist Village, 201 Russell Avenue, Gaithersburg. 
+ Option two: Holy Cross Health Partners Progressive Medical Care, 18530 Office Park Drive, Montgomery Village. 
+ Option three: Holy Cross Health Center in Gaithersburg, 220 Perry Parkway, Suite 5, Gaithersburg. 
+ Option four: Holy Cross Health Partners Rockville, 15245 Shady Grove Road, Suite 130, Rockville. 
+ Option five: Holy Cross Germantown Ambulance Bay, Germantown. 
+Which one is correct? <emotion value="hesitant"/>
+AGENT: I found a few locations. <break time="700ms"/>
+ Option one: Holy Cross Health Partners at Asbury Methodist Village, 201 Russell Avenue,

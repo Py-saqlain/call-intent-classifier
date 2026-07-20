@@ -1,0 +1,74 @@
+AGENT: Hi John, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, yes. I'd like a cab to come to my house two zero four Skidmore Boulevard, Hillside, Apartment 111, And I'm going to Giants grocery store on Bureau Drive, It was 46 Bureau Drive. Uh-huh. It's Gaithersburg, Maryland.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Calling right. Calling ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="peaceful"/>
+CALLER: Yes. I'm a call and ride. Mhmm.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three five zero six
+CALLER: nine one.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Okay, I have
+CALLER: Mhmm. Yes.
+AGENT: Okay, I have confirmed your dropoff address as 46 Bureau Drive, Gaithersburg, Maryland. However, I was unable to locate the pickup address you provided at 204 Skidmore Boulevard, Hillside, Apartment 111. Could you please provide the full pickup address again, including the street name and city? <emotion value="peaceful"/>
+CALLER: Okay. It's two zero four
+AGENT: Thank you. Could you please provide the street name and city
+CALLER: Skidmore Boulevard, Hillside,
+AGENT: Hmm, let me check that
+CALLER: Hillside, apartment one two Wait a minute. Have you got it? One one one. Apartment one one one,
+AGENT: I couldn't find an exact match for 204 Skidmore Boulevard, Hillside, Apartment 111. I found a location at 200 Skidmore Boulevard, Gaithersburg, Maryland 2 0 8 7 7. Is that the correct pickup address? <emotion
+CALLER: Not 100. Not
+AGENT: Okay, I understand that 200 Skidmore Boulevard is not correct. Could you please provide any other
+CALLER: Yes. That's me.
+AGENT: Just to be sure, you are confirming 200 Skidmore Boulevard, Gaithersburg, Maryland 2
+CALLER: What?
+CALLER: No. Two two zero four. Not 2004. Two zero four.
+AGENT: Thank you for clarifying. You said two two zero four Skidmore Boulevard, correct? Could you please confirm the city as well? <emotion value="peaceful"/>
+CALLER: No. Two o four.
+AGENT: Okay, so two zero four Skidmore Boulevard. Could you please confirm the city for that address? <emotion value="peaceful"/>
+CALLER: Street North Boulevard apartment one, one one Gaithersburg, Maryland two zero eight seven seven.
+AGENT: Thank you for that. Just to confirm, your pickup address is two zero four Skidmore Boulevard, Apartment one one one, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified, John.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Okay. And now you know, whenever you can send a a pad, but I also want a sedan. Because with my knees, it's hard for me climbing up in those tire van.
+AGENT: Thanks for letting me know about the sedan preference for your knees. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Okay. I said, you mean for me to go to to where I'm going? I'm about to go right now as soon as they can.
+AGENT: Okay great! I've noted your pickup as soon as possible and that you
+CALLER: As soon as you can send me one.
+AGENT: Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will you need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: This may Just just me.
+AGENT: Okay great! I've got one passenger noted.
+AGENT: Take your time. Just
+CALLER: Just one. Just me. And like I said, an want a sedan. Hello?
+AGENT: Alright, the estimated fare is 11.5 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Great! I'll start collecting the details for your return trip now.
+AGENT: For your return trip, what time would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I can't say the time. I'm going to a grocery store.
+CALLER: You know,
+AGENT: I’ve noted that
+CALLER: I don't know what time you're gonna pick me up from my house. Let's just say a half a half Let's say a half a half after he drops me off. I'll be in the store for a half hour.
+AGENT: Okay, I’ve scheduled your return pickup for about half an hour after your first trip drop-off. Now, how many passengers will be traveling on your return trip, including yourself? And will you need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. I need the same thing as I need going. It's just one passenger and a sedan car. K.
+AGENT: For your return trip, I have the pickup at 46 Bureau Drive and the dropoff at 204 Skidmore Boulevard. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 11.5 dollars, paying with your Call and Ride account. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so booking your trips now. <emotion value="grateful"/>
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 8:42 AM with confirmation number 2 1 3 6 7 6 7 5 2. Your return trip is scheduled for today at 9:12 AM with confirmation number 2 1 3 6 7 6 7 5 3. Is there anything else I can help you with?
+CALLER: No. But do I have to write those consternation numbers down? I don't need to write them down, do I?
+AGENT: You don’t have to write them down if you don’t want to. Just keep them handy in case you need to reference your trips later or call us about them. If you want,
+CALLER: Oh, okay.
+AGENT: If you need anything else at all, just let me know. I'm here to help.
+CALLER: Oh, no. That'll be it. I just wanna know what time, you know, what time a cab is coming.
+AGENT: Your main trip pickup is scheduled for today at 8:42 AM, just a couple of minutes from now. The driver will come to your house then. If you want, I can help you track the driver as well.
+CALLER: Oh,
+AGENT: If you’d like, I can help
+CALLER: No. I just stop stop stop As long as he's on his way now, you know, I'll just keep an eye out for him. And he can call me when he gets here.
+AGENT: That sounds like a good plan. The driver will
+CALLER: If he wants. Yeah.
+AGENT: Absolutely, the driver will give you a call when they arrive. If you need anything else, just let
+CALLER: Okay.
+CALLER: No. That

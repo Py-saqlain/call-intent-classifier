@@ -1,0 +1,40 @@
+AGENT: Hello Elvia, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like a a The 13O1Picard.
+AGENT: Could you please clarify what you mean by "The 13O1Picard"? Are you referring to an address, a pickup location, or something else? I'm here to help with your
+CALLER: Picard at Drive or Avenue.
+AGENT: Thanks for that. Just to be sure, are you asking for a pickup or dropoff at 1 3 0 1 Picard Drive or Picard Avenue? And is this for your pickup or your destination?
+CALLER: Destination.
+AGENT: Thank you for sharing your destination. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Alright. Paul and ride. 305141.
+AGENT: Thank you, I have your payment as Call and Ride.
+AGENT: I have the destination as 1 3 0 1 Piccard Drive, Rockville, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: 199 Rollins Avenue.
+AGENT: Thank you. Just to confirm, is your pickup address 1 9 9 Rollins Avenue, Rockville, Maryland?
+CALLER: Yes. Yes. Yes.
+AGENT: I have the pickup address as 1 9 9 Rollins Avenue, Rockville, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified, Elvia. I'll now proceed with the next steps for your trip.
+AGENT: When would you like to be picked up?
+CALLER: No.
+AGENT: Just to clarify, did you mean you want to be picked up right now, or would you prefer to schedule a will-call trip to call back later?
+CALLER: Yes. No. Now.
+AGENT: Got it, I'll arrange your pickup for right now. How many passengers will be traveling, including yourself? And will you need a wheelchair-accessible
+CALLER: One one No.
+AGENT: Thank you, I have one passenger and no wheelchair needed. Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: Elvia, the estimated fare for your trip is 18 dollars, paying with Call and Ride. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: I don't know yet.
+AGENT: No problem, I've recorded your return trip as a will-call trip. For the return trip, how many passengers will be traveling, including yourself? And will you need a wheelchair-accessible vehicle?
+CALLER: One No.
+AGENT: For your return trip, I have the pickup address as 1 3 0 1 Piccard Drive, Rockville, Maryland, and the dropoff address as 1 9 9 Rollins Avenue, Rockville, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: The estimated fare for your return trip is 18 dollars, paying with Call and Ride. Should I go ahead and book both your main trip and return trip?
+CALLER: Yes.
+AGENT: Booking your trips now.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 2:57 pm with confirmation number 2 1 3 6 7 8 3 9 3. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 8 3 9 4. Is there anything else I can help you with?
+CALLER: No.

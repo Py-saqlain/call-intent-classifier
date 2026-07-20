@@ -1,0 +1,62 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Tiffany Wade?
+CALLER: Hi. Yes.
+AGENT: Thanks for confirming, Tiffany. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Yes I'd like to uh, I need a cab to pick me up from my home at thirteen four zero six Daventry Way, Germantown, Maryland Maryland going to to go my downstream. I I remember. To the to the Giant Giant or
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: you know what? Pass. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Hello! May I please have your pickup address? <emotion value="peaceful"/>
+AGENT: Okay, Tiffany, I found your pickup address as 1 3 4 0 6 Daventry Way, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found a few locations. 
+ Option one: Giant Pharmacy, 1 8 2 5 0 Flower Hill Way, Gaithersburg. 
+ Option two: Giant Floral, 1 8 2 5 0 Flower Hill Way, Gaithersburg. 
+ Option three: Giant Food, 1 8 2 5 0 Flower Hill Way, Gaithersburg. 
+ Option four: Giant Food Bakery, 1 8 2 5 0 Flower Hill Way, Gaithersburg. 
+ Option five: Giant Pharmacy, 1 6 8 3 7 Crabbs Branch Way, Derwood. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: None
+AGENT: Okay, could you please provide a different address or more details for your destination? <emotion value="peaceful"/>
+CALLER: I'm gonna go to
+AGENT: Uh, I am sorry, but could you repeat that? <emotion value="peaceful"/>
+CALLER: I I wanna go to the living gas the Liberty gas station.
+AGENT: I found a few locations. 
+ Option one: Flower Hill Liberty Auto Center, 1 8 2 6 7 Flower Hill Way, Gaithersburg. 
+ Option two: Redland Liberty Automotive Service Center, 7 2 0 1 Muncaster Mill Road, Derwood. 
+ Option three: Liberty Gas Station, Rockville. 
+ Option four: Mobil, 8 4 4 1 a Snouffer School Road, Gaithersburg. 
+ Option five: East Diamond Liberty, 4 0 9 East Diamond Avenue, Gaithersburg. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: None of them. 'm gonna go to the one one Beverly gas station in Germantown.
+AGENT: Uh, I am sorry, but could you repeat that? <emotion value="peaceful"/>
+CALLER: Liberty Gas Station. In Germantown, Maryland.
+AGENT: I found one location: Liberty Gas Station, 1 3 4 1 1 Kingsview Village Avenue, Germantown, Maryland. Is that the correct destination? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: As soon as possible.
+AGENT: Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One One.
+AGENT: Okay great! <emotion value="grateful"/> Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Thank you. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, so let me confirm those details. Your pickup is 1 3 4 0 6 Daventry Way. Your dropoff is 1 3 4 1 1 Kingsview Village Avenue. Pickup time is 8:34 AM. One passenger, no wheelchair needed. The estimated fare is 5.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Great! I'll start collecting the details for your return trip now. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: I would say half an hour.
+AGENT: Okay, so for your return trip, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One. One.
+AGENT: Okay great! <emotion value="grateful"/> Will you be needing a wheelchair accessible vehicle for your return trip?
+CALLER: No.
+AGENT: Got it. Just to confirm, for your return trip, the pickup will be at Liberty Gas Station, 1 3 4 1 1 Kingsview Village Avenue, Germantown, Maryland, and the dropoff will be at your home, 1 3 4 0 6 Daventry Way, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: The estimated fare for your return trip is 5.5 dollars, paying with cash. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I am booking both trips for you now. <emotion value="grateful"/>
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 8:34 AM with confirmation number 2 1 3 6 7 0 4 3 0. Your return trip is scheduled for today at 9:04 AM with confirmation number 2 1 3 6 7 0 4 3 1. Is there anything else I can help you with?
+CALLER: No. No.
+AGENT: Thank you for calling Barwood & Regency, Tiffany. Have a wonderful day!
+CALLER: As well.

@@ -1,0 +1,33 @@
+AGENT: Hello Henry, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Daniel, Daniel. Okay. One zero eight three. Requesting that one.
+AGENT: Uhh, I want to make sure I understand
+CALLER: What my was he dropped me off He Yes. Hello? Hello?
+AGENT: Could you please clarify what you need help with regarding your drop-off? Are you asking about
+CALLER: Hello?
+AGENT: Hi there! How can I assist you with your ride today?
+CALLER: No. One Okay. Pickup. We'll request the type of number one zero eight three. For pickup. From eight zero five Jean Farm Boulevard, He drove this way. He dropped me off at I told him I'll wait for And so he's, like, send him the request. Please.
+CALLER: 1083.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. Let me verify it for you right now.
+AGENT: Okay so I've got that payment noted as cash.
+CALLER: We're good. We're good.
+AGENT: Okay, so I have your pickup address as 8 0 5 King Farm Boulevard, Rockville, Maryland confirmed. However, I couldn't locate the dropoff address with just the
+CALLER: Yes. Hey. You're on top of me up. At at hell anyway. Been in two. Robert Miller.
+CALLER: Hello?
+AGENT: Uh, I am sorry, but could you please repeat the dropoff address with the street name and city? I want to make sure
+CALLER: Double sour.
+AGENT: Hmm, let me check that address. Could you please clarify if you mean "Double Sour" as
+CALLER: Helen and the way. Helen. Helen. Robert Mueller,
+AGENT: Thank you. Just to confirm, is your dropoff address "2 Helen Heneghan Way, Rockville, Maryland"?
+CALLER: Yes.
+AGENT: Okay, so I found the dropoff address as 2 Helen Heneghan Way, Rockville, Maryland. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Henry. I will now proceed with the next steps for your trip.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: As soon as possible. Father traffic number one zero eight three. Please.
+CALLER: Can you? You do a swell job
+AGENT: Thank you for your kind words! <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a
+CALLER: Let you One. Myself. Yes.
+AGENT: Okay great! I've got one passenger and one wheelchair noted. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: No. No special. Nothing. I was flipping mad. Thank you. Bye.

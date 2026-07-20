@@ -1,0 +1,15 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Maria Bahana De Porro.
+AGENT: Thank you, Maria. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Because I am waiting for to somebody to pick me up to the institute.
+AGENT: Okay, I understand you're waiting for a pickup to the institute. Would you like me to help you book a ride to the institute now?
+CALLER: Thank you, Brenda.
+AGENT: Uhh, I’m Ana, not Brenda. <emotion value="peaceful"/> How can I assist you with your ride to the institute?
+CALLER: Wait. Just a minute.
+AGENT: Of course, take your time. I'm here when you're ready. <emotion value="peaceful"/>
+CALLER: Look at what's this thing. Hello? Hello? Agent.
+AGENT: Yes, I’m here to help. What can I do for you? <emotion value="peaceful"/>
+CALLER: Agent He said that these are your appointment, but you don't have no you have no. And primary. Care. Two.
+AGENT: I want to make sure I understand you correctly. Are you saying there’s some confusion about your appointment or primary care details? If you need help with your ride booking or anything related to your trip, I’m here to assist. If this is about something else, I can connect you to a live agent who can help. How would you like to proceed?
+CALLER: Agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

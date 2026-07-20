@@ -1,0 +1,9 @@
+AGENT: Hi Tiffany, this is Ana with Barwood & Regency. Your vehicle 369 is scheduled for pickup at 5:52 am. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: He said that he's on the bus.
+AGENT: Okay, thanks for letting me know. Is there anything else I can assist you with right now? <emotion value="peaceful"/>
+CALLER: Speak to a representative.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

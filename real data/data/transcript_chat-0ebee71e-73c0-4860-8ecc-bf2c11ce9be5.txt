@@ -1,0 +1,46 @@
+AGENT: Hello Bertha, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Oh, I mean, trip for tomorrow
+AGENT: Alright, how would you like to pay for your trip tomorrow? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Hello? Co going around.
+AGENT: I’m here to help. When you’re ready, could you please tell me how you would like to pay for your trip tomorrow? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: Go on one.
+AGENT: Hmmm.. that didn't seem clear to me. Could you please tell me again how you would like to pay? You can choose cash, credit card, or Call and Ride. <emotion value="apologetic"/>
+CALLER: Call call and loud. It three one five nine eight three.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip tomorrow? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thank you for confirming. Could you please provide the pickup address for your trip tomorrow? <emotion value="peaceful"/>
+CALLER: Yes. Oh, oh, okay. Okay. Wait a minute. Oh, one three one five. Apple Avenue, apartment fifteen o one, Stewart's Waymuller
+AGENT: Okay, so I found your pickup address as one three one five Apple Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address for your trip tomorrow? <emotion value="peaceful"/>
+CALLER: Yep. Seven five one Twinbrook Parkway, Rockville, Maryland
+AGENT: Okay, I found your dropoff address as seven five one Twinbrook Parkway, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Bertha.
+AGENT: What time tomorrow would you like to be picked up? <emotion value="peaceful"/>
+CALLER: We are ready eight AM
+AGENT: Just to confirm, you said 8 AM tomorrow for your pickup time, correct? <emotion value="peaceful"/>
+AGENT: Okay great! I've got your pickup time set for tomorrow at 8 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Yeah. Okay. One, one
+AGENT: Hmm, sorry, let me get that right. Did you mean one passenger and one wheelchair? <emotion value="apologetic"/>
+CALLER: No. I need help with the bed coming back. I need
+AGENT: Alright, the estimated fare is 25 dollars, paying with Call and Ride. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: no. I don't need a am not in a wheelchair. I need yeah.
+AGENT: Just to confirm, you don’t need a return trip, and you are not in a wheelchair, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Okay.
+AGENT: Okay so <break time="250ms"/> I am booking your trip now. <call functions.confirm_and_book  />
+CALLER: Yes.
+AGENT: I’m processing your booking now. Please hold on a moment. <emotion value="peaceful"/>
+AGENT: Thank you for waiting. Your trip is booked with confirmation number B <break time="300ms"/> 4 <break time="300ms"/> 9 <break time="300ms"/> 2 <break time="300ms"/> 1. Is there anything else I can help you with?
+CALLER: Okay. 49. Two one No.
+AGENT: Thank you for confirming the confirmation number B 4 9 2 1. If you need anything else later, just let me know.
+CALLER: Yes. Okay. Thank you. Bye bye.
+AGENT: [to_booking_orchestrator]
+CALLER: Oh, boy.
+AGENT: I’m here to help. What can I do for you?
+CALLER: Oh, boy. I got cuts. Oh,
+AGENT: If you have an emergency or need immediate medical help, please call 911 right away. If you need assistance with a ride or anything else, please let me know how I can assist you.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

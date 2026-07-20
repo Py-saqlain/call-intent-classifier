@@ -1,0 +1,10 @@
+AGENT: Hi Ron, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Taxi.
+AGENT: Uhh, okay. Are you looking to book a taxi ride now, or do you need help with something else related to your taxi service? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for
+CALLER: So far.
+AGENT: Hmmm.. that didn't seem right, could you try again? How would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Customer service.
+CALLER: See exactly.
+AGENT: I'm connecting you to a

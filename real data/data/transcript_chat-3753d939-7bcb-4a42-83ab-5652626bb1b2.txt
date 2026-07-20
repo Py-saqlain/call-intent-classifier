@@ -1,0 +1,55 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Pamela Brown,
+AGENT: Thanks, Pamela. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I want to schedule a ride for tomorrow, at 12:45.
+AGENT: Alright, Pamela, how would you like to pay for your ride tomorrow at 12:45 pm? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I have call and ride. I have a call and ride card. Do you need the number?
+AGENT: Okay so <break time="300ms"/> I understand you have a Call and Ride card. Yes, please provide the last six digits of your Call and Ride card number when you're ready. <emotion value="peaceful"/>
+CALLER: Six digits. Let's see. Four by Alright. Would be three five two one eight four.
+AGENT: Hmmm.. <break time="300ms"/> that didn't seem quite right. Could you please provide exactly six digits from your Call and Ride card? <emotion value="apologetic"/>
+CALLER: I did. I can give you the let me give you the whole number. Six three six eight one four zero zero zero zero three five two one eight four.
+CALLER: I'm brand new.
+AGENT: Thanks for that. Could you please just give me the last six digits of your Call and Ride card number? That’s the six digits at the very end. <emotion value="peaceful"/>
+CALLER: Three five two one eight four.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Twenty one thousand father Hurley Boulevard, apartment one zero nine, Germantown, Maryland two zero eight seven four.
+AGENT: Okay, so I found 2 1 0 0 0 Father Hurley Boulevard, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Mhmm.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Okay. Yes. One two eight zero zero Middlebrook Road,
+AGENT: Could you please tell me the city and state for one two eight zero zero Middlebrook Road?
+CALLER: Germantown, Maryland.
+AGENT: Okay, so I found 1 2 8 0 0 Middlebrook Road, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Pamela.
+AGENT: Just to confirm, you would like to be picked up tomorrow at 12:45 pm, is that correct? <emotion
+CALLER: Yes.
+CALLER: Right.
+AGENT: Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One. No.
+AGENT: Okay great! <break time="200ms"/> I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: Only that I have a walker, but I can put it in the car if necessary.
+AGENT: Alright, the estimated fare is 7.5 dollars, paying with Call and Ride. You mentioned you have a walker but can manage to put it in the car yourself. Would
+CALLER: Okay.
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Yeah. Can can we make it so that I can call when I'm done, or do I have to set a specific time now?
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+I understand you want to call when you're ready for the return trip pickup instead of setting a specific time now. For the return trip, we do need to schedule a pickup time or a relative time. Would you prefer to set a specific time now, or would
+CALLER: Yes. Okay. Yes. I can I can actually set a time now?
+AGENT: Great! What time would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Twenty 01:20.
+CALLER: 02:00.
+AGENT: Just to confirm, you want to be picked up for your return trip at 2:00 pm, is that right? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The return trip pickup time must be at least 10 minutes after your main trip pickup time, which is tomorrow at 12:45 PM. Could you please provide a valid return pickup time that is after that? Or would you
+CALLER: Right.
+AGENT: Would you like to give me a new return pickup time that is at least 10 minutes after 12:45 PM tomorrow, or would you prefer to just book a one-way trip instead? <emotion value="peaceful"/>
+CALLER: I no. I I already asked for 02:00. To be the return trip. That's more than ten minutes after the drop off.
+AGENT: Thank you for your patience. I'm processing your main trip booking now. Please hold on a moment.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 7 9 2 5. The pickup time is tomorrow at 12:45 PM. Is there anything else I can help you with?
+CALLER: Could you repeat the number, please?
+AGENT: Certainly. The confirmation number for your main trip is 2 1 3 6 7 7 9 2 5. Is there anything else I can assist you with?
+CALLER: No. Okay. Thank you so much.
+AGENT: Thank you for calling Barwood & Regency, Pamela. Have a wonderful day!
+CALLER: Okay.

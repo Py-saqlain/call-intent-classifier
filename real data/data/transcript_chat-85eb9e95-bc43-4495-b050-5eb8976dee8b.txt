@@ -1,0 +1,40 @@
+AGENT: Hello Erick, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello? I'm I thought I was calling on a taxi.
+AGENT: How can I assist you with your taxi ride today?
+CALLER: Oh, okay. I need a ride to six zero seven North North north Frederick Road. And I'm at
+AGENT: Could you please confirm your current pickup address for the ride?
+CALLER: Yeah. I already did.
+AGENT: Just to make sure I have it right, you want to go to 6 0 7 North Frederick Avenue, correct? And could you please tell me where you will be picked up from?
+CALLER: Yeah. Correct.
+AGENT: Could you please tell me your pickup address?
+CALLER: Yeah. One zero three four five
+AGENT: Thank you. Could you please provide the full street name and city for your pickup address?
+CALLER: Yeah. Correct. Yeah. One zero three four five One zero three four five.
+AGENT: I want to make sure I have your pickup address correctly. Is it 1 0 3 4 5 Battleridge Place in Montgomery Village?
+CALLER: Yes. Yes. Yes.
+AGENT: Thank you for confirming your pickup and dropoff addresses. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Okay. Cash.
+AGENT: Thank you for letting me know you'll be paying with cash.
+CALLER: Cash.
+AGENT: I have your pickup as 1 0 3 4 5 Battleridge Place, Montgomery Village, Maryland, and your dropoff as 6 0 7 North Frederick Avenue, Gaithersburg, Maryland. Is that correct?
+AGENT: I have your pickup as 1 0 3 4 5 Battleridge Place, Montgomery Village, Maryland, and your dropoff as 6 0 7 North Frederick Avenue, Gaithersburg, Maryland. Is that correct?
+CALLER: Yep. Correct. Yeah. Yeah. Mhmm.
+AGENT: Your pickup and dropoff addresses have been verified, Erick.
+AGENT: When would you like to be picked up?
+CALLER: That's correct. Okay.
+AGENT: Could you please tell me the pickup time you would like?
+CALLER: As soon as possible.
+AGENT: Thanks for letting me know you want to be picked up as soon as possible. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: I don't know the time, but as soon as possible. Mhmm. Just me Just me.
+AGENT: I have your pickup time as as soon as possible. You mentioned just one passenger, yourself. Will you need a wheelchair-accessible vehicle?
+CALLER: Yeah.
+AGENT: Thank you for confirming one passenger and that a wheelchair-accessible vehicle is needed. Do you have any special instructions or notes for the driver?
+CALLER: Mhmm. Just to try to get here as quick as possible.
+AGENT: The estimated fare for your trip is 10.5 dollars, and you will be paying with Self. Would you like to schedule a return trip as well?
+CALLER: $10.
+AGENT: The estimated fare for your trip is 10.5 dollars. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 10:51 AM. Your confirmation number is 2 1 3 6 6 3 2 7 8. Is there anything else I can help you with?
+CALLER: Mhmm. Okay. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Erick. Have a great day!

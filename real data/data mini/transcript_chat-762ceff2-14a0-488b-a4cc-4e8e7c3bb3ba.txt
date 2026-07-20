@@ -1,0 +1,25 @@
+AGENT: Hello Sheba, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. Can you give me the guy? On today?
+AGENT: Umm, just to make sure I understand, are you looking to book a ride for today? If so, could you please tell me the pickup and dropoff locations? <emotion value="peaceful"/>
+CALLER: Is
+AGENT: Alright, <break time="300ms"/> how would you like to pay for
+CALLER: it's one one three five University Boulevard West, Silver Spring, Maryland. Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+CALLER: Yeah. I'm I'm at one one three five University Boulevard, West, Silver Spring, Maryland.
+AGENT: Okay, so I have your pickup as one one three five University Boulevard West, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Mehran, Okay. Drop off is one two zero one six. Georgia Avenue.
+AGENT: Hmm <break time="350ms"/> let me check that dropoff address. To confirm, you said one two
+CALLER: Okay.
+CALLER: One
+AGENT: Okay, so I have your dropoff as one two zero one six Georgia Avenue, Wheaton-Glenmont, Maryland. Is that correct? <emotion
+CALLER: two zero one six. Yeah. Georgia Avenue. Yes.
+AGENT: Both your addresses have been verified, Sheba.
+AGENT: What time today would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Pardon me? 02:00.
+AGENT: Just to confirm, you mean 2:00 PM today for your pickup time? <emotion value="peaceful"/>
+CALLER: PM. Two, yeah, 2PM. Yeah. I'm calling in a ahead of time. Yeah. Mhmm. 2PM. Yes.
+AGENT: Okay great! I've got your pickup time noted for today at 2:00 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so
+CALLER: Yeah. Okay.
+CALLER: Okay. That's all.
+CALLER: Nothing else.
+AGENT: Thank you for calling Barwood & Regency, Sheba. Have a wonderful day!

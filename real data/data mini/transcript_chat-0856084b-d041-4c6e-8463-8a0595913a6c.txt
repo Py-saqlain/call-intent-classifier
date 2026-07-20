@@ -1,0 +1,17 @@
+AGENT: Hello Stephanie, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I'm in a sweet spot. Ice cream on Georgia Avenue. And it's one excuse me. I'm sorry. It's one one is that a nine? Is one one is that a nine? 11923. And I'm going to.
+AGENT: Uhh, I want to make sure I got that right. You said the address is 1 1 9 2 3 Georgia Avenue? Could you please confirm? And where would you like to go from there? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yep.
+AGENT: Hmmm.. that didn't seem clear, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: credit card. Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, please confirm the pickup address: one one nine two three Georgia Avenue, Wheaton, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Right.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please tell me the destination or dropoff address where you would like to go? <emotion value="peaceful"/>
+CALLER: The weekly process. Operator,
+AGENT: I can help you with the details of your trip — would you like to continue? <emotion value="peaceful"/>
+CALLER: Operator,
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

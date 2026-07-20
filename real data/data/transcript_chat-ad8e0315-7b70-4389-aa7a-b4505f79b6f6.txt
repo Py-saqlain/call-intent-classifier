@@ -1,0 +1,30 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Christine Weiss?
+CALLER: Yes.
+AGENT: Thanks, Christine. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I'd like to book a cab using call and ride
+AGENT: Thank you for letting me know you'd like to use Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes. Three four nine one eight zero
+AGENT: Thank you, Christine. Your payment method Call And Ride has been verified.
+AGENT: Christine, could you please tell me the pickup address for your ride?
+CALLER: Yeah. It's 10222 Ridgeline Drive, Montgomery Village.
+AGENT: I have 1 0 2 2 2 Ridgeline Drive, Montgomery Village, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Have Seven zero two Russell Avenue, Gaithers burg, Maryland
+AGENT: I have 7 0 2 Russell Avenue, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Christine. I will now proceed with the next steps for your booking.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: Thanks, I've noted your pickup time as today at 11:17 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Just to confirm, you have one passenger and no wheelchair needed? If that's correct, do you have any special instructions or notes for the driver?
+CALLER: One no. No wheel staff. Yes. Yes. No.
+AGENT: The estimated fare for your trip is 9.5 dollars, paying with your Call And Ride card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 11:17 AM. Your confirmation number is 2 1 3 6 6 5 5 2 3. Is there anything else I can help you with?
+CALLER: What? Second.
+AGENT: Your main trip confirmation number is 2 1 3 6 6 5 5 2 3. Is there anything else I can assist you with?
+CALLER: No. That's all.
+AGENT: Thank you for calling Barwood & Regency, Christine. Have a wonderful day!

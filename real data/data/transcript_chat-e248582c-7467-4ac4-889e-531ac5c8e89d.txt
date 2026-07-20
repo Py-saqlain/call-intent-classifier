@@ -1,0 +1,35 @@
+AGENT: Hello Cj, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to book a ride, please.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card,
+CALLER: Why do they
+AGENT: <emotion value="hesitant"/> Hmmm.. that didn't seem like a complete answer. Could you please tell me how you'd like to pay for your ride? We
+CALLER: Cash. Fast. Cash.
+AGENT: Okay so I've got that payment noted as cash.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Eighty six hundred Old George Georgetown Road, Bethesda, Maryland two zero eight one
+AGENT: Okay, let me check that address.
+AGENT: Okay, so your pickup address is eight six zero zero Old Georgetown Road, Bethesda, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Four seven zero one Willard Avenue,
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so
+CALLER: Chevy Chase, Maryland.
+AGENT: Okay, so your dropoff address is four seven zero one Willard Avenue, Chevy Chase, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified, Cj.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Just to confirm, you want to be picked up today at 7:00 PM? Please say yes to confirm or provide a different time. <emotion
+CALLER: Now
+CALLER: Yes. As soon as possible.
+AGENT: Alright, soo <break time="300ms"/> how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+I see you said "Yes" and "As soon as possible," which I have noted for pickup time. Now, could you please tell me how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Just a walker.
+CALLER: Let's
+AGENT: Alright, the estimated fare is 13 dollars, paying with cash. You mentioned one passenger with a walker but no wheelchair. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. One way.
+AGENT: Thank you for your patience. I'm processing your one-way trip booking now.
+AGENT: Your trip is scheduled for today at 7:09 PM. Your confirmation number is 2 1 3 6 7 6 5 6 1. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Cj. Have a wonderful day!
+CALLER: Okay. Perfect.

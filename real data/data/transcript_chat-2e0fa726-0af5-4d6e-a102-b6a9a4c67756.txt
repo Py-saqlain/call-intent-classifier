@@ -1,0 +1,43 @@
+AGENT: Hi Carmen, this is Ana with Barwood & Regency. How can I help you today?
+CALLER: Need a text.
+AGENT: Could you please tell me a bit more about what kind of text you need? Are you looking to book a ride, check on a trip, or something else?
+CALLER: Welcome back.
+AGENT: How can I assist you with your ride today?
+CALLER: Pickup. Five three one Orchard Quince Orchard, row Gaithersburg, now.
+AGENT: Thank you for the pickup details at 5 3 1 Orchard Quince Orchard Road in Gaithersburg for now. How would you like to pay for this ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: I wasn't able to locate 5 3 1 Orchard Quince Orchard Road in Gaithersburg. Could you please confirm the full street address, city, and state for your pickup location?
+CALLER: Five three one. Quince Orchard Road Gaithersburg. Now
+AGENT: I found Einstein Bros. Bagels at 5 3 1 Quince Orchard Road in Gaithersburg. Is this the correct pickup location?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Master auto.
+AGENT: Could you please provide the full address or location details for Master Auto? For example, the
+CALLER: Right.
+AGENT: I found several locations for Master Auto:
+
+1. Master Carwash at 8 0 3 1 Snouffer School Road J, Gaithersburg
+2. Master Tech at 8 0 2 7-f Snouffer School Road, Gaithersburg
+3. Paintmaster's Auto Body & Collision Centers at 4 1 9 East Diamond Avenue, Gaithersburg
+4. Master Auto Jaguar at 5 4 5 1 Randolph Road, Suite B, Rockville
+5. Auto Masters - Urbana LLC at 2 7 5 2 Park
+CALLER: Yep. Great. Randolph Road.
+AGENT: Your dropoff address has been verified, Carmen.
+AGENT: You mentioned you want to be picked up now. Is that correct? Please say yes to confirm or let me know if you want a different pickup time.
+CALLER: Correct.
+AGENT: How many passengers will be
+CALLER: Yes.
+AGENT: Could you please tell me the number of passengers traveling, including yourself, and if anyone will need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Will you be needing a wheelchair accessible vehicle?
+CALLER: No wheelchair.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 30 dollars, and you will be paying with Self. Would you like to schedule a return trip as well?
+CALLER: No. No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 11:50 AM. Your confirmation number is 2 1 3 6 7 8 0 8 1. Is there anything else I can help you with?
+CALLER: No. Thanks.
+AGENT: Thank you for calling Barwood & Regency, Carmen. Have a wonderful day.
+CALLER: Thanks.

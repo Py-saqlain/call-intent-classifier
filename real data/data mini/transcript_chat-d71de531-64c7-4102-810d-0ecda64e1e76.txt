@@ -1,0 +1,8 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Ayroba Dutton?
+CALLER: Yes. Representative.
+AGENT: Thanks for confirming, Ayroba. This is Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Representative.
+CALLER: Representative.
+CALLER: Representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

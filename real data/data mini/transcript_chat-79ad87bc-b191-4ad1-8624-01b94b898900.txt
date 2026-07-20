@@ -1,0 +1,8 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Pauline Jarrett-Wright?
+CALLER: You are. Where are you? Hello? Where are you? Because I'm here. I'm outside.
+AGENT: Thanks, Pauline. This is Barwood & Regency. Vehicle 1027 has arrived at your pickup location. How can I assist you today?
+CALLER: I I don't see them. I'm out there. I'm at one zero two one five
+AGENT: I want to make sure I have your pickup address correct. You said you are at 1 0 2 1 5—could you please tell me the street name and city?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

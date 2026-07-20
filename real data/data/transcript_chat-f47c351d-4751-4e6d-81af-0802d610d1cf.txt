@@ -1,0 +1,30 @@
+AGENT: Hello, Erenstine. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Hi, Anna. My name is, Kyle Nichols, and I was calling for a cab
+AGENT: Hi Kyle, nice to meet you. Alright, how would you like to pay for your cab today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Kyle, could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: One five zero zero. Forest Glen Road, Silver Spring, Maryland two zero nine one zero.
+AGENT: Okay, so I found 1 5 0 0 Forest Glen Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's correct.
+AGENT: Your pickup address has been verified. Now, could you please tell me the address where you would like to go? <emotion value="peaceful"/>
+CALLER: That's one second.
+AGENT: Take your time, Kyle. Whenever you're ready, just let me know the destination address. <emotion value="peaceful"/>
+AGENT: Take your time. Just
+CALLER: Okay. One two zero one five Rockville Pike Rockville, Maryland Rockville, Maryland two zero eight five two.
+AGENT: Okay, so I found 1 2 0 1 5 Rockville Pike, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's correct.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now.
+AGENT: Okay great! I've got your pickup time as today at 2:06 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One. One.
+AGENT: Thanks for that. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay great! I've got that noted. Do you have any special instructions or requests for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, so <break time="250ms"/> let me confirm those details. Your pickup is 1 5 0 0 Forest Glen Road. <break time="250ms"/> Your dropoff is 1 2 0 1 5 Rockville Pike. <break time="250ms"/> Pickup time is today at 2:06 PM. <break time="250ms"/> One passenger, no wheelchair needed. The estimated fare is 19.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for confirming. I am processing your booking now. Please hold on a moment.
+AGENT: Your ride is booked for today at 2:06 PM. Your confirmation number is 2 1 3 6 7 0 8 4 1. Is there anything else I can help you with?
+CALLER: No, ma'am.

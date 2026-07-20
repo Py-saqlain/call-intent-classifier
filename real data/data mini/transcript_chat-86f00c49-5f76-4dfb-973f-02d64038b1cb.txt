@@ -1,0 +1,18 @@
+AGENT: Hi Alex, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to make a reservation from my home to the Walmart in Germantown tomorrow at 9AM. I'll be paying with credit card.
+AGENT: Thank you for letting me know you'll be paying with credit card. Your payment method is confirmed as Credit Card.
+AGENT: I have the pickup address as eight two zero one Snouffer School Road, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes. That's correct.
+AGENT: I found a Walmart Supercenter at 2 0 9 1 0 Frederick Road, Germantown, Maryland. Is that the correct destination?
+CALLER: Adi, Yes. That's correct.
+AGENT: Your dropoff address has been verified, Alex. I'll now proceed with the next steps to complete your reservation.
+AGENT: You mentioned your pickup time as tomorrow at 9 AM. Is that correct?
+CALLER: Yes.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: It's just me, one passenger, and no wheelchair, and no instructions for the driver.
+AGENT: The estimated fare for your trip from home to Walmart in Germantown tomorrow at 9 AM is 22 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No. I don't want any time frame.
+AGENT: I'm processing your reservation now. Please hold on a moment.
+AGENT: Your trip is scheduled for tomorrow at 9 AM. Your confirmation number is 2 1 3 6 7 9 2 9 9. Is there anything else I can help you with?
+CALLER: That will be all.
+AGENT: Thank you for calling Barwood & Regency, Alex. Have a great day!

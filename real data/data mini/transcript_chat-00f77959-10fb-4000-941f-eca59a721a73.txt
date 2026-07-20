@@ -1,0 +1,14 @@
+AGENT: Hello, Ahsaint. This is Ana from Barwood & Regency. Vehicle 1045 is on the way and should arrive in about 9 minutes, around 10:19. Also, you have a will-call trip scheduled today from 655 Watkins Mill Road in Gaithersburg to 9308 Willow Creek Drive in Montgomery Village. How can I assist you today?
+CALLER: I'm go I pickup from the pickup is from one eight two zero seven Wat one
+AGENT: Uhh, just to make sure I got that right, your pickup address is 1 8 2 0 7 Wat one? Could you please confirm or clarify the street name for me? <emotion value="hesitant"/>
+CALLER: Two zero seven
+AGENT: Okay, so your pickup address is 1 8 2 0 7 Wat two zero seven? Could you please confirm the street name after the number? <emotion value="hesitant"/>
+CALLER: Mount
+AGENT: Alright, your pickup address is 1 8 2 0 7 Mount something? Could you please provide the full street name after "Mount"? <emotion value="hesitant"/>
+CALLER: Last last night circle.
+AGENT: Looks like you already have trips from Montgomery Village to Gaithersburg at 9:34 AM today, and a will-call trip from Gaithersburg to Montgomery Village. What would you like to do? <emotion value="grateful"/>
+CALLER: No. No. That don't no. It it is one eight two zero seven last knife
+AGENT: You already have trips scheduled from Montgomery Village to Gaithersburg at 9:34 AM today, and a will-call trip from Gaithersburg to Montgomery Village. What would you like to do? <emotion value="grateful"/>
+CALLER: circle. Apartment one zero three. Pickup. To go to what?
+AGENT: Okay, you want to be picked up at 1 0 3 Apartment on Lost Knife Circle, correct? Could you please tell me where you want to go? <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

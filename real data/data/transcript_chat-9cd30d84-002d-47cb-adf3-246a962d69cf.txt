@@ -1,0 +1,45 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Trent Wojtacha?
+CALLER: Yes, you are.
+AGENT: Thanks, Trent. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a cab call and ride but it's for tomorrow.
+AGENT: Thank you for letting me know you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three four four eight seven six
+AGENT: Thank you, Trent. Your payment with Call and Ride is all set. What time would you like your pickup tomorrow?
+AGENT: Thank you, Trent. To get started, could you please tell me the pickup address for your ride tomorrow?
+CALLER: It's two nine two one North Leisure World Boulevard,
+AGENT: I have 2 9 2 1 North Leisure World Boulevard, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address for your ride tomorrow?
+CALLER: Okay. It's six four one zero Rockledge Drive. Bethesda, Maryland
+AGENT: I have 6 4 1 0 Rockledge Drive, Bethesda, Maryland as your dropoff address. Is that correct?
+CALLER: Right. Yes.
+AGENT: Your dropoff address has been verified, Trent. I will now proceed with the next steps for your ride.
+AGENT: What time tomorrow would you like to be picked up?
+CALLER: Twelve noon
+AGENT: Just to confirm, you would like to be picked up tomorrow at 12:00 PM noon, correct?
+CALLER: Yes. Twelve noon.
+AGENT: Thank you for confirming your pickup time for tomorrow at 12:00 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle?
+CALLER: One passenger
+AGENT: Got it, one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Trent, the estimated fare for your trip is 29 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: 2PM.
+AGENT: Just to confirm, you would like to be picked up for your return trip at 2:00 PM, correct?
+CALLER: Yes.
+AGENT: Thank you for confirming your return trip pickup time at 2:00 PM tomorrow. How many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One one No.
+AGENT: For your return trip, I have the pickup address as 6 4 1 0 Rockledge Drive, Bethesda, Maryland, and the dropoff address as 2 9 2 1 North Leisure World Boulevard, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: For your return trip at 2:00 PM, the estimated fare is 29 dollars, paying with your Call and Ride card. Should I go ahead and book both your main and return trips?
+CALLER: Yes.
+AGENT: Thank you. I am now booking both your main and return trips.
+AGENT: Both your main trip and return trip are booked. Your main trip confirmation number is 2 1 3 6 7 9 8 2 5 with pickup tomorrow at 12:00 PM. Your return trip confirmation number is 2 1 3 6 7 9 8 2 6 with pickup tomorrow at 2:00 PM. Is there anything else I can help you with?
+CALLER: Repeat.
+AGENT: Your main trip confirmation number is 2 1 3 6 7 9 8 2 5 with pickup tomorrow at 12:00 PM. Your return trip confirmation number is 2 1 3 6 7 9 8 2 6 with pickup tomorrow at 2:00 PM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Trent. Have a wonderful day.
+CALLER: Thank you.

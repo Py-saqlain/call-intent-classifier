@@ -1,0 +1,41 @@
+AGENT: Hello Dashrak, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: To book a ride for today.
+AGENT: I can help you with booking a ride for today. Could you please tell me the pickup address?
+CALLER: Pickup address is twenty four seven hundred Tandem Drive, Damascus, Maryland
+AGENT: Thank you for the pickup address at 2 4 7 0 0 Tandem Drive, Damascus, Maryland. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Call on the right number.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes, please.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three five
+AGENT: The last six digits should be six digits long. Could you please provide all six digits of your Call and Ride card?
+CALLER: Three five. Zero five four three.
+AGENT: Thank you for providing your Call and Ride card information. Your payment method is set to Call and Ride.
+AGENT: I have 2 4 7 0 0 Tandem Drive, Damascus, Maryland as your pickup address. Is that correct?
+CALLER: Yes. And I will have PCA, and we are going at 05:00 evening.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Nine eight zero seven Main Street, Damascus.
+AGENT: I have 9 8 0 7 Main Street, Damascus, Maryland as your dropoff address. Is that correct?
+CALLER: Yes, please.
+AGENT: Your dropoff address has been verified, Dashrak.
+AGENT: What time today would you like to be picked up?
+CALLER: 05:00 evening.
+AGENT: I have your pickup time as today at 5:00 PM. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Me and my wife. She will be PCA. So we don't need any thing. One PC will be with me.
+AGENT: The estimated fare for your trip is 11 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: Yes, please.
+AGENT: Great, I'll start collecting the return trip details for you now.
+Sure, let me update your payment method.
+CALLER: Call on the right number.
+AGENT: I will make sure to use the correct contact number for your trip. Now, let's proceed with the return trip details. What time would you like to be picked up for your return trip?
+CALLER: Three five
+AGENT: Could you please clarify if you mean 3:00 PM or 3:00 AM for your return trip pickup time?
+CALLER: 06:00 evening.
+AGENT: Thank you. I have your return trip pickup time as today at 6:00 PM. Is that correct?
+CALLER: 06:00 evening. Six evening. Sure.
+AGENT: Thank you for confirming your return trip pickup time as today at 6:00 PM. Should I go ahead and book both your main trip and return trip now?
+CALLER: Yes, please.
+AGENT: Booking your trips now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 4 5 6 7. The pickup time is today at 5:00 PM. Return trip confirmation number 2 1 3 6 6 4 6 8 4 pickup at 6:00 PM Is there anything else I can assist you with?
+CALLER: Thank you very much.
+AGENT: Thank you for calling Barwood & Regency, Dashrak. Have a wonderful day!

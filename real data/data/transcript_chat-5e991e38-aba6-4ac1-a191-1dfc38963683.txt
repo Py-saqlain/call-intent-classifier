@@ -1,0 +1,61 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with CARLETHA?
+CALLER: I called on that. Yes. Because I was with my gal, but I give them nails to pick me up.
+AGENT: Thanks for confirming, CARLETHA. This is Barwood & Regency. I see you have a will-call trip scheduled today from 3 9 0 1 Aspen Hill Road in Aspen Hill to 1 4 Tynewick Court in Silver Spring. How can I assist you
+CALLER: Yes.
+CALLER: I want a cab to pick me up.
+AGENT: Looks like you already have a trip from Aspen Hill to Silver Spring today as a will-call. What would you like to do?
+CALLER: Like I said, I didn't miss that. I like to get a cab What's the place? My I'm in front of Michael's. The address is what?
+CALLER: One three eight. Five. One three eight five zero. Georgia Georgia Avenue
+CALLER: Northgate Plaza.
+AGENT: You still have an active trip from Aspen Hill to Silver Spring today. Would you like to check its status, cancel it, change it, book a new trip, or something else?
+CALLER: Silver Spring Cancel it.
+AGENT: I found one active trip for you: your first trip, a will-call from Aspen Hill to Silver Spring.
+CALLER: I think they got one over there
+AGENT: Would you like me to cancel that trip for you now?
+CALLER: Yeah. Cancel that truck. I'm in another store.
+AGENT: Your trip with confirmation number 0 2 1 3 6 7 8 2 5 4 has been cancelled. Is there anything else I can help you with?
+CALLER: Yes. I'd like another cab. At what's the number? I'm sorry. I'm in another store. One three eight five zero Georgia Avenue Northgate Plaza.
+AGENT: I can help you with that. Just to
+CALLER: Aspen Hill, Mhmm.
+AGENT: Just to confirm, you want a cab to pick you up at 1 3 8 5 0 Georgia Avenue, Northgate Plaza, Aspen Hill, Maryland?
+CALLER: Yes.
+AGENT: Thank you for confirming. What time would you like the pickup?
+CALLER: Oh, no. A s a t.
+AGENT: Got it, you want the pickup as soon as possible. What is your destination address?
+CALLER: Yes. Fourteen, number four, fourteen title it T Y N E W I C K, Court, Silver Spring, Maryland two zero nine zero six.
+AGENT: Thank you. To confirm, your destination is 14 Tynewick Court, Silver Spring, Maryland. Is that correct?
+CALLER: That's correct.
+AGENT: What payment method would you like to use for this ride? Cash, credit card, or Call and Ride?
+CALLER: Cash.
+AGENT: Thank you, your payment method is set to cash. I am now finalizing your booking.
+AGENT: Your pickup address is 1 3 8 5 0 Georgia Avenue, Aspen Hill, Maryland. Is that correct?
+CALLER: That's all. Even better. Yeah. Yes. You sure? In the year or two. After the the right address. The one that you told her you?
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Fourteen one four.
+AGENT: Could you please provide the full street name and city for the address "1414" so I can
+CALLER: Fourteen Tidewitt Court, t y
+AGENT: Could you please confirm the full street name? Did you mean "Tynewick Court"? And is this in Silver Spring, Maryland?
+CALLER: Yes. It's fourteen tidered with t y n e w I c k Court, c o u r t, Silver Spring, Maryland two zero nine zero six.
+AGENT: Thank you for confirming. Your dropoff address is 14 Tynewick Court, Silver Spring, Maryland. Is that correct?
+CALLER: It's good.
+AGENT: Your dropoff address has been verified, Carletha. I am now passing your trip details along to complete your booking.
+AGENT: When would you like to be picked up?
+CALLER: What time is it?
+CALLER: Three no. Four. Four by 04:15.
+AGENT: Just to
+CALLER: Is that right there?
+AGENT: Your pickup time is 4:15 PM today. Is that correct?
+CALLER: Yes. That's correct.
+AGENT: Thank you for confirming your pickup time as today at 4:15 PM. How many passengers will be traveling, including yourself? And will anyone need a
+CALLER: Two two No.
+AGENT: Thank you, I have recorded 2 passengers and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 9 dollars, and you will be paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 4:15 PM. Your confirmation number is 2 1 3 6 7 8 4 4 9. Is
+CALLER: That's good, ma'am. Yeah. You sure do.
+AGENT: Is there anything else I can assist you with today?
+CALLER: Mhmm. No. That's it. Thank you so much.
+AGENT: Thank you for calling Barwood & Regency, CARLETHA. Have a wonderful day!
+CALLER: Muted

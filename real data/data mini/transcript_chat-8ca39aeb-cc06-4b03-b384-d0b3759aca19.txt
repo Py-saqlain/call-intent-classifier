@@ -1,0 +1,26 @@
+AGENT: Hello Collin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need your cab to come pick me up. From eight one four West Diamond Avenue in Gaithersburg, I'm going to one seven seven four zero Towncrest Drive,
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: call and ride Corn rice.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yes
+AGENT: Great! Please go ahead and tell me the last six digits of your
+CALLER: Three one one six two eight.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Okay, so your pickup is at 8 1 4 West Diamond Avenue, Gaithersburg, Maryland, and your dropoff is at 1 7 7 4 0 Towne Crest Drive, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your addresses have been verified, Collin.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay, I've got your pickup time as today at 8:13 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One No.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: You know,
+AGENT: Could you please tell me if you have any special instructions or notes for the driver? If not, just let me know. <emotion value="hesitant"/>
+CALLER: No. No.
+AGENT: Alright, the estimated fare is 12 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 8:13 AM. Your confirmation number is 2 1 3 6 7 6 7 3 7. Is there anything else I can help you with?
+CALLER: No thank you
+AGENT: Thank you for calling Barwood & Regency, Collin. Have a wonderful day!

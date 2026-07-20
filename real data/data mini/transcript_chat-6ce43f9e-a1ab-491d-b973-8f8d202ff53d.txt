@@ -1,0 +1,20 @@
+AGENT: Hello Celestine, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab for calling Wright
+AGENT: Thank you for letting me know. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Calling right.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? If not, please let me know which payment method you'd prefer.
+CALLER: Two, three, seven seven one.
+AGENT: I heard the digits two three seven seven one, which is five digits. The last six digits of your Call and Ride card should be six digits. Could you please provide the full six digits?
+CALLER: Three Yes. Three two three.
+AGENT: Thank you for that. Just to confirm, are the six digits of your Call and Ride card two three seven seven one three two three? If not, could you please say the six digits again?
+CALLER: Okay.
+AGENT: Thank you, your payment method is set to Call and Ride.
+AGENT: Could you please tell me your pickup address?
+CALLER: One seven one one two. Plain Victoria Court.
+AGENT: I have 1 7 1 1 2 Queen Victoria Court, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: I couldn't find any location matching "calling Wright." Could you please provide the full address or a nearby landmark for your destination?
+CALLER: One seven one one two Queen Victoria Court.
+AGENT: You just said one seven one one two Queen Victoria Court again. Is this your destination address?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: I think

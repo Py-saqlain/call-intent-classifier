@@ -1,0 +1,52 @@
+AGENT: Hello Herbert, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. This is Carlotta. I'm calling for a ride at one nine eight zero one Observation Drive. The main entrance
+AGENT: Alright, Carlotta, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: A card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, Carlotta, I have 1 9 8 0 1 Observation Drive,
+CALLER: Okay. Well,
+AGENT: I just want to make sure, is 1 9 8 0 1 Observation Drive, Germantown, Maryland the correct pickup address? <emotion value="peaceful"/>
+CALLER: Yes. At the main entrance of Holy Cross Hospital.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yes. 19105 Frederick Road. Gaithersburg
+AGENT: Thank you. Is 1 9 1 0 5 Frederick Road, Gaithersburg, Maryland the correct dropoff address?
+CALLER: Oh, cough up there?
+AGENT: Just to confirm, did you mean 1 9 1 0 5 Frederick Road, Gaithersburg, Maryland as your dropoff address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, I have 1 9 1 0 5 Frederick Road, Montgomery Village, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Carlotta.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now Now.
+AGENT: Okay, I've got your pickup time as now, today at 10:53 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a
+CALLER: Yes, ma'am.
+AGENT: Thank you for letting me know about the wheelchair. How many passengers will be traveling, including yourself?
+CALLER: No. Just myself.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Do you have any
+CALLER: Myself
+AGENT: The estimated fare is 8 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yeah. I'm going to home. No. Do you have any taxes in the area?
+AGENT: Just to clarify, are you booking a return trip back to 19801 Observation Drive, or is the trip we just set up your return journey? <emotion value="peaceful"/>
+CALLER: It's my re it's my going home going home from here. When you pick me up at at 919801, whatever, I'm going home. So to 19105 Frederick Road. Gaithersburg.
+AGENT: Thank you for clarifying that the trip you just set up is your return journey home. Is there anything else I can assist you with regarding your ride? <emotion value="peaceful"/>
+CALLER: Yes. Make sure that they pick me up at the one So they had it back was the last time. So make sure they know to pick me up at the 19801 off Drive. Okay? Germantown. That's to pick up a jet.
+AGENT: Got it. Your pickup address is 19801 Observation Drive in Germantown. I'll make sure the driver knows to pick you up there. Is there anything else you'd like to update or add? <emotion value="peaceful"/>
+CALLER: Yes. The main entrance of the Holy Cross Hospital.
+AGENT: Thank you for that detail. I'll note that your pickup will be at the main entrance of Holy Cross Hospital. Is that for your pickup at 19801 Observation Drive, Germantown? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Alright, I've updated your pickup location to be at the main
+CALLER: Yeah.
+AGENT: Uh, I am sorry, but could you please repeat the full pickup address you want to update? <emotion value="peaceful"/>
+CALLER: One nine eight zero one. Observation, drawn.
+AGENT: Okay, I have 1 9 8 0 1 Observation Drive, Germantown, Maryland as your pickup address. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah.
+AGENT: Alright, your pickup address has been successfully updated to the main
+CALLER: Yeah.
+AGENT: Alright, the estimated fare is 8 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+AGENT: The estimated fare is 8 dollars, paying with Credit Card. Would you like to schedule a return trip as well? <emotion
+CALLER: No.
+AGENT: Thank you for your patience. I am processing your booking now.
+CALLER: No
+AGENT: Your main trip is scheduled for today at 10:53 AM. Your confirmation number is 2 1 3 6 7 5 6 4 1. Is there anything else I can help you with?
+CALLER: No. Hello?
+AGENT: Thank you for calling Barwood & Regency,

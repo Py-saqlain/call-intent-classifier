@@ -1,0 +1,31 @@
+AGENT: Hello, andre. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yes. I'm at Robville's Railway Station, and I'm trying to call home.
+AGENT: I understand you're at Robville's Railway Station and want to get home. Are you looking to book a ride from the station to your home address?
+CALLER: Yeah.
+AGENT: Thank you for letting me know your pickup location. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Praise.
+AGENT: Just to make sure, did you mean cash as your payment method?
+CALLER: Yes.
+AGENT: Thank you for confirming cash as your payment method.
+AGENT: I couldn't find an exact match for Robville's Railway Station near your home address. Could you please provide the full street address or a nearby landmark for your pickup location?
+CALLER: Oh, okay. I know it's Rockville. Rockville Subway.
+AGENT: Thank you for that. Could you please provide the street number for Rockville Subway?
+CALLER: Don't see those. Hey.
+AGENT: I'm here to help. Could you please provide any nearby street number or cross street for the Rockville Subway location? If you're not sure, just let me know and we can try another way to find it.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I show my
+AGENT: It seems like your message got cut off. Could you please repeat the full address or details you were about to share?
+CALLER: I was going to say I'm at Rockville Subway Station. And I wanna go home. Which was k. I'm asking you to take my address.
+AGENT: I have your dropoff address as seven eight three four Scotland Drive, Potomac, Potomac, Maryland. Is that correct?
+CALLER: Sure. Yeah, one more time, one more time. Seven eight three four Scotland Drive, Potomac, Maryland
+AGENT: I still couldn't find Robville's Railway Station near your home address. Could you please provide the full street address or a nearby landmark for your pickup location?
+CALLER: Oh, A pickup in front wheel. Not real driveway space. Why why not real bus space?
+AGENT: I want to make sure I understand you correctly. Are you saying your pickup location is in front of a wheel or bus space, or is there a specific landmark or street address nearby that I can use to find your pickup spot?
+CALLER: Oh, no. Why are you?
+AGENT: I'm here to help you arrange your ride. Could you please tell me the exact pickup address or a nearby landmark so I can assist you better?
+CALLER: Hello.
+AGENT: Yes, I'm here and ready to assist you. Could you please provide the pickup address or location for your ride?
+CALLER: Is this address here?
+AGENT: Could you please tell me the address you are referring to? That way I can check it for you.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: You're not showing

@@ -1,0 +1,39 @@
+AGENT: Hello Esabell, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a check.
+AGENT: I can help with your booking. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Yes. Yes.
+AGENT: Could you please tell me which payment method you would like to use: cash, credit card, or Call and Ride?
+CALLER: Yes. Tiff.
+AGENT: I want to make sure I understand you correctly. Did you mean to say cash, credit card, or Call and Ride for your payment?
+CALLER: Yeah. Machine.
+AGENT: Thank you for clarifying. Just to confirm, are you saying you would like to pay with a credit card?
+CALLER: No.
+AGENT: Thanks for letting me know. Could you please tell me which payment method you would like to use instead? Your options are cash, credit card, or Call and Ride.
+CALLER: Cash. Cash.
+AGENT: Thank you, cash it is. I'll proceed with your booking now.
+AGENT: Could you please provide the pickup address for your trip?
+CALLER: One one nine four three zero.
+AGENT: Thank you. Could you please tell me the street name and city for the pickup address?
+CALLER: One one nine, four three Blue Hill Road.
+AGENT: Just to confirm, is your pickup address 1 1 9 4 3 Blue Hill Road? Could you please also tell me the city and state?
+CALLER: Yeah. Silver Spring almond.
+AGENT: I found a similar address from recent trips: 1 1 9 4 3 Bluhill Road, Silver Spring, Maryland. Is this the correct pickup location?
+CALLER: Yes.
+AGENT: I found several locations for "check." Which one would you like to go to?
+
+1. Check Cashing Depot at 8 0 3 5 Snouffer School Road, Suite B, Gaithersburg, Maryland
+2. United Capital Incorporated at 1 1 4 East Diamond Avenue, Gaithersburg, Maryland
+3. Check Cash Depot at 1 0 7 East Diamond Avenue, Apartment A, Gaithersburg, Maryland
+4. M C Check Cashing at 1 2 East Diamond Avenue, Suite B, Gaithersburg, Maryland
+5. Express Check Cash at 1 2 East Diamond Avenue, Gaithersburg, Maryland
+
+Please tell me the number of the location you want.
+CALLER: None of the above. None of the above.
+AGENT: Thanks for letting me know. Could you please provide a more specific address, landmark, or cross street for the "check" location you want to go to?
+CALLER: One one two one five Jasmine Road.
+AGENT: Thank you. Just to confirm, is your dropoff address 1 1 2 1 5 Jasmine Road? Could you please also tell me the city and state?
+CALLER: This is my world.
+AGENT: Could you please confirm the city and state for 1 1 2 1 5
+CALLER: Please, my world.
+AGENT: I want to make sure I get this right for you. Could you please tell me the city and state for 1 1 2 1 5 Jasmine Road?
+AGENT: Take your time. Just let me know when you're ready.

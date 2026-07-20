@@ -1,0 +1,11 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Melissa Maze?
+CALLER: Yes.
+AGENT: Thanks for confirming, Melissa. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Do you have a ride scheduled for me for tomorrow, July 13?
+AGENT: I will check the status of any scheduled rides you have for tomorrow, July 13. Just a moment, please.
+AGENT: Yes, Melissa, you do have a ride scheduled for tomorrow, July 13, with pickup at 12:15 pm from 5400 Westbard Avenue in Bethesda. Does that look correct to you?
+CALLER: Yes. Thank you so much.
+AGENT: Okay, so your ride is scheduled for tomorrow at 12:15 pm, but no driver has been assigned yet. Is there anything else I can help you with?
+CALLER: How do I change the pickup time?
+AGENT: I understand you'd like to change the pickup time for your trip. Trip modifications need to be handled by a live agent. Let me connect you with someone who can help.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

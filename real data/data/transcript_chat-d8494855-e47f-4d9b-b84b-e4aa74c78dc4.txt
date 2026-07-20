@@ -1,0 +1,71 @@
+AGENT: Hello lespia, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Okay. Pick up for me. 738. You open road in.
+AGENT: Umm, just to make sure I have it right, you want a pickup at 7 3 8 Clopper Road, correct? And where would you like to go? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yes. Yes. I'm going in.
+AGENT: Hmmm.. that didn't seem like a payment method. Could you please tell me how you'd like to pay? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: Yes. Call it dry, Handy.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="peaceful"/>
+CALLER: Cold and dry. Yes. I going eight eight zero duty drive in Vegas going Costco.
+AGENT: Okay so I've got Call and Ride noted for payment. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please say the last six digits of your Call and Ride card when you're ready? <emotion value="peaceful"/>
+CALLER: Three, four, five,
+AGENT: Hmmm.. that didn't seem like six digits. Could you please say all six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Luis, Yes. Three four five nine zero seven.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Hmm <break time="350ms"/> I couldn't find 880 Duty Drive. Could you please provide the full street address including the city and state? <emotion value="apologetic"/>
+CALLER: Yes. I going eight eight zero
+AGENT: I understand you said eight eight zero, but I still need the full street name, city, and state to find the address. Could you please provide the complete address including those details? <emotion value="peaceful"/>
+CALLER: Honey. I need a car, honey. I go in the my appointment. Nine nine nine nine zero. My appointment imposed on the doctor. Please.
+AGENT: I want to make sure I get your pickup address right for your appointment. Could you please tell me the full street address including the street name, city, and state? That way I can find the correct location for your ride. <emotion value="peaceful"/>
+CALLER: Uh-huh.
+AGENT: Thank you. Could you please say the full pickup address including the street number, street name, city, and state? That will help me locate it accurately. <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please provide the full pickup address including the street number, street name, city, and state? <emotion value="peaceful"/>
+CALLER: Okay, honey. Yes. Okay, honey. I need to take a taxi, honey. Please.
+AGENT: I want to help you get a taxi for your appointment. To do that, I need the full pickup address including the street number, street name, city, and state. Could you please provide that information? <emotion value="peaceful"/>
+CALLER: I know 880 Russell Avenue. In Gaithersburg, a Boeing.
+AGENT: Okay, let me check that address for you. 880 Russell Avenue, Gaithersburg. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is eight eight zero Russell Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found a few Costco locations at 880 Russell Avenue in Gaithersburg, Maryland. Option one: Costco Tire Service Center, 880 Russell Avenue, number two: Costco Optical Department, 880 Russell Avenue, number three: Costco Pharmacy, 880 Russell Avenue, number four: Costco Hearing Center, 880 Russell Avenue. Which one would you like to go to? <emotion value="peaceful"/>
+CALLER: It's a engagement. Yes. 880 Russell Avenue, engaged for outgoing. 880 Russell Avenue,
+AGENT: Just to be sure, are you confirming the dropoff location as 880 Russell Avenue, Gaithersburg, Maryland? <emotion value="peaceful"/>
+CALLER: Yes. Yes. Yes. Please, honey. I need the taxi, honey, please.
+AGENT: Your dropoff address has been verified, Lespia.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Mhmm. Okay. Mhmm. Pickup for me. Seven three eight Road. Jyersburg.
+AGENT: Sure, let me update that address.
+AGENT: Okay, so your pickup address is seven three eight Clopper Road, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Mhmm. Mhmm. Yes.
+AGENT: Alright, the pickup address has been successfully updated. What time would you like the pickup? <emotion value="peaceful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: You pick up for me. In in I need for me, I need the taxi going my appointment with the doctor. Please, and in the I need to start
+AGENT: Could you please tell me the time you would like to be picked up for your doctor's appointment? <emotion value="peaceful"/>
+CALLER: Mhmm. I got one male and adult. I need the. I need please.
+AGENT: The time you requested has already passed. Could you please tell me a new pickup time that works for you? <emotion value="hesitant"/>
+CALLER: Mhmm. Mhmm. Yes. Yes. Mhmm.
+AGENT: Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: Mhmm. Yes, honey.
+AGENT: To make sure I get it right, how many passengers will be traveling, including yourself? <emotion value="hesitant"/>
+CALLER: I see. I need a taxi, honey, please.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Davis one.
+AGENT: Hmm <break time="300ms"/> sorry, I want to make sure I got that right. Could you please repeat the pickup time you want? <emotion value="hesitant"/>
+CALLER: Mhmm.
+AGENT: Could you please tell me the time you would like to be picked up? <emotion value="peaceful"/>
+CALLER: Yes. Pick up for me, please.
+AGENT: Could you please specify the exact time you want to be picked up? <emotion value="peaceful"/>
+CALLER: Yes, honey.
+AGENT: Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: Mhmm.
+AGENT: How many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: No. No. No.
+AGENT: I want to make sure I understand correctly. How many passengers will be traveling, including yourself? <emotion value="hesitant"/>
+CALLER: No. No. No. I I need I need uh-huh. I I I need a doctor handy.
+CALLER: K, honey. I need a taxi, honey.
+AGENT: We have one passenger noted. Is that correct? Please say yes or no. <emotion value="peaceful"/>
+CALLER: Please, I need a taxi, honey. Okay.
+AGENT: Is one passenger correct for your trip? Please say yes or no. <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

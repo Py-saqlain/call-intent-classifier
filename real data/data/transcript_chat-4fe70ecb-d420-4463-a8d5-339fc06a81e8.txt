@@ -1,0 +1,19 @@
+AGENT: Hello Marie, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I need a tax I'm up here in Germantown. I got the store book. And I'm going to Cinnamonwood I'm at the Starbucks The number is one three four zero eight
+AGENT: Thank you for sharing your pickup and dropoff details. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: I found several Starbucks locations in Germantown: 20900 Frederick Road, 20934 Frederick Road, 19724 Germantown Road, 13408 Kingsview Village Avenue at Kingsview Shopping Center, and 22705 Clarksburg Road in Clarksburg. Which one would you like to be picked up from? Also, for your dropoff at 13408 Cinnamonwood, could you please provide the city and state to help me locate it accurately?
+CALLER: No. No. No. No. No. That's wrong. Okay. I'm with the Starbucks that Germantown. I guess you call this lemon farm. In Germantown. Hello? Hello?
+AGENT: I’m here to help. You mentioned you are at the Starbucks in Germantown near Lemon Farm. Let me confirm: is your pickup address Starbucks near Lemon Farm, Germantown, Maryland?
+CALLER: Right.
+AGENT: I have 2 0 9 1 0 Frederick Road, Germantown, Maryland as the pickup address. Is that correct?
+CALLER: Yeah.
+AGENT: I was not able to locate 13408 Cinnamonwood. Could you please provide the full street address including the city and state for your dropoff location?
+CALLER: No. No. No. No. It's what it's where I'm at, I'm at the Starbucks at 13408. On Lehman Farm Drive, Saint Germantown.
+AGENT: Thank you for clarifying. Just to confirm, your pickup address is Starbucks at 1 3 4 0 8 Lehman Farm Drive, Germantown, Maryland. Is that correct?
+CALLER: Right. Right. Correct.
+AGENT: I couldn't find 13408 Lehman Farm Drive in Germantown, Maryland. Could you please double-check the street name or provide any nearby landmarks or cross streets to help me locate it?
+CALLER: Okay. It okay. There is a giant right here.
+AGENT: Thank you for that detail. Could you please tell me the name of the street where the giant is located or any other nearby landmark or cross street? This will help me find your pickup address accurately.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

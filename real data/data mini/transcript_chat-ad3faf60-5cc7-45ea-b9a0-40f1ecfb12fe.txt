@@ -1,0 +1,16 @@
+AGENT: Hi Lucas, this is Ana from Barwood & Regency. Your trip with vehicle 562 is scheduled for pickup today at 11:30 AM. How can I assist you today?
+CALLER: Yeah. Well, it's 06:00. It's 06:00AM.
+AGENT: Thanks for letting me know the time is 6:00 AM. How can I assist you with your ride today?
+CALLER: Okay.
+AGENT: Are you looking to book a ride, check on a trip, or is there something else I can help you with?
+AGENT: Take your time. Just let me know when you're
+CALLER: Alright. Sure. Yep. Great.
+AGENT: Whenever you're ready, just tell me what you need help with regarding your ride.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Alright.
+AGENT: What can I do for you today? Are you looking to schedule a ride or check on an existing trip?
+CALLER: Agent.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Agent Agent. Agent. Agent. Agent. Agent. Agent. Agent. Eight.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

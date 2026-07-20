@@ -1,0 +1,7 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay. Told you my name. Right? Nelson? N e n s o n. Tursia, t u r c I o s. You need the name of your company and your telephone number have been given to me by medicaid here in Montgomery County. Because we need a consistent transportation for my son, a 39 years old from home in Kenson to to Saint Colera in Rockville. Thirty in the morning, and 02:30 in the afternoon. We need to be taken to the building and picked up from the building. He doesn't need a wheelchair, but he's an autistic boy. Who is that with no. And then that's the thing that we would like to see, but how we work together? Are you following me? Hello?
+AGENT: Thank you, Nelson. This is Ana from Barwood & Regency. How can I assist you with transportation for your son today?
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your son's rides? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yeah. No. That would be echo. A consist no. No. No. No. This is gonna and then let me repeat. Okay? And don't type at the same time because interrupt my call thing. Medicaid Medicaid Give me the name of your company and your telephone number.
+AGENT: I understand you mentioned Medicaid, but for payment we accept only cash, credit card, or Call and Ride. Could you please let me know which of these you'd like to use? <emotion

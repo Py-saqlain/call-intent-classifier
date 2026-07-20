@@ -1,0 +1,28 @@
+AGENT: Hi Tonya, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to have a cab come to twenty five seven zero three Valley Fox Terrace in Damascus, Maryland.
+AGENT: Thank you for sharing your pickup address at 2 5 7 0 3 Valley Fox Terrace in Damascus, Maryland. How would you like to pay for your ride today?
+CALLER: I would park
+AGENT: Just to make sure I understand correctly, did you mean you would like to pay with cash?
+CALLER: Man, it's about a park.
+AGENT: Thanks for clarifying. Could you please tell
+CALLER: Yes. No. Give me. Give me. Give me. Give me. The address is two five seven zero three Valley Park Terrace, in Damascus, Maryland.
+AGENT: Thank you for confirming your pickup address as 2 5 7 0 3 Valley Park Terrace in Damascus, Maryland. Now, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: I have 2 5 7 0 3 Valley Park Terrace, Damascus, Maryland as your pickup address. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. That'll be stick. Montgomery Village Avenue in Gaithersburg,
+AGENT: Thank you. To confirm, your dropoff address is Montgomery Village Avenue in Gaithersburg, Maryland. Is that correct?
+CALLER: Yes, ma'am.
+AGENT: I found several locations on Montgomery Village Avenue in Gaithersburg:
+
+1. Montgomery Village Eye Center at 1 8 3 1 0 Montgomery Village Avenue, Suite 1 4 0
+2. 1 8 3 1
+CALLER: I'm going to six. I'm going no. I'm going to fix my dummy zillip. Fix
+AGENT: It sounds like
+CALLER: s s I x I wanna go to six Montgomery Road Avenue. F I x
+AGENT: It sounds like you want to go to 6 Montgomery Village Avenue in Gaithersburg. Let me check that for you.
+AGENT: I found
+CALLER: That's correct.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

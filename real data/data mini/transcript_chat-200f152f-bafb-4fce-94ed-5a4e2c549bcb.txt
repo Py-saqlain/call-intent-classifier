@@ -1,0 +1,14 @@
+AGENT: Hello Dr., this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to find out about having transportation from the bethesda high agency to nih campus.
+AGENT: Okay, I can help with that. Let me connect you to the booking team who can arrange a ride from Bethesda High Agency to the NIH campus.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: I found a few locations for Bethesda High Agency. 
+Option one: 9000 Rockville Pike, Bethesda, Maryland. 
+Option two: 4800 Hampden Lane, Bethesda, Maryland. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Can I speak to a person?
+AGENT: I can help you confirm the pickup address right now — would you like to continue?
+CALLER: I would like to speak with a person.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

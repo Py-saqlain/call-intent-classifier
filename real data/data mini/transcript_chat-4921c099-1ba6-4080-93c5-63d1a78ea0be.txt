@@ -1,0 +1,18 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Dorthea Milton-Husaw?
+CALLER: Yeah.
+AGENT: Thanks, Dorthea. This is Barwood & Regency. What can I help you with today?
+CALLER: I like to get a taxi.
+AGENT: Alright, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: Calling about
+AGENT: Hmmm.. that didn't seem right, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three four two one three six.
+AGENT: Thank you, your Call and Ride payment is all set.
+AGENT: Thank you for that. Now, could you please tell me the pickup address for your taxi? <emotion value="peaceful"/>
+CALLER: One one one six zero Deers Mill Road, at Costco.
+AGENT: Hmm, I couldn't find an exact match for 1 1 1 6 0 Deers Mill Road at Costco. However, I found a location at 8 8 0 Russell Avenue, Gaithersburg, Maryland 2 0 8 7 9 that might be what you meant. Is this the correct pickup location? <emotion value="hesitant"/>
+CALLER: No. No. Can I speak to an agent?
+AGENT: I can help you find the right pickup address — would you like to continue?
+CALLER: Speak to an agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

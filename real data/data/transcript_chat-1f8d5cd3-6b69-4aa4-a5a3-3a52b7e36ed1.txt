@@ -1,0 +1,35 @@
+AGENT: Hi Sally, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi right now.
+AGENT: I can help with that. How would you like to pay for your ride? We accept cash, credit card,
+CALLER: Cash.
+AGENT: Thank you, cash it is. I'll proceed with your booking now.
+AGENT: Could you please tell me the pickup address for your taxi?
+CALLER: I'm at Macy's in the Westlake Drive exit. In on Democracy Boulevard,
+AGENT: I found a couple of Macy's
+CALLER: in the Westfield Mall.
+AGENT: Thank you for that detail. The Macy's in Westfield Mall is at 7125 Democracy Boulevard, Bethesda, Maryland. Is that the correct pickup location?
+CALLER: Well, I don't know the street. It just I'm looking at the door, and it says West Lake Drive. I think that's near Democracy, and I think it's off state.
+AGENT: Thanks for the extra details. Just to clarify, you are at the Macy's entrance on Westlake Drive near Democracy Boulevard in Bethesda, Maryland, correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Eight one nine six Inverness Ridge Road, Potomac.
+AGENT: I have 8 1 9 6 Inverness Ridge Road, Potomac, Maryland as your
+CALLER: Maryland. Yes. Yes.
+AGENT: Your dropoff address has been verified, Sally. I'll proceed with the next steps now.
+AGENT: You mentioned you need a taxi right now. Is that correct? Please say yes to confirm or let me know
+CALLER: Yes. Yes.
+CALLER: Yes.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a
+CALLER: Just myself.
+AGENT: Will you be needing a wheelchair
+CALLER: I have a rollator with no. I have a
+CALLER: So just a regular taxi.
+AGENT: The
+CALLER: Because it folds up.
+AGENT: Thank you for letting me know about your rollator that folds up. Your trip is estimated to cost 8.5 dollars, and you will be paying with cash. Would you like to schedule a return trip as well?
+CALLER: No. Because I'm go this is I'm going to my home. I already came here.
+AGENT: Thank you for the information. I am processing your booking now.
+AGENT: Your main trip is scheduled for today at 4:48 PM. Your confirmation number is 2 1 3 6 7 9 7 1 2. Is there anything else I can help you with?
+CALLER: Do you have a taxi available right now?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Okay.

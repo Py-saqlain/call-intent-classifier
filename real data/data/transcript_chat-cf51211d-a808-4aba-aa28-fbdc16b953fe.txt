@@ -1,0 +1,37 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Serina Wealth?
+CALLER: Yes.
+AGENT: Thanks, Serina. This is Barwood & Regency. How can I help you today?
+CALLER: Going home. To 5801 Nicholson Lane, in Rockville.
+AGENT: Thank you for sharing your destination. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Colon right
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes. Three four two five zero eight
+AGENT: Thank you, your payment method is set to Call and Ride.
+AGENT: I have 5 8 0 1 Nicholson Lane, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: Five zero one zero two one five Fernwood Road, in Bethesda.
+AGENT: I couldn't find an exact match for five zero one zero two one five Fernwood Road in Bethesda. However, I found 1 0 2 1 5 Fernwood Road, apartment four one five, Bethesda, Maryland 2 0 8 1 7. Is that the correct pickup location?
+CALLER: No. The pickup location is one zero two one five. Fernwood Road, in Bethesda.
+AGENT: I have 1 0 2 1 5 Fernwood Road, Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Yeah.
+AGENT: Your pickup address has been verified, Serina.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just the one, me. Just
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: I am ready and at the door.
+AGENT: The estimated fare is 10.5 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 8 0 8 4. The pickup is scheduled for today at 11:33 AM. Is there anything else I can help you with?
+CALLER: Yeah.
+CALLER: Two
+AGENT: You already have a trip from Bethesda to Rockville today at 11:33 AM. What would you like to do?
+AGENT: You already have a trip scheduled for today at 11:33 AM. Did you want to add a second passenger to that trip, or would you like to book a separate new trip for two passengers?
+CALLER: No. No.
+AGENT: Thanks for clarifying. Is there something else I can assist you with today?
+CALLER: I am going to die all No.
+AGENT: I'm here to help you. If you need to talk to someone or need assistance, I can connect you to a live representative who can provide support. Would you like me to do that?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

@@ -1,0 +1,44 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Yeah. My name is Jimmy Anna. I'm at the Shady Grove Metro 115 Summerville Road. I'm trying to get a cab to Ridge Road 505830. Riggs Road. Gaithersburg. I'm Jimmy. I get y'all every week. Hello? My phone number? Nope. Still on. Hello?
+AGENT: Thanks, Jimmy. This is Ana from Barwood & Regency. How can I assist you with your ride today?
+CALLER: Yeah. I'm trying to get a cab. I'm at 115 Summerville Road, Shady Grove Metro. I'm trying to go to 5830 Riggs Grove, Lakenville. In Gettysburg.
+AGENT: Alright, Jimmy, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Right. K. Cash. Thank you, man. No problem.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Hmm <break time="350ms"/> I wasn't able to locate either the pickup address at 115 Summerville Road, Shady Grove Metro, or the dropoff at 5830 Riggs Grove, Lakenville, Gettysburg. Let's start fresh with your pickup address. Could you please tell me the full pickup address again? <emotion value="apologetic"/>
+CALLER: Yeah. So what? You you can't Yep. Yeah.
+AGENT: I’m here to help, Jimmy. Could you please say the full pickup address again, including the street number and city? That way I can make sure I get it right for you. <emotion value="peaceful"/>
+CALLER: Fifty eight thirty. One
+AGENT: Thank you. Just to clarify, is that the pickup address or the dropoff address?
+CALLER: one one five Summerville Road,
+AGENT: Okay, so your pickup address is 1 1 5 Summerville Road. Could you please tell me the city or nearby area for that address?
+CALLER: One one one five Summerville Road, Yes. Pickup. That's a pen. Yeah. Shady Grove. Shady Grove Metro. Shady Grove Metro.
+AGENT: Hmm <break time="350ms"/> I couldn't find an exact match for 1 1 1 5 Summerville Road, Shady Grove Metro. I found a location called 1 5 9 0 3 Somerville Drive, Rockville, Maryland 2 0 8 5 5. Is that the place you meant? <emotion value="hesitant"/>
+AGENT: Take your time. Just let
+CALLER: That is the place. Yeah. Thank you. I know there's a Rockville. It's considered rock. Okay. Yeah. I'm I'm your I'm your Uber. I'm just helping this guy out. Got a chat. Sorry. Yeah.
+AGENT: me know when you're ready to continue with your dropoff address.
+CALLER: Ready. Let's play. Let's get dropoff. Fifty eight thirty. Ridge Road, Gaithersburg, Maryland.
+AGENT: Okay, I found 5 8 3 0 Riggs Road, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Yep.
+AGENT: Hmm <break time="350ms"/> I couldn't find the dropoff address as 5 8 3 0 Riggs Grove, Lakenville, Gettysburg. Could you please confirm the city and state for that address?
+CALLER: Correct.
+AGENT: Just to be sure, could you please say the full dropoff address again, including the street number, street name, city, and state? That will help me find it accurately.
+CALLER: K. It it it's please go. Patriotsburg, Maryland. Fifty eight thirty Ridge Road, Gaithersburg, Maryland is the drop off.
+AGENT: Okay, I found 5 8 3 0 Riggs Road, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Jimmy. I'll now proceed with the next steps for your ride.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: As soon as possible.
+AGENT: Okay, great! I've got your pickup time as today at 6:43 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One. Eightfold.
+AGENT: Okay great! I've got that noted as one wheelchair. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Ask the customer, can you have somebody? No. That's good. Because they're asking for special instruction. Okay.
+AGENT: Alright, the estimated fare is 24 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 6:43 PM. Your confirmation number is 2 1 3 6 7 4 3 5 2. Is there anything else I can help you with?
+CALLER: Six. Is it. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Jimmy. Have a wonderful day!
+CALLER: What? Everyone? Please.

@@ -1,0 +1,22 @@
+AGENT: Hello Bernadette, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a trip.
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes.
+AGENT: Could you please tell me which payment method you'd like to use? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your trip? If you'd like, I can use your home address at 1 7 0 0 9 Moss Side Lane, Olney, Maryland. Would that work for you? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I have the pickup address as one seven zero zero nine Moss Side Lane, Olney, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Three three three. Three.
+AGENT: Hmm <break time="350ms"/> let me check that address. Could you please provide the street name and city for the dropoff address? Just the numbers "three three three three" are not enough to locate it. <emotion value="hesitant"/>
+CALLER: Three three three three. Pardon? Road,
+AGENT: Thank you. Could you please tell me the full dropoff address including the street number, street name, and city? For example, "3333 Pardon Road" plus the city name. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Customer service.
+AGENT: I can help you with the address details right now — want to continue?
+CALLER: No help.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

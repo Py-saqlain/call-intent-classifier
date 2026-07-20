@@ -1,0 +1,30 @@
+AGENT: Hello Esin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Um, we were looking to get a taxi from the Bethesda hotel into the capital area.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: I found a few Bethesda hotels. Option one: 9 4 0 Rose Avenue, North Bethesda. Option two: 5 7 0 1 Marinelli Road, Rockville. Option three: 6 7 1 1 Democracy Boulevard, Bethesda. Option four: 5 1 5 1 Pooks Hill Road, Bethesda. Option five: 8 8 5 5 Stokes Road, Bethesda. Which one would you like to use? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready. None of those hotels are the right hotel. I'm looking for the hotel called the bethesda Bethesda tapestry by Hilton. Bethesda,
+AGENT: Thank you for that clarification. Let me look up Bethesda Tapestry by Hilton in Bethesda for you. <emotion value="peaceful"/>
+AGENT: I found The Bethesdan Hotel, Tapestry Collection by Hilton at 8 1 2 0 Wisconsin Avenue, Bethesda. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found a few locations related to the capital area. Option one: 1 5 2 0 1 Diamondback Drive, Rockville. Option two: 1 5 2 0 1 Diamondback Drive, Rockville. Option three: 3 5 7 0 Olney Laytonsville Road, Olney. Option four: 9 1 9 0 Rockville Pike, Bethesda. Option five: Badian Drive, Colesville. Which one would you like to use? <emotion value="hesitant"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Esin. I will now proceed with the next steps.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: None of those. We'd like to use the capital mall
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time as today at 1:05 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two.
+AGENT: Thanks for that. Will anyone be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare is 32 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 1:05 PM. Your confirmation number is 2 1 3 6 7 5 8 0 7. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Esin. Have a wonderful day!

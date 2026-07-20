@@ -1,0 +1,25 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Georgina Williams?
+CALLER: No. You're speaking with Cath. Kathleen. Gave you my name earlier. I'm going to 4701 Willard Avenue. I'm at Suburban Hospital main entrance.
+AGENT: I don't see a profile under the name Cath Kathleen. We can set up a new profile for you when you book your first ride. Let me know how I can assist you with your trip to 4701 Willard Avenue from Suburban Hospital main entrance.
+CALLER: Yeah. 4701 Willow Avenue, Cheddar Chase. I called earlier, and it was the pad was supposed to be here. But it hasn't showed up yet.
+AGENT: Thank you for the clarification. Just to confirm, your pickup is at Suburban Hospital main entrance, and your dropoff is 4 7 0 1 Willow Avenue, Chevy Chase. Is that correct?
+CALLER: Yes. Yes. Yes. Yes. That's correct.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: Cash. Yes. Cash is cash is okay.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/> I will proceed with that.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Hmm <break
+CALLER: Yes.
+AGENT: Okay, so I have your home address as 8 6 0 0 Old Georgetown Road, Bethesda, Maryland. Would you like to be picked up from there?
+CALLER: No. No. That's not my address. My address is forty seven zero one Willard Avenue, chevy chase, Maryland.
+AGENT: Okay, so I found 4 7 0 1 Willard Avenue, Chevy Chase, Maryland as your pickup address. Is that
+CALLER: Yes. Uh-huh. Yes. Yeah. Yeah. And yeah. And yeah, suburban hospital is on Old Georgetown. I'm sorry. Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yeah. 94701 Willard Avenue, Chevy Chase, Maryland.
+AGENT: Uh, I am sorry, but could you please repeat the dropoff address? It sounded like you said
+CALLER: Yes.
+AGENT: Could you please say the dropoff address again? I want to make sure I get it exactly right.
+CALLER: Forty forty seven zero one Willard Avenue, Chevy Chase, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address. I couldn't find 4 0 4 7 Willard Avenue, Chevy Chase, Maryland exactly. Did you mean 4 7 0 1 Willard Avenue, Chevy Chase, Maryland for your
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: No. 40 no. It's four seven zero yes. Uh-huh. Yes. I I wrote a, uh, Barwood yesterday two times. Okay. So

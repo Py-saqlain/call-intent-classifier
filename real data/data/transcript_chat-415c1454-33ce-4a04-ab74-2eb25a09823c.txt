@@ -1,0 +1,29 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Willene?
+CALLER: Yes.
+AGENT: Thanks for confirming, Willene. This is Barwood & Regency. How can I assist you today?
+CALLER: Um, I would like to book a craft from a and I also have caloraya.
+AGENT: Alright, <break time="300ms"/> I see you'd like to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three three four nine one nine.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Willene, could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: One one one six zero Beers Mill Road, space p two one two, Wheaton, Maryland 20902.
+AGENT: I found a similar address from recent trips: 11160 Veirs Mill Road, Wheaton-Glenmont, Maryland. Is that the correct pickup location? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yes. One zero four zero one motor City Drive,
+AGENT: I have 1 0 4 0 1 Motor City Drive, Bethesda, Maryland as the dropoff address. Is that correct? <emotion value="hesitant"/>
+CALLER: Yes. It is.
+AGENT: Your dropoff address has been verified, Willene.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! <emotion value="grateful"/> <break time="200ms"/> I've got your pickup time as today at 1:37 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just one and no.
+AGENT: Okay great! <emotion value="grateful"/> <break time="200ms"/> Do you have any special instructions or notes for the driver?
+CALLER: Yes. Meet me at Oak and Barrel Line. Montgomery County liquor store.
+AGENT: The estimated fare is 22 dollars, paying with your Call And Ride account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for waiting. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 1:37 PM. Your confirmation number is 2 1 3 6 7 4 7 3 2. Is there anything else I can help
+CALLER: Thank you.
+AGENT: Thank you for calling Barwood & Regency, Willene. Have a wonderful day!
+CALLER: Oh, you just

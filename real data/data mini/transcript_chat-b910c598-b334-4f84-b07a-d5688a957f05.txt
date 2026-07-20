@@ -1,0 +1,14 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Yes. The name is Barbara Thomas. A cab was called around 11:30 for me. I'm at I'm in I'm at twenty seven thirty University Boulevard West and I'm coming out of the doctor's office to receptionist call a cab, and got here yet.
+AGENT: Thank you, Barbara. This is
+CALLER: Okay.
+AGENT: Uhh, so it sounds like you had a cab called for you around 11:30 from 2 7 3 0 University Boulevard West, but it hasn't arrived yet. Let me check the status of that trip for you.
+AGENT: Hmm, let me check that for you again. Uhh, it looks like I
+CALLER: The status was that thank you.
+AGENT: Hmm, let me pull that up for you. Uhh, I’m sorry, but I can’t find any
+CALLER: Okay. Mhmm.
+AGENT: Hmm, let me pull that up for you. Uhh, I’m sorry, but I don’t see any active trips under your name right now. Would you like me to help you book a new ride?
+CALLER: This cab is not coming. You know? Anyway, I'm at 2730 University Boulevard. Okay?
+AGENT: I'm really sorry about the wait. Let me connect you with a representative who can help right away.
+CALLER: Thank you.
+AGENT: I'm connecting you to a customer

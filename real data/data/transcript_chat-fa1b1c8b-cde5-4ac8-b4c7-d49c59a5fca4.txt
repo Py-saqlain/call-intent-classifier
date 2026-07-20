@@ -1,0 +1,46 @@
+AGENT: Hello Kesha, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like to book a trip. At eight thirty five
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cholera.
+AGENT: Hmmm.. that didn't seem right, could you please tell me how you'd like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero zero three one. Nine six five four.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: To get started, may I have your pickup address, please? <emotion value="peaceful"/>
+CALLER: Eight eight two six. Lanier Drive, Silver Spring, Maryland.
+CALLER: Two zero nine one zero.
+AGENT: Okay, just to confirm, your pickup address is 8 8 2 6 Lanier Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay, so I found that location. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, may I have your dropoff address, please? <emotion value="peaceful"/>
+CALLER: Drop off eight zero five King Farm Boulevard in Rockville, Maryland.
+AGENT: Okay, just to confirm, your dropoff address is 8 0 5 King Farm Boulevard, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay, so I found that location. Is that the correct dropoff address? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified.
+AGENT: Just to confirm, you would like to be picked up at 8:35 AM today, is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One and no wheelchair accessibility.
+AGENT: Okay great! Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: No. If the driver can just call me when they're downstairs.
+AGENT: Alright, so let me confirm those details. Your pickup is 8 8 2 6 Lanier Drive. Your dropoff is 8 0 5 King Farm Boulevard. Pickup time is 8:35 AM. One passenger, no wheelchair needed. The estimated fare is 39 dollars, paying with your Call And Ride account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Alright, thanks for confirming. I'll start collecting the details for your return trip now. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: I'm not sure. I'll just call back.
+CALLER: I'm sorry.
+AGENT: No problem, I've recorded your return trip as a will-call trip. Now, how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. And one passenger.
+AGENT: Just to confirm, for your return trip, the pickup will be 8 0 5 King Farm Boulevard, Rockville, Maryland, and the dropoff will be 8 8 2 6 Lanier Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: The estimated fare for your return trip is 39 dollars, paying with your Call And Ride account. Should I go ahead and book both trips for you? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay so I am booking both your trips now. <emotion value="grateful"/>
+AGENT: Thank you for your patience. I am booking both your main and return trips now.
+AGENT: Your main trip is scheduled for today at 8:35 AM with confirmation number 2 1 3 6 7 0 3 4 0. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 0 3 4 1. You can call back when you are ready for the return trip, and a driver will be sent then. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Kesha. Have a wonderful day.

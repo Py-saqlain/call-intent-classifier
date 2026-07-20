@@ -1,0 +1,15 @@
+AGENT: Hi Michael, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Your pickup. My my my my cab haven't got here, or my metro access haven't got here. I gotta get there. I have to be a diagnostic.
+AGENT: I understand you need to get to a diagnostic appointment and your cab or MetroAccess hasn't arrived yet. Let me connect you to the trip status team so they can check on your ride and help you right away.
+AGENT: I don't see any active trip scheduled for you right now. Would you like me to help you book a ride to your diagnostic appointment?
+CALLER: I got to be Yes, ma'am.
+AGENT: Thank you for letting me know. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: I gotta do this. I'm in a hurry. I've got I I got cash. I got I got cash.
+AGENT: Thank you for letting me know you'll be paying with cash.
+CALLER: I got cash.
+AGENT: Could you please tell me your pickup address?
+AGENT: Could you please tell me your pickup address?
+CALLER: Five six four o. Witchfield Chapel Road, Apartment 202, Lanham, Maryland. 20706.
+AGENT: I have 5 6 4 0 Whitfield Chapel Road, Lanham, Maryland. Is that correct?
+CALLER: Yes. Yes.
+AGENT: The

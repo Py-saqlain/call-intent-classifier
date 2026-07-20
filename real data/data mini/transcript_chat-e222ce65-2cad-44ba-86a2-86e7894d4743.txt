@@ -1,0 +1,10 @@
+AGENT: Hi Christine, this is Ana with Barwood & Regency. Your trip is scheduled for pickup today at 10:53 AM. How can I assist you today?
+CALLER: Agent.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+AGENT: Take
+CALLER: Eight eight
+AGENT: Looks like you already have a trip from Chevy Chase to Washington at 10:53 this morning. What would you like to do?
+CALLER: Agent
+AGENT: I can assist you with your booking details — would you like to continue?
+CALLER: Agent
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

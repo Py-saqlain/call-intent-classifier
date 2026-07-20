@@ -1,0 +1,63 @@
+AGENT: Hello Guzman, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi, please.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Corn rice.
+AGENT: Hmmm.. that didn't seem right, could you try again? You can pay with cash, credit card, or Call and Ride. <emotion value="apologetic"/>
+CALLER: Carl Wright.
+AGENT: Just to confirm, did you mean Call and Ride for payment? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Okay.
+AGENT: Could you please tell me the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three two two.
+AGENT: Hmmm.. that didn't seem like six digits. Could you please provide all six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Yes. Okay.
+AGENT: Alright, how would you like to pay? You can choose cash, credit card, or Call and Ride. <emotion value="peaceful"/>
+CALLER: Three two two seven eight one.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Excuse me. What did you say?
+AGENT: I was asking for the pickup address where the driver should come to get you. Could you please tell me that address? <emotion value="peaceful"/>
+CALLER: Oh, do you need a six digit or my card in right?
+AGENT: No, I just need the address where you'd like to be picked up for your ride. You already gave me your Call and Ride card number. Could you please tell me your pickup address? <emotion value="peaceful"/>
+CALLER: Oh, oh, yes. Yes. Yes. Okay. Okay. Okay.
+AGENT: Thank you. Whenever you're ready, please tell me the pickup address for your ride. <emotion value="peaceful"/>
+CALLER: Oh, okay. I'm ready now. Yes. Understand.
+AGENT: Great! Please go ahead and tell me the pickup address. <emotion value="peaceful"/>
+CALLER: Just a moment, please.
+AGENT: Take your time. I'm here whenever you're ready. <emotion value="peaceful"/>
+CALLER: On the side, it's all
+AGENT: Uh, I am sorry, but could you please repeat the pickup address? I didn't quite catch that. <emotion value="apologetic"/>
+CALLER: I'm sorry for waiting. Hello? Hello?
+AGENT: Yes, I'm here. Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Yes. Yes. I understand now. I'm sorry for waiting. Okay. It's out. One one one six zero Beechmee Road, Wheaton, Maryland. ZIP code 20902. It's at Costco.
+AGENT: I couldn't find an exact match for 1 1 1 6 0 Beechmee Road in Wheaton, Maryland. However, I found a location at 4 0 1 1 Randolph Road, Wheaton, Maryland 2 0 9 0 2 near Costco. Is this the correct pickup location? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Beards Mill Road, Wheaton, Maryland two Oh, okay.
+AGENT: I couldn't locate Beards Mill Road in Wheaton, Maryland with the information given. Could you please provide the full street number along with the street name and city for the dropoff address? <emotion value="apologetic"/>
+CALLER: Yes. Beards Mill Road, Wheaton, Maryland two Oh, okay. Oh, okay. Is one twenty nine Oh, it's a
+AGENT: Thank you for that. Just to confirm, is the dropoff address 1 2 9 0 Beards Mill Road, Wheaton, Maryland? <emotion value="peaceful"/>
+CALLER: Okay.
+AGENT: I couldn't find an exact match for 1 2 9 0 Beards Mill Road in Wheaton, Maryland. But I found a location at Across The Food Court, 1 1 1 6 0 Veirs Mill Road, Second Floor, Wheaton, Maryland 2 0 9 0 2. Is this the correct dropoff location? <emotion value="hesitant"/>
+CALLER: Oh my
+AGENT: I understand this might be confusing. Is the location at 1 1 1 6 0 Veirs Mill Road, Wheaton, Maryland, near the food court, the place you want to go? <emotion value="peaceful"/>
+CALLER: Oh, yes. But I'm going
+AGENT: Got it. Your dropoff address is the location at 1 1 1 6 0 Veirs Mill Road, Wheaton, Maryland near the food court. Let me verify that for you. <emotion value="peaceful"/>
+AGENT: Your dropoff address has been verified, Mr. Guzman.
+AGENT: Just to confirm, you would like to be picked up now, correct? <emotion value="peaceful"/>
+CALLER: Yes I'm ready.
+AGENT: Okay great! How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: That's for pickup, but I'm going
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 3:39 PM. Your confirmation number is 2 1 3 6 7 4 3 0 1. Is there anything else I can help you with?
+CALLER: Oh, okay. I didn't tell you where I where I'm going.
+AGENT: I understand. Since your trip is already booked, if you need to change the destination or anything else, I can connect you with someone who can assist you further. Would you like me to do that?
+CALLER: Okay.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today? <emotion value="peaceful"/>
+CALLER: Hello, Kim.
+AGENT: Did you want to tell me what you need, or shall I transfer you? <emotion value="peaceful"/>
+CALLER: Oh, okay. Oh, okay. How long take to go I'm going to 12903 Eloise Avenue.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Okay.

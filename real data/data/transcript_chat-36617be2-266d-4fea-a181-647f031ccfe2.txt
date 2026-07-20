@@ -1,0 +1,41 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Margaret, Handler, c a n d l e r.
+AGENT: Thanks, Margaret. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Um, I need to, um, get from MedStar Hospital to friend's house
+AGENT: Alright, Margaret, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: I found a few locations for MedStar Hospital. 
+Option one: 1 2 1 1 1 Darnestown Road, Gaithersburg, Maryland. 
+Option two: 1 8 1 0 1 Prince Philip Drive, Olney, Maryland. 
+Which one is correct?
+CALLER: That's the second.
+AGENT: I found a few locations for friend's house. 
+Option one: 1 7 3 4 0 Quaker Lane, Sandy Spring, Maryland. 
+Option two: 3 3 0 0 Hamilton Mill Road, Buford, Georgia. 
+Option three: 4 6 4 7 Convoy Street, San Diego, California. 
+Which one is correct?
+CALLER: The first one.
+AGENT: Your dropoff address has been verified, Margaret. I will now proceed to arrange your trip.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: As soon as possible.
+AGENT: Okay, I've got your pickup time as soon as possible, today at 2:05 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: I'm ready now. Yes. One. One
+AGENT: Okay great! I've got one passenger and one wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: I I don't need I don't need a wheelchair.
+AGENT: Thanks for letting me know you don't need a wheelchair. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 10 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. One way.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 2:05 PM. Your confirmation number is 2 1 3 6 7 7 1 6 7. Is there anything else I can help you with?
+CALLER: Actually, I can pay by cash.
+AGENT: Thank you for letting me know you'd like to pay by cash. I'll update your payment method right away. Please hold for a moment.
+AGENT: I see you want to pay by cash now. I'll make sure that update is handled for you. Please hold on just a moment while I take care of that.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm I'm ready.
+AGENT: Alright, Margaret, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: Take your time. Just let me know when you're ready.

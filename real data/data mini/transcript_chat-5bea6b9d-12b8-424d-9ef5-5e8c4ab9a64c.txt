@@ -1,0 +1,13 @@
+AGENT: Hi Nicole, this is Ana with Barwood & Regency. Your trip is scheduled for pickup today at 12:22 PM. How can I assist you today?
+CALLER: Allah, agent.
+AGENT: Uhh, yes? How can I assist you today? <emotion value="peaceful"/>
+CALLER: Hi. How are you doing?
+AGENT: I'm doing well, thank you. How can I help you with your ride today? <emotion value="peaceful"/>
+CALLER: I lie Asian.
+AGENT: I'm sorry, I didn't quite catch that. Could you please tell me how I can assist you with your ride today? <emotion value="hesitant"/>
+CALLER: Talk to someone.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Caucasia.
+AGENT: Could you please clarify what you need help with regarding your ride? Are you looking to book a trip, check a trip status, cancel, or something else? <emotion value="hesitant"/>
+CALLER: Talk to someone. Talk Talk to someone.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

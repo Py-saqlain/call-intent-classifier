@@ -1,0 +1,17 @@
+AGENT: Hi Vivi, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a ride I'm at Suburban Hospital, and I need to go home.
+AGENT: Thank you for letting me know your pickup and dropoff locations. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, cash is all set for your ride.
+AGENT: I found several locations related to Suburban Hospital in the Bethesda and Kensington area:
+
+1. G C M Suburban Imaging at 6 4 2 0 Rockledge Drive, Suite 3 1 0 0, Bethesda, Maryland
+2. Johns Hopkins Otolaryngology at Suburban, 6 4 2 0 Rockledge Drive, Bethesda, Maryland
+3. Suburban Outpatient Medical Center, 1 0 2 1 5 Fernwood Road, Bethesda, Maryland
+4. Kaiser Permanente Kensington Medical Center, 1 0 8 1 0 Connecticut Avenue, Kensington, Maryland
+5. Fast Track Urgent Care, 1 0 5 4 0 Connecticut Avenue, Kensington, Maryland
+
+Which one is your pickup location?
+CALLER: Holy this?
+AGENT: Could you please clarify which location you mean by "Holy this"? Are you referring to one of the options I just listed, or is it a different place?
+CALLER: I don't know what the hell you're talking about. Put somebody live on the phone.

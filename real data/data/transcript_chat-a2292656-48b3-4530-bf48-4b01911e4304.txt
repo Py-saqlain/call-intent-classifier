@@ -1,0 +1,36 @@
+AGENT: Hello Dorothy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Hi. I was calling the cab. I need a cab that 11303 Lockwood Drive. Going to 110 Scarlet Road,
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Color ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Alright.
+AGENT: Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero zero three five. One nine six two.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Okay, so I have your pickup as 1 1 3 0 3 Lockwood Drive, Silver Spring, Maryland, and your dropoff as 1 1 0 Schuyler Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah.
+AGENT: Your addresses have been verified, Dorothy.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now,
+AGENT: Okay great! I've got your pickup time as today at 11:42 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thanks for letting me know no wheelchair is needed. How many passengers will be traveling? <emotion value="peaceful"/>
+CALLER: It'll just be two lands with me and my
+AGENT: Okay great! I've got that noted for two passengers and no wheelchairs. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 13.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, great! I'll start collecting the details for your return trip now. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Oh, I don't know right now. I will have to call back. I don't know.
+AGENT: Okay, I've recorded your return trip as a will-call trip, so you can call back when you're ready to schedule it. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Probably an hour. About an hour. Okay.
+AGENT: I understand you mentioned about an hour, but I need to know the number of passengers and if a wheelchair-accessible vehicle is needed for the return trip. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: Two. Two. No. No. Bitches.
+AGENT: Okay, so for your return trip, I have the pickup as 1 1 0 Schuyler Road and the dropoff as 1 1 3 0 3 Lockwood Drive. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 14.5 dollars, paying with Call and Ride. Should I go ahead and book both trips for you? <emotion value="peaceful"/>
+CALLER: Yes. Need to be picked up. Eleven three zero three.
+AGENT: Okay, so I'll proceed with booking both trips for you now. <emotion value="grateful"/>
+AGENT: Thank you for your patience. I'm now booking both your trips together. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 11:42 AM with confirmation number 2 1 3 6 7 1 8 5 8. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 1 8 5 9. You can call back when you're ready for the return trip, and a driver will be sent then. Is there anything else I can help you with?

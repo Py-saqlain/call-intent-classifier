@@ -1,0 +1,44 @@
+AGENT: Hello Valentine, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to go to 13529 Connecticut Avenue. For a short while, and then I need a ride back to my own at 601 East Randolph Road.
+AGENT: Alright, how would you like to pay for your rides today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I'm leaving my call Call. Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three five zero three one one.
+AGENT: Thank you, your Call and Ride payment is all set. <emotion value="grateful"/>
+AGENT: Okay, so your dropoff address is 1 3 5 2 9
+CALLER: Okay.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: Six zero one East Randolph Road.
+AGENT: Thank you. Let me check that pickup address for you. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is 6 0 1 East Randolph Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Mhmm. That's correct.
+AGENT: Your pickup address has been verified, Valentine.
+AGENT: When would you like to be picked up for your trip to 1 3 5 2 9 Connecticut Avenue? <emotion value="peaceful"/>
+CALLER: As my drop off,
+AGENT: Could you please tell me the time you would like to be picked up for your trip? <emotion value="hesitant"/>
+CALLER: Alright.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I'm ready right now. If they can come now as soon as possible,
+AGENT: Okay great! I've got your pickup time as today at 12:17 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Oh, Just me alone.
+AGENT: Okay great! I've got 1 passenger. Will you be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Nothing like that.
+AGENT: Okay, no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: Alright. Just need to him to come as soon as possible.
+AGENT: Alright, the estimated fare is 20.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: I I said I wanna return after 06:01.
+AGENT: Just to confirm, would you like to update the pickup time for your return trip to 6:01 PM? <emotion value="peaceful"/>
+CALLER: Ready? Minutes after he drops me off.
+AGENT: Just to clarify, are you booking a return trip back to 601 East Randolph Road, or is the trip we just set up your return journey? <emotion value="peaceful"/>
+CALLER: Yes. That's the six zero one He's running after all.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Within the next thirty minutes after, he drops me off. ERC.
+AGENT: Okay, your return trip pickup time is set for today at 12:47 PM. Alright, soo <break time="300ms"/> how many passengers will be traveling on your return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Josh, I alone. He's taking me to a destination, and he's taking me back.
+AGENT: Just to confirm, for your return trip, you will be picked up at 1 3 5 2 9 Connecticut Avenue and dropped off at 6 0 1 East Randolph Road. Is that correct? <emotion value="peaceful"/>
+CALLER: You got it.
+AGENT: The estimated fare for your return trip is 20.5 dollars, paying with Call and Ride. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your main trip is scheduled for today at 12:17 PM with confirmation number 2 1 3 6 7 5 7 6 0. Your return trip is scheduled for today at 12:47 PM with confirmation number 2 1 3 6 7 5 7 6 1. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Valentine. Have a wonderful day.

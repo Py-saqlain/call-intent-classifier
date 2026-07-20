@@ -1,0 +1,35 @@
+AGENT: Hi Valerie, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello?
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Need a taxi.
+AGENT: Alright, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Five four six
+AGENT: Hmm <break time="350ms"/> could you please provide the street name and city for the pickup address? Just the number five four six isn't enough to locate it. <emotion value="peaceful"/>
+CALLER: North Frederick Avenue,
+AGENT: Thank you. Let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found your pickup location as five four six North Frederick Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: North Frederick Avenue.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please tell me the destination or dropoff address where you'd like to go? <emotion value="peaceful"/>
+CALLER: Four one zero
+AGENT: Could you please provide the street name and city for the dropoff address? Just the number four one zero isn't enough to locate it. <emotion value="peaceful"/>
+CALLER: Blue still green.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found your dropoff location as four one zero Blue Silk Lane, Montgomery Village, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Valerie.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time as today at 8:46 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will any of you need a wheelchair-accessible vehicle?
+CALLER: One and no wheelchair.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, Valerie. The estimated fare is 8 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Your main trip is booked for today at 8:46 PM. Your confirmation number is 2 1 3 6 7 2 7 7 6. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood Cab, Valerie. Have a wonderful day!

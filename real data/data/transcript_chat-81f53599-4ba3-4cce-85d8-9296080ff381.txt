@@ -1,0 +1,25 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Leslie Rose.
+AGENT: Thanks, Leslie. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yeah. Um, I'd like to get the rate on the taxi from 1011 Nora Drive in Silver Spring. To um, just a second.
+AGENT: Uhh, I can help you with booking a ride from 1 0 1 1 Nora Drive in Silver Spring. Could you please tell me your destination address or where you'd like to go? <emotion value="peaceful"/>
+CALLER: Yeah. One zero seven one zero seven four one.
+AGENT: Thanks for that. Could you please confirm if that is the dropoff address? And if so, could you provide the street name and city for that address?
+CALLER: Yeah. Come on. A pank. And that silver spring
+AGENT: Just to confirm, is your dropoff address 1 0 7 1 0 7 4 1 A Pank in Silver Spring? Could you please clarify the street name "A Pank" for me? It sounds a bit unclear.
+CALLER: No.
+AGENT: Okay, no problem. Could you please repeat or clarify the dropoff address for me?
+CALLER: The address is 10741 Columbia Pike. 10741 Columbia Pike.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: It yeah. I need to know how much it is.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I need to know how much it is.
+AGENT: I don't have the fare information yet, but let's continue with your booking. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so your pickup address is 1 0 1 1 Nora Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmm, I couldn't find any locations for "know how much it is." Could you please provide the full dropoff address or a nearby landmark? <emotion value="apologetic"/>
+CALLER: The address is one zero seven four one Columbia Pike,
+AGENT: I couldn't find an exact match for 1 0 7 4 1 Columbia Pike. The closest address I found is 1 2 2 5 2 Williams Road, Cumberland, Maryland. Is that the correct dropoff location? <emotion value="hesitant"/>
+CALLER: No. Can I talk to a person, please?

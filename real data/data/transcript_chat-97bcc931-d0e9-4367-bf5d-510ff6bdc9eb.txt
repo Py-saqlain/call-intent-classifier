@@ -1,0 +1,57 @@
+AGENT: Hello Michael, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Taxi Wheelchair.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Four five one two Edgefield Road.
+AGENT: Okay, so I found your pickup address as four five one two Edgefield Road, Kensington, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 6400 Goldsboro Road. Bethesda.
+AGENT: Okay, so I found your dropoff address as six four zero zero Goldsboro Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Michael. <emotion value="grateful"/>
+AGENT: Just to confirm, you will need one wheelchair-accessible vehicle for your ride, is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, I've got that noted. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 8AM.
+AGENT: Just to confirm, you want to be picked up at 8 AM today, correct?
+CALLER: Just to confirm, want to be careful about
+AGENT: Sorry, I didn't quite catch that. Did you want to confirm your pickup time as 8 AM today? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Eight AM tomorrow.
+AGENT: Thanks for clarifying. You want to be picked up at 8 AM tomorrow, correct?
+CALLER: Correct.
+AGENT: Okay great! I've got your pickup time as tomorrow at 8 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself?
+CALLER: Three
+AGENT: Okay great! I've got three passengers including yourself. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Yes. I am requesting cab two nine three.
+AGENT: Alright, the estimated fare is 17.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay, great! I'll start collecting the details for your return trip now.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Nine thirty AM tomorrow. Monday,
+AGENT: Just to confirm, you want to be picked up for your return trip tomorrow at 9:30 AM, correct?
+CALLER: Yes.
+AGENT: Okay great! I've got your return trip pickup time as tomorrow at 9:30 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling on your return trip, including yourself?
+CALLER: Three,
+AGENT: And will any of those passengers require a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: For your return trip, I have the pickup address as six four zero zero Goldsboro Road, Bethesda, Maryland, and the dropoff address as four five one two Edgefield Road, Kensington, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 19.5 dollars, paying with credit card. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I'm booking both trips for you now. <emotion value="grateful"/>
+AGENT: Your main trip is scheduled for tomorrow at 8:00 AM with confirmation number 2 1 3 6 7 4 8 9 5. Your return trip is scheduled for tomorrow at 9:30 AM with confirmation number 2 1 3 6 7 4 8 9 8. Is there anything else I can help you with?
+CALLER: I would like to request
+AGENT: Please go ahead and tell me what
+CALLER: taxi two nine three
+AGENT: Thank you for letting me know about your request for taxi two nine three. Is there anything specific you'd like me to do with this request?
+CALLER: Yes. I would like to request 293 for eight AM and taxi three five five for 09:30AM pickup.
+AGENT: I will connect you to a representative who can assist with your specific taxi requests. Please hold for a moment.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: You already have trips scheduled from Kensington to Bethesda at 8:00 AM and back at 9:30 AM. What would you like to do?
+CALLER: Representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

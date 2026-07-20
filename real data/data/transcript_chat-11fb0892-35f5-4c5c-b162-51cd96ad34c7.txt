@@ -1,0 +1,24 @@
+AGENT: Hello Seth, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I was like, yeah,
+AGENT: How can I assist you with your ride today?
+CALLER: I would like a cab to pick me up at six zero seven o California Circle and I would like that tab to take me to my search which is on Montrose Road, and the address for that church is nine one seven Montrose Road, Rockville, Maryland.
+AGENT: Thank you for sharing your pickup and dropoff details. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Right. Credit.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: I have your dropoff address as 917 Montrose Road, Rockville, Maryland. However, I couldn't locate the pickup address at six zero seven California Circle. Could you please provide the full pickup address including the street name and city?
+CALLER: 6070 California Circle, Rockville, Maryland two zero eight five two. Yes.
+AGENT: I have the pickup address as six zero seven zero California Circle, North Bethesda, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified, Seth. I will now proceed with arranging your trip.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One. No.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: Nope. Yes.
+AGENT: The estimated fare for your trip is 7 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking your one-way trip now.
+AGENT: Your trip is scheduled for today at 10:09 AM. The confirmation number is 2 1 3 6 6 6 7 8 2. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Seth. Have a wonderful day!

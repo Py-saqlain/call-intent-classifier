@@ -1,0 +1,45 @@
+AGENT: Hi Bree, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Checking on my ride.
+AGENT: You don't have any active trips scheduled right now. Would you like me to help you book a ride?
+CALLER: Yes.
+AGENT: Great! How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Yes. Cash.
+AGENT: Thank you for choosing cash as your payment method.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: My drum roll. Small, trans Center.
+AGENT: I found the Center for Transgender and Gender Expansive Health at 601 North Caroline Street, Baltimore, Maryland. Is that the correct pickup location?
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide more details or clarify the pickup address again?
+CALLER: Montgomery Mall Transit Center.
+AGENT: I found a few options for Montgomery Mall Transit Center in Potomac, Maryland. They are:
+
+1. Montgomery Mall Transit Center and Bay D
+2. Montgomery Mall Transit Center and Bay B
+3. Montgomery Mall Transit Center (general)
+
+Which one would you like to use for your pickup?
+CALLER: The first one.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One one five zero three. February third.
+AGENT: Could you please clarify the street name or location for the dropoff address? "One one five zero three" sounds like a street number, but I need the full address or place name to assist you.
+CALLER: February circle
+AGENT: I have 1 1 5 0 3 February Circle, Silver Spring, Maryland as the dropoff address. Is that correct?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, Bree.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: What one
+AGENT: I don't have your passenger count yet. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One pasta. One passenger and no wheelchair.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: Call my phone once you reach the pickup location.
+AGENT: The estimated fare is 34 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip. Should I go ahead and book it now?
+CALLER: Yeah.
+AGENT: I am booking your trip now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 3 7 8 9. The pickup is scheduled for today at 5:41 PM. Is there anything else I can help you with?
+CALLER: No, ma'am.
+AGENT: Thank you for calling Barwood & Regency, Bree. Have a wonderful day!
+CALLER: You too.

@@ -1,0 +1,36 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Good morning. Last name is Perkins. Z Perkins.
+AGENT: Thanks, Z. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I'm calling to find out if I can get transportation to one of the metro station. Yeah. I'm probably much closer. I'm near the I'm gonna go to the Wargo Station. In order to return to another station. And when I'm done with an appointment,
+AGENT: Okay, I understand you want transportation to a metro station, specifically to Largo Station, and then later to another station after your appointment. Let me connect you to the booking team who can help arrange that for you.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: So you want a payment of some kind?
+AGENT: Yes, that's right. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I want to can't. Can. Can.
+AGENT: Hmmm.. that didn't seem right, could you please confirm if you meant Call and Ride as your payment method? <emotion value="apologetic"/>
+CALLER: Repeat that again. Calling ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: I was just I have a card. I don't have a card.
+AGENT: Hmmm.. that didn't seem right, could you please clarify if you want to pay with a credit card, cash, or Call and Ride? <emotion value="apologetic"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: This is one seven two nine Turpin Hills Drive, yep, Mitchellville, Maryland 20721.
+AGENT: Hmm <break time="350ms"/> let me check that address. It seems I couldn't locate 1 7 2 9 Turpin Hills Drive in Mitchellville, Maryland. Could you please confirm the street number and name again or provide a nearby landmark? <emotion value="apologetic"/>
+CALLER: Alright. Turns the week. Yep. Alright. P excuse me. Um, one thousand seven hundred twenty nine terra pen Hills Drive, Billy, Maryland two zero seventy one.
+AGENT: Hmm <break time="350ms"/> let me check that address. I couldn't find 1 7 2 9 Turpin Hills Drive in Mitchellville, Maryland. Could you please provide the full street address again or a nearby landmark? <emotion value="apologetic"/>
+CALLER: Alright. Let's see. One open seven hundred twenty nine. Terrapin Hills Drive, Meckerville, Maryland two zero seven two one.
+AGENT: Uh, I am sorry, but could you please repeat the city name? I want to make sure I get it right. <emotion value="apologetic"/>
+CALLER: And the nearest cross street is
+AGENT: Thank you for that. Could you please tell me the nearest cross street to 1 7 2 9 Terrapin Hills Drive? That will help me find the exact location. <emotion value="peaceful"/>
+CALLER: I think I think it's Willow Oaks Willow Oaks Drive.
+AGENT: Hmm <break time="350ms"/> let me check that address. I couldn't find 1 7 2 9 Terrapin Hills Drive near Willow Oaks Drive in Maryland. Could you please provide another nearby landmark or a different address? <emotion value="apologetic"/>
+CALLER: Lake Arbor. Let's see. I think No. Golf Course Drive. Maybe it's Golf Course Drive.
+AGENT: Hmm <break time="350ms"/> let me check that address. I still couldn't find 1 7 2 9 Terrapin Hills Drive near Golf Course Drive in Maryland. Could you please provide another nearby landmark or a different address? <emotion value="apologetic"/>
+CALLER: Okay. I'm gonna call back when I'm near the metro station. I'm near the metro station. Yeah. I'll call you back. Alright?
+AGENT: Just to confirm, you would like to cancel this booking and call back later when you're near the metro station?
+CALLER: Yes. Because I think I think they have similar service. Yeah. I'll call back later.
+CALLER: Four twenty Thank you.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+AGENT: Thank you for calling Barwood & Regency, Z. Have a wonderful day!

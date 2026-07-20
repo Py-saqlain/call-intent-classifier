@@ -1,0 +1,8 @@
+AGENT: Hello Young, this is Ana from Barwood &
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Can I do can I
+AGENT: I’m here to help. Could you please tell me what you would like to do today? For example, do you want to book a ride, check on a trip, cancel, or something else?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?
+AGENT: How can I assist you with your ride or booking today?
+AGENT: Take your time. Just let me know when you're ready.

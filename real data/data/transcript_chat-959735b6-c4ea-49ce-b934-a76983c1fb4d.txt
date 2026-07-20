@@ -1,0 +1,36 @@
+AGENT: Hi Maynuna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Cab.
+AGENT: How can I assist you with your cab ride today?
+CALLER: Scott book a tab. What? Would fit phonics. Mhmm.
+AGENT: It sounds like you want to book a cab ride. Could you please tell me where you would like to be picked up from?
+CALLER: 100 Maryland Avenue.
+AGENT: Thank you for sharing your pickup address at 1 0 0 Maryland Avenue. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Paul in line.
+AGENT: Just to confirm, did you mean Call and Ride as your payment method? If so, I will ask for the last six digits of your Call and Ride card.
+CALLER: Three two five one six four.
+AGENT: Thank you, your payment with Call and Ride is all set.
+AGENT: I have 2 0 0 Maryland Avenue, Rockville, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 14943 Shady Grove Road.
+AGENT: Thank you for the dropoff address at 1 4 9 4 3 Shady Grove Road. Is that correct?
+CALLER: Yes.
+AGENT: I have 1 4 9 4 3 Shady Grove Road, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Maynuna.
+AGENT: When would you like to be picked up?
+CALLER: Right now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Three
+AGENT: Will anyone be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 14 dollars, and you will be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now?
+CALLER: Yes.
+AGENT: I am booking your trip now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 9 3 2 1. The pickup is today at 11:18 AM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Maynuna. Have a wonderful day!

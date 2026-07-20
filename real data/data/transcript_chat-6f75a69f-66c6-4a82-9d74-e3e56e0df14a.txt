@@ -1,0 +1,50 @@
+AGENT: Hi Natasha, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I would like to have a taxi at eighty eighty Bureau Drive,
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Or an
+AGENT: Hmmm.. that didn't seem right, could you try again? How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Core on the right.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Three one five seven five one.
+AGENT: Okay so I've got that payment noted as Call and Ride.
+AGENT: Okay, so your pickup address is 8 0 Bureau Drive, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Two six zero. North Frederick Avenue, IHOP.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so your dropoff address is 2 6 0 North Frederick Avenue, Gaithersburg, Maryland. Is that correct?
+CALLER: Two one.
+AGENT: Just to clarify, did you mean 2 1 North Frederick Avenue, Gaithersburg, Maryland for your dropoff address instead?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: 206 North Frederick Avenue.
+AGENT: Okay, let me check that address.
+AGENT: Okay, so your dropoff address is 2 0 6 North Frederick Avenue, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Natasha.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time as today at 8:56 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible
+CALLER: Two. Two
+AGENT: Thanks for that. Will anyone be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay great! I've got that no wheelchair is needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: Crutches.
+AGENT: Alright, the estimated fare is 7 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, great! I'll start collecting the details for your return trip now.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I'll call
+AGENT: Got it, your return trip is set as will-call. Alright, soo <break time="300ms"/> how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. Two.
+AGENT: Okay, for your return trip, I have the pickup address as 2 0 6 North Frederick Avenue, Gaithersburg, Maryland, and the dropoff address as 8 0 Bureau Drive, Gaithersburg, Maryland. Is that correct?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Repeat.
+AGENT: Sure, for your return trip, I have the pickup address as 2 0 6 North Frederick Avenue, Gaithersburg, Maryland, and the dropoff address as 8 0 Bureau Drive, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 8 dollars, paying with your Call and Ride account. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I'm booking both trips for you now.
+AGENT: Your main trip is scheduled for today at 8:56 AM with confirmation number 2 1 3 6 7 6 7 5 8. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 6 7 5 9. You can call back when you're ready for the return trip and a driver will be dispatched then. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Natasha. Have a wonderful day!

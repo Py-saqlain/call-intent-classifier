@@ -1,0 +1,18 @@
+AGENT: Good morning, Herbert. This is Ana from Barwood & Regency. Your trip is scheduled for pickup today at 9:24 AM. How can I assist you today?
+CALLER: 724. Okay.
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: You said it's actually be at 09:24?
+AGENT: Umm, just to clarify, are you asking if your pickup time is at 9:24 am? <emotion value="hesitant"/>
+CALLER: At one nine nine zero West.
+AGENT: Okay, I understand you mentioned "one nine nine zero West." Could you please confirm if this is the full pickup address or part of it? If you can provide the street name and city as well, that would be very helpful. <emotion value="peaceful"/>
+CALLER: Yes. One nine
+AGENT: Thanks for confirming the start of the address as one nine nine zero West. Could you please tell me the full street name and the city for that address? That way I can make sure I have it exactly right. <emotion value="peaceful"/>
+CALLER: one nine nine zero one That's wrong.
+AGENT: Alright, no problem. Could you please tell me the correct full address you want to use for pickup? Just take your time. <emotion value="peaceful"/>
+CALLER: Okay. It's one nine nine zero one.
+AGENT: Thanks for clarifying the address as one nine nine zero one. Could you please provide the street name and city for that address? That way I can be sure to get it right. <emotion value="peaceful"/>
+CALLER: Special It's Frederick Road, Germantown, CVS.
+AGENT: Looks like you already have a trip from 19901 Frederick Road to 19801 Observation Drive at 9:24 am today. What would you like to do? <emotion value="grateful"/>
+CALLER: So the taxi's on its way?
+AGENT: Uhh <break time="300ms"/> I'm sorry about that. The system shows your trip is running late and no driver has been assigned yet. Let me connect you with a representative who can help right away. <emotion value="sympathetic"/>
+AGENT: I'm connecting you now to a customer service representative who can assist you further. Please stay on the line.

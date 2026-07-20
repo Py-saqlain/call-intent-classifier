@@ -1,0 +1,6 @@
+AGENT: Hello Debra, this is Ana with Barwood & Regency. Your trip is scheduled for pickup today at 12:48 PM. How can I assist you today?
+CALLER: Status of my ride.
+AGENT: Your trip scheduled for pickup at 12:48 PM is currently marked as running late, and a driver has not yet been assigned. If you'd like, I can connect you with a customer representative who can assist further. Would you like me to do that?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

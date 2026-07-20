@@ -1,0 +1,23 @@
+AGENT: Hello Germain, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm calling about my pickup today going to twenty two thirty three West. I mean, why did 3800? Rise Above Road.
+AGENT: I want to make sure I have your pickup and dropoff addresses correct before proceeding. You mentioned a pickup today going to 3800 Reservoir Road Northwest, Washington, DC. Could you please confirm your pickup address for me?
+CALLER: Like,
+AGENT: Could you please tell me your pickup address again so I can make sure I have it right?
+CALLER: One zero nine two zero
+AGENT: Thank you. Just to confirm, your pickup address is 1 0 9 2 0 Connecticut Avenue, Kensington, Maryland, and your dropoff is 3 8 0 0 Reservoir Road Northwest, Washington, DC, for today. Is that correct?
+CALLER: Yes. What time am I? Yeah. It didn't take off.
+AGENT: I understand you want to know the pickup time for your trip today. Let me check that for you.
+AGENT: I don't see an active trip scheduled for today between those addresses. Would you like me to help you book a new ride?
+CALLER: What?
+AGENT: I don’t see a current trip booked for today from 1 0 9 2 0 Connecticut Avenue to 3 8 0 0 Reservoir Road Northwest. Would you like me to assist you with booking that ride now?
+CALLER: I want to know what time I'm getting sick of from where I live.
+AGENT: I understand you want to know the scheduled pickup time for your ride from your home address. Since I don’t see an active trip booked, could you please confirm if you already made a reservation for today? If not, I can help you book one.
+CALLER: Yes.
+AGENT: Thank you for confirming. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: My dear, this is too metro access. Let me tell you something.
+AGENT: I understand you mentioned MetroAccess, which is a separate service. Let me connect you to a live agent who can assist you with that.
+CALLER: Yes. Do that because you I talking to you, and you talking something else.
+AGENT: I want to make sure you get the right help. Could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Paper trips. I am not for the damn right. Just for the just for the the manager on.
+AGENT: It sounds like you might want to speak with a manager or someone who can assist you directly. Let me connect you to a live agent who can help with that.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

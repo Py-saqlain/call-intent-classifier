@@ -1,0 +1,36 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Sheryl Bigham?
+CALLER: Yeah.
+AGENT: Thanks, Sheryl. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yes I like I'm with. I'd like to order a cab, please.
+AGENT: Thank you for choosing us, Sheryl. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Copy that. Alright.
+AGENT: Could you please let me know which payment method you would like to use for your ride? Cash, credit card, or Call and Ride?
+CALLER: Call and ride
+AGENT: Thank you for choosing Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three two nine nine two seven.
+AGENT: Thank you, Sheryl. Your payment with Call and Ride is all set. The system will now proceed with your booking.
+AGENT: Where would you like to be picked up?
+CALLER: Eight. Six zero four second Avenue, Silver Spring, Maryland
+AGENT: I have 8 6 0 4 Second Avenue, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Where would you like to go?
+CALLER: One one one, four one. Georgia Avenue Silver Spring, Maryland
+AGENT: I have 1 1 1 4 1 Georgia Avenue, Wheaton-Glenmont, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Sheryl. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. I'm alone. That's me.
+AGENT: Thank you. Will you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 12.5 dollars, and you'll be paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: No. One way.
+AGENT: Alright, I will proceed with just the one-way trip. Should I go ahead and book your ride now?
+CALLER: Yes please
+AGENT: Booking your ride now.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 9 3 2 8. Your pickup is today at 11:26 AM. Is there anything else I can help you with?
+CALLER: No. Thank you. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Sheryl. Have a wonderful day!
+CALLER: You too. Thank you.

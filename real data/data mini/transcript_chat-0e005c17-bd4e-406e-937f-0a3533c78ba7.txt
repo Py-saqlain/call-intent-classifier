@@ -1,0 +1,11 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Serina Wealth?
+CALLER: Yes.
+AGENT: Thanks, Serina. This is Barwood & Regency. Your trip is dispatched and scheduled for pickup today at 11:33 AM. How can I assist you today?
+CALLER: It's 12:00.
+AGENT: Thanks for letting me know the time. How can I assist you with your ride or any other request today?
+CALLER: You said 11:30.
+AGENT: I mentioned your trip is scheduled for pickup today at 11:33 AM. Since it is now 12:00 PM, would you like me to check the status of that trip for you?
+CALLER: Yes.
+AGENT: Your trip is dispatched and scheduled for pickup today at 11:33 AM, with a driver and vehicle assigned. Would you like me to help with anything else?
+CALLER: I have been waiting for over a half an hour.
+AGENT: I'm connecting you now to a customer service representative who can assist you further. Please stay on the line.

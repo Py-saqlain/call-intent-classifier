@@ -1,0 +1,24 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I would like a cab
+AGENT: Of course — I can also book rides, check your trip status, or cancel trips right here if that's what you need. What can I help with today?
+AGENT: Thank you for letting me know you'd like a cab. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Debit card. Debit card.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: Could you please tell me the pickup address for your cab?
+CALLER: Six thirty. East Avenue.
+AGENT: Just to clarify, is your pickup address 6 3 0 East Avenue?
+CALLER: Yes.
+AGENT: I have 6 3 0 Russell Avenue, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: It's one one one zero one Yarra Leaf Way, Germantown.
+AGENT: Just to confirm, is your dropoff address 1 1 1 0 1 Yarra Leaf Way, Germantown, Maryland?
+CALLER: Yes. Yes.
+AGENT: I wasn't able to locate 1 1 1 0 1 Yarra Leaf Way, Germantown, Maryland. Could you please confirm the street number, street name, city, and state again?
+CALLER: German towed Maryland one one one zero one Yellowleaf Way, Germantown, Maryland
+AGENT: I couldn't find 1 1 1 0 1 Yellowleaf Way, Germantown, Maryland either. Could you please double-check the street name or provide any nearby landmarks or cross streets to help identify the address?
+CALLER: How about Cedar Bluff?
+AGENT: I couldn't find Cedar Bluff in Germantown, Maryland. Could you please provide a nearby landmark, cross street, or a different address for your dropoff location?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Thank you.

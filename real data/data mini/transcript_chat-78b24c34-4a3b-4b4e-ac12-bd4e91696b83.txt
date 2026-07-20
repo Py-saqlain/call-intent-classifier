@@ -1,0 +1,13 @@
+AGENT: Hi Cynthia, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?
+AGENT: Hi there! How can I assist you with your ride today?
+CALLER: Somebody called me.
+AGENT: Okay, no problem. Whenever you're ready, just let me know if you need help with booking a ride, checking a trip, or anything else.
+CALLER: Okay. Okay.
+AGENT: Whenever you're ready, feel free to tell me what you need help with regarding your ride.
+CALLER: Alright.
+AGENT: Is there something I can help you with about your ride today?
+CALLER: Yes.
+AGENT: Great! What would you like to do? Are you looking to book a ride, check on a trip, or something else?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

@@ -1,0 +1,50 @@
+AGENT: Hello Pearlina, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Okay. I can get a fax from her.
+AGENT: Uhh, okay. How can I assist you with your ride or transportation needs today? <emotion value="peaceful"/>
+CALLER: I'm I'm looking trying to get attached to him.
+AGENT: Umm, just to make sure I understand, are you trying to book a ride or get connected with someone specific? Could you please clarify a bit more? <emotion value="hesitant"/>
+CALLER: Yeah. Get the ride.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Get a ride. Dash Yes.
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? If you'd like, I can use your home address at one one two two one New Hampshire Avenue, Silver Spring, Maryland. Would that work for you? <emotion value="peaceful"/>
+CALLER: Then bring a fast question and drive.
+AGENT: Okay, just to confirm, you want to be picked up at one one two two one New Hampshire Avenue, Silver Spring, Maryland, correct? <emotion value="peaceful"/>
+CALLER: No. Ten twenty five Crest Evening Drive,
+AGENT: Okay, let me check that address. Ten twenty five Crest Evening Drive. Could you please tell me the city and state for that address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Uh, I am sorry, but I need the city and state name for ten twenty five Crest Evening Drive to find the exact location. Could you please provide that? <emotion value="apologetic"/>
+CALLER: Silver Spring.
+AGENT: Thank you. Let me check ten twenty five Crest Evening Drive, Silver Spring, Maryland. <emotion value="peaceful"/>
+AGENT: Okay, I found the address as one zero two five Cresthaven Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 1060 Merrimack Drive.
+AGENT: Thank you. Could you please tell me the city and state for 1060 Merrimack Drive? <emotion value="peaceful"/>
+CALLER: Zero one three. No.
+AGENT: Uh, I am sorry, but I didn't catch the city and state for 1060 Merrimack Drive. Could you please provide the city and state? <emotion value="apologetic"/>
+CALLER: Silver Spring, Maryland.
+AGENT: Thank you. Let me check 1060 Merrimack Drive, Silver Spring, Maryland. <emotion value="peaceful"/>
+AGENT: I found a similar address from recent trips: one zero one six Merrimac Drive, Silver Spring, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Pearlina.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Just to be sure, did you mean you want to be picked up right now, or would you prefer to call back later when you're ready? <emotion value="hesitant"/>
+CALLER: Yes. No.
+AGENT: Could you please clarify if you want a pickup right now or if you prefer to call back later when you're ready? <emotion value="hesitant"/>
+CALLER: Yes. I do.
+AGENT: Okay great! I've got your pickup time as right now. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Right now. One.
+AGENT: Thanks for that. Will you be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Power is run.
+AGENT: Okay great! I've noted that you will need a wheelchair-accessible vehicle. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Just me.
+AGENT: Alright, Pearlina. The estimated fare is 14 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 11:25 AM. Your confirmation number is 2 1 3 6 7 1 8 4 8. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Pearlina. Have a wonderful day!

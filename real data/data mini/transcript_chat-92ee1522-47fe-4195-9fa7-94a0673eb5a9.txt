@@ -1,0 +1,22 @@
+AGENT: Hello Josephine, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello. I'm I would like a taxi to go to Walmart.
+AGENT: Thank you for letting me know your destination is Walmart. How would you like to pay for your ride today? We accept cash, credit card, and
+CALLER: Yes.
+CALLER: Cash. Cash. Yes.
+AGENT: Thank you for choosing cash as your payment method.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 7620 Maple Avenue,
+CALLER: Tacoma Park,
+AGENT: Just to confirm, your pickup address is 7 6 2 0 Maple Avenue, Tacoma Park, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Thank you for confirming. Your pickup address is 7 6 2 0 Maple Avenue, Takoma Park, Takoma Park, Maryland. Is that correct?
+CALLER: Yes. Yeah. Yeah.
+AGENT: I wasn't able to find a Walmart near 7 6 2 0 Maple Avenue, Takoma Park, Maryland. Could you please provide the full address of the Walmart you want to go to?
+CALLER: No. No. I It's it feels
+AGENT: I didn't quite catch that. Could you please provide the full address or a nearby landmark for the Walmart you want to go to?
+CALLER: Yeah.
+AGENT: Could you please tell me the full address or a
+CALLER: It's seventy yes. It it's yes, it's just on the phone, but One
+AGENT: I’m sorry, I’m having a little trouble understanding the address. Could you please say the full street number and street name for the Walmart location you want to go to?
+CALLER: when you cut,
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

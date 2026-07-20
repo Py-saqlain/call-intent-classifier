@@ -1,0 +1,13 @@
+AGENT: Hello Jerome, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Oh, okay.
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Four three.
+AGENT: Could you please clarify what you mean by "four three"? Are you referring to a time, an address, or something else? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: That's a
+AGENT: Could you please complete your thought or let me know what you need help with? I'm here to assist you. <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Alright, what would you like to do? Are you looking to book a ride, check on a trip, or something else? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

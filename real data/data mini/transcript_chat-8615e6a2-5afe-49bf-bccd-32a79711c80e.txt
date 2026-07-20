@@ -1,0 +1,9 @@
+AGENT: Hello Nazrul, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Okay. Go see. The agenda, I think. Yeah. I am waiting for my ride. My home address is two two three six zero six Public House Road, Clarksburg.
+AGENT: I checked and you don't have an active trip scheduled right now. Would you like me to help you book a ride?
+CALLER: Yeah. I am on Medicaid.
+AGENT: Thank you for sharing that. For payment, we accept cash, credit card, and Call and Ride. How would you like to pay for your ride today?
+CALLER: I don't pay if I am on Medicaid.
+AGENT: I understand. However, on this line, we only accept cash, credit card, or Call and Ride for payment. If you'd like, I can connect you to a live agent who can assist you with Medicaid-related options. Would you like me to do that?
+CALLER: Okay. Yes.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

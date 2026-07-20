@@ -1,0 +1,9 @@
+AGENT: Hello Woodrow, this is Ana with Barwood & Regency. You have two trips today — Vehicle 665 is on the way and will arrive for your pickup in about 5 minutes, around 10:08, and your trip with
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hey. Brought the bed here a long, long time ago.
+AGENT: Could you please tell me how I can assist you with your ride or booking today?
+CALLER: Yeah. He put been here at at 10:00.
+AGENT: Are you looking to book a ride for 10:00, or do you need help with a trip related to that time?
+CALLER: No. No. No. No. I need I need to talk to somebody.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Shit.

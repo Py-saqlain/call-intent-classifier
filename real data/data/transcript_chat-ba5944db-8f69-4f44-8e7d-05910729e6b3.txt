@@ -1,0 +1,68 @@
+AGENT: Hi Maggie, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi, please.
+AGENT: Alright, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Five.
+AGENT: Hmmm.. that didn't seem right, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Five. Five.
+AGENT: Hmmm.. that still doesn't sound like a payment method. Could you please let me know if you'd like to pay with cash, credit card, or Call and Ride? <emotion value="apologetic"/>
+CALLER: Yes.
+AGENT: Hmmm.. I want to make sure I understand you correctly. Would you like to pay with cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Cash. Credit card.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+CALLER: No.
+AGENT: Alright, just to clarify, would you prefer to pay with cash or credit card for your ride? <emotion value="hesitant"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Eighty three
+AGENT: Uh, I am sorry, but could you please provide the street name or more details for the pickup address? Just the number eighty three is not enough to locate it. <emotion value="hesitant"/>
+CALLER: Yes. I have the address. One minute, please. One minute.
+AGENT: Take your time. Whenever you're ready, just let me know the full pickup address. <emotion value="peaceful"/>
+CALLER: Eighty three one five
+AGENT: Uh, I am sorry, but could you please provide the street name along with the number eighty three one five for the pickup address? I need the full address to assist you. <emotion value="hesitant"/>
+CALLER: fifteen North Northbrook
+AGENT: Thank you. Just to confirm, is your pickup address 8 3 1 5 North Northbrook? <emotion value="peaceful"/>
+CALLER: No. Eighty three
+AGENT: Okay, so the pickup address number is 8 3. Could you please provide the street name that goes with that number? <emotion value="hesitant"/>
+CALLER: Yes. Yes.
+AGENT: Okay, so I found the pickup address as 8 3 1 5 North Brook Lane, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Eighty three fifteen Norbrook Avenue,
+AGENT: Okay, so I found the pickup address as 8 3 1 5 North Brook Lane, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Could you please provide the dropoff address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please tell me the dropoff address for your ride? <emotion value="peaceful"/>
+CALLER: Fifty two. Twenty five
+AGENT: Uh, I am sorry, but could you please provide the street name or more details for the dropoff address? Just the numbers fifty two and twenty five are not enough to locate it. <emotion value="hesitant"/>
+CALLER: Fifty two Fifty two. Twenty five Cooksville Road, Bethesda, Maryland
+AGENT: Thank you. Just to confirm, I found a few locations.  
+ Option one: 5 2 5 2 Cooksville Road, Bethesda, Maryland.  
+ Option two: 2 5 Cooksville Road, Bethesda, Maryland.  
+ Which one is correct? <emotion value="hesitant"/>
+CALLER: Two. No. Three two twenty five Hooks Hill Road. Vedanta Marion.
+AGENT: Uh, I am sorry, but could you repeat that? I want to make sure I got the address right. <emotion value="hesitant"/>
+CALLER: Fifty two twenty five Hooks Hill Road, Bethesda, Maryland.
+AGENT: Okay, so I found the dropoff address as 5 2 2 5 Pooks Hill Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time as today at 10:46 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. No. Only one.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No. Be on time.
+AGENT: Alright, so let me confirm those details. Your pickup is 8 3 1 5 North Brook Lane. Your dropoff is 5 2 2 5 Pooks Hill Road. Pickup time is today at 10:46 AM. You have one passenger and no wheelchair needed. The estimated fare is 10.5 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 0 5 3 5. Your pickup is today at 10:46 AM. Is there anything else I can help you with?
+CALLER: No. The confirmation again.
+AGENT: Certainly. Your main trip confirmation number is 2 1 3 6 7 0 5 3 5. Is there anything else I can assist you with?
+CALLER: Repeat the confirmation. Two, three,
+AGENT: I understand you want me to repeat the confirmation number. Your main trip confirmation number is 2 1 3 6 7 0 5 3 5. Is there anything else I can help you with?
+CALLER: One more time, please.
+AGENT: Of course. Your main trip confirmation number is 2 1 3 6 7 0 5 3 5. Is there anything else I can assist you with?
+CALLER: One more time.
+AGENT: Your main trip confirmation number is 2 1 3 6 7 0 5 3 5. Is there anything else I can help you with?
+CALLER: No. No.
+AGENT: Thank you for calling Barwood & Regency, Maggie. Have a wonderful day!

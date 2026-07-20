@@ -1,0 +1,6 @@
+AGENT: Hello Elizabeth, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Can we check cap for Alexandra Denali? 16121 Kripple Bench Way?
+AGENT: I can help with checking trip status or booking for Alexandra Denali. Since you mentioned an address and a name, are you looking to book a ride for Alexandra Denali from 16121 Kripple Bench Way, or do you want to check the status of an existing trip? Could you please clarify?
+CALLER: Yes.
+AGENT: Thank you for confirming. How would Alexandra like to pay for the ride? We accept cash, credit card, and Call and Ride.
+CALLER: Can you do for me favor? I need talk with somebody else.

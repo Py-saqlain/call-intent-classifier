@@ -1,0 +1,21 @@
+AGENT: Hello Anna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Taxi.
+AGENT: Hi there! How can I assist you with your taxi ride today? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your taxi ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Ready.
+AGENT: Great! Could you please tell me how you would like to pay? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: Colon rye.
+AGENT: Hmmm.. that didn't seem right, could you please confirm if you meant Call and Ride for payment? <emotion value="apologetic"/>
+CALLER: Yeah.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yes. Zero zero three four five seven two five.
+AGENT: Hmmm.. that didn't seem quite right. Could you please say the last six digits of your Call and Ride card again, just the six digits? <emotion value="apologetic"/>
+CALLER: Zero zero three four five seven two five.
+AGENT: Hmmm.. that still sounds like eight digits. Could you please provide exactly the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Three four
+AGENT: Hmmm.. that sounds like only two digits. Could you please provide the full last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: five seven two five.
+AGENT: Hmmm.. that sounds like four digits. Could you please provide the full last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Can you be can you give me somebody to talk?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

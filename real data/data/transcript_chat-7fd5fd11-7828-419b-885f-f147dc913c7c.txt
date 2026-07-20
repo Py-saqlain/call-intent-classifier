@@ -1,0 +1,32 @@
+AGENT: Hello Kyu, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to make a call in right order.
+AGENT: Could you please clarify what you mean by "call in right order"? Are you looking to book a ride, check on a trip, or something else? I'm here to help.
+CALLER: I need a cab.
+AGENT: Thank you for letting me know you need a cab. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Calling ride.
+AGENT: Just to confirm, did you mean Call and Ride as your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero zero four nine zero zero.
+AGENT: Thank you for providing your Call and Ride details. Your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 13781 Connecticut Avenue.
+AGENT: I have 1 3 7 8 1 Connecticut Avenue, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: 2958 Hewitt Avenue.
+AGENT: I have 2 9 5 8 Hewitt Avenue, Aspen Hill, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Kyu. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: Thanks, I've set your pickup time for now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thank you. Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Got it, no wheelchair accessible vehicle needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare is 7 dollars, paying with Call and Ride. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 1:44 PM. Your confirmation number is 2 1 3 6 7 8 2 6 9. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Kyu. Have a wonderful day.

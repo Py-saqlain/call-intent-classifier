@@ -1,0 +1,20 @@
+AGENT: Hello JAO, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I'm here to pick up one customer. The customer need the car is leased so he can't get in taxi.
+AGENT: I understand you're here to pick up a customer who needs a leased car and cannot get into a taxi. How can I assist you with this? Are you looking to book a ride or need help with something else?
+CALLER: He needs the car You Yeah. Yeah.
+AGENT: Just to make sure I understand correctly, are you looking to arrange a ride for the customer who needs a car? If so, could you please provide the pickup location and destination?
+CALLER: No. I
+AGENT: Could you please tell me more about what you need help with regarding the car or the customer? I'm here to assist you.
+CALLER: No. I I yeah. They pick up yeah. The customer the customer name is Alice Claire. The pickup address is one two six fourteen
+AGENT: Thank you for that information. Could you please provide the full pickup address including the street name and city for 1 2 6 1 4? That way I can assist you better.
+CALLER: Eastern yeah.
+AGENT: Just to confirm, is the full pickup address 1 2 6 1 4 Eastern Avenue? And could you please tell me the city as well?
+CALLER: Yeah.
+AGENT: Thank you for confirming the pickup address. How would you like to pay for this ride? We accept cash, credit card, and Call and Ride.
+CALLER: He not dedicated Guatemala, payments. So the pickup is from metro asset.
+AGENT: I understand you mentioned the pickup is from MetroAccess. For payment, we accept cash, credit card, and Call and Ride. How would you like to pay for this ride?
+CALLER: I am driver. It's not me who gonna pay for the trip. I'm here. I can't pick up the customer because the customer cannot get in the car. She needs the car with lift.
+AGENT: Thank you for letting me know about the customer's need for a vehicle with a lift. I will make sure to note that special requirement. Since you mentioned you are the driver and not the one paying, could you please confirm who will be handling the payment or how you would like to proceed with the payment method?
+CALLER: Smart. Smart.
+AGENT: I want to make sure I understand correctly—are you saying the payment will be made with a smart card or something similar? Could you please clarify how you would like to pay for the ride? We accept cash, credit card, and Call and Ride.
+CALLER: Can you transfer me to an agent?

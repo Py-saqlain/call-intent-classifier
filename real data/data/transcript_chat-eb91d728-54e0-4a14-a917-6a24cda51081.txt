@@ -1,0 +1,45 @@
+AGENT: Hello Claudette, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I would like to make a reservation for tomorrow morning at 08:15.
+AGENT: Could you please tell me the pickup address for your reservation tomorrow morning at 8:15?
+CALLER: Eight five four one. Garron Road, Silver Spring, Maryland.
+AGENT: Thank you. And where would you like to go? What is the dropoff address?
+CALLER: Eight five one five Piney Branch Road, just right around the corner to the west and Union. And I want him to wait for me until I pay for the Western Union. And bring me back home.
+CALLER: Is that possible?
+AGENT: I can arrange for the driver to wait while you take care of your payment at Western Union and then bring you back home. How would you like to pay for this trip? We accept cash,
+CALLER: Oh, cash. Cash.
+AGENT: Thank you for letting me know you'll be paying with cash.
+AGENT: Just to
+CALLER: Mhmm.
+AGENT: Both your addresses have been verified, Claudette. I will now proceed to arrange your trip.
+AGENT: Just to confirm, you want the driver to wait for you at Western Union
+CALLER: Okay.
+AGENT: Thank you for confirming. How many passengers will be traveling, including yourself? And will anyone
+CALLER: Just one. Just just me.
+AGENT: Thank you. Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: The estimated fare for your trip is 5.5 dollars, and you will be paying with cash. Would you like to schedule a return
+CALLER: Yeah.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Yes.
+CALLER: K. I want him to wait if he if possible. Because it's only gonna take me a second to go in there and pay and come out.
+AGENT: Thank you for letting me know about the waiting request for your return trip. What time would you like to be picked up for the return trip?
+CALLER: Okay. Let's see. I get there at 08:30 about about twenty minutes to nine.
+AGENT: Just to clarify, would you like your return trip pickup time
+CALLER: 08:40.
+AGENT: Your return trip is scheduled for tomorrow at 8:40 AM with a note for the driver to wait if possible for your quick payment. How many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair accessible vehicle?
+CALLER: What No. No one but me.
+AGENT: I have your return trip pickup as eight five four one Garron Road, and your return dropoff as eight five one five Piney Branch Road. Is that correct?
+CALLER: Correct.
+AGENT: The estimated fare for your return trip is 5.5 dollars, paying with cash. Should I go ahead and book both
+CALLER: Okay. Yes. Please do.
+AGENT: Thank you. I am booking your trips now.
+AGENT: Your main trip is scheduled for today at 6:44 PM with confirmation number 2 1 3 6 7 8 5 4 2. Your return trip is scheduled for tomorrow at 8:40 AM with confirmation number 2
+CALLER: Wait a
+AGENT: Yes, take your time. Let me know when you're ready or if you need me
+CALLER: Wait a minute. Okay. I'm ready. Start over again. The confirmation for going
+AGENT: I understand you're ready now. If you need to get a message to the driver or have any special requests, I can't contact the driver
+CALLER: Yeah.
+AGENT: I'm connecting you now to a customer service representative. Please stay on the line.
+CALLER: Okay.
+AGENT: I have connected you to a
+CALLER: Okay.

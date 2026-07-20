@@ -1,0 +1,29 @@
+AGENT: Hello Ryder, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to schedule a a pickup tomorrow morning at 06:00. Going to DWI. 06:00 in the morning.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride tomorrow morning at 6:00 am? <emotion value="peaceful"/>
+CALLER: Twenty one sixteen Henderson Avenue, in Wheaton, Maryland. Two zero nine zero two.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found your pickup address as two one one six Henderson Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's correct.
+AGENT: I found Dulles International Airport at 1 Saarinen Circle, Dulles, Virginia. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: No. No. Baltimore, Washington, International, DWI.
+AGENT: Okay, so you want to go to Baltimore-Washington International Airport instead? Let me check that address for you.
+AGENT: I found Baltimore/Washington International Thurgood Marshall Airport at 7 0 5 0 Friendship Road, Baltimore, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: It's BWI. Yes.
+AGENT: Your dropoff address has been verified, Ryder.
+AGENT: You mentioned a pickup tomorrow at 6:00 AM. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Two people traveling No need for a wheelchair accessible.
+AGENT: Okay great! I've got two passengers and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 80 dollars, paying with your credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: That's undetermined. So no.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for tomorrow at 6:00 AM. Your confirmation number is 2 1 3 6 7 4 6 1 9. Is there anything else I can help you with?
+CALLER: No. That's it.
+AGENT: Thank you for calling Barwood & Regency, Ryder. Have a wonderful day!
+CALLER: Thank you.

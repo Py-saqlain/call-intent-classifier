@@ -1,0 +1,10 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Mary.
+AGENT: Thanks, Mary. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a pass
+AGENT: Could you please clarify what kind of pass you need? Are you referring to a ride booking, a payment card like Call and Ride, or something else?
+CALLER: I need a big cat.
+AGENT: I want to make sure I understand you correctly. Are you asking to book a ride with a larger vehicle, like a van or SUV, to accommodate more passengers or luggage?
+CALLER: Yes.
+AGENT: Thank you for confirming. To help you with your ride, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride.

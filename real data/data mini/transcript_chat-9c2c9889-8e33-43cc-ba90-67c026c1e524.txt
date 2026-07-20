@@ -1,0 +1,9 @@
+AGENT: Hi James, this is Ana with Barwood & Regency. I see you have a will-call trip scheduled today from 6000 Executive Boulevard in Rockville to 12 Dalamar Street in Gaithersburg. How can I assist you today?
+CALLER: I'm already for to be picked up at six thousand executive
+AGENT: You already have a trip from Rockville to Gaithersburg scheduled for today as a will-call. What would you like to do next?
+CALLER: Oh, good picture.
+AGENT: Just to clarify, would you like to check the status of your trip, cancel it, make a change, book a new trip, or something else?
+CALLER: No. I'd like to the status of the trip I have today, I'm going back to Delamont. I'm 6,000.
+AGENT: Your trip from 6 0 0 0 Executive Boulevard to 12 Dalamar Street in Gaithersburg is scheduled as a will-call for today. The system does not show a driver assigned yet. Would you like me to keep you posted or connect you with a representative for more details?
+CALLER: Yes. Connect me with a representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

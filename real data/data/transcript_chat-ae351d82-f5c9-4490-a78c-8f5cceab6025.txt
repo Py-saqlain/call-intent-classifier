@@ -1,0 +1,35 @@
+AGENT: Hello Mahin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to have a cat, please.
+AGENT: Uhh, I can't help with getting a cat, but if you need a ride or transportation assistance, I’m here to help. What can I do for you today? <emotion value="peaceful"/>
+CALLER: I need to have a right please.
+AGENT: Okay, it sounds like you want to book a ride. Could you please tell me where you would like to be picked up from? <emotion value="peaceful"/>
+CALLER: It's seventeen seventy six East Jefferson Rockville, Maryland
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so I have 1 7 7 6 East Jefferson Street, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 10101 Gurovna Place.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I found a similar address from recent trips: 1 0 1 0 1 Grosvenor Place, Rockville, Maryland. Is that the correct destination? <emotion value="peaceful"/>
+CALLER: Correct. Yes.
+AGENT: Your dropoff address has been verified, Mahin.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now I'm ready.
+AGENT: Okay great! I've got your pickup time as today at 6:39 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a
+CALLER: That's why.
+CALLER: One.
+AGENT: Thanks for letting me know you have one passenger. <emotion value="grateful"/> Will you need a wheelchair-accessible vehicle for this trip?
+CALLER: No.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, Mahin, the estimated fare is 12.5 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience, Mahin. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 6:39 PM. Your confirmation number is 2 1 3 6 7 3 6 2 0. Is there anything else I can help you with?
+CALLER: That's it.
+AGENT: Thank you for calling Regency Taxi, Mahin. Have a wonderful day!
+CALLER: You too. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Mahin. Have a great day!
+CALLER: Too. Thanks. Bye.

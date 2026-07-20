@@ -1,0 +1,39 @@
+AGENT: Hello Gregory, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: And he'll be picked up What's his address again? Two three four eunuch.
+AGENT: Could you please confirm the full address you want for the pickup? You mentioned "two three four eunuch"—could you clarify the street name or any other details?
+CALLER: Two three four.
+AGENT: Thank you. Could you please tell me the full street name or the city for the address starting with two three four? That way I can make sure I have the correct pickup location for you.
+CALLER: 234 Spectrum Avenue, Gaithersburg, Maryland.
+AGENT: Thank you for confirming the pickup address at 234 Spectrum Avenue, Gaithersburg, Maryland. How would you like to pay for this ride? We accept cash, credit card, and Call and Ride.
+CALLER: Alright.
+AGENT: Could you please let me know which payment method you would like to use: cash, credit card, or Call and Ride?
+CALLER: Golden right.
+AGENT: Just to make sure, did you mean Call and Ride as your payment method? If so, I will ask for the last six digits of your Call and Ride card.
+CALLER: Three two three six nine eight.
+AGENT: Thank you, your payment method is set to Call and Ride.
+AGENT: I have 2 3 4 Spectrum Avenue, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One zero one Oldenhall Avenue.
+AGENT: Thank you for the dropoff address at one zero one Oldenhall Avenue. May I confirm, is that one zero one Odendhal Avenue in Gaithersburg, Maryland?
+CALLER: This is
+AGENT: I have 1 0 1 Odendhal Avenue, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Gregory. I will now proceed with the next steps for your trip.
+AGENT: When would you like to be picked up?
+CALLER: Right now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Okay.
+AGENT: Could you please tell me the number of passengers traveling, including yourself, and if anyone will need a wheelchair-accessible vehicle?
+CALLER: One. No wheelchair.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 8 dollars, and you will be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Ready.
+AGENT: Thank you. I am now booking your trip.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 9 6 0 3. The pickup is scheduled for today at 2:41 pm. Is there anything else I can assist you with?
+CALLER: No. No.
+AGENT: Thank you for calling Barwood Cab. Have a great day, Gregory.

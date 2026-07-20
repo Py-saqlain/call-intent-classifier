@@ -1,0 +1,11 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Christine Simms?
+CALLER: Yeah.
+AGENT: Thanks for confirming, Christine. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: You called me at four zero seven Where's my ride?
+AGENT: I understand you're asking about your ride that was scheduled around 4:07. Let me check the status for you.
+AGENT: Hmm, let me check that for you. Uhh, it looks like you don't have an active trip scheduled right now. Would you like me to help you book a ride?
+CALLER: It was a ride booked at 03:19.
+AGENT: Thanks for that detail. Let me look up your trip from 3:19 pm now.
+AGENT: I found some recent trips for you, Christine, but none show an active ride right now. The last trips were between 1448 Farmcrest Way and nearby addresses in Silver Spring and Kensington. If you want, I can help you book a new ride or connect you with someone who can check further. What would you like to do?
+CALLER: Agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

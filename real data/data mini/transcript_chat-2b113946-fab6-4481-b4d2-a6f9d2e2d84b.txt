@@ -1,0 +1,10 @@
+AGENT: Hi Ravi, this is Ana from Barwood & Regency. Vehicle 1064 is on the way and will arrive for pickup in about 107 minutes at 9:28 am. How can I assist you today?
+CALLER: I wanna cancel the trip.
+AGENT: I see you have two trips: your earlier trip today at 8:30 am from Silver Spring to Rockville, and another trip scheduled for May 6th, 2076, also at 8:30 am from Silver Spring to Rockville. Which one would you like to cancel? Or do you want to cancel both?
+CALLER: Both.
+AGENT: I have cancelled both of your trips, the one today at 8:30 am and the one on May 6th, 2076 at 8:30 am. Is there anything else I can help you with?
+CALLER: Asian. I wanna talk to Asian.
+CALLER: Hello?
+AGENT: How can I assist you with your ride today? Would you like to check a trip status, book a new ride, or speak with a representative?
+CALLER: Speak to 728.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

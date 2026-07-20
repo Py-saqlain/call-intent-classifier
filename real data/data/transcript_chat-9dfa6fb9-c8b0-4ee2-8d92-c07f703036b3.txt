@@ -1,0 +1,38 @@
+AGENT: Hi Pamela, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm here at Homecrest House. On Homecrest Road. That's four one five one zero. Homecrest Road, and I'm trying to book a ride If you can come to this address,
+AGENT: Thank you for sharing your pickup location at 4 1 5 1 0 Homecrest Road. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Great, we'll use cash for your payment.
+AGENT: I have the pickup address as 1 4 5 1 0 Homecrest Road, Aspen Hill, Maryland. Is that correct?
+CALLER: That is correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. I'll be going to the Capital One Bank at Aspen Hill. On Connecticut Avenue.
+AGENT: Thank you for the dropoff information at Capital One Bank on Connecticut Avenue. Just to be sure, could you please provide the street number for the Capital One Bank location?
+CALLER: Yeah.
+CALLER: I'm looking Just a moment please.
+AGENT: Take your time. Whenever you're ready, just let me know the street number for the Capital One Bank on Connecticut Avenue.
+CALLER: Still looking,
+AGENT: No problem at all. Take your time, and whenever you have the street number or any additional details for the Capital One Bank on Connecticut Avenue, just let me know.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes. I'm ready now.
+AGENT: Great! Could
+CALLER: The address for the the address for the Capital One Bank is one three six four one. Connecticut Avenue
+AGENT: I have the dropoff address as 1 3 6
+CALLER: Silver Spring, Maryland.
+AGENT: Thank you for the update. Just to confirm, is the dropoff address 1 3 6 4 1 Connecticut Avenue, Silver Spring, Maryland?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Pamela.
+AGENT: When would you like to be picked up?
+CALLER: Ten minutes.
+AGENT: Thank you. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. There's just myself, one passenger,
+AGENT: Got it, one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: I want to use the ATM and then head to Shalom Kosher.
+AGENT: The estimated fare for your trip is 9.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No. Not at this time.
+AGENT: Alright, I will proceed with booking your one-way trip then. Just to confirm, should I go ahead and book your ride now?
+CALLER: Yes, please. Right away.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 9 2 9 8. Your pickup is today at 11:11 AM. Is there anything else I can assist you with?
+CALLER: No. And thank you.
+AGENT: Thank you for calling Barwood & Regency, Pamela. Have a wonderful day!

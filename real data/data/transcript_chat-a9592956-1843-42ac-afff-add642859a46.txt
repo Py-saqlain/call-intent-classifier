@@ -1,0 +1,69 @@
+AGENT: Hello Gabriella, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Would I just need a ride.
+AGENT: Uhh, okay, I can help you with that. Let me get some details for your ride. Where would you like to be picked up from? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Picked up Call and ride. This is a virtual day.
+AGENT: Okay so I've got that you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Hmmm.. that didn't seem right, could you please say the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Three four eight nine eight four.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Thank you for that. Now, could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Eight seven one five
+AGENT: Uh, I am sorry, but could you please provide the street name and city along with the number eight seven one five? That way I can find the exact pickup location for you. <emotion value="apologetic"/>
+CALLER: Ivy Ivy Way
+AGENT: Okay, let me check that address. Eight seven one five Ivy Ivy Way. Could you please tell me the city and state for this address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Uh, I am sorry, but I need the name of the city and state where eight seven one five Ivy Ivy Way is located to find the address. Could you please provide that? <emotion value="apologetic"/>
+CALLER: Ivy Berry Way.
+AGENT: Hmm, let me check that address. Eight seven one five Ivy Berry Way. Could you please tell me the city and state for this address? <emotion value="peaceful"/>
+CALLER: Yes. Montgomery Village.
+AGENT: Okay, so I found the location eight seven one five Ivy Berry Way, Montgomery Village, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Okay, so I found the address eight seven one five Ivyberry Way, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Montgomery Village, Maryland.
+AGENT: Thank you for clarifying. The address I found is eight seven one five Ivyberry Way, Gaithersburg, Maryland. Would you like me to use this address or should I look specifically for Montgomery Village, Maryland? <emotion value="hesitant"/>
+CALLER: Montgomery Village, Maryland. Please. Two zero eight seven four.
+AGENT: Okay, let me check that address. Eight seven one five Ivyberry Way, Montgomery Village, Maryland two zero eight seven four. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. You guys
+AGENT: Okay, so I found the address eight seven one five Ivyberry Way, Montgomery Village, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One three one zero three. Pickling dried. GermantownMaryland20874.
+AGENT: Okay, let me check that address. One three one zero three Pickling Dried, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmm, I couldn't find that address as given. Could you please confirm the street name again or provide any nearby landmarks or cross streets for one three one zero three Pickling Dried in Germantown, Maryland? <emotion value="apologetic"/>
+CALLER: Yes.
+AGENT: Uh, I am sorry, but I need you to provide the street name or a nearby landmark for one three one zero three Pickling Dried in Germantown, Maryland to find the exact dropoff location. Could you please provide that? <emotion value="apologetic"/>
+CALLER: 13103. Pickling. Drive, P I C K E, R I N G. Pick n ride.
+AGENT: Okay, let me check that address. One three one zero three Pickering Drive, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I found the address one three one zero three Pickering Drive, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Gabriella.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: That's a virtual day. This is day.
+AGENT: I want to make sure I understand you correctly. Are you saying you want to be picked up today? If so, could you please tell me what time today you would like the pickup? <emotion value="hesitant"/>
+CALLER: Yes. Yes.
+AGENT: Great! What time today would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Add to it please
+AGENT: Could you please tell me the specific time you want to be picked up today? For example, 3 PM or 7:30 AM. <emotion value="peaceful"/>
+CALLER: 08:30PM.
+AGENT: Okay great! I've got your pickup time as today at 8:30 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Hello? I want it. Thirty AM, please.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. Did you mean 8:30 AM instead of 8:30 PM? <emotion value="apologetic"/>
+CALLER: Yes.
+AGENT: Okay great! I've updated your pickup time to today at 8:30 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: So No. Pupipin.
+AGENT: Hmm <break time="300ms"/> sorry, I didn't quite catch that. Could you please tell me how many passengers will be traveling, including yourself? And if anyone will need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: Two. Two
+AGENT: Okay great! I've got that there will be 2 passengers. Will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Okay great! I've noted that no wheelchair-accessible vehicle is needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 21.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Not yet.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 8:30 AM. Your confirmation number is 2 1 3 6 7 5 4 8 7. Is there anything else I can help you with?
+CALLER: No. Thank you so much.
+AGENT: Thank you for calling Barwood & Regency, Gabriella. Have a wonderful day!

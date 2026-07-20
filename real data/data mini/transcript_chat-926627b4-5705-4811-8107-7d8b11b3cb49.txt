@@ -1,0 +1,20 @@
+AGENT: Hi Charlotte, this is Ana from Barwood & Regency. You have two trips today — Vehicle 1094 is on the way and will arrive in about 16 minutes, and
+CALLER: Hello? Hello? He's going to oh, Kaiser. Primary care. He had three appoint
+CALLER: yeah. It's a a after hospital visit. Follow-up. And then he had also a two other doctor check is checking.
+AGENT: I understand you need a
+CALLER: He's a little slow, but he he he responds. So hello. Yes. No. I'm no. I need to cancel.
+CALLER: Service
+AGENT: I see
+CALLER: I have two trips today.
+AGENT: Yes, you have two trips today: your main trip at 2:30 pm from Gaithersburg
+CALLER: Okay. I need to cancel that.
+AGENT: Just to confirm, you want to cancel your main trip at 2:30 pm from Gaithersburg to Potomac, correct?
+CALLER: Yes. Yes. But I also wanna cancel the first appointment at at 10:30AM.
+AGENT: So you want to cancel both your return trip at 10:30 am from Potomac to Gaithersburg and your main trip at 2:30 pm from Gaithersburg to Potomac, is that right?
+CALLER: Yes. Yes.
+AGENT: Both your trips at 10:30 am and 2:30 pm have been cancelled. Is there anything else I can help you with?
+CALLER: Please check-in.
+CALLER: No. Thank you.
+AGENT: You don't have any active trips scheduled
+AGENT: Thank you for calling Barwood & Regency, Charlotte. Have a wonderful day.
+CALLER: Yeah.

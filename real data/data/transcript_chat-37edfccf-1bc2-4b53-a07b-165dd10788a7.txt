@@ -1,0 +1,40 @@
+AGENT: Hello Allen, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like a taxi to the Tacoma Park Metro Station.
+AGENT: Thank you for letting me know your destination. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: I cash.
+AGENT: Thank you, cash is all set for your payment.
+AGENT: Could you please provide your pickup address?
+CALLER: Five five two one Spruce Tree Avenue. Bethesda, Maryland 20814.
+AGENT: Just to confirm, your pickup address is 5 5 2 1 Spruce Tree Avenue, Bethesda, Maryland, correct?
+CALLER: Yes.
+AGENT: Thank you for confirming. Your pickup address is 5 5 2 1 Spruce Tree Avenue, Bethesda, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: I found several locations for Takoma Park Metro Station:
+
+1. 3 2 7 Cedar Street Northwest, Washington, D C
+2. Takoma Station, Washington, D C 2 0 0 1 2
+3. Takoma Metro Stop, Washington, D C 2 0 0 1 2
+4. University Boulevard East, Takoma Park, Maryland 2 0 9 1 2 (Takoma-Langley Station - Purple Line)
+
+Which one would you like to use?
+CALLER: The red line station.
+AGENT: Just to clarify, you mean the Takoma Station in Washington, D C, which is on the Red Line, correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Allen. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: Anytime anytime soon.
+AGENT: Just to clarify, would you like a pickup right now as soon as possible, or would you prefer to call back later when you're ready?
+CALLER: Yes. As soon as possible.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One. No.
+AGENT: Do you have any special instructions or requests for the driver?
+CALLER: No. I just just to help me find where I'm going.
+CALLER: But no.
+AGENT: The estimated fare for your trip is 26.5 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No, thank you.
+AGENT: Alright, I will proceed with booking your one-way trip. Just a moment please.
+AGENT: Your trip is scheduled for today at 6:14 PM. The confirmation number is 2 1 3 6 6 9 7 4 5. Is there anything else I can assist you with?
+CALLER: No, thank you.
+AGENT: Thank you for calling Barwood & Regency, Allen. Have a wonderful day!
+CALLER: Thank you.
+CALLER: Bye.

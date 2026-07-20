@@ -1,0 +1,9 @@
+AGENT: Hello Joan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Operator, human representative.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Need to cancel.
+AGENT: I can take care of that for you.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+CALLER: I need to talk to an agent, a representative.
+CALLER: Just the other place.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

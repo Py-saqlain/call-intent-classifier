@@ -1,0 +1,22 @@
+AGENT: Hello Kevin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. Hi. I was just calling to see if you all had a cab in Rockville that could take me to Germantown. Y'all should should have the addresses to my brother's house.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: It'll be cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, I found your pickup address as 3 Marcus Court, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thank you. Your pickup address has been verified. Now, let me check the dropoff options for Germantown. <emotion value="peaceful"/>
+AGENT: I found a few locations in Germantown. Option one: 14955 Shady Grove Road, Rockville. Option two: 11500 Middlebrook Road, Germantown. Option three: Scenery Drive and Germantown Road, Germantown. Option four: Scenery Road and Germantown Road, Germantown. Which one would you like to use? <emotion value="hesitant"/>
+CALLER: And you should have another address.
+AGENT: Just to be sure, are you referring to a different pickup or dropoff address than the ones we've discussed? Could you please tell me which address you'd like to update or add? <emotion value="peaceful"/>
+CALLER: Park Parkridge Drop off.
+AGENT: Okay, just to clarify, you want to update the dropoff address to Park Parkridge. Is that correct? <emotion value="peaceful"/>
+CALLER: no
+AGENT: Alright, so you do not want to update the dropoff address to Park Parkridge. Could you please clarify which address you want to use for your dropoff in Germantown? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Could you please clarify if you want to keep one of the Germantown locations I mentioned earlier for your dropoff, or if you want to provide a different address? <emotion value="peaceful"/>
+CALLER: Yeah. I'll call you back with the address.
+AGENT: I understand. Since you prefer to call back with the address later, would you like to cancel this booking for now? <emotion value="peaceful"/>
+CALLER: A different address. Yes.
+AGENT: Just to confirm, you want to cancel this booking for now and call back later with a different address? <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

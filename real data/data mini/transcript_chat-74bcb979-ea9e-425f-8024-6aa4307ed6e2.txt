@@ -1,0 +1,14 @@
+AGENT: Hello Evan, this is Ana from Barwood & Regency. I see you have a will-call trip scheduled today from 1 5 2 4 5 Shady Grove Road in Rockville to 9 0 8 Beacon Square Court in Gaithersburg. How can I assist you today?
+CALLER: Yes. I'd like to arrange to have them come and pick me up It's the 15245 Shady Grove Road,
+AGENT: Looks like you already have a trip from Rockville to Gaithersburg scheduled for today as a will-call. What would you like to do?
+CALLER: at the North Tower entrance. I'd like to have them come and pick me up to take me home.
+AGENT: Hmm <break time="700ms"/> let me check that for you.
+AGENT: Okay so <break time="500ms"/> your trip zero two one three six seven five three five zero is activated! A driver will be dispatched to your pickup shortly.
+AGENT: Your trip
+CALLER: Okay. How long how long is that gonna be?
+CALLER: How long will it be before they get here?
+AGENT: Uhh <break time="300ms"/> it looks like your pickup is scheduled for 1:37 pm today. The estimated travel time for your trip is about 11 minutes. Anything else I can check for you? <emotion value="peaceful"/>
+CALLER: No. What what time is it right now?
+AGENT: Right now it is 1:27 pm. Your pickup is scheduled for 1:37 pm, about 10 minutes from now.
+CALLER: Okay. Alright. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Evan. Have a great day!

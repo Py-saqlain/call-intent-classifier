@@ -1,0 +1,30 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Mary Jones?
+CALLER: Okay.
+AGENT: Thanks for confirming, Mary. This is Barwood & Regency. How can I help you today?
+CALLER: I like to book a cab.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yes. Yes. Call and ride
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three four zero eight two five.
+AGENT: Thank you, your payment method is confirmed as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your cab ride? <emotion value="peaceful"/>
+CALLER: 13906 Castle Boulevard.
+AGENT: Okay, so I found your pickup address as one three nine zero six Castle Boulevard, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One three zero zero was that George George Avenue. Right?
+AGENT: Hmm, I couldn't find 1300 George George Avenue. Could you please provide the full street address, including the city and state? <emotion value="apologetic"/>
+CALLER: One three zero zero Georgia Avenue, Silver Spring, Maryland.
+AGENT: I couldn't find 1300 Georgia Avenue exactly, but I found 8757 Georgia Avenue, apartment number 1300, Silver Spring, Maryland. Is that the correct dropoff location? <emotion value="hesitant"/>
+CALLER: Can you repeat that?
+AGENT: Sure! I found 8757 Georgia Avenue, apartment number 1300, Silver Spring, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, please provide the correct dropoff address again. <emotion value="peaceful"/>
+CALLER: One three zero zero Georgia Avenue in Wheaton, Maryland, Georgia and Enolds Avenue.
+AGENT: I couldn't find 1300 Georgia Avenue in Wheaton, Maryland exactly, but I found 5600 Fishers Lane, apartment number 1300, Rockville, Maryland. Is that the correct dropoff location? <emotion value="hesitant"/>
+CALLER: No. Let me speak to a live representative, please.
+AGENT: I can help you with the address details right now — want to continue?
+CALLER: No. Let me speak to you for a moment.
+AGENT: Of course, I'm here to help. What would you like to discuss?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Like to speak with someone

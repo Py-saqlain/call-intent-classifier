@@ -1,0 +1,27 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Kera, k e r a.
+AGENT: Thanks, Kera. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a taxi
+AGENT: Alright, Kera, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Kera, could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Yes. One two four zero zero Valley Sideway,
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I'm sorry, Kera, but I couldn't find 12400 Valley Sideway. Could you please provide the full street address including the city and state? <emotion value="apologetic"/>
+CALLER: 12400 Valley Side Way, Germantown, Maryland two zero eight seven four.
+AGENT: Okay, <break time="300ms"/> so I found that location: 12400 Valley Side Way, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thank you for confirming, Kera. It seems the address 12400 Valley Side Way, Germantown, Maryland could not be located. Could you please double-check the street name or provide any nearby landmarks or cross streets to help find it? <emotion value="apologetic"/>
+CALLER: No. One is Germantown, Maryland.
+AGENT: Thank you for clarifying, Kera. Just to confirm, your pickup address is 1 Germantown, Maryland? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, Kera, let's try again. Could you please say the full pickup address including the street number, street name, city, and state? <emotion value="peaceful"/>
+CALLER: One two four zero zero Valley Side Way, Germantown, Maryland.
+AGENT: Okay, <break time="300ms"/> so I found that location: 12400 Valley Side Way, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thanks for confirming, Kera. It looks like 12400 Valley Side Way, Germantown, Maryland still can't be located. Could you please check if there's a different spelling or nearby landmark you can share to help find it? <emotion value="apologetic"/>
+CALLER: Let me speak to a representative.
+AGENT: I can help you with the address details right now — want to continue?
+CALLER: Representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

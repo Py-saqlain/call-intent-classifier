@@ -1,0 +1,49 @@
+AGENT: Hello Judith, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to make a reservation for let's see, Thursday.
+AGENT: I can help you with that. Could you please tell me the pickup
+CALLER: July 9.
+AGENT: Thank you. Where would you like to be picked up
+CALLER: Thirty. Yeah.
+AGENT: Could you please clarify what "Thirty" refers to? Is that a street number, part of an address, or something
+CALLER: Third. No. No. No. No. No. I'll start over. Okay?
+CALLER: The address is thirty three fifth two
+AGENT: Thank you
+CALLER: Shizwick Court, Silver Spring, Maryland
+AGENT: Just to confirm, your pickup address is 3 3 5 2 Chiswick Court, Silver Spring, Maryland. Is that correct?
+CALLER: That is correct.
+AGENT: Great! Where would you like to go on Thursday?
+CALLER: Thursday, July 9. I would like a pickup at 10:00.
+AGENT: Thank you for that. Could you
+CALLER: And I would like
+AGENT: Could you
+CALLER: okay.
+AGENT: Are you ready to tell me your destination address now?
+CALLER: Yes. Five four five four with Wisconsin Avenue
+AGENT: Just
+CALLER: Chevy Chase.
+AGENT: Thank you for that. To confirm, your destination address is 5 4 5 4 Wisconsin Avenue, Chevy Chase, Maryland. Is that correct?
+CALLER: Yeah. Just
+CALLER: that is correct.
+AGENT: Thank you for confirming your destination. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: I have both addresses as 3 3 5 2 Chiswick Court, Silver Spring, Maryland for pickup, and 5 4 5 4 Wisconsin Avenue, Chevy Chase, Maryland for dropoff. Is that correct?
+CALLER: That is correct.
+AGENT: Your pickup and dropoff addresses have been verified, Judith.
+AGENT: We have your pickup time as Thursday, July 9 at 10:00 am. Is that correct?
+CALLER: That is correct.
+AGENT: Thank you for confirming your pickup time for Thursday, July 9 at 10:00 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just myself.
+AGENT: Thank you. Will you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 32.5 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with just the one-way trip. Should I go ahead and book your ride for Thursday, July 9 at 10:00 AM from 3 3 5 2 Chiswick Court to 5 4 5 4 Wisconsin Avenue, Chevy Chase?
+CALLER: Yes. Go ahead and book it.
+AGENT: Thank you. I am now booking your trip.
+AGENT: Your trip is booked for Thursday, July 9th at 10:00 AM. Your confirmation number is 2 1 3 6 6 9 5 5 1. Is there anything else I can help you with?
+CALLER: Would you please repeat the confirmation number?
+AGENT: Certainly. Your confirmation number is 2 1 3 6 6 9 5 5 1. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Judith. Have a wonderful day.
+CALLER: Okay. Thank you. Bye.

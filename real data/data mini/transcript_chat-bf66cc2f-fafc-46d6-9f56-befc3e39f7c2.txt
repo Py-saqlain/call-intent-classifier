@@ -1,0 +1,12 @@
+AGENT: Hi Jiqing, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to book a taxi.
+AGENT: I can help you with that. I'll connect you to the booking specialist who will assist you with your taxi reservation.
+AGENT: Thank you for letting me know. How would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cornuride.
+AGENT: Just to make sure I understand correctly, did you mean Call and Ride for your payment method?
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three five one two zero two.
+AGENT: Thank you, your payment method is set to Call And Ride.
+AGENT: May I have the pickup address for your ride, please?
+AGENT: Take your time. Just let me know when you're ready.

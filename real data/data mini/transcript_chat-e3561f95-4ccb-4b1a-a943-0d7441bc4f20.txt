@@ -1,0 +1,8 @@
+AGENT: Hello, lassey. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Customer service.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Customer service
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Exit right.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,21 @@
+AGENT: Hello Everett, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi, Anna. I have an appointment a to be picked up at 01:00.
+AGENT: Uhh,
+CALLER: Tomorrow
+AGENT: Looks like you already have a trip from Gaithersburg to Washington tomorrow at 1:00 pm. What would you like to do?
+CALLER: It's from my from my home.
+AGENT: Okay,
+CALLER: And you have my address, 609 Whetstone Glen Street. Right?
+AGENT: You mentioned 609 Whetstone Glen Street, but your home address is 455 North Frederick Avenue in Gaithersburg. Which address would you like to use for your
+CALLER: Six
+AGENT: Just to confirm, would you like to use 6 0 9 Whetstone Glen Street or 4 5 5 North Frederick
+CALLER: But but
+AGENT: I want to make sure I get your pickup
+CALLER: yes. That's My pickup address is six zero nine Wet six zero nine, six zero nine Whetstone Glen, Street. That's the address. 609 Whetstone Glen Street. But what I'm calling you for is what time will I make it to the address
+AGENT: Your trip to 609
+CALLER: 2nd Street Northeast, Washington How long will it take for me to get there?
+AGENT: Your trip from 609 Whetstone Glen Street to 700 2nd Street Northeast in
+CALLER: Once they pick
+AGENT: The
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: they I

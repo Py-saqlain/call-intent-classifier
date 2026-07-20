@@ -1,0 +1,33 @@
+AGENT: Hello Herbert, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. What time will my taxi be here at one nine 09:01? Frederick Road Germantown? CVS
+AGENT: Hmm, let me pull that up for you. I don't see any active trips scheduled for you right now. Would you like me to help you book a ride for Frederick Road in Germantown near CVS?
+CALLER: Yeah.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: One nine nine zero one. It's gonna be passed. Debit card.
+AGENT: Okay so I've got that payment noted as debit card. I'll proceed with verifying it now. <emotion value="grateful"/>
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Thank you for that. To get started, could you please confirm the pickup address? Is it 1 9 9 0 1 Frederick Road in Germantown?
+CALLER: Yes. CVS.
+AGENT: Okay, so your pickup is confirmed at 1 9 9 0 1 Frederick Road, Germantown. Now, could you please provide the full address or location for your dropoff destination?
+CALLER: Yes. 19801. Observation Drive in Germantown, Holy Cross Hospital.
+AGENT: Okay, let me check that address for you.
+AGENT: I found the dropoff address as 1 9 8 0 1 Observation Drive, Germantown, Maryland. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified. Your pickup address has also been verified. I'll now proceed with arranging your ride, Herbert.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now. I'm at CVS. I'm ready to go now. Now.
+AGENT: Okay great! I've got your pickup time as today at 9:13 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Just me.
+AGENT: Okay great! I've got one passenger. Will you be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Do you No. Do you have a taxi in the area?
+AGENT: Okay great! I've noted that no wheelchair-accessible vehicle is needed. <emotion value="grateful"/> If you want, I can check on the status of a taxi nearby for you. Meanwhile, do you have any special instructions or requests for the driver?
+CALLER: Welcome. No.
+AGENT: Thanks for letting me know you have no special instructions for the driver. Just to confirm one more time, will you be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 6 dollars, paying with a credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Not right now.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 9:13 AM. Your confirmation number is 2 1 3 6 7 5 5 3 6. Is there anything else I can help you with?
+CALLER: No. What time is the taxi coming?
+AGENT: Your taxi is scheduled to arrive for pickup today at 9:13 AM. Is there anything else you would like to know?
+CALLER: No, thank you.

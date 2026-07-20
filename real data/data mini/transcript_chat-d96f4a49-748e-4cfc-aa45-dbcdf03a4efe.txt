@@ -1,0 +1,15 @@
+AGENT: Hello Petter, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I was curious about the status of my cab. Or status of confirmation number.
+AGENT: I'll check the status of your trip and confirmation number for you. Just a moment, please.
+AGENT: I don't see any active trips scheduled for you right now. Would you like me to help you book a ride?
+CALLER: What about confirmation number zero two one three six seven four four five seven
+AGENT: I don't see any active trip with that confirmation number in the system. Is there anything else I can help you with?
+CALLER: Really?
+AGENT: Hmm, let me double-check that for you right now.
+AGENT: Uhh, I checked again and still don't see an active trip with that confirmation number. If you'd like, I can connect you with a representative who can look into this further. Would you like me to do that?
+CALLER: any act no. No. No. No. Actually, it it's okay.
+AGENT: Just to confirm, you want to cancel the booking process and not schedule any trips right now?
+CALLER: Is there any
+AGENT: Could you please clarify what information you're looking for?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: I was looking for the status of my okay.

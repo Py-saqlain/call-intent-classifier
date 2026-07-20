@@ -1,0 +1,13 @@
+AGENT: Hello Evelyn, this is Ana with Barwood & Regency. Your pickup is scheduled for today at 12:45 PM. How can I assist you today?
+CALLER: Speak to a customer service representative.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: To cancel my rides for today.
+AGENT: I can take care of that for you.
+AGENT: You have two rides today: a return trip at 12:45 pm from Silver Spring to Healing Way, and a main trip at 4:00 pm from Healing Way back to Silver Spring. Would you like to cancel one of these, or both?
+CALLER: You have that backwards.
+AGENT: Thank you for letting me know. To confirm, the 12:45 pm trip is from Healing Way to Silver Spring, and the 4:00 pm trip is from Silver Spring to Healing Way?
+CALLER: No let let me speak to a customer service agent. Please.
+CALLER: Hello?
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: Transfer me to an agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

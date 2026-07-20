@@ -1,0 +1,14 @@
+AGENT: Hi Everett, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I have an appointment for tomorrow morning. Can you tell me that you see it and tell me what it is?
+AGENT: Yes, I see your appointment for tomorrow morning at 7:00 am. Your pickup will be from 609 Whetstone Glen Street in Gaithersburg, and your dropoff is at 655 Watkins Mill Road in Gaithersburg. Would you like me to help with anything else?
+CALLER: What tab would be picking me up?
+AGENT: Your pickup is scheduled from 609 Whetstone Glen Street in Gaithersburg. Is there anything else I can assist you with?
+CALLER: Yeah. But what what's the name of the cab company that's picking me up?
+AGENT: Your ride will be provided by Barwood Cab and Regency Taxi. Anything else I can help with?
+CALLER: So are they the same company, Barwood? And Regency?
+AGENT: Barwood Cab and Regency Taxi are two separate companies, but both are part of the same dispatch service that I work with. They coordinate rides together to serve the area. Would you like any more details?
+CALLER: okay. Good. Okay. Good. Yeah. I I'd like it to be a regency cab.
+AGENT: Looks like you already have a trip from 609 Whetstone Glen Street to 655 Watkins Mill Road at 7:00 am tomorrow. What would you like to do?
+CALLER: I'd like it to be a regency cab that's gonna pick me up.
+AGENT: I understand you'd like to have a Regency cab for your pickup. Trip modifications like this need to be handled by a live agent. Let me connect you with someone who can assist you with this change.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

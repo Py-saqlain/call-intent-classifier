@@ -1,0 +1,11 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Duck Donald?
+CALLER: No.
+AGENT: Thank you for letting me know. May I ask who I’m speaking with today? You can also tell me if you want me to list the names I have on this number.
+CALLER: Agent
+AGENT: I want to make sure I have the right person. The names I have on this number include Lambert Okoro, Peete Anthony, Eva Everett, Marian Floyd, Maria Aguilara, Eric Hearn, Flori Liss, Florette
+CALLER: Representative
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Nothing from here.
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: Transfer.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

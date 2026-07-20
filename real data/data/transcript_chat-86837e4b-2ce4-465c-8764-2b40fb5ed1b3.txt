@@ -1,0 +1,43 @@
+AGENT: Hello, this is Ana with Barwood & Regency. AHSAINT, how can I assist you today?
+CALLER: At Saint Bernard. I'm going to Kaiser. At nine 09:15. I need a ride.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Out of cash.
+AGENT: Okay, so cash is not an option. Would you like to pay with a credit card or Call and Ride instead? <emotion value="peaceful"/>
+CALLER: A pen with cash.
+AGENT: Hmmm.. that didn't seem right, could you try again? Would you like to pay with cash, credit card, or Call and Ride? <emotion value="apologetic"/>
+CALLER: Yes.
+AGENT: Just to be sure, did you mean cash as your payment method? <emotion value="peaceful"/>
+CALLER: Yes. Yeah.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: I found a few locations. 
+ Option one: The Verandahs Apartments, 9 3 0 8 Willow Creek Drive, Montgomery Village. 
+ Option two: Montgomery Village Crossing, 9 6 3 9 Lost Knife Road, Gaithersburg. 
+ Option three: Cider Mill Apartments, 1 8 2 0 5 Lost Knife Circle, Gaithersburg. 
+ Option four: 1 7 Barkley Lane, Gaithersburg. 
+ Option five: Lost Knife Road and Cider Mill Apartments, Montgomery Village. 
+ Which one is correct? <emotion value="hesitant"/>
+CALLER: It's correct. All is correct.
+AGENT: I found a few locations. 
+ Option one: Scott A Campbell M.D. at Kaiser Permanente, 6 5 5 Watkins Mill Road, Gaithersburg. 
+ Option two: Daren Yang D.O. at Kaiser Permanente, 6 5 5 Watkins Mill Road, Gaithersburg. 
+ Option three: Elisabeth G Kramer M.D. at Kaiser Permanente, 6 5 5 Watkins Mill Road, Gaithersburg. 
+ Option four: Mubarak A Hassan M.D. at Kaiser Permanente, 6 5 5 Watkins Mill Road, Gaithersburg. 
+ Option five: Sahar A Jahan M.D. at Kaiser Permanente, 6 5 5 Watkins Mill Road, Gaithersburg. 
+ Which one is correct? <emotion value="hesitant"/>
+CALLER: Yes. It's correct.
+AGENT: Your dropoff address has been verified.
+AGENT: Just to confirm, you would like to be picked up at 9:15 AM today, is that correct? <emotion value="peaceful"/>
+CALLER: And my phone number is two four zero
+AGENT: Just to confirm, you would like to be picked up today at 9:15 AM, is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time as today at 9:15 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Is it's just me alone, and I have a walker.
+AGENT: Alright, so let me confirm those details. Your pickup is 9 3 0 8 Willow Creek Drive. Your dropoff is 6 5 5 Watkins Mill Road. Pickup time is 9:15 AM. You will be traveling alone with a walker, and you will be paying with cash. The estimated fare is 10 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: When I finish, I will call back.
+AGENT: Okay, so I have set up your return trip as a will-call, with pickup at 6 5 5 Watkins Mill Road and dropoff at 9 3 0 8 Willow Creek Drive. The estimated fare for the return trip is 10 dollars, paying with cash. Should I go ahead and book both trips now? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thank you for your patience. I'm now processing the booking for both your main trip and your will-call return trip. Please hold on just a moment.
+AGENT: Your main trip is scheduled for today at 9:15 AM with confirmation number 2 1 3 6 7 0 4 1 7. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 0 4 1 8. You can call back when you are ready for the return trip, and a driver will be dispatched then. Is there anything else I can help you with?
+CALLER: Not today. Thank you very much.
+AGENT: Thank you for calling Barwood & Regency, AHSAINT. Have a wonderful day.
+CALLER: You too.

@@ -1,0 +1,29 @@
+AGENT: Hello, andre. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Good. I want to go to my. Store.
+AGENT: Okay, you want to go to your store. Could you please tell me the pickup address or where you will be picked up from?
+CALLER: Repeat that now. Seventy eight thirty four Suitland Drive.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: K.
+AGENT: Hmmm.. that didn't seem right, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Right.
+AGENT: Hmmm.. I didn't catch that as a payment method. Could you please let me know if you'd like to pay with cash, credit card, or Call and Ride? <emotion value="apologetic"/>
+CALLER: Case. Please. Please. Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Change. Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so I found 7 8 3 4 Scotland Drive, Potomac, Maryland for your pickup. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yes.
+AGENT: I found a few stores. Option one: 1 8 2 5 3 Flower Hill Way, Gaithersburg, Maryland. Option two: 1 8 2 4 0 Flower Hill Way, Gaithersburg, Maryland. Option three: 1 8 2 5 0 Flower Hill Way, Gaithersburg, Maryland. Option four: 1 8 2 0 8 Flower Hill Way, Gaithersburg, Maryland. Option five: 1 8 2 2 4 Flower Hill Way, Gaithersburg, Maryland. Which one would you like? <emotion value="peaceful"/>
+CALLER: No, I want cook. Captain Branch. It's small. Captain Branch. Right right in my house.
+AGENT: Uh, I am sorry, but could you please repeat the address or location for the dropoff? You mentioned "Captain Branch" and "cook," but I want to make sure I get it right. <emotion value="apologetic"/>
+CALLER: Captain Branch.
+AGENT: I'm sorry, but I couldn't find any location for "Captain Branch." Could you please provide a full street address, city, or any nearby landmark to help me find it? <emotion value="apologetic"/>
+CALLER: Eleven five I don't know. 115 or something. ZIP code.
+AGENT: Okay, so you said the street number might be 1 1 5 or something like that, but you're not sure about the ZIP code. Could you please tell me the street name or the city where this is located? That way I can help find the exact address. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me
+CALLER: Okay. I know it. It's right as people here. Drive.
+AGENT: Okay, so you said the street number might be 1 1 5 or something like that, but you're not sure about the ZIP code. Could you please tell me the street name or the city where this is located? That way I can help find the exact address. <emotion value="peaceful"/>
+CALLER: It's in cap it's Kevin Kevin. Kevin. Kevin something.
+AGENT: Uh, I am sorry, but could you please repeat the street name or city? I want to make sure I get the correct dropoff address for you. <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

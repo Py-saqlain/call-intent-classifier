@@ -1,0 +1,11 @@
+AGENT: Hello Jose, this is Ana from Barwood & Regency. You have two trips today — one scheduled for pickup at 4:00 PM with vehicle 1022, and another ride with the same vehicle arriving by 8:56 AM, about 22 minutes away. How can I assist you today?
+CALLER: No.
+AGENT: Uhh, okay. Could you please tell me how I can assist you today? <emotion value="peaceful"/>
+CALLER: I'm ready for pickup.
+AGENT: Okay, so your driver is about 34 minutes away for your pickup at 6410 Rockledge Drive in Bethesda. Anything else? <emotion value="content"/>
+CALLER: That's it.
+AGENT: If you need anything else later, just let me know. I'm here to help. <emotion value="peaceful"/>
+CALLER: Yeah. What type there? My drives come? I ready for return.
+AGENT: Your driver is assigned vehicle number 1022 and driver number 2256. Your return trip pickup is scheduled for 4:00 pm from 11119 Rockville Pike. Would you like me to activate that return trip now? <emotion value="peaceful"/>
+CALLER: No. Thank you.
+AGENT: Looks like you already have trips from Bethesda to Rockville at 9:30 am and from Rockville to Gaithersburg at 4:00 pm today. What would you like to do?

@@ -1,0 +1,52 @@
+AGENT: Hello mrs, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Good afternoon or good morning, lady.
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: I need to come cab to pick me up
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: This morning. I said I need a tab
+AGENT: I understand you need a cab this morning. Just to make sure, how would you like to pay for your ride? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: I told you credit card. I'm sorry. Yes, ma'am. Do you understand I'm 90% deaf? Okay? I have hearing aids, but they don't work so well.
+AGENT: Thank you for letting me know, and I appreciate you sharing that with me. I'll make sure to speak clearly and take my time. Now, could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: So if you speak slowly, that would help me. I need to be picked up Thank you. Thank you.
+AGENT: Of course, I will speak slowly for you. Could you please tell me the address where you need to be picked up? <emotion value="peaceful"/>
+CALLER: Four nine Thank you.
+AGENT: Uh, I am sorry, but could you please repeat the full pickup address including the street name and city? Just the number four nine is not enough for me to find your location. <emotion value="apologetic"/>
+CALLER: Four nine five
+AGENT: Could you please provide the full street address including the street name and city? Just the number four nine five is not enough for me to locate your pickup. <emotion value="apologetic"/>
+CALLER: 4952 Sentinel Drive, Bethesda,
+AGENT: Okay, so I found your pickup location as four nine five two Sentinel Drive, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: 20816.
+AGENT: Thank you for the ZIP code, but I already have your pickup address as four nine five two Sentinel Drive, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: I said Sentinel. Did you get that? Right.
+AGENT: Yes, I got that. Four nine five two Sentinel Drive, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Okay. But
+AGENT: Just to confirm, is four nine five two Sentinel Drive, Bethesda, Maryland the correct pickup address? <emotion value="peaceful"/>
+CALLER: Yes. It is. It's who I am. Hello?
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Five three three five West Bald Avenue, Bethesda, two zero eight one six. It's a gas station called West Bard Coco.
+AGENT: Okay, I found your dropoff location as five three three five Westbard Avenue, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes, ma'am.
+AGENT: Your dropoff address has been verified, Mrs. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 11:30, this morning. Please.
+AGENT: Just to confirm, you mean 11:30 AM this morning, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time noted for today at 11:30 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Just me. Just me.
+AGENT: Okay great! I've got that noted — one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Right. No. Thank you. No.
+AGENT: Alright, the estimated fare is 9 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: I'm sorry. I didn't understand you. Sorry.
+AGENT: No problem at all. I said the estimated fare for your trip is 9 dollars, and you’ll be paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay, great! I'll start collecting the details for your return trip now. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: No. Thank you very much.
+AGENT: Thank you for letting me know. I’m processing your main trip booking now. Please hold on for just a moment.
+AGENT: Your main trip is booked for today at 11:30 AM. Your confirmation number is 2 1 3 6 7 1 7 9 6. Is there anything else I can help you with?
+CALLER: That. I just don't. I'm sorry.
+CALLER: Thank you.
+AGENT: Thank you for calling Barwood & Regency, mrs. Have a wonderful day.

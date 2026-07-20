@@ -1,0 +1,10 @@
+AGENT: Hello Fatima, this is Ana from Barwood & Regency. Vehicle 286 is on the way and should arrive around 6:32 am. How can I assist you today?
+CALLER: I need a ride. I'm waiting for the ride.
+AGENT: Your driver is about 10 minutes away from picking you up at 1 2 0 1 Seven Locks Road in Rockville. Is there anything else I can help with?
+CALLER: The card number? What is the card number?
+AGENT: I can't access or provide card numbers for security reasons. If you need help with your payment or card details, I can connect you with a customer representative who can assist you. Would you like me to do that?
+CALLER: Stop. No. Thanks. Taxing number. Want to taxi number.
+AGENT: I can't provide the taxi number directly, but I can tell you your driver's vehicle number is 2 8 6. If you want to contact the driver, I can connect you with customer support who can help. Would you like me to do that?
+CALLER: Want that to the agency.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Okay.

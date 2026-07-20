@@ -1,0 +1,42 @@
+AGENT: Hi Veronica, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Care.
+AGENT: How can I assist you with your ride today?
+CALLER: Cab.
+AGENT: Thanks for letting me know you need a cab. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, cash is all set for your payment.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 8700 Jones Mill Road, Chevy Chase.
+AGENT: I have 8 7 0 0 Jones Mill Road, Chevy Chase, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Thirty one forty five miles Street Northwest, DC.
+AGENT: I couldn't locate the address "3145 Miles Street Northwest, DC." Could you please confirm the street number and name again, including the city and state?
+CALLER: 3145 Mount Pleasant Street Northwest, Washington, DC.
+AGENT: I have 3 1 4 5 Mount Pleasant Street Northwest, Washington, District of Columbia as your dropoff address. Is that correct?
+CALLER: Yes,
+AGENT: Your dropoff address has been verified, Veronica. I'll proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: No.
+AGENT: Could you please clarify if you mean you want to be picked up right now, or if you prefer a will-call trip where you call back when ready?
+CALLER: Now
+AGENT: Thanks, I've scheduled your pickup for now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One,
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Got it, no wheelchair-accessible vehicle needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 20 dollars, and you will be paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now?
+CALLER: Yes.
+AGENT: Thank you. I am now booking your trip.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 3 7 9 4. Your pickup is today at 6:01 PM. Is there anything else I can help you with?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: No. But Ready.
+AGENT: Thank you for letting me know you're ready. I have your trip booked for today at 6:01 PM with confirmation number 2 1 3 6 6 3 7 9 4. If you need anything else, just ask.
+CALLER: Thank you.
+AGENT: You're welcome. If you need any further assistance, feel free to reach out.
+CALLER: Okay.
+AGENT: Thank you for calling Barwood & Regency, Veronica. Have a wonderful day.
+CALLER: Thank you.

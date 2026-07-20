@@ -1,0 +1,35 @@
+AGENT: Hello JOSEPH, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, today, right now, I need a a rate from sorry. Two one two one Medical Park Drive. Hooting, Maryland two zero nine zero two. That is pickup. Drop off is three one three one Badbury Road. Silver Spring, Maryland two zero nine zero six.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: But but No. Bank card. For my bank account.
+AGENT: Okay so I've got that payment noted as credit card. Let me process that for you now.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so I have the pickup as 2 1 2 1 Medical Park Drive, apartment number 3, Wheaton, Maryland, and the dropoff as 3 1 3 1 Norbeck Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. No. One three one February route. Oh, excuse me. Excuse me. Three zero one three six bell, b e l dash t r e. Bell Bead Road. Two zero nine zero six. That's my drop off pickup is q one two one Make a call Clock. Drive. Sweetened Maryland. Two zero nine zero two.
+AGENT: Thank you for the correction. Just to clarify, your pickup address is 1 2 1 Medical Park Drive, Wheaton, Maryland, two zero nine zero two, and your dropoff address is 3 0 1 3 6 Bell Bead Road, Silver Spring, Maryland, two zero nine zero six. Is that right? <emotion value="hesitant"/>
+CALLER: No. That's alright.
+AGENT: Could you please clarify which part is not correct? Is it the pickup address, the dropoff address, or both? <emotion value="hesitant"/>
+CALLER: Pickup address, two two one two one.
+AGENT: Okay, so your pickup address is 2 2 1 2 1 Medical Park Drive, Wheaton, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Listen. No. Two one two one Pinnacle Park Drive. Two zero nine Quit in two zero nine. Zero two.
+AGENT: Thank you for clarifying. So your pickup address is 2 1 2 1 Pinnacle Park Drive, Wheaton, Maryland, two zero nine zero two. Is that correct? <emotion value="hesitant"/>
+CALLER: Medical pack medical. Medical Park Drive.
+AGENT: Okay, so your pickup address is 2 1 2 1 Medical Park Drive, Wheaton, Maryland, two zero nine zero two. Is that correct? <emotion value="peaceful"/>
+CALLER: Alright. Yes.
+AGENT: Okay, I found the address as 2 1 2 1 Medical Park Drive, apartment number 3, Wheaton, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Alright.
+AGENT: Your pickup address has been verified, Joseph. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+AGENT: You mentioned you want to be picked up today, right now. Is that correct? <emotion value="hesitant"/>
+CALLER: Correct. Expiration address. Three one three six Twelve three route. Silver Spring Maryland. Two zero nine zero six
+AGENT: Thank you for confirming your pickup time as today, right now. Now, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One.
+AGENT: Okay great! I've got one passenger noted. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 22 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 6:51 PM. Your confirmation number is 2 1 3 6 7 6 5 5 4. Is there anything else I can help you with?
+CALLER: No. Send the car.
+AGENT: Thank you for calling Barwood & Regency, Joseph. Have a great day!

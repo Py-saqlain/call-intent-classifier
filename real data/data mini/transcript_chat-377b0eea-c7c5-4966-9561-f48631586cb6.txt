@@ -1,0 +1,29 @@
+AGENT: Hello Gregory, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a new trip.
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call in ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Alright, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three two seven eight eight nine.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: Nine Carter's Grove Court
+AGENT: Okay, so your pickup address is 9 Carters Grove Court, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 13310 DAF Dauphine Street.
+AGENT: Okay, so your dropoff address is 1 3 3 1 0 Dauphine Street, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Gregory.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay, I've got your pickup time as today at 5:19 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: one No.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 24 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 2 2 9 9. Your pickup is today at 5:19 PM. Is there anything else I can help you with?
+CALLER: No. That's all.
+AGENT: Thank you for calling Barwood & Regency, Gregory. Have a wonderful day!

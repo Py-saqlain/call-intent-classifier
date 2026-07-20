@@ -1,0 +1,9 @@
+AGENT: Hello Mary, this is Ana with Barwood & Regency. How can
+CALLER: Yes. Can I help you?
+AGENT: How can I assist you with your ride
+CALLER: Hello?
+AGENT: How can I assist you with your ride today?
+CALLER: I need someone to pick me up. From 1160 Bottom Street. Northeast,
+CALLER: I've been waiting since 02:00.
+AGENT: Thank you for sharing that. To get your ride arranged, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.

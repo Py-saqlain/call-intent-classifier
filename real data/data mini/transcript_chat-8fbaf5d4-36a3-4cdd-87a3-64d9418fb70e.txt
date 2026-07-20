@@ -1,0 +1,15 @@
+AGENT: Hello DAR, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a wheelchair cab
+AGENT: Uhh, I can help with that. Let me get you connected to the booking team who can arrange a wheelchair-accessible cab for you.
+AGENT: Alright, how would you like to pay for your wheelchair-accessible cab? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmmm.. that didn't seem quite clear. Could you please tell me how you would like to pay? Cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Yes. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/> I will proceed with verifying that for you now.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your wheelchair-accessible cab? If you want, I can use your home address at 6 6 8 Clopper Road, Gaithersburg, Maryland. Would that work for you? <emotion value="peaceful"/>
+CALLER: Asia. No. Agent.
+AGENT: I understand you'd like to speak with an agent. Let me connect you now.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

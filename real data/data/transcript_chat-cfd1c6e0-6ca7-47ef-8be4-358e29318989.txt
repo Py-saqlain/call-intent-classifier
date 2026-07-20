@@ -1,0 +1,60 @@
+AGENT: Hello Suzanne, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi, Anna. I have a a trip on reserve that I need to cancel.
+CALLER: Can you cancel the previous
+AGENT: Hmm <break time="300ms"/> I see one trip on your account. <break time="700ms"/> Trip one: pickup at 5:15 pm from 5 0 0 5 Overlea Court in Bethesda going to 4 7 0
+CALLER: I'd like
+AGENT: Hmm <break time="200ms"/> could you clarify which trip you'd like to cancel?
+CALLER: I'd like to cancel that trip.
+AGENT: Okay so <break time="200ms"/> that trip has been cancelled for you. Is there anything else I can help you with?
+CALLER: Do you have any other trip reservations for me?
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any other upcoming trips on your account. Is there anything else I can help you with?
+CALLER: Yes. I'd like to book a new trip.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your new trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Chris, Credit card.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your new trip?
+CALLER: Five zero zero five Overly Court.
+CALLER: Bethesda, Maryland
+AGENT: Okay, let me check that address. 5 0 0 5 Overlea Court, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, I will look for the dropoff location "book a new trip." <emotion value="peaceful"/>
+AGENT: I'm sorry, I couldn't find any locations matching "book a new trip." Could you please provide the destination address or the name of the place you want to go to?
+CALLER: Yes. I would like to go to four seven zero one Sangomore Road,
+AGENT: Thank
+CALLER: Bethesda, Maryland.
+AGENT: Okay, let me check that address. Four seven zero one Sangomore Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I found 4 7 0 1 Sangamore Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: Five zero zero five. Overly Court.
+AGENT: You already gave me 5 0 0 5 Overlea Court, Bethesda, Maryland as your pickup address earlier. Is that still correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified, Suzanne.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I would like to be picked up at twelve fifteen PM tomorrow July 13.
+AGENT: Okay great! I've got your pickup time set for tomorrow at 12:15 PM. <break time="200ms"/> So how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Yes. I need a wheelchair accessible vehicle.
+AGENT: Okay, I've noted that you need a wheelchair-accessible vehicle. <break time="200ms"/> How many passengers will be traveling, including yourself? <emotion value="grateful"/>
+CALLER: There will be only one passenger.
+AGENT: Okay great! I've got one passenger and one wheelchair noted. <break time="200ms"/> Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes, I would.
+AGENT: Okay, thanks for confirming. I'll start collecting the details for your return trip now. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Five fifteen PM tomorrow, July 13.
+AGENT: Okay great! I've got your return trip pickup time set for tomorrow at 5:15 PM. <break time="200ms"/> So how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: We will need a wheelchair accessible vehicle.
+AGENT: Thanks for letting me know you need a wheelchair-accessible vehicle for the return trip. <break time="200ms"/> How many passengers will be traveling, including yourself? <emotion value="grateful"/>
+CALLER: One passenger.
+AGENT: Okay, so for your return trip, I have the pickup at 4 7 0 1 Sangamore Road and the dropoff at 5 0 0 5 Overlea Court. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 5 dollars, paying with credit card. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I'll proceed with booking both your trips now. <break time="250ms"/> Thank you for your patience. <emotion value="grateful"/>
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for tomorrow at 12:15 PM with confirmation number 2 1 3 6 7 5 2 9 5. Your return trip is scheduled for tomorrow at 5:15 PM with confirmation number 2 1 3 6 7 5 2 9 6. Is there anything else I can help you with?
+CALLER: No thank you
+AGENT: Thank you for calling Barwood & Regency, Suzanne. Have a wonderful day!
+CALLER: Thanks. Bye.

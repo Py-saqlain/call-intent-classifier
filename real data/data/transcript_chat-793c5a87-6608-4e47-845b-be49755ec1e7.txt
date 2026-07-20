@@ -1,0 +1,29 @@
+AGENT: Hello FOX, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Um, I'd like to go to an address and the address that I'm at at is Goldsboro Road, Well, I'm not sure. Let me see. Five three zero zero. The cross road is Goldsboro Court.
+AGENT: Thank you for that information. To make sure I have it right, your pickup location is 5
+CALLER: Off of Bradley Boulevard.
+AGENT: Thanks for sharing your pickup location near 5 3 0 0 Bradley Boulevard and Goldsboro Court. How would you like to pay for your ride today? We accept cash, credit card, and Call and
+CALLER: Well, Goldsboro Goldsboro Goldsboro Goldsboro Road. Goldborough Road. 5300 Goldborough Road. Hello?
+AGENT: I’m here to help. Could you please let me know how you would like to
+CALLER: Hello? Okay. Oh, credit card.
+AGENT: Thank you for letting me know you’ll be paying with a credit card.
+AGENT: I wasn't able to locate 5 3 0
+CALLER: Mhmm.
+AGENT: Could you please provide the full street address including the city and state for your pickup location? That will help me find it accurately.
+CALLER: Oh, sure. Goldsboro Road, five three zero zero Bethesda, Maryland I I I don't know the ZIP code. I I think it's 20850.
+AGENT: I still couldn't locate 5 3 0 0 Goldsboro Road in Bethesda, Maryland. Could you please confirm if
+CALLER: No. That's not right. I don't know the ZIP code.
+AGENT: Thank you for letting me know. Could you please tell me if there
+CALLER: Let's see. What Let's see. Go ahead. Do you wanna pick me up on Bradley Boulevard?
+AGENT: Thanks for that. Just to confirm, would you like your pickup address to be on Bradley Boulevard instead?
+CALLER: Sure. Yeah. It's probably best because then we can go the right direct
+AGENT: Great, I'll use Bradley Boulevard as your pickup address. Could you please provide the full street number and city for the Bradley Boulevard address?
+CALLER: Not this time. Do you wanna look again for Roseboro Road? 5300?
+AGENT: Let me try again to find 5 3 0 0 Goldsboro Road for you.
+AGENT: I couldn't find 5 3 0 0 Goldsboro Road. Could you please provide any nearby landmarks or cross streets to help me locate it better?
+CALLER: Sure. Goldsboro Court.
+AGENT: Thank you. Let me search for 5 3 0 0 Goldsboro Road near Goldsboro Court.
+CALLER: Oh, wait. Let me No. It's right. Okay.
+AGENT: I understand this can be tricky. Could you please confirm if you want me to use Bradley Boulevard as your pickup address instead?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Okay.

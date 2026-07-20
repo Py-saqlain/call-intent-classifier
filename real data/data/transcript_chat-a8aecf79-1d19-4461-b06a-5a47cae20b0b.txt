@@ -1,0 +1,48 @@
+AGENT: Hi Louise, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Need pickup.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Pickup.
+AGENT: Could you please let me know how you would like to pay for your ride? We accept cash, credit card, and
+CALLER: Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash.
+AGENT: Okay so I've got that payment noted as cash.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: One one seven two one
+CALLER: Summer Oak Drive, Germantown, Maryland
+AGENT: Hmm <break time="350ms"/> let me check that address. Okay, <break time="300ms"/> so I found that location. Is that correct?
+CALLER: Summer Oak, Drive. Germantown, Maryland.
+AGENT: Thank you for confirming. Your pickup address has been verified.
+CALLER: Hello?
+AGENT: Yes, I'm here to help you. Could you please provide the dropoff address for your ride?
+CALLER: It's one nine zero eight one Highway three fifty five
+AGENT: Hmm <break
+CALLER: enterprise.
+AGENT: Hmm <break time="350ms"/> let me check that address. Okay, <break time="300ms"/> so I found a few locations. <break time="700ms"/> Option one: 1 9 0 8 1 Enterprise Drive, Germantown, Maryland. <break time="500ms"/> Option two: 1 9 0 8 1 Enterprise Road, Germantown, Maryland. <break time="500ms"/> Which one is correct?
+CALLER: One.
+AGENT: Thank you for confirming. Your dropoff address has been verified.
+CALLER: By 07:00.
+AGENT: I have noted your pickup address and dropoff address. I will now pass your details to the next team to assist you with the pickup time and booking.
+AGENT: Your pickup address is confirmed as 1 1 7 2 1 Summer Oak Drive, Germantown, Maryland. However, I could not locate the dropoff address you provided. Could you please give me the full dropoff address including the street name and city?
+CALLER: Okay. Enterprise
+AGENT: Could you please provide the full dropoff address including the street number, street
+CALLER: rental
+AGENT: Uh, I am sorry, but could you please provide the full dropoff address including
+CALLER: One nine zero one one nine zero eight one. Middlebrook Road,
+AGENT: Hmm <break time="350ms"/> let me check that address. Okay, <break time="300ms"/> so I found that location. Is that correct?
+CALLER: Yes.
+AGENT: Thank you for confirming. Your dropoff address has been verified.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: 07:00.
+AGENT: Thank you for providing the time. I have noted your pickup and dropoff addresses along with the pickup time of 7:00 am. I will now pass your details to the next team to assist you further.
+AGENT: I found the dropoff address as 1 9 0 1 1 9 0 8 1 Middlebrook Road. Is that correct?
+CALLER: Yes.
+AGENT: Thank you for confirming. Your dropoff address has been verified.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Zero seven a n.
+AGENT: I have noted your pickup and dropoff addresses along with the pickup time of 7:00 am. I will now pass your details to the next team to assist you further.
+AGENT: Thank you for confirming. Your dropoff address has been verified.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Speak to the operator.
+AGENT: I can help with your pickup details — would you like to continue?
+CALLER: No. Speak to a dispatch.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,39 @@
+AGENT: Hello, Andre. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Good morning. Uh, are you answering to me?
+AGENT: Uhh, yes, I'm here. How can I assist you today? <emotion value="peaceful"/>
+CALLER: Hello?
+AGENT: Uhh, how can I help you with your ride today? <emotion value="peaceful"/>
+CALLER: Yes. I wanna go to yes, I have to go to I'd to med mister hospital, Washington. If possible, get tell me how much money I have to have in my car and ride.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Mhmm. Colon rice. Please.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+AGENT: Hmmm.. that didn't seem right, could you please provide exactly six digits from your Call and Ride card? <emotion value="apologetic"/>
+CALLER: I'm sorry. How much? Zero I I I Give one second. Please. Okay. Okay. I give it to you right now. Zero nine seven four seven four.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Thank you for that. Now, could you please tell me your pickup address? <emotion value="peaceful"/>
+CALLER: Is is not
+AGENT: Uh, I am sorry, but could you please repeat your pickup address? <emotion value="apologetic"/>
+CALLER: Two five seven Congressional Lane.
+AGENT: Okay, so I have 2 5 7 Congressional Lane, Rockville, Maryland as your pickup address. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. At p o p. Two five seven yes.
+CALLER: Two five seven Congressional Lane. Yes. At p o p. Two five seven yes. Yes. Yes.
+AGENT: I found a few locations.  
+Option one: 820 West Diamond Avenue, Gaithersburg, Maryland.  
+Option two: 9901 Medical Center Drive, Rockville, Maryland.  
+Option three: 1500 Forest Glen Road, Silver Spring, Maryland.  
+Option four: 1850 Town Center Parkway, Reston, Virginia.  
+Option five: 110 Irving Street Northwest, Washington, D C.  
+Which one is correct? <emotion value="hesitant"/>
+AGENT: I found a few locations.  
+Option one: 8 2 0 W Diamond Avenue, Gaithersburg, Maryland.  
+Option two: 9 9 0 1 Medical Center Drive, Rockville, Maryland.  
+Option three: 1 5 0 0 Forest Glen Road, Silver Spring, Maryland.  
+Option four: 1 8 5 0 Town Center Parkway, Reston, Virginia.  
+Option five: 1 1 0 Irving Street Northwest, Washington, D C.  
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Six.
+AGENT: Your dropoff address has been verified, Andre.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Oh my gosh. How much money I have to bring my card?
+AGENT: The estimated fare for your trip is $40. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I don't know. That's okay.

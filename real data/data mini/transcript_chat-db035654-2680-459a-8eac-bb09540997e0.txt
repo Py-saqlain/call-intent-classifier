@@ -1,0 +1,29 @@
+AGENT: Hi Fred, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab
+AGENT: Thank you for reaching out. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the address where you'd like to be picked up?
+CALLER: Six one one one Montrose Road.
+AGENT: I have 6 1 1 1 Montrose Road, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Suburban Hospital.
+AGENT: I found Suburban Hospital at 8600 Old Georgetown Road, Bethesda, Maryland. Is that the correct dropoff location?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Fred.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No. One passenger.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 16 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No, thank you.
+AGENT: Alright, I will proceed with booking your one-way trip now.
+AGENT: Your trip is scheduled for today at 6:14 am. The confirmation number is 2 1 3 6 7 0 3 3 7. Is there anything else I can assist you with?
+CALLER: That was six fourteen
+AGENT: Yes, your pickup time is today at 6:14 am. Would you like me to repeat the confirmation number again?
+CALLER: No. That's alright.
+AGENT: Thank you for calling Barwood & Regency, Fred. Have a wonderful day!
+CALLER: Thank you.

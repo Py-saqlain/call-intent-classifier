@@ -1,0 +1,47 @@
+AGENT: Hi Shari, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a wheelchair accessible taxi.
+AGENT: Thank you for letting me know about the wheelchair accessibility. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 1000 Daleview Drive, Silver Spring, Maryland.
+AGENT: I have 1 0 0 0 Daleview Drive, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Sixty four ten Rockledge Drive, Bethesda, Maryland.
+AGENT: I have 6 4 1 0 Rockledge Drive, Bethesda, Maryland as your dropoff address. Is that correct?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, Shari.
+AGENT: You mentioned needing one wheelchair-accessible vehicle. Is that correct? Please say yes to confirm or let me know if it needs to be changed.
+CALLER: Yeah. Yeah.
+AGENT: Thank you for confirming the wheelchair count. When would you like to be picked up?
+CALLER: One thirty.
+AGENT: Just to confirm, do you mean 1:30 PM today for your pickup time? Please say yes to confirm or let me know if it's a different time.
+CALLER: Yeah.
+AGENT: Your pickup time is set for today at 1:30 PM. How many passengers will be traveling, including yourself? Also, please let me know if any of the passengers will need wheelchair accessibility.
+CALLER: Two passengers. One will need wheelchair accessibility.
+AGENT: Thank you. I have recorded two passengers with one needing wheelchair accessibility. Do you have any special instructions or notes for the driver?
+CALLER: I'm Please call me when he arrives.
+AGENT: The estimated fare for your trip is 29 dollars, paying with a credit card. Would you like to schedule a return trip as well?
+CALLER: Yeah.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: 03:00.
+AGENT: Just to confirm, do you mean 3:00 PM for your return trip pickup time? Please say yes to confirm or let me know if it's a different time.
+CALLER: Yeah.
+AGENT: Your return trip pickup time is set for today at 3:00 PM. How many passengers will be traveling on the return trip, and how many will need wheelchair accessibility?
+CALLER: Two passengers. One will need wheelchair accessibility.
+AGENT: For your return trip, I have the pickup address as 6 4 1 0 Rockledge Drive, Bethesda, Maryland, and the dropoff address as 1 0 0 0 Daleview Drive, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 30 dollars, paying with Self. Should I go ahead and book both trips?
+CALLER: It's saying return trip time.
+AGENT: Just to clarify, are you saying the return trip time of 3:00 PM needs to be changed, or are you referring to something else about the return trip time?
+CALLER: So change return trip
+AGENT: What time would you like to have for your return trip pickup instead?
+CALLER: 03:15.
+AGENT: Just to confirm, do you mean 3:15 PM for your return trip pickup time? Please say yes to confirm or let me know if it's a different time.
+CALLER: Yeah.
+AGENT: Your return trip pickup time has been updated to today at 3:15 PM. Is there anything else you would like to update or add?
+CALLER: No.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 8 1 5 0, and your pickup is today at 1:30 PM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Shari. Have a wonderful day!

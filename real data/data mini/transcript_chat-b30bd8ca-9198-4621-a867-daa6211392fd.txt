@@ -1,0 +1,27 @@
+AGENT: Hello Liza, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, I need a taxi, please.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Okay. S I six one eleven Montrose Road
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found that location: 6 1 1 1 Montrose Road, North Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Got it.
+AGENT: Your pickup address has been verified. Could you please provide the dropoff address? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Could you please tell me the address where you'd like to be dropped off? <emotion value="peaceful"/>
+CALLER: Okay. Nine seven zero one Green
+AGENT: Uh, I am sorry, but <break time="300ms"/> could you repeat that dropoff address with the street number and full street name? <emotion value="peaceful"/>
+CALLER: nine seven zero one Greenfield Court,
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I found 9 7 0 1 Brimfield Court, Potomac, Maryland. Is that the correct dropoff address? <emotion value="hesitant"/>
+CALLER: Okay. This is the number is nine seven one Greenfield Greenfield Court, Atomac. Yes.
+AGENT: Okay, I understand you want to correct the dropoff address. Let me check 9 7 1 Greenfield Court, Potomac. <emotion value="peaceful"/>
+AGENT: Uh, I am sorry, but I couldn't locate that address. Could you please provide the full dropoff address again, including the street number and street name? <emotion value="apologetic"/>
+AGENT: I couldn't find any results for 9 7 1 Greenfield Court in Potomac. Could you please double-check the address or provide a different dropoff location? <emotion value="apologetic"/>
+CALLER: Just I know it's Potomac, Maryland behind the Montgomery Potomac Village. River Road and River Road and and Foxtrot.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I found a few locations. <break time="700ms"/> Option one: 1 2 9 4 4 Travilah Road, Potomac. <break time="500ms"/> Option two: 1 2 2 1 1 River Road, Potomac. <break time="500ms"/> Option three: 1 0 2 2 1 River Road, Potomac. <break time="500ms"/> Option four: 9 9 3 5 Falls Road, Potomac. <break time="500ms"/> Option five: 9 8 1 2 Falls Road, Potomac. <break time="500ms"/> Which one is correct? <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Thank you.

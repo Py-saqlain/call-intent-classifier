@@ -1,0 +1,41 @@
+AGENT: Hello Mona, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like to have the cut to to address 10. Eight one zero. Make it Connect Avenue.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Discuss.
+AGENT: Hmmm.. that didn't seem right, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: It's cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so I found 1 0 8 1 0 Connecticut Avenue, Kensington, Maryland. Is that correct? <emotion value="peaceful"/>
+Got it. You said 1 0 8 1 0 Connect Avenue. Just to confirm, did you mean 1 0 8 1 0 Connecticut Avenue in Kensington, Maryland?
+CALLER: No. I said one zero eight one zero. Connecticut Avenue. One zero eight one zero.
+AGENT: Okay, so I found 1 0 8 1 0 Connecticut Avenue, Kensington, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Now, could you please tell me the pickup address? <emotion value="peaceful"/>
+CALLER: It's what? 12? Three zero one
+AGENT: Uh, I am sorry, but could you please repeat the pickup address? <emotion value="apologetic"/>
+CALLER: Okay. It's one two three zero one. Braxfil
+AGENT: Hmm, I couldn't find 1 2 3 0 1 Braxfil exactly. The closest I found is 1 2 4 1 3 Braxfield Connecticut T1, Rockville, Maryland. Is that the correct pickup address? <emotion value="hesitant"/>
+CALLER: No. It's twelve three zero one Braxhill Court. Please.
+AGENT: Okay, so I found 1 2 3 0 1 Braxfield Court, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. That's correct.
+AGENT: Your pickup address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Like, ten, uh, like, ten minutes.
+AGENT: Just to clarify, do you mean you would like to be picked up in ten minutes from now? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time as today at 2:15 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: It's one. No. Myself.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, so let me confirm those details. Your pickup is 1 2 3 0 1 Braxfield Court. Your dropoff is 1 0 8 1 0 Connecticut Avenue. Pickup time is 2:15 PM. One passenger, no wheelchair needed. The estimated fare is 12 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yeah. I don't know what time I'm gonna finish.
+AGENT: That's perfectly fine. Would you prefer to set up a will-call return trip, where you call us when you're ready for the ride back, or would you like to schedule a specific return time now? <emotion value="peaceful"/>
+CALLER: Yes. I'm gonna call you when I think. Okay. Thank you.
+AGENT: Okay, so I'll set up a will-call return trip for you. Let me take care of that now. <emotion value="grateful"/>
+AGENT: Your will-call return trip will pick you up at 1 0 8 1 0 Connecticut Avenue and drop you off at 1 2 3 0 1 Braxfield Court. The fare is 12 dollars, paying with Cash. Should I go ahead and book both trips for you? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I’m booking both your trips now. <emotion value="grateful"/>
+AGENT: Thank you for waiting. I’m booking both your main trip and your will-call return trip now.
+AGENT: Your main trip is scheduled for today at 2:15 PM with confirmation number 2 1 3 6 7 0 8 4 8. Your will-call return trip confirmation number is 2 1 3 6 7 0 8 4 9. Is there anything else I can help you with?
+CALLER: No thank you
+AGENT: Thank you for calling Barwood & Regency, Mona. Have a wonderful day!

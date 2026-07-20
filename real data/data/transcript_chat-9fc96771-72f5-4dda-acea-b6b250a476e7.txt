@@ -1,0 +1,41 @@
+AGENT: Hello Richard, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm trying to get a ride to
+AGENT: Where would you like to go?
+CALLER: can we what's that? Is this on Bethesda? 4910 Cordell Avenue.
+AGENT: Thanks for sharing the address. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Can play either way.
+AGENT: Just to be sure, did you mean cash as your payment method?
+CALLER: I have cash, I have a card, Either one.
+AGENT: Thank you for letting me know. I'll proceed with credit card as your payment method.
+AGENT: Great, we'll use your credit card for payment. I'll proceed with that now.
+CALLER: I can use cash.
+AGENT: I have 4 9 1 0 Cordell Avenue, Bethesda, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Thank you for confirming. Where would you like to be picked up from?
+AGENT: Your dropoff address at 4 9 1 0 Cordell Avenue, Bethesda, Maryland has been verified. Now, could you please provide the pickup address?
+CALLER: Pinwick Lane, in Silver Spring, Maryland.
+CALLER: 1316 Fenwick Lane,
+AGENT: I have 1 3 1 6 Fenwick Lane, Silver Spring, Maryland. Is that correct?
+CALLER: Silver Spring. Yes.
+AGENT: Your pickup address has been verified, Richard.
+AGENT: Your pickup address has been verified, Richard.
+CALLER: Yes.
+AGENT: Richard, the estimated fare for your trip is 15 dollars, and you will be paying with a credit card. Would you like to schedule a return trip as well?
+AGENT: When would you like to be picked up?
+AGENT: When would you like to be picked up?
+CALLER: About how long would it take for them to get here? That's fine. Yeah.
+AGENT: I’m here to help with collecting your pickup time, passenger count, wheelchair needs, and any driver notes. For the pickup time, when would you like to be picked up?
+CALLER: Right now, as soon as you can.
+AGENT: I have scheduled your pickup for right now, as soon as possible. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Only one person.
+AGENT: Thank you. I have recorded 1 passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: Just schedule as soon as you can.
+AGENT: The estimated fare for your trip is 15 dollars, paying with a credit card. Would you like to schedule a return trip as well?
+CALLER: No. That's okay.
+AGENT: Thank you for your patience. I’m processing your booking now.
+AGENT: Your main trip is scheduled for today at 4:18 PM. Your confirmation number is 2 1 3 6 7 9 6 9 9. Is there anything else I can assist you with?
+CALLER: No. How long would it take them to get here?
+AGENT: Your trip is scheduled for pickup at 4:18 PM, and the estimated travel time for the driver to reach you is about 11 minutes. Would you like me to keep you updated on the driver's arrival?
+CALLER: I would like to to keep me updated. Thank you.
+AGENT: I will keep you updated on your driver's arrival. If you need anything else, just let me know.
+AGENT: Thank you for calling Barwood & Regency, Richard. Have a great day.

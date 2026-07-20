@@ -1,0 +1,46 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Kim?
+CALLER: One.
+AGENT: Thanks for confirming, Kim. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Operator.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Now.
+AGENT: Alright, <break time="300ms"/> how would you like to pay today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Palmarize.
+AGENT: Hmmm.. <break time="300ms"/> I didn't quite catch that. Did you mean cash, credit card, or Call and Ride for your payment method? <emotion value="apologetic"/>
+CALLER: Haul and ride
+AGENT: Okay, just to confirm, did you mean Call and Ride for your payment method? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Alright, <break time="300ms"/> could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Thirty four five two two zero.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Seven thirty seven South Frederick Avenue, Gaithersburg.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 7 3 7 South Frederick Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Eighteen three zero two Streamside Drive.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 1 8 3 0 2 Streamside Drive, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified. Thank you, Kim. <emotion value="grateful"/>
+AGENT: Just to confirm, you would like to be picked up now, is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! <break time="200ms"/> How many passengers will be traveling, including yourself, and will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One.
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Now.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. When I asked about wheelchair accessibility, I meant if you need a wheelchair-accessible vehicle, yes or no? <emotion value="apologetic"/>
+CALLER: No.
+AGENT: Okay great! Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 12 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: No. Why?
+AGENT: Just checking if you wanted a return trip to go back after your main ride. Since you said no, we'll proceed with just the one-way trip. Should I go ahead and book it for you now? <emotion value="peaceful"/>
+CALLER: What? No. Yes.
+AGENT: Okay so <break time="250ms"/> I'm booking your trip now.
+AGENT: Thank you for your patience. I'm booking your trip now.
+AGENT: Your main trip is booked for today at 9:08 AM. Your confirmation number is 2 1 3 6 7 4 0 0 7. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Kim. Have a wonderful day.

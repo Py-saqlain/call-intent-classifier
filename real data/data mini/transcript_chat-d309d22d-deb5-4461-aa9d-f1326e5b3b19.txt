@@ -1,0 +1,18 @@
+AGENT: Hello Kevin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Where's my cab?
+AGENT: You don't have an active trip scheduled right now. Would you like me to help you book a ride?
+CALLER: My god. Please talk to customer service.
+CALLER: Hello?
+AGENT: I'm here to help. What can I do for you today?
+CALLER: I need a ride.
+AGENT: Thank you for letting me know you need a ride. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Alright. Columb ride. Damn, man. What the hell is going on?
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? If not, please let me know how you'd like to pay.
+CALLER: Zero eight six three zero three. What the hell is going on?
+AGENT: Thank you for providing your Call and Ride card details. Your payment method is set to Call And Ride. The system will now proceed with your booking.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: That means call the customer service Customer service. Please.
+AGENT: I will connect you to a live agent for customer service right away.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: What's going on?
+AGENT: I

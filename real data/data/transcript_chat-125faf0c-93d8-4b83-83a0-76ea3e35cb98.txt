@@ -1,0 +1,32 @@
+AGENT: Hello Maureen, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to book a ride, hauling ride.
+AGENT: Thank you for letting me know you need a ride. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Colon route.
+AGENT: Just to make sure I understand, did you mean Call and Ride for your payment method?
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three four five five seven six.
+AGENT: Thank you, your payment method is set as Call and Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 19017. Daily Bridge Road in Germantown, Maryland.
+AGENT: I found the pickup address as one nine zero one seven Staleybridge Road, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: 21030 Frederick Road in Germantown, Maryland.
+AGENT: I found the dropoff address as two one zero three zero Frederick Road, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Maureen. I will now proceed with arranging your ride.
+AGENT: You mentioned "hauling ride" as a note for the driver. Is that correct? Please say yes to confirm or let me know if it needs to be changed.
+CALLER: Yes.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just me and no.
+AGENT: The estimated fare for your trip is 11 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Okay, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now?
+CALLER: Yes.
+AGENT: Booking your trip now.
+AGENT: Your trip is booked for today at 12:15 PM. The confirmation number is 2 1 3 6 6 9 3 6 0. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Maureen. Have a wonderful day!

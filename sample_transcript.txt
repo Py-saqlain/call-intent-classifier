@@ -1,0 +1,31 @@
+AGENT: Hello Bryan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab
+AGENT: Thank you for reaching out. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, cash is all set for your payment.
+AGENT: Could you please tell me the address where you'd like to be picked up?
+CALLER: 17822 Beulah Road, Omni, Maryland.
+AGENT: I have the pickup address as one seven eight two two Buehler Road, Olney, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Georgia Avenue, sweet spot.
+AGENT: I found several places on Georgia Avenue that might be the sweet spot you mentioned:
+
+1. Sweetspot Dispensary Olney at 18070 Georgia Avenue, Olney, Maryland
+2. Rita's Italian Ice & Frozen Custard at 13621 Georgia Avenue, Silver Spring, Maryland
+3. sweetFrog at 11923 Georgia Avenue, Wheaton, Maryland
+4. Heat Da Spot Café at 3213 Georgia Avenue Northwest, Washington, D C
+
+Which one would you like to go to?
+CALLER: Olney, Maryland. That one. That one. That one. That one
+AGENT: Your dropoff address has been verified, Bryan. I'll now proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: Got it, I'll arrange your pickup as soon as possible. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One and none, no.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 5.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 6:06 PM. Your confirmation number is 2 1 3 6 7 9 7 8 8. Is there anything else I can help

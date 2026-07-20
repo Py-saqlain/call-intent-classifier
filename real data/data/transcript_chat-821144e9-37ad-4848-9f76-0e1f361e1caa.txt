@@ -1,0 +1,39 @@
+AGENT: Hello Marcus, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I need a taxi from 95 Dawson Avenue I'm going to Athens in Potomac.
+AGENT: Thank you for sharing your pickup and dropoff locations. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash. Cash. Cash.
+AGENT: Thank you for letting me know you'll be paying with cash.
+AGENT: I have 9 5 Dawson Avenue, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yep.
+AGENT: I couldn't find any locations for Athens in Potomac. Could you please provide the full address or a nearby landmark for your destination?
+CALLER: Walgreens, and Potomac.
+AGENT: I found a few Walgreens locations in Potomac. There's one at 10134 River Road, Potomac, Maryland, and
+CALLER: For Harris Peter. I'm sorry. Harris Peter. No. No. Harris Teeter.
+AGENT: Thank you for the correction. I found Harris Teeter locations in Potomac. Could you please provide the street address or a nearby landmark for the Harris Teeter you want to go to?
+CALLER: 7 Walks Road.
+AGENT: I couldn't find any locations for 7 Walks Road in Potomac. Could you please double-check the street name or provide a nearby landmark?
+CALLER: Fortune Terrace.
+AGENT: I found several addresses on Fortune Terrace in Potomac. Here are some options: 350C Fortune Terrace number 3 2 3, 350 Fortune Terrace number 1 0 2, 350 Fortune Terrace number 2 0 0, 350 Fortune Terrace A, and 350 Fortune Terrace number 1 0 0. Which one would you like to use?
+CALLER: You can try the three five zero p, watch it.
+AGENT: Your dropoff address has been verified, Marcus. I will now proceed with arranging your trip.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Quit my first one. So total two.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Marcus, the estimated fare for your trip is 12.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: Returned step Yes. But I don't know that time, so I will have to call.
+AGENT: Thank you for letting me know you'd like a return trip but will call later to schedule the time. I will set up your return trip as a will-call, so you can call us when you're ready.
+AGENT: Your return trip will be a will-call, picking up at 350C Fortune Terrace number
+CALLER: K.
+AGENT: Would you like me to go ahead and book both your trips now?
+CALLER: Yes.
+AGENT: Booking both your trips now.
+AGENT: Your main trip is scheduled for today at 4:52 PM with confirmation number 2 1 3 6 6 5 8 2 8. Your return trip is a will-call booking with confirmation number 2 1 3 6 6 5 8 2 9. You can call back when you're ready for the return trip, and a driver will be dispatched then. Is there anything else I can help you with?
+CALLER: Can you send me the link please the link
+AGENT: I’m unable to send links directly, but if you call us back with your confirmation numbers, we can assist you anytime. Is there anything else I can do for you right now?
+CALLER: Okay. No. So how long for a driver?
+AGENT: For your scheduled trip today at 4:52 PM, the driver will arrive shortly before that time. For the will-call return trip, the driver will be dispatched as soon as you call and request the ride. If you want an exact ETA closer to
+CALLER: Great. Great. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Marcus. Have a great day!

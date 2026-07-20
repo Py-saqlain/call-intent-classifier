@@ -1,0 +1,33 @@
+AGENT: Hi Stephanie, this is Ana with Barwood & Regency. How can I help you today?
+CALLER: I need a taxi.
+AGENT: I'd be happy to help with your taxi ride. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Do you want cash or credit card? Cash.
+AGENT: Thank you, cash it is. I'll proceed with that for your ride.
+AGENT: Could you please tell me the pickup address for your taxi ride?
+CALLER: One six zero zero Crawford Drive,
+AGENT: I have 1 6 0 0 Crawford Drive, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Rockville, Maryland two zero eight five one. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Eight zero one Rockville Pike Rockville, Maryland
+AGENT: I have 8 4 5 Rockville Pike, Rockville, Maryland as the dropoff address. Is that correct?
+CALLER: No. No. No. No. No.
+AGENT: Thank you for letting me know. Could you please provide the correct dropoff address again?
+CALLER: Eight zero one rockville pike Rockville, Maryland
+AGENT: I have 8 0 1 Rockville Pike, Rockville, Maryland 2 0 8 5 2 as the dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Stephanie.
+AGENT: When would you like to be picked up?
+CALLER: Now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions or requests for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 6.5 dollars, and you will be paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you. I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 3:12 PM. Your confirmation number is 2 1 3 6 7 8 4 0 1. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you
+CALLER: Instead of

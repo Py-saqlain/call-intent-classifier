@@ -1,0 +1,18 @@
+AGENT: Hello Joan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Good evening, sweetie. How are you doing today?
+AGENT: Uhh, good evening! How can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Yes. I am I would like to have a a cab. To pick me up tomorrow morning. At eight thirty
+AGENT: Alright, how would you like to pay for your ride tomorrow morning at 8:30? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: That is colon light. Never heard of that. Let me see credit, please. Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride tomorrow morning at 8:30? If you'd like, I can use your home address at 5 0 0 6 Wickett Terrace, Bethesda, Maryland. Would you like me to do that? <emotion value="peaceful"/>
+CALLER: No, ma'am. Pick me up at one three one six Fenwick Lane.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is one three one six Fenwick Lane, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Let me ask you this question. Let what are the What is no. Let me ask let me ask you first.
+AGENT: I'm here to help. Please go ahead and ask your question whenever you're ready. <emotion value="peaceful"/>
+CALLER: No. Let me ask you first. Hello?
+AGENT: Yes, I'm here and ready to assist you. What would you like to ask? <emotion value="peaceful"/>
+CALLER: Okay. Now I'm ready.
+AGENT: Great! Please confirm if your pickup address is one three one six Fenwick Lane, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Mom, ma'am, could you plea could you please help me?

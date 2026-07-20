@@ -1,0 +1,26 @@
+AGENT: Hello Peter, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Book a trip.
+AGENT: How would you like to pay for your trip today? We accept cash, credit card, and Call and Ride.
+CALLER: Got it.
+AGENT: Could you please tell me which payment method you would like to use: cash, credit card, or Call and Ride?
+CALLER: Credit
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Where would you like to be picked up from?
+CALLER: 5151 Pooks Hill Road.
+AGENT: I have 5 1 5 1 Pooks Hill Road, Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Where would you like to go?
+CALLER: 7707 Woodmont Avenue.
+AGENT: I have 7 7 0 7 Woodmont Avenue, Bethesda, Maryland as your destination address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Peter. I will now proceed with the next steps for your trip.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: Got it, I have your pickup time as today at 2:53 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. It's AI, so it's gonna be under Peter. And that's his yeah.
+AGENT: Could you please tell me how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Cancel the trip.
+AGENT: I checked and there are no active trips currently booked under Peter's name to cancel. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood &

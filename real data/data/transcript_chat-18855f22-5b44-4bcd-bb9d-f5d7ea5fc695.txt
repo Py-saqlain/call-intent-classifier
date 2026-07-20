@@ -1,0 +1,50 @@
+AGENT: Hi Cheryl, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Need to rise going to thirty eight zero five Urbana Park.
+AGENT: Okay, you want to book a ride to 3 8 0 5 Urbana Park. Could you please tell me the pickup address for this trip? <emotion value="grateful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: The pickling acid two Olive Ride Yes.
+AGENT: Hmmm.. that didn't seem quite clear. Did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Yes.
+AGENT: Alright, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero seven one six zero two.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Okay, so I found the dropoff address as three eight zero five Urbana Pike, Frederick, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's correct.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: Pellet. Give way.
+AGENT: Hmm, let me check that address. Could you please clarify or provide a bit more detail about the pickup location? For example, a street number or nearby landmark would be helpful. <emotion value="apologetic"/>
+CALLER: The Rockville muralist 20850.
+AGENT: Okay, just to confirm, is your pickup address two zero eight five zero Rockville Pike, Rockville, Maryland? <emotion value="peaceful"/>
+CALLER: No. No. It's two l Higginway.
+AGENT: Alright, so your pickup address is two L Highway. Could you please confirm if that's correct? <emotion value="peaceful"/>
+CALLER: No. No. Two Ellen. Take it away.
+AGENT: Okay, I want to make sure I get this right. Did you mean "two L Way" or "two Ellen Way" for your pickup address? Could you please clarify? <emotion value="apologetic"/>
+CALLER: Yeah. Two. Helen, and again, wild.
+AGENT: Hmm, let me check that address. Could you please confirm if your pickup address is two zero eight zero Helen Way? <emotion value="peaceful"/>
+CALLER: No. Two Ellen. Hennigan Way.
+AGENT: Okay, just to confirm, is your pickup address two zero eight zero Ellen Hennigan Way? <emotion value="peaceful"/>
+CALLER: No. To Helen Hennigan Way.
+AGENT: Okay, I found your pickup address as two Helen Heneghan Way, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: pellet, Hennigan Way. Correct.
+AGENT: Your pickup address has been verified, Cheryl.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: That's correct.
+AGENT: Hmm, sorry, I want to make sure I understand. Could you please tell me the specific time you would like to be picked up? For example, you can say "7 PM" or "3:30 PM." <emotion value="hesitant"/>
+CALLER: 03:30PM.
+AGENT: Okay great! I've got your pickup time as today at 3:30 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One,
+AGENT: Alright, soo <break time="300ms"/> so how many wheelchairs will be traveling with you? <emotion value="peaceful"/>
+CALLER: Never.
+AGENT: Okay great! I've got 1 passenger and no wheelchairs. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: None.
+AGENT: Alright, the estimated fare is 61.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will proceed with booking just your one-way trip. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: No. Not at the moment.
+AGENT: Just to confirm, you do not want to book any trips right now, and no trips will be scheduled. Is that correct? <emotion value="hesitant"/>
+CALLER: No. Exactly.
+AGENT: Just to confirm, if you decide to book a trip later or need any assistance, feel free to let me know. For now, I will not schedule any rides. Is there anything else I can help you with? <emotion value="peaceful"/>
+CALLER: Thank you.
+AGENT: You're very welcome. If you decide to book a ride later, just let me know. Meanwhile, how would you like to pay when you're ready? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Thank you.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>

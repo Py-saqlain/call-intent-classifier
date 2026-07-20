@@ -1,0 +1,17 @@
+AGENT: Hello Terry, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like to to book a cab.
+AGENT: Alright, how would you like to pay for your cab ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your cab ride? <emotion value="peaceful"/>
+CALLER: One twenty five zero one Georgia Avenue.
+AGENT: Okay, so I found your pickup location as one two five zero one Georgia Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 13 Butterwood Court. Montgomery Village Mill.
+AGENT: Hmm, I couldn't find 13 Butterwood Court Montgomery Village Mill. Could you please provide the full address including the city and state, or clarify if there is a different name or number? <emotion value="apologetic"/>
+CALLER: It's 13 Butterworth Court. Montgomery Village, Maryland.
+AGENT: Okay, so I found your dropoff location as one three Butterwick Court, Montgomery Village, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Terry. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>

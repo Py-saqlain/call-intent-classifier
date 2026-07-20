@@ -1,0 +1,36 @@
+AGENT: Hello Douglas, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a ride tomorrow from my home in Olney, Maryland. To the Rockledge area of the Johns Hopkins Wilmer Eye Center.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I can do it through credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so I have your pickup as 4 5 0 9 Boastfield Lane, Olney, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. That's correct.
+AGENT: Thank you. Now, for your destination, I found one location: Rockledge Johns Hopkins Wilmer Eye Center, 6 0 0 N Wolfe Street, Baltimore, Maryland. Is that the place you want to go? <emotion value="peaceful"/>
+CALLER: No. It's in Bethesda. It's not in Baltimore. It's in Bethesda, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address again for the Rockledge area of the Johns Hopkins Wilmer Eye Center in Bethesda, Maryland.
+AGENT: I found a few locations. <break time="700ms"/> Option one: 6 4 3 0 Rockledge Drive, Suite 6 0 0, Bethesda. <break time="500ms"/> Option two: 6 4 3 0 Rockledge Drive, Suite 6 0 0, Bethesda. <break time="500ms"/> Which one is correct? <emotion value="hesitant"/>
+CALLER: Both of them are both of them are correct. They're both in Bethesda, so it looks like there's a double. It it looks like both are correct.
+AGENT: Alright, since both options are the same location in Bethesda, I'll proceed with that address for your dropoff. Is that okay? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Both your addresses have been verified, Douglas.
+AGENT: What time tomorrow would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 12:00.
+AGENT: Just to clarify, did you mean 12:00 noon or 12:00 midnight? <emotion value="hesitant"/>
+CALLER: Actually, 12:12 thirty would be better because the appointment begins at 02:00.
+AGENT: Thanks for that update. Just to confirm, did you mean 12:30 PM for your pickup time tomorrow? <emotion value="hesitant"/>
+CALLER: Yes. 12:30PM.
+AGENT: Okay great! I've got your pickup time noted for tomorrow at 12:30 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Just one person, and I'm it's it's just me. I'm the patient.
+AGENT: Okay great! I've got that noted for one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Yes. Um, upon dropping me off, I don't know how long the appointment is going to last, but they are going to dilate my eyes. So can I call at the end of my appointment to have him pick me up?
+AGENT: Got it, I'll make a note that you'll call after your appointment for pickup since your eye dilation might affect timing. <emotion value="grateful"/> Is there anything else you'd like the driver to know?
+CALLER: No. I think that'll do it.
+AGENT: Alright, the estimated fare is 32 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes. But the only problem is I don't know when my appointment is going to be finished. So I don't know what time the return trip is going to be.
+AGENT: That’s perfectly fine. We can set up your return trip as a will-call, so you can call us when you’re ready for pickup after your appointment. Does that sound good to you? <emotion value="peaceful"/>
+CALLER: Yes. One other thing. Can you send me an email confirmation of my of of my appointment with Barwood for tomorrow?
+AGENT: I can help with booking your ride and arranging the return trip, but for email confirmations, I’ll connect you to a live agent who can assist with that. Let me transfer you now.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for tomorrow at 12:30 PM. Your confirmation number is 2 1 3 6 7 6 1 9 4. Is there anything else I can assist you with?
+CALLER: Thank you. Thank you thank you for your help.
+AGENT: Thank you for calling Barwood & Regency, Douglas. Have a wonderful day!

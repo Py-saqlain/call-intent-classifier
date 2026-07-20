@@ -1,0 +1,42 @@
+AGENT: Hi Eduardo, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Reservation
+AGENT: Uhh, could you please tell me where and when you'd like to schedule your ride? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: One nine zero two nine Sedley Terrace, Gaithersburg, Maryland.
+AGENT: Okay, so I found your pickup location as one nine zero two nine Sedley Terrace, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Dallas International Airport
+AGENT: Just to confirm, you mean Washington Dulles International Airport at 1 Saarinen Circle, Dulles, Virginia, correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Okay, so I found your dropoff location as one Saarinen Circle, Dulles, Virginia. Is that correct? <emotion value="peaceful"/>
+CALLER: That's correct.
+AGENT: Your dropoff address has been verified. Thank you, Eduardo. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Tomorrow,
+AGENT: What time tomorrow would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 5PM.
+AGENT: Just to confirm, you would like to be picked up tomorrow at 5:00 PM, is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Okay great! I've got your pickup time set for tomorrow at 5:00 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Just one passenger. No no wheelchair necessary.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 91.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Sorry, I couldn't hear the question. What was that?
+AGENT: The
+CALLER: Repeat the question.
+AGENT: The estimated fare for your trip is 91.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. No. No return trip.
+AGENT: Alright, I understand you do not want a return trip. I will proceed with booking just the one-way trip for you. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes, please.
+AGENT: Okay so <break time="250ms"/> I'm booking your trip now.
+AGENT: Your trip is booked for tomorrow at 5:00 pm. Your confirmation number is 2 1 3 6 7 4 6 9 7. Is there anything else I can help you with?
+CALLER: Repeat the number, please.
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 4 6 9 7. Is there anything else I can assist you with?
+CALLER: That's everything. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Eduardo. Have a wonderful day!
+CALLER: Thank you.

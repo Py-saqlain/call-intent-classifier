@@ -1,0 +1,46 @@
+AGENT: Hello, Guadalupe. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a a live agent
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would
+CALLER: Yes.
+CALLER: K. I need I need a taxi.
+CALLER: Now.
+AGENT: Let me get that set up for you right now.
+AGENT: Thank you for letting me know you need a taxi now. How would you like to pay for your ride? We accept cash, credit card,
+CALLER: Okay. Polaroid.
+AGENT: Just to make sure I understood you correctly, did you mean to pay with a credit card? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Great! Could you please provide the last six digits of your Call and Ride card?
+CALLER: 38343811.
+AGENT: Thank you for that. The number you provided has eight digits. Could you please give me just the last six digits of your Call and Ride card?
+CALLER: Three four three eight. One one.
+AGENT: Thank you for providing the last six digits. Your payment method is set to Call and Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 1315 Apple Avenue.
+AGENT: I have 1 3 1 5 Apple Avenue, Silver Spring, Maryland as your pickup
+CALLER: Okay. So
+AGENT: Is the pickup address 1 3
+CALLER: There.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 805 Wayne Avenue,
+AGENT: I have 8 0 5 Wayne Avenue, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Guadalupe. I will now proceed with arranging your trip.
+AGENT: You mentioned you want to be picked up now. Is that correct? Please say yes to confirm or let me know if you want a different pickup time.
+CALLER: Yes.
+AGENT: How many passengers will be traveling, including yourself?
+CALLER: Yes.
+CALLER: One.
+AGENT: Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: The estimated fare is 6.5 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip. Should I go ahead and book it now?
+CALLER: Yes.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 6 7 4 6. The pickup is scheduled for today at 8:57 AM. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Guadalupe. Have a wonderful day!
+CALLER: You're welcome.
+CALLER: Thank you.

@@ -1,0 +1,10 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Michaele Patterson?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Thanks for confirming, Michaele. This is Barwood & Regency. How can I assist you today?
+CALLER: Speak to what? Operate.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Speak to operator.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Speak to a operator.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,16 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Njideka Odiana?
+CALLER: Yes. You are.
+AGENT: Thanks for confirming, Njideka. This is Barwood & Regency. Your trip is scheduled for pickup today at 1:08 PM. How can I assist you today?
+CALLER: I gonna pick me up from nine zero one Nine zero one. What's up? Nine zero one. So after
+AGENT: You already have trips scheduled from 901 Arcola Avenue to 3400 McMahon Road at 1:08 PM, and back at 2:30 PM today. What would you like to do next?
+CALLER: Nine zero one Apollo Drive,
+AGENT: Are you looking to book a new trip from 901 Apollo Drive, or would
+CALLER: Silver Spring. No. No. No. The same trip that I booked.
+AGENT: Thanks for clarifying. Since you’re referring to the same trip you already have booked, is there something specific you’d like to check or change about it?
+CALLER: No. When is the when is the taxidermy?
+AGENT: Your taxi ride is scheduled for pickup today at 1:08 PM from 901 Arcola Avenue. The trip is currently marked as late, and no driver has been assigned yet. Would you like me to connect you with a customer representative for more help?
+CALLER: Oh, no. No.
+AGENT: Alright. Is there anything else I can help you with regarding your trip?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Njideka. Have a wonderful day.
+CALLER: Okay.

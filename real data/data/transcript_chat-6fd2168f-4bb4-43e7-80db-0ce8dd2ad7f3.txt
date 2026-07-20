@@ -1,0 +1,37 @@
+AGENT: Hello Ron, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Like to book another round trip.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your round trip? <emotion value="peaceful"/>
+CALLER: One four zero zero nine. Woodwell Terrace. Silver Spring.
+AGENT: Okay, so your pickup address is one four zero zero nine Woodwell Terrace, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 2251 Bell Prix Road. Silver Spring.
+AGENT: I found a similar address from recent trips: 2257 Bel Pre Road, Silver Spring, Maryland. Is that the correct dropoff location? <emotion value="hesitant"/>
+CALLER: It's just as good. Yes, only two doors down from the other. Number I gave you.
+AGENT: Your dropoff address has been verified, Ron. I'll now proceed with arranging your round trip. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: It's fine.
+AGENT: Okay, I've recorded your trip as a will-call. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One, no no wheelchair accessible.
+AGENT: Alright, the estimated fare is 6.5 dollars, paying with cash. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: Yes, please.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Five minutes after I reach my destination.
+AGENT: The return trip pickup time must be at least 10 minutes after your first trip. Could you please provide a pickup time for the return trip that is at least 10 minutes after your first trip? Or would you prefer to just book a one-way trip instead? <emotion value="hesitant"/>
+CALLER: No. I want the round trip.
+AGENT: Thank you for confirming you want the round trip. Please let me know a pickup time for your return trip that is at least 10 minutes after your first trip ends. When would you like to be picked up for the return trip? <emotion value="peaceful"/>
+CALLER: I don't know the exact time because I don't know how long it will be, but I'll take the ten minute restriction. That's fine.
+AGENT: It seems I’m having trouble calculating the return trip time based on your main trip. Could you please provide a specific pickup time for your return trip that is at least 10 minutes after your first trip? Or if you prefer, I can help you book just a one-way trip instead. <emotion value="hesitant"/>
+CALLER: I know. I I want the round trip.
+AGENT: Got it, you want the round trip. Could you please tell me a specific time for your return trip pickup that is at least 10 minutes after your first trip? If you’re unsure, you can give me an approximate time or a number of hours after your first trip. <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Thank you. To proceed, please tell me the pickup time for your return trip that is at least 10 minutes after your first trip. What time would you like for the return trip pickup? <emotion value="peaceful"/>
+CALLER: It'll be ten minutes after my first trip.
+AGENT: The return trip pickup time must be at least 10 minutes after the first trip, so ten minutes exactly is the minimum. To be sure, would you like me to schedule your return pickup for 10 minutes after your first trip ends? <emotion value="peaceful"/>
+CALLER: Yes, please.
+AGENT: It looks like I’m still having trouble setting the return trip pickup time based on your main trip. Could you please provide a specific clock time for your return trip pickup instead? What time would you like to be picked up for your return trip? <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: okay.

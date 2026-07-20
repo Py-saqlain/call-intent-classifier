@@ -1,0 +1,35 @@
+AGENT: Hello Ida, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to set up a pickup time for my my my wheelchair ride
+AGENT: Thank you for letting me know about your wheelchair ride. To get started, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: 12:30, please. Credit card.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: 19301 Watkins Mill Road.
+AGENT: I have 1 9 3 0 1 Watkins Mill Road, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 19322 Montgomery Village Avenue.
+AGENT: I have 1 9 3 0 1 Watkins Mill Road, Gaithersburg, Maryland as the dropoff address. Is that correct?
+CALLER: Oh, No. No. Drop off address is 1932 Montgomery Village Avenue.
+AGENT: Thank you for the correction. I will update the dropoff address to 1 9 3 2 Montgomery Village Avenue. Let me check that for you.
+AGENT: I couldn't locate 1 9 3 2 Montgomery Village Avenue. Could you please provide the city and state for this address?
+CALLER: Montgomeryville, Wyoming 19322. One nine three two two.
+AGENT: Just to confirm, is your dropoff address 1 9 3 2 2 Montgomeryville, Wyoming?
+CALLER: Montgomery Village Avenue.
+AGENT: Thank you for the clarification. So your dropoff address is 1 9 3 2 2 Montgomery Village Avenue. Is that correct?
+CALLER: Yes.
+AGENT: I have 1 9 3 2 2 Montgomery Village Avenue, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Ida. I will now proceed with your booking.
+AGENT: Just to confirm, you would like a pickup at 12:30 pm with one wheelchair, and the note for the driver is "wheelchair." Is that correct?
+CALLER: Yes. Tab number 339, please.
+AGENT: Thank you for confirming. How many passengers will be traveling, including yourself?
+CALLER: One
+AGENT: The estimated fare for your ride is 5.5 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No. It turned open.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your main trip is scheduled for today at 12:30 pm. Your confirmation number is 2 1 3 6 7 8 0 1 8. Is there anything else I can help you with?
+CALLER: Assign to cap three three nine, please.
+AGENT: I will make a note to assign your trip to cab three three nine. Is there anything else you need?
+CALLER: No, that's it. Thank you very much.
+AGENT: Thank you for calling Barwood & Regency, Ida. Have a

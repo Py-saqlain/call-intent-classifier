@@ -1,0 +1,46 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Amy Willson?
+CALLER: Yes.
+AGENT: Thanks, Amy. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Need pickup.
+AGENT: Thank you for letting me know. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Call on ride. Columb ride.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Three four one six three three.
+AGENT: Thank you, Amy. Your payment with Call and Ride is all set. What time would you like your pickup?
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 1510 Norbeck Road, safely. Rockville, Maryland two zero eight five three.
+AGENT: I couldn't find an exact match for 1510 Norbeck Road in Rockville, Maryland. Did you mean 4 1 0 1 Norbeck Road, Rockville, Maryland 2 0 8 5 3?
+CALLER: No. No.
+AGENT: Thank you for letting me know. Could you please provide the correct pickup address again?
+CALLER: Five five one zero Norbeck Road, Rockville, Maryland 20853.
+AGENT: Just to confirm, is your pickup address 5 5 1 0 Norbeck Road, Rockville, Maryland?
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Five three two one, Norbeck Road, Rockville, Maryland
+AGENT: Just to confirm, is your dropoff address 5 3 2 1 Norbeck Road, Rockville, Maryland?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Amy. I'll now proceed with the next steps for your ride.
+AGENT: What time would you like to be picked up?
+CALLER: Yes.
+AGENT: Could you please tell me the specific time you would like to be picked up?
+CALLER: Now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Six thirty eight
+AGENT: The time you requested has already passed. What time would you like to be picked up?
+CALLER: One person. 06:38PM.
+AGENT: The time you mentioned, 6:38 PM, has already passed. Could you please provide a different pickup time? Also, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: 06:45PM. Goddamn it. Agent
+AGENT: Thank you. I've scheduled your pickup for today at 6:45 PM with one passenger. Will you need a wheelchair-accessible vehicle?
+CALLER: Agent. Agent.
+AGENT: I can help you finalize your pickup time — shall we continue?
+CALLER: Yes.
+AGENT: Let me get that set up for you right now.
+AGENT: Just to confirm, your pickup is scheduled for today at 6:45 PM with one passenger. Is that correct?
+CALLER: Yes.
+AGENT: Thank you for confirming. Will you need a wheelchair-accessible vehicle for this trip?
+CALLER: No. Pain.
+AGENT: Amy, the estimated fare for your trip is 6 dollars, and you'll be paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Your main trip is booked for today at 6:45 PM. The confirmation number is 2 1 3 6 7 9 8 1 5. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Amy. Have a wonderful day.

@@ -1,0 +1,44 @@
+AGENT: Hi Ed, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Oh, hi. Yes. I would like to book a taxi for today.
+AGENT: Great! How would you like to pay for your taxi today? We accept
+CALLER: Sir, Sorry. What's the company taxi company?
+AGENT: We are Barwood Cab and Regency Taxi, here to help you with
+CALLER: I called the wrong one. Barwood. Okay. Yeah. Okay. I'll pay with the credit card.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: Could you please tell me the pickup address for your taxi today?
+CALLER: Six zero one five Neelwood Drive, n as Nancy, e I l as lobby, w o o, d as David.
+AGENT: I have 6 0 1 5 Neilwood Drive, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yeah. You need the ZIP code?
+AGENT: No, I don't need the ZIP code. Just confirming the address as 6 0 1 5 Neilwood Drive, Rockville, Maryland is enough. I'll proceed with that. Now, could you please provide the destination or dropoff address?
+CALLER: Yes.
+AGENT: Could you please tell me the destination or dropoff address for your ride?
+CALLER: It's Dallas Airport.
+AGENT: I have 1 Saarinen Circle, Dulles, Virginia as your dropoff address. Is that correct?
+CALLER: Yep.
+AGENT: Your dropoff address has been verified. Thank you, ED. I am now passing your trip details along to complete your booking.
+AGENT: What time today would you like to be picked up?
+CALLER: 7PM.
+AGENT: Just to confirm, you would like to be picked up today at 7:00 PM, correct?
+CALLER: Yes.
+AGENT: Thank you for confirming your pickup time. How many passengers will be traveling, including yourself? And will anyone need a
+CALLER: What? One
+AGENT: Your main trip pickup address is not something I can provide right now. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: passenger No. Disabled. Vehicle.
+AGENT: Thank you. I have recorded 1 passenger and that a wheelchair-accessible vehicle is needed. Do you have any special instructions for the driver?
+CALLER: No. No. Wheel no. Wheelchair wheelchair access vehicle is not needed.
+AGENT: Got it, no wheelchair-accessible vehicle is needed. Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 65.5 dollars, and you will be paying with a credit card. Would you like to schedule a return trip as well?
+CALLER: And now
+AGENT: Just to clarify, are you asking to schedule a return trip now?
+CALLER: No.
+AGENT: Understood. Would you like me to go ahead and book your trip for 7 PM today from 6 0 1 5 Neilwood Drive to 1 Saarinen Circle, paying with your credit card?
+CALLER: Yeah.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: Your trip is scheduled for today at 7:00 PM. The confirmation number is 2 1 3 6 7 8 3 7 2. Is there anything else I can help you with?
+CALLER: Please repeat confirmation number.
+AGENT: The confirmation number for your trip is 2 1 3 6 7 8 3 7 2. Is there anything else I can assist you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, ED. Have a wonderful day.
+CALLER: Thank you. Bye.

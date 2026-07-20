@@ -1,0 +1,28 @@
+AGENT: Hello shahing, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to book a ride for 2119 Falling Creek Road.
+AGENT: Thank you for sharing your pickup address at 2119 Falling Creek Road. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: I have 2 1 1 9 Falling Creek Road, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: 7500 Hanover Parkway.
+AGENT: Thank you. I have 7500 Hanover Parkway. Could you please tell me the city and state for this address?
+CALLER: Greenbelt, Maryland.
+AGENT: I have 7 5 0 0 Hanover Parkway, Greenbelt, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Shahing. I will now proceed with the next steps to arrange your ride.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 29 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking your one-way trip. Just a moment please.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 8 0 3 3 0. The pickup is today at 7:55 AM. Is there anything else I can help you with?
+CALLER: No. That's it.
+AGENT: Thank you for calling Barwood & Regency, shahing. Have a wonderful day!

@@ -1,0 +1,34 @@
+AGENT: Hello Irene, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need the I need the right it. 850. 15.
+AGENT: Uhh, I want to make sure I understand you correctly. Are you looking to book a ride to or from an address with the number 8 5 0 1 5, or is there something else you need help with? <emotion value="hesitant"/>
+CALLER: I need to write from from one four four one one Traddle Garden Circle, Rockville, Maryland, 20850.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I have call in right car.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay so I've got that payment noted. Could you please provide the
+CALLER: Yes.
+AGENT: Hmmm.. that didn't seem right, could you please say the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Zero nine nine six
+AGENT: Thank you for
+CALLER: six zero.
+AGENT: Okay so I've got that payment noted as Call and Ride.
+AGENT: Hmm <break time="350ms"/> let me check that address. I wasn't able to find either the pickup address at one four four one one Traville Gardens Circle, Rockville, Maryland, or the dropoff address you gave as eight five zero one five. Let's start over with your pickup address. Could you please tell me the full pickup address?
+CALLER: No. I'm not. My my
+CALLER: I need to to drop me I go to one three zero one Ticker Drive, Rockville, Maryland two zero eight five zero.
+AGENT: Thank you for that. Let me check the address one three zero one Ticker Drive, Rockville, Maryland. <emotion value="peaceful"/>
+AGENT: Okay, so I found the pickup address
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the full dropoff address?
+CALLER: My drop is the rest. One three zero one Ticker Drive, Rockville, Maryland two zero eight five zero.
+AGENT: I understand you said your dropoff is the same as one three zero one Ticker Drive, Rockville, Maryland. Pickup and dropoff addresses must be different. Could you please provide a different dropoff address? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: I want to make sure I have your dropoff address correct. Could you please tell me the full dropoff address again?
+CALLER: It's my right
+CALLER: It was right my okay.
+AGENT: Okay, so I
+CALLER: One three zero one But my my my address taking me my home is one four four one one. Garden circle, Rockville, Maryland two zero eight five zero.
+AGENT: Okay, so I found the dropoff address one three zero one Ticker Drive, Rockville, Maryland. Is that correct? Please say yes or no.
+CALLER: It's correct. Yes.
+AGENT: I see that the dropoff address you provided is the same as your pickup address. The pickup and dropoff locations must be different. Could you please provide a different dropoff address?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

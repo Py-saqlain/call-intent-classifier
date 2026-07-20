@@ -1,0 +1,6 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Beverly Wingate?
+CALLER: Yes.
+AGENT: Thanks, Beverly. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a care of an 874 going to a Boulevard, Gaithersburg, Maryland.
+AGENT: Thank you for the details about your ride. How would you like to pay for this trip? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.

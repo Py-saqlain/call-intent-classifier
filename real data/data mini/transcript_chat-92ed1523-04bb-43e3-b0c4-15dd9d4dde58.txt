@@ -1,0 +1,18 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Louis Von Rago?
+CALLER: Yeah. Sure are.
+AGENT: Thanks for confirming, Louis. This is Barwood & Regency. Your pickup is scheduled for today at 11:30 AM. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm not calling Metro Access. I'm calling calling ride.
+AGENT: Thank you for clarifying that you are calling for a ride. How can I assist you with your ride today?
+CALLER: I don't have a ride scheduled for 11:30 today.
+AGENT: Thanks for letting me know. If you’d like to book a new ride or check on any existing trips, I can help with that. What would you like to do?
+CALLER: Check on an existing truck.
+AGENT: Alright, I’ll connect you to the trip status team who can help you check on your existing trip. One moment please.
+AGENT: You have an active trip scheduled for today at 11:30 AM from 5 2 2 5 Pooks Hill Road to 4 1 2 5 Albemarle Street Northwest. No driver or vehicle has been assigned yet. Would you like me to keep you updated or assist with anything else?
+CALLER: Yes.
+AGENT: Hmm <break time="300ms"/> let me pull that up for you. Your trip is active but no driver has been assigned yet. I'll keep you posted. Is there anything else I can do for you?
+CALLER: Yes.
+AGENT: Hmm <break time="300ms"/> let me pull that up for you. Your trip is active but no driver has been assigned yet. I'll keep you posted. Is there anything else I can help with?
+CALLER: Yes. I have called Metro Access
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Or that strip that you're saying I have scheduled with

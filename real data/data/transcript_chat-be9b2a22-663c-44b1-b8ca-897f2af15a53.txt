@@ -1,0 +1,34 @@
+AGENT: Hello Duane, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Please send a car, uh, to my home at one three five three zero Sherwood Forest Drive, Silver Spring, Maryland two zero nine zero four. I wanna go to the Giant which is very nearby. The Giant which is located at one three four nine zero New Hampshire Avenue. Same ZIP code, 20904. And my home phone is (301) 384-1084.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash, credit card, and what? What was the last thing?
+AGENT: We accept cash, credit card, and Call and Ride as payment options. How would you like to pay? <emotion value="peaceful"/>
+CALLER: What it what what is calling I can't understand what you're saying, the last thing. What is call and ride? I can't understand what you're saying.
+AGENT: Call and Ride is a payment card program some riders use for their trips. If you have one, you can pay with that card by giving me the last six digits. Otherwise, cash or credit card works just fine. How would you like to pay? <emotion value="peaceful"/>
+CALLER: Oh, I've never okay.
+AGENT: Alright, so would you like to pay with cash or credit card for this trip? <emotion value="peaceful"/>
+CALLER: I'll probably use is it it yes.
+AGENT: Okay so I've got that payment noted as credit card. Let me process that for you now. <emotion value="grateful"/>
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so your pickup is at 1 3 5 3 0 Sherwood Forest Drive, Silver Spring, Maryland, and your dropoff is at 1 3 4 9 0 New Hampshire Avenue, Colesville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your addresses have been verified, Duane.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I'm ready now.
+AGENT: Okay great! I've got your pickup time as today at 5:05 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Just just one.
+AGENT: Okay great! I've got that noted. Will you be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Just one.
+AGENT: Okay great! I've got that you need one wheelchair-accessible vehicle. Do you have any special instructions or requests for the driver? <emotion value="peaceful"/>
+CALLER: No. Not wheelchair accessible, but I would prefer a regular car Send me
+AGENT: Alright, the estimated fare is 6.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: no. I'm just going to the giant, and I'd like him to wait for me.
+AGENT: Just to clarify, would you like me to arrange for the driver to wait for you at the Giant store after dropping you off? And since you said no to the return trip, should I go ahead and book your one-way trip now? <emotion value="peaceful"/>
+CALLER: Yes. But it'll it'll okay. Yes. I would.
+AGENT: Okay so <break time="250ms"/> I'll include the request for the driver to wait for you at the Giant. I'll go ahead and book your trip now. <emotion value="grateful"/>
+AGENT: Thank you for your patience. I’m booking your trip now with the driver waiting for you at the Giant. Just a moment please.
+AGENT: Your trip is booked for today at 5:05 PM. Your confirmation number is 2 1 3 6 7 4 8 8 7. Is there anything else I can help you with?
+CALLER: No. I want the driver to wait for me. Thank you.
+AGENT: I have included the request for the driver to wait for you at the Giant. If you need anything else, just let me know.
+CALLER: No. Just that.
+AGENT: Thank you for calling Barwood & Regency, Duane. Have a wonderful day!

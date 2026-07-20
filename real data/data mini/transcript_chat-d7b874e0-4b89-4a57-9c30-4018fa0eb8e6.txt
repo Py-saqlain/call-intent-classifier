@@ -1,0 +1,13 @@
+AGENT: Hello JANICIA, this is Ana with Barwood & Regency. Your pickup is scheduled for today at 2:56 PM. How can I assist you today?
+CALLER: Oh, I reserve it to my car once the car address, one three seven eight one.
+AGENT: I want to make sure I understand you correctly. Are you looking to book a ride with a pickup address at 1 3 7 8 1 Connecticut Avenue? And is that the full pickup address, or would you like to add a destination as well?
+CALLER: Yeah. Yeah.
+AGENT: Looks like you already have a trip from 1 3 7 8 1 Connecticut Avenue to 1 3 7 2 9 Connecticut Avenue at 2:56 pm today. What would you like to do?
+CALLER: Destination one four five o eight from Chris. Road.
+AGENT: You still have an active trip from 1 3 7 8 1 Connecticut Avenue to 1 3 7 2 9 Connecticut Avenue at 2:56 pm today. What would you like to do?
+CALLER: I would like to know how long I have to wait.
+AGENT: Your trip is scheduled for pickup at 5:11 pm today, and a driver is being assigned now. I'll keep you posted if there are any updates. Anything else?
+CALLER: Is the driver is on the way? Driver is on the way, you said? Hello?
+AGENT: The system shows that a driver has not been assigned yet, so they are not on the way at this moment. If you'd like, I can connect you with a customer representative who can assist further. Would you like me to do that?
+CALLER: Yeah.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

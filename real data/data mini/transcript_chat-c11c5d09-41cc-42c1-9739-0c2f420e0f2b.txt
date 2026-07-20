@@ -1,0 +1,18 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Njideka Odiana?
+CALLER: I need to schedule a pickup. Now.
+AGENT: Of course, Njideka, this is Barwood & Regency. I'll connect you now to schedule your pickup right away.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmmm.. that didn't seem quite clear. Could you please tell me how you would like to pay? Cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Oh, I'm leaving from
+AGENT: I noticed you started to say something about your pickup location. If you want, you can share your pickup and dropoff addresses along with your payment method all at once, and I'll make sure to note everything correctly. But for now, could you please tell me how you'd like to pay? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: where is your 901? None. Zero one Half Tab. Test. Uh-uh. Eighteen. Ten.
+AGENT: I’m sorry, I didn’t quite catch that. Could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: nine Nine zero one. Of Poland? Test. Probably, k I n t. Yeah.
+AGENT: I’m still not sure about your payment method. Could you please clearly tell me if you want to pay with cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Take test. Tip by test.
+AGENT: Hmmm.. that didn't seem right, could you try again? Would you like to pay with cash, credit card, or Call and Ride? <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Cash. Okay.
+CALLER: Have a test. Cash. Okay. Yeah.

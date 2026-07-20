@@ -1,0 +1,53 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Pricilla Prince?
+CALLER: Yes.
+AGENT: Thanks for confirming, Pricilla. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Shipwreck
+AGENT: Uhh, just to make sure I understand, are you looking to book a ride to a place called Shipwreck? Could you please tell me a bit more about the address or location? <emotion value="hesitant"/>
+CALLER: Okay. Right. To Crawford.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Qualify.
+AGENT: Hmmm.. <break time="300ms"/> I didn't quite catch that. Did you mean cash, credit card, or Call and Ride for your payment? <emotion value="apologetic"/>
+CALLER: Call and ride
+AGENT: Okay so <break time="300ms"/> you've chosen Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three four five three five two.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Nine nine zero one Medical Center Drive, That's emergency department. In Rockville.
+AGENT: Okay, <break time="350ms"/> let me check that address.
+AGENT: Okay, so your pickup address is nine nine zero one Medical Center Drive, Rockville, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Maryland.
+AGENT: Yes, I have it as Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found a few locations for Crawford. <break time="700ms"/> Option one: Crawford Dining Hall, Parker Hall, Gaithersburg, Maryland. <break time="500ms"/> Option two: 15245 Shady Grove Road, Rockville, Maryland. <break time="500ms"/> Option three: 19212 Forest Brook Road, Germantown, Maryland. <break time="500ms"/> Option four: 1150 Crawford Drive Tennis Court, Rockville, Maryland. <break time="500ms"/> Option five: Broadwood Drive and Crawford Drive, Rockville, Maryland. <break time="500ms"/> Which one is correct? <emotion value="hesitant"/>
+CALLER: None.
+AGENT: Okay, I understand none of those are correct. Could you please provide a more specific location, landmark, cross street, or the full street address with city and state for Crawford? <emotion value="apologetic"/>
+CALLER: Is not corporate. It's clock or clock bird. Clockburg,
+AGENT: Hmm <break time="350ms"/> let me check that location for Clockburg.
+AGENT: I'm sorry, I couldn't find any results for Clockburg. Could you please provide a full street address, city, or any nearby landmark to help me find the correct location? <emotion value="apologetic"/>
+CALLER: Little Seneca Parkway. One three six one zero Littleton Seneca Parkway.
+AGENT: Okay, <break time="350ms"/> let me check that address.
+AGENT: Okay, so your dropoff address is one three six one zero Little Seneca Parkway, Clarksburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Pricilla.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! <break time="200ms"/> I've got your pickup time as today at 6:33 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Thanks for that. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: One person.
+AGENT: Okay great! <break time="200ms"/> I've got one passenger and one wheelchair. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: No. Wheelchair.
+AGENT: The estimated fare is 36 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. I'm at the emergency department. There's no wheelchair. You messed up the ride.
+AGENT: Just to confirm, you want to update the number of wheelchairs to zero for your main trip, correct? <emotion value="hesitant"/>
+CALLER: Right. Right. Yes.
+AGENT: Alright, let me update that information. <emotion value="peaceful"/>
+AGENT: Thanks for confirming. How many wheelchairs will you need for your ride? <emotion value="peaceful"/>
+CALLER: Zero
+AGENT: Alright, the estimated fare is 36 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 6:33 PM. Your confirmation number is 2 1 3 6 7 4 9 1 0. Is there anything else I can help you with?
+CALLER: Can you get yes. I'm at the emergency department. Let the driver know, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you. Thank you.

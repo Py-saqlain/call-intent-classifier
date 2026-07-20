@@ -1,0 +1,32 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: It's Camila Orr, o r r.
+AGENT: Thanks, Camila. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yeah. I need a cab going from Lido's at Westlake in Bethesda to eight five zero one Fox Run. In Potomac is off Tuckerman.
+AGENT: Alright, Camila, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash up Cash. Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: I found a few locations for Lido's at Westlake in Bethesda. 
+Option one: 1 0 3 0 1 Westlake Drive, Bethesda. 
+Option two: 5 2 4 5 River Road, Bethesda. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: That's where I'm at. That's it. No. No. Westlake.
+AGENT: Your pickup address has been verified, Camila. Now, could you please confirm the dropoff address at eight five zero one Fox Run, Potomac, off Tuckerman?
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Yes
+AGENT: Hmm <break time="300ms"/> sorry, I didn't catch the pickup time. When would you like to be picked up? <emotion value="hesitant"/>
+CALLER: In about twenty minutes.
+AGENT: Okay great! I've got your pickup time as today at 6:47 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Zero. Zero.
+AGENT: Hmm <break time="300ms"/> sorry, zero passengers is not possible. I have recorded 1 passenger for now. Do you have any special instructions for the driver? <emotion value="hesitant"/>
+CALLER: Just myself. Okay, one myself. Myself.
+AGENT: Okay great! I've got one passenger, just yourself. Do you have any special instructions for the driver? <emotion value="grateful"/>
+CALLER: No. Just myself. And I'm ready now.
+AGENT: Alright, the estimated fare is 10.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 6:47 PM. Your confirmation number is 2 1 3 6 7 4 9 0 9. Is there anything else I can help you with?
+CALLER: Is there any time you can get here sooner, or does it have to be six because I can take the bus. If it's that late. We can get to here sooner than 06:47. It's now it's six twenty eight.
+AGENT: I understand you'd like an earlier pickup if possible. Let me connect you with the booking team to see if we can arrange a sooner time for you.
+CALLER: Thank you.
+AGENT: Thank you for calling Barwood & Regency, Camila. Have a wonderful day!
+CALLER: Thank you.

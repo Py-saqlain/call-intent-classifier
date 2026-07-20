@@ -1,0 +1,50 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Gianna Lee?
+CALLER: Yes. What's the address here? What's the address here? Nine eighteen nine zero nine Oh, nine hundred. Yes. This is Gianna.
+AGENT: Thanks for confirming, Gianna. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: This I need a call and ride.
+AGENT: Thank you for letting me know you'd like to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero nine one three four five.
+AGENT: Thank you, Gianna. Your payment with Call and Ride is all set.
+AGENT: Gianna, could you please tell me the pickup address for your ride?
+CALLER: Nine hundred Merry Mac Drive,
+AGENT: I have 9 0 0 Army Navy Drive, Arlington, Virginia as the pickup address. Is that correct?
+CALLER: No. No. No. 900 Merry Mac Drive, in Takoma Park, Maryland.
+AGENT: I have 9 0 0 Merrimac Drive, Takoma Park, Maryland as the pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 7603 Maple Avenue in Takoma Park, Maryland.
+AGENT: I have 7 6 0 3 Maple Avenue, Takoma Park, Maryland as the dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Gianna.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: Got it, I'll arrange your pickup for today at 1:11 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just one. No. No. I have a knee brace on.
+AGENT: The estimated fare for your trip is 8 dollars, paying with Call and Ride. Would you like to schedule a return trip as well?
+CALLER: Yes. It's a round trip. Yes. I'm just picking up a food order.
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. For your return trip, when would you like to be picked up?
+CALLER: As soon as I get there, I'm just picking up food and just coming back into the cab.
+AGENT: I have scheduled your return pickup for about two hours after your first trip, which is today at 3:11 PM. How many passengers will be traveling on the return
+CALLER: Okay.
+AGENT: Could you please tell me how many passengers will be traveling on the return trip, and if anyone will need a
+CALLER: One, One.
+AGENT: Thank you for that. Will anyone need a wheelchair-accessible vehicle for the
+CALLER: No wheelchair.
+AGENT: For your return trip, I have the pickup at 7 6
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide the correct return trip pickup address?
+CALLER: 7603 Maple Avenue, Takoma Park, Maryland
+AGENT: Thank you. Now, could you please provide the destination or dropoff address for your return trip?
+CALLER: Thirteen six Fenwick Lane, Silver Spring, Maryland
+AGENT: I couldn't find an exact match for 1 3 6 Fenwick Lane in Silver Spring, Maryland. The closest I found is 1 4 5 1 2 Fiske Drive, Silver Spring, Maryland. Is that the correct dropoff address for your return trip?
+CALLER: No. No. Charterhouse Apartment at 136 Fenwick Lane in Silver Spring, Maryland 20910.
+AGENT: I found Charter House at 1 3 1 6 Fenwick Lane, Silver Spring, Maryland 2 0 9 1 0. Is that the correct dropoff address for your return trip?
+CALLER: Yes. Yes.
+AGENT: Your return dropoff address has been verified, Gianna.
+AGENT: The estimated fare for your return trip is 10 dollars, paying with Call and Ride. Should I go ahead and book both trips now?
+CALLER: Yes.
+AGENT: Thank you, Gianna. I am now booking both your trips.
+AGENT: Thank you for your patience. I am now booking both your main and return trips.
+AGENT: Both your main trip and return trip are booked. Your main trip confirmation number is 2 1 3 6 7 8 2 3 5 with pickup today at 1:11 PM. Your return trip confirmation number is 2 1 3 6 7 8 2 3 6 with pickup today at 3:11 PM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Gianna. Have a wonderful day.

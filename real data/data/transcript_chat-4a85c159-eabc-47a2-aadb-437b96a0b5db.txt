@@ -1,0 +1,25 @@
+AGENT: Hello Ahmed, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Mister, kindly
+AGENT: How can I assist you today?
+CALLER: Would like to cook that. Right?
+AGENT: Could you please clarify what you would like help with? Are you looking to book a ride or need assistance with something else?
+AGENT: Take your time. Just let me
+CALLER: Yes. Luca. Right? Please book a ride. From Virginia Beach to the nearby hospital. For tomorrow 8AM.
+AGENT: Thank you for the details. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, cash is all set for your ride.
+AGENT: I wasn't able to find a location matching "Virginia Beach near 8201 Snouffer School Road Gaithersburg Maryland." Could you please provide the full pickup address or a nearby landmark to help me locate it?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay. My pickup address is one nine nine State Road, one one two seven. North Carolina.
+AGENT: I couldn't locate the address "199 State Road, 1127 North Carolina." Could you please provide the full street address including the city and state?
+CALLER: Can you? Me up from North Fork International Airport?
+AGENT: Just to confirm, you would like to be picked up from North Fork International Airport? Could you please confirm the city and state for that airport?
+CALLER: Yeah. Yes.
+CALLER: North Pole is a city and b a is state.
+AGENT: North Pole, Alaska is outside our service area. Could you please provide an alternative pickup address within our service area?
+AGENT: It seems like North Fork International Airport is outside our service area. Could you please provide an alternative pickup address within our service area?
+CALLER: Can you book me from this address
+AGENT: Could you please tell me the full address you want to be picked up from? That way I can help you find it and confirm it.
+CALLER: I already have told you that I want to pick up from the North Pole International Airport.
+AGENT: I understand you want to be picked up from North Pole International Airport, but that location is outside our service area. Could you please provide a different pickup address within our service area?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

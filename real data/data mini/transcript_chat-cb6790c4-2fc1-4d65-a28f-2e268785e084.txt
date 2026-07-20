@@ -1,0 +1,6 @@
+AGENT: Hi Nicole, this is Ana with Barwood & Regency. Your trip is scheduled for pickup today at 12:22 PM. How can I assist you today?
+CALLER: What's the status of my wife?
+AGENT: Could you please clarify what you mean by the status of your wife? Are you asking about a trip or ride related to her?
+CALLER: my picker Look at this buffet.
+AGENT: I'm sorry, I didn't quite catch that. Could you please repeat or clarify your request?
+AGENT: Take your time. Just let me know when you're ready.

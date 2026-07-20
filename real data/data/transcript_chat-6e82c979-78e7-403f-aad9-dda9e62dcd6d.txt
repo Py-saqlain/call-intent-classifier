@@ -1,0 +1,31 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Adele Biancarelli?
+CALLER: Yes. You are.
+AGENT: Thanks for confirming, Adele. This is Barwood & Regency. How can I assist you today?
+CALLER: I need to see a doctor today at at eight ten nine o'clock.
+AGENT: Okay, just to be sure, you need a ride to see a doctor today at 8:10 or 9:00 o'clock? Could you please confirm the exact time?
+CALLER: Okay. 08:50. Or 09:00 is the least. But the point is at 09:00. So 08:50.
+AGENT: Thanks for clarifying. You want a ride today with a pickup around 8:50 am, aiming to be at the doctor by 9:00 am. Could you please tell me the pickup address and the doctor's location?
+CALLER: No. The the address is the pickup address is one my address is picking up at one thirty four Fleetwood Terrace.
+AGENT: Got it. Your pickup address is 1 3 4 Fleetwood Terrace in Silver Spring, Maryland. What is the doctor's address or the destination you'd like to go to?
+CALLER: Okay. Yeah. It's Okay. The 1188 Healing Way.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yeah. Calling my card.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="hesitant"/>
+CALLER: I have a call and ride card. Mhmm. Yes.
+AGENT: Okay so I've got that you will be paying with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero I mean, three five one. Five two five.
+AGENT: Hmmm.. that didn't seem quite right. Could you please provide exactly six digits from your Call and Ride card? <emotion value="apologetic"/>
+CALLER: The six digits are three five.
+AGENT: Hmmm.. I need all six digits from your Call and Ride card to proceed. Could you please say all six digits together? <emotion value="apologetic"/>
+CALLER: Three five one five two five.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+CALLER: Mhmm.
+AGENT: Hello, I’m here to help with your pickup and dropoff addresses. Could you please tell me the pickup address? <emotion value="peaceful"/>
+AGENT: Okay, I have your pickup address confirmed as 1 3 4 Fleetwood Terrace, Silver Spring, Maryland. However, I couldn't locate the dropoff address at 1 1 8 8 Healing Way. Could you please provide the full dropoff address including the street name and city? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please tell me the full dropoff address including the street number, street name, and city? <emotion value="peaceful"/>
+CALLER: Okay. Hold on one second. On one second.
+AGENT: Take your time. I'm here when you're ready. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

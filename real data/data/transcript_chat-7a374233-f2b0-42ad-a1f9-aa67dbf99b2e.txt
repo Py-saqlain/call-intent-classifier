@@ -1,0 +1,40 @@
+AGENT: Hello Louis, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. You all just called me. I'm waiting for my ride to go to Dallas.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I've been going through Metro.
+AGENT: I see you mentioned Metro. Just to confirm, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Calling right.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="peaceful"/>
+CALLER: You all just called me. Right? You
+AGENT: Yes, I understand you mentioned we called you. To proceed, could you please confirm how you would like to pay for your ride? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+CALLER: Okay.
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 13104 7th Street,
+AGENT: Okay, so your pickup address is 1 3 1 0 4 7th Street, Bowie,
+CALLER: Bowie,
+AGENT: Yes, your pickup address is 1 3 1 0 4 7th Street, Bowie, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah. I'm sitting outside. When the phone rang. I thought you all was coming.
+AGENT: I found Dulles International Airport at 1 Saarinen Circle, Dulles, Virginia. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: No. No. I'm going to eighty three seventeen New
+AGENT: Okay, I heard eighty three seventeen. Could you please complete the address for me? For example, the street name and city. <emotion value="peaceful"/>
+CALLER: It's it's new.
+AGENT: Thank you.
+CALLER: They I
+AGENT: Could you please provide the full street name and city for the address starting with eighty three seventeen New? That will help me find the correct location for you. <emotion value="peaceful"/>
+CALLER: just just an avenue.
+AGENT: Okay, so the address is eighty three seventeen New Avenue. Could you please tell me the city and state for this address? <emotion value="peaceful"/>
+CALLER: Is it a new coat? I mean, boy.
+AGENT: Okay, so the address is eighty three seventeen New Avenue, Bowie, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. It's 8317 New Cotton. That's the Dallas center I go to. My my home address is eighty three I mean, my home address is one three one zero four.
+AGENT: Thank you for the correction. So the dropoff address is 8 3 1 7 New Cotton, Dallas, Virginia, which is the Dallas Center you go to. Is that right? <emotion value="peaceful"/>
+CALLER: I go to US Arena, Dallas,
+AGENT: Just to clarify, is your dropoff address the US
+CALLER: Healthcare.
+AGENT: Thank you for clarifying. So your dropoff address is US Healthcare in Dallas, Virginia. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: I found US Health Ahmed Attia, Health Insurance and Life Insurance, at 4 9 0 0 Virginia Route 7, Suite 3 1 3, Alexandria, Virginia. Is that the correct dropoff location? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Got medicaid insurance. Where's where's the ride? Are you called me. Where's my ride
+AGENT: Uhh, I'm sorry but I don't see an active trip for you right now. Let me connect you with a representative who can help you with this. <emotion value="sympathetic"/>

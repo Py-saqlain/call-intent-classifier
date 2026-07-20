@@ -1,0 +1,13 @@
+AGENT: Hi Patti, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I was just wondering. I know it would be a long wait. I was just wondering if you have any information as to the to pick me up. At Kaiser Permanente in Texas Square. If you're.
+AGENT: Uhh, I understand you're looking for information about a pickup at Kaiser Permanente in Texas Square. Let me connect you to the trip status team who can provide the latest details on your ride.
+AGENT: It looks like you don't have an active
+CALLER: Yeah. Escapes were has a permanent chain cases. Per address.
+AGENT: It seems there is no active trip scheduled for you right now. Would you like help booking a ride?
+CALLER: There's no active trip.
+AGENT: That's right, I don't see an active trip for you at the moment. If you want, I can help
+CALLER: I guess that I I that's a very lovely lady who's trying to get My very lovely lady is trying to get me home. So maybe I should cancel. I think nothing looks promising.
+CALLER: You there, ma'am?
+AGENT: Yes, I'm here. How can I assist you further?
+AGENT: Just
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

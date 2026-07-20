@@ -1,0 +1,50 @@
+AGENT: Hello Virmina, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Oh, I would like a cab.
+AGENT: Alright,
+CALLER: Going to fifty five ten Norbeck Road.
+AGENT: Thanks for sharing your destination. Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call. Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+AGENT: Alright, could you please tell
+CALLER: Yes. Three three. Three three four one.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me your pickup address?
+CALLER: One three three zero six Midway Avenue.
+AGENT: Okay, so your pickup address is one three
+CALLER: That's Maryland.
+AGENT: Okay, so your pickup address is one three three zero six Midway Avenue, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Fifty five ten.
+AGENT: Could you please provide the full street name and city for the address fifty five ten?
+CALLER: Narbek Road. Norbeck. N o r b e c k. Road,
+CALLER: Rockville.
+AGENT: Okay, so your dropoff address is five five one zero Norbeck Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's correct.
+AGENT: Your dropoff address has been verified, Virmina. I will now proceed with the next steps.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right away.
+AGENT: Okay great! I've got your pickup time as today at 2:10 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. It's only me.
+AGENT: Okay great! I've got 1 passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No. I like return. Return trip. But I will call when I'm ready.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Since you said no special instructions, I'll note that for the driver. <emotion value="grateful"/>
+AGENT: The estimated fare is 9.5 dollars, paying with your Call And Ride card. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: Yes. I'd like a return.
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: And I will call when I'm ready. I will call when I'm ready.
+AGENT: Okay, I've recorded your return trip as will-call, so you can call back when you're ready. Alright, soo <break time="300ms"/> how many passengers will be traveling on your return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, for your return trip, your pickup address is
+CALLER: Just myself.
+AGENT: Thank you for letting me know that you will be the only passenger on your return trip. Now, your return trip pickup address is five five one zero Norbeck Road, Rockville, Maryland, and your return dropoff address is one three three zero six Midway Avenue, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's correct.
+AGENT: The estimated fare for your return trip is 9.5 dollars, paying with your Call And Ride card. Should I go ahead and book both trips for you? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Okay, so I am booking both trips for you now. <emotion value="grateful"/>
+AGENT: Thank you for your patience. I am booking both your main and return trips now.
+AGENT: Your main trip is scheduled for today at 2:10 pm with confirmation number 2 1 3 6 7 2 0 2 1. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 2 0 2 2. You can call back when you are ready for your return trip, and a driver will be dispatched then. Is there anything else I can help you with?
+CALLER: Okay.
+CALLER: You repeat that number?
+AGENT: Certainly! The confirmation number for your main trip is 2 1 3 6 7 2 0 2 1, and for your return trip, the will-call booking confirmation number is 2 1 3 6 7 2 0 2 2. Is there anything else I can assist you with? <emotion value="grateful"/>
+AGENT: Thank you for

@@ -1,0 +1,35 @@
+AGENT: Hello Sheren, this is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I'm calling for a pickup for a ride at at Aldi.
+AGENT: Thank you for letting me know your pickup location is Aldi. How would you like to pay for your ride today? We accept cash, credit card, and
+CALLER: Know. A bike. I'd like to pay by ten.
+AGENT: I want to make sure I understand you correctly. Did you mean you'd like to pay by cash?
+CALLER: Hello?
+AGENT: Yes, I'm here to help. Did you mean you'd like to pay by cash for your ride?
+CALLER: Yes. The address I'd like to be picked up from is one nine one five o. Montgomery Village. Avenue. Let me repeat that again, the address. The address again is one nine one five zero. Montgomery Village Avenue.
+AGENT: Thank you for confirming cash as your payment method. Your pickup address is one nine one five zero Montgomery Village Avenue. I'll proceed with your booking now.
+AGENT: I have the
+CALLER: Yes. I would like to be picked up at six o'clock
+AGENT: I found several Aldi locations. Which one would you like to go to? 
+
+1. 7 3 7 South Frederick Avenue, Gaithersburg, Maryland
+2. 6 0 8 Quince Orchard Road, Gaithersburg, Maryland
+3. 2 0 9 0 4 Frederick Road, Germantown, Maryland
+4. 1 5 0 1 Rockville Pike, Rockville, Maryland
+
+Please tell me the number of the location you prefer.
+CALLER: No. Hello?
+AGENT: Yes, I'm here to help. Could you please tell me which Aldi location you'd
+CALLER: I would like to be picked up. I would like to be picked up from I would like to be picked up from one nine one five o Montgomery Village l Avenue. That's all these. And my destination, I'm going to my home, 9304 Backgate Court, Montgomery Village.
+AGENT: I have your pickup address as one nine one five zero Montgomery Village Avenue. For your destination, I have nine three zero four Backgate Court, Montgomery Village. Is that correct?
+CALLER: That is Yeah. And pickup time is 06:00.
+AGENT: I couldn't find the address nine three zero four Backgate Court, Montgomery Village in our system. Could you please provide the full street address including the city and state?
+CALLER: Yeah. Nine three zero four Bathgate Court, Montgomery Village Avenue. ZIP is two zero eight eight six.
+AGENT: Thank you for the update. Just to confirm, your dropoff address is nine three zero four Bathgate Court, Montgomery Village Avenue, Maryland. Is that correct?
+CALLER: Yeah.
+AGENT: I still couldn't locate nine three zero four
+CALLER: I would like to be picked up from all these I would like to be picked up from from all these 19150 Montgomery Village Avenue, and I'm going to nine three zero four Fastgate Court.
+AGENT: Thank
+CALLER: Montgomery Village.
+AGENT: I still couldn't locate nine three zero four Fastgate Court, Montgomery Village. Could you please provide the full street address including the city and state?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Okay.

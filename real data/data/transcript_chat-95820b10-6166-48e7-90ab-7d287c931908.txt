@@ -1,0 +1,33 @@
+AGENT: Hi Joan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Order a ride.
+AGENT: Thank you for choosing us for your ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 18101 Prince Philip Drive, Boonely, Maryland
+AGENT: I have 1 8 1 0 1 Prince Philip Drive, Olney, Maryland as your pickup address. Is that correct?
+CALLER: Yeah. Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: One nine one zero nine Georgia Avenue, Brookville, Maryland
+AGENT: I have 1 9 1 0 9 Georgia Avenue, Brookeville, Maryland as your dropoff address. Is that correct?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, Joan. I will now proceed with your booking.
+AGENT: When would you like to be picked up?
+CALLER: Alrighty. Now
+AGENT: Got it, I have your pickup time as today at 4:17 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Do you need water?
+AGENT: I’m here to help with your ride details. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just two people. Two.
+AGENT: Thank you, I have recorded 2 passengers. Will anyone need a wheelchair-accessible vehicle?
+CALLER: You have a wheelchair? No.
+AGENT: Thank you, I have noted that no wheelchair-accessible vehicle is needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 9.5 dollars, and you will be paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I’m processing your booking now.
+AGENT: Your main trip is scheduled for today at 4:17 PM. Your confirmation number is 2 1 3 6 7 9 6 9 7. Is there anything else I can assist you with?
+CALLER: Can you say the confirmation number again?
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 9 6 9 7. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Joan. Have a wonderful day.
+CALLER: Alright. Bye bye.

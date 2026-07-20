@@ -1,0 +1,22 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Patricia Jones.
+AGENT: Thanks, Patricia. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Uh, I need to get a cab. To go from White Oak Hospital to what's the address? Twenty one zero one Fairland Road. In Silver Spring, Maryland.
+AGENT: Thank you for sharing your trip details, Patricia. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, Patricia. Your payment by credit card is all set. The system will now proceed with your booking.
+AGENT: Patricia, I found Adventist HealthCare White Oak Medical Center at 1 1 8 9 0 Healing Way, Silver Spring, Maryland. Is that the correct pickup location?
+CALLER: Yes.
+AGENT: Your pickup address has been verified, Patricia. I am now proceeding with your trip.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: Thanks, Patricia. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Wheelchair accessible vehicle and one passenger.
+AGENT: I have recorded one passenger and a wheelchair-accessible vehicle. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Patricia, the estimated fare for your trip is 12 dollars, and you will be paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you, Patricia. I'm processing your booking now. Please hold on a moment.
+AGENT: Patricia, your main trip is scheduled for today at 7:58 PM. Your confirmation number is 2 1 3 6 8 0 2 5 8. Is there anything else I can assist you with?
+CALLER: And thank you.
+AGENT: Thank you for calling Barwood & Regency, Patricia. Have a wonderful day.

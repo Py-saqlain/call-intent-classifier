@@ -1,0 +1,34 @@
+AGENT: Hi Michael, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I can't. I okay. Why call for a cab to pick me up at one four three two three Georgia Avenue in Silver Spring.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I'll pay by card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so your pickup address is one four three two three Georgia Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One seven seven six East Jefferson Street, Rockville Maryland.
+AGENT: Thank you. Let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, your dropoff address is one seven seven six East Jefferson Street, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Michael.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I'm running right down. Wait wait here by ten. Wait a five twenty minutes before I had a hello? Hello?
+AGENT: Just to be sure, did you want to be picked up at 10:00 AM today? <emotion value="hesitant"/>
+CALLER: No. He's only picked up now. I'm waiting right now, really.
+AGENT: Okay great! I've got your pickup time as right now. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Just one. That's me.
+AGENT: Okay great! I've got that noted. Do you have any special instructions or requests for the driver? <emotion value="grateful"/>
+CALLER: No, I don't.
+AGENT: Alright, the estimated fare is 16.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: That's later on. That's later on.
+AGENT: Just to clarify, are you booking a return trip back to 1 4 3 2 3 Georgia Avenue later on, or is the trip we just set up your return journey? <emotion value="hesitant"/>
+CALLER: You're you're confusing. I don't yeah. I can understand I can understand what you're saying, really.
+AGENT: I want to make sure I get this right for you. Would you like me to help you book a return trip for later, or just the one trip you mentioned now? <emotion value="peaceful"/>
+CALLER: Just a one trip right now.
+AGENT: Okay, I understand you want just the one trip right now. Should I go ahead and book this trip for you? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so <break time="250ms"/> I'm booking your trip now.
+AGENT: I'm processing your trip booking now. Please hold on a moment.
+AGENT: Your trip is booked for today at 5:52 AM. Your confirmation number is 2 1 3 6 7 4 4 9 7. Is there anything else I can help you with?
+CALLER: Not really.
+AGENT: Thank you for calling Barwood & Regency, Michael. Have a wonderful day!

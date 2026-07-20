@@ -1,0 +1,12 @@
+AGENT: Hello Ms., this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, I'm trying to cancel it right
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+CALLER: There is. The driver just came, and we found for 07:13, 10:00. Today.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: No. I don't pay for I don't pay for the ride. It's medicaid transportation. What are you talking?
+CALLER: We don't pay.
+AGENT: I understand, thank you for letting me know. However, on this line, we only accept cash, credit card, or Call and Ride for payment. If you'd like, I can connect you to a live agent who can
+CALLER: Hello. Can I talk to someone, please? Can I talk to someone? This is about cancellation. Please.
+CALLER: AI is not coming under this. Anyway, you go.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Yes. Please do that.

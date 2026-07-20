@@ -1,0 +1,52 @@
+AGENT: Hello Jack, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'll reserve a cab. For Monday, July 6.
+AGENT: Thanks for letting me know your pickup date is Monday, July 6. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your ride on Monday, July 6?
+CALLER: It's Ryderwood Senior Community
+AGENT: I found a few locations matching Ryderwood Senior Community: 
+
+1. Riderwood Village at 3140 Gracefield Road, Silver Spring, Maryland
+2. Riderwood Senior Living Community at 3140 Gracefield Road, Silver Spring, Maryland
+3. Riderwood Village - Arbor Ridge at 3160 Gracefield Road, Calverton, Maryland
+
+Which one would you like to use for your pickup?
+CALLER: three one four zero Gracefield Road, Silver Spring, Maryland
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Hold on.
+AGENT: Take your time. Just let me know when you're ready with the destination address.
+CALLER: It is six four one zero Rockledge Drive.
+AGENT: I have 6 4 1 0 Rockledge Drive, Bethesda, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. Correct.
+AGENT: Your dropoff address has been verified, Jack.
+AGENT: You mentioned your pickup is on Monday, July 6. Is that correct?
+CALLER: Yeah.
+AGENT: What time on Monday, July 6 would you like to be picked up?
+CALLER: 1PM.
+AGENT: Just to confirm, you would like to be picked up on Monday, July 6 at 1 PM, correct?
+CALLER: Yes.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. One passenger and it needs to be a wheelchair accessible vehicle.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip on Monday, July 6 at 1 PM is 38.5 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: Great, I'll start collecting the details for your return trip.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Three fifteen.
+AGENT: Just to confirm, you would like to be picked up for your return trip at 3:15 PM, correct?
+CALLER: Correct.
+AGENT: How many passengers will be traveling on your return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Will you need a wheelchair-accessible vehicle for your return trip?
+CALLER: Yes. One passenger with a wheelchair accessible vehicle.
+AGENT: For your return trip, I have the pickup address as 6 4 1 0 Rockledge Drive and the dropoff address as 3 1 4 0 Gracefield Road. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 38.5 dollars, paying with Credit Card. Should I go ahead and book both your trips?
+CALLER: Yeah.
+AGENT: Booking your trips now.
+AGENT: Your main trip is scheduled for July 6th at 1:00 PM with confirmation number 2 1 3 6 6 3 1 8 2. Your return trip is scheduled for July 6th at 3:15 PM with confirmation number 2 1 3 6 6 3 1 8 3. Is there anything else I can help you with?
+CALLER: No. That's it.
+AGENT: Thank you for calling Barwood & Regency, Jack. Have a wonderful day!
+CALLER: Bye.

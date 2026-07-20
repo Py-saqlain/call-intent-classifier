@@ -1,0 +1,10 @@
+AGENT: Hi Nicole, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Somebody fucking go home. Fuck.
+AGENT: I'm here to help you. What can I assist you
+CALLER: Don't wake up this morning.
+AGENT: I'm really sorry you're feeling this way. It might help to talk to someone you trust or a mental health professional about how you're feeling. If you want, I can connect you with someone who can provide support.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm not angry.
+AGENT: I understand. Whenever you're ready, just let me know how I can assist you today.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

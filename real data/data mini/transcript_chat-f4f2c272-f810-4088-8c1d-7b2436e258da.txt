@@ -1,0 +1,5 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Yacob Belai?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Nope.
+AGENT: Thanks for letting me know. Who am I speaking with today? You can also tell me if you want me to list the names I have here.
+AGENT: Take your time. Just let me know when you're ready.

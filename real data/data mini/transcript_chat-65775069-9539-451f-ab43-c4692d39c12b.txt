@@ -1,0 +1,36 @@
+AGENT: Hi Emily, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need taxi, please.
+AGENT: Okay, I can help you with that. Let me connect you to the booking service to get your taxi arranged.
+AGENT: Alright, how would you
+CALLER: I'm sorry?
+AGENT: Alright, <break time="300ms"/> how would you like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: Cast. Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. Let me process that for you now.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your taxi?
+CALLER: 809 Kunsorsen Boulevard, apartment twenty one.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found the pickup
+CALLER: Hello?
+AGENT: Yes, I'm here. I was about to confirm your pickup address. I found 8 0 9 Quince Orchard Boulevard, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes. Apartment 21.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Okay. And then get this back to three fifty five
+AGENT: Hmm <break time="350ms"/> just to be sure, when you
+CALLER: See this.
+AGENT: Uh, I am sorry, but could you please repeat the dropoff address?
+CALLER: Get this work. Three fifty five
+AGENT: Could you please
+CALLER: See that CVS Pharmacy.
+AGENT: Okay, so you want to go to the CVS Pharmacy at three fifty five. Could you please tell me the street name and city for that CVS Pharmacy?
+CALLER: Yes.
+AGENT: I found a few CVS Pharmacy locations.
+CALLER: No name.
+AGENT: I found a few
+CALLER: Okay.
+AGENT: I found
+CALLER: Okay.
+AGENT: I found a few locations. <break time="700ms"/> Option
+CALLER: Okay.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+AGENT: I found a few

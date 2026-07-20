@@ -1,0 +1,51 @@
+AGENT: Hello Maria, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I want a a taxi cab.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Great. Free card.
+AGENT: Okay, just to be sure, did you mean a credit card for payment? <emotion value="hesitant"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your taxi ride? <emotion value="peaceful"/>
+CALLER: Yeah. Okay. One four five
+AGENT: Hmm <break time="350ms"/> could you please provide the full street number and street name for the pickup address? Just "one four five" is not quite enough to locate it. <emotion value="peaceful"/>
+CALLER: c 14508. Homecrest
+AGENT: Okay, so I found your pickup address as one four five zero eight Homecrest Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: one two five, one two eight, seven, four, seven seven zero seven zero seven four seven zero
+AGENT: I want to make sure I understand correctly. Are you correcting the pickup address to one two five one two eight seven four seven seven zero seven zero seven four seven zero, or is that something else? Could you please clarify? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I want to work to one three eight seven o Georgia Avenue. So Hello?
+AGENT: Hmm <break time="350ms"/> I couldn't find 1387 Georgia Avenue. Could you please provide the city and state for that address? <emotion value="apologetic"/>
+CALLER: Three one one. One three eight seven zero. I purchased this number.
+AGENT: I want to make sure I understand. Are you saying the pickup address is three one one one three eight seven zero? Could you please clarify the street name and city or state as well? <emotion value="hesitant"/>
+CALLER: Think I need number is 1 C 870 Georgia Avenue. What is the unit?
+AGENT: Hmm <break time="350ms"/> I couldn't find 1870 Georgia Avenue. Could you please provide the city and state for that address? <emotion value="apologetic"/>
+CALLER: 18 No. It's 13 wait. One three eight seven o.
+AGENT: I want to make sure I understand correctly. Are you saying the pickup address is one three eight seven zero Georgia Avenue? If so, could you please provide the city and state for that address? <emotion value="hesitant"/>
+CALLER: Yes. Yes. Georgia.
+AGENT: Okay, so I found your pickup address as one three eight seven zero Georgia Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Okay. One three eight seven o dropoff. 13870 Georgia Avenue.
+AGENT: Just to clarify, is your dropoff address also one three eight seven zero Georgia Avenue? <emotion value="peaceful"/>
+CALLER: That is it. Yeah. 3 is a number.
+AGENT: I understand that your dropoff address is the same as your pickup address at one three eight seven zero Georgia Avenue. However, pickup and dropoff locations must be different. Could you please provide a different destination address? <emotion value="peaceful"/>
+CALLER: 3872 Georgia Avenue. Is a pit there is the desk. This is where I was going. That is why.
+AGENT: I found that 3872 Georgia Avenue is outside our service area. Could you please provide a different destination address within our service area? <emotion value="apologetic"/>
+CALLER: Alright. Yeah. CH7O. Ma'am, 13870.
+AGENT: Could you please clarify if that is a new dropoff address or something else? I want to make sure I get it right. <emotion value="hesitant"/>
+CALLER: No. I I use it once a month.
+AGENT: Thanks for letting me know. Since you use that address regularly, could you please confirm the full dropoff address you want for this trip? That way I can make sure to get it right. <emotion value="peaceful"/>
+CALLER: 13870 Georgia Avenue.
+AGENT: Just to confirm, your dropoff address is 13870 Georgia Avenue, Silver Spring, Maryland? <emotion value="peaceful"/>
+CALLER: Silver Spring, Maryland Eight. Thirty Avenue. It's
+AGENT: Okay, so I found your dropoff address as one three eight seven zero Georgia Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes. Think it's not correct.
+AGENT: I understand you think the dropoff address might not be correct. Could you please provide the correct dropoff address or any details to help me find it? <emotion value="hesitant"/>
+CALLER: It is correct. That is the correct address. I have I have called many times at the time, ma'am. One three three seven o.
+AGENT: Thank you for confirming that one three eight seven zero Georgia Avenue, Silver Spring, Maryland is the correct dropoff address. Your dropoff address is now noted. <emotion value="grateful"/>
+AGENT: I see that your dropoff address is the same as your pickup address at one three eight seven zero Georgia Avenue. The pickup and dropoff locations must be different. Could you please provide a different dropoff address? <emotion value="peaceful"/>
+CALLER: The pickup the pickup address the pickup address the the picker the pickup address is one four five four eight Homecrest Road. Silver Spring, Maryland Georgia
+AGENT: I couldn't find an exact match for one four five four eight Homecrest Road, Silver Spring, Maryland. I found a nearby location at 14400 Homecrest Road, Silver Spring, Maryland. Is that the correct pickup address? <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Correct. Capacity one three eight seven o Georgia Avenue.
+CALLER: Correct. Capacity one three eight seven o Georgia Avenue.

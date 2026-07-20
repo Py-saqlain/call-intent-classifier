@@ -1,0 +1,51 @@
+AGENT: Hello Inna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Hello. I need to talk to you now. Right now.
+AGENT: Uhh, okay. How can I assist you with your ride or transportation needs today? <emotion value="peaceful"/>
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: I I don't understand. The taxi
+AGENT: Okay, I’m here to help with your taxi needs. Could you please tell me what you need help with regarding the taxi?
+CALLER: No. It's a regular taxi. Ordinary taxi.
+AGENT: Alright, thanks for letting me know it’s a regular taxi. Are you looking to book a ride with a regular taxi now, or do you need help with something else about your taxi?
+CALLER: I need taxi right now.
+AGENT: Let me get that set up for you right now.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride.
+AGENT: Okay, just to confirm, you said Call and Ride for payment, right? Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yep.
+AGENT: Could you please tell me the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three one
+AGENT: Hmmm.. that didn't seem like six digits. Could you please say the full last six digits of your Call and Ride card again? <emotion value="apologetic"/>
+CALLER: Three one eight eight one three.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: Pick up. Leave room. Tradila Garden Circle. Fourteen four zero one Trela Gardens Circle. Pickup. Me.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found a close match: 1 4 4 0 1 Traville Gardens Circle, Rockville, Maryland. Is that the correct pickup address? <emotion value="hesitant"/>
+CALLER: Right. It's correct.
+AGENT: Your pickup address has been verified. Could you please provide the dropoff address? <emotion value="peaceful"/>
+CALLER: Roughly six four. Ten Rockledge Drive, De Fiesta.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found Champlain Building, 6 4 1 0 Rockledge Drive, Bethesda, Maryland as the dropoff address. Is that correct? <emotion value="hesitant"/>
+CALLER: Correct.
+AGENT: Uh, I am sorry, but the dropoff address could not be validated. Could you please confirm the street number for the dropoff address? <emotion value="apologetic"/>
+AGENT: Could you please confirm the street number for the dropoff address? <emotion value="apologetic"/>
+CALLER: Six. Four ten Four ten. One one second. I check. Address. Six four ten Rockledge Drive,
+AGENT: Okay, just to confirm, you said 6 4 1 0 Rockledge Drive for the dropoff address, right? <emotion value="peaceful"/>
+CALLER: Alright. Right.
+AGENT: Uh, I am sorry, but the dropoff address still could not be validated. Could you please provide a different dropoff address or more details? <emotion value="apologetic"/>
+CALLER: Six four two zero Roadlith Drive,
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Uh, I am sorry, but I could not find six four two zero Roadlith Drive. Could you please provide a different dropoff address or more details? <emotion value="apologetic"/>
+CALLER: One second. It is
+AGENT: Take your time. Whenever you're ready, please provide the dropoff address again. <emotion value="peaceful"/>
+CALLER: maybe It's maybe six. Hundred executive
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I couldn't find any location for six hundred executive. Could you please provide a full address or a different dropoff location? <emotion value="apologetic"/>
+CALLER: Six hundred Executive Boulevard.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I'm sorry, but six hundred Executive Boulevard is outside our service area. Could you please provide a different dropoff address within our service area? <emotion value="apologetic"/>
+CALLER: No. Thank you.
+AGENT: Just to confirm, you would like to cancel the booking and not schedule any trips today? <emotion value="hesitant"/>
+CALLER: Cancel.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

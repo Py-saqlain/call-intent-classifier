@@ -1,0 +1,17 @@
+AGENT: Hi Khianna, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Representative.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: You don't have any active trips scheduled right now. Would you like help booking a ride?
+CALLER: With cheese.
+AGENT: Thanks for that! How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Associate.
+AGENT: Could you please clarify how you would like to pay? The options are cash, credit card, or Call and Ride.
+CALLER: Associate
+AGENT: It sounds like you might mean something else. Just to confirm, would you like to pay with cash, credit card, or Call and Ride?
+CALLER: Associates.
+AGENT: I want to make sure I understand you correctly. Are you saying you want to pay with cash, credit card, or Call and Ride? If not, please let me know which payment method you'd prefer.
+CALLER: One life agent. This call is being recorded.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

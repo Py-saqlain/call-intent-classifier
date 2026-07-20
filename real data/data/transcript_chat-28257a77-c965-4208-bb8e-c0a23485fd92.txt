@@ -1,0 +1,52 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Ruby Chambers?
+CALLER: No.
+AGENT: Thank you for letting me know. May I ask who I’m speaking with today? You can also tell me if you want me to list the names I have on this number.
+CALLER: Elba Rady.
+AGENT: I don’t have a profile under the name Elba Rady. We can set one up when you book a trip. Would you like help with booking a ride today?
+CALLER: No. I I just wanna book a ride. I don't need an account.
+AGENT: Just to confirm, you want to cancel the booking process and not schedule a ride right now? If that's correct, no trips will be booked. Should I go ahead and cancel?
+CALLER: I'd I'll schedule a ride.
+AGENT: Great! Let's get started with your payment method. How would you like to pay for your ride?
+CALLER: A card.
+AGENT: Thank you. I will help you set up your card payment. Let me update your payment method.
+AGENT: Thanks for letting me know you'd like to pay with a card. We accept cash, credit card, and Call and Ride. Could you please confirm if you mean a credit card or another type of card?
+CALLER: Representative, please.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Just help me, please.
+AGENT: I’m here to help you. Could you please tell me your name so I can assist you with booking your ride?
+CALLER: Elba Rady.
+AGENT: I don’t have a profile under the name Elba Rady. We can set one up when you book a trip. Would you like to start booking your ride now?
+CALLER: Yes.
+AGENT: Thank you for confirming. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Yes. One zero eight one zero. Connecticut Avenue, Kensington, Maryland two zero eight nine five.
+AGENT: I have the pickup address as one zero eight one zero Connecticut Avenue, Kensington, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Yes. One one one six zero Viers Mill Road, Wheaton, Maryland two zero nine zero two.
+AGENT: I have the dropoff address as one one one six zero Veirs Mill Road, Wheaton, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Elba. I will now proceed with the next steps to arrange your ride.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your ride is 7.5 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your main trip is scheduled for today at 3:28 PM. Your confirmation number is 2 1 3 6 7 9 6 5 0. Is there anything else I can help you with?
+CALLER: No. That's it.
+AGENT: I’m sorry, I still need your name to assist you. Could you please tell me your name?
+CALLER: Alba
+AGENT: Thanks, Alba. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: You already booked me a trip.
+AGENT: I see that you already have a trip booked for today at 3:28 PM. What would you like to do next? You can check the status, cancel, change it, or speak with a representative.
+CALLER: I'm done.
+AGENT: Thank you for calling Barwood & Regency, Alba. Have a wonderful day!
+CALLER: Thank you.

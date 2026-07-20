@@ -1,0 +1,23 @@
+AGENT: Hello Shenna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I like to, uh, order cab to six two.
+AGENT: Uhh, just to make sure, are you asking to order a cab to pick you up at 6 2, or is 6 2 the destination address? Could you please clarify? <emotion value="hesitant"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me your pickup address? <emotion value="peaceful"/>
+CALLER: K.
+AGENT: Uh, I am sorry, but I didn't catch the full pickup address. Could you please provide the complete pickup address including the street number and street name? <emotion value="hesitant"/>
+CALLER: Six two five
+AGENT: Thank you. To make sure I have it right, is your pickup address 6 2 5 Avery Road, Rockville, Maryland? <emotion value="peaceful"/>
+CALLER: Hungerford Drive. Six two five Hungerford Drive,
+AGENT: Okay, so your pickup address is 6 2 5 Hungerford Drive, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I have your pickup address as 6 2 5 Hungerford Drive, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found a few locations for "6 2." Option one: 1 2 0 Chevy Chase Street, number 6 dash 2, Gaithersburg, Maryland. Option two: 3 2 4 0 Hewitt Avenue, number 6 dash 2 dash A, Silver Spring, Maryland. Option three: 3 2 4 0 Hewitt Avenue, number 6 dash 2 dash B, Silver Spring, Maryland. Which one is correct? <emotion value="hesitant"/>
+CALLER: Oh, I don't know. I'm going I'm at the giant. At six two five
+AGENT: Okay, just to clarify, are you saying you want to be picked up at the Giant store at 6 2 5 Hungerford Drive, Rockville, Maryland? Or is that your dropoff location? <emotion value="hesitant"/>
+CALLER: Hungerford Drive.
+AGENT: Thanks for confirming. So your pickup is 6 2 5 Hungerford Drive, Rockville, Maryland, and your dropoff is one of the "6 2" locations I mentioned earlier. Could you please specify which "6 2" location you want to go to? Option one: 1 2 0 Chevy Chase Street, number 6 dash 2, Gaithersburg, Maryland. Option two: 3 2 4 0 Hewitt Avenue, number 6 dash 2 dash A, Silver Spring, Maryland. Option three: 3 2 4 0 Hewitt Avenue, number 6 dash 2 dash B, Silver Spring, Maryland. <emotion value="peaceful"/>
+CALLER: Pickup.
+AGENT: Just to be sure, you want your pickup at 6 2 5 Hungerford Drive, Rockville, Maryland, and your dropoff

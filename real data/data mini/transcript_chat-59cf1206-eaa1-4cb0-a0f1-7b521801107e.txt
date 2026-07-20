@@ -1,0 +1,15 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Kenneth Brooks?
+CALLER: How are feeling?
+AGENT: I'm doing well, thank you for asking. How can I assist you with Barwood & Regency today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello? Yeah.
+AGENT: Are you Kenneth Brooks?
+CALLER: Yeah.
+AGENT: Thank you for confirming, Kenneth. I’m connecting you now to help with your ride or any other needs you have with Barwood & Regency.
+AGENT: Thanks, Kenneth. This is Ana from Barwood & Regency. Your ride with vehicle 1028 has been accepted and is scheduled to arrive by 1:38 pm, about 57 minutes from now. What can I help you with today?
+CALLER: Pregrade
+AGENT: Could you please clarify what you mean by "Pregrade"? Are you looking to book a ride, check a trip status, or something else?
+CALLER: Yeah. The agent.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Speak with the agent.
+AGENT: I'm connecting you now to a customer service representative. Please stay on the line.

@@ -1,0 +1,33 @@
+AGENT: Hello Sheryl, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I don't think I can pick it, but 6111 Montrose Road in North Bethesda?
+CALLER: The rest
+AGENT: Thanks for sharing the pickup address at 6 1 1 1 Montrose Road in North Bethesda. How would you like to pay for your
+CALLER: Excuse me.
+AGENT: No problem at all. How would you like to pay for your
+CALLER: Call on blackboard.
+AGENT: Just to make sure, did you mean Call and Ride for
+CALLER: Call call my.
+AGENT: Thanks for confirming you meant Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: Could you please tell me the last six digits of your Call and Ride card?
+CALLER: Yes. Yes. Yes. It is it is three three seven three zero zero.
+AGENT: Thank you for providing the last six digits. Your payment method is set to Call and Ride.
+CALLER: Mhmm. Yes. We will.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. I'm going to vended JCC and. And then sixty one twenty five nine Church Road in Rockford.
+AGENT: Just to clarify, did you say the destination is the JCC and also sixty one twenty five nine Church Road in Rockville? Could you please confirm the
+CALLER: No. No. But I said 61259 shows really not. Where it was. 61259 shows that in Rockford.
+AGENT: Thank you for clarifying. You said the destination is 6 1 2 5 9 Church Road in Rockville, correct? Could you please confirm that?
+CALLER: No. Not though. Not church, though. Not church, because you got them, bitch. Not church, though. I said, 5129 Church Road in Rockville. Not Church Road. Asshole.
+AGENT: I want to make sure I get this exactly right. You said 5 1 2 9 Church Road in Rockville,
+CALLER: It's down. No. I said 6125 Montrose Road in Knoxville.
+AGENT: Thank you for the correction. Just to confirm, your destination address is 6 1 2 5 Montrose Road in Knoxville, Virginia?
+CALLER: Natalie, in Rothville, Maryland. Two zero eight five two. Rossville, not not where you said it was. Rossville. Can you just do this again? Go on. I know. It's all.
+AGENT: I found Bender JCC of Greater Washington at 6 1
+CALLER: They said they don't know how to be. They don't have to hear me.
+AGENT: I want to make sure I understand
+CALLER: Six one two five nine seven
+CALLER: You are
+AGENT: I want to make sure I understand correctly. Could you please repeat the full address you want for your destination?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Six. One three five None. Thank you.

@@ -1,0 +1,8 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Jaquan Young?
+CALLER: Hello? Yes.
+AGENT: Thanks, Jaquan. This is Ana from Barwood & Regency. I see you have a will-call trip scheduled today from 501 North Frederick Avenue to 438 North Summit Avenue in Gaithersburg. How can I assist you today?
+CALLER: Activate the ride.
+AGENT: Your trip is now activated, and a driver will be dispatched to your pickup location shortly. Your confirmation number is zero two one three six seven eight one one eight. If you need anything else, just let me know.
+CALLER: What's the d u e t a?
+AGENT: For questions about the driver's estimated time of arrival, I will connect you to a representative who can provide that information. Please hold for a moment.
+AGENT: Your trip is active but no driver has been assigned yet; your pickup is scheduled for today at 3:17 PM. I'll keep you posted. Anything else?

@@ -1,0 +1,28 @@
+AGENT: Hi Amy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab at two zero four three zero Germantown Road.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call it a ride. Collery ride.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three two eight eight seven nine.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Okay, so your pickup address is two zero four three zero Germantown Road, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. It's a Burger King.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Two two eight four four. Aurora and Hills Drive.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so your dropoff address is two two eight four four Arora Hills Drive, Clarksburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct. Correct.
+AGENT: Your dropoff address has been verified. Thank you, Amy.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay, I've got your pickup time as today at 12:25 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: What? No. Just be the wheelchair.
+AGENT: Okay great! I've got one passenger and one wheelchair. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No. I have a question.
+AGENT: Feel free to ask your question. How can I assist you? <emotion value="peaceful"/>
+CALLER: How the will it take?
+AGENT: The estimated travel time for your trip is about 6 and a half minutes. Now, do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No. Thank you very much.
+AGENT: Alright, the estimated fare is 12.5, paying with Call And Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>

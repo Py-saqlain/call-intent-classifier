@@ -1,0 +1,11 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Lisa Lilley?
+CALLER: No. No. I need it out now. I need you to send me a cab now. You understand? I need you to send me a cab now. I'm at one four four two one Trailer Garden Circle, Rockville. I need you to send me a cab now. Now. You understand stupid Hey, stupid. Do you understand? I need to cab now. I need a cab now. Hello? I need a cab now.
+AGENT: I understand you need a cab right away. Could you please tell me your name so I can find your profile and get this arranged for you?
+CALLER: Hello? Right. Now I need you to send me a cab now. So that's the other trips. Right now, I need a cab now.
+AGENT: I want to make sure I get your ride started for you as quickly as possible. Could you please tell me your name so I can find your profile and assist you right away?
+CALLER: I don't care about 12:00. I need a cab now. At 10:00.
+AGENT: I hear you need a cab right now or at 10:00. To get this arranged quickly, may I have your name, please?
+CALLER: It's Lisa Louie. I need to have now.
+AGENT: Thanks, Lisa. This is Ana from Barwood & Regency. You have two trips today — one scheduled for 12:30 PM, and Vehicle 338 is on the way and will arrive for your pickup in about 6 minutes at 9:13 AM. How can I assist you further?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Right.

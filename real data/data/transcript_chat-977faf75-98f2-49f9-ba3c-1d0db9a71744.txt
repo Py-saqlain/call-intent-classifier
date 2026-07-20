@@ -1,0 +1,28 @@
+AGENT: Hello Roselyn, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to be picked up with a wheelchair lift fan
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Three eight zero zero Reservoir Road, Northwest, Washington DC.
+AGENT: Okay, so I found your pickup as Parking Lot, three eight zero zero Reservoir Road Northwest, Washington, District of Columbia. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Six one two one Montrose Road, Rockville, Maryland.
+AGENT: Okay, so I found your dropoff as six one two one Montrose Road, North Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified. Thank you, Roselyn. <emotion value="grateful"/>
+AGENT: Just to confirm, you will need one wheelchair and the driver notes say "wheelchair lift fan." Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. And there'll be one passenger with the patient.
+AGENT: Okay great! I've got two passengers, one wheelchair, and the note about the wheelchair lift fan recorded. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: As soon as possible.
+AGENT: Alright, the estimated fare is 33 dollars, paying with credit card. You mentioned needing a wheelchair lift and two passengers including the patient. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Not at this time.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 11:59 AM. Your confirmation number is 2 1 3 6 7 1 8 6 9. Is there anything else I can help you with?
+CALLER: Can you repeat the confirmation time?
+AGENT: Certainly. Your pickup time for the main trip is today at 11:59 AM. Is there anything else I can assist you with?
+CALLER: Yes. It's five minutes to twelve now. So they're gonna be here in, like, five minutes.
+AGENT: Yes, that's right. Your pickup is scheduled for today at 11:59 AM, just about five minutes from now. If you need anything else, please let me know.
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Roselyn. Have a wonderful day!

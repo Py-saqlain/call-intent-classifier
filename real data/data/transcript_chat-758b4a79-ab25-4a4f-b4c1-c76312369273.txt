@@ -1,0 +1,35 @@
+AGENT: Hi Mark, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Taxi.
+AGENT: How can I assist you with your taxi needs today?
+CALLER: I need it. Alright.
+AGENT: How would you like to pay for your taxi ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Okay. With credit card.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: Could you please tell me the pickup address for your taxi ride?
+CALLER: Yes. One second.
+AGENT: Take your time. Just let me know the pickup address when you're ready.
+CALLER: It's oh gosh. One two three two five New Hampshire Avenue.
+AGENT: I have 1 2 3 2 5 New Hampshire Avenue, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yep. Yeah.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: One each one zero nine seven two one one zero nine seven two one. And you would Avenue, service personnel and two zero nine zero two.
+AGENT: Could you please clarify the dropoff address? I want to make sure I get it exactly right.
+CALLER: Okay. One second.
+AGENT: Take your time. Just let me know the dropoff address when you're ready.
+CALLER: One zero nine two one. Inward Avenue, Silver Spring, Maryland.
+AGENT: I found 1 0 9 2 1 Inwood Avenue, Silver Spring, Maryland as a similar address from recent trips. Is that the correct dropoff location?
+CALLER: Okay. Yeah.
+AGENT: Your dropoff address has been verified, Mark. I will now proceed with the next steps.
+AGENT: When would you like to be picked up?
+CALLER: Right now, but I'd like to speak to the driver before he comes in.
+AGENT: I understand you'd like to be picked up right now. Regarding speaking to the driver before arrival, I will note that for you. Let me store your pickup time as soon as possible and include your request to speak with the driver.
+AGENT: I've noted your pickup time as right now and your request to speak with the driver before arrival. How many passengers will be traveling, including yourself? Also, will anyone need a wheelchair-accessible vehicle?
+CALLER: What?
+AGENT: How many passengers will be traveling with you, including yourself? And will you need a wheelchair-accessible vehicle?
+CALLER: One three. Yeah. You're the wheelchair accessible.
+AGENT: The estimated fare for your trip is 19 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 10:20 PM. Your confirmation number is 2 1 3 6 8 0 2 7 5. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Mark. Have a great day!

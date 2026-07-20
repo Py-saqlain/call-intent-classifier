@@ -1,0 +1,19 @@
+AGENT: Hi Tracy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: The number is. I'm calling for a cab. Leaving from eleven eight eight six Union Way one to 7, that's the total Maple Avenue. I need a car. I if I'm gonna get it.
+AGENT: Thank you for sharing your pickup and dropoff details. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Quarter. Whatever
+AGENT: Just to make sure I understand, did you mean cash for your payment?
+CALLER: Yes, ma'am.
+AGENT: Thank you for confirming cash as your payment method.
+AGENT: I have your dropoff as 7 6 2 0 Maple Avenue, Takoma Park, Maryland. However, I couldn't locate the pickup address you provided as 1 1 8 8 6 Union Way 1 2 7. Could you please provide the full pickup address again, including the street name and city?
+CALLER: Give me from 118 Essex Ely Way, going to 76 for the Maple Avenue.
+AGENT: I wasn't able to locate 118 Essex Ely Way. Could you please provide the city and state for that pickup address?
+CALLER: Brilliant.
+AGENT: Could you please provide the city and state for the pickup address on Essex Ely Way? This will help me find it accurately for you.
+CALLER: The pickup address is one one eight eight six Hidden Way, Maple Avenue.
+AGENT: I couldn't locate 11886 Hidden Way, Maple Avenue. Could you please provide the city and state for this pickup address?
+CALLER: There are no
+AGENT: Thank you for letting me know. Could you please tell me the city and state where Hidden Way is located? This will help me find the correct pickup address for you.
+CALLER: It is it's a murder
+AGENT: I want to make sure I understand correctly. Could you please tell me the city and state for the pickup address on Hidden Way? This will help me locate it accurately for you.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

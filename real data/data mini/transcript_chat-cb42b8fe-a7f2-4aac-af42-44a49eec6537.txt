@@ -1,0 +1,16 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Charles Myers?
+CALLER: Ma'am, can you hear me?
+AGENT: Yes, I can hear you clearly. Is this Charles Myers?
+CALLER: Uh, no. This is sergeant Bowie at Montgomery County Detention Center.
+AGENT: Thank you for letting me know, Sergeant Bowie. May I ask who I am speaking with so I can assist you properly?
+CALLER: Sergeant Mauer?
+AGENT: I want to make sure I have your name right. Could you please spell your last name for me?
+CALLER: B o w e r
+AGENT: I don't see a profile under the name Sergeant Bower. If you'd like, I can help you set up a profile or assist you with a ride. How would you like to proceed?
+CALLER: Ride.
+AGENT: Thank you, Sergeant
+CALLER: Operator,
+CALLER: Operator.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Operator,
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

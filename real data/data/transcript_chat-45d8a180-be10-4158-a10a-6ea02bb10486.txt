@@ -1,0 +1,28 @@
+AGENT: Hello Ms, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like a return trip.
+AGENT: Okay, I can help with that. Could you please tell me the details of your initial trip, like where and when you need to be picked up? Then we can arrange the return trip from there.
+CALLER: I'd like a return trip from one eight one zero nine Prince Philip Drive in only Maryland.
+AGENT: Thanks for that. To make sure I have it right, you want a return trip starting from 1 8 1 0 9 Prince Philip Drive in Olney, Maryland. Could you please tell me the pickup address and time for your initial trip?
+CALLER: Pickup address. One eight one zero nine French Philip Drive in Olney, Maryland. Going to thirty two ten
+AGENT: Just to confirm, your initial trip pickup address is 1 8 1 0 9 Prince Philip Drive in Olney, Maryland, and your destination is 3 2 1 0 Norbeck Road in Silver Spring, Maryland. Is that correct? Also, could you please tell me the pickup time for this initial trip?
+CALLER: Norbeck Road, Silver Spring, Maryland
+AGENT: Thank you for confirming the destination as Norbeck Road in Silver Spring, Maryland. Could you please provide the pickup time for your initial trip from Prince Philip Drive to Norbeck Road?
+CALLER: The pickup
+AGENT: Could you please tell me the pickup time for your trip from 1 8 1 0 9 Prince Philip Drive in Olney to 3 2 1 0 Norbeck Road in Silver Spring?
+CALLER: address for Prince Philip Drive is 18109. Prince Philip Drive.
+AGENT: Thank you for clarifying the pickup address as 1 8 1 0 9 Prince Philip Drive in Olney, Maryland. Now, could you please tell me the pickup time for this trip?
+CALLER: Pickup time is now.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Use a call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Thirty. Six four four. Six.
+AGENT: Thank you, your Call and Ride payment is all set. <emotion value="grateful"/>
+AGENT: Okay, so your pickup is 1 8 1 0 9 Prince Philip Drive, Olney, Maryland, and your dropoff is 3 2 1 0 Norbeck Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Of course. Let me
+AGENT: Your addresses have been verified, Ms.
+AGENT: You mentioned you want to be picked up now. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One,
+AGENT: Thanks for that. Will anyone need a wheelchair-accessible vehicle for this trip? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.

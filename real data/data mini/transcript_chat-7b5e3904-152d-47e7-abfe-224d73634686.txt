@@ -1,0 +1,12 @@
+AGENT: Hello Kelli, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi. Good morning. Can you cancel that? I'm not calling.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+AGENT: I see there are no active trips to cancel right now. Would you like to book a new ride, check on a trip, or speak with a representative?
+CALLER: Yeah. I wanted to book
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I wanted to book a new ride
+AGENT: I understand you'd like to book a new ride. To get started, could you please tell me how you'd like to pay for this trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Can I speak representative please?
+AGENT: I can help you with booking a ride — would you like to continue? <emotion value="peaceful"/>
+CALLER: Representative, please. Yes. Can I speak to representative, please?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

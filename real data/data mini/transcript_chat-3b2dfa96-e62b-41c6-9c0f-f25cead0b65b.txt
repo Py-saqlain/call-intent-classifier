@@ -1,0 +1,9 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Ashley,
+AGENT: Thanks, Ashley. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I have an appointment scheduled for 10:00.
+AGENT: Okay, Ashley, you mentioned you have an appointment at 10:00. Are you looking to schedule a ride to get there? If so, could you please tell me the pickup address and the destination?
+CALLER: 13442 Avenue Sun Lane. Germantown, Maryland. Two zero eight seven four. And I'm going to 2 Taft Court in Knoxville, Maryland 20850.
+AGENT: Thanks for that, Ashley. Just to confirm, your pickup address is 1 3 4 4 2 Avenue Sun Lane, Germantown, Maryland, and your destination is 2 Taft Court, Knoxville, Maryland. Is that correct? Also, do you want the pickup time to be before your 10:00 appointment?
+CALLER: Yes.
+AGENT: Alright, Ashley, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>

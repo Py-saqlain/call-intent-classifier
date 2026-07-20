@@ -1,0 +1,69 @@
+AGENT: Hello ms, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm trying to find out how close is my ride I'm at one eighty one zero nine press Philip Drive, Georgia Fraser for a return trip.
+AGENT: Thanks for letting me know your location and that this is about a return trip. I'll connect you to the trip status team who can check how close your ride is right now.
+AGENT: It looks like you don't have an active trip scheduled right now. Would you like me to help you book a ride?
+CALLER: I booked a trip. About 09:30, 10:00.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Music. Music.
+AGENT: Hmmm.. that didn't seem right, could you try again? How would you like to pay for your ride? Cash, credit card, or Call and Ride? <emotion value="apologetic"/>
+CALLER: Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Thirty six four four six.
+AGENT: Okay so I've got the last six digits of your Call and Ride card as 3 6 4 4 6. Let me verify that for you. <emotion value="peaceful"/>
+AGENT: Hmmm.. that didn't seem quite right. The last six digits of your Call and Ride card should be exactly six digits. Could you please say them again? <emotion value="apologetic"/>
+CALLER: No. That's wrong.
+AGENT: Alright, no problem. How would you like to pay for your ride instead? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: All in rise.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three zero. Six four four. Six.
+AGENT: Okay so I've got the last six digits of your Call and Ride card as 3 0 6 4 4 6. Let me verify that for you. <emotion value="peaceful"/>
+AGENT: Thank you, your Call and Ride payment is verified. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Why eight one zero nine France Philip Drive, and only Maryland.
+AGENT: Okay, let me check that address for you. <emotion value="peaceful"/>
+AGENT: I found a few locations that might match.  
+Option one: 2 9 0 1 Olney Sandy Spring Road, Olney, Maryland.  
+Option two: 1 8 1 1 1 Prince Philip Drive, Olney, Maryland, Suite 2 0 7.  
+Option three: 1 8 1 0 1 Prince Philip Drive, Olney, Maryland.  
+Which one is correct? <emotion value="hesitant"/>
+CALLER: One eight one zero nine. Prince Philip Drive, suite one hundred, only Maryland.
+AGENT: Okay, so you said one eight one zero nine Prince Philip Drive, Suite one hundred, Maryland. Let me check that address for you. <emotion value="peaceful"/>
+AGENT: I found a similar address from recent trips: 1 8 1 0 1 Prince Philip Drive, Olney, Maryland. Is that the correct pickup location? <emotion value="hesitant"/>
+CALLER: Nope.
+AGENT: Okay, I will disregard that address. Could you please provide the correct pickup address again? <emotion value="peaceful"/>
+CALLER: One, eight one zero nine print Philip Drive, Suite 100, only Maryland
+AGENT: Okay, let me check that address for you. <emotion value="peaceful"/>
+AGENT: I found the address 1 8 1 1 1 Prince Philip Drive, Suite 2 0 7, Olney, Maryland. Is that the correct pickup location? <emotion value="hesitant"/>
+CALLER: No.
+AGENT: Okay, I will disregard that address. Could you please provide the correct pickup address again? <emotion value="peaceful"/>
+CALLER: One eight one zero nine. Prince Philip Drive, suite one hundred,
+AGENT: Thank you for repeating the address. Just to confirm, you said one eight one zero nine Prince Philip Drive, Suite one hundred, Maryland, correct? <emotion value="peaceful"/>
+CALLER: Only Maryland.
+AGENT: I found a few locations that might match.  
+Option one: 1 8 1 0 9 Prince Philip Drive, Suite B-200, Olney, Maryland.  
+Option two: 1 8 1 0 9 Prince Philip Drive, Suite 1 5 5, Olney, Maryland.  
+Which one is correct? <emotion value="hesitant"/>
+CALLER: One eight one one eight one zero nine Prince Philip Drive, suite one hundred. Only, Maryland.
+AGENT: Okay, so you said one eight one one eight one zero nine Prince Philip Drive, Suite one hundred, Maryland. Let me check that address for you. <emotion value="peaceful"/>
+AGENT: I found the address 1 8 1 0 1 Prince Philip Drive, Olney, Maryland. Is that the correct pickup location? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 3210. Norbeck Road, in Silver Spring Maryland.
+AGENT: Okay, let me check that address for you. <emotion value="peaceful"/>
+AGENT: I found the address 3 2 1 0 Norbeck Road, Silver Spring, Maryland. Is that the correct destination? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Ms.
+AGENT: Just to confirm, you would like to be picked up at 9:30 AM today, correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, could you please tell me the correct pickup time you would like? <emotion value="peaceful"/>
+CALLER: Now.
+AGENT: Okay great! I've got your pickup time as today at 11:08 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Okay great! I've got one passenger. <emotion value="grateful"/> Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Okay great! I've noted that no wheelchair accessible vehicle is needed. <emotion value="grateful"/> Do you have any special instructions or requests for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 15.5 dollars, paying with Call And Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Your main trip is booked for today at 11:08 AM. Your confirmation number is 2 1 3 6 7 5 6 6 7. Is there anything else I can help you with?
+CALLER: No.

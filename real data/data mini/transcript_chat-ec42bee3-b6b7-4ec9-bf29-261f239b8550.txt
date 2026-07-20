@@ -1,0 +1,18 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Hello?
+AGENT: Hi there! This is Ana with Barwood & Regency. Could you please tell me your name?
+CALLER: Rosazza. Merely.
+AGENT: Thanks, Rosazza. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a cap to three thousand Mecomas Avenue. It's in Smyrna.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Pass when I I need to tap pick me to stop to settle it out up here.
+AGENT: Hmmm.. that didn't seem right, could you try again? How would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Yes. Yes. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Pass. I need I need the cab to take me to the 711. Up here where where I'm where I'm going to. I'm going to some to get some cash.
+AGENT: Hmmm.. that didn't seem right, could you try again? How would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Okay.

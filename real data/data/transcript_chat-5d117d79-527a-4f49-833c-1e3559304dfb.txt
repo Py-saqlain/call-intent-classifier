@@ -1,0 +1,21 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Louis Von Rago?
+CALLER: Yes.
+AGENT: Thanks for confirming, Louis. This is Barwood & Regency. How can I assist you today?
+CALLER: I'm just checking on my ride that
+AGENT: Hmm, let me check on that for you. Uhh, it looks like you don't have any active trips scheduled right now. Would you like me to help you book a ride?
+CALLER: Yes. I had I was supposed to have a ride scheduled.
+AGENT: Okay, I understand. Let's get your ride scheduled then. Could you please tell me the pickup address for your ride?
+CALLER: Five two two five Cooksville Road,
+AGENT: Just to confirm, is your pickup address 5 2 2 5 Cooksville Road? And could you please tell me the city and state for that address?
+CALLER: Yes. Potomac, Maryland.
+AGENT: Thank you. And where would you like to go from 5 2 2 5 Cooksville Road, Potomac, Maryland?
+CALLER: George Georgia Avenue and Olney. You should have it worked down. I call I scheduled it with you. Three days ago.
+AGENT: Thanks for that. To confirm, your dropoff is George Georgia Avenue and Olney. Is that correct? Also, just to be sure, you want to be picked up from 5 2 2 5 Cooksville Road in Potomac, Maryland?
+CALLER: Georgia Avenue,
+AGENT: Got it, your dropoff is Georgia Avenue and Olney. Is that right? And your pickup is 5 2 2 5 Cooksville Road in Potomac, Maryland?
+CALLER: Yes.
+AGENT: Thank you for confirming. What time would you like your pickup?
+CALLER: 08:30AM. Today, this morning,
+AGENT: Okay, your pickup is today at 8:30 am from 5 2 2 5 Cooksville Road, Potomac, Maryland, to Georgia Avenue and Olney. Is that correct?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are

@@ -1,0 +1,7 @@
+AGENT: Hi Courtney, this is Ana from Barwood & Regency. Vehicle 582 is on the way and will arrive for your pickup in approximately 15 minutes. How can I assist you today?
+CALLER: Customer service.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: I wanna double check my ride arrival time.
+AGENT: I'll check that for you right now.
+AGENT: Your driver is about 16 minutes away from picking you up at 1:20 pm. Would you like me to help with anything else?
+CALLER: Customer service.

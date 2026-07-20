@@ -1,0 +1,20 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Ralph?
+CALLER: Yes.
+AGENT: Thanks for confirming, Ralph. This is Barwood & Regency. How can I assist you today?
+CALLER: You're right.
+AGENT: Uhh, okay. What can I help you with today? <emotion value="peaceful"/>
+CALLER: Hello?
+AGENT: Yes, I'm here. How can I
+CALLER: A long ride. It's I don't know where it's going. It's supposed connect.
+AGENT: Umm, I want to make sure I understand you correctly. Are you looking to book a long ride but you're not sure of the destination yet, or do you need help with a ride that’s supposed to connect somewhere? <emotion value="hesitant"/>
+CALLER: No.
+AGENT: Alright, could you please tell me a bit more about what you need help with regarding your ride? I'm here to assist you. <emotion value="peaceful"/>
+CALLER: It's it's in Virginia somewhere. I don't know address but Virginia is somewhere.
+AGENT: Okay, so you need a ride to somewhere in Virginia but you don’t have the exact address. Is that right? If you can share any landmarks, city, or place name in Virginia, that would help me find the best option for
+CALLER: Yeah.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+CALLER: Okay. Let me call you back.
+AGENT: I will connect you now so you can call back when you're ready.
+AGENT: Thank you for calling Barwood & Regency, Ralph. Have a wonderful day.

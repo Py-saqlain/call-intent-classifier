@@ -1,0 +1,15 @@
+AGENT: Hello Seung, this is Ana from Barwood & Regency. Your trip scheduled for pickup at 2:14 PM has been updated, and vehicle 1034 is ready to assist you. How can I help you today?
+CALLER: Oh, I think I'm I'm I I gave you what I I'm at eight four two Charlie Charlie c and then Rockville Pike in Rockville.
+AGENT: Uhh, so you mentioned 8 4 2 C C C and Rockville Pike in Rockville as your pickup address? Just to be sure, did you mean 8 4 2 Rockville Pike, Rockville, Maryland? Or is there a specific unit or building with C C C? Could you please confirm? <emotion value="hesitant"/>
+CALLER: Yeah.
+AGENT: Looks like you already have a trip from Rockville to Silver Spring scheduled for today at 2:14 pm. What would you like to do? <emotion value="grateful"/>
+CALLER: what what I have what what time?
+AGENT: Your trip is scheduled for today at 2:14 pm from 8 4 2 Rockville Pike to Silver Spring. Would you like to know anything else? <emotion value="content"/>
+CALLER: Two say again. 2 what? 2. 214?
+AGENT: Yes, your pickup time is today at 2:14 pm. Is there anything else I can help you with? <emotion value="content"/>
+CALLER: Yeah. 14. Yeah. 214. Right?
+AGENT: That's right, 2:14 pm today. Let me know if you need anything else. <emotion value="content"/>
+CALLER: 214. No. Yeah. I'm waiting now. With a wheelchair. Wheelchair. Wheelchair. Yeah.
+AGENT: Okay, I see your trip includes one wheelchair passenger and is scheduled for 2:14 pm today. If you are waiting now and need help, I can connect you with a representative who can assist you right away. Would you like me to do that? <emotion value="sympathetic"/>
+CALLER: Right now. Yeah. I'll pay more. No problem. But, uh, I'm outside in this hot hot sun.
+AGENT: I'm connecting you now to a representative who can assist you right away. Please stay on the line.

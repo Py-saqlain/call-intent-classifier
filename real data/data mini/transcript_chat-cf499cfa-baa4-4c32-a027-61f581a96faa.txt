@@ -1,0 +1,25 @@
+AGENT: Hello Jed, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, I need a cab in
+AGENT: Okay, I can help with that. Could you please tell me where you need the cab
+CALLER: Okay,
+AGENT: Yes, whenever you're ready, just let me know the pickup
+CALLER: From the Giant Food Store.
+AGENT: Thanks for that. Could you please tell
+CALLER: I don't know the address up here.
+AGENT: No problem at all. Could
+CALLER: Yeah. Okay.
+AGENT: Could you please tell me the city or area where the Giant Food Store is located?
+CALLER: The address is
+AGENT: I didn't catch the address. Could you please say it again?
+CALLER: Hold on. Here she comes.
+CALLER: Yeah. We can come on It's 16837 Crabs Branch Way.
+AGENT: Thank you for that. Just to confirm, your pickup address is 1 6
+CALLER: Mhmm.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Hang on. How are you paying cash?
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+CALLER: Operator?
+AGENT: I can help with your booking details — would you like to continue?
+CALLER: Operator?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

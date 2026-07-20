@@ -1,0 +1,41 @@
+AGENT: Hello Kyu, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab.
+AGENT: I'd be happy to help with your ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride
+AGENT: Thanks for choosing Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero zero four nine zero zero.
+AGENT: Thank you, your Call and Ride payment is all set. I'll proceed with arranging your ride now.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 2958 Hewitt Avenue.
+AGENT: I have 2 9 5 8 Hewitt Avenue, Aspen Hill, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 13661 Connecticut Avenue.
+AGENT: I have 1 3 6 6 1 Connecticut Avenue, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Kyu. I'll proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+CALLER: Any cab is good. No.
+AGENT: The estimated fare for your ride is 7.5 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: I don't know.
+AGENT: That's fine, I've recorded your return trip as a will-call trip. How many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Will you be needing a wheelchair-accessible vehicle for the return trip?
+CALLER: One one one one one. No wheelchair.
+AGENT: For your return trip, I have the pickup as 1 3 6 6 1 Connecticut Avenue, Silver Spring, Maryland, and the dropoff as 2 9 5 8 Hewitt Avenue, Aspen Hill, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 7.5 dollars, paying with your Call and Ride card. Should I go ahead and book both trips?
+CALLER: Yeah.
+AGENT: Booking both trips now.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 11:08 AM with confirmation number 2 1 3 6 7 8 0 2 4. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 8 0 2 5; you can call back when you're ready, and a driver will be dispatched then. Is there anything else I can help you with?
+CALLER: What's your estimated wait time on my trip?
+AGENT: Your scheduled trip for today at 11:08 am does not yet have a driver assigned, so there is no estimated wait time available at the moment. I'll keep you posted. Is there anything else?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Kyu. Have a wonderful day!

@@ -1,0 +1,38 @@
+AGENT: Hello Nicolas, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Order taxi for Washington Dane Dallas International Airport.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 28, 25, Sickett Way Olney, Maryland two zero eight three two.
+AGENT: Thank you. Just to confirm, is your pickup address 2 8 2 5 Thickett Way, Olney, Maryland? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I found that location as 2 8 2 5 Thickett Way, Olney, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found Washington Dulles International Airport at 1 Saarinen Circle, Dulles, Virginia. Is that the correct destination? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Nicolas.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Your pickup address is 2825 Thickett Way, Olney, Maryland. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: On July 10, at twelve noon,
+AGENT: Just to confirm, you want to be picked up on July 10th at 12:00 PM noon, correct? <emotion value="peaceful"/>
+AGENT: Okay great! I've got your pickup time as tomorrow at 12:00 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes,
+AGENT: Just to clarify, will there be one passenger needing a wheelchair-accessible vehicle? Or could you please tell me the total number of passengers and how many need wheelchair access? <emotion value="hesitant"/>
+CALLER: Two passengers
+AGENT: Thanks for that. And will either of the two passengers need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: no wheelchair two
+AGENT: Okay great! I've got two passengers and no wheelchairs. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Yes.
+AGENT: Please go ahead and tell me the special instructions or notes for the driver. <emotion value="peaceful"/>
+CALLER: We have four large suitcases and two duffel bags.
+AGENT: Alright, the estimated fare is 93 dollars, paying with Self. You mentioned two passengers with no wheelchairs and special luggage instructions. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for tomorrow at 12:00 PM. Your confirmation number is 2 1 3 6 7 2 1 9 6. Is there anything else I can help you with?
+CALLER: Confirmation number
+AGENT: Your confirmation number is 2 1 3 6 7 2 1 9 6. Is there anything else I can assist you with?
+CALLER: Confirmation number
+AGENT: Your confirmation number is 2 1 3 6 7 2 1 9 6. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Nicolas. Have a great day!

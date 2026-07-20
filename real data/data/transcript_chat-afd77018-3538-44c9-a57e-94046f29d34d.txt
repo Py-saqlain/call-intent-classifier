@@ -1,0 +1,59 @@
+AGENT: Hello Sonny, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I'm trying to to book book book a a a call.
+AGENT: I can help you with booking a ride. Could you please tell me where you would like to be picked up from?
+CALLER: Might be Maldunas?
+AGENT: Thanks for sharing that. Before we continue, could you please let
+CALLER: I'd What one eight zero one Old Georgia Avenue. Rooney.
+AGENT: Thank you for the address. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: You hear me? I'm sure. I said I failed You you need the what do you need? You need the card number? Hello? Hello?
+AGENT: Yes, I hear you. If you would like to pay with a credit card or cash, I can
+CALLER: Hello?
+AGENT: I’m here to help. Could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: I was gonna play.
+AGENT: It sounds like you were going to say your payment method. Could
+CALLER: Cautious pushable.
+AGENT: Just to confirm, did you mean cash as your payment method?
+CALLER: Cash.
+AGENT: Thank you, cash it is. Your payment method is set to cash.
+AGENT: I found several locations related to Maldunas near 3 5 2 5 Bantry Way in Olney, Maryland:
+
+1. Mallard Cove at 3 4 1 4 Morningwood
+CALLER: Yeah. That's what that's where I'm that's my that's my house address.
+AGENT: Thank you for confirming your pickup address as 3 5 2 5 Bantry Way, Olney, Maryland. Now, could you please provide the destination or dropoff address?
+CALLER: No. That that's that's that's that's that's not my pickup. My pickup is at one eight zero one zero Georgia Avenue.
+AGENT: I have 1 8 0 1 0 Georgia Avenue, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yeah. It's going It's going
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Three five two five Bunchie West in Coney, Bay Area.
+AGENT: I couldn't locate the address "3 5 2 5 Bunchie West in Coney Bay Area." Could you please provide the full street address, city, and state for your destination?
+CALLER: No. Three five two five three five two five Banky Way in Ooni, Maryland.
+AGENT: I have 3 5 2 5 Bantry Way, Olney, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Sonny. I will now proceed with arranging your trip.
+AGENT: When would you like to be picked up?
+CALLER: The McDonald's at one eight zero one zero Georgia Avenue
+AGENT: Sure, let me update that address.
+AGENT: I have 1 8 0 1 0 Georgia Avenue, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Phone me. Phone email.
+AGENT: I didn't quite catch that. Could you please provide the pickup address again?
+CALLER: One eight zero one zero Georgia Avenue only o l n e y, Olney, Maryland two zero eight Street.
+AGENT: I have 1 8 0 1 0 Georgia Avenue, Olney, Maryland as your pickup address. Is that correct?
+CALLER: That's correct.
+AGENT: Your pickup address has been successfully updated. What time would you like to schedule your pickup?
+AGENT: When would you like to be picked up?
+CALLER: Right now,
+AGENT: Thank you. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Josh, Josh, it's Josh. Josh Josh just just for me
+AGENT: Thank you for letting me know there is just one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 6 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: Not right now.
+AGENT: Alright, I will skip the return trip for now. Should I go ahead and book your ride for 12:55 pm from 1 8 0 1 0 Georgia Avenue to 3 5 2 5 Bantry Way?
+CALLER: Yes.
+AGENT: Thank you. I am now booking your trip.
+CALLER: Thank you.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 8 1 5 3, and your pickup is today at 12:55 PM. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Sonny. Have a great day!
+CALLER: Thank you.

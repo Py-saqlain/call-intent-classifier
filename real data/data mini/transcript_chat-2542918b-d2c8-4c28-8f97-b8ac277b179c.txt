@@ -1,0 +1,19 @@
+AGENT: Hello Josephine, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would I'm done. I'm done. I I want to camp to go to It's borrowed or I don't understand. Void.
+AGENT: Thanks for sharing that. To help you get your ride set up, could you please tell me how you'd like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: Catch.
+CALLER: Cash.
+AGENT: Thank you, I have your payment as cash.
+AGENT: Could you please tell me your pickup address?
+CALLER: Yes.
+CALLER: It is 7620 Maple Avenue.
+CALLER: Takoma Park. Two zero nine one two.
+AGENT: Just to confirm, your pickup address is seven six two zero Maple Avenue, Takoma Park, Maryland. Is that correct?
+CALLER: Yep. Yes.
+AGENT: I wasn't able to find any locations matching "It's borrowed or I don't understand. Void." Could you please provide the full dropoff address or a nearby landmark to help me find it?
+CALLER: What? It is it is you know, I'm back. Is that yes.
+AGENT: I want to make sure I understand correctly. Could you please provide the full address or a nearby landmark for your dropoff location? This will help me find
+CALLER: The back of my
+AGENT: Could
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Yes. Yes.

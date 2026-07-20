@@ -1,0 +1,38 @@
+AGENT: Hello Sheryl, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes. I need to book a trip for tomorrow morning.
+AGENT: Thank you for letting me know. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card?
+CALLER: Three zero three seven six five.
+AGENT: Thank you for providing your Call and Ride information. Your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your trip tomorrow morning?
+CALLER: Eight nine zero eight sixteenth Street. Silver Spring, Maryland
+AGENT: I have 8 9 0 8 16th Street, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One one nine two three Georgia Avenue
+AGENT: I couldn't locate the address "one one nine two three Georgia Avenue." Could you please provide the city and state for this address?
+CALLER: Silver Springs,
+AGENT: Thank you. Could you please confirm the full dropoff address including the street number, street name, city, and state?
+CALLER: 11933. Georgia Avenue, Silver Springs, Maryland.
+AGENT: I have 1 1 9 3 3 Georgia Avenue, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Sheryl.
+AGENT: You mentioned you want to be picked up tomorrow morning. Is that correct? Please say yes to confirm or let me know if you want a different time.
+CALLER: Mhmm. Yes.
+AGENT: Thank you. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Two passengers. No wheelchair.
+AGENT: Thank you for that information. Do you have any special instructions or notes for the driver?
+CALLER: No. No. Special instruction.
+AGENT: Sheryl, the estimated fare for your trip is 14.5 dollars, paying with your Call And Ride card. Would you like to schedule a return trip as well?
+CALLER: Open ride. Call when it's ready.
+AGENT: Your return trip will be a will-call, meaning you can call when you're ready for pickup. The return trip pickup is at 11933 Georgia Avenue, and the dropoff is at 8908 16th Street. The fare is also 14.5 dollars, paying with your Call And Ride card. Should I go ahead and book both trips?
+CALLER: No.
+AGENT: Just to confirm, you do not want to book both trips right now. Would you like to cancel the entire booking, or just skip the return trip and book only the main trip?
+CALLER: Only the remaining trip, the morning trip.
+AGENT: Thank you for confirming. I am processing your morning trip booking now. Please hold for a moment.
+AGENT: Your morning trip is booked with confirmation number 2 1 3 6 6 9 7 0 8. The pickup is tomorrow at 8:00 AM. Is there anything else I can help you with?
+CALLER: That'd be all. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Sheryl. Have a wonderful day!

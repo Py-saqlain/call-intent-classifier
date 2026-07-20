@@ -1,0 +1,38 @@
+AGENT: Hi John, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Can you send a cab to my house on Friday, 07/10/2026? At at nine ten AM Even my house at one one five two three Georgia Avenue, Silver Springs. Added to 8807 Coastal Road, Silver Springs.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Kong Rai, Con ride, please.
+AGENT: Just to confirm, did you mean Call and Ride? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="hesitant"/>
+CALLER: Three four two nine six one.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+CALLER: Correct.
+AGENT: Okay, so I found your pickup at 1 1 5 2 3 Georgia Avenue, Silver Spring, Maryland, and your dropoff at 8 8 0 7 Colesville Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Your pickup address has been verified.
+AGENT: You mentioned a pickup on Friday, July 10, 2026, at 9:10 AM. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Okay great! How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Just one. Just one.
+AGENT: Thanks for that. Will you be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: Just have him come by my house at 09:10AM on Fridays 07/10/2026. Leaving my house at 11523 Georgia Avenue Silver Spring for 88 or seven calls Road Silver Spring.
+AGENT: Alright, so let me confirm those details. Your pickup is 1 1 5 2 3 Georgia Avenue in Silver Spring. Your dropoff is 8 8 0 7 Colesville Road in Silver Spring. Pickup time is 9:10 AM on Friday, July 10, 2026. You have one passenger, and a wheelchair-accessible vehicle is needed. The estimated fare is 14 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes. Could you have the cab come by at about
+AGENT: You mentioned you'd like a return trip. To make sure
+CALLER: At about twelve noon, Yeah. Twelve noon leaving 8807 Road, Silver Spring for 11523 Georgia Avenue, Silver Spring. At twelve noon on Friday, July tenth twenty twenty six. So seven
+AGENT: Thank you for that. What time would you like to be picked up for your return trip on Friday, July
+CALLER: ten twenty twenty six.
+AGENT: Hmm <break time="300ms"/> sorry, I want to make sure I got that right. Did you mean 10:26 AM on Friday, July 10th? Or something else?
+CALLER: A twelve noon. Twelve
+CALLER: No. On Friday, July 10, have the cap come by eight zero seven cultural roads over spring at 12PM, twelve noon. Going to 11523 Georgia Avenue, Silver Spring.
+AGENT: Thanks for clarifying your return trip pickup at 8 0 7 Coastal Road, Silver Spring, at 12 noon on Friday, July 10th, heading to 1 1 5 2 3 Georgia Avenue, Silver Spring. Now, for your return trip, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: What? No.
+AGENT: I don't have the return trip pickup address recorded yet. Let's continue collecting your return trip details. How many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One. No.
+AGENT: Got it. Just to confirm, for your return trip, the pickup is at 8 8 0 7 Colesville Road, Silver Spring, and the dropoff is at 1 1 5 2 3 Georgia Avenue, Silver Spring. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Alright, so the estimated fare for your return trip is 14 dollars, paying with your Call and Ride account. Should I go ahead and book both trips for you? <emotion value="peaceful"/>
+CALLER: Yes, please.
+AGENT: Your main trip is scheduled for July 10th at 9:10 AM with confirmation number 2 1 3 6 7 0 4 3 6. Your return trip is scheduled for July 10th at 12:00 PM with confirmation number 2 1 3 6 7 0 4 3 7. Is there anything else I can help you with?
+CALLER: No. I'll see the cab driver on July Friday, July tenth twenty twenty six. At at at 09:10AM on Friday, 07/10/2026. Leaving 11523 Georgia Avenue, Silver Spring for 8807 Colesville Road, Silver Spring. And that should be about it.
+AGENT: Thank you for calling Barwood & Regency, John. Have a great day!

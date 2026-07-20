@@ -1,0 +1,28 @@
+AGENT: Hello Kelly, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I wanna taxi cab at 12:00 noon.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: May I have the pickup address for your ride, please? <emotion value="peaceful"/>
+CALLER: One zero one three five Crestwood Road, Kensington.
+AGENT: Okay, so I found 10135 Crestwood Road, Kensington, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the dropoff address? <emotion value="peaceful"/>
+CALLER: Reagan National Airport.
+AGENT: Arrivals or Departures at Ronald Reagan Washington National Airport? <emotion value="peaceful"/>
+CALLER: Departure, Reagan National
+AGENT: Okay, so I found Ronald Reagan Washington National Airport at 2401 Smith Boulevard, Arlington, Virginia for Departures. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: You mentioned a pickup time of 12:00 PM, is that correct? <emotion value="peaceful"/>
+CALLER: 12:00 noon.
+AGENT: Okay great! I've got your pickup time set for today at 12:00 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One and no.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: I have a small dog in a cage.
+AGENT: Alright, so let me confirm those details. Your pickup is 1 0 1 3 5 Crestwood Road. Your dropoff is 2 4 0 1 Smith Boulevard. Pickup time is today at 12:00 PM. One passenger, no wheelchair needed. Payment method is credit card. The estimated fare is 40 dollars, paying with your credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Your ride is booked for today at 12:00 PM. Your confirmation number is 2 1 3 6 7 1 5 7 8. Is there anything else I can help you with?
+CALLER: Could you repeat the number?
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 1 5 7 8. Is there anything else I can assist you with?
+AGENT: Take your time.

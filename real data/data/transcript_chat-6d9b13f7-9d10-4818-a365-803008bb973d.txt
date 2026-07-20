@@ -1,0 +1,34 @@
+AGENT: Hello Bernadette, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Nothing.
+AGENT: Uhh, is there something I can help you with today? Maybe check a booking, schedule a ride, or connect you with someone?
+CALLER: Yes.
+AGENT: Okay, what would you like help with? Are you looking to book a ride, check on a trip, or something else?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Book a vase.
+AGENT: Hmm, I think you meant to say "book a ride," right? If so, I can help you with that. Where would you like to be picked up from?
+CALLER: Yes. One seven zero zero nine lost sight lane.
+AGENT: Okay, just to confirm, is your pickup address 1 7 0 0 9 Moss Side Lane in Olney, Maryland?
+CALLER: Yes.
+AGENT: Great! And where would you like to go?
+CALLER: Three three three three Spartan Road.
+AGENT: Thanks for that. Just to confirm, your dropoff address is 3 3 3 3 Spartan Road in Olney, Maryland, correct?
+CALLER: Yes.
+AGENT: When would you like your pickup?
+CALLER: Now.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Pass. Pass.
+AGENT: Hmmm.. that sounded like "pass." Did you mean to pay with cash? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so your pickup is at 1 7 0 0 9 Moss Side Lane, Olney, Maryland, and your dropoff is at 3 3 3 3 Spartan Road, Olney, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Round trip.
+AGENT: Got it, I'll arrange the return trip once your main trip details are set. Is the pickup at 1 7 0 0 9 Moss Side Lane, Olney, Maryland, and the dropoff at 3 3 3 3 Spartan Road, Olney, Maryland correct? <emotion value="peaceful"/>
+CALLER: One way.
+AGENT: Thank you for confirming. I’m processing your one-way trip now. Please hold on a moment.
+AGENT: Okay, so your pickup is at 1 7 0 0 9 Moss Side Lane, Olney, Maryland, and your dropoff is at 3 3 3 3 Spartan Road, Olney, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. Help.
+AGENT: I can help you with the trip details right now — would you like to continue?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Customer service.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

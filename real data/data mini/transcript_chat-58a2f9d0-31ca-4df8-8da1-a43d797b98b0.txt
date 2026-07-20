@@ -1,0 +1,14 @@
+AGENT: Hello Lucas, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I would like to reserve a cab
+AGENT: Alright, how would you like to pay for your cab ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride. Call arise.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready. Three two seven four nine one.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Nine three zero Bears Mill Road, Rockville, Maryland two zero eight five one.
+AGENT: Hmm <break time="350ms"/> I couldn't find 930 Bears Mill Road in Rockville, Maryland. Could you please double-check the street number and address for your pickup location? <emotion value="apologetic"/>
+CALLER: Nine three zero. Deers Mill Road, Rockville, Maryland two zero eight five one.
+AGENT: I found a location at 1 2 2 1 1 Veirs Mill Road, Silver Spring, Maryland. Is that the correct pickup address? <emotion value="hesitant"/>
+CALLER: No. Customer service, please.

@@ -1,0 +1,17 @@
+AGENT: Hi Michelle, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Call and ride
+AGENT: <emotion value="hesitant"/> Thank you for letting me know you'd like to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero six three three one zero.
+AGENT: <emotion value="grateful"/> Okay so I've got that payment noted as Call And Ride.
+AGENT: <emotion value="peaceful"/> Could you please tell me the pickup address for your ride?
+CALLER: One one nine zero zero Rocking Horse Road.
+AGENT: <emotion value="hesitant"/> Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 1 1 9 0 0 Rocking Horse Road, North Bethesda, Maryland. Is that correct?
+CALLER: No.
+AGENT: <emotion value="apologetic"/> Sorry about that. Could you please provide the correct pickup address again?
+CALLER: 11900 Rocking Horse Road, Rockville, Maryland.
+AGENT: <emotion value="hesitant"/> Hmm <break time="350ms"/> let me check that address.
+AGENT: <emotion value="apologetic"/> I couldn't find 1 1 9 0 0 Rocking Horse Road in Rockville, Maryland. Could you please confirm the city or provide any nearby landmarks to help me find the correct pickup location?
+CALLER: Customer service.
+AGENT: I found a few customer service locations near 11900 Rocking Horse Road. 
+Option one: 1 2 3 5 8 Parklawn Drive, Suite 3 0

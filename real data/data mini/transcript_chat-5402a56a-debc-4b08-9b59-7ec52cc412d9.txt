@@ -1,0 +1,7 @@
+AGENT: Hi Marie, this is Ana from Barwood & Regency. Vehicle 1012 is on the way and will arrive for your pickup in about 10 minutes. How can I assist you today?
+CALLER: Thank you.
+AGENT: How can I assist you with your ride today?
+CALLER: 212 should be here in some minute.
+AGENT: It sounds like your driver is almost there. Is there anything else I can help you with right now?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.

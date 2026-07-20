@@ -1,0 +1,15 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Huong Ngo?
+CALLER: Yes. Speaking.
+AGENT: Thanks, Huong. This is Barwood & Regency. Your ride is scheduled for pickup today at 10:40 AM. How can I assist you today?
+CALLER: So I'm outside with things for the tip. I just want to make sure that we send a cat to pick me up.
+AGENT: Uhh, so you want to make sure a cab is sent to pick you up right now? Let me connect you to the booking team who can confirm or arrange that for you.
+AGENT: Looks like you already have trips scheduled from 531
+CALLER: Yes.
+AGENT: Status, cancel, change, a new trip, or something else?
+CALLER: No. I just want to keep the trip because yesterday, you gave me the the student. Pick me up at 10:30.
+CALLER: The confirmation number is zero one. Three. Six seven six one eight. Seven. Eight five.
+AGENT: Thank you for the confirmation number. Since you want to keep your trip as scheduled, is there anything else I can assist you with?
+CALLER: I just want to make sure that you send the here because I'm outside working for the cab.
+AGENT: Your current trip is already scheduled and a driver will be sent to pick you up as planned. Is there anything else I can help you with?
+CALLER: No, ma'am. That's all I need to know. Thank you so much for your help and your kindness, and have a nice weekend.
+AGENT: Thank you for calling Barwood & Regency, Huong. Have a wonderful day.

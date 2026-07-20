@@ -1,0 +1,38 @@
+AGENT: Hi Maynuna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Buckarize.
+AGENT: Could you please clarify what you mean by "Buckarize"? Are you looking to book a ride or need assistance with something else?
+CALLER: Localize. What's she doing? Don't sit on those chair. Bunch of people that can't walk. Don't walk. Right? They sit there. Bring a chair. Over there. Bring one.
+AGENT: It sounds like you might be describing a situation or giving instructions, but I want to make sure I understand how I can assist you. Are you looking to book a ride or need help with something specific?
+CALLER: Book a ride.
+AGENT: How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call in line.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? If not, please let me know which payment method you'd prefer.
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three two five one six four.
+AGENT: Thank you, your payment with Call and Ride is all set.
+AGENT: Where would you like to be picked up?
+CALLER: 323 Copeley Place, Gaithersburg, Maryland.
+AGENT: I have 3 2 3 Copley Place, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Where would you like to go?
+CALLER: 15608. Circle. Kansas Spring, Rhode Island.
+AGENT: Just to clarify, did you mean 15608 Marathon Circle in Gaithersburg, Maryland, or is this a different address in Kansas Spring, Rhode Island? Could you please confirm or provide more details?
+CALLER: Yes. No. One five six zero eight Gaithersburg, Maryland
+AGENT: I have 1 5 6 0 8 Marathon Circle, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Maynuna.
+AGENT: When would you like to be picked up?
+CALLER: Right now,
+AGENT: How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Three passengers No.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 7.5 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No. Appreciate it.
+AGENT: I will proceed with booking your one-way trip now.
+AGENT: Your main trip is scheduled for today at 1:23 PM. The confirmation number is 2 1 3 6 6 9 4 5 6. Is there anything else I can assist you with?
+CALLER: What about
+AGENT: Could you please complete your question or let me know what you'd like to ask about?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Maynuna. Have a wonderful day!

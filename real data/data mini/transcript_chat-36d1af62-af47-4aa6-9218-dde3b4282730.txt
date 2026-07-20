@@ -1,0 +1,9 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Michelle Wallace?
+CALLER: Yes.
+AGENT: Thanks, Michelle. This is Barwood & Regency. Your trip is scheduled for pickup today at 8:11 AM. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Agent.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

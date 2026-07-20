@@ -1,0 +1,28 @@
+AGENT: Hi Susan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like a pickup from one zero one zero four River Road, Potomac.
+AGENT: Okay, you want a pickup from 1 0 1 0 4 River Road in Potomac. Is that correct?
+CALLER: Yes.
+AGENT: Great! Where would you like to go?
+CALLER: I would like to go to 11708 River Road, Potomac.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so your pickup is 1 0 1 0 4 River Road, Potomac, Maryland, and your dropoff is 1 1 7 0 8 River Road, Potomac, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup and dropoff addresses have been verified, Susan.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Your main trip pickup address is 1 0 1 0 4 River Road, Potomac, Maryland. When would you like to be picked up? <emotion value="peaceful"/>
+When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now at this time,
+AGENT: Okay, I've scheduled your pickup for today at 1:56 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One.
+AGENT: Okay great! I've got one passenger noted. Will you be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, no wheelchair-accessible vehicle needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 10.5 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 1:56 PM. Your confirmation number is 2 1 3 6 7 7 1 0 4. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Susan. Have a wonderful day!

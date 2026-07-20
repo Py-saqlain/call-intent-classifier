@@ -1,0 +1,13 @@
+AGENT: Hi Victoria, this is Ana with Barwood & Regency. Vehicle 355 has arrived at your pickup location. How can I assist you today?
+CALLER: What is cab number?
+AGENT: Could you please clarify what you mean by "cab number"? Are you asking for the number of a specific cab assigned to you, or are you looking for information about a cab service or booking? Let me know so I can assist you better.
+CALLER: Yes.
+AGENT: Okay, so your driver is currently at the pickup location, and the cab number assigned to you is 355. Anything else I can help with?
+CALLER: No.
+AGENT: Vehicle 355 has arrived at your pickup location. Is there anything else you would like to know?
+CALLER: Repeat your question.
+AGENT: Is there anything else you would like to know about your trip?
+CALLER: No.
+AGENT: Vehicle 355 has arrived at your pickup location. Is there anything else you would like to know?
+CALLER: Let me know when the trip has started.
+AGENT: I can't monitor the trip live, but customer support can help with updates like that. Let me connect you to a representative who can assist you right away.

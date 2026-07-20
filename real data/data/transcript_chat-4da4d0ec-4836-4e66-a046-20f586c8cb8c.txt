@@ -1,0 +1,45 @@
+AGENT: Hi Rose, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like the cab for raised for a cab pickup. At a certain time.
+AGENT: Okay, I can help with that. Could you please tell me the pickup address and the time you'd like the cab to arrive?
+CALLER: The pickup address is a Walmart in Germantown. Maryland.
+AGENT: Thanks for that. What time would you like the cab to pick you up at the Walmart in Germantown, Maryland?
+CALLER: What time is it? Ellen would two. One Yeah.
+CALLER: 01:00.
+AGENT: It's currently 11:29 AM. You mentioned 1:00. Would you like the pickup at 1:00 PM today?
+CALLER: Today. It's
+AGENT: Great, so your pickup will be today at 1:00
+CALLER: almost twelve. Right? Yeah.
+AGENT: Yes, it's almost 12:00 PM now. Just to confirm, you want the cab pickup
+CALLER: Yes. Okay.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: I found Walmart Supercenter at 2 0 9 1 0 Frederick Road, Germantown, Maryland. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: Yes. It's a Walmart.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Three nine six. North Summit Avenue, Gettysburg, Maryland.
+AGENT: I found 3 9 6 North Summit Avenue, Gaithersburg, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified. Thank you, Rose. <emotion value="grateful"/>
+AGENT: Just to confirm, your pickup time is today at 1:00 PM. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two. Two.
+AGENT: Okay, I have noted 2 passengers. Will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. One more.
+AGENT: Alright, I've noted no wheelchair needed. Do you have any special instructions or notes for the
+CALLER: Right.
+CALLER: Just that if it's a van, if you would have a step stool just in case.
+AGENT: Thank you for letting me know about the step stool request for a van. The estimated fare is 20 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes. But it with a clock.
+AGENT: Okay
+CALLER: I mean, it would be picked up at one.
+AGENT: Thank you for clarifying that your pickup time is at 1:00 PM. I will proceed with booking your trip for that time. Okay so, booking your ride now. <emotion value="peaceful"/>
+AGENT: Thank you for your patience. I am booking your trip now for today at 1:00 PM with a van and a step stool.
+CALLER: You want tea?
+AGENT: Your main trip is booked for today at 1:00 PM. The confirmation number is 2 1 3 6 7 5 7 0 0. Is there anything else I can help you with?
+CALLER: No. That's it.
+AGENT: Thank you for calling Barwood & Regency, Rose. Have a wonderful day!
+CALLER: You too. Thank you.

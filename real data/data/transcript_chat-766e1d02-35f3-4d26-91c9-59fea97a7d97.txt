@@ -1,0 +1,34 @@
+AGENT: Hello Kyu, this is Ana with Barwood & Regency. I see you have a will-call trip scheduled today from 1 3 6 6 1 Connecticut Avenue in Silver Spring to 2 9 5 8 Hewitt Avenue in Aspen Hill. How can I assist you today?
+CALLER: Cancel.
+AGENT: I found one trip for you, your first trip with pickup from Connecticut Avenue in Silver Spring to Hewitt Avenue in Aspen Hill, scheduled as a will-call. Would you like me to cancel this trip?
+CALLER: Yes.
+AGENT: Your trip number 0 2 1 3 6 7 8 0 2 5 has been cancelled. Is there anything else I can help you with?
+CALLER: I need a new order.
+AGENT: For your new ride, how would you like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Thank you for choosing Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: 004900.
+AGENT: Thank you, your payment method is set to Call And Ride. I will proceed with your booking now.
+AGENT: Could you please tell me the pickup address for your new ride?
+CALLER: 2958 Hewitt Avenue.
+AGENT: I have 2 9 5 8 Hewitt Avenue, Aspen Hill, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: 12207 Versamill Road.
+AGENT: I have 1 2 2 0 7 Veirs Mill Road, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Kyu. I will now proceed with your booking.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One. One.
+AGENT: Thank you. Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 12 dollars, paying with Call and Ride. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 12:24 PM. The confirmation number is 2 1 3 6 7 8 1 3 0. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Kyu. Have a wonderful day.

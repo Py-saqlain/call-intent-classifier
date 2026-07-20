@@ -1,0 +1,17 @@
+AGENT: Hi Natasha, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Hi. Um, I like to have a taxi to pick me. From eighty Biro Drive going to two zero six North Frederick Avenue, by the IHOP.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride. Hold on.
+AGENT: Okay, I understand you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yes. Hold on.
+AGENT: Take your time. Whenever you're ready, just let me know the last six digits of your Call and Ride card. <emotion value="peaceful"/>
+CALLER: One five.
+AGENT: Hmmm.. that didn't seem right, could you please provide the full last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Prevention of what?
+AGENT: I’m sorry, I didn’t catch that. Could you please provide the last six digits of your Call and Ride card? <emotion value="hesitant"/>
+CALLER: Three one five. 751.
+AGENT: Hmmm.. that didn't seem right, could you please say the last six digits of your Call and Ride card again, all six digits together? <emotion value="apologetic"/>
+CALLER: That's what I'm doing.
+AGENT: I appreciate that. Could you please say the six digits slowly and clearly, one after another? That will help me get them right. <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Five, seven five one

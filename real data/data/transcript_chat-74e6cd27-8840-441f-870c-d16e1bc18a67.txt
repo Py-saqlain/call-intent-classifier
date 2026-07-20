@@ -1,0 +1,32 @@
+AGENT: Hi Veronica, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: K.
+AGENT: How can I assist you with your ride today?
+CALLER: A cab.
+AGENT: Thank you for choosing us for your cab ride. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Right home. Cash. Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: May I please have your pickup address to start the booking?
+CALLER: 8700 Road, Chevy Chase Mills.
+AGENT: I found a similar address from recent trips: 8700 Jones Mill Road, Chevy Chase, Maryland. Is that the correct pickup location?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 3145 North Pleasant Street Northwest DC.
+AGENT: I have 3 1 4 5 Mount Pleasant Street Northwest, Washington, District of Columbia as the dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Veronica. I will now proceed with your booking.
+AGENT: When would you like to be picked up?
+CALLER: No.
+AGENT: Just to clarify, did you mean you want to be picked up right now, or would you prefer a will-call trip where you call us back when you're ready?
+CALLER: Yes. Now.
+AGENT: Thank you. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 20 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 3:07 PM. Your confirmation number is 2 1 3 6 6 6 9 8 2. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Veronica. Have a wonderful day!

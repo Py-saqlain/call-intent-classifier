@@ -1,0 +1,16 @@
+AGENT: Hello madge, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Customer service.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Yeah. I'm calling the cab now for him. I'm calling the cab now for him.
+AGENT: Alright, how would you like to pay for the ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Alright. We'll just bring it
+AGENT: Hmmm.. that didn't seem clear, could you please tell me how you would like to pay? Cash, credit card, or Call and Ride? <emotion value="apologetic"/>
+CALLER: Alright. Thank you. Alright.
+AGENT: If you would like to proceed with booking, please let me know how you would like to pay for the ride: cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: It's right here, Emma. Customer service.
+CALLER: Trouble. Mm-mm.
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: Customer service. Using a voucher.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Person.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

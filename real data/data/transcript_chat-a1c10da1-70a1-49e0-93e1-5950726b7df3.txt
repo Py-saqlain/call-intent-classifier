@@ -1,0 +1,45 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: My name is Foini.
+AGENT: Thanks, Foini. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need to talk to you, please. For now.
+AGENT: Okay, I'm here to help. What can I assist you with today?
+CALLER: Hello? Yeah. Taxi, transportation, taxi. I need taxi white.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address where the driver should meet you? <emotion value="peaceful"/>
+CALLER: Two one three one no. I mean, sorry. One four one two zero with Spring I c t twelve apartment number twelve.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I couldn't find an exact match for that address. I found a location at 8811 Colesville Road, Silver Spring, Maryland 20910. Is that the correct pickup location? <emotion value="hesitant"/>
+CALLER: No. My address is one four one two zero Whispering? Eye p I n e C, t one two apartment 12 Apartment 12.
+AGENT: Okay, so you said one four one two zero Whispering I Pine Circle, apartment twelve, correct? <emotion value="peaceful"/>
+AGENT: Okay, so I found the address as one four one two zero Whispering Pines Court, Aspen Hill, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: My address is it could it should be to Iraq ville Compass
+AGENT: Could you please clarify the dropoff address? Did you mean "Iraqville Compass" or something else? <emotion value="hesitant"/>
+CALLER: Yes. Rockville. Rockville.
+AGENT: Thank you. So the dropoff address is Iraqville Compass, Rockville, Maryland, correct? <emotion value="peaceful"/>
+AGENT: I couldn't find a location called Iraqville Compass in Rockville. Could you please provide the full street address or any nearby landmark for the dropoff? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay. It's safe to walk through. And MANN a k e. E, we will do boom m k, 103. Is the correct
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I couldn't find a location at 103 Mannakee E, Rockville. Could you please provide the full street address or any other nearby landmark for the dropoff? <emotion value="hesitant"/>
+CALLER: Okay. Second, let me give you.
+AGENT: Sure, take your time. Whenever you're ready, please provide the dropoff address. <emotion value="peaceful"/>
+CALLER: Russell Compass Brassica
+AGENT: Could you please confirm if the dropoff address is Russell Compass, Brassica, Rockville, Maryland? <emotion value="hesitant"/>
+CALLER: and Brady's. Yes. Yes. And I don't mind. Rockville's Compass Manaqin, M A N N A t e e. Beauty, nine, zero zero And so it's HUN U there? Hello?
+AGENT: Thank you for the details. To make sure I have it right, is the dropoff address 900 Mannakee Beauty, Rockville, Maryland? <emotion value="peaceful"/>
+CALLER: Yeah. You get it?
+AGENT: Okay, just to confirm, the dropoff address is nine zero zero Mannakee Beauty, Rockville, Maryland, correct? <emotion value="peaceful"/>
+CALLER: Yeah. It's like, um, Baroqueville Compass. Is it? Is it the walking burial compass?
+AGENT: I want to make sure I understand correctly. Are you saying the dropoff is near the walking burial compass in Rockville? Could you please confirm or clarify the exact address? <emotion value="hesitant"/>
+CALLER: Rockville?
+AGENT: Thank you. So the dropoff is near the walking burial compass in Rockville, Maryland, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I couldn't find a location called walking burial compass in Rockville, Maryland. Could you please provide the full street address or another nearby landmark for the dropoff? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Could you please provide the full street address or another nearby landmark for the dropoff location? <emotion value="peaceful"/>
+CALLER: Was, like, a let me read it for you. Okay. One second. Listen to me. It's like Rockville Compass.
+AGENT: Thank you. Could you please provide the full street address or a nearby landmark for Rockville Compass so I can find the exact dropoff location? <emotion value="peaceful"/>

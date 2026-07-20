@@ -1,0 +1,54 @@
+AGENT: Hello Caroline, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi. How you doing?
+AGENT: How can I assist you with your ride today?
+CALLER: Hello? Can you please send a cab to one six one zero zero Crab Branch Way, Delvin, Maryland
+AGENT: Thank you for providing the pickup address at 1 6 1 0 0 Crab Branch Way, Delvin, Maryland. How would you like to pay for your ride? We accept cash, credit card, and
+CALLER: Calling by. Call in ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero six eight five six six.
+AGENT: Thank you, your payment method is set to Call and Ride.
+AGENT: I have the
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Six six five five Wilkinson Road.
+AGENT: Thank you for the dropoff address at 6 6 5 5 Wilkinson Road. Let me check that for you.
+CALLER: Oh, no. No. Six six five
+AGENT: I understand
+CALLER: six five five It's six five five Wilkinson Mill Road.
+AGENT: Thank you for the correction. Let me look up 6 5 5 Wilkinson Mill Road for you.
+AGENT: I couldn't find 6 5 5 Wilkinson Mill Road near your pickup location. Could you please provide the full address including the city and state?
+CALLER: Six five five, Walkers Mill Road, Gettysburg, Maryland
+AGENT: Thank you for the updated dropoff address at 6 5 5 Walkers Mill Road, Gettysburg, Maryland. Let me check that for you.
+AGENT: I found several locations related to 6 5 5 Walkers Mill Road, but none exactly match that address in Gettysburg, Maryland. Here are some options nearby:
+
+1. 655 Cedar Spring
+CALLER: It is six six is six five five Walkersen Walkersenville Road, Daleway I mean, Walkersenville Road, Gaithersburg, Maryland.
+AGENT: Thank you for the clarification. You said 6 5 5 Walkersenville Road, Gaithersburg, Maryland. Let me check that address for you.
+AGENT: I found Kaiser Permanente Gaithersburg Medical Center at 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. Is this the dropoff location you want?
+CALLER: Right. That's right.
+AGENT: Your dropoff address has been verified, Caroline.
+AGENT: When would you like to be picked up?
+CALLER: I would like to be picked up right
+AGENT: Thank you. How many passengers will be traveling, including yourself? And will you need a
+CALLER: at this minute. Five one passenger.
+AGENT: Thank you for letting me know there will be 5 passengers. Will you be needing a wheelchair accessible vehicle?
+CALLER: No. One one five It'll be one passenger.
+AGENT: Got it, I have updated the passenger count to 1 and no wheelchair needed. Do you have any special instructions for the driver?
+CALLER: Yeah. No one. No one.
+AGENT: The estimated fare for your trip is 18 dollars, and you will be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No. I'll call back later.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your trip is scheduled for today at 2:18 PM. The confirmation number is 2 1 3 6 6 4 7 3 8. Is there anything else I can assist you with?
+CALLER: No. Not at the moment. But but no no I don't want no one. N o no v a n.
+AGENT: I understand you don't want a van. If you need to communicate anything to the driver or have any issues, I can't contact the driver directly, but I can connect you with a representative who can assist you. Would you like me to do that?
+CALLER: No. I'll I'll I'll go with the driver.
+AGENT: Alright, take your time getting ready. If you need any further assistance, just let me know. Is there anything else I can help you with right now?
+CALLER: How long they gonna take?
+AGENT: Your trip is active and scheduled for pickup at 2:18 PM, but no driver has been assigned yet. I'll keep you posted if anything changes. Is there anything else I can help with?
+CALLER: No. Not at the moment.
+AGENT: Take your time getting ready. If there's anything else you need, just let me know.
+CALLER: Okay.
+AGENT: Is there anything else I can assist you with today?
+CALLER: No. Not at the moment.
+AGENT: Thank you for calling Barwood & Regency, Caroline. Have a wonderful day!
+CALLER: Thank you. Bye.

@@ -1,0 +1,12 @@
+AGENT: Hello Katrina, this is Ana with Barwood & Regency. Vehicle 257 is on the way and will arrive for pickup by 6:13 pm, approximately 24 hours from now. How can I assist you today?
+CALLER: Yes. I need to be picked up right now. And I've been waiting for over an hour. Yes.
+AGENT: Okay, so your driver is about 3 minutes away from picking you up at 8 7 5 0 Arliss Street. Is there anything else I can help you with? <emotion value="content"/>
+CALLER: And it's 616, not 613.
+AGENT: Thank you for the update. Your driver is about 3 minutes away, and the current time is 6:16 pm. Is there anything else I can assist you with? <emotion value="content"/>
+AGENT: Thanks for clarifying the time as 6:16 pm. Your driver is about 3 minutes away from 8 7 5 0 Arliss Street. Anything else I can do for you? <emotion value="content"/>
+CALLER: What is the vehicle number? What The vehicle number. What is
+AGENT: Your vehicle number is 2 5 7. Is there anything else you would like to know? <emotion value="content"/>
+CALLER: yes. Yes. What is the vehicle number?
+AGENT: Your vehicle number is 2 5 7. Is there anything else I can help with? <emotion value="content"/>
+CALLER: Yes. Okay. Can I yes? Would like to speak to a person.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

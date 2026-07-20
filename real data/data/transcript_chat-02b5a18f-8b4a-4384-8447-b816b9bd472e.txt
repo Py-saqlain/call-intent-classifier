@@ -1,0 +1,34 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Thanks for calling, Kristel. How can I assist you today?
+CALLER: To book a trip. To the airport
+AGENT: Alright, how would you like to pay for your trip to the airport? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Carrie, credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip to the airport? <emotion value="peaceful"/>
+CALLER: Seventy five zero three Hamilton Spring Road, Bethesda, Maryland two zero eight one seven.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is seven five zero three Hamilton Spring Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thank you. I will now verify your pickup address. <emotion value="peaceful"/>
+AGENT: Your pickup address has been verified. Now I will look for the airport location for your dropoff. <emotion value="peaceful"/>
+AGENT: I found a few airports.  
+Option one: 7 9 4 0 Airpark Road, Gaithersburg, Maryland.  
+Option two: 7 2 0 0 Hawkins Creamery Road, Gaithersburg, Maryland.  
+Option three: 1 9 7 3 Gillis Falls Road, Woodbine, Maryland.  
+Option four: 9 6 1 1 Reichs Ford Road, Ijamsville, Maryland.  
+Option five: 1 9 0 9 Corporal Frank Scott Drive, College Park, Maryland.  
+Which one would you like to use? <emotion value="peaceful"/>
+CALLER: International Airport
+AGENT: Could you please specify the city or state for the international airport you mean? That will help me find the exact location for you. <emotion value="peaceful"/>
+CALLER: Dallas, Virginia.
+AGENT: Hmm <break time="350ms"/> let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so your dropoff address is Saarinen Circle, Sterling, Virginia. Is that correct? <emotion value="peaceful"/>
+CALLER: Virginia. Can I speak with someone?
+AGENT: I will connect you to a live agent now.
+CALLER: Thank you.
+AGENT: Thank you for calling. Have a great day, Kristel.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Ready.
+CALLER: Hello?
+AGENT: Hi there! How can I assist you with your ride today?
+CALLER: Can I speak with someone?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

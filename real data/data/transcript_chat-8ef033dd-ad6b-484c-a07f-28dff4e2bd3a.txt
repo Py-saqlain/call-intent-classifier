@@ -1,0 +1,38 @@
+AGENT: Hi Jennifer, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: New appoint new new reservation.
+AGENT: Uhh, I can help you with that. Let me get some details for your new reservation. Where would you like to be picked up from? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your reservation? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your reservation? <emotion value="peaceful"/>
+CALLER: One five one zero one interlocking Drive, Silver Spring, Maryland
+AGENT: Okay, so I found the pickup address as one five one zero one Interlachen Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Eight hundred South Frederick Avenue,
+CALLER: Gaithersburg, Maryland.
+AGENT: Okay, so I found the dropoff address as eight hundred South Frederick Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Jennifer. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Ten AM on July 10.
+AGENT: Just to confirm, you said ten AM on July 10th, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time noted for tomorrow at 10:00 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One and yes.
+AGENT: Okay great! I've got one passenger and one wheelchair-accessible vehicle needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 26 dollars, paying with Self. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: I Yes.
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Will call
+AGENT: Okay, your return trip is set as a will-call trip. <emotion value="grateful"/> How many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One One. And yes.
+AGENT: Okay, for your return trip, I have the pickup as eight hundred South Frederick Avenue, Gaithersburg, Maryland, and the dropoff as one five one zero one Interlachen Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 26 dollars, paying with Self. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your main trip is scheduled for tomorrow at 10:00 AM with confirmation number 2 1 3 6 7 2 2 2 3. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 2 2 2 4. You can call back when you are ready for the return trip and a driver will be dispatched then. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Jennifer. Have a wonderful day!
+CALLER: Oh, thank you.

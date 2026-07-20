@@ -1,0 +1,14 @@
+AGENT: Hello Marcus, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Pickup.
+AGENT: Uhh, could you please tell me the pickup address you'd like for your ride? <emotion value="peaceful"/>
+CALLER: Yes. Eight nine zero one Wisconsin Avenue,
+CALLER: Bethesda, Maryland two zero eight one four. ER entrance.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Colon ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: 23076.
+AGENT: Hmmm.. that didn't seem right, could you please provide the last six digits of your Call and Ride card again? <emotion value="apologetic"/>
+CALLER: Two three zero seven six star.
+AGENT: Hmmm.. that still doesn't seem to be six digits. Could you please say the last six digits of your Call and Ride card again, just the numbers? <emotion value="apologetic"/>

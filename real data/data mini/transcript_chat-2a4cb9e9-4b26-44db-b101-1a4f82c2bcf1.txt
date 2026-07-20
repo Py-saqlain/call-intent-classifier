@@ -1,0 +1,14 @@
+AGENT: Hi Cheryl, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I'd like to, have someone picked up and pay on my debit card
+AGENT: Okay so I've got that payment noted as Credit Card.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: One one three four two. King George Drive, Wheaton, Maryland
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found your pickup address as one one three four two King George Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: The corner across from Jennifer Street Metro on Wisconsin Drive.
+AGENT: Uh, I am sorry, but could you please provide the street number or a more specific address on Wisconsin Drive near Jennifer Street Metro?
+CALLER: I think it's one one eight four one one eight four Wisconsin Drive,
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I couldn't find that address on Wisconsin Drive. Could you please provide the city and state for that address?

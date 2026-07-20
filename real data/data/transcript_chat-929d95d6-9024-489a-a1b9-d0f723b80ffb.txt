@@ -1,0 +1,28 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Princess Frazer?
+CALLER: Thank you.
+AGENT: Thanks for calling Barwood & Regency, Princess. How can I help you today?
+CALLER: I have to I need a cup
+AGENT: Uhh, I want to make sure I understand you correctly. Are you looking to book a ride with us?
+CALLER: Yes.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: 9199.
+AGENT: Hmmm.. that didn't seem right, could you please provide the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: 339199.
+AGENT: Okay so I've got that payment noted as Call And Ride.
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: One three six one four. Stargazer Lane, She was Spring, Maryland two zero nine zero six.
+AGENT: Okay, so your pickup address is one three six one four Stargazer Lane, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Glen Moss Station 12501.
+AGENT: Hmm <break time="350ms"/> I couldn't find a location for Glen Moss Station 12501. Could you please provide the full address or another nearby landmark? <emotion value="apologetic"/>
+CALLER: Georgia Avenue wing.
+AGENT: I found a few locations for Georgia Avenue wing.  
+Option one: 1 4 3 5 5 Georgia Avenue, Aspen Hill.  
+Option two: 1 2 3 3 5 Georgia Avenue, Aspen Hill.  
+Option three: 1 2 3 3 5-a Georgia Avenue, Silver Spring.  
+Option four: 1 2 4 0 5 Georgia Avenue, Silver Spring.  
+Option five: 1 3 6 2 3 Georgia Avenue, Silver Spring.
+CALLER: No.

@@ -1,0 +1,31 @@
+AGENT: Hello NCSTest143, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab
+AGENT: I'm happy to help you with your cab ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the address where you'd like to be picked up?
+CALLER: Three zero nine. Westside Drive, Apartment 104, Gaithersburg, Maryland 20878.
+AGENT: I have 3 0 9 West Side Drive, Gaithersburg, Maryland for your pickup address. Is that correct?
+CALLER: Yes. Apartment 104.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: It's five six two North Frederick Avenue, s p c four a. In Gaithersburg, Maryland.
+AGENT: I found a similar address: 5 4 6 North Frederick Avenue, Gaithersburg, Maryland. Is that the correct dropoff location?
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please repeat the dropoff address again?
+CALLER: Five six two. North Frederick Avenue, s p c four a. Gaithersburg, Maryland
+AGENT: I have 5 6 2 North Frederick Avenue, Gaithersburg, Maryland for your dropoff address. Is that correct?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, NCSTest143.
+AGENT: When would you like to be picked up?
+CALLER: Right now.
+AGENT: How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Just one, and no one would need a special. Anything.
+AGENT: Do you have any special instructions or requests for the driver?
+CALLER: No, I don't.
+AGENT: The estimated fare for your trip is 10.5 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 2:27 pm. Your confirmation number is 2 1 3 6 7 9 5 7 3. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, NCSTest143. Have a
+CALLER: To call when he gets here.

@@ -1,0 +1,43 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Hey. How are doing? Shell.
+AGENT: Hi Shell, nice to meet you. Thanks for sharing your name. How can I assist you today with Barwood & Regency?
+CALLER: I need a taxi cab and fifteen nine zero three Summerville Road, Katy Grove Station.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: How are you gonna ex how are gonna pay for your ride?
+AGENT: I’m here to help you with that. You can choose to pay with cash, credit card, or Call and Ride. Which one would you prefer? <emotion value="peaceful"/>
+CALLER: She says she has cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Shell, could you please tell me the pickup address where the driver should come to get you? <emotion value="peaceful"/>
+CALLER: Just told you. Goddamn it.
+AGENT: I understand, Shell. You mentioned fifteen nine zero three Summerville Road, Katy Grove Station. Let me check that address for you. <emotion value="peaceful"/>
+AGENT: Okay, Shell, I found the address as one five nine zero three Somerville Drive, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Grove Hospital.
+AGENT: I found a few locations for Grove Hospital. 
+Option one: 9033 Gaither Road, Gaithersburg, Maryland. 
+Option two: 1396 Piccard Drive, Rockville, Maryland. 
+Option three: 14901 Broschart Road, Rockville, Maryland. 
+Option four: 9901 Medical Center Drive, Rockville, Maryland. 
+Option five: 1001 East 18th Street, Grove, Oklahoma. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Number number two.
+AGENT: Your dropoff address has been verified, Shell.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now.
+AGENT: Okay great! I've got your pickup time as right now, today at 11:39 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes.
+AGENT: Okay, I've noted that a wheelchair-accessible vehicle is needed. <emotion value="grateful"/> How many passengers will be traveling, including yourself?
+CALLER: One One.
+AGENT: Okay great! I've got 1 passenger including yourself. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No. Just just one person. One passenger.
+AGENT: Alright, the estimated fare is 8 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so <break time="250ms"/> I am booking your trip now. <emotion value="grateful"/>
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 5 3 0 6. Your pickup is today at 11:39 PM. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: I’m sorry, I still need your name to get started. Could you please tell me your name?
+CALLER: Sure thing. Reason Marine.
+AGENT: Thanks, Reason. This is Ana from Barwood & Regency. How can I help you today?

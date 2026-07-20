@@ -1,0 +1,37 @@
+AGENT: Hello Joan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm calling to request a taxi.
+CALLER: A cab.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Okay. One second.
+AGENT: Take your time. I'm here when you're ready. <emotion value="peaceful"/>
+CALLER: Hold on one minute. I'm sorry.
+AGENT: No problem at all, take your time. Just let me know when you're ready. <emotion value="peaceful"/>
+CALLER: One one one two two nine three Tech Road,
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I'm sorry, but I couldn't find that address. Could you please provide the full street address including the city and
+CALLER: Okay.
+AGENT: Could you please provide the full street address including the city and state for your pickup location? <emotion
+CALLER: It's one one two nine tech The 1129 Tech Road, Silver Spring, Maryland.
+AGENT: Okay, let me check that address for you.
+AGENT: I found a location called 3160 Gracefield Road Unit 1129,
+CALLER: Okay.
+AGENT: Okay, so your pickup address is 3 1 6 0 Gracefield Road, Silver Spring,
+CALLER: It's two one
+AGENT: Just to clarify, is your pickup address 2 1 6 0 Gracefield Road, Silver Spring, Maryland? <emotion
+CALLER: No.
+CALLER: No. No, ma'am. It's two one two nine
+AGENT: Thank you for the correction. So your pickup address is 2 1 2 9 Tech Road, Silver Spring, Maryland, is that right? <emotion value="hesitant"/>
+CALLER: Yeah. Yeah.
+CALLER: Yes. I'm at the Capital One Bank.
+AGENT: Okay, let me check that address for you.
+AGENT: I found a location called 3160 Gracefield Road Unit 2129, Silver Spring, Maryland. Is that the correct pickup location?
+CALLER: No, ma'am. This is
+AGENT: I’m here to help. Could you please provide the correct pickup address again?
+CALLER: Okay. Could you hold on for a moment so I can just go I don't wanna be hollering. Could you hold on for just one moment? Please? Can you hold on for one moment, ma'am? Yes or no? Hello? Hello?
+AGENT: Yes, I’m here and I’m happy to wait. Take your time and let me know when you’re ready. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Thank you.
+AGENT: You're welcome. Whenever you're ready, please provide the pickup address. <emotion value="peaceful"/>

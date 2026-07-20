@@ -1,0 +1,33 @@
+AGENT: Hi Stacey, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Pickup.
+AGENT: Could you please tell me the address or location where you'd like to be picked up?
+CALLER: Seven nine zero eight.
+AGENT: Thank you. Could you please provide the street name and city for the pickup address at 7 9 0 8?
+CALLER: That is
+AGENT: I didn't catch the street name and city. Could you please say the full pickup address including the street name and city?
+CALLER: Can't just bear it now. Two zero eight seven nine spelled b a d e n l o c k, Wayne.
+AGENT: Just to confirm, your pickup address is 2 0 8 7 9 Badenloch Way. Could you please confirm the city for this address?
+CALLER: That's the wrong address.
+AGENT: Thank you for letting me know. Could you please provide the correct pickup address again?
+CALLER: Feb, nine zero zero bathing lock Way,
+AGENT: I want to make sure I have it right. Did you mean 9 0 0 Badenloch Way? Could you please confirm the city for this address?
+CALLER: No. No. That's it. This Nine. Then it's a zero zero fading lock wang.
+AGENT: Thank you for clarifying. Just to confirm, your pickup address is 9 0 0 Badenloch Way. Could you please tell me the city for this address?
+CALLER: No. It's not.
+AGENT: I want to make sure I get your pickup address exactly right. Could you please say the full address again slowly, including the street number, street name, and city?
+CALLER: No. It's not. It's not that. It's a 7 can't you hear? It is seven. It is
+AGENT: I understand you said the number is seven. Could you please say the full street number, street name, and city for your pickup address one more time? I'll make sure to get it right.
+CALLER: It is 7. Zero zero Bayden Lock West.
+AGENT: Thank you for confirming your pickup address as 7 0 0 Badenloch Way. Now, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: It's 7900 Bayonne Lock West.
+AGENT: Thank you for the correction. Your pickup address is 7 9 0 0 Badenloch Way. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: That's the correct address.
+AGENT: Great, thank you for confirming the address as 7 9 0 0 Badenloch Way. Now, could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you for letting me know. Your payment method is set to credit card.
+AGENT: I wasn't able to locate 7 0 0 Badenloch Way. Could you please provide the city and state for this address?
+CALLER: Jasersburg, Maryland 20879.
+AGENT: I couldn't find an exact match for 7 0 0 Badenloch Way in Jasersburg, Maryland. However, I found a location at 7 6 2 1 Rickenbacker Drive Suite 7 0 0, Gaithersburg, Maryland 2 0 8 7 9. Is this the correct pickup location?
+CALLER: No. It's not.
+AGENT: Thank you for letting me know. Could you please provide the full pickup address again, including the street number, street name, city, and state?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

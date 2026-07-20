@@ -1,0 +1,5 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Andrea Gaspare?
+CALLER: Yes.
+AGENT: Thanks for confirming, Andrea. This is Ana from Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.

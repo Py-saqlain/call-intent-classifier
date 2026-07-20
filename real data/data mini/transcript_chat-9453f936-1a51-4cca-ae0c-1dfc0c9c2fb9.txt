@@ -1,0 +1,18 @@
+AGENT: Hello Dee, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I have a lady here trying to find out if her cab is on the way.
+AGENT: Alright, I will check the status of her trip for you.
+AGENT: It looks like there is no active trip scheduled for her right now. Would you like me to help book a ride for her?
+CALLER: No. This is for somebody different. It's e l l e n e She just called.
+AGENT: Thanks for clarifying the name is Ellene. Let me check if there is an active trip for Ellene right now.
+AGENT: I had trouble looking up Ellene's trips with the information I have. Could you please provide her phone number or any other details to help me find her profile?
+CALLER: Three zero one four six nine four eight five six. All automated. I know.
+AGENT: Thank you for the phone number 3 0 1 4 6 9 4 8 5 6. I'll check for Ellene's trip status now.
+AGENT: Hmm, I'm having trouble accessing Ellene's profile with the current information. To make sure I get it right, could you please confirm if Ellene is registered under a different phone number or if there is another way to identify her in our system?
+CALLER: No. That's the only number. Would you like the number again?
+AGENT: Yes, please provide the number again so I can make sure I have it exactly right.
+CALLER: Three zero one four six nine four eight five six.
+AGENT: Hmm, I couldn't find a profile or active trip for Ellene with that number. Would you like me to connect you to a live representative who can assist further?
+CALLER: Yes. I would, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: They're connecting me to somebody live now. Batch. That was all automate
+AGENT: I

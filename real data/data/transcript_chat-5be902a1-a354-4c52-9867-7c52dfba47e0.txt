@@ -1,0 +1,42 @@
+AGENT: Hello Jeanne, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Oh, yes. Good morning. I like to book a taxi to
+AGENT: Sure, I can help with that. Could you please tell me the pickup address for your taxi?
+CALLER: Kaiser. Yes.
+AGENT: Thank you. Just to be sure, are you asking for a pickup from your home address at 1 9 9 Rollins Avenue in Rockville to Kaiser? And do you have a preferred time for the pickup?
+CALLER: No. Tomorrow morning, nine four five 09:45.
+AGENT: Thank you for that. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Oh, call and then write.
+AGENT: Just to confirm, did you mean Call and Ride? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: A two three two.
+AGENT: The digits you provided seem to be only three. Could you please provide the full last six digits of your Call and Ride card?
+CALLER: Last six how many digits are you
+AGENT: The last six digits means the final six numbers on the back of your Call and Ride card. Could you please read all six digits for me?
+CALLER: Six okay. I'm sorry. I just read the four. Three four eight two three two.
+AGENT: Thank you for providing the digits. Your payment method is Call and Ride.
+AGENT: I have 199 Rollins Avenue, Rockville, Maryland for your pickup. Is that correct?
+CALLER: Mhmm. Yes.
+AGENT: I found several locations for Kaiser Permanente, all at 655 Watkins Mill Road, Gaithersburg, Maryland. Which one would you like to use?
+CALLER: The one on Connecticut Avenue, Kensington.
+AGENT: I found Kaiser Permanente Kensington Medical Center at 1 0 8 1 0 Connecticut Avenue, Kensington, Maryland. Is that the correct dropoff location?
+CALLER: Yeah. Correct.
+AGENT: Your dropoff address has been verified, Jeanne. I will now proceed with the next step.
+AGENT: You mentioned a pickup time of tomorrow at 9:45 am. Is that correct?
+CALLER: Exactly nine forty five am Just because of the appointment at the tenth forty five.
+AGENT: Thank you for confirming the pickup time. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No vehicle needed. Just for two people.
+AGENT: Got it, two passengers and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: It's so nice to ask these kind of questions. As a lot as as a nice and reliable child is is good.
+AGENT: The estimated fare for your trip is 16.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well?
+CALLER: You mean make a round trip? Because it's harder to make a I don't know when finish the you know, doctor visit. I I'm not sure.
+AGENT: That's completely understandable. If you'd like, I can just book this one-way trip for you now, and if you decide later that you want a return trip, you can call us to arrange it then. Would you prefer to do that?
+CALLER: Yeah. Yeah. Yeah. Yeah.
+AGENT: Thank you for your patience. I'm processing your one-way trip booking now.
+CALLER: Oh, okay.
+AGENT: I'm still working on your booking. Please hold on just a moment.
+AGENT: Your main trip is scheduled for tomorrow at 9:45 AM. The confirmation number is 2 1 3 6 7 9 2 7 6. Is there anything else I can help you with?
+AGENT: I'm still working on your booking. Please hold on just a moment.
+AGENT: Your main trip is scheduled for tomorrow at 9:45 AM. The confirmation number is 2 1 3 6 7 9 2 7 6. Is there anything else I can help you with?
+CALLER: Could you could you please slowly repeat the confirmation number?
+AGENT: Certainly. The confirmation number is 2 1 3 6 7 9 2 7 6. Is there anything else I can assist you with?
+CALLER: That's all for today.
+AGENT: Thank you for calling Barwood & Regency, Jeanne. Have a wonderful day.

@@ -1,0 +1,59 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Expensive, though. Your lunch button is gonna help. My name is Jenny. I'm here at the Charterhouse Senior Community Apartments. On Fenwick Lane, in Silver Spring. Maryland. I'm ready.
+AGENT: Thanks, Jenny. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yes. I'm at the Charterhouse Senior Community building on Fenwick Lane, in Silver Spring, Maryland.
+AGENT: Alright, Jenny, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Pass. Pass.
+AGENT: Hmmm.. that didn't seem right, could you please confirm if you meant cash? If not, could you tell me which payment method you'd prefer? <emotion value="hesitant"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Hmm <break time="350ms"/> I couldn't find the Charterhouse Senior Community Apartments on Fenwick Lane in Silver Spring, Maryland. Could you please provide the full street number for the building or any nearby landmark? <emotion value="apologetic"/>
+CALLER: Yes. It's the Charterhouse
+AGENT: Thanks for that. Could you please provide the street number for the Charterhouse on Fenwick Lane in Silver Spring, Maryland? That will help me find the exact location. <emotion value="peaceful"/>
+CALLER: What's the full street number here? Thirteen
+AGENT: Okay, so the street number is 13. Let me check that address for you. <emotion value="peaceful"/>
+AGENT: I couldn't find 13 Fenwick Lane in Silver Spring, but I found a location at 8818 Georgia Avenue, apartment number 13, Silver Spring, Maryland 2 0 9 1 0. Is that the correct pickup location? <emotion value="hesitant"/>
+CALLER: sixteen, Fenwick Lane. Sixteen. Thirteen six god. This lady is dead. 1316.
+AGENT: Okay, let me check 1 3 1 6 Fenwick Lane, Silver Spring, Maryland for you. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is 1 3 1 6 Fenwick Lane, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. It's third thirteen sixteen. Right. Hello? Yeah.
+AGENT: I want to make sure I have this right. Could you please repeat the street number and name for your pickup address one more time? <emotion value="peaceful"/>
+CALLER: Correct. Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: The destination is Wheaton Mall. AMC Theater,
+AGENT: Thank you. Let me look up Wheaton Mall AMC Theater for you. <emotion value="peaceful"/>
+AGENT: I found AMC Wheaton Mall 9 at 1 1 0 0 6 Veirs Mill Road, Wheaton, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Our meeting is right next to the. Could you please say that again?
+AGENT: Certainly. The dropoff location I found is AMC Wheaton Mall 9 at 1 1 0 0 6 Veirs Mill Road, Wheaton, Maryland. Is that the correct place? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Jenny.
+AGENT: Jenny, I have the pickup time as right now. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time as today at 11:50 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two.
+AGENT: Thanks for letting me know there will be two passengers. Will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. No.
+AGENT: Okay, no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No. That's a Genesis. Right?
+AGENT: Alright, the estimated fare is 12.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Great! I'll start collecting the details for your return trip now. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Do you go on a return trip? Yes. We want a return trip.
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: 02:00.
+AGENT: Just to confirm, did you mean 2:00 PM for your return trip pickup time? <emotion value="peaceful"/>
+CALLER: 02:00, please. Two.
+AGENT: Okay, I want to make sure I get this right. Did you say 2:00 PM for your return trip pickup time? Also, how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: Yes. Of course. Yes, please. Yes. Two two two two two. Yes.
+CALLER: Yes, please. Yes. Two two two two two. Yes. Yes. No. No. They don't need nothing.
+AGENT: For your return trip, I have the pickup at 1 1 0 0 6 Veirs Mill Road, Wheaton, Maryland, and the dropoff at 1 3 1 6 Fenwick Lane, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Got it, for your return trip, the pickup is at 1 1 0 0 6 Veirs Mill Road, Wheaton, Maryland, and the dropoff is at 1 3 1 6 Fenwick Lane, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Alright. Correct. My god. Correct.
+AGENT: The estimated fare for your return trip is 13.5 dollars, paying with Cash. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so <break time="250ms"/> I'm booking both trips for you now. <emotion value="grateful"/>
+AGENT: Your main trip is scheduled for today at 11:50 AM with confirmation number 2 1 3 6 7 1 8 6 4. Your return trip is scheduled for today at 2:00 PM with confirmation number 2 1 3 6 7 1 8 6 5. Is there anything else I can help you with?
+CALLER: That's everything. Thank you so much.
+AGENT: Thank you for calling Barwood & Regency,

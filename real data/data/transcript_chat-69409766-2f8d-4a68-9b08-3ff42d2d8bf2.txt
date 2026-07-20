@@ -1,0 +1,31 @@
+AGENT: Hi Denise, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: To send my open return to 16220 Frederick Road,
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Hold it. Call it. Right?
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero nine zero one eight zero.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Okay, so I found 1 6 2 2 0 Frederick Road, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified. Now, may I have your pickup address, please? <emotion value="peaceful"/>
+CALLER: That's the pickup. No that's the
+AGENT: Uh, I am sorry, but could you please repeat your pickup address? <emotion value="peaceful"/>
+CALLER: That is the pickup.
+AGENT: Okay, so I found 3 8 4 North Summit Avenue, Gaithersburg, Maryland. Is that correct for your pickup address? <emotion value="peaceful"/>
+CALLER: Pickup address is one six two two o Frederick Road.
+AGENT: Hmm, let me check that address.
+AGENT: Okay, so I found 1 6 2 2 0 Frederick Road, Gaithersburg, Maryland. Is that correct for your pickup address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup and dropoff addresses must be different. Could you please provide a different pickup address? <emotion value="peaceful"/>
+CALLER: No. My pickup address is 16220 Frederick Road, my drop off is 384 North Summit Avenue.
+AGENT: Okay, so I found 3 8 4 North Summit Avenue, Gaithersburg, Maryland. Is that correct for your dropoff address? <emotion value="peaceful"/>
+CALLER: Four four two. Yes.
+AGENT: Your dropoff address has been verified. Now, may I have your pickup address, please? <emotion value="peaceful"/>
+CALLER: For dropoff. 16220 Frederick Road,
+AGENT: Uh, I am sorry, but could you repeat your dropoff address? <emotion value="peaceful"/>
+CALLER: Jesus Christ.
+AGENT: Okay, just to confirm: your pickup address is 16220 Frederick Road, Gaithersburg, Maryland, and your dropoff address is 4 4 2 North Summit Avenue, Gaithersburg, Maryland. Is that right? <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: It's three eighty four North Summit Avenue.

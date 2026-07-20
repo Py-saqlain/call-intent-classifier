@@ -1,0 +1,16 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with brokenboroughh elyo?
+CALLER: Learn my name.
+AGENT: May I have your name, please, so I can save it for you?
+CALLER: And, Landa, Brokenboro.
+AGENT: Thank you, Landa. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Cancel my trip.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+CALLER: I have a trip.
+AGENT: Hmm <break time="300ms"/> I still don't see any upcoming trips on your account to cancel. Would you like me to connect you with a representative who can assist you further? <emotion value="apologetic"/>
+CALLER: I have a trip. Yes.
+CALLER: Take it all day.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your trip today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Trip, did I? Did I ask you to book a trip?
+AGENT: I understand, no worries. Just to clarify, are you looking to book a trip now, or is there something else I can assist you with regarding payment? <emotion value="hesitant"/>
+CALLER: No. I'm not.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

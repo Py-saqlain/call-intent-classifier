@@ -1,0 +1,10 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Huong Ngo?
+CALLER: Yes. Speaking.
+AGENT: Thanks for confirming, Huong. This is Barwood & Regency. Your pickup is scheduled for today at 11:30 AM. How can I assist you?
+CALLER: I would like I have a question. If I'm ready now, if you have someone available to pick me up, I I am with my phone, but I have so much
+AGENT: Uhh, I hear you. If you're ready now and want to be picked up as soon as possible, I can check on that for you. Could you please tell me your pickup location and where you'd like to go? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Looks like you already have a trip from 531 Randolph Road to 10841 Childs Street today at 11:30 AM. What would you like to do?
+CALLER: Yes. You know, I would die. I am grateful because I'm ready now. If you have someone available pick me up. Then I am very grateful for your help so much.
+AGENT: Uhh, I'm sorry, but your scheduled trip for today at 11:30 AM does not yet have a driver assigned. Let me connect you with a representative who can help you right away. <emotion value="sympathetic"/>
+AGENT: I'm connecting you now to a customer service representative who can assist you right away. Please stay on the line.

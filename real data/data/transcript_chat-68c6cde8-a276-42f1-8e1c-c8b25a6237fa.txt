@@ -1,0 +1,38 @@
+AGENT: Hello BRYAN, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: You need to have that rashness?
+AGENT: How can I assist you with your ride or transportation needs today?
+CALLER: Yeah. Device to 205 Lee Street,
+AGENT: Thank you for sharing your destination. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Add
+AGENT: Could you please tell me which payment method you'd like to use for your ride? Cash, credit card, or Call and Ride?
+CALLER: Cash.
+AGENT: Great, we'll use cash for your payment. I'll proceed with that now.
+AGENT: I have 2 0 5 Lee Street, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: Jasmine, Germantown,
+AGENT: Thank you for providing the pickup location as Jasmine, Germantown. Could you please provide a street number or a more specific address on Jasmine Street in Germantown to help locate it accurately?
+CALLER: Rest. Rash. Rash means on Silicon Meadows.
+AGENT: Thank you for the clarification. Just to confirm, is your pickup address the restaurant named Rash located in Silicon Meadows, Germantown?
+CALLER: No. That means Germantown men in Silicon Meadows.
+AGENT: Thank you for clarifying. So your pickup address is Jasmine in Silicon Meadows, Germantown, Maryland. Is that correct? If you have a street number or any additional details, please share them to help me find the exact location.
+CALLER: No. No.
+AGENT: Okay, let's try again. Could you please tell me the full pickup address including the street number and street name? If you're unsure about the street number, any nearby landmarks or cross streets would also help.
+CALLER: Two zero six zero zero Seneca Meadows Parkway.
+AGENT: Thank you. To confirm, your pickup address is 2 0 6 0 0 Seneca Meadows Parkway, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: I have 2 0 6 0 0 Seneca Meadows Parkway, Germantown, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified, Bryan.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: Thanks, I've set your pickup time for now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No. One
+AGENT: Thank you for that. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 20 dollars, and you will be paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking your one-way trip now.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 9 2 9 5. Your pickup is today at 11:02 AM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, BRYAN. Have a wonderful day.

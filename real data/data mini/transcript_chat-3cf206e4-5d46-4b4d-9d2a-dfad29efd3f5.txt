@@ -1,0 +1,11 @@
+AGENT: Hello, behshiz. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I want a reservation for the taxi.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your taxi ride? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when
+CALLER: Hello?
+AGENT: Could you please tell me the pickup address for your taxi ride? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?

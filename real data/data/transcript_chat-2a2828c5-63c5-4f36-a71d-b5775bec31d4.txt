@@ -1,0 +1,45 @@
+AGENT: Hello Sabna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes, ma'am. I need the taxi.
+AGENT: Alright, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three, four, seven seven four seven.
+AGENT: Thank you, your Call and Ride payment is all set. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Eight two zero nine iron Court, Gaithersburg, Maryland
+AGENT: Okay, so I found your pickup address as eight two zero nine Ironclad Court, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes. So I'm going to doctor Mortamadi.
+AGENT: I found Motamedi
+CALLER: Yeah. Address The address is 17904 Georgia Avenue, only.
+AGENT: Just to confirm, your dropoff address is 17904 Georgia Avenue, Olney, Maryland, correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Sabna. I will now proceed with arranging your taxi.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No more text, Hello?
+AGENT: Hello! When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Pickup is the eighth. Two zero nine ironclad code, Gaithersburg. Maryland. ZIP code, 20877. This is the picked up address
+AGENT: Sure, let me update that address.
+AGENT: Okay, so I found your pickup address as eight two zero nine Ironclad Court, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Alright, the pickup address has been successfully updated. What time would you like the pickup to be? <emotion value="peaceful"/>
+CALLER: Nine thirty.
+AGENT: Just to confirm, you mean 9:30 AM today for your pickup, right? <emotion value="hesitant"/>
+CALLER: Yes. Yes.
+AGENT: Okay great! I've got your pickup time as today at 9:30 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling,
+CALLER: Okay. Thanks. So, hi. Only one.
+AGENT: Thanks for letting me know there will be one passenger. Will you need a wheelchair-accessible vehicle as well? <emotion value="peaceful"/>
+CALLER: No. No, weaker.
+AGENT: Okay great! I've got that noted: one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: I need the driver too.
+AGENT: Could you please tell me what special instructions or help you need from the driver? <emotion value="peaceful"/>
+CALLER: I No. No. No. No. No.
+AGENT: Alright, the estimated fare is 26 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes. Turned it too. I don't know how long time here. I don't know.
+AGENT: Thanks for letting me know you'd like a return trip. I'll start collecting the details for that now. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up for
+CALLER: Oh, you.
+AGENT: Could you please tell me the pickup time you'd like for your return trip? <emotion value="peaceful"/>
+CALLER: Don't know how long time with their doctor take it. I don't know. Pickup address.
+AGENT: Your main trip is booked for today at 9:30 AM. The confirmation number is 2 1 3 6 7 5 5 3 3. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Sabna. Have a wonderful day.

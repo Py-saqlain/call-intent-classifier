@@ -1,0 +1,13 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Michelle Wallace?
+CALLER: Yeah. Let me speak with you. I'm gonna help him come back. You didn't try to? Oh, wish I could bring her back to the little.
+AGENT: Thanks, Michelle. This is Ana from Barwood & Regency. You have been picked up by vehicle 1006, and you also have a will-call trip scheduled today from 9 6 3 9 Lost Knife Road to 4 9 7 Quince Orchard Road in Gaithersburg. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Eggplant.
+AGENT: Could you please tell me how I can assist you with your ride or booking today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: One
+AGENT: I want to make sure I understand you correctly. Are you looking to book a ride for one passenger?
+CALLER: He's by the cemetery. Yeah. We're going there.
+AGENT: You already have trips scheduled between 497 Quince Orchard Road and 9639 Lost Knife Road today. What would you like to do next?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Oh, yeah? Are you going to a lot lost night ride. And what's in this Hollywood I believe? What's on this one? Not good.

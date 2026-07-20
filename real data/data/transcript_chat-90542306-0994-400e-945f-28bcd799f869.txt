@@ -1,0 +1,60 @@
+AGENT: Hi Sally, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I don't know what happened. We got disconnected.
+AGENT: I'm here to help. What can I do for you today?
+CALLER: Well, I was talked I was just talking to someone, and we got disconnected.
+AGENT: I understand. How can I assist you now? Are you looking to continue with a ride booking or something else?
+CALLER: Yeah. I was checking for a ride. I wanna go now.
+AGENT: Thanks for letting me know. How would you like to pay for your ride today? We accept cash, credit card,
+CALLER: Alright. Credit card credit card.
+AGENT: Thank you, I have your payment as credit card.
+AGENT: Could you please tell me the address where you'd like to be picked up?
+CALLER: Eight one nine six Inverness Ridge Road, Potomac, Maryland two zero eight five four.
+AGENT: I have the pickup address as eight one nine six Inverness Ridge Road, Potomac, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Nordstrom at Montgomery Mall shopping center on Democracy Boulevard in Bethesda.
+AGENT: I found Nordstrom at 7 1 1 1 Democracy Boulevard, Bethesda, Maryland. Is
+CALLER: I have to re
+AGENT: It seems your message got cut off. Could
+CALLER: Yes. And I hello? I have to be dropped off at the lower level. Because it the other level is stairs.
+AGENT: Thank you for letting me know about the lower level dropoff at Nordstrom. I have the address as 7 1 1 1 Democracy Boulevard, Bethesda, Maryland for the
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Sally. I'll proceed with the next steps for your ride.
+AGENT: You mentioned you want to go now. Is that correct for your pickup time? Please say yes to confirm or
+CALLER: Yes. Yes. Yes.
+AGENT: Great, your pickup time is set for now. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just one. No. I have a rollator. It's a rolling wheelchair, but it fall not wheelchair. Walker, but it folds up.
+AGENT: The estimated fare for your ride is 8.5 dollars, paying with your
+CALLER: Call them rollator.
+AGENT: Thank you for letting me know about the rollator. The
+CALLER: All right. Okay. How how much How much did you say?
+AGENT: The estimated fare for your ride is 8.5 dollars. Would you
+CALLER: Hello?
+AGENT: Yes, I'm here to help. Would you like to schedule a return
+CALLER: I still didn't hear the amount. I I still did not hear the amount. How much?
+AGENT: Your estimated fare is 8.5 dollars. Would you like to schedule a return trip as well?
+CALLER: Are you saying eight dollars and thirty cents
+AGENT: The estimated fare is eight dollars and fifty cents. Would you like to schedule a return trip as well?
+CALLER: No. No return. I don't know when I'll be coming home. Yes. But I'd like to schedule it right now because I'm waiting.
+AGENT: Thank you for letting me know. I’m processing your immediate ride booking now. Please hold on a moment.
+CALLER: Thank you.
+AGENT: Your main trip is scheduled for today at 12:00 PM. The confirmation number is 2 1 3 6 7 9 3 6 5. Is there anything else I can help you with?
+CALLER: No. Do you have a taxi available?
+AGENT: I’ll connect you with a representative who can provide details about taxi availability. Please hold for a moment.
+AGENT: I can
+CALLER: Okay.
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: I'm sorry. What is it? What did you say?
+AGENT: I said I can help you with cancellations or checking your trip status right here, which is usually faster than waiting for an agent. What do you need help with today?
+CALLER: No. I'm not canceling anything. I'm trying to schedule it.
+CALLER: I'm trying to schedule a taxi right now. Not canceling.
+AGENT: Let me get that set up for you right now.
+AGENT: Looks like you already have a trip from Potomac to Bethesda at today at
+CALLER: I gave yeah.
+AGENT: It
+CALLER: You took all that information before.
+AGENT: Yes, I have your current trip details from Potomac to Bethesda at today at 12:00 PM. What would you like to do next?
+CALLER: I just wanna get a taxi now.
+AGENT: Since you already have a trip scheduled, booking a new one requires assistance from a representative. I'll connect you with someone who can help with that.
+CALLER: Okay.
+AGENT: I'm connecting you to a customer

@@ -1,0 +1,50 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Christine Simms?
+CALLER: Yes.
+AGENT: Thanks for confirming, Christine. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I need a pickup round trip
+AGENT: Got it, I'll arrange the return trip once your main trip details are set up. Alright, how would you like to pay? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call robot. Colon ride.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great! Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: O three eight five one o.
+AGENT: Hmmm.. that didn't seem quite right. Could you please say the last six digits of your Call and Ride card again? <emotion value="apologetic"/>
+CALLER: Zero three eight five one o.
+AGENT: Thank you. Just to confirm, the last six digits you provided are zero three eight five one zero, correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 1448 Farmcrest Way, Silver Spring, Maryland 20905.
+AGENT: Okay, so your pickup address is one four four eight Farmcrest Way, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 15411 New Hampshire Avenue, Clowley, Maryland 20905.
+AGENT: Okay, so your dropoff address is one five four one one New Hampshire Avenue, Cloverly, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Christine. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now Eleven thirty. AM
+AGENT: Okay great! I've got your pickup time as today at 11:30 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One.
+AGENT: Thanks for that. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: Call when outside.
+AGENT: Alright, the estimated fare is 8.5 dollars, paying with Call and Ride. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 01:00.
+AGENT: Just to confirm, you mean 1:00 PM for your return trip pickup time, correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay great! I've got your return trip pickup time as today at 1:00 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One and no.
+AGENT: For your return trip, I have the pickup address as one five four one one New Hampshire Avenue, Cloverly, Maryland, and the dropoff address as one four four eight Farmcrest Way, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 8.5 dollars, paying with Call and Ride. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I’m booking both trips for you now. <emotion value="grateful"/>
+AGENT: Your main trip is scheduled for today at 11:30 AM with confirmation number 2 1 3 6 7 6 9 1 9. Your return trip is scheduled for today at 1:00 PM with confirmation number 2 1 3 6 7 6 9 2 0. Is there anything else I can help you with?
+CALLER: Repeat numbers
+AGENT: Certainly. Your main trip confirmation number is 2 1 3 6 7 6 9 1 9. Your return trip confirmation number is 2 1 3 6 7 6 9 2 0. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Christine. Have a wonderful day!

@@ -1,0 +1,47 @@
+AGENT: Hello Mamivan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Okay. A taxi.
+AGENT: Okay, I can help you with that. Could you please tell me where you would like to be picked up? <emotion value="peaceful"/>
+CALLER: One four two zero zero Brassville Road in Boise,
+AGENT: Uhh, I want to make sure I got that right. Did you say one four two zero zero Brassville Road in Boise? <emotion value="hesitant"/>
+CALLER: Boyd's. Yes.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride
+AGENT: Okay, just to confirm, you meant Call and Ride for payment, right? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please tell me the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three two
+AGENT: Hmmm.. that didn't seem right, could you try again with all six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Three two two five five nine.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Okay, so your pickup address is one four two zero zero Brass Wheel Road, Boyds, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Zero one one one water side Drive
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I couldn't find that address as given. Could you please provide the full street address including the city and state? <emotion value="apologetic"/>
+CALLER: Germantown, two zero eight
+AGENT: Thank you. Just to clarify, is the full dropoff address 0 1 1 1 Waterside Drive, Germantown, Maryland? <emotion value="peaceful"/>
+CALLER: Two zero one one
+AGENT: Okay, so the full dropoff address is two zero one one Waterside Drive, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I wasn't able to locate two zero one one Waterside Drive in Germantown, Maryland. Could you please double-check the street number or provide any nearby landmarks or cross streets to help find the correct dropoff address? <emotion value="apologetic"/>
+CALLER: 20111 Waterside Drive, Germantown two zero eight two zero seven four.
+AGENT: Okay, just to confirm, your dropoff address is two zero one one one Waterside Drive, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so your dropoff address is two zero one one one Waterside Drive, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Correct.
+AGENT: Your dropoff address has been verified, Mamivan. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now. Right now.
+AGENT: Okay, I've scheduled your pickup for today at 7:15 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One passenger. No wheelchair.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 12 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, I will skip the return trip and proceed with booking your one-way ride. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I'm booking your ride now. <emotion value="peaceful"/>
+AGENT: Thank you for waiting. Your ride is booked with confirmation number M <break time="300ms"/> A <break time="300ms"/> 3 <break time="300ms"/> 7 <break time="300ms"/> 2 <break time="300ms"/> 9. Your pickup is scheduled for 7:15 pm today. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Alright, if you need anything else later, just let us know.

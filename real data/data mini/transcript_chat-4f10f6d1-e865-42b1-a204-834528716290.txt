@@ -1,0 +1,12 @@
+AGENT: Hi Melissa, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Um, I need to know how much a fare is
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Okay. I can give you the address.
+AGENT: Great! Please go ahead and tell me the pickup and dropoff addresses you'd like to use.
+CALLER: Pickup address is one zero no. No. Pickup address is one seven zero one zero Flatwood, Drive. That's F L A T W 00 D Drive, in Rockville, two zero eight five five. Drop off is one nine four zero North Street, Northwest in Washington DC two zero zero three six.
+AGENT: Thank you for providing the addresses. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash, but I just need a rate right now.
+AGENT: I don't have the fare information yet since we're still gathering your trip details. Let's proceed with your payment as cash, and once everything is set, I can provide the fare estimate for you. Does that sound good?
+CALLER: I need a travel I need a live person.
+CALLER: Live person.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,12 @@
+CALLER: Then one. Four one zero.
+AGENT: Uhh, could you please clarify what the numbers "one four one zero" refer to? Are you providing a street number, a phone number, or something else? <emotion value="hesitant"/>
+CALLER: Can I talk to someone
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Could you please unassign the trip
+AGENT: I can take care of that for you.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+CALLER: Can I talk to someone?
+CALLER: I talk to customer service
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Can I talk to someone, please?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

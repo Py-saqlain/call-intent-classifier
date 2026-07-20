@@ -1,0 +1,20 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Darrell White?
+CALLER: No. No. No. No. I'm calling. This is the this phone right here, everybody you know, because we're in in a what they call that? A nursing home.
+AGENT: Thank you for letting me know. Could you please tell me your name so I can find your profile and assist you? You can also tell me if you want me to list the names I have for this number.
+CALLER: So that's the main number. But I'm gonna give you okay. Yeah. Sure, ma'am.
+AGENT: I’m ready to hear your name whenever you’re ready to share it.
+CALLER: Sure, ma'am. Well, you know what? Okay. My name is Isaac. I hope it's up. But I can give you my phone is off.
+AGENT: I don't see a profile under the name Isaac. We can set one up for you when you book a ride. Would you like help with booking a trip today?
+CALLER: But I can give you my phone. Isaac, Hold on. Isaac. Yes. It's Isaac Alpazar.
+AGENT: Thank you for that. Could you please provide the phone number you want me to use to look up your profile?
+CALLER: Last name start with a.
+AGENT: I understand your last name starts with an A. To help find your profile, could you please provide the phone number associated with your account?
+CALLER: Sure. It's two four zero
+AGENT: Could you please provide the full phone number, including all digits?
+CALLER: Am I talking to a live operator?
+AGENT: Of course — I can also book rides, check your trip status, or cancel trips right here if that's what you need. What can I help with today?
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: No. I need a live operator. It's okay.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you.
+AGENT: I’m here to help if you need

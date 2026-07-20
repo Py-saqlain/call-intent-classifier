@@ -1,0 +1,42 @@
+AGENT: Hello Jacqueline, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Can I get a cab, please?
+AGENT: Alright, how would you like to pay for your cab today? We accept cash, credit card, and Call and Ride.
+CALLER: Hold on
+AGENT: Take your time. Just let me know when you're ready to tell me how you'd like to pay.
+CALLER: Alright.
+AGENT: Whenever you're ready, could
+CALLER: Calling right.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: Great! Please go ahead and tell me the last six digits of your Call and Ride card when you're ready. <emotion value="peaceful"/>
+CALLER: Three zero four zero nine four
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: May I have the pickup address for your trip, please? <emotion value="peaceful"/>
+CALLER: One two one two zero Palm Orchard Drive,
+AGENT: Hmm  let me check that address. <emotion value="peaceful"/>
+AGENT: I found an address close to that: 1 2 1 2 0
+CALLER: I'm right here.
+AGENT: Okay, so you are at 1 2 1 2 0 Palm Orchard Drive. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. May I have the dropoff address, please? <emotion value="peaceful"/>
+CALLER: 3319 Whipolla Court.
+AGENT: Hmm  let me check that address. <emotion value="peaceful"/>
+AGENT: I found an address close to that: 3 3 1 9 Weeping Willow Court, Aspen Hill, Maryland. Is that the correct dropoff address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now.
+AGENT: Okay great! I've got your pickup time as today at 9:37 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One
+AGENT: Thanks for
+CALLER: One passenger or no?
+AGENT: Thanks for clarifying. So, one passenger total, correct? And will you need a wheelchair-accessible vehicle or not? <emotion value="peaceful"/>
+CALLER: Yes. No.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, so <break time="250ms"/> your pickup is 1 2 1 2 0 Plum Orchard Drive. <break time="250ms"/> Your dropoff is 3 3 1 9 Weeping Willow Court. <break time="250ms"/> Pickup time is today at 9:37 AM. <break time="250ms"/> You have one passenger and no wheelchair needed. <break time="250ms"/> The estimated fare is 26 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you. I’m processing your booking now. Please hold on a moment.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 0 4 7 4. Your pickup is today at 9:37 AM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Jacqueline. Have a wonderful day!

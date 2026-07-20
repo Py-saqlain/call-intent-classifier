@@ -1,0 +1,71 @@
+AGENT: Hi Tyra, this is Ana with Barwood & Regency. I see you have a will-call trip scheduled today from 1 3 7 1 1 Connecticut Avenue to 1 4 2 0 1 Wolf Creek Place in Silver Spring. How can I assist you today?
+CALLER: Cancel that.
+AGENT: I found one trip for you: your first trip from 13711 Connecticut Avenue in Silver Spring to 14201 Wolf Creek Place in Silver Spring, marked as will-call. Would you like me to cancel this trip?
+CALLER: Yeah.
+AGENT: Your trip with confirmation number 0 2 1 3 6 6 5 7 6 6 has been cancelled. Is there anything else I can help you with?
+CALLER: Yes. I like to book another trip.
+AGENT: How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay. I'm ready. I'm ready.
+AGENT: Great! Please tell me how you would like to pay: cash, credit card, or Call and Ride?
+CALLER: Call and ride.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three five
+AGENT: I only have two digits so far. Could you please provide all six digits of your Call and Ride card?
+CALLER: one four Two It's five one four two six.
+AGENT: Thank you for the digits. Let me verify your Call and Ride card now.
+AGENT: Thank you, your payment method is set to Call and Ride. I'll proceed with your booking now.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: Walmart fitness center in Germantown. Observation garage,
+AGENT: I found several locations related to Walmart fitness center and observation garage in Germantown area:
+
+1. BodFit at 12300 Middlebrook Road, Germantown, Maryland
+2. ZoomIntoSelf at 21107 Tall Cedar Way, Germantown, Maryland
+
+Which one would you like to use as your pickup location? Or if none of these are correct, please provide more details.
+CALLER: None of those are correct.
+AGENT: Thank you for letting me know. Could you please provide a more specific address, landmark, or cross street near the Walmart fitness center observation garage in Germantown? This will help me find the exact pickup location for you.
+CALLER: So Walmart store Walmart. Store.
+AGENT: I found Walmart Supercenter at 20910 Frederick Road, Germantown, Maryland. Is this the correct pickup location?
+CALLER: Yeah.
+AGENT: I found Cruise Planners - Book Another Cruise at 13616 Warrior Brook Terrace, Germantown, Maryland. Is this the correct destination?
+CALLER: Oh,
+AGENT: Could you please confirm if Cruise Planners at 13616 Warrior Brook Terrace, Germantown, Maryland is the correct destination for your trip?
+CALLER: No. It is not.
+AGENT: Thank you for letting me know. Could you please provide the full address or a more specific description of your destination? This will help me find the correct dropoff location for you.
+CALLER: One four two zero one Creek, Place, It is silver spring. Maryland.
+AGENT: I have 1 4 2 0 1 Wolf Creek Place, Silver Spring, Maryland as the dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Tyra.
+AGENT: When would you like to be picked up?
+CALLER: At eleven, fifteen PM.
+AGENT: Got it, your pickup time is today at 11:15 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Just to confirm, is that one passenger with no wheelchair needed? Or do you need a wheelchair-accessible vehicle for that one passenger?
+CALLER: No.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: Just air to make
+AGENT: The estimated fare for your trip is 47.5 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: Great, I'll start collecting the details for your return trip.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: 11:15PM.
+AGENT: Just to confirm, you said 11:15 PM for your return trip pickup time, correct?
+CALLER: Yeah.
+AGENT: The return trip pickup time must be at least 10 minutes after your main trip pickup time, which is today at 11:15 PM. Could you please provide a different return pickup time? Or would you prefer to just book a one-way trip instead?
+CALLER: This is a one way trip.
+AGENT: Your one-way trip is booked for today at 11:15 PM. Your confirmation number is 2 1 3 6 6 5 8 9 4. Is there anything else I can help you with?
+CALLER: You just wanna go over the details?
+AGENT: Certainly! Your trip is scheduled for today at 11:15 PM, and the confirmation number is 2 1 3 6 6 5 8 9 4. If you'd like me to go over any other details or assist with anything else, just let me know.
+CALLER: My pickup address
+AGENT: Your pickup address is 1 4 2 0 1 Wolf Creek Place, Silver Spring, Maryland. Would you like me to go over anything else?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Unless
+AGENT: I'm here to help whenever you're ready. Is there something specific you'd like to add or change about your trip?
+CALLER: Yes.
+AGENT: Please go ahead and tell me what you'd like to update or add to your trip.
+CALLER: Update. Pickup address.
+AGENT: I can help with that. Let me connect you to the booking team who can update your pickup address for you.
+AGENT: I understand you'd like to modify your pickup address. Trip modifications need to be handled by a live agent. Let me connect you with someone who can help.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Okay.

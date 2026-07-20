@@ -1,0 +1,11 @@
+AGENT: Hi Nancy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to cancel the call. To our Adventist Hospital.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+CALLER: There. You you have no trip scheduled in my name?
+AGENT: Hmm <break time="300ms"/> that's right, I don't see any trips scheduled under your name at the moment. Is there something else you'd like help with? <emotion value="peaceful"/>
+CALLER: One one one one eight nine zero four Peeling Way,
+AGENT: Hmm <break time="300ms"/> could you please clarify what you would like to do with the trip to 1 1 1 8 9 0 4 Peeling Way? Are you trying to cancel a trip there or something else? <emotion value="hesitant"/>
+CALLER: Cancel.
+AGENT: Hmm <break time="300ms"/> I still don't see any active trips scheduled to 1 1 1 8 9 0 4 Peeling Way or anywhere else on your account to cancel. Is there anything else I can assist you with? <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: No, thank you.

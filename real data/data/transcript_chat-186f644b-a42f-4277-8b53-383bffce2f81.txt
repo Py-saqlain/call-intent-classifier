@@ -1,0 +1,39 @@
+AGENT: Hello Cassandra, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Pickup.
+AGENT: Okay, I understand you want to arrange a pickup. Could you please tell me the pickup address?
+CALLER: Eleven thirty five University Boulevard West, Silver Spring 20902.
+AGENT: Got it. Eleven thirty five University Boulevard West, Silver Spring. Where would you like to go?
+CALLER: Three zero zero one Kingswell Drive, Silver Spring 20902.
+AGENT: Thank you. Your pickup is at eleven thirty five University Boulevard West, Silver Spring, and your dropoff is at three zero zero one Kingswell Drive, Silver Spring. When would you like the pickup to be scheduled?
+CALLER: Now
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call them call and ride.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero eight
+AGENT: Hmmm.. that didn't seem right, could you please provide the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: three zero six zero.
+AGENT: Thank you for that. Could you please provide the full last six digits of your Call and Ride card? I have only received four digits so far. <emotion value="peaceful"/>
+CALLER: Zero eight
+AGENT: Hmmm.. that didn't seem right, could you please say all six digits of your Call and Ride card number? <emotion value="apologetic"/>
+CALLER: three zero six zero
+AGENT: Hmmm.. that still sounds like only four digits. The last six digits of your Call and Ride card should be six numbers. Could you please say all six digits again? <emotion value="apologetic"/>
+CALLER: The last six inches Zero eight three zero six zero.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Okay, so your pickup is at 1 1 3 5 University Boulevard West, Silver Spring, Maryland, and your dropoff is at 3 0 0 1 Kingswell Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup and dropoff addresses have been verified, Cassandra. I am now moving forward with your booking.
+AGENT: Just to confirm, you would like to be picked up now, is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time noted for today at 8:14 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: No. It's only one passage.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: It's so have a blockage. I have I have a walker, not a wheelchair.
+AGENT: Alright, the estimated fare is 11 dollars, paying with your Call and Ride card. You mentioned you have a walker but no wheelchair, so I'll note that for the driver. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Mhmm. Not right now.
+AGENT: Okay, I understand you don't want to schedule a return trip right now. I'll proceed with booking your one-way trip. Should I go ahead and book it for you? <emotion value="peaceful"/>
+CALLER: Bye.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your trip is booked for today at 8:14 AM. Your confirmation number is 2 1 3 6 7 7 9 1 9. Is there anything else I can help you with?
+CALLER: Yes thank you Okay,
+AGENT: Thank you for calling Barwood & Regency, Cassandra. Have a wonderful day!
+CALLER: Good.

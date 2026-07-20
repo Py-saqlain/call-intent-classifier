@@ -1,0 +1,38 @@
+AGENT: Hello Wanda, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I want to book a cab.
+AGENT: Thank you for choosing us for your cab ride. How would you like to pay for your trip? We accept cash, credit card,
+CALLER: On invite.
+AGENT: I want to make
+CALLER: All all in white.
+AGENT: Could you please clarify how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: It was a call in. Right?
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six
+CALLER: Yes. I did.
+AGENT: Thank you for confirming. Could you please provide the last six digits of your Call and Ride card?
+CALLER: It's so it's three zero four seven two two.
+AGENT: Thank you for providing your Call and Ride card details. Your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: It's don't don't let where where is it? I see. It's ten one forty one New Hampshire Avenue.
+AGENT: I have 1 0 1 4 1 New Hampshire Avenue, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yeah. Yeah.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Okay. Eleven thirty one Universal Boulevard West.
+AGENT: I have 1 1 3 1 University Boulevard West, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yeah. That's why. Pass away.
+AGENT: Your dropoff address has been verified, Wanda. I'll proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: Okay. As soon as possible.
+AGENT: I have your pickup time set for as soon as possible. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: So No. We don't.
+AGENT: Thank you for letting me know no wheelchair is needed. How many passengers will be traveling?
+CALLER: Two.
+AGENT: I have recorded two passengers. Do you have any special instructions or notes for the driver?
+CALLER: Yes. I don't.
+AGENT: The estimated fare for your trip is 15.5 dollars, and you will be paying with your Call and Ride card. Would you like to schedule a return trip
+CALLER: Okay. Okay. Abha?
+AGENT: Just to clarify, would you like to schedule a return trip for your ride?
+CALLER: No. That's alright.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your main trip is scheduled for today at 2:23 PM. Your confirmation number is 2 1 3 6 7 9 5 6 9. Is there anything else I can assist you with?
+CALLER: No. That's it. You very much.
+AGENT: Thank you for calling Barwood & Regency, Wanda. Have a wonderful day!

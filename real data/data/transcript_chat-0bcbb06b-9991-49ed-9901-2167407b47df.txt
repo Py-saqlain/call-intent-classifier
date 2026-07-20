@@ -1,0 +1,53 @@
+AGENT: Hello Cynthia, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Calling account.
+AGENT: Hi, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Trying to call a cab.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Two seven three zero.
+AGENT: Thank you. Could you please provide the street name and city for the
+CALLER: Universe
+AGENT: Hmm <break time="350ms"/> let me check that address.
+CALLER: University Boulevard
+AGENT: Okay, so I have 2 7 3 0 University Boulevard. Could you please tell me the city and state for this address? <emotion value="peaceful"/>
+CALLER: Weeden, Maryland.
+AGENT: Okay, so I found 2 7 3 0 University Boulevard West, Silver Spring, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 1316 Fenwick Lane,
+AGENT: Could you please provide the city and state for 1 3 1 6 Fenwick Lane? <emotion value="peaceful"/>
+CALLER: So large bank, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 1 3 1 6 Fenwick Lane, Silver Spring, Maryland. Is that the correct destination address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Cynthia.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Just to clarify, did you mean you want to be picked up right now, or would you prefer a will-call trip where you call back when you're ready? <emotion value="hesitant"/>
+CALLER: Pick up right now. Pickup right now.
+AGENT: Okay, I've got your pickup time as right now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Yes. One one passenger with a walker.
+AGENT: Alright, the estimated fare is 13 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your will-call booking confirmation number is 2 1 3 6 7 1 8 7 7. You can call back when you are ready, and a driver will be dispatched to your pickup location. Is there anything else I can help you with?
+CALLER: Repeat the confirmation number again.
+AGENT: The confirmation number is 2 1 3 6 7 1 8 7 7. Is there anything else I can assist you with?
+CALLER: Is the ride will be ready now?
+AGENT: This is a will-call booking, so the ride is not dispatched yet. You just call back when you are ready, and then a driver will be sent to your pickup location. Would you like me to help with anything else?
+CALLER: I I'm ready now.
+AGENT: Since you are ready now, I will connect you to the booking orchestrator to activate your ride immediately.
+AGENT: Hmm
+CALLER: Okay.
+AGENT: Hmm <break time="700ms"/> I'm sorry, I don't see any will-call trips on your account. Would you like me to book a new trip instead? <emotion value="apologetic"/>
+CALLER: Yes.
+AGENT: Looks like you already have a trip from 2 7 3 0 University Boulevard West to 1 3 1 6 Fenwick Lane scheduled as a will-call. What would you like to do? <emotion value="grateful"/>
+Looks like you already have a trip from 2 7 3 0 University Boulevard West to 1 3 1 6 Fenwick Lane scheduled as a will-call. What would you like to do? <emotion value="grateful"/>
+CALLER: Can I get the right dispatch now?
+AGENT: Uhh <break time="300ms"/> your will-call trip is active but no driver has been assigned yet. I'll keep you posted. <emotion value="peaceful"/>
+CALLER: Okay.
+AGENT: Hmm <break time="300ms"/> let me pull that up for you.
+AGENT: Uhh
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

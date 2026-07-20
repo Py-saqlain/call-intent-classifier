@@ -1,0 +1,11 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: This is. I'm waiting for the two So I would like to know exactly how long the doctor will be here.
+AGENT: I understand you'd like to know how long the driver will be. To assist you better, may I please have your name first?
+CALLER: Well, the first person talked to me. They told me one hour about one hour, but I stayed here for a long more than one hour. And the the two truck is not coming in. So I would like to have ID.
+AGENT: I want to make sure I help you as best as I can. Could you please tell me your name so I can look up your ride details?
+CALLER: Which one? My name is Victor.
+AGENT: Thank you, Victor. This is Ana from Barwood & Regency. How can I assist you with your ride
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay.
+AGENT: How can I assist you with your ride today, Victor?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

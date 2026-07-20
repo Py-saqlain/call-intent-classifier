@@ -1,0 +1,37 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: My name is Wesley Walker.
+AGENT: Thanks, Wesley. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a cab to come to two five four North Washington Street apartment two zero five. Call this number. To go to seven lots Seven Lots Correctional Facility.
+AGENT: Alright, Wesley, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: On 7 Lots Road. Wait for me and then bring me back.
+AGENT: Got it, Wesley. Just to confirm, you want a round trip from 2 5 4 North Washington Street, apartment 2 0 5, to 7 Lots Road, and then back. How would you like to pay for this trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash. Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, Wesley, let me check that pickup address for you. <emotion value="peaceful"/>
+AGENT: Okay, so I found 2 5 4 North Washington Street in Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Wesley, I couldn't locate "7 Lots Correctional Facility." Could you please provide a full address or another nearby landmark for your destination? <emotion value="apologetic"/>
+CALLER: Seven lost ICU.
+AGENT: Hmm <break time="350ms"/> let me check that address. Could you please confirm if you mean "Seven Lots ICU" or something else?
+CALLER: Seven locks ICU.
+AGENT: I found one location. Is this the correct destination? Seven Locks Animal Hospital, 7 8 1 7 Tuckerman Lane, Potomac, Maryland. <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: And fifteen minutes.
+AGENT: Hmm <break time="300ms"/> sorry, I want to make sure I understand. Did you mean you want to be picked up in 15 minutes from now? <emotion value="hesitant"/>
+CALLER: In a half hour from now.
+AGENT: Okay great! I've got your pickup time set for today at 12:56 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: That's me.
+AGENT: Thanks for letting me know it's just you. Will you need a wheelchair-accessible vehicle for this trip? <emotion value="peaceful"/>
+CALLER: Just me.
+AGENT: Okay great! I've got 1 passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, so let me confirm those details. Your pickup is 2 5 4 North Washington Street. Your dropoff is 7 8 1 7 Tuckerman Lane. Pickup time is today at 12:56 PM. You have 1 passenger, and a wheelchair-accessible vehicle is needed. The estimated fare is 15 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: I wanted this round trip. I don't need a wheelchair accessible vehicle.
+AGENT: Just to confirm, would you like to update the wheelchair accessibility for your main trip, or for the return trip? <emotion value="hesitant"/>
+CALLER: No wheelchair. There is no wheelchair.
+AGENT: Thanks for clarifying. How many wheelchairs will you need for this trip? <emotion value="peaceful"/>
+CALLER: There is no wheelchair. There is no wheelchair.
+AGENT: Thank you for confirming no wheelchair is needed. What else can I assist you with? <emotion value="peaceful"/>
+AGENT: Alright, so let me confirm those details. Your pickup is 2 5 4 North Washington Street. Your dropoff is 7 8 1 7 Tuckerman Lane. Pickup time is today at 12:56 PM. You have 1 passenger, and no wheelchair is needed. The estimated fare is 15 dollars, paying with your Self account. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>

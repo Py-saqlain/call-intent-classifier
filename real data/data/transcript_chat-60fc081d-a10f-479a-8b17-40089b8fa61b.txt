@@ -1,0 +1,53 @@
+AGENT: Hello, Montgomery. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes, ma'am. I'm looking for my ride. Is my ride here yet?
+AGENT: Hmm <break time="300ms"/> I checked and it looks like you don't have an active trip scheduled right now. Would you like me to help you book a ride? <emotion value="peaceful"/>
+AGENT: Hmm <break time="300ms"/> let me pull that up for you. Uhh <break
+CALLER: Going back to 50. I'm going back to, uh, 2421. Okay. Think I missed my ride earlier.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: What is is $4.50, right, or it's more?
+AGENT: I don't have the fare information yet since we haven't completed your trip details. Alright, <break time="300ms"/> how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: Okay.
+AGENT: Alright, <break time="300ms"/> could you please tell me how you would like to pay? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: I have a cash
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+CALLER: Okay. How much is it?
+AGENT: Hmm <break time="350ms"/> I wasn't able to locate the dropoff address you gave me. Could you please provide the full street address, city, and state for your destination? <emotion value="apologetic"/>
+CALLER: Page one. Yes, ma'am. It's twenty four twelve Ramblewood Drive, District Heights, Maryland.
+AGENT: Okay, so your dropoff address is two four one two Ramblewood Drive, District Heights, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes, ma'am.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: Fifty Irving Street, Washington, DC
+AGENT: Okay, so your pickup address is five zero Theisen Street, Washington, District of Columbia. Is that correct? <emotion value="peaceful"/>
+CALLER: No. Fifty. That's not correct. It's fifty Irving Street Washington, DC. The VA.
+AGENT: Hmm, I found the address as five zero Theisen Street, Washington, District of Columbia. Is that correct? Or could you please confirm the street number and name again? <emotion value="hesitant"/>
+CALLER: It this the the the 3 no. It's it's fifty Irving Irving Street. Washington DC. The VA,
+AGENT: I found Washington VA Medical Center at five zero Irving Street Northwest, Washington, District of Columbia, two zero four two two. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: Yes, ma'am.
+AGENT: Your pickup address has been verified, Montgomery.
+AGENT: Just to confirm, did you mean your pickup time is 5:00 PM? Please say yes if that's correct. <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, <break time="300ms"/> please tell me the correct time you would like to be picked up. <emotion value="hesitant"/>
+CALLER: Between three and three thirty.
+AGENT: Thanks for that. Just to be clear, would you like your pickup time to be 3:00 PM or 3:30 PM? <emotion value="peaceful"/>
+CALLER: Well, it's 03:11 now, so it it has to be 03:30. PM.
+AGENT: Okay great! I've got your pickup time noted as today at 3:30 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes, ma'am. One with one with a wheelchair. Accessibility.
+AGENT: Okay great! I've got that noted: 1 passenger with wheelchair accessibility. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: None.
+AGENT: Alright, the estimated fare is 31.5, paying with cash. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: No. This trip is going from the VA to 50 Irving Street.
+AGENT: Thanks for clarifying. So this trip is from Virginia to 50 Irving Street. Would you like me to update the pickup address to Virginia and the dropoff to 50 Irving Street? <emotion value="peaceful"/>
+CALLER: No. The return address only is 50 Irving Street.
+AGENT: Just to clarify, are you saying the trip you want to book
+CALLER: No. I'm sorry. No, I'm sorry. No. The return trip is twenty four twelve Ramblewood Drive, District Heights, Maryland. That's the return trip now.
+AGENT: Thank you for clarifying. So the main trip is from Virginia to 50 Irving Street, and the return trip is from 2412 Ramblewood Drive, District Heights, Maryland. Would you like to schedule that return trip now? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: The return trip pickup time must be at least 10 minutes after your main trip pickup time, which is today at 3:30 PM. Could you please provide a valid return pickup time that is later than that? Or if you prefer, you can choose to book just a one-way trip instead. <emotion value="hesitant"/>
+CALLER: A one way trip.
+AGENT: Thank you for letting me know you want to book a one-way trip. I’m processing your booking now. Please hold on a moment.
+CALLER: Yeah. Thank you.
+AGENT: Your one-way trip is booked for today at 3:30 PM. Your confirmation number is 2 1 3 6 7 6 0 9 4. Is there anything else I can help you with?
+CALLER: No. That's all. Thank you.
+AGENT: Thank you for calling Barwood & Regency, MONTGOMERY. Have a wonderful day!

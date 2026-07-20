@@ -1,0 +1,17 @@
+AGENT: Good morning, Everett. This is Ana with Barwood & Regency. Vehicle 346 is on the way and should be there in about 2 minutes, aiming for a 7:08 pickup. How can I assist you today?
+CALLER: Uh, no. I was just double checking it's after seven.
+AGENT: Just to be sure, it's currently a little after 7 AM. How can I assist you with your ride today?
+CALLER: I was just double checking that it that it was still on its way.
+AGENT: Your driver is on the way and is expected to arrive around 7:09 AM. Is there anything else I can check for you?
+CALLER: No. If you if you say they're on their way, then I'll just be more patient.
+AGENT: Thank you for understanding. If you need any updates or assistance while you wait, just let me know.
+CALLER: I I will do.
+AGENT: Great! I'm here whenever you need help. Just give me a call.
+CALLER: Okay. Will do.
+AGENT: Your driver is still on the way and should arrive around 7:11 AM. If you need anything else, just let me know.
+CALLER: Okay. So that's another that's five more minutes. It'll be 07:11.
+AGENT: Yes, that's right—about five more minutes until 7:11 AM. If you want me to check again later, just ask.
+CALLER: Alright. Okay. Alright.
+AGENT: I'm here whenever you need assistance. Just let me know.
+CALLER: Will do. Bye bye.
+AGENT: Thank you for calling Barwood & Regency, Everett. Have a wonderful day.

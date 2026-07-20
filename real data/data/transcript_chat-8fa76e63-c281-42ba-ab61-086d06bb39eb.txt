@@ -1,0 +1,33 @@
+AGENT: Hi Leah, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I wanted to schedule a tax
+AGENT: I can help with scheduling your ride. To get started, could you please let me know how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: Car.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: From three zero. Milestone entered drive.
+AGENT: I found a location called Milestone Business Park at 1 2 4 1 0 Milestone Center Drive, Suite 6 0 0, Germantown, Maryland. Is this the pickup location you meant?
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide the pickup address again or give me a nearby landmark or cross street to help identify it?
+CALLER: One three five three zero milestone center Drive. ZIP code, two zero eight seven six.
+AGENT: I couldn't locate 1 3 5 3 0 Milestone Center Drive. Could you please provide the city and state for this address?
+CALLER: One two, five three zero milestone entered Drive.
+AGENT: Just to confirm, did you mean 1 2 5 3 0 Milestone Center Drive? Could you please also provide the
+CALLER: Yes.
+AGENT: I have 1 2 5 3 0 Milestone Center Drive,
+CALLER: Germantown.
+AGENT: I have 1 2 5 3 0 Milestone Center Drive, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Six zero zero.
+AGENT: Could you please provide
+CALLER: Clinical medical. Medical. Medical. Two zero six zero zero. Meadows. Parkway. Germantown Two zero eight. Seven six.
+AGENT: Thank you for the details. Just to confirm, is your dropoff address 6 0 0 Clinical Medical Parkway, Germantown, Maryland?
+CALLER: No.
+AGENT: Could you please clarify or provide the correct dropoff address again?
+CALLER: Ten zero six zero zero. Jenica,
+AGENT: Could you please provide the full
+CALLER: Nettles. Parkway
+AGENT: Could you please confirm the full dropoff address including the street number, street name, city, and state?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: zero. Six zero zero
+AGENT: Could you please

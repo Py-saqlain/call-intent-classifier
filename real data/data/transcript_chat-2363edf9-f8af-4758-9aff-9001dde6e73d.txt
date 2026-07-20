@@ -1,0 +1,46 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Pearl Montgomery?
+CALLER: Yes.
+AGENT: Thanks for confirming, Pearl. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I like a care for right now
+AGENT: I can help with that. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Thank you for choosing Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three three four three three one
+AGENT: Thank you, Pearl. Your payment with Call and Ride is all set.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Two zero zero one zero. Greek Gun Circle in Germantown.
+AGENT: I found a similar address from recent trips: 20010 Sweetgum Circle, Germantown, Maryland. Is that the correct pickup location?
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Ninety eight zero one Holy Cross Hospital in Germantown. Two passengers
+AGENT: I couldn't find an exact match for 9801 Holy Cross Hospital in Germantown, but I found 19801 Observation Drive, Germantown, Maryland 20876. Is that the correct destination?
+CALLER: Is that Holy Cross Hospital?
+AGENT: Yes, 19801 Observation Drive in Germantown is the address for Holy Cross Germantown Hospital. Should I use that as your dropoff location?
+CALLER: Okay.
+AGENT: Your dropoff address has been verified, Pearl. I will now proceed with arranging your ride.
+AGENT: You mentioned you want a ride right now. Is that correct? Please say yes to confirm or let me know if you want a different pickup time.
+CALLER: Yes. This is a open return Yes. Yes. With a open return.
+AGENT: Got it about the open return. Now, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. Now. Two two
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle?
+CALLER: Two two You
+AGENT: Thank you for letting me know. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 10.5 dollars, paying with your Call and Ride account. You mentioned you'd like an open return trip — would you still like me to set that up?
+CALLER: Yeah. Yeah.
+AGENT: For your return trip, when would you like to be picked up? You can give me a specific time or say how many hours after your first trip you'd like the pickup.
+CALLER: I'll call back. I don't know how long it's gonna be.
+AGENT: Your return trip is recorded as a will-call trip, so you can call back when you're ready. Now, how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two. Two
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle for the return trip?
+CALLER: No.
+AGENT: For your return trip, I have the pickup as 19801 Observation Drive, Germantown, Maryland, and the dropoff as 20010 Sweetgum Circle, Germantown, Maryland. Is that correct?
+CALLER: Yeah.
+AGENT: The estimated fare for your return trip is 11.5 dollars, paying with your Call and Ride account. Should I go ahead and book both your main trip and the return trip?
+CALLER: Yeah. Yeah.
+AGENT: Booking your trips now.
+AGENT: Your main trip is scheduled for today at 12:39 pm with confirmation number 2 1 3 6 6 9 3 8 1. Your return trip is a will-call booking with confirmation number 2 1 3 6 6 9 3 8 2. You can call back when you're ready for the return trip and a driver will be sent then. Is there anything else I can help you with?
+CALLER: No. That's it. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Pearl. Have a wonderful day!
+CALLER: Alright. You too.
+AGENT: Thank

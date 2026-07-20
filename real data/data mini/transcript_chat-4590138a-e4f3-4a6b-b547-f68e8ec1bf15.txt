@@ -1,0 +1,20 @@
+AGENT: Hi Yuna, this is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I would like to have a taxi
+CALLER: in front of my house, the street 45 today. Going to Dallas Airport.
+AGENT: Thank you for sharing your pickup and dropoff details. Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+AGENT: Alright, just to confirm, your pickup is at 4 5 in front of your house, heading to Dulles Airport today. How would you like to pay? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: It's six it's six six forty five six forty five
+AGENT: Hmmm.. that didn't seem quite clear. Could you please tell me again the last six digits of
+CALLER: The pickup is six forty five.
+AGENT: I want to make sure I understand correctly. Are you providing the last six digits of your Call and Ride card as six four five? If so, that is only three digits. Could you please provide all six digits? Or if you meant something else, please let me know how you'd like to pay. <emotion value="hesitant"/>
+CALLER: I had to pay the case.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+CALLER: Right. I want to check about the pickup time.
+AGENT: I see you'd like to check about the pickup time. Before we get to that, I found a few pickup locations matching
+CALLER: Yes.
+AGENT: I found that Dallas Airport is outside our service area. Could you please provide an alternative dropoff address?
+CALLER: I have to get to Dallas airport
+AGENT: I understand you need to go to Dallas Airport, but unfortunately, that location is outside our service area. Could you please provide a different destination within our service area?
+CALLER: No. Is it bravo tech taxi?
+CALLER: Hello?
+AGENT: Uhh, yes,

@@ -1,0 +1,39 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Mary hall?
+CALLER: Yeah.
+AGENT: Thanks for confirming, Mary. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I want to be picked up. For scheduled trip and return trip.
+AGENT: Thank you for letting me know about the scheduled trip and return trip, Mary. To get started, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: Caller ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: Could you please provide the last
+CALLER: Zero six three nine zero six three nine one four.
+AGENT: Thank you, Mary. Your payment with Call and Ride is all set. What time would you like your pickup for the scheduled trip?
+AGENT: Thank you, Mary. To start, could you please tell me the pickup address for your scheduled
+CALLER: Now.
+AGENT: Thank you. Could you
+CALLER: Eight six. Eight zero b Bureau Drive, Gaithersburg, Maryland two zero eight seven eight.
+AGENT: I have 8 0 Bureau Drive, Gaithersburg, Maryland for your pickup. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Four seven four.
+AGENT: Could you please provide
+CALLER: North Frederick Road,
+AGENT: To make sure I have the correct dropoff address, is it 4 7 4 North Frederick Road?
+CALLER: Yes.
+AGENT: I couldn't find an exact match for 4 7 4 North Frederick Road. However, I found 7 0 1 South Frederick Avenue in Gaithersburg, Maryland. Is that the correct dropoff location?
+CALLER: Because you know it's not
+AGENT: Thank you for letting me know. Could you please provide more details or clarify the dropoff address so I can find the correct location for you?
+CALLER: Four seven four
+AGENT: To clarify, is the dropoff
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: North Frederick Road, Gaithersburg, Maryland.
+AGENT: I found a few locations for 4 7 4 North Frederick Road in Gaithersburg, Maryland:
+
+1. Bank of America with Drive-thru ATM at 7 0 1 South Frederick Avenue
+2. Bank of America with Drive-thru ATM at 4 7 4 North Frederick Avenue
+3. Bank of America ATM Drive-thru at 4 7 4 North Frederick Avenue
+4. 4 7 4 North Frederick Avenue Suite 201
+
+Which one would you like to use as your dropoff?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

@@ -1,0 +1,13 @@
+AGENT: Hello Priyanga, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, I I booked a ride, uh, but I'm gonna be late another ten more minutes.
+AGENT: Okay, I understand you'll be about ten minutes late for your ride. Since you already have a booking, would you like me to help you check the status, modify the pickup time, or connect you with someone who can assist?
+CALLER: I already have a booking. That's the number. That's all.
+AGENT: Alright, since you already have a booking and just want to confirm or check on it, I'll connect you with someone who can help you with your existing reservation.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: You can hear me now.
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: The my the taxi is ready for me outside, but I'm gonna be late ten more minutes.
+AGENT: Hmm, let me check on that for you. Uhh, it looks like there isn't an active trip scheduled under your profile right now. Would you like me to help you book a new ride?
+CALLER: No. I'm gonna give the address as arriving as nine nine one one Watkins Road Gaithersburg, Maryland
+AGENT: Okay, just to confirm, you want to book a ride to nine nine one one Watkins Road in Gaithersburg, Maryland? Is that correct?
+CALLER: No. I don't need a a ride. I already have a ride. I'm gonna be okay. I see. No. Oh, goodness. But

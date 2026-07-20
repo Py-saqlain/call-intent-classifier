@@ -1,0 +1,34 @@
+AGENT: Hi Michael, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I'm a I came outside, and my cab was gone.
+AGENT: I understand that your cab is no longer there. Would you like me to check the status of your current trip or help you book a new ride?
+CALLER: I need my cab. Yes, ma'am.
+AGENT: It looks like you don't have an active trip scheduled right now. Would you like me to help you book a new cab?
+CALLER: And if necessary, book a new ride.
+AGENT: Thank you for letting me know. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: I I I I pray for it. I'll pray change.
+AGENT: Just to be sure, did you mean you would like to pay with cash?
+CALLER: Yes. I would. I I like them. I got to be there too.
+AGENT: Thank you for confirming cash as your payment method. I'll proceed with that for your ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: I'm trying to fifty six forty. Whitfield Chapel Road, Atlanta, Maryland two zero seven zero six.
+AGENT: I couldn't find an exact match for 5 6 4 0 Whitfield Chapel Road in Atlanta, Maryland. However, I found a nearby location at 5 1 2 0 Whitfield Chapel Road in Lanham, Maryland 2 0 7 0 6. Is that the correct pickup location?
+CALLER: No. Why? Six, four o apartment two zero two, Whitesville Chapel Road. Lanham, Maryland two zero seven zero six.
+AGENT: I couldn't find an exact match for 6 4 0 2 Whitesville Chapel Road in Lanham, Maryland 2 0 7 0 6. The closest I found is still 5 1 2 0 Whitfield Chapel Road in Lanham, Maryland 2 0 7 0 6. Could you please confirm if this is the correct pickup location or provide another address?
+CALLER: Yeah. I will address five six four o Whitfield, Chapel Road.
+AGENT: I found a location called Mt Calvary Baptist Church at 5 1 2 0 Whitfield Chapel Road in Lanham, Maryland. Is this the correct pickup location?
+CALLER: No. I'm straight I'm I'm down from there. I'm up I'm up I'm up in the apartment complex.
+AGENT: Thank you for clarifying. Could you please provide the name of the apartment complex or any other nearby landmark to help me find your exact pickup location?
+CALLER: The gas station on which you'll travel Road in Lanham Atlanta Road.
+AGENT: I found several gas stations near Whitfield Chapel Road and Lanham Atlanta Road, but none are exactly on those roads. Here are some options:
+
+1. Shell at 6 0 0 1 Greenbelt Road, Berwyn Heights, Maryland
+2. Shell at 8 7 1 1 Greenbelt Road, Greenbelt, Maryland
+3. BP at 6 3 2 1 Annapolis Road, Hyattsville, Maryland
+4. Sunoco at 7 7 5 0 Annapolis Road, New Carrollton, Maryland
+5. Shell at 8 3 0 9 Annapolis Road, New Carrollton, Maryland
+
+Which one would you like to use as your pickup location? Or if none are correct, could you provide a more specific landmark or address?
+CALLER: Hello?
+AGENT: I'm here to help. Could you please let me know which gas station or pickup location you'd like to use?
+CALLER: Hello?
+AGENT: Yes, I'm here to assist you. Please let me know your preferred pickup location or if you need help finding it.

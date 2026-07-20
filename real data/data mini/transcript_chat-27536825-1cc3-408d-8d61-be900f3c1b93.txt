@@ -1,0 +1,18 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Craig, c r a I g. Hopson, h o p s o n.
+AGENT: Thanks, Craig. This is Ana from Barwood & Regency. How can I help you today?
+AGENT: Take your
+CALLER: Hello?
+AGENT: Take your time. How can I assist you with your ride today?
+CALLER: I mean, it's actually
+AGENT: How can I assist you with your ride or transportation needs today?
+CALLER: I need to ride.
+AGENT: Thank you for letting me know, Craig. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card. Credit card. Credit card. Credit card.
+AGENT: Thank you, Craig. Your payment by credit card is all set.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: One eight six two two Chicagdy Lane, Gaithersburg, Maryland two zero eight seven nine.
+AGENT: I couldn't find an address matching "one eight six two two Chicagdy Lane, Gaithersburg, Maryland." Could you please confirm the street name or provide the full correct pickup address again?
+CALLER: Chickadee Lane, c h I c k a d e e. Chickadee Lane.
+AGENT: I couldn't find any results for Chickadee Lane in Gaithersburg, Maryland. Could you please provide the full street number along with Chickadee Lane?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

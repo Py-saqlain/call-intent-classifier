@@ -1,0 +1,40 @@
+AGENT: Hello, Anusha. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like to order a Regency wheelchair accessible taxi.
+AGENT: Alright, how would you like to pay for your Regency wheelchair accessible taxi? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: For 11:30 today. Right.
+AGENT: Thanks for letting me know the time. Could you please tell me how you would like to pay for your ride? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your Regency wheelchair accessible taxi? <emotion value="peaceful"/>
+CALLER: Yes. It is up Humphreys Funeral Home
+AGENT: Hmm  let me check that address. To make sure I understand correctly, is the pickup location Humphreys Funeral Home? Could you please provide the street number and city for that address? <emotion value="hesitant"/>
+CALLER: in Bethesda, Maryland. It's on Wisconsin Avenue.
+AGENT: I found a location called Robert A. Pumphrey Funeral Home at 7 5 5 7 Wisconsin Avenue, Bethesda, Maryland. Is that the correct pickup location? <emotion value="hesitant"/>
+CALLER: City is Bethesda, Maryland. That's right. Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: that is correct.
+AGENT: Could you please tell me the destination or dropoff address for your ride? <emotion value="peaceful"/>
+CALLER: Yes. It is fifty one o
+AGENT: Uh, I am sorry, but could you please repeat the dropoff address? I didn't quite catch that. <emotion value="hesitant"/>
+CALLER: Yes. It's the Kenwood at fifty one zero one
+AGENT: Thank you. Could you please provide the full street name and city for the dropoff address at fifty one zero one? <emotion value="peaceful"/>
+CALLER: Yes. It's Bethesda, Maryland. Fifty one zero one
+AGENT: I found the dropoff address as 5 1 0 1 River Road, Bethesda, Maryland. Is that the correct destination? <emotion value="hesitant"/>
+CALLER: It's Bethesda, Maryland. Fifty one zero one River Road,
+AGENT: Your dropoff address has been verified, Anusha.
+AGENT: You mentioned needing one wheelchair-accessible vehicle. Is that correct? Please say yes to confirm. <emotion value="peaceful"/>
+CALLER: That's correct.
+AGENT: Okay great! I've got your pickup time set for today at 11:30 AM and one wheelchair noted. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself?
+CALLER: That's right. And does it and three. Three. Three.
+AGENT: Okay great! I've got three passengers including yourself. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: They can pull up into the front of the funeral home.
+AGENT: Alright, the estimated fare is 11.5, paying with Credit Card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: That's right.
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Not at this time.
+CALLER: I'm good.
+AGENT: Your main trip is booked for today at 11:30 AM. Your confirmation number is 2 1 3 6 7 4 6 1 2. Is there anything else I can help you with?
+AGENT: Your main trip is already booked for today at 11:30 AM. Your confirmation number is 2 1 3 6 7 4 6 1 2. Is there anything else I can assist you with?
+CALLER: Nope. That's it. Thank you.
+AGENT: Thank you for calling Barwood & Regency, anusha. Have a wonderful day!
+CALLER: Thank you.

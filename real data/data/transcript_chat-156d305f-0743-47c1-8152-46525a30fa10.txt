@@ -1,0 +1,46 @@
+AGENT: Hello Eufemia, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi. If I can, order a ride around 08:30?
+AGENT: Thanks for letting me know your preferred pickup time around 8:30. How would you like to pay for your ride?
+CALLER: Yes.
+AGENT: Could you please tell me which payment method you'd like to use? We accept cash, credit card,
+CALLER: Cash. Cash. I I prepare cash.
+AGENT: Thank you for choosing cash as your payment method.
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: Eight five zero five
+AGENT: Thank you for the number eight five zero
+CALLER: White Post Court
+AGENT: Just to confirm, is your pickup address eight five zero five White Post Court?
+CALLER: That's correct.
+AGENT: I have the pickup address as eight five zero five White Post Court, Potomac, Maryland. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: One nine one nine Stanley Avenue, Rockville.
+AGENT: Just to confirm, is your dropoff address one nine one nine Stanley Avenue, Rockville, Maryland?
+CALLER: Yes. Yes.
+AGENT: I have the dropoff address as one nine one nine Stanley Avenue, Rockville, Maryland. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified. Thank you, Eufemia. I will now proceed with arranging your ride for 8:30.
+AGENT: Just to confirm, you would like to
+CALLER: Sure. You very much.
+AGENT: Thank you for confirming your pickup time at today at 8:30 PM. How many passengers will be traveling, including
+CALLER: Thank you.
+AGENT: How many passengers will be
+CALLER: Thank you.
+AGENT: Could you please tell me how many passengers will
+CALLER: Just one.
+AGENT: Thank you for letting me know there will be just one passenger. Will you be needing a wheelchair
+CALLER: One. Just me. Yeah.
+AGENT: Thank you
+CALLER: No. No. No. No. Just me.
+AGENT: The estimated fare is 24.5 dollars, paying with Self. Would you like to schedule a return trip
+CALLER: Okay.
+AGENT: You mentioned you'd like a return trip — would you still like me to set that up?
+CALLER: No. No. No.
+AGENT: Alright, I will skip the return trip and proceed with booking just the main trip. Should I go ahead and book it now?
+CALLER: Yes.
+AGENT: Thank you. I am now booking your trip.
+CALLER: Thank you.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 7 0 5 7. The pickup is today at 8:30 PM. Is there anything else I can help you with?
+CALLER: That's all. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Eufemia. Have a wonderful day!
+CALLER: Thank you.

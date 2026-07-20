@@ -1,0 +1,17 @@
+AGENT: Thank you for calling Barwood & Regency. May I have your name or phone number to find your profile?
+CALLER: Kendra Lloyd,
+AGENT: Thanks, Kendra. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Hi. I'm calling from Advanced Surgery Center to let you know that Lloyd is done with her procedure and will be ready to be picked up in thirty minutes.
+AGENT: Okay, thank you for letting us know. I will make sure the pickup is scheduled for thirty minutes from now at the Advanced Surgery Center. May I have the full address of the Advanced Surgery Center, please?
+CALLER: Am I am I technically scheduling the ride for her. Is it allowed? Like, can you she puts down, like, the medic Medicaid transportation and all of that. And, like, she hasn't scheduled or arrived with them yet.
+AGENT: I
+CALLER: And she told me to she told me to call her name, and I did that. And now they're asking for, like, get like, is it is everything having me schedule it. Is that, like, a house? Oh, One zero one one zero Molecular Drive. Rockville, Maryland
+AGENT: Uhh, I understand. Since you are calling on behalf of Ms. Lloyd, I want to make sure we handle this correctly. To clarify, are you asking to schedule a ride for her now from 1 0 1 1 0 Molecular Drive in Rockville, Maryland, or are you just notifying us that she will be ready for a ride soon? Also,
+CALLER: Yes.
+AGENT: Alright, how would you like to pay for Lloyd's ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Just to be sure, when you say "No," do you mean you do not want to provide a payment method now, or would you like to use a different payment method? How would you prefer to pay for the ride? <emotion value="hesitant"/>
+CALLER: Hello? Hello?
+AGENT: I'm here to help. When you're ready, could you please tell me how you would like to pay for the ride? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: Call ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of the Call and Ride card? <emotion value="peaceful"/>

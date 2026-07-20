@@ -1,0 +1,37 @@
+AGENT: Hello Semone, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Okay. Live.
+AGENT: How can I assist you with your ride today?
+CALLER: I need to be picked up and dropped off. Why is he asking me some shit?
+AGENT: I’m here to help you with your ride. To get started, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you for letting me know you’ll be paying with cash.
+AGENT: Could you please tell me the address where you would like to be picked up?
+CALLER: Two zero one five four
+AGENT: Thank you. Could you please provide the street name and city for the pickup address?
+CALLER: Club Hill Drive,
+AGENT: And the city, please?
+CALLER: Germantown.
+AGENT: I have the pickup address as two zero one five four Club Hill Drive, Germantown, Maryland. Is that correct?
+CALLER: It is.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One one four five five.
+AGENT: Thank you. Could you please provide the street name and city for the dropoff address?
+CALLER: Applegraf Way.
+AGENT: And the city, please?
+CALLER: Germantown.
+AGENT: I couldn't locate 11455 Applegraf Way in Germantown, Maryland. Could you please double-check the street number or provide any nearby landmarks or cross streets to help find the correct dropoff address?
+CALLER: One
+AGENT: Just to confirm, is the dropoff address 1 Applegraf Way, Germantown, Maryland?
+CALLER: Yes.
+AGENT: I still couldn't find 1 Applegraf Way in Germantown, Maryland. Could you please provide any additional details, such as a nearby landmark, cross street, or a different street number?
+CALLER: One one. One one one four four five
+AGENT: Could you please clarify if you are giving a new street number for the dropoff address? If so, please provide the full street number, street name, and city again so I can assist you better.
+CALLER: One one four five five Applecrest.
+AGENT: Thank you. And the city for the dropoff address?
+CALLER: Drive.
+AGENT: I meant the city for the dropoff address, please.
+CALLER: Germantown,
+AGENT: I couldn't locate 11455 Applecrest Drive in Germantown, Maryland. Could you please verify the address or provide a nearby landmark or cross street to help find the correct dropoff location?
+CALLER: Jammantown, Maryland. I said apple crap.
+AGENT: Thank you for clarifying. Just to confirm, is the dropoff address 11455 Applecrap Drive, Jammantown, Maryland?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

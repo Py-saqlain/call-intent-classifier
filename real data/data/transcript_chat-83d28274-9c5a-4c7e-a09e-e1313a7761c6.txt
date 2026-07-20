@@ -1,0 +1,30 @@
+AGENT: Hi Christina, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like to reserve a taxi for tomorrow.
+AGENT: Thank you for letting me know about your ride for tomorrow. How would you like to pay for your taxi? We accept cash, credit card, and Call and Ride.
+CALLER: Credit credit card
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: Could you please provide the pickup address for your ride tomorrow?
+CALLER: Eight two one seven Scotch s t o t c h, Bend, b e n d, Way. In potomac Maryland two zero eight five four.
+AGENT: I have 8 2 1 7 Scotch Bend Way, Potomac, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address for your ride?
+CALLER: Dallas Airport.
+AGENT: I have Saarinen Circle, Sterling, Virginia as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Christina. I will now proceed with arranging your ride.
+AGENT: What time tomorrow would you like to be picked up?
+CALLER: 2PM.
+AGENT: Just to confirm, you would like to be picked up tomorrow at 2:00 PM, correct?
+CALLER: Correct.
+AGENT: Thank you for confirming your pickup time. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two passengers No wheelchairs.
+AGENT: I have recorded two passengers and no wheelchairs. Do you have any special instructions or notes for the driver?
+CALLER: No. We have four luggages.
+AGENT: The estimated fare for your trip is 66 dollars, and the payment method on file is credit card. Would you like to schedule a return trip as well?
+CALLER: No. Thank you.
+AGENT: Thank you for your patience. I am now processing your booking.
+AGENT: Your trip is scheduled for tomorrow at 2:00 PM. The confirmation number is 2 1 3 6 7 8 5 0 0. Is there anything else I can assist you with?
+CALLER: Can you repeat the confirmation number?
+AGENT: Certainly. The confirmation number is 2 1 3 6 7 8 5 0 0. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Christina. Have a wonderful day.

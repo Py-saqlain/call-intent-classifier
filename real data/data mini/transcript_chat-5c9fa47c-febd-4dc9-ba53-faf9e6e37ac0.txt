@@ -1,0 +1,14 @@
+AGENT: Hello Fargollah, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi. I need a taxi from Silver Spring to Rockville, please.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: All on ride part. Pull on ride.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero six four five five seven.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: I found Victory Forest, Seniors 62 plus, at 1 0 0 0 0 Brunswick Avenue, Silver Spring. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found a few locations in Rockville. Option one: 8 0 7 3 Snouffer School Road, Gaithersburg. Option two: 7 4 1 1 Lindbergh Drive, Gaithersburg. Option three: 7 9 4 7 Queenair Drive, Gaithersburg. Option four: 1 6 8 0 5 Crabbs Branch Way, Derwood. Option five: 1 6 5 0 1 Redland Road, Rockville. Which one is correct? <emotion value="hesitant"/>
+CALLER: Of them.
+AGENT: Your dropoff address has been verified. Thank you, Fargollah.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Yep.

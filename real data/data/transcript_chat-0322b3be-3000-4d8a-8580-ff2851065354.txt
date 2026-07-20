@@ -1,0 +1,25 @@
+AGENT: Hi Doug, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, I need to get picked up right away or as soon as possible. At the Wilmer Eye Center in Bethesda, Maryland. My appointment has concluded.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: I found a few locations. 
+ Option one: 6 4 3 0 Rockledge Drive, Suite 6 0 0, Bethesda, Maryland. 
+ Option two: 1 0 7 1 0 Charter Drive, Suite 3 1 0, Columbia, Maryland. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Option one.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: That will be my home. It it's four five zero nine Bostfield Lane, Olney, Maryland two zero eight three two.
+AGENT: Hmm <break time="350ms"/> let me check that address. It seems I couldn't find the address you gave me. Could you please confirm the street name again? You said four five zero nine Bostfield Lane in Olney, Maryland. Is that correct? Or is it a different street name? <emotion value="apologetic"/>
+CALLER: Yes. Oh, yeah. Boasfield is correct. It's spelled b o a s t f I e l d.
+AGENT: I couldn't find any results for 4 5 0 9 Boastfield Lane in Olney, Maryland. Could you please double-check the street number or provide a nearby landmark or cross street to help me find it? <emotion value="apologetic"/>
+CALLER: A nearby cross street is Macduff. M a c d u f f.
+AGENT: I still couldn't find Boastfield Lane near Macduff in Olney, Maryland. Could you please check if the street name might be spelled differently or provide another nearby landmark or cross street? <emotion value="apologetic"/>
+CALLER: There's an Emery Lane e m o r y, Emery Lane, That's the closest to my to McDuff.
+AGENT: I still couldn't find Boastfield Lane near Emery Lane in Olney, Maryland. Could you please check if the street name might be spelled differently or provide another nearby landmark or cross street? <emotion value="apologetic"/>
+CALLER: Georgia is the the largest
+AGENT: Uh, I am sorry, but could you repeat that? I didn't quite catch the address or landmark you mentioned.
+CALLER: street nearby. George
+AGENT: Thank you. Just to clarify, is the street name "Georgia" near Boastfield Lane and Emery Lane in Olney, Maryland? Or is it a different street?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Georgia Avenue. Yes.

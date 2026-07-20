@@ -1,0 +1,12 @@
+AGENT: Hi Julie, this is Ana from Barwood & Regency. Your pickup is scheduled for today at 12:35 PM. How can I assist you today?
+CALLER: Please cancel it.
+AGENT: Hmm <break time="300ms"/> I see one trip scheduled for pickup at 12:35 pm from 1 2 5 1 2 Exchange Court South in Potomac going to Saarinen Circle in Dulles. <break time="300ms"/> Would you like me to cancel this trip for you? <emotion value="peaceful"/>
+CALLER: Yes. Please cancel. Please please please cancel.
+AGENT: Okay so <break time="200ms"/> that trip has been cancelled for you. Is there anything else I can help you with? <emotion value="grateful"/>
+CALLER: Yes.
+AGENT: Alright, <break time="300ms"/> how would you like to pay? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Talk to an agent. What? No. It's fine.
+CALLER: Hello?
+AGENT: Uhh, how can I assist you today? Are you looking to book a ride, check on a trip, or speak with someone? <emotion value="peaceful"/>
+CALLER: Talk talk to it. Talk speak with someone. Thank you.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

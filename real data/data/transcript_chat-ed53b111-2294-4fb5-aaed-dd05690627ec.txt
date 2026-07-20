@@ -1,0 +1,7 @@
+AGENT: Hi Khianna, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yeah. Good morning. I'm not yet.
+AGENT: Alright, no rush at all. Whenever you're ready, just let me know how I can assist you today.
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

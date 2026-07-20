@@ -1,0 +1,10 @@
+AGENT: Hi Joan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I mean, please go ahead. Only one can he see a ruler up here,
+AGENT: Could you please clarify if you'd like to book a ride now? If so, could you tell me your pickup location and destination?
+CALLER: Forty one ten Easel Road Rockville. Mullen.
+AGENT: Thank you for sharing your pickup address at 4 1 1 0 Easel Road in Rockville. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Medical.
+AGENT: We warmly accept only cash, credit card, and Call and Ride for payment. Since medical is not accepted here, would you like me to connect you to a live agent who can assist with other options?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes. Already.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

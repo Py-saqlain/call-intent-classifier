@@ -1,0 +1,31 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Cesy Martinez Mejia?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Thanks for confirming, Cesy. This is Ana from Barwood & Regency. Your trip with vehicle 273 is accepted and scheduled for pickup today at 12:00 PM. How can I assist you today?
+CALLER: We want to cancel the
+AGENT: I can help you with canceling your trip. Let me connect you to the cancellation specialist who can assist you with that.
+AGENT: I see six trips on your account.  
+Trip one: pickup at 111 Michigan Avenue Northwest in Washington at 12:00 pm going to Silver Spring.  
+Trip two: pickup at 111 Michigan Avenue Northwest in Washington at 12:00 pm on July 17th going to Silver Spring.  
+Trip three: pickup at 111 Michigan Avenue Northwest in Washington at 12:00 pm on July 20th going to Silver Spring.  
+Trip four: pickup at 111 Michigan Avenue Northwest in Washington at 12:00 pm on July 22nd going to Silver Spring.  
+Trip five: pickup at 111 Michigan Avenue Northwest in Washington at 12:00 pm on July 24th going to Silver Spring.  
+Trip six: pickup at 111 Michigan Avenue Northwest in Washington with no specific time going to Silver Spring.  
+Which one would you like to cancel?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?
+AGENT: Yes, I'm here to help. Which trip would you like to cancel from the list I shared?
+CALLER: I'm gonna cancel the one from the morning.
+AGENT: Hmm, could you clarify which trip you mean by "the one from the morning"? You have several trips at 12:00 pm on different days. Would you like to cancel the first trip today at 12:00 pm, or another one?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Alrighty.
+AGENT: Okay, so you want to cancel the trip with pickup at 111 Michigan Avenue Northwest in Washington today at 12:00 pm going to Silver Spring. Is that correct?
+CALLER: Yes. But I also wanna cancel the one in the morning. That's picked me up at five you know, six to twenty ish.
+AGENT: Hmm, let me check for a trip around 5 or 6:20 am for you.
+AGENT: I don't see a trip scheduled around 5 or 6:20 am. The trips on your account are all at 12:00 pm on various days or have no specific time. Would you like to cancel any of those instead?
+CALLER: No. Just to have a new one from today.
+AGENT: Hmm, I understand you want to cancel the trip today at 12:00 pm and also cancel a trip from earlier this morning around 5 or 6:20 am, but I don't see a trip scheduled for that earlier time. Would you like me to cancel just the trip today at 12:00 pm for now?
+CALLER: Yes, please.
+AGENT: Okay, so that trip today at 12:00 pm has been cancelled for you. Is there anything else I can help you with?
+CALLER: That's all.
+AGENT: Thank you for calling Barwood & Regency, Cesy. Have a wonderful day!

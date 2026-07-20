@@ -1,0 +1,34 @@
+AGENT: Hi Sahar, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Need to make a reservation for tomorrow.
+AGENT: I'd be happy to help with your reservation for tomorrow. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Payment credit card.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: Could you please provide the pickup address for your ride tomorrow?
+CALLER: Yeah. Can you pick me up from the Dallas International Airport?
+AGENT: Just to confirm, you mean Washington Dulles International Airport in Virginia, correct?
+CALLER: Yes. Yes.
+AGENT: I have 1 Saarinen Circle, Dulles, Virginia as your pickup address. Is that correct? Please say yes if it is.
+CALLER: Yes. Yes. That's correct.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address for your ride?
+CALLER: One nine one nine Connecticut Avenue Northwest in Washington DC.
+AGENT: I have 1 9 1 9 Connecticut Avenue Northwest, Washington, District of Columbia as your dropoff address. Is that correct?
+CALLER: 1919 Connecticut Avenue Northwest in Washington DC. Yes.
+AGENT: Your dropoff address has been verified. Thank you, Sahar. I will now proceed with your reservation.
+AGENT: What time tomorrow would you like to be picked up?
+CALLER: Yes. That's correct.
+AGENT: Could
+CALLER: Pick me up. Tomorrow at 11PM.
+AGENT: I've noted your pickup time as tomorrow at 11:00 PM. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: That's correct.
+AGENT: Could you please tell me how many passengers will be traveling, including yourself, and if anyone will need a wheelchair-accessible vehicle?
+CALLER: Yes.
+AGENT: Could you please specify the number of passengers and whether anyone will need a
+CALLER: One passenger and no wheelchair and no instructions for the driver.
+AGENT: The estimated fare for your trip is 70.5 dollars, and you will be paying with a credit card. Would you like to schedule a return trip as well?
+CALLER: And for the transcript.
+AGENT: The estimated fare for your main trip is $70.5. Would you like to schedule a return trip as well?
+CALLER: Not a time trip.
+AGENT: Thank you for your patience. I am processing your main trip booking now.
+AGENT: Your main trip is scheduled for tomorrow at 11:00 PM. Your confirmation number is 2 1 3 6 8 0 3 5 1. Is there anything else I can assist you with?
+CALLER: No. Thank you. Nothing else.
+AGENT: Thank you for calling Barwood & Regency, Sahar. Have a wonderful day!

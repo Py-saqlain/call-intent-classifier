@@ -1,0 +1,77 @@
+AGENT: Hello, Andre. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a ride to go to aircraft drive in Germantown.
+AGENT: Thank you for letting me know your destination. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Hello. This is insurance. Call They call they told me to call call. I called. Told me call and get get involved.
+AGENT: I understand you mentioned insurance, but for this service, we only accept cash, credit card, or Call and Ride. Would you like to use one of these payment methods? If you need help with other options, I can connect you to a live agent.
+CALLER: Call call call ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes. Yeah.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Last digit of my call card, it said four five nine one
+AGENT: Thank you for sharing those digits. To make sure I have it right, you said the last four digits are 4 5 9 1. Could you please provide the full last six digits of your Call and Ride card?
+CALLER: Three three three nine four five nine one.
+AGENT: Thank you for that. Just to clarify, the last six digits of your Call and Ride card are 3 3 3 9 4 5 9 1? That seems like eight digits. Could you please provide exactly the last six digits?
+CALLER: Three nine four five nine one.
+AGENT: Thank you for providing your Call and Ride card details. Your payment method is set to Call and Ride.
+AGENT: Could you please provide the pickup address for your trip?
+CALLER: It's what?
+AGENT: I’m asking for the address where you would like to be picked up for your trip. Could you please tell me that?
+CALLER: Eleven six two
+AGENT: Thank you. Could you please provide the street name and city for the pickup address at 1 1 6 2?
+CALLER: Eight hourglass way.
+AGENT: Just to confirm, your pickup address is 1 1 6 2 Eight Hourglass Way. Could you please tell me the city and state for this address?
+CALLER: Germantown, Maryland two zero eight Mhmm.
+AGENT: I couldn't find 1 1 6 2 Eight Hourglass Way in Germantown, Maryland. Could you please double-check the street name or provide any nearby landmarks or cross streets to help identify the pickup location?
+CALLER: Germantown, Maryland. Two zero eight seven six.
+AGENT: Thank you for that. Could you please provide the street name for the pickup address at 2 0 8 7 6 in Germantown, Maryland?
+CALLER: Eleven six two eight Hourglass Way,
+AGENT: Just to clarify, is your pickup address 1 1 6 2 Eight Hourglass Way in Germantown, Maryland?
+CALLER: Yes.
+AGENT: I still can't locate 1 1 6 2 Eight Hourglass Way in Germantown, Maryland. Could you please check if the street name or number might be different, or provide another nearby landmark or cross street?
+CALLER: 11628. Hourglass Way, Germantown, Maryland
+AGENT: Just to confirm, your pickup address is 1 1 6 2 8 Hourglass Way, Germantown, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: I found two locations for Aircraft Drive in Germantown:
+
+1. BP at 1 9 9 1 1 Aircraft Drive
+2. Salvation Army at 2 0 0 2 1 Aircraft Drive
+
+Which one would you like to go to?
+CALLER: Aircraft route.
+AGENT: Could you please clarify if you mean the BP at 1 9 9 1 1 Aircraft Drive or the Salvation Army at 2 0 0 2 1 Aircraft Drive in Germantown?
+CALLER: Two zero zero one eight in aircraft drive in Germantown, Maryland.
+AGENT: Your dropoff address has been verified, Andre. I will now proceed with the next steps for your trip.
+AGENT: When would you like to be picked up?
+CALLER: In the next thirty five minutes or hour.
+AGENT: Thanks, I've scheduled your pickup for today at 3:04 PM. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thank you for letting me know no wheelchair is needed. How many passengers will be traveling?
+CALLER: One.
+AGENT: Got it, one passenger and no wheelchair. Do you have any special instructions or notes for the driver?
+CALLER: Just call me when you get here.
+AGENT: The estimated fare is 10 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: Great, I'll start collecting the details for your return trip now.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Thirty minutes from there.
+AGENT: I've scheduled your return pickup for today at 3:34 PM. How many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: What No.
+AGENT: Just to confirm, for your return trip, will there be no passengers traveling and no wheelchair needed? Could you please clarify the number of passengers for the return trip?
+CALLER: Nope.
+AGENT: Thank you for clarifying. How many passengers will be traveling on your return trip, including yourself?
+CALLER: One. One
+AGENT: For your return trip, I have the pickup address as 2 0 0 2 1 Aircraft Drive and the dropoff address as 1 1 6 2 8 Hourglass Way. Is that correct?
+CALLER: Correct.
+AGENT: The estimated fare for your return trip is 10 dollars, paying with your Call and Ride account. Should I go ahead and book both your main trip and return trip?
+CALLER: Yes Payment is by the care right No. Not for me. I don't have any cash.
+AGENT: Thank you for confirming you want to book both trips and that payment is by your Call and Ride account. I will proceed with booking now.
+AGENT: Thank you for your patience. I'm booking both your main trip and your return trip now.
+AGENT: Your main trip is scheduled for today at 3:04 PM with confirmation number 2 1 3 6 6 9 5 9 5. Your return trip is scheduled for today at 3:34 PM with confirmation number 2 1 3 6 6 9 5 9 6. Is there anything else I can help you with?
+CALLER: Repeat the the confirmation pickup number. Two one three six six
+AGENT: For which trip would you like me to repeat the confirmation number, the main trip or the return trip?
+CALLER: Pick up address.
+AGENT: I want to make sure I understand correctly—are you asking me to repeat the pickup address for your trip?
+CALLER: The confirmation number.
+AGENT: For the main trip, the confirmation number is 2 1 3 6 6 9 5 9 5. For the return trip, the confirmation number is 2 1 3 6 6 9 5 9 6. Is there anything else I can assist you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, andre. Have a great day!

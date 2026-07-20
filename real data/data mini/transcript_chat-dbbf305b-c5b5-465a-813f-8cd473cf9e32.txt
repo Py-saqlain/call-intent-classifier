@@ -1,0 +1,12 @@
+AGENT: Hi Nicole, this is Ana with Barwood & Regency. Vehicle 1126 has arrived at your pickup location. How can I assist you today?
+CALLER: Uh-huh.
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: This is gonna stop the bleeding for you. Okay? A little bit. Y'all was waiting with my damn. Why? It all the way up. Already came. You already came? It was twelve?
+AGENT: Umm, I want to make sure I understand you correctly. Are you asking about a ride that was supposed to come at 12 o'clock, or are you checking on the status of a trip? <emotion value="hesitant"/>
+CALLER: Thirty minutes late. That's why it's it's taking thirty minutes more. I'm sorry. Sounds good. Everything done. They will save your trip.
+AGENT: It sounds like you're concerned about a ride that was about thirty minutes late. If you'd like, I can check the status of that trip for you or help with anything else related to it. Would you like me to look into that now? <emotion value="grateful"/>
+AGENT: Okay, so your driver is currently at the pickup location and was estimated to arrive around 12:04 pm, just a few minutes after your scheduled 12:00 pm pickup time. Is there anything else I can check for you? <emotion value="content"/>
+CALLER: I wanna wait. Well, it just takes too long. Is it already taking too long? Maybe I should just check it. Five minutes to go.
+AGENT: Okay, your driver is still at the pickup location and should be there very shortly, just a few minutes away. If you want, I can connect you with someone who can assist further. Would you like that? <emotion value="content"/>
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

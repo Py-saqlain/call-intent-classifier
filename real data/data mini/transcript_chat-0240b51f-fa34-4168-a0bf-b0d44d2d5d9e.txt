@@ -1,0 +1,23 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Coster, c o s t e r.
+AGENT: Thanks, Coster. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I'd like to see about scheduling a taxi ride tomorrow morning.
+AGENT: Thank you for letting me know about your ride for tomorrow morning. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: I'll probably go with cash.
+AGENT: Thank you, cash it is. I'll proceed with that for your ride tomorrow morning.
+AGENT: Could you please tell me the pickup address for your ride tomorrow morning?
+CALLER: Seventy eight thirty three Briardale Terrace, Durwood, Maryland two zero eight five five.
+AGENT: I wasn't able to locate that pickup address. Could you please confirm the city name again? You mentioned Durwood—did you mean Durwood or another city?
+CALLER: Sure. Durwood, Maryland.
+AGENT: I couldn't find Briardale Terrace in Durwood, Maryland. Could you please double-check the street name or provide a nearby landmark or cross street to help me find your pickup location?
+CALLER: No. It's Durwood.
+AGENT: Thank you for confirming Durwood. Since Briardale Terrace didn't come up, could you please tell me if there is another street name or a nearby landmark close to your pickup location? That will help me find it for you.
+CALLER: Shady Grove Road at
+AGENT: Thank you. Could you please provide the street number for your pickup on Shady Grove Road?
+CALLER: It's not Shady Grove Road. It's Brierdale Terrace.
+AGENT: Thanks for clarifying that it's Briardale Terrace, not Shady Grove Road. Could you please provide the street number for your pickup on Briardale Terrace?
+CALLER: Do you can I speak to a person instead of a computer?
+CALLER: I speak to a person rather than a computer?
+AGENT: I can help with your booking details — would you like to continue?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: If I can speak to a person, yes.

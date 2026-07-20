@@ -1,0 +1,26 @@
+AGENT: Hi Alex, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I need to make a reservation on five eight zero one to my home.
+AGENT: Thanks for sharing your pickup address. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: I pay with cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: I have the pickup address as 5 8 0 1 York Road, Baltimore, Maryland, and the dropoff as your home at 8 2 0 1 Snouffer School Road, Gaithersburg, Maryland. Is that correct?
+CALLER: The what? Let me remember. That's correct. That's correct.
+AGENT: I have the dropoff address as 8 2 0 1 Snouffer School Road, Gaithersburg, Maryland. Is that correct?
+CALLER: Okay.
+AGENT: Your dropoff address has been verified. Thank you, Alex.
+AGENT: When would you like to be picked up?
+CALLER: Can you pick me up at 06:30 today?
+AGENT: Just to confirm, you mean 6:30 PM today, correct?
+CALLER: Yes.
+AGENT: Your pickup time is set for today at 6:30 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Passengers and no Okay.
+AGENT: Just to clarify, you have how many passengers? And you said no to wheelchair-accessible vehicle, correct?
+CALLER: Go back in there.
+CALLER: Two passengers.
+AGENT: How many passengers will be traveling, including yourself?
+AGENT: How many passengers will be traveling, including yourself?
+AGENT: How many passengers will be traveling, including yourself?
+CALLER: Two passengers.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+AGENT: Thank

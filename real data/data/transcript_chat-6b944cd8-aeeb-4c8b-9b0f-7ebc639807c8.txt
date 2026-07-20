@@ -1,0 +1,55 @@
+AGENT: Hello Dr, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Okay. I need a taxi to take me
+CALLER: to the giant food store on Hungerford Drive.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Yes. $4.23. Twinbrook Parkway.
+AGENT: Just to confirm, is your pickup address 4 2 3 Twinbrook Parkway, Rockville, Maryland?
+CALLER: Yes. Yes.
+AGENT: Okay, just to confirm, your pickup address is 4 2 3 Twinbrook Parkway, Rockville, Maryland. Is that correct?
+CALLER: Yes. Yes. Yes. I would say that three, four times. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: The Yes, it is. It is 625 Hungerford Drive.
+CALLER: Rodville.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, just to confirm, your dropoff address is 6 2 5 Hungerford Drive, Rockville, Maryland. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Dr.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Immediately.
+AGENT: Okay, I've got your pickup time as today at 2:07 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Just one. Just my just my stuff. No. Nothing like that.
+AGENT: Alright, the estimated fare is 12 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+CALLER: Yes. To come back to this address.
+CALLER: To come back to four twenty three
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Immediately, I mean, I mean, within five minutes.
+AGENT: The return trip pickup time must be at least 10 minutes after your main trip
+CALLER: Of my drop off time.
+AGENT: Yes, the return trip pickup time needs to be at least 10 minutes after your main trip pickup time, which
+CALLER: Alright. Well, Tim okay, Tim.
+AGENT: I want to make sure I
+CALLER: Okay. That's fine.
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Ten minutes after I'm dropped off.
+AGENT: Okay great! I've got your return trip pickup time as ten minutes after you're dropped off. Alright, soo <break time="300ms"/> so how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion
+CALLER: One one each way. No.
+AGENT: Okay, just to confirm your return trip pickup address is 6 2 5 Hungerford Drive, Rockville, Maryland, and your return trip dropoff address is 4 2 3 Twinbrook Parkway, Rockville, Maryland. Is that
+CALLER: Yeah. Yes. That's correct.
+AGENT: The estimated fare for your return trip is 12 dollars, paying with your Self account. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yeah. Yes, please. Immediately.
+AGENT: Okay, so I am booking both trips for you now. <emotion value="grateful"/>
+AGENT: I'm processing your booking now. Please hold on a moment.
+CALLER: Alright.
+AGENT: Your main trip confirmation number is 2 1 3 6 7 4 1 6, with pickup today at 2:07 pm. Your return trip confirmation number is 2 1 3 6 7 4 1 7, with pickup tomorrow at 12:07 am. Is there anything else I can help you with?
+CALLER: Not tomorrow. Not tomorrow. Today.
+AGENT: Thank you for clarifying. Your return trip pickup is scheduled for tomorrow at 12:07 am, which is just after midnight, so
+CALLER: The pickup time is today. No, No. Not tomorrow, ma'am. My pickup will be today.
+AGENT: I understand your return trip pickup should be today. Let me check and adjust that for you right away.
+AGENT: I understand you'd like to change your return trip pickup time to today. Trip modifications need to be handled by a live agent. Let me connect you with someone who can help.
+AGENT: I'm connecting you now to a customer service representative who can
+CALLER: Okay.
+AGENT: If you need

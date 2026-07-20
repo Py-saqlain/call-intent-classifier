@@ -1,0 +1,46 @@
+AGENT: Hi Tamika, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Custom service.
+AGENT: Could you please tell me more about the custom service you need? Are you looking to book a ride or something else?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Could you please clarify if you want to activate a will-call trip or if you need help with booking or something else?
+CALLER: Booking.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Caller ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero one zero nine two three.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: One six zero zero one Shady Grove Road, Rockville, Maryland two zero eight five zero.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found your pickup address as one six zero zero one Shady Grove Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yes. I'm going to Florida's Fingers Elementary School. Silver Spring, Maryland 20910.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I found a few locations.  
+Option one: 2600 Hayden Drive, Silver Spring.  
+Option two: 500 Schuyler Road, Silver Spring.  
+Option three: 631 Silver Spring Avenue, Silver Spring.  
+Which one is correct? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm going to two six zero zero Hayden Drive, Taylor Spring, Maryland two zero nine zero two.
+AGENT: Okay, so you said two six zero zero Hayden Drive, Taylor Spring, Maryland two zero nine zero two. Let me check that address for you. <emotion value="peaceful"/>
+AGENT: Okay, so I found your dropoff address as two six zero zero Hayden Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Tamika. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now I'm ready to go.
+AGENT: Okay great! I've got your pickup time as today at 11:44 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Just two. Me and my son.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 19 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 11:44 AM. Your confirmation number is 2 1 3 6 7 1 8 5 7. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Tamika. Have a wonderful day!

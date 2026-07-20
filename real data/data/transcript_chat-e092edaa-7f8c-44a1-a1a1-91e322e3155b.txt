@@ -1,0 +1,36 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Yes. I'm not so first name is Sam, last name Michael, m I k h a I l.
+AGENT: Thanks, Sam. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a lift from Suburban Hospital.
+AGENT: Thank you for letting me know your pickup location at Suburban Hospital. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Really cool
+AGENT: Could you please tell me how you would like
+CALLER: Oh, shoot. I don't have a credit
+AGENT: No problem at all. Would you prefer to pay with cash or Call
+CALLER: card. Wait. Wait. I have a credit card. I have a credit card. Right? I can't no. No. No. Credit card.
+AGENT: Thank you for confirming credit card as your payment method. I’m processing that for you now.
+AGENT: I wasn't able to find Suburban Hospital nearby. Could you please provide the full street address or a nearby cross street or landmark?
+CALLER: Suburban Hospital, Georgetown Road.
+AGENT: Thank you. What is the street number on Georgetown Road for Suburban Hospital?
+CALLER: What's the street address here?
+AGENT: I don’t have the exact street number for Suburban Hospital on Georgetown Road. Could you please provide the street number if you know it? If not,
+CALLER: Eighty six hundred. Eight eight six eighty six hundred Old Georgetown Road.
+AGENT: Just to confirm, is your pickup address 8 6 0 0 Old Georgetown Road?
+CALLER: Yes.
+AGENT: Just to confirm, your pickup address is 8 6 0 0 Old Georgetown Road, Bethesda, Maryland. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Okay. Before I give you that, when will it when will the tax be able to pick me up? What time?
+AGENT: I’m here to help with your addresses right now. Once we have your pickup and dropoff addresses confirmed, I’ll make sure your trip details get to the booking team who can assist you with pickup time and scheduling. Could you please provide the destination
+CALLER: You can't give me can't give me this. You can't give me an estimated time to pick up?
+AGENT: I understand you’d like to know the pickup time. I’m focused on collecting your addresses right now to make sure everything is accurate. Once your addresses are confirmed, the booking team will handle the pickup time and get back to you with the details. Could you please provide the destination address?
+CALLER: Eight four one six Comanche Court, Bethesda.
+AGENT: Just to confirm, is your dropoff address 8 4 1 6 Comanche Court, Bethesda, Maryland?
+CALLER: Yes.
+AGENT: I wasn't able to find 8 4 1 6 Comanche Court, Bethesda, Maryland. Could you please confirm the full street address including the city and state?
+CALLER: 8416 Comanche, c o m a n. C h e, Court, Bethesda, Maryland two zero eight one seven.
+AGENT: Thank you for the details. Just to confirm, is your dropoff address 8 4 1 6 Comanche Court, Bethesda, Maryland?
+CALLER: Yes.
+AGENT: I’m still unable to locate 8 4 1 6 Comanche Court, Bethesda, Maryland. Could you please double-check
+CALLER: Look. Look. Look. Look. I don't have all day. Either you can come or you can't come. Can you come? Yes or no?
+AGENT: I understand your urgency. I’m here to

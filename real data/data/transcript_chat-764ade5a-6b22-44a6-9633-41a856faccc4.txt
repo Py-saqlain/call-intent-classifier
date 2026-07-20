@@ -1,0 +1,42 @@
+AGENT: Hello, price. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi. I'd like to book a new trip
+AGENT: Thank you for choosing us for your trip. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: call and ride
+AGENT: I can help with that. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero eight one one five five.
+AGENT: Thank you for providing your Call and Ride information. Your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: 19520 Waters Road, Germantown, Maryland two zero eight seven four.
+AGENT: I have 1 9 5 2 0 Waters Road, Germantown, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Well, it's gonna be around roundabout trip because after I go to this destination, I'd like for the same driver to wait for me while I shop at at the Giant. At one three zero six zero Middlebrook Road, Germantown, Maryland
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Now, could you please tell me the destination or dropoff address for your main trip?
+CALLER: Well, after sorry. Can you hear me okay?
+AGENT: Yes, I can hear you clearly. Please go ahead with your destination address when you're ready.
+CALLER: Okay. So what after you pick me up from from Liberty Mill Apartments at what one at one nine five two zero Waters Road, And once you drop me off at the Giant Food at 1300 Middlebrook Road? I would like for the driver to wait for me while I shop for a few groceries. Then once I'm finished, I'd like the same driver to take me back to to Liberty Mill Apartments
+AGENT: Thank you for explaining your trip details. To make sure I have it right, your pickup is at 1 9 5 2 0 Waters Road, Germantown, Maryland, and your dropoff is at 1 3 0 0 Middlebrook Road, Germantown, Maryland, at the Giant Food. You want the driver to wait for you while you shop, then take you back to Liberty Mill Apartments. 
+
+Let's confirm the dropoff address first. Is 1 3 0 0 Middlebrook Road, Germantown, Maryland correct for your dropoff?
+CALLER: No. No. No. No. It's one three zero six no. It's 13060 Middlebrook Road.
+AGENT: I have 1 3 0 6 0 Middlebrook Road, Germantown, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. Mhmm. Yep.
+AGENT: Your dropoff address has been verified. Thank you, Price. I will now proceed with arranging your trip.
+AGENT: When would you like to be picked up?
+CALLER: Right now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just me.
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+CALLER: Just me. No. It's just me.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No. I can walk no. I don't need a wheelchair.
+AGENT: The estimated fare is 6.5 dollars, paying with Call and Ride. You mentioned you'd like a return trip — would you still like me to set that up?
+CALLER: No. It's just me. No. I can walk no. I don't need a wheelchair. Well, just that I would like for him or her to wait for me while I stop.
+AGENT: I understand you would like the driver to wait for you while you stop. I'll make a note of that. Since you do not want a return trip, we'll proceed with just the one-way ride. Would you like me to go ahead and book your trip now?
+CALLER: Yes, please.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 8 4 5 1. Your pickup is today at 4:16 PM. Is there anything else I can help you with?
+CALLER: No. That'll be all. Oh, also, who am I speaking with?
+AGENT: This is Ana. If you need anything else, just let me know.
+CALLER: Okay. Well, thanks, Anna. That'll be all that'll be all.
+AGENT: Thank you for calling Barwood & Regency, price. Have a wonderful day.

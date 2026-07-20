@@ -1,0 +1,62 @@
+AGENT: Hello Ozi, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello? Hello?
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Hello?
+AGENT: Yes, I’m here. What can I help you with regarding your trip? <emotion value="peaceful"/>
+CALLER: Are person? Or machine I need taxi.
+AGENT: I’m Ana, here to help you book a taxi. I’ll make sure you get the ride you need. Where would you like to be picked up from? <emotion
+CALLER: Hello?
+AGENT: Alright, I’m ready to help you book your taxi.
+CALLER: Excuse me. Would you help me? Could you tell her taxi? I'm on a street taxi.
+AGENT: Alright, how would you like to pay for your taxi? We accept cash, credit card, and Call and Ride.
+CALLER: Hello? Hello? Card. Phone guy.
+AGENT: Okay so I've got that you want to pay by credit card. Let me process that for you now. <emotion value="grateful"/>
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: I found a few locations. 
+ Option one: 1 5 8 0 5 Paramount Drive, Rockville. 
+ Option two: 4 0 2 King
+CALLER: How are you doing?
+AGENT: I’m here and ready to help you with your taxi booking. Which of the
+CALLER: Where are you going?
+AGENT: Could you please tell me which of the locations you would like to use for your pickup? Option one is 1 5 8 0 5 Paramount Drive, Rockville. Option
+CALLER: Where is it?
+AGENT: I found a few locations for street taxi near 5015 Randolph Road, Rockville. Option one is 1 5 8 0 5 Paramount Drive, Rockville. Option two is 4 0 2 King Farm Boulevard, Rockville. Option three is 1 2 2 7 0 Wilkins Avenue, Rockville. Which one would you like to use?
+CALLER: Repeat the option.
+AGENT: Certainly. I found a few locations. Option one: 1 5 8 0 5 Paramount Drive, Rockville. Option two: 4 0 2 King Farm Boulevard, Rockville. Option three: 1 2 2 7 0 Wilkins Avenue, Rockville. Which one would you like?
+CALLER: A different address.
+AGENT: Okay, please provide the full pickup address or a nearby landmark, cross street, or city and state to help me find the correct location for you.
+CALLER: 11160 Beers Mill Road.
+AGENT: Okay, so your pickup address is 1 1 1 6 0 Beers Mill Road. Could you please tell me the city and state for this address?
+CALLER: Help to eliminate
+AGENT: Uh, I am sorry, but could you please clarify what you mean by "help to eliminate"? Are you asking to cancel or change an address, or something else?
+CALLER: Pickup is 11160 Vears Mill Road.
+AGENT: Okay, so your pickup address is 1 1 1 6 0 Vears Mill Road. Could you please tell me the city and state for this address?
+CALLER: Silver Spring, Maryland
+AGENT: Okay, so I found the address as 1 1 1 6 0 Veirs Mill Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Twenty one eight zero eight Gaithers made Lane. Brookeville Maryland
+AGENT: Okay, so I found the address as 2 1 8 0 8 Gaithers Meadow Lane, Brookeville, Maryland. Is that correct?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified. Thank you, Ozi.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now.
+AGENT: Okay great! I've got your pickup time as today at 7:31 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: You need a wheelchair, no? Vehicle? No? Wheelchair? No wheelchair, wheelchair, right No.
+AGENT: Okay, I've noted that no wheelchair-accessible vehicle is needed. How many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: One.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Gonna be outside of Costco.
+AGENT: The estimated fare is 42 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, I will proceed with booking just your one-way trip. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay so <break time="250ms"/> I am booking your trip now. <emotion value="grateful"/>
+AGENT: Your main trip is booked for today at 7:31 PM. Your confirmation number is 2 1 3 6 7 3 6 5 2. Is there anything else I can help you with?
+CALLER: Yes. I have column right.
+AGENT: Thank you for letting me know you have Call and Ride. I will make sure that is noted for your payment. Is there anything else you'd like to add or change for your trip?
+CALLER: What did it say? Can you repeat?
+AGENT: Certainly. Your main trip is scheduled for today at 7:31 PM. The confirmation number is 2 1 3 6 7 3 6 5 2. Is there anything else I can assist you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Ozi. Have a wonderful day!

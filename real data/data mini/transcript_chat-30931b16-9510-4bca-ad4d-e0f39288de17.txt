@@ -1,0 +1,4 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: And have a good day. This is my manager. I don't know more English. May I have an interpreter for c? Please?
+AGENT: Of course, I want to make sure you get the help you need. Let me connect you to someone who can assist you with an interpreter. Please hold for a moment.
+CALLER: Thank you so much.

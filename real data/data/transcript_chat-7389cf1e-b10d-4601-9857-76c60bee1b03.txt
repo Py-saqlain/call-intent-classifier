@@ -1,0 +1,54 @@
+AGENT: Hi Everett, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I just was talking to you. You hung up on me. I like to speak to a person.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: I need an appointment for tomorrow morning. I need to be picked up at 07:30. Is that okay?
+AGENT: Let me get that set up for you right now.
+AGENT: That sounds good for tomorrow morning at 7:30 am. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Finish. But I just told you cash.
+AGENT: Thank you for letting me know you'll be paying with cash. Your payment method is set to cash.
+AGENT: Could you please tell me the pickup address for your ride tomorrow morning at 7:30 am?
+CALLER: 7AM. Six zero my my address is 609 Wet Stone Glen Street, Gaithersburg, Maryland.
+AGENT: I have 6 0 9 Whetstone Glen Street, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Right.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 07:00.
+AGENT: Thank you for confirming the pickup time of 7:00 am. Now, could you please tell me the destination or dropoff address for your ride?
+CALLER: Kaiser Permanente Gaithersburg.
+AGENT: I found Kaiser Permanente Gaithersburg Medical Center at 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. Is that the correct destination?
+CALLER: Yeah. That should be it.
+AGENT: Your dropoff address has been verified, Everett. I will now proceed with your booking.
+AGENT: You mentioned you want to be picked up tomorrow at 7:30 am. Is that correct?
+CALLER: Seven. I no. I said 7AM. You said 07:30. 7AM.
+AGENT: Thank you for clarifying that you want 7:00 am, not 7:30 am. Is that correct?
+CALLER: Seven a AM.
+AGENT: Your pickup time is set for tomorrow at 7:00 am. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Just one.
+AGENT: Thank you. Will you need a wheelchair-accessible vehicle?
+CALLER: I just said no.
+AGENT: Got it, no wheelchair-accessible vehicle needed. Do you have any special instructions or notes for the driver?
+CALLER: No. Just to pick me up at 7AM. And I'm going to Kaiser Permanente Hospital in Gaithersburg.
+AGENT: The estimated fare for your trip to Kaiser Permanente Hospital in Gaithersburg is 10.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: Not at the moment.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your trip is scheduled for tomorrow at 7:00 am. Your confirmation number is 2 1 3 6 7 9 7 9 2. Is there anything else I can help you with?
+CALLER: Hold on. Hold on. Hold on. Could you hold on? Yeah. You could wait till I get something to write this with. What you just said.
+AGENT: Of course, take your time to get ready to write it down. Your confirmation number is 2 1 3 6 7 9 7 9 2 for your trip tomorrow at 7:00 am. Let me know when you're ready or if you need me to repeat it again.
+CALLER: Hold on. Hold on. Two two one Repeat it again.
+AGENT: Just to confirm, would you like me to repeat the confirmation number 2 1 3 6 7 9 7 9 2 again?
+CALLER: Yes.
+AGENT: Your confirmation number is 2 1 3 6 7 9 7 9 2. Is there anything else I can assist you with?
+CALLER: Nine seven nine two. Let me repeat it. You said two one three six seven nine seven nine two. Is that right?
+AGENT: Yes, that is exactly right: 2 1 3 6 7 9 7 9 2. Would you like any further assistance?
+CALLER: Okay. No. And for sure, I'll have somebody here at 7AM.
+AGENT: Great, I’ve noted that. Your ride is all set for tomorrow at 7:00 am. If you need anything else later, just let me know.
+CALLER: Did you Okay. Do you? Have I have I been assigned a particular driver?
+AGENT: I don’t have driver details at this moment. For information about your driver or their arrival, you can call back closer to your pickup time or ask for assistance then. Is there anything else I can help you with right now?
+CALLER: So in other words, I need to call back and try to get a driver.
+AGENT: You don’t need to call to get a driver assigned—that’s already taken care of with your booking. When your pickup time gets closer, you can call if you want to check on the driver’s status or arrival. For now, your ride is scheduled and a driver will be assigned automatically. Can I help you with anything else?
+CALLER: No. I'll call I'll call back and just verify everything.
+AGENT: That sounds good. Feel free to call back anytime to verify or ask questions. If you need anything else now, just let me know.
+CALLER: Is is it can I talk to any listen to me? Listen. Listen. Listen to me. Yes. Yes. Can I speak to one of the one of the people? One of the human people that worked there
+AGENT: I’m connecting you now to a live representative who can assist you further.
+CALLER: Thank you very much.
+AGENT: Thank you for calling Barwood & Regency, Everett. Have a wonderful day.
+CALLER: Thank you. You too.

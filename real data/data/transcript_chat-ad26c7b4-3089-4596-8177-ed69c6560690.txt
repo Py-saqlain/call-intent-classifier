@@ -1,0 +1,41 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Santiago Meza?
+CALLER: Yes.
+AGENT: Thanks, Santiago. This is Barwood & Regency. How can I assist you today?
+CALLER: I want to order a taxi cab right now.
+AGENT: Great, I can help with that. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Currying dry.
+AGENT: I want to make sure I understand you correctly. Did you mean to say "cash" as your payment method?
+CALLER: Yeah. Call him right.
+AGENT: Just to confirm, you would like to pay using Call and Ride, correct? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes. Yes. Three four four six eight six.
+AGENT: Thank you for providing your Call and Ride details. Your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Advantage Healthcare White Rock Medical Center.
+AGENT: I found Adventist HealthCare White Oak Medical Center at 1 1 8 9 0 Healing Way, Silver Spring, Maryland. Is this the pickup location you want?
+CALLER: That's right.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes.
+AGENT: Could you please tell me the destination or dropoff address for your ride?
+CALLER: Three two one, University Boulevard West,
+AGENT: Could you please provide the city and state for the address at three two one University Boulevard West?
+CALLER: Yes.
+AGENT: I want to make sure I have the correct city and state for three two one University Boulevard West. Could you please tell me the city and state?
+CALLER: Silver Spring, Maryland.
+AGENT: I have 3 2 1 University Boulevard West, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Santiago. I will now proceed with arranging your ride.
+AGENT: You mentioned you want to be picked up now. Is that correct? Please say yes to confirm or let me know if you want a different pickup time.
+CALLER: Okay. Right now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Right now. Yes. Just one.
+AGENT: Thank you. I have recorded 1 passenger and that a wheelchair-accessible vehicle is needed. Do you have any special instructions or notes for the driver?
+CALLER: Now
+AGENT: The estimated fare for your trip is 17.5 dollars, paying with your Call And Ride card. Would you like to schedule a return trip as well?
+CALLER: No. This one way.
+AGENT: Alright, I will proceed with just the one-way trip. Should I go ahead and book this trip for you now?
+CALLER: Yes, please.
+AGENT: I am booking your trip now.
+AGENT: Your trip is scheduled for today at 12:35 AM. The confirmation number is 2 1 3 6 6 3 0 6 3. Is there anything else I can help you with?
+CALLER: No. Thank you very much. I'm waiting for the taxi.
+AGENT: Thank you for calling Barwood & Regency, Santiago. Have a wonderful day.
+CALLER: Thank you. Bye bye.

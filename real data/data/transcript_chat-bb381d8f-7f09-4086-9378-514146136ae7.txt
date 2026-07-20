@@ -1,0 +1,49 @@
+AGENT: Hi Claire, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: This is a cab company.
+AGENT: How can I assist you with your ride today?
+CALLER: Pickup.
+AGENT: Could you please tell me the pickup address you'd like for your ride?
+CALLER: Seventeen nine zero one. Georgia Avenue, Albany, Maryland two zero eight three two.
+AGENT: Just to confirm, your pickup address is 1 7 9 0 1 Georgia Avenue in Albany, Maryland. Is that correct?
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide the correct city and state for your pickup address on 1 7 9 0 1 Georgia Avenue?
+CALLER: Olney, o l n e y. Maryland
+AGENT: Thank you for confirming your pickup address as 1 7 9 0 1 Georgia Avenue, Olney, Maryland. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: I have 1 7 9 0 1 Georgia Avenue, Olney, Maryland as your pickup address. Is that correct?
+CALLER: Breast
+AGENT: Could you please clarify or repeat that? I want to make sure I have your pickup address correct.
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Hewitt Avenue, and Georgia Avenue,
+AGENT: Thank you for the dropoff address. To make sure I have it right, is your destination at the intersection of Hewitt Avenue and Georgia Avenue?
+CALLER: Yes.
+AGENT: I found a few locations for Hewitt Avenue and Georgia Avenue in Aspen Hill, Maryland. Here are the options:
+
+1. Georgia Avenue and Hewitt Avenue, Aspen Hill, Maryland 2 0 9 0 6
+2. Hewitt Avenue and Georgia Avenue, Aspen Hill, Maryland 2 0 9 0 6
+3. Georgia Avenue and Hewitt Avenue, Aspen Hill, Maryland 2 0 9 0 6
+
+Which one would you like to use?
+CALLER: In Aspen Hill, It's in Aspen Hill. First one
+AGENT: Your dropoff address has been verified, Claire.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip from 1 7 9 0 1 Georgia Avenue to Aspen Hill is 19.5 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your trip is scheduled for today at 10:14 AM. The confirmation number is 2 1 3 6 6 3 2 4 3. Is there anything else I can help you with?
+CALLER: You repeat the confirmation number?
+AGENT: Certainly. The confirmation number for your trip is 2 1 3 6 6 3 2 4 3. Is there anything else I can assist you with?
+CALLER: Repeat the confirmation number, please.
+AGENT: The confirmation number is 2 1 3 6 6 3 2 4 3. Would you like any further assistance?
+CALLER: No thank you.
+AGENT: Thank you for calling Barwood & Regency, Claire. Have a wonderful day.
+CALLER: Thank you.

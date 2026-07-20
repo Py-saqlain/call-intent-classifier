@@ -1,0 +1,19 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: What? How'd you say?
+AGENT: This is Ana from Barwood & Regency. Could you please tell me your name?
+CALLER: I'm Joseph. Ten eight eight
+AGENT: Thanks, Joseph. This is Ana from Barwood & Regency. How can I
+CALLER: Yeah. Somebody called me. I don't know. Somebody called me from Regency.
+AGENT: Uhh, okay, Joseph. Are you looking to book a ride with Regency or Barwood
+CALLER: Okay.
+AGENT: Alright, Joseph, if you'd like
+CALLER: Watch.
+AGENT: Uhh, Joseph, could you please tell me where you would like to be picked up from?
+CALLER: I don't understand what you say.
+AGENT: Okay, Joseph, no problem. Where should the driver come to pick you up?
+CALLER: I I have to pick up somebody, but mhmm. I have to pick up somebody, but pickup address is bad. It's wrong. I tell her to call the office to change the address.
+AGENT: Thanks for letting me know, Joseph. Since you need to change the pickup address for a ride you’re arranging for someone else, I can connect you to a representative who can help update that address. Would you like me to do that now?
+CALLER: I know that. I don't. Understand what you're saying.
+AGENT: Alright, Joseph, I want to make sure you get the help you need. I will connect you to someone at the office who can
+CALLER: Okay.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

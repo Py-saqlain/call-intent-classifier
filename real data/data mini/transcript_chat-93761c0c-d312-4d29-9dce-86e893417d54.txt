@@ -1,0 +1,17 @@
+AGENT: Hi Cynthia, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to request a taxi.
+AGENT: Thank you for reaching out. How would you like to pay for your taxi ride today? We accept cash, credit card, and Call and Ride.
+CALLER: We have an account.
+AGENT: Could you please tell me which payment method you would like to use for this ride? Is it cash, credit card, or Call and Ride?
+CALLER: It's for the CPU account?
+AGENT: For this line, we accept only cash, credit card, and Call and Ride as payment methods. If you would like to use one of these, I can help you with that. Otherwise, I can connect you to a live agent who can assist with other account options. Would you like to proceed with cash,
+CALLER: Yes, please.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: Could you please provide the pickup address for your
+CALLER: Hello?
+AGENT: Yes, I'm here to help. Could you please tell me the pickup address for your taxi ride?
+CALLER: I need to speak to a person. No.
+AGENT: I can help with your booking details — would you like to continue?
+CALLER: No. I need to speak to a representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Sure. Mhmm.

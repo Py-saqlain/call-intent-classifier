@@ -1,0 +1,46 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: I'm calling on behalf of a client.
+AGENT: Thank you for letting me know. Could you please tell me the name of the client you are calling for?
+CALLER: Harry Ashford.
+AGENT: Thanks, Harry. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I'd to schedule a cab for pickup.
+AGENT: Thank you for letting me know you'd like to schedule a cab. How would you like to pay for the ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, cash is all set for your payment method.
+AGENT: Could you please provide the pickup address for the cab?
+CALLER: It's for a disabled person.
+AGENT: Thank you for letting me know. I want to make sure we get everything right for your client. Could you please provide the pickup address now?
+CALLER: 805 King Farm Boulevard,
+AGENT: Thank you for the pickup address at 8 0 5 King Farm Boulevard. Could you please tell me the city and state for this address?
+CALLER: Gaithersburg, Maryland.
+AGENT: I have the pickup address as 8 0 5 King Farm Boulevard, Rockville, Maryland 2 0 8 5 0. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: What's the address you're going to, sir?
+AGENT: Could you please tell me the destination or dropoff address for the ride?
+CALLER: Rockville, Maryland,
+AGENT: Thank you for the dropoff city and state as Rockville, Maryland. Could you please provide the street number and street name for the dropoff address?
+CALLER: Hold on a moment.
+AGENT: Take your time. Just let me know the dropoff street number and street name when you're ready.
+CALLER: 2 Helen Hannigan Way.
+AGENT: Thank you for the dropoff address at 2 Helen Hannigan Way. Could you please confirm the city and state for this address?
+CALLER: Rockville, Maryland,
+AGENT: I have the dropoff address as 2 Helen Heneghan Way, Rockville, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Harry. I will now proceed with the next steps.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: Got it, I have your pickup time as today at 11:24 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One and yes.
+AGENT: Thank you, I have recorded one passenger and that a wheelchair-accessible vehicle is needed. Do you have any special instructions for the driver?
+AGENT: Take your time. Just let me
+CALLER: May need assistance due to battery being dead. Hello?
+AGENT: Take your time. Just let me know if you need any special assistance or instructions for the driver.
+CALLER: No. That's all.
+AGENT: The estimated fare for your trip is 12.5 dollars, paying with your own payment method. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I am now processing your booking.
+AGENT: Your main trip is scheduled for today at 11:24 AM. Your confirmation number is 2 1 3 6 6 8 0 6 7. Is there anything else I can help you with?
+CALLER: Nope.
+AGENT: Thank you for calling Barwood & Regency, Harry. Have a wonderful day!
+CALLER: Take care.

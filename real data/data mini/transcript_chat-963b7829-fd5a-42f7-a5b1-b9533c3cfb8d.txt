@@ -1,0 +1,10 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Combo.
+AGENT: Thanks, Combo. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Customer service.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm thinking
+AGENT: No rush at all. Whenever you're ready, just let me know how I can assist you.
+CALLER: Connect with your antigen.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

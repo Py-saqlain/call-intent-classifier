@@ -1,0 +1,15 @@
+AGENT: Hello Donald, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. May I have a cab come to 11201? George Avenue Safeway garage entrance. Please.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so I found your pickup address as 1 1 2 0 1 Georgia Avenue, Wheaton-Glenmont, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. Eleven two zero one George Avenue, safe way Garage entrance.
+AGENT: I found Safeway at 1 8 5 5 Wisconsin Avenue Northwest, Washington, District of Columbia. Is that the correct pickup location? <emotion value="hesitant"/>
+CALLER: No. No. Eleven two zero one. George Avenue, Safeway garage entrance.
+AGENT: Uh, I am sorry, but could you please repeat the full address including the city and state for the pickup? I want to make sure I get it exactly right. <emotion value="apologetic"/>
+CALLER: Eleven two zero one George Avenue, Safeway garage entrance. Please.
+AGENT: Hmm <break time="350ms"/> let me check that address again for you.
+AGENT: Okay, I found 1 1 2 0 1 George Washington Memorial Highway, York County, Virginia. Is that correct? <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Eleven two zero one George

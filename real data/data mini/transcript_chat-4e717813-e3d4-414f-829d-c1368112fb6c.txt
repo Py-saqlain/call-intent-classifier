@@ -1,0 +1,32 @@
+AGENT: Hello Braby, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I'm gonna need a taxi tomorrow morning
+AGENT: Thank you for letting me know you'll need a taxi tomorrow morning. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: at 08:00. Credit card.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: Could you please tell me the pickup address for your ride tomorrow morning at 8:00 am?
+CALLER: And it'll be eight o'clock
+AGENT: Thank you for confirming the pickup time as 8:00 am. Now, may I have the pickup address for your ride?
+CALLER: seven two zero one Isle Road.
+CALLER: seven two zero one Isle Road.
+AGENT: I have the pickup address as seven two zero one Pyle Road, Bethesda, Maryland. Is that correct?
+AGENT: I have the pickup address as seven two zero one Pyle Road, Bethesda, Maryland. Is that correct?
+CALLER: 7201 Pyle Road, p y l e. Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address for your ride?
+CALLER: Correct. Yes.
+AGENT: Could you please tell me the destination or dropoff address for your ride?
+CALLER: 5454 Wisconsin Avenue.
+AGENT: I have the dropoff address as five four five four Wisconsin Avenue, Chevy Chase, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Mr. Braby. I will now proceed with arranging your ride.
+AGENT: You mentioned you want to be picked up tomorrow morning at 8:00 AM. Is that correct?
+CALLER: Yes. Yes.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One one No.
+AGENT: Thank you. Will you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 13 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: I'll do that later.
+AGENT: Your main trip is scheduled for tomorrow at 8:00 AM. The confirmation number is 2 1 3 6 7 0 2 2 9. Is there anything else I can help you with?
+CALLER: That's all. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Braby. Have a wonderful day.
+CALLER: Thank you.

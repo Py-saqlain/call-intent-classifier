@@ -1,0 +1,4 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Larisa Yelovich?
+CALLER: Yes. Yes. Can you please help help me to find your driver? His name is doctor Fan. Driver Fan. K k h a n. And the card number is two two three
+AGENT: Thanks, Larisa. This is Barwood & Regency. Let me connect you to someone who can help you find driver Fan with the card number you mentioned. Please hold for a moment.
+CALLER: Thank you.

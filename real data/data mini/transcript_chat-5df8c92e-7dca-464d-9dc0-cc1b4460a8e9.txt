@@ -1,0 +1,4 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Daniel Falcone?
+CALLER: Let me have a representative, please.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Let me have a representative

@@ -1,0 +1,8 @@
+AGENT: Hello Robert, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm talking live. Very easy, please.
+AGENT: Okay, I’m here to help. What can I do for you today? <emotion value="peaceful"/>
+CALLER: I go ahead and agent, please?
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Talk to the line agent, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

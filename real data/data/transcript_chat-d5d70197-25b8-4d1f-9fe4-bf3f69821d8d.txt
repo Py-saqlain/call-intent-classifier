@@ -1,0 +1,34 @@
+AGENT: Hi Mike, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Can you send my tail to 9653 Morrison Lane?
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: K. K. Yes.
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Ten Cash. Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+CALLER: Yes.
+AGENT: Okay, so I found 9 6 5 3 Marston Lane, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Montgomery Village, Maryland.
+AGENT: Uh, I am sorry, but could you please repeat the dropoff address with the street number and street name again? <emotion value="apologetic"/>
+CALLER: My billing is mailing 9653 Marston Lane.
+AGENT: Okay, so I
+CALLER: Montgomery Village
+AGENT: I understand you said Montgomery Village. Just to clarify, is your dropoff address 9 6 5 3 Marston Lane in Montgomery Village, Maryland? <emotion value="hesitant"/>
+CALLER: And pick up. Pick up. Pick up.
+AGENT: Thank you for confirming the dropoff address. Your dropoff address has been verified. Now, may I please have your pickup address? <emotion value="peaceful"/>
+CALLER: No. It's just a
+AGENT: Uh, I am sorry, but could you please provide your pickup address again? <emotion value="apologetic"/>
+CALLER: 9653 Marston Lane.
+AGENT: Okay, so you want to be picked up at 9 6
+CALLER: Nine six five three monster.
+AGENT: Uh, I am sorry, but could you repeat the pickup address with the street number and street name again? <emotion value="apologetic"/>
+CALLER: Nine six five three Marston Lane, Montgomery Village, Maryland two zero eight eight six.
+AGENT: Okay, so I found 9 6 5 3 Marston Lane, Montgomery Village, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, may I please confirm your dropoff address? It is 9 6 5 3 Morrison Lane. Is that correct? <emotion value="peaceful"/>
+CALLER: No. He going to he going to Clubhouse Road. 900 Block Clubhouse Road.
+AGENT: Uh, I am sorry, but could you please provide the full dropoff address with the street number and street name again? <emotion value="apologetic"/>
+CALLER: Nine hundred block Clubhouse Road.
+AGENT: I couldn't locate that address. Could you please provide a full address or a different dropoff location? <emotion value="apologetic"/>
+AGENT: Could you please provide the full
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

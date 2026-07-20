@@ -1,0 +1,23 @@
+AGENT: Hello Sahar, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Meet a trip. Two zero one one one in German town to my home.
+AGENT: Thanks for sharing your trip details. How would you like to pay for this ride? We accept cash, credit card, and Call and Ride.
+CALLER: To be paying with credit card
+AGENT: Thank you, your payment by credit card is all set.
+AGENT: I have the pickup as one two eight zero zero Middlebrook Road, Germantown, Maryland, and the dropoff as eight seven zero zero Snouffer School Road, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified, Sahar. Now, could you please confirm the dropoff address?
+AGENT: We have your pickup time as 2:01 pm. Is that correct?
+CALLER: Pick me up tomorrow at 11:30PM.
+AGENT: Just to confirm, you want to be picked up tomorrow at 11:30 PM, correct?
+CALLER: Yes.
+AGENT: Thank you for confirming your pickup time for tomorrow at 11:30 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger, no wheelchair, and no instructions for the driver.
+AGENT: The estimated fare for your trip is 20 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: Yes. But keep it open for now.
+AGENT: I will set up an open will-call return trip for you.
+AGENT: Your return trip will be an open will-call trip, picking up from 8700 Snouffer School Road and going to 12800 Middlebrook Road. The estimated fare is 20 dollars, paying with your credit card. Should I go ahead and book both trips now?
+CALLER: Yeah. I will call it and say it. Yes.
+AGENT: Booking both trips now for you.
+AGENT: Your main trip is scheduled for tomorrow at 11:30 PM with confirmation number 2 1 3 6 8 0 3 1 6. Your return trip is a will-call booking for tomorrow with confirmation number 2 1 3 6 8 0 3 1 7. Is there anything else I can help you with?
+CALLER: Same number of passengers, No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Sahar. Have a wonderful day.

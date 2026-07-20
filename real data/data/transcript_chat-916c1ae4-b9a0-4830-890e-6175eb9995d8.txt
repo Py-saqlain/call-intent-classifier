@@ -1,0 +1,56 @@
+AGENT: Hello Tetros, this is Ana with
+CALLER: So hard this is I don't know why they make it so hard.
+AGENT: Uhh, I understand it can be frustrating sometimes. How can I assist you today? <emotion value="peaceful"/>
+CALLER: Schedule. Schedule why?
+AGENT: Okay, I hear you want to schedule something. Are you looking to book a ride or need help with an existing reservation? <emotion value="peaceful"/>
+AGENT: Alright,
+CALLER: Uh-huh. You have straws? No sauce?
+AGENT: Hmmm.. <break time="300ms"/>
+CALLER: Like, for coffee Just a small one. Well, no.
+AGENT: Hmmm.. <break time="300ms"/> that didn't seem like a payment method. Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: Calling right.
+AGENT: Okay so <break time="300ms"/> you meant Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Make it hot. It's too cold. She said it's too cold.
+CALLER: She warmed it up just a little.
+AGENT: Hmmm.. <break time="300ms"/> that doesn't seem like the last six digits of your Call and Ride card. Could you please tell me the six digits on your card so I can process your payment? <emotion value="apologetic"/>
+CALLER: Yes. It is three three five three two zero.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Eight eight seven zero seven Flower Avenue.
+AGENT: I couldn't find 8 8 7 0 7 Flower Avenue. Could you please provide the city and state for that address? <emotion value="apologetic"/>
+CALLER: Eight It's 8707 Flower Avenue, Maryland, service way service ring.
+AGENT: I found a similar address from recent trips: 8703 Flower Avenue,
+CALLER: I'm done. Yeah. It is.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Three two one universal glenoid. Solar Spring.
+AGENT: I couldn't find 3 2 1 Universal Glenoid. Could you please provide the city and state for that address? <emotion value="apologetic"/>
+CALLER: 321 University Boulevard,
+CALLER: Silver Spring, Maryland
+AGENT: I found 3 2 1 University Boulevard West, Silver Spring, Maryland. Is that the correct dropoff address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Tetros.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Ma'am, could you can can you assign cab number two four nine
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No. Right now.
+AGENT: Okay great! <break time="200ms"/> I've got your pickup time as today at 12:44 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Wheelchair
+CALLER: two Wheelchair.
+AGENT: Okay great! <break time="200ms"/> I've got 2 passengers including 1 wheelchair. <emotion value="grateful"/> Do you have any
+CALLER: Number two four nine
+CALLER: Yes. Kip. Special request for cab 249.
+AGENT: I understand you have a special request for cab number 249. Do you have any specific instructions or details you'd like me to pass along to the driver? <emotion value="peaceful"/>
+CALLER: No. That's all.
+AGENT: Alright, the estimated fare is 11 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 12:44 PM. Your confirmation number is 2 1 3 6 7 3 1 8 8. Is there anything else I can help you with?
+CALLER: Repeat confirmation number.
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 3 1 8 8.
+CALLER: Repeat confirmation numb
+AGENT: Your confirmation number is 2 1 3 6 7 3 1 8 8. Is there anything else I can assist you with?
+CALLER: No.
+CALLER: That's all.
+AGENT: Thank you for calling Barwood & Regency, Tetros. Have a wonderful day.

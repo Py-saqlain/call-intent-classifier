@@ -1,0 +1,37 @@
+AGENT: Hi Tyra, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I wanna do a call and ride.
+AGENT: Thank you for letting me know you'd like to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three five one four two six
+AGENT: Your Call and Ride payment is all set.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: One four two zero one. Wolf Creek Place,
+AGENT: I have the pickup address as one four two zero one Wolf Creek Place, Silver Spring, Maryland. Is that correct?
+CALLER: Silver Spring.
+AGENT: Thank you for confirming. Your pickup address at one four two zero one Wolf Creek Place, Silver Spring, Maryland is verified. Now, could you please provide the destination or dropoff address?
+CALLER: That would be glenmont metro.
+AGENT: I found Glenmont, Maryland 2 0 9 0 6 as the dropoff location. Is that where you want to go?
+CALLER: Glen Glenmont Metro.
+AGENT: Your dropoff address has been verified. Your pickup address has also been verified, Tyra. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: In fifteen minutes. In nine forty seven.
+AGENT: Got it, I have your pickup time as today at 9:48 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger. No wheelchair.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 13.5 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: Yeah.
+AGENT: Great, I'll start collecting the details for your return trip now.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: One thirty. AM
+AGENT: I have your return trip pickup time as tomorrow at 1:30 AM. How many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Woman One and no wheelchair.
+AGENT: For your return trip, I have the pickup location as Glenmont and the dropoff location as one four two zero one Wolf Creek Place. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 13.5 dollars, paying with your Call and Ride card. Should I go ahead and book both trips for you?
+CALLER: Yes.
+AGENT: Booking your trips now.
+AGENT: Your main trip is scheduled for today at 9:48 PM with confirmation number 2 1 3 6 6 6 5 8 0. Your return trip is scheduled for tomorrow at 1:30 AM with confirmation number 2 1 3 6 6 6 5 8 1. Is there anything else I can help you with?
+CALLER: Yes. Just wanna speak to representative please.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Speak to a agent, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,52 @@
+AGENT: Hi Christina, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: And to go to Okanbarri Main Rock Ville Pike.
+AGENT: Thank you for sharing your destination. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Same.
+AGENT: Just to be sure, when you say "same," do you mean you would like to pay with Call and Ride, cash, or credit card?
+CALLER: I'm paying cash.
+AGENT: Thank you for letting me know. Your payment method is set to cash.
+AGENT: Could you please tell me your pickup address?
+CALLER: Six one one. One Montrose Road. 6 To 111 Montrose Road.
+AGENT: Just to confirm, is your pickup address 6 1 1 1 Montrose Road, North Bethesda, Maryland?
+CALLER: Correct.
+AGENT: I have 6 1 1 1 Montrose Road, North Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: I found a location called Okaeri Japanese Cafe & Anime at 1 7 0 1 Rockville Pike, suite B 1, Rockville, Maryland. Is this the place you want to go?
+CALLER: No. Oh, Karen. Oh, barn.
+AGENT: I found a location called Karen B. Daum, PsyD at 8 9 0 1 Rockville Pike, Bethesda, Maryland. Is this the place you want to go?
+CALLER: Hold on, please.
+AGENT: Take your time. Let me know when you're ready.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Christina. I will now proceed with arranging your trip.
+AGENT: When would you like to be picked up?
+CALLER: No. I'm already crisp.
+AGENT: Could you please clarify what time you would like to be picked up?
+CALLER: Now n o w
+AGENT: Got it, I've set your pickup time for now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Sell.
+AGENT: Could you please tell me how many passengers will be traveling, and if anyone will need a wheelchair-accessible vehicle?
+CALLER: No. Saturn. Myself.
+AGENT: Thank you, I have recorded 1 passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: Oh, No. No, the address is one oh, my god.
+AGENT: Thank you for letting me know you have no special instructions for the driver. If you need to update your pickup or dropoff address, just let me know. Otherwise, is there anything else you'd like to add?
+CALLER: How long from now with me? Taxi be here?
+AGENT: I don't have the exact arrival time yet. Let's finish collecting your trip details first. Do you have any special instructions or notes for the driver?
+CALLER: Okay.
+AGENT: The estimated fare for your trip is 15 dollars and 50 cents, paying with your own payment method. Would you like to schedule a return trip as well?
+CALLER: My am Yes.
+AGENT: Great! I'll start collecting the details for your return trip.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Right away. It's only two minutes in the store. And where I'm going is one two, zero one.
+AGENT: The return trip pickup time must be at least 10 minutes after your main trip pickup time, which was today at 12:17 PM. Could you please provide a valid return pickup time, or would you prefer to just book a one-way trip instead?
+CALLER: No. No. It's, um, a return trip.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 6 2 6 2, and the pickup time is today at 12:17 PM. Would you like to proceed with scheduling the return trip now?
+CALLER: It's the same taxi that's gonna take me there. I'm gonna be two minutes in the store. And the same taxi is gonna return me back to my house.
+AGENT: Thank you for letting me know. I will arrange for the same taxi to pick you up for your return trip after about two minutes at your destination. Please hold on a moment while I set that up.
+AGENT: You already have a trip from North Bethesda to Bethesda scheduled for today at 12:17 PM. What would you like to do?
+CALLER: Thank you so much. What?
+AGENT: Status, cancel, change, a new trip, or something else?
+CALLER: I want to crib
+AGENT: Could you please clarify what you mean by "crib"? Are you referring to a trip, a location, or something else?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Oh my god. I'm thinking baby.

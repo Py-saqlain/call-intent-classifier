@@ -1,0 +1,29 @@
+AGENT: Hi Marie, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Okay. I need a taxi. I need a taxi to come to one eight five zero six Nutmeg Place, Germantown, Maryland.
+AGENT: Alright, how would you like to pay for your ride? We accept cash,
+CALLER: And I'm going to 46 Bureau Drive,
+CALLER: in Gaithersburg.
+AGENT: Okay, thanks for that. Now, how would you like to pay for your ride? We accept cash, credit card,
+CALLER: It's a giant. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, just to confirm, your pickup is 1 8 5 0 6 Nutmeg Place, Germantown, Maryland, and your dropoff is 4 6 Bureau Drive, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Your pickup address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Correct. How long will that be?
+AGENT: The estimated fare for your trip is $12. Now, how many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: I'm ready now. So how long will that be?
+AGENT: If you want to be picked up right now, I can note that for you. How many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: One, just myself.
+AGENT: Okay great! I've got your pickup time as now and one passenger.
+CALLER: Yes. Just myself. Now could I get okay. Could I get a a a card that I needed I can't get up in a van. I need a step stool. Hello? Hello?
+AGENT: Thank you for letting me know you need a step stool to get into the van. I'll make sure the driver is informed. Now, will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: Oh my god.
+AGENT: Will you be needing a wheelchair accessible vehicle for your trip? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, so let me confirm those details. Your pickup is 1 8 5 0 6 Nutmeg Place. Your dropoff is 4 6 Bureau Drive. Pickup time is 10:22 AM. One passenger, and you need a step stool but no wheelchair accessible vehicle. The estimated fare is 12 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+CALLER: Okay.
+AGENT: Your main trip is scheduled for today at 10:22 AM. Your confirmation number is 2 1 3 6 7 0 5 1 9. Is there anything else I can help you with?
+CALLER: No. That's it.
+AGENT: Thank you for calling Barwood & Regency, Marie. Have a wonderful day!

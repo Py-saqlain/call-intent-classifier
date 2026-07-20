@@ -1,0 +1,14 @@
+AGENT: Hello Andrew, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: My trip.
+AGENT: Uhh, are you looking to check the status of your trip, book a new one, or something else? <emotion value="peaceful"/>
+CALLER: Love my trip.
+AGENT: Uhh, I want to make sure I understand you correctly. Are you saying you'd like to book a new trip, or did you want to check on or change an existing trip? <emotion value="peaceful"/>
+AGENT: You already have a trip from Chevy Chase to Rockville tomorrow at 7:10 AM. What would you like to do? <emotion value="grateful"/>
+AGENT: Okay, so your trip with vehicle 548 and driver 1840 is confirmed and scheduled for pickup tomorrow at 7:10 AM. Anything else? <emotion value="content"/>
+CALLER: Check on the status of trip.
+AGENT: Okay, <break time="300ms"/> your trip is confirmed for tomorrow morning at 7:10 AM with driver 1840 and vehicle 548. Anything else? <emotion value="content"/>
+CALLER: Next, trip.
+AGENT: Hmm <break time="300ms"/> let me check if you have any other trips.
+AGENT: You have three past trips: one from Rockledge Drive in Bethesda to Friendship Boulevard in Chevy Chase, another from Frederick Road in Rockville to Rockledge Drive in Bethesda, and a third from Tower Oaks Boulevard in Rockville to Frederick Road in Rockville. Anything else? <emotion value="peaceful"/>
+CALLER: The trip tomorrow from Rockville to 55 to 73.
+AGENT: Could you please confirm the full pickup and dropoff addresses for the trip tomorrow? I want to make sure I have the right details

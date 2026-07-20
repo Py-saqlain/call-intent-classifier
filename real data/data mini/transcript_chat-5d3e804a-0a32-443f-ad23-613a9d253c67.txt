@@ -1,0 +1,26 @@
+AGENT: Hi Maria, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I made a mistake. The time to pick me up is at 10:15 instead of 09:15.
+AGENT: Thanks for letting me know about the new pickup time at 10:15. Now, how would you like to pay for your ride? We accept cash, credit card,
+CALLER: Cash.
+AGENT: Thank you, cash it is.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: It's oh, gosh. It's on Monros. They just dropped me off.
+AGENT: Thank you. Could you please confirm the street number for the pickup on Monros?
+CALLER: The pickup is. Let me let me check the number.
+AGENT: Take your time. Just let me know the street number on Monros when you have it.
+CALLER: Nine one seven
+AGENT: I have 9 1 7 Kent Road, Richmond, Virginia as the pickup address. Is that correct?
+CALLER: No. No.
+AGENT: Thank
+CALLER: No. It's not.
+AGENT: Thank you for letting me know. Could you please provide the correct street name or any other details for the pickup address?
+CALLER: That's in it's San Elizabeth Church. Nine one seven, Mount Rose m o n t r o s e. Road, in Rockville.
+CALLER: Maryland,
+AGENT: I have 9 1 7 Montrose Road, Rockville, Maryland as the pickup address. Is that correct?
+CALLER: That's right. Yes. At 10:15.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Can I talk to someone? Can I talk to someone?
+AGENT: I can help you update your pickup time to 10:15 — shall we continue?
+CALLER: Ten fifty and At I can I talk to someone?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Okay. Okay.

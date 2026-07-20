@@ -1,0 +1,45 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Hello? My name is Michael Washington.
+AGENT: Thanks, Michael. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I'm calling for a cab. Is this a, uh, taxi company?
+AGENT: Yes, Michael, this is a taxi and transportation service. I can help you book a ride. Where would you like to be picked up from?
+CALLER: Okay. I would like to be picked up from forty seven hundred Jones Mill Road, two zero eight one five Chevy Chase Road.
+AGENT: Thank you for sharing your pickup and dropoff locations, Michael. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Dash.
+AGENT: Could you please clarify what payment method you'd like to use? We accept cash, credit card, and Call and Ride.
+CALLER: Okay. Cash. I'm gonna pay in cash.
+AGENT: Thank you, Michael. Your payment method is set to cash. I’m moving forward with your booking now.
+AGENT: I have your pickup address as 4700 Jones Mill Road, Chevy Chase, Maryland. However, I couldn't locate the dropoff address you gave me as 20815 Chevy Chase Road. Could you please provide the full dropoff address including the street name and city?
+CALLER: Okay. It's forty seven hundred
+AGENT: I
+CALLER: Jones Mill Road, Two zero eight one five Chevy Chase Road. That's where I want you to come and pick me up. And bring me back.
+AGENT: Just to clarify, you want to be picked up from 20815 Chevy Chase Road and then brought back to 4700 Jones Mill Road, Chevy Chase, Maryland?
+CALLER: Yes, I want you to beat me up at this address.
+CALLER: And bring me to the CVS store and bring me back at this address.
+AGENT: I found several CVS locations. Here are some options: 
+
+1. CVS at 17651 Redland Road, Derwood, Maryland
+2. CVS at 19100 Montgomery Village Avenue, Gaithersburg, Maryland
+
+Which one would you
+CALLER: Okay.
+AGENT: Could you please tell me which CVS location you would like to go to? Is it the one on Redland Road in Derwood, Maryland, or the one on Montgomery Village Avenue in Gaithersburg, Maryland?
+CALLER: Yep. Anyone as close as the address I just provide to you, sir. Anyone of the CVS as close as the address I gave to you.
+AGENT: Thank you for letting me know. I will select the CVS at 17651 Redland Road, Derwood, Maryland, as it is closer to your pickup address. I will proceed with that.
+AGENT: Your dropoff address has been verified, Michael. I will now proceed with arranging your trip.
+AGENT: When would you like to be picked up?
+CALLER: Right now, right now.
+AGENT: I have your pickup time set for right now. How many passengers will be traveling, including yourself? Also, will you need a wheelchair-accessible vehicle?
+CALLER: No. Only one. It's my grandfather. Going to the CVS to get some things from the store. Only one person. It's my grandfather.
+AGENT: Michael, the estimated fare for your trip is 38.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: Yes. That's what I told you to go there and get back.
+AGENT: Got
+CALLER: To the same
+AGENT: I have noted that the return trip will have the same passenger and wheelchair count as the main trip. What time would you like to be picked up for the return trip?
+CALLER: wheelchair. He he can walk. He doesn't need a wheelchair. He just need you to go and pick them up at the address I just provide to you. He's a good man. He can walk and do everything.
+AGENT: Thank you for letting me know that no wheelchair is needed for the return trip. What time would you like the driver to pick him up for the return trip?
+CALLER: Right now, as I said, I need you to go and pick them up right now so we could go to the store and get what he's getting and get back to the same address right now.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your main trip is scheduled for today at 1:33 PM. The confirmation number is 2 1 3 6 7 8 2 5 7. Would you like me to proceed with booking the return trip now?
+CALLER: So I thought the $30 was to go and pick them up and bring him back at the address.
+AGENT: I understand you expected the fare to cover both the trip to the store and the return. I can help you

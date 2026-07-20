@@ -1,0 +1,10 @@
+AGENT: Hi Edna, this is Ana from Barwood & Regency. Your trip is scheduled for pickup today at 10:00 AM, and you also have a will-call trip scheduled for today from 19851 Observation Drive in Germantown to 19317 Club House Road in Montgomery Village. How can I assist you today?
+CALLER: Please activate my trip. On at 10:00.
+AGENT: Your current ride is already on the way — did you also want to activate your will-call trip for 10:00?
+CALLER: No of course not. I won't be there at 10:00. I'll be home. You're picking me up. What time?
+AGENT: Your pickup is scheduled for 10:00 am at your home on 1 9 3 1 7 Club House Road in Montgomery Village. Would you like me to activate this trip for you now?
+CALLER: Yes, please. I I'd appreciate it. Is the cab on a way?
+AGENT: Your trip is marked as late, and no driver has been assigned yet, so the cab is not on the way at this moment. I'll connect you with a customer representative who can assist you further.
+CALLER: Thank you.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

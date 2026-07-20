@@ -1,0 +1,21 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Clara, k l a r a.
+AGENT: Thanks, Clara. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Um, I am a recently operated on hip brand new right hip, and I'm looking for transportation to a doctor's office tomorrow. Uh, I have a 10:15 appointment. And, uh, all I would ask for is I am able to walk. I'm gonna need a little bit of assistance. And all I would ask for is I have a rollator in the trunk of my car. I will open my garage door flip the trunk open. If someone could just open get the rollator out. Once I'm on the rollator, I'm fine. A little help getting into the into the cab and the same thing at the other end. You can just get the rollator set up for me and put me in front of it, then I can do the rest. I can walk. I just have to be very careful. It's a new hip, and I'm a little need a little more security. I can't quite walk on my own, but I'm not crippled. It's not a wheelchair. I just need that rollator assistance. So if someone could do that for me, I'm very happy, and I think I can manage pretty well. On my own once I get the you know what a rollator is? It's kind of a modified walker. It has a seat on it, and all you have to do is just set it up. You know, you just push down know, it it sets up. But it's in the trunk of my car, and I may have a little trouble getting to it myself. So, again, I'm in a I it's a house. Oh, big great big house, level lot. All I would do is I'd pop the garage door open if he can get it out of the trunk for me. And then, um, kinda set it up so I can then I may need a little help getting into the front seat of a cab or back seat wherever you all put me because I'm a little shaky But I can walk. I'm not crippled. I just need I need a little assistance. Is that possible with a cab? Hello? Hello? Hello? Hello? Are you still there? Hello?
+AGENT: Thank you for sharing all that, Clara. We can definitely help with the assistance you need for your rollator and getting in and out of the cab. Now, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Hello? I don't know what the fare is. I have some cash, but it may be a credit card. Depends on fare. Can you give me an idea if I give you the destination? I have little cash on me. I've been in a so I'm not carrying a lot of cash. I just got out of surgery very shortly. A little while ago. So you give me an idea? I live in Rockville, Maryland. Off Briarwood Terrace 20853. And I'm going to one zero two one five Fernwood Road medical building called the Camelier Building 10215 in Bethesda, Maryland 20817. About an eight mile ride.
+AGENT: I don't have the fare information yet since we're still gathering your trip details. Could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card, I guess.
+AGENT: Thank you, Clara. Your payment method is set to credit card. We'll proceed with your booking now.
+AGENT: Thank you, Clara. Could you please provide the pickup address for your ride?
+CALLER: Yes. One four two five one. One four two five one briar wood b r I a r w o o d, Briarwood Terrace,
+AGENT: I wasn't able to locate 14251 Briarwood Terrace. Could you please provide the full street address including the city and state?
+CALLER: Rockville, Maryland two zero eight five three.
+AGENT: I still couldn't find 14251 Briarwood Terrace in Rockville, Maryland. Could you please double-check the street number and spelling for me?
+CALLER: One four two five one Briarwood Terrace,
+AGENT: Thanks for repeating that. Could you please confirm the city and state again for the address one four two five one Briarwood Terrace?
+CALLER: rockville Maryland
+AGENT: I still can't locate one four two five one Briarwood Terrace in Rockville, Maryland. Could you please check if the street number or street name might be slightly different? Or if there's a nearby landmark or cross street you can provide?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Manor Woods Norbeck Road,
+AGENT: Thank you for that. Could

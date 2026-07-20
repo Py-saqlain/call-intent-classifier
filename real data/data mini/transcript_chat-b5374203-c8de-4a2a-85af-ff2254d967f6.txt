@@ -1,0 +1,12 @@
+AGENT: Hello Cecil, this is Ana from Barwood & Regency. Vehicle 1004 has arrived at your pickup location. How can I assist you today?
+CALLER: Okay. I'm going to okay. Hello?
+AGENT: How can I assist you with your ride today?
+CALLER: Hello? Hello?
+AGENT: I'm here to help whenever you're ready. What can I do for you today?
+CALLER: Good.
+AGENT: Is there something I can help you with regarding your ride or booking?
+CALLER: Alright. Hello?
+AGENT: Whenever you're ready, just let me know how I can assist you with your transportation needs.
+CALLER: Okay.
+AGENT: If you'd like to book a ride or have any questions about your trips, just let me know. How can I assist you today?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

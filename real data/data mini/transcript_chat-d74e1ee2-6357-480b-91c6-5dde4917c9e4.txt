@@ -1,0 +1,14 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Customer service representative.
+AGENT: Thank you for letting me know. To get started with your ride or any other service, may I have your name, please?
+CALLER: Customer service representative.
+AGENT: I want to make sure I have your name correctly. Could you please tell me your name?
+CALLER: Customer service agent.
+AGENT: I understand you're a customer service agent. To assist you with Barwood & Regency services, could you please tell me your name?
+CALLER: Customer service agent.
+AGENT: I want to make sure I have your name correctly. Could you please tell me your name?
+CALLER: Customer service agent, please.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Customer service.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

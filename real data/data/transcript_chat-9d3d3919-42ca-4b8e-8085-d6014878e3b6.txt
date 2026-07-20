@@ -1,0 +1,46 @@
+AGENT: Hello Martin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I I wouldn't a taxi.
+AGENT: I understand you'd like to arrange a taxi ride. Could you please tell me where you'd like to be picked up from?
+CALLER: 3651 Gray Road. Brookville, New
+AGENT: Just to confirm, is your pickup address 3 6 5 1 Gregg Road, Brookeville, Maryland?
+CALLER: Yes.
+AGENT: Thank you for confirming. Where would you like to go?
+CALLER: Montgomery General Hospital.
+AGENT: Thank you for sharing your destination. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash. Cash.
+AGENT: Thank you for choosing cash as your payment method.
+AGENT: Just to confirm, your pickup address is 3 6 5 1 Gregg Road, Brookeville, Maryland. Is that correct?
+CALLER: Yep.
+AGENT: I found MedStar Montgomery Medical Center at 1 8 1 0 1 Prince Philip Drive, Olney, Maryland. Is that the place you want to go?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, Martin.
+AGENT: When would you like to be picked up?
+CALLER: It's just a round trip.
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. When would you like to be picked up?
+CALLER: Yeah. As soon as possible.
+AGENT: I've noted your pickup time as today at 7:26 PM. How many passengers will be traveling, including yourself? And will you need a wheelchair-accessible vehicle?
+CALLER: One and no.
+AGENT: Thank you. Will you have any special instructions or notes for the driver?
+CALLER: No. Just a round trip.
+AGENT: The estimated fare for your main trip is 16.5 dollars, paying with cash. You mentioned you'd like a return trip — would you still like me to set that up?
+CALLER: Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: A couple minutes later,
+AGENT: Could you please specify the pickup time for your return trip in hours after your first trip? For example, you can say "2 hours after" or "3 hours after." If you prefer, just say how many hours later you'd like to be picked up.
+CALLER: One minute.
+AGENT: I've scheduled your return trip pickup for one hour after your first trip, which is today at 8:26 PM. How many passengers will be traveling on the return trip, including yourself? And will you need a wheelchair-accessible vehicle?
+CALLER: One, One in now.
+AGENT: For your return trip, I have the pickup at 1 8 1 0 1 Prince Philip Drive, Olney, Maryland, and the dropoff at 3 6 5 1 Gregg Road, Brookeville, Maryland. Is that correct?
+CALLER: Lord,
+AGENT: Could you please clarify if the return trip pickup and dropoff addresses I mentioned are correct, or if you would like to make any changes?
+CALLER: Yes. Yes. Yeah.
+AGENT: The estimated fare for your return trip is 16.5 dollars, paying with Self. Should I go ahead and book both trips?
+CALLER: I don't even know what the fuck is.
+AGENT: I understand this can be confusing. Just to clarify,
+CALLER: Yeah. Go ahead.
+AGENT: Thank you. I am now booking both your trips.
+AGENT: Thank you for your patience. I am now processing the booking for both your main and return trips. Please hold on a moment.
+AGENT: Both your main trip and return trip are booked. Your main trip confirmation number is 2 1 3 6 7 8 5 6 0 with pickup today at 7:26 PM. Your return trip confirmation number is 2 1 3 6 7 8 5 6 1 with pickup today at 8:26 PM. Is there anything else I can help you with?
+AGENT: Take your time. Just
+CALLER: No. Nope.
+AGENT: Thank you for calling Barwood & Regency, Martin. Have a wonderful day.

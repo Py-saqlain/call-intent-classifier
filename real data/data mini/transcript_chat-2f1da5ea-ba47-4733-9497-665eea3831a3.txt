@@ -1,0 +1,5 @@
+AGENT: Good morning, George. This is Ana from Barwood & Regency. Your trip is scheduled for pickup today at 8:30 AM. Thank you for your patience. How can I assist you today?
+CALLER: And next,
+AGENT: Umm, could you please tell me what you would like to do next? Are you looking to book a ride, check on a trip, or something else? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.

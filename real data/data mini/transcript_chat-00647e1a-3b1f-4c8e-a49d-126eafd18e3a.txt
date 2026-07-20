@@ -1,0 +1,15 @@
+AGENT: Hi Farhad, this is Ana with Barwood & Regency. You have two trips today — one confirmed for pickup at 12:15 PM with vehicle 1087, which is already on the way and should arrive in about 24 minutes. How can I assist you today?
+CALLER: Cancer that you
+AGENT: I'm here to help with your transportation needs. Could you please tell me how I can assist you today?
+CALLER: Thank you for your
+AGENT: You're welcome to let me know if you need a ride or any assistance with your trip. How can I help you today?
+CALLER: Agent, please.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Check. Cancellation.
+AGENT: I can take care of that for you.
+AGENT: I see you have two trips booked today: a return trip at 9:45 am from Rockville to Washington, and a main trip at 12:15 pm from Washington to Rockville. Which one would you like to cancel, or do you want to cancel both?
+CALLER: Check. Cancel.
+AGENT: Just to be sure, do you want to cancel both your 9:45 am return trip from Rockville to Washington and your 12:15 pm main trip from Washington to Rockville?
+CALLER: Yes.
+AGENT: Both your trips, the 9:45 am return trip and the 12:15 pm main trip, have been cancelled. Is there anything else I can help you with?
+CALLER: No. Thank you.

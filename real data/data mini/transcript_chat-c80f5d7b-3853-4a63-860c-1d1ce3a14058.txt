@@ -1,0 +1,13 @@
+AGENT: Hello Aura, this is Ana from Barwood & Regency. You have two trips today — your trip with vehicle 1034 is confirmed for pickup at 1:30 PM, and vehicle 1034 is on the way and will arrive in about 2 minutes. How can I assist you today?
+CALLER: Hello. It's my story.
+AGENT: How can I assist you with your ride today?
+CALLER: My
+AGENT: Could you please tell me more about what you need help with regarding your ride?
+CALLER: Today is 09:30.
+AGENT: Thank you for letting me know the time. Are you looking to book a ride for around 9:30 today, or is there something else I can assist you with?
+CALLER: Okay. Okay. It's five ten minutes?
+AGENT: Are you asking if a ride can be arranged to pick you up in about five to ten minutes from now?
+CALLER: My ride is 09:30. AM.
+AGENT: Looks like you already have trips from Gaithersburg to Germantown at today 9:30 am and from Germantown to Gaithersburg at today 1:30 pm. What would you like to do?
+CALLER: Okay. Okay. Thank you so much. Bye bye.
+AGENT: Thank you for calling. Have a great day!

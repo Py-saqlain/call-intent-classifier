@@ -1,0 +1,20 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with noaniking?
+CALLER: Now we can see if you are. Okay. Hello? Hello?
+AGENT: Thanks for confirming, noaniking. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I would like a colonized cab home to my home.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Calling live.
+AGENT: Just to be sure, did you mean Call and Ride for your payment method? If so, I will need the last six digits of your Call and Ride card. <emotion value="hesitant"/>
+CALLER: Three four one six six six.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Okay, so your dropoff address is 1 2 5 0 3 Winexburg Manor Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. No. That's not correct.
+CALLER: No. That's not where I'm going. I'm going to two zero zero three seventy. Dunstable Circle. Germantown, Maryland.
+AGENT: Thank you for the correction. Your dropoff address is 2 0 0 3 7 Dunstable Circle, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Okay. I have a ride. Thank you, I canceled it. Okay?
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: No. Cancel. Cancel. No. Cancel, please. Cancel. Cancel. Cancel. That's okay. Thank you. No. Thank you. Careful.
+AGENT: Just to confirm, you want to cancel the entire booking and no trips will be scheduled, is that right? <emotion value="hesitant"/>
+CALLER: Correct. Yes. That's correct.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can

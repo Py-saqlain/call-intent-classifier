@@ -1,0 +1,44 @@
+AGENT: Hello Celestine, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to call in ride.
+AGENT: Thank you for letting me know. To confirm, we accept cash, credit card, and Call and Ride as payment methods. Could you please tell me how you would like to pay today?
+CALLER: Fall and ride.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yeah.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three two three seven seven.
+AGENT: Thank you, your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 17112. Queen Victoria Court.
+AGENT: I have 1 7 1 1 2 Queen Victoria Court, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Right.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Six
+AGENT: Could you please provide the full address or location name for your dropoff? "Six" alone is not enough to identify the destination.
+CALLER: Six four three. North Frederick Avenue.
+AGENT: I have 2 0 6 North Frederick Avenue, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Yep. Correct.
+AGENT: Your dropoff address has been verified, Celestine. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Ready now. Now. I'm ready now. Hello?
+AGENT: Just to confirm, would you like to be picked up right now, or would you prefer to schedule a will-call trip to call back when you're ready?
+CALLER: Yeah. I'm ready now.
+AGENT: Thank you, I've scheduled your pickup for right now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Just to clarify, does "no" mean no passengers besides yourself, or no wheelchair needed? Could you please tell me the total number of passengers traveling, including yourself, and whether anyone will need a wheelchair-accessible vehicle?
+CALLER: Two people
+AGENT: Thanks for letting me know there will be two passengers. Will either of you need a wheelchair-accessible vehicle?
+CALLER: So
+AGENT: Could you please let me know if either passenger will need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thank you, I have recorded two passengers and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: I click.
+AGENT: Could you please clarify what you mean by "I click"? Are you referring to any special instructions or notes for the driver?
+CALLER: I was wanting it quick now. Something like in the bush.
+AGENT: The estimated fare for your trip is 6.5 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: But No.
+AGENT: Okay, I will proceed with just the one-way trip. Would you like me to go ahead and book this ride for you now?
+CALLER: Yeah. Yes. Yes. Yes. Yes.
+AGENT: Thank you. I am booking your trip now.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 6 2 4 7. The pickup is scheduled for today at 11:32 AM. Is there anything else I can help you with?
+CALLER: Thank you.

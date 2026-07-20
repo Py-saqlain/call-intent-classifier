@@ -1,0 +1,41 @@
+AGENT: Hello William, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to have a pickup.
+AGENT: Thank you for letting me know. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: All in right.
+AGENT: Could you please clarify your payment method for me? Is it cash, credit card, or Call and Ride?
+CALLER: Call nine.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three zero
+AGENT: I understand you said "three zero," but I need the full six digits of your Call and Ride card. Could you please provide all six digits?
+CALLER: Seven six six seven.
+AGENT: Thank you. To confirm, the last six digits of your Call and Ride card are three zero seven six six seven, is that correct?
+CALLER: Three zero seven six six seven.
+AGENT: Thank you for confirming your payment with Call and Ride. I'll proceed with your booking now.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: Correct.
+AGENT: I want to make sure I have the right pickup address. Could you please say the full pickup address you want to use?
+CALLER: 1780. East Jefferson Street. Rockville, Maryland.
+AGENT: I have 1 7 8 0 East Jefferson Street, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 2809 Captain Creek Drive, Bergensville, Maryland.
+AGENT: I couldn't locate 2809 Captain Creek Drive in Bergensville, Maryland. Could you please confirm the city name or provide a nearby landmark or cross street to help find the correct dropoff address?
+CALLER: 20866.
+AGENT: Thank you for providing the ZIP code 20866. Could you please confirm the city name for this address? Is it still Bergensville, or is it another city?
+CALLER: Twenty eight zero nine. Cabin Creek Drive.
+AGENT: I want to confirm your dropoff address as 2 8 0 9 Cabin Creek Drive. Could you please tell me the city and state for this address?
+CALLER: Berkshansville.
+AGENT: Thank you. To confirm, your dropoff address is 2809 Cabin Creek Drive, Berkshansville, Maryland, is that correct?
+CALLER: Virgansville, Maryland.
+AGENT: Thank you for the correction. To confirm, your dropoff address is 2809 Cabin Creek Drive, Virgansville, Maryland, is that correct?
+CALLER: Bertrandsville, Maryland.
+AGENT: Thank you for the update. To confirm, your dropoff address is 2809 Cabin Creek Drive, Bertrandsville, Maryland, is that correct?
+CALLER: No. This is Burtonsville, Maryland.
+AGENT: I couldn't locate 2809 Cabin Creek Drive in Burtonsville, Maryland. Could you please verify the street name or provide a nearby landmark or cross street to help find the correct dropoff address?
+CALLER: Cross streets will be Cabin Creek Drive, and Cabin Creek Court.
+AGENT: I couldn't find 2809 Cabin Creek Drive near Cabin Creek Court in Burtonsville, Maryland. Could you please check if the street number or name might be different, or provide another nearby landmark?
+CALLER: 62809 Cavan Creek Drive,
+AGENT: I want to confirm your dropoff address as 6 2 8 0 9 Cavan Creek Drive. Could you please tell me the city and state for this address?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

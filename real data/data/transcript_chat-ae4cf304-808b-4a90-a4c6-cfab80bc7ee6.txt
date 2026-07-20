@@ -1,0 +1,34 @@
+AGENT: Hello Ennette, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a pickup for 9616. Main Street.
+AGENT: Thank you for letting me know your pickup address at 9 6 1 6 Main Street. How would you like to pay for your ride today? We accept cash, credit card, and Call
+CALLER: Connie Ray.
+AGENT: I heard "Connie Ray," but I want to make sure about your payment method. Could you please tell me how you
+CALLER: Call and ride.
+AGENT: Great, since you’re using Call and Ride, could you please provide the last six digits of your Call and Ride card?
+CALLER: Thirty four ten nine six. Ten ninety six.
+AGENT: Thank you for the last six digits, 3 4 1 0 9 6. I’m processing your payment now.
+AGENT: Thank you for providing your Call and Ride card details. Your payment method is set to Call And Ride.
+AGENT: I have 9 6 1 6 Main Street, Damascus, Maryland as your pickup address. Is that correct?
+CALLER: What's the calling right number?
+AGENT: Could you please clarify what you mean by "calling right number"? Are you asking about the phone number to call for your ride, or something else?
+CALLER: No. No. The last four digits of my calling right number.
+AGENT: Thank you for clarifying. You previously provided the last six digits of your Call and Ride card as 3 4 1 0 9 6. Could you please confirm if you want to update or correct those digits?
+CALLER: Yes. No. That's correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One four zero one. Rockville Pike
+AGENT: Thank you. I have one four zero one Rockville Pike. Let me confirm that address for you.
+AGENT: I couldn't find an exact match for one four zero one Rockville Pike. The closest address I found is 6 3 0 2 Sheridan Street, East Riverdale, Maryland. Is that the correct destination?
+CALLER: No.
+AGENT: Thank you for letting me know. Please provide the correct destination address or a nearby landmark, and I will look it up again for you.
+CALLER: Thank you.
+AGENT: You're welcome. Since we still need your destination address, could you please provide the full address or a nearby landmark for
+CALLER: Just just a minute. Just just a minute.
+AGENT: Take your time. Whenever you're ready, please let me know the destination address or a nearby landmark.
+CALLER: Thank you.
+AGENT: You're welcome. Whenever you're ready, please provide the destination or dropoff address for your ride.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Just a minute.
+AGENT: Whenever you're ready, please provide the destination or dropoff address for your ride.
+CALLER: I gotta call back get the address.
+AGENT: Thank you for calling Barwood & Regency, ennette. Have a wonderful day.
+CALLER: Thank you.

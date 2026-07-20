@@ -1,0 +1,10 @@
+AGENT: Hi Judy, this is Ana with Barwood & Regency. Your trip is scheduled for pickup today at 3:00 PM, and you also have a will-call trip scheduled for today from 1280 East-West Highway in Silver Spring to your home at 12510 Winexburg Manor Drive. How can I assist you today?
+CALLER: I made an appointment to someone and probably to pick me up today. And I need I need another few minutes, like, fifteen minutes Can I give you my name?
+AGENT: I understand you have an appointment and might need a pickup today with about fifteen minutes delay. Please go ahead and give me your name so I can assist you further.
+CALLER: My first name is Judy, j u j y. Last name is c a h I l l.
+AGENT: Your current trip scheduled for today at 3:00 pm is marked as running late, and no driver has been assigned yet. I can connect you with a customer representative who can assist you further with this. Would you like me to do that?
+CALLER: Well, somebody's gonna pick me up soon to take me to the grocery store. I'm nine I'm almost 80 years old. I'm very tired.
+AGENT: I understand, Judy. Since your trip is running late and no driver is assigned yet, I'll connect you with a customer representative right away who can help you as quickly as possible. Please hold for a moment.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Very, very tired. Do this right away now.
+CALLER: K

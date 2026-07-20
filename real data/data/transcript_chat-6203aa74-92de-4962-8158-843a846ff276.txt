@@ -1,0 +1,22 @@
+AGENT: Hi Sheryl, this is Ana with Barwood & Regency. Your ride is scheduled for pickup today at 9:15 AM. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Well,
+AGENT: How can I assist you with your ride today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I will.
+AGENT: Whenever you're ready, just let me know how I can help with your ride.
+CALLER: I'd like to know what time to come and pick me up.
+AGENT: Your pickup is scheduled for today at 9:15 am from 6 0 3 6 Southport Drive in Bethesda. Would you like me to help with anything else?
+CALLER: Yes. I'm returning to this.
+AGENT: Just to confirm, you want to schedule a return trip back to 6 0 3 6 Southport Drive, Bethesda?
+CALLER: Yes.
+AGENT: What time would you like the return pickup?
+CALLER: On 2035.
+AGENT: Could you please clarify the time you want for the return pickup? Did you mean 2:35 pm?
+CALLER: Confront 10:35AM.
+AGENT: Just to confirm, you want the return pickup at 10:35 am, correct?
+CALLER: Correct.
+AGENT: You already have a trip scheduled from 6 0 3 6 Southport Drive to 1 0 4 0 0 Old Georgetown Road at 9:15 am today. What would you like to do?
+CALLER: I don't know what time they're gonna pick me up. And come back home.
+AGENT: I’m having trouble retrieving the exact pickup times right now. Let me connect you with a customer representative who can provide the details. Please hold for a moment.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

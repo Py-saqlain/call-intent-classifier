@@ -1,0 +1,15 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Larisa Yelovich?
+CALLER: Correct.
+AGENT: Thanks for confirming, Larisa. This is Barwood & Regency. How can I assist you today?
+CALLER: I need to book a trip. To Kaiser in Gaithersburg six five five Watkins Mills Road, and please stop me from 434 Allied Place, in Gaithersburg.
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yes. Gift card.
+AGENT: Hmmm.. that didn't seem right, could you try again? We accept cash, credit card, and Call and Ride. How would you like to pay? <emotion value="apologetic"/>
+CALLER: Well, then right.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yeah. Zero zero nine zero one six.
+AGENT: Thank you, your Call and Ride payment is all set. <emotion value="grateful"/>
+AGENT: Okay, so your pickup is 4 3 4 Allied Place, Gaithersburg, Maryland, and your dropoff is 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Can I please also ask you to check the balance on this account? Right.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Okay.

@@ -1,0 +1,41 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Hello?
+AGENT: Hi there! This is Ana with Barwood & Regency. May I please have your name?
+CALLER: Lucilla?
+AGENT: Thanks, Lucilla. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I want to get a taxi.
+AGENT: Alright, Lucilla, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Thank you for letting me know about the cash payment. Now, could you please tell me the pickup address where the driver should come to get you? <emotion value="peaceful"/>
+CALLER: One four zero zero. Forest Glen Road, Silver Spring, Maryland two zero nine one zero.
+AGENT: Okay, so I found your pickup location as one four zero zero Forest Glen Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Around the
+AGENT: Uh, I am sorry, but could you please repeat the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Three two one, University Boulevard, West, apartment three one three.
+AGENT: Okay, so I found your dropoff location as three two one University Boulevard West, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Lucilla. I will now proceed with the next steps for your ride.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: As soon as possible.
+AGENT: Okay, Lucilla, I've got your pickup time as today at 1:29 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One no wheelchair.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: Is it possible to get a Spanish speaking driver?
+AGENT: Alright, the estimated fare is 8 dollars, paying with cash. Would you like to schedule a return trip as well? Also, regarding your request for a Spanish-speaking driver, I
+CALLER: Okay, Yes, please.
+AGENT: Great, thank you. I'll start collecting the details for your return trip now.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: What can I she wants me to go there and back? Right?
+AGENT: Got it, I'll
+CALLER: She wants to just go there and
+AGENT: Thank you for clarifying. I am now processing your main trip booking with a Spanish-speaking driver. Please hold on a moment.
+AGENT: Your main trip is booked for today at 1:29 AM. Your confirmation number is 2 1 3 6 7 7 8 2 7. Is there anything else I can help you with?
+CALLER: Can you repeat that confirmation number?
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 7 8 2 7. Is there anything else I can assist you with?
+CALLER: That's it. Thank you so much.
+AGENT: Thank you for calling Barwood & Regency, Lucilla. Have a wonderful day!
+CALLER: You too.

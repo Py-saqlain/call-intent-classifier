@@ -1,0 +1,54 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: My name is Lester.
+AGENT: Thanks, Lester. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I would like could I get a taxi from here to Union Station DC? I'm I'm up in I'm in Rockville at the train station.
+AGENT: Alright, Lester, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I either way, I can pay I can use a card
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as credit card. Let me process that for you.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+CALLER: Wait. What is it your name is again?
+CALLER: Yeah. I hope.
+AGENT: This is Ana. Now, Lester, I found a couple of locations for Rockville train
+CALLER: No. No. No. Yes.
+AGENT: Lester, I found a few locations for Union Station in Washington, D C. Option one: 1177 15th Street Northwest. <break time="500ms"/> Option two: 102 H Street Northeast. <break time="500ms"/> Option three: 1st Street Exit, Union Station Metro. <break time="500ms"/> Option four: 701 1st Street Northeast. <break time="500ms"/> Option five: 50 Massachusetts Avenue Northeast. <break time="500ms"/> Which one is correct?
+CALLER: Not metro. I don't want metro. I want I don't want metro. I want this out bound
+AGENT: Okay, Lester, so that means you do not want the Union
+CALLER: No. I don't want to make sure I want the salt bone train to Florida. Not metro.
+AGENT: Thank you for clarifying, Lester.
+CALLER: I'd wanna use the the
+AGENT: Lester, to make sure I get this right, you want to go to the Union Station train terminal for outbound trains to Florida, not the metro station, correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Lester. I will now proceed with arranging your trip.
+AGENT: Lester, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now.
+AGENT: Okay great! I've got your pickup time as right now, today at 11:49 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thanks for that. Will you be needing a wheelchair-accessible vehicle?
+CALLER: What about that?
+AGENT: If you need a wheelchair-accessible vehicle, just let me know and I'll make sure to note that for the driver.
+CALLER: No. No. No. No.
+AGENT: Okay, I've noted no wheelchair-accessible vehicle is needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No. I just wanna know where I'll be picked up.
+AGENT: Your main trip pickup address is Rockville, Maryland. Do you have any special instructions or notes for the driver?
+CALLER: Yeah. It is right now. Near the front entrance to the train station where the bus stop is.
+AGENT: Alright, the estimated fare is 42 dollars, paying with Self. Would you like to schedule a return
+CALLER: They should be able to pull in there.
+AGENT: Thanks for that detail about the pickup spot near the train station entrance by the bus stop. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Got it,
+CALLER: Not now. Later on.
+AGENT: When later on would you like to be picked up for your return trip? Please specify a time or how many hours after your first trip. <emotion value="peaceful"/>
+CALLER: Not now. I can't arrange it now. I don't I don't have a time right now. No time right now to return.
+AGENT: Okay, I've recorded your return trip as will-call, meaning you can call back when you're ready to be picked up. <emotion value="grateful"/> Alright, soo <break time="300ms"/>
+CALLER: Yes.
+AGENT: How many passengers will be traveling on your return trip, including yourself? And will
+CALLER: One one one one. One one.
+AGENT: Thanks for that. Will you be needing a wheelchair-accessible vehicle for your return trip?
+CALLER: No.
+AGENT: For your return trip, I have the pickup as 1177 15th Street Northwest in Washington, D C, and the dropoff as Rockville. Is that correct?
+CALLER: Please, Anna. Anna, don't schedule the pickup yet. Don't know what time it's gonna be.
+AGENT: Thank
+CALLER: Return yet.
+AGENT: I understand you want to hold off on scheduling
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Please.

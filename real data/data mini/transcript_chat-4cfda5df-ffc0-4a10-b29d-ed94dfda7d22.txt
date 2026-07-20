@@ -1,0 +1,8 @@
+AGENT: Hello Bernard, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Place one right.
+AGENT: Could you please clarify what you mean by "Place one right"? Are you looking to book a ride to a specific place or address? If so, please provide the pickup and dropoff locations or any other details you'd like to share. I'm here to help!
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Where is my ride?
+AGENT: You don't have an active trip scheduled right now. Would you like me to help you book a ride?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.

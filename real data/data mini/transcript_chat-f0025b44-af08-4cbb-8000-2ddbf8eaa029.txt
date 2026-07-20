@@ -1,0 +1,7 @@
+AGENT: Hi Mike, this is Ana with Barwood & Regency. Vehicle 1012 is on the way and should arrive for your pickup in about 10 minutes at 2:06 pm. Also, you have a will-call trip scheduled today from 1 9 8 5 1 Observation Drive in Germantown to 1 8 7 1 5 North Frederick Avenue in Gaithersburg. How can I assist you today?
+CALLER: Trip status.
+AGENT: Your driver in vehicle 1012 is on the way and should arrive for your pickup in about 10 minutes. Anything else?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Can you contact that driver?
+AGENT: I can't reach the driver directly, but customer support can help with that. I'll connect you to a representative now.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

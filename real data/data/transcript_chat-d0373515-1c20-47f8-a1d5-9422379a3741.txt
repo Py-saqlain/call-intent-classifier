@@ -1,0 +1,58 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Deborah Marie Dutton?
+CALLER: No. You're not. You're speaking with Everett Hickson.
+AGENT: I don't see a profile under the name Everett Hickson. If you'd like, I can help you set up a profile or assist you with booking a ride. How would you like to proceed?
+CALLER: okay. I like to catch a ride.
+AGENT: Thank you, Everett. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: It's gonna be cash.
+AGENT: Thank you, Everett. Your payment method is set to cash.
+CALLER: Cash.
+AGENT: Everett, could you please tell me the pickup address for your ride?
+AGENT: Thank you for confirming cash as your payment method. To get started, could you please tell me the pickup address where the driver should come to get you?
+CALLER: The pickup the the pickup address is hold on. What's the pickup address here?
+AGENT: Your home address on file is 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. Would you like to be picked up from there, or do you have a different pickup address in mind?
+CALLER: No. That's where I'm going. That's where I'm going. Hold on. Do you the pickup address is I'm sorry. What's the pickup address here?
+AGENT: Thank you for clarifying, Everett. You want to go to 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. Now, could you please tell me the pickup address where the driver should come to get you?
+CALLER: Walker walk in's meal. No. This this is where I'm at. I just gave it to you. Six five five Watkins Mill Road.
+AGENT: Thank you for confirming, Everett. So your pickup address is 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. Is that correct?
+CALLER: Right. Yes.
+AGENT: I have the pickup address as 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: I wasn't able to find a location for "catch a ride." Could you please provide the full address or name of the place you want to go to?
+CALLER: The name of the place that I wanna go to is hold on one second.
+AGENT: Take your time, Everett. Whenever you're ready, please tell me the address or name of the place you want to go to.
+CALLER: The name of the place that I wanna go to is give me one second.
+AGENT: No problem, Everett. Just let me know when you have the name or address ready.
+CALLER: Okay. Hold on. The name is Atlantic Union Bank at Frederick Square Mall. Atlantic Union Bank.
+AGENT: I found several locations for Atlantic Union Bank near Frederick Square Mall:
+
+1. 4 8 4 North Frederick Avenue, Gaithersburg, Maryland
+2. 1 7 7 3 5 Georgia Avenue, Olney, Maryland
+3. 1 7 8 0 1 Georgia Avenue, Olney, Maryland
+4. 2 0 9 3 0 Frederick Road, Germantown, Maryland
+
+Which one would you like to go to?
+CALLER: I like to go to the one in Frederick Square Mall. It's at Frederick Square Mall in Gaithersburg, Maryland.
+AGENT: The Atlantic Union Bank at 4 8 4 North Frederick Avenue, Gaithersburg, Maryland is the one at Frederick Square Mall. Is that the correct dropoff address?
+CALLER: Yes. Yes. It is.
+AGENT: Your dropoff address has been verified, Everett. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: Right now.
+AGENT: Thank you. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Just one. Just one.
+AGENT: Thank you for confirming one passenger. Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 7.5 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No. No. Just just there.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your main trip is scheduled for today at 9:55 AM. Your confirmation number is 2 1 3 6 6 3 2 2 5. Is there anything else I can help you with?
+CALLER: Time did you say they were coming? Picking me up at?
+AGENT: Your pickup is scheduled for today at 9:55 AM. Is there anything else I can assist you with?
+CALLER: No. No. No. I'll be waiting out front. What color car is it?
+AGENT: I don't have the car color details, but your driver will be arriving shortly for your pickup at 9:55 AM. Is there anything else I can help you with?
+CALLER: No. No. You've been great. I appreciate it.
+AGENT: I want to make sure I have the right person. Could you please tell me your name again?
+CALLER: Everett e v e r e t t. Dixon, h I c k s o n.
+AGENT: I still don't see a profile under the name Everett Dixon Hickson. If you'd like, I can help you set up a profile or assist you with booking a ride. What would you prefer?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

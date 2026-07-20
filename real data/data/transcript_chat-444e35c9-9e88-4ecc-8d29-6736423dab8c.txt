@@ -1,0 +1,32 @@
+AGENT: Hello Stewart, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi there. I am looking to schedule a pickup
+CALLER: from Reagan, uh, National for this evening. I get in at 09:30, so guess maybe, like, around 09:45. And that is gonna gonna go to the, uh, Pooks Hill Marriott.
+AGENT: Thank you for sharing your pickup details from Ronald Reagan Washington National Airport to the Pooks Hill Marriott this evening around 9:45 pm. How would you like to pay for this ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card is fine.
+AGENT: Thank you, your payment method is set to credit card.
+CALLER: K.
+AGENT: I want to make sure I have the pickup address correct. Is your pickup at two four zero one Smith Boulevard, Arlington, Virginia? Please say yes if that's right.
+CALLER: Hi. Do not know the address of the airport.
+AGENT: No problem at all. The pickup address I have is two four zero one Smith Boulevard, Arlington, Virginia, which is the full street address for Ronald Reagan Washington National Airport. Does that sound correct for your pickup location?
+CALLER: Nope. Yes.
+AGENT: I found Bethesda Marriott at 5 1 5 1 Pooks Hill Road, Bethesda, Maryland. Is this the place you want to go to?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Mr. Stewart. I will now proceed with arranging your ride.
+AGENT: You mentioned a pickup time today at 9:45 pm. Is that correct?
+CALLER: Yes.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two people total. No wheelchair.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: Not that I'm aware of.
+AGENT: The estimated fare for your trip is 38.5 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: Uh, no. Do not need.
+AGENT: Alright, I will skip the return trip. Let me proceed with booking your one-way trip now.
+CALLER: Not now.
+AGENT: Just to confirm, you do not want to book the trip right now, and no trips will be booked at this time. Is that correct?
+CALLER: I just wanna book tonight. Not the return.
+AGENT: Thank you for clarifying. I will proceed with booking your trip for tonight at 9:45 pm without a return trip.
+AGENT: Thank you for your patience. I'm processing your
+CALLER: Correct.
+AGENT: Your trip for tonight at 9:45 pm is booked. Your confirmation number is 2 1 3 6 6 7 0 5 0. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Stewart. Have a wonderful day!

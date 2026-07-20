@@ -1,0 +1,13 @@
+AGENT: Good morning, Herbert. This is Ana from Barwood & Regency. Vehicle 634 is on the way and will arrive for pickup in about 8 minutes at 7:50 am. How can I assist you today?
+CALLER: Yes. I need a taxi at the Safeway on Germantown Road in Germantown.
+AGENT: Looks like you already have a trip from 19105 Frederick Road to 655 Watkins Mill Road, Gaithersburg at 7:48 am today. What would you like to do?
+CALLER: Did already did that. I'm wait I'm already at another place now. He already picked me up. I'm at the Safeway now on Germantown Road.
+AGENT: Thanks for letting me know you're already picked up and at Safeway on Germantown Road. Is there anything else I can assist you with?
+CALLER: Yes.
+AGENT: What would you like help with next?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes. No. I'm just waiting. I see one sitting over there. Maybe that's my There's a taxi sitting over there in the parking lot, so that might be for me. I think it is.
+AGENT: Great, take your time and let me know if you need any assistance or have any questions while you wait.
+CALLER: I know. They put they still got time. They didn't call you.
+AGENT: Thanks for the update. If you need any help or have questions while you wait, just let me know.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

@@ -1,0 +1,34 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Jayasheela Bethepu?
+CALLER: Yeah. Okay. New booking agent. Agent. I'm going back home.
+AGENT: Thanks for confirming, Jayasheela. This is Barwood & Regency. What time would you like your pickup for your trip home?
+CALLER: No. I'm waiting now, I'll say.
+AGENT: Alright, so you're ready for pickup now to go home?
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your ride? We accept cash, credit card, and Call and
+CALLER: Yes. I'm calling, babe.
+CALLER: Call and ride.
+AGENT: Okay so <break time="300ms"/> you've chosen Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero eight seven seven four nine.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Okay, so I found 3 9 5 0 Ferrara
+CALLER: Account agency agent from six one zero six one six six one zero South Frederick two nine three.
+AGENT: Uh, I am sorry, but <break time="300ms"/> could you repeat that? <emotion
+CALLER: It's a church
+AGENT: Thank
+CALLER: view the agent.
+CALLER: Agent.
+AGENT: Okay, so I found 3 9 5 0 Ferrara Drive, Silver Spring, Maryland. Is that correct?
+CALLER: No. No. Can you do the no. He's due to agent.
+AGENT: I can help you with the pickup address right now — shall we continue?
+CALLER: 610. It is South Frederick. That is a great Petersburg Presbyterian church. Duty agent.
+AGENT: I found two addresses for you.  
+Option one: 6 1
+CALLER: Agent. Yes. Zero. Six one zero South Frederick. That is Gated Book Church.
+AGENT: Okay, so I found 6 1 0 South Frederick Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Two
+AGENT: Uh, I am sorry, but <break time="300ms"/> could you repeat that? <emotion value="peaceful"/>
+CALLER: yeah. 29 Chestnut Street. Going home.
+AGENT: I found a few
+CALLER: Going home. 9 Chestnut Street.
+AGENT: Okay,
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Yeah. Due to yeah.

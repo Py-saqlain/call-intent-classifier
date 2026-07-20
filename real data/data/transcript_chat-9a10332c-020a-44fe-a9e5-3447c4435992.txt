@@ -1,0 +1,48 @@
+AGENT: Hi Barry, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need taxi to come to two three five two eight fourth heavenway.
+AGENT: Thank you for sharing your pickup address at two three five two eight Fourth Heavenway. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Debit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: I have your pickup address as two three five two eight Forest Haven Way, Clarksburg, Maryland. Is that correct?
+AGENT: Take your time. Just
+CALLER: Hello?
+AGENT: I have your pickup address as two three five two eight Forest Haven Way, Clarksburg, Maryland. Is that correct?
+CALLER: Correct. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Five four five North Frederick Road.
+AGENT: Thank you for the dropoff address at five four five North Frederick Road. Is that correct?
+CALLER: Correct. Yes.
+AGENT: I couldn't locate five four five North Frederick Road. Could you please provide the city and state for that address?
+CALLER: Gatysburg, Maryland.
+AGENT: I found a few locations near five four five North Frederick Road in Gaithersburg, Maryland:
+
+1. CVS Pharmacy at five four six North Frederick Avenue
+2. CVS at five four six North Frederick Avenue
+3. AT&T Store at five three eight North Frederick Avenue
+
+Which one would you like to use as your dropoff address?
+CALLER: Seven zero one Russell Avenue. 701 Russell Avenue.
+AGENT: I understand you want to update the dropoff address to seven zero one Russell Avenue. Is that correct?
+CALLER: Correct. Yes.
+AGENT: I have the dropoff address as seven zero one Russell Avenue, Gaithersburg, Maryland. Is that correct?
+CALLER: Yeah. Correct. Yes.
+AGENT: Your dropoff address has been verified, Barry.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two.
+AGENT: Will anyone be needing a wheelchair-accessible vehicle?
+CALLER: No. Well, yes. Yes. Yes.
+AGENT: I have noted that a wheelchair-accessible vehicle is needed. Do you have any special instructions or information for the driver?
+CALLER: Come as soon as possible.
+AGENT: The estimated fare for your trip is 27.5 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with just the one-way trip. Should I go ahead and book your ride now?
+CALLER: Yeah. Yes.
+AGENT: Booking your ride now.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 7:27 am. Your confirmation number is 2 1 3 6 6 3 0 9 5. Is there anything else I can help you with?
+CALLER: Must have they received Must have a receipt. A two pack passengers. Two passengers. For a passenger. Thanks. Deborah Brown. Deb Deborah Brown is paying.
+AGENT: I understand you need a receipt for two passengers, and Deborah Brown will be the one paying. I will make sure the receipt is available for you. Is there anything else you would like me to note or assist with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Barry. Have a wonderful day!

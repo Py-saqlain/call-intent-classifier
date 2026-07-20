@@ -1,0 +1,23 @@
+AGENT: Hello Sheba, this is Ana with Barwood & Regency. Vehicle 285 is on the way and will arrive for your pickup shortly. How can I assist you today?
+CALLER: 2285. You made card number 285?
+AGENT: Uhh, just to clarify, are you asking about booking a ride using a Call and Ride card ending in two eight five? Or did you want to book a trip from or to an address with the number two two eight five? Let me know so I can assist you properly. <emotion value="hesitant"/>
+CALLER: No. No. No. No. No. No. No. That that that that that that that that that that that that that the the the picking me up.
+AGENT: Okay, I want to make sure I understand you correctly. Are you saying you want to be picked up at an address with the number two two eight five? Could you please tell me the full address or location for your pickup? <emotion value="peaceful"/>
+CALLER: I just want to know the number of the taxi.
+AGENT: I understand you want to know the number of the taxi assigned to your ride. To help with that, I’ll connect you to the trip status team who can provide the current details about your ride. One moment please.
+AGENT: Okay, so your taxi number is two eight five. Anything else I can help you with? <emotion value="content"/>
+CALLER: Okay. Two eight five.
+AGENT: Yes, that's right, two eight five is your taxi number. If you need anything else, just let me know. <emotion value="peaceful"/>
+CALLER: And and he he he is is it's is is is it coming to 121616? That's my pickup address. Georgia Avenue.
+AGENT: Hmm, let me check that for you. <emotion value="peaceful"/>
+AGENT: Your pickup address is one two zero one six Georgia Avenue, not one two one six. Your taxi two eight five is currently at that location. Anything else? <emotion value="content"/>
+CALLER: One twenty one six Georgia Avenue. Oh, Oh, Yeah. Bye bye.
+AGENT: Your taxi is coming to one two zero one six Georgia Avenue, not one two one six. If you need anything else, just let me know. <emotion value="content"/>
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+CALLER: Can I show my
+AGENT: I’m sorry, I didn’t catch that. Could you please repeat what you were saying? <emotion value="peaceful"/>
+CALLER: it's making
+AGENT: Could you please say a bit more about what you mean by "it's making"? I'm here to help. <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Okay?

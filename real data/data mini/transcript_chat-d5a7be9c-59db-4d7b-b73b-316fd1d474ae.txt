@@ -1,0 +1,12 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Michael.
+AGENT: Thanks, Michael. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Um, I got a call the other day from this number. Extension 3289 was what was in the number for me to call back. For Ceesha County. I guess, a medical driving.
+AGENT: It sounds like you received a call about medical transportation for Ceesha County. I can help you with booking a ride or connecting you to the right service. Would you like to schedule a medical ride now?
+CALLER: Yes.
+AGENT: Great, Michael. How would you like to pay for your ride today? We
+CALLER: Well, not a medical ride. Getting hired as
+AGENT: Thank you for clarifying, Michael. Before we continue, could you please let me know how you would like to
+CALLER: getting hired as a driver.
+AGENT: Thanks for letting me know, Michael. To proceed with your ride request, could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: I am not calling for a ride. I am calling for a job with the company you're representing.

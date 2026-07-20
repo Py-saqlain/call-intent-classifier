@@ -1,0 +1,38 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Martina?
+CALLER: Yes,
+AGENT: Thanks for confirming, Martina. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Can I look at the 607 Bradford Street?
+AGENT: Uhh, just to confirm, did you mean 607 Blandford Street in Rockville? I want to make sure I have the right address before we proceed. <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Okay, so I found 607 Blandford Street, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Could you please tell me your destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 899 Rockville Place, round trip.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Now, let me check that destination address for you.
+AGENT: Hmm, let me check that address. I found a close match: 899 Rockville Pike, Rockville, Maryland. Is that the correct destination? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time set for today at 2:02 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thanks for that. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay great! <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 7 dollars, paying with Self. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Alright, so <break time="250ms"/> let me start collecting the details for your return trip.
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Immediate.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 0 8 3 4, and your pickup is today at 2:02 PM. Would you like me to continue with booking your return trip now?
+CALLER: Yeah.
+AGENT: Thank you. I will proceed with your return trip booking now.
+AGENT: Looks like you already have a trip from 607 Blandford Street to 899 Rockville Pike today at 2:02 PM. What would you like to do? <emotion value="peaceful"/>
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today? <emotion value="peaceful"/>
+CALLER: Just book the trip.
+AGENT: Let me get that set up for you right now.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

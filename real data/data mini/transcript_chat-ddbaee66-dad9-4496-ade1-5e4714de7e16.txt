@@ -1,0 +1,11 @@
+AGENT: Hello DAR, this is Ana from Barwood & Regency. Your pickup is scheduled for today at 5:15 PM. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Cancel. Cancel.
+AGENT: I see two trips on your account.  
+Trip one: pickup at 1 9 2 3 3 Watkins Mill Road at 5:15 pm going to 1 6 1 4 3 Shady Grove Road in Gaithersburg.  
+Trip two: pickup at 1 6 1 4 3 Shady Grove Road at 8:00 pm going to 1 9 2 3 3 Watkins Mill Road in Gaithersburg.  
+Which one would you like to cancel?
+AGENT: Take your time. Just let me
+CALLER: Both. Agent Fuck. Dang it. Fucking
+AGENT: I understand you want to cancel both trips. Hmm, let me pull that up for you.
+AGENT: Okay so both trips have been cancelled for you. Is there anything else I can help you with?

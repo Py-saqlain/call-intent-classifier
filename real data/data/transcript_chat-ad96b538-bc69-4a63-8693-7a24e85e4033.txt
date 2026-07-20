@@ -1,0 +1,46 @@
+AGENT: Hello OWU, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm trying to find out, uh, why would wheelchair, um, cap, please?
+AGENT: I want to make sure I understand you correctly. Are you asking about booking a ride with a wheelchair-accessible vehicle?
+CALLER: Yes.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? If you'd like, I can use your home address at 9 0 1 Arcola Avenue, Silver Spring, Maryland. Would that work for you? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Okay, so I have your pickup as 9 0 1 Arcola Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 10301 Georgia Avenue.
+AGENT: I have the dropoff address as 1 0 3 0 1 Georgia Avenue, Wheaton-Glenmont, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, OWU. <emotion value="grateful"/>
+AGENT: I have noted that you need one wheelchair-accessible vehicle. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got that noted. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Ten forty five.
+AGENT: Just to clarify, did you mean ten forty-five in the morning or in the evening? <emotion value="hesitant"/>
+CALLER: In the morning,
+AGENT: Okay great! I've got your pickup time as today at 10:45 AM. How many passengers will be traveling, including yourself? <emotion value="grateful"/>
+CALLER: Two. I mean, two two people.
+AGENT: Okay great! I've got two passengers noted, including yourself. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 10 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, I’ll start collecting the details for your return trip.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Oh, I'm not sure what time the appointment will be finished.
+AGENT: No problem, I've recorded your return trip as a will-call trip. How many passengers will be traveling on the return trip, including yourself? <emotion value="peaceful"/>
+CALLER: Two
+AGENT: And will any of those passengers require a wheelchair-accessible vehicle on the return trip? <emotion value="peaceful"/>
+CALLER: Two people.
+AGENT: Okay, I've got two passengers for the return trip. Will you need a wheelchair-accessible vehicle for the return trip? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: For your return trip, I have the pickup as 1 0 3 0 1 Georgia Avenue, Wheaton-Glenmont, Maryland, and the dropoff as 9 0 1 Arcola Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 11 dollars, paying with Credit Card. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes
+AGENT: Okay, so I’m booking both trips for you now.
+AGENT: Your main trip is scheduled for today at 10:45 AM with confirmation number 2 1 3 6 7 2 9 6 8. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 2 9 6 9. You can call back when you're ready for the return trip, and a driver will be sent then. Is there anything else I can help you with?
+CALLER: Can you can you repeat the confirmation number?
+AGENT: Certainly. For the main trip, the confirmation number is 2 1 3 6 7 2 9 6 8. For the return trip, the confirmation number is 2 1 3 6 7 2 9 6 9. Is there anything else I can assist you with?
+CALLER: No.

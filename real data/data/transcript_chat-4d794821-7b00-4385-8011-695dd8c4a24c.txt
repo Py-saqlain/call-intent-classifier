@@ -1,0 +1,39 @@
+AGENT: Hi Michelle, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Get I'm pick getting picked up at, um, Glenmont, Mexico. Station off of Georgia Avenue.
+AGENT: I understand you'd like to be picked up at Glenmont Metro Station near Georgia Avenue. Let me connect you to the booking service to arrange your ride.
+AGENT: Thank you for sharing your pickup location. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Great! Could you please tell me how you would like to pay? Cash, credit card, or Call and Ride?
+CALLER: I'm ready. Cash. Cash.
+AGENT: Thank you for choosing cash as your payment method.
+AGENT: I found a few locations related to Glenmont Metro Station near Georgia Avenue:
+
+1. Glenmont at 1 2 5 0 1 Georgia Avenue, Silver Spring, Maryland
+2. WMATA Glenmont Rail Yard at 1 2 7 5 0 Layhill Road, Silver Spring, Maryland
+
+Which one would you like to use for your pickup?
+CALLER: The first one.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: That's all bad. That smell bad? Three eight one nine r o s e n e a t h Street, Olney, Maryland. I think it smells bad in general, but I think I might funked it up.
+AGENT: Thank you for providing the dropoff address. Just to confirm, is your destination 3 8 1 9 Roseneath Street, Olney, Maryland?
+CALLER: Okay.
+AGENT: Just to confirm, your dropoff address is 3 8 1 9 Roseneath Street, Olney, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Michelle.
+AGENT: When would you like to be picked up?
+CALLER: Now.
+AGENT: Thanks, I've scheduled your pickup for now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle?
+CALLER: One. No. One. No.
+AGENT: Got it, no wheelchair-accessible vehicle needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 25 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking your one-way trip. Just to confirm, should I go ahead and book it now?
+CALLER: Yes.
+AGENT: I am booking your trip now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 0 1 9 4. Your pickup is today at 8:08 PM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Michelle. Have a wonderful day!

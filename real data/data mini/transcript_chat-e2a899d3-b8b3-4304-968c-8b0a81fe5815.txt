@@ -1,0 +1,12 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Stephen Fischer?
+CALLER: Talk to me, though, right? What? You? Oh, I up something Spanish guy with a long hair.
+AGENT: I want to make sure I have the right person. Are you Stephen Fischer, or is there another name I should use?
+CALLER: And then when I got to, like, in the pro, I checked and you may hold on it.
+AGENT: Could you please tell me your name so I can assist you properly?
+CALLER: I see your name. On the Your phone It's gonna be no. Both of them. Yeah. What time did you start?
+AGENT: I want to make sure I have the right profile for you. Could you please tell me your name again? If you want, I can list the names I have on this number to help you choose.
+CALLER: 10:00. Yeah. Would that
+AGENT: Thank you for that. To help you best, I still need to confirm your name on this account. Could you please tell me your name?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

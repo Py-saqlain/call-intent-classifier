@@ -1,0 +1,56 @@
+AGENT: Hello NASHEIR, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Farwood. I am calling the agency. Tax
+AGENT: Thank you for calling Barwood and Regency. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: I would pay cash.
+AGENT: Thank you for letting me know you'll be paying with cash.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: I am go I will need taxi at 11:45.
+AGENT: Could
+CALLER: Ma'am, 11:45. Taken to my doctor office. On Road. You with me? Hello?
+AGENT: Yes, I’m here. Thank you for the details. Could you please provide the full pickup address where the driver should come to get you?
+CALLER: Yes. One four I am the address of the doctor. One four nine five five. Road.
+AGENT: Thank you. Could you please tell me the full
+CALLER: Thank you.
+AGENT: I have the pickup address as
+CALLER: My security number seventeen My address seventeen. Nine zero eight Road.
+AGENT: Just to confirm, is your pickup address 1 7 9 0 8 Coachmans Road, Germantown, Maryland?
+CALLER: Yes. John McTown. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One four nine five five Shadow Grove Road,
+AGENT: I have the dropoff address as 1 4 9 5 5 Shady Grove Road, Rockville, Maryland. Is that correct?
+CALLER: Yes. Right. Correct, ma'am.
+AGENT: Your dropoff address has been verified, Nasheir. I will now proceed with arranging your ride.
+AGENT: You mentioned a pickup time of 11:45 am. Is that correct?
+CALLER: No. 1045.
+AGENT: Thank you for the correction. Your pickup time is set for today at 10:45 AM. How many passengers will be traveling, including yourself? And will anyone need a
+CALLER: Two. To myself and my wife.
+AGENT: Thank you. Will either of you need a wheelchair-accessible vehicle?
+CALLER: Repeat. Can you repeat your question?
+AGENT: Of course. Will either you
+CALLER: Hello?
+AGENT: Will either you or your wife need a wheelchair-accessible vehicle for this trip?
+CALLER: No. No. Okay.
+AGENT: Thank you for confirming. Do you have any special instructions or notes for the driver?
+CALLER: No. Thank you so much.
+AGENT: The estimated fare for your trip is 24.5, paying with cash. Would you like to schedule a return trip as well?
+CALLER: With oh, I I it's a vector. I want I don't know what type but I will call from there. I will be waiting. Once
+CALLER: I I will call from there. Maybe twelve I don't want set a time now, and I will be late. I will call, and I will be sitting. In the office doctor there until you come. To take me. Back home.
+AGENT: Okay, I have set your return trip as will-call, picking up from 14955 Shady Grove Road and going back to 17908 Coachmans Road. The fare will be 24.5, paying with cash. Should I go ahead and book both trips
+CALLER: Okay.
+AGENT: Thank you for your patience. I am processing your booking now.
+CALLER: But the the timing the timing of the return return, it's not available yet. I don't have I don't know what time that doctor will finish with me. See what I mean? Do you hear me?
+AGENT: Yes, I understand. Your return trip is set as will-call, so you can call us when you are ready, and we will send a driver to pick you up then. That way, you don’t need to set a specific time now. Does that sound good?
+CALLER: Okay.
+AGENT: Your main trip confirmation number is 2 1 3 6 8 0 4 1 2,
+CALLER: Very good. Thank you. I accept that.
+AGENT: Your return trip confirmation number is 2 1 3 6 8 0 4 1 3. Is there
+CALLER: Just a minute. Can I repeat it?
+AGENT: Of course. Which confirmation number would you
+CALLER: My wife is saying
+AGENT: Would you like me to repeat both the main trip and the return trip confirmation numbers for you?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready, ma'am. I'm ready.
+AGENT: The main trip confirmation number is 2 1 3 6 8 0 4 1 2. The return trip confirmation number is 2 1 3 6 8 0 4 1 3. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, NASHEIR. Have
+CALLER: Thank you.

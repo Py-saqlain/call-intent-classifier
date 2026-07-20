@@ -1,0 +1,46 @@
+AGENT: Hi Mike, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi in
+AGENT: Could you please tell me the pickup location and where you would like to go?
+CALLER: 155 Watkins Station Circle in Jenkins, Maryland.
+AGENT: Just to confirm, is your pickup location 1 5 5 Watkins Station Circle in Gaithersburg, Maryland? And could you please tell me your destination address?
+CALLER: Yes. Destination is 19901 Frederick Road in Germantown, Maryland.
+AGENT: Thank you for confirming. When would you like the pickup to be scheduled?
+CALLER: Three ten. PM.
+AGENT: Thank you for the pickup time of 3:10 pm. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Colon right.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three four nine zero four zero.
+AGENT: Thank you, your payment method is set to Call and Ride.
+AGENT: I have 155 Watkins Station Circle, Gaithersburg, Maryland as your pickup address, and 19901 Frederick Road, Germantown, Maryland as your dropoff address. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup and dropoff addresses have been verified, Mike.
+AGENT: You mentioned your pickup time as today at 3:10 pm. Is that correct?
+CALLER: Correct.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One, you know.
+AGENT: Thank you. Will you have any special instructions or notes for the driver?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: No. No. No.
+AGENT: The estimated fare for your trip is 9.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: Great, I'll start collecting the details for your return trip now.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Like the driver to wait for me.
+AGENT: I have noted that you would like the driver to wait for you. Now, what time would you like to be picked up for your return trip?
+CALLER: Yes. This would be 320. I don't know. I don't know what I guess I I notify the driver.
+AGENT: Just to confirm, did you mean 3:20 pm for your return trip pickup
+CALLER: Okay?
+AGENT: Could you please confirm if you want your return trip pickup time to be
+CALLER: Yes.
+AGENT: Your return trip pickup time is set for today at 3:20 pm. How many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One and no. One passenger No wheelchair.
+AGENT: For your return trip, I have the pickup at 1 9 9 0 1 Frederick Road, Germantown, Maryland, and the dropoff at 1 5 5 Watkins Station Circle, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes. Yes. Correct.
+AGENT: The estimated fare for your return trip is 9.5 dollars, paying with Call and Ride. Should I go ahead and book both your main and return trips?
+CALLER: Yes.
+AGENT: Thank you, I am booking both your main and return trips now.
+AGENT: Both your main trip and return trip are booked. Your main trip confirmation number is 2 1 3 6 6 4 8 0 2 with pickup today at 3:10 pm. Your return trip confirmation number is 2 1 3 6 6 4 8 0 3 with pickup today at 3:20 pm. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Mike. Have a great day!

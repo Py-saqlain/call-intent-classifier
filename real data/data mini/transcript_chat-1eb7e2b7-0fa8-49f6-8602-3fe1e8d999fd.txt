@@ -1,0 +1,6 @@
+AGENT: Hi Tracy, this is Ana from Barwood & Regency. Vehicle 511 is on the way and should be there for your pickup in about 1 minute, around 10:21. How can I assist you today?
+CALLER: I made a reservation for today's being from seven to six to this. Avenue, one two one one eight eight six. At 07:30. Go to follow what other drivers on the way.
+AGENT: It sounds like you have a reservation for today at 7:30 am from an address on this Avenue, one two one one eight eight six, and you want to know if the driver is on the way. Let me check the status of your trip for you.
+AGENT: Your trip is scheduled for today at 10:30 am from 7 6 2 0 Maple Avenue to 1 1 8 8 6 Healing Way in Silver Spring. A driver and vehicle are assigned, but the system does not show an ETA yet. Would you like me to connect you with a representative who can provide more details?
+CALLER: Yes.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

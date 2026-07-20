@@ -1,0 +1,13 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Abdul.
+AGENT: Thanks, Abdul. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Please.
+AGENT: How can I assist you today, Abdul?
+CALLER: Yeah. I need a representative.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: So are we
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: I need to call a customer. Can you call Christopher Andres for me, please, for his ride? He's outside. Cap number three.
+AGENT: I’m unable to place calls directly to drivers. However, I can connect you with a representative who can assist with contacting the driver for you. Would you like me to do that?
+CALLER: Thank you. Yes.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

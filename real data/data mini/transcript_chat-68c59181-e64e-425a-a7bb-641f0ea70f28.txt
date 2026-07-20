@@ -1,0 +1,15 @@
+AGENT: Hello Raymond, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: You're taking only. Right? This morning. It hasn't been picked up yet. It's it's it's
+AGENT: Uhh, I want to make sure I understand you correctly. Are you saying you want to book a ride for this morning that hasn't been picked up yet? Could you please confirm or provide a bit more detail? <emotion value="hesitant"/>
+AGENT: Alright, how would you like to pay for your
+CALLER: I'm checking the has arrived. I'm checking on.
+AGENT: I want to make sure I understand you correctly. Are you asking about the status of a ride that has already been booked or arrived? If so, I can help connect you to the right place for that. Meanwhile, could you please let me know how you would like to
+CALLER: Yes. Okay.
+AGENT: It looks like you don't have any active trips scheduled right now. Would you like me to help you book a ride for this morning? <emotion value="peaceful"/>
+CALLER: Yeah. It's active with the right now.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Can I be connected to the the device, please?
+AGENT: I can help you with your booking details — would you like to continue? <emotion value="peaceful"/>
+CALLER: No. I would like to be connected dispatch, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Okay. Thank you. Thank you.

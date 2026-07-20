@@ -1,0 +1,58 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Vinora Baul?
+CALLER: Correct.
+AGENT: Thanks, Vinora, for calling Barwood & Regency. How can I assist you today?
+CALLER: Can I get a a car? It's very urgent. Can I get some a taxi?
+AGENT: I can help with that right away. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Oh, I'm caught you right don't even want my number now. He's Lord, have mercy.
+AGENT: I want to make sure we get your ride arranged smoothly. Could you please tell me how you'd like to pay? Cash, credit card, or Call and Ride are all good options.
+CALLER: I'm I'm I'm looking for my car. Number, but I don't know. Just a minute, please. Just a minute. Please.
+AGENT: Take your time, Vinora. Whenever you're ready, just let me know how you'd like to pay for your ride.
+CALLER: No. I'm coming right now. Please, ma'am. It's urgent. You just help me, I appreciate it.
+AGENT: I understand it's urgent, and I'm here to help you. Could you please tell me how you'd like to pay for your ride? Cash, credit card, or Call and Ride?
+CALLER: Yes. I'm I'm My my my my I have called and ride.
+AGENT: Thank you for letting me know you have Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three four seven two seven five.
+AGENT: Thank you, Vinora. Your Call and Ride payment is all set. The system will now proceed with arranging your ride.
+AGENT: Could you please tell me the pickup address where the driver should meet you?
+CALLER: 1316 Fenwick Lane.
+AGENT: I have 1 3 1 6 Fenwick Lane, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Silver Spring.
+AGENT: Just to confirm, your pickup address is 1 3 1 6 Fenwick Lane, Silver Spring, Maryland. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: The address is one three
+AGENT: Could you please provide the full dropoff address including the street name and city? Just the the number "one three" is not enough to locate it.
+CALLER: I mean, one two three one one five.
+AGENT: Thank you. Could you please tell me the street name and city for the dropoff address with the number one two three one one five?
+CALLER: Parkland Drive.
+AGENT: Could you please tell me the city for the dropoff address at one two three one one five Parkland Drive?
+CALLER: Rockville,
+AGENT: I couldn't find the address at one two three one one five Parkland Drive, Rockville, Maryland. Could you please double-check the street number or provide any nearby landmarks or cross streets?
+CALLER: No. No. No. One,
+AGENT: I want to make sure I get your dropoff address right. Could you please say the full street number again for Parkland Drive in Rockville?
+CALLER: It's one,
+AGENT: Could you please provide the complete street number for the dropoff address on Parkland Drive in Rockville? Just the number "one" is not enough to locate it accurately.
+CALLER: One, two, three, one, one.
+AGENT: Thank you. To confirm, your dropoff address is 1 2 3 1 1 Parkland Drive, Rockville, Maryland. Is that correct?
+CALLER: Correct. Please. Yes.
+AGENT: I have 1 2 3 1 1 Parklawn Drive, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Vinora. I will now proceed with arranging your ride.
+AGENT: You mentioned you want to be picked up right now. Is that correct? Please say yes to confirm or let me know if you want a different pickup time.
+CALLER: Right now.
+AGENT: Thank you for confirming your pickup time as right now. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yeah. Just me.
+AGENT: Thank you for letting me know it's just you and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No. No. We can. That's that's one person. Just me alone.
+AGENT: The estimated fare for your trip is 26.5 dollars, and you will be paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: Please. No. Not at this time.
+AGENT: Alright, no return trip scheduled. I will proceed with booking your one-way trip now.
+AGENT: I'm processing your booking now. Please hold on a moment.
+CALLER: Okay. Thank you.
+AGENT: I'm still working on your booking. Please give me just a moment.
+AGENT: Your main trip is scheduled for today at 12:00 PM. The confirmation number is 2 1 3 6 7 8 0 9. Is there anything else I can help you with?
+AGENT: I'm still working on your booking. Please give me just a moment.
+AGENT: Your main trip is scheduled for today at 12:00 PM. The confirmation number is 2 1 3 6 7 8 0 9 4. Is there anything else I can assist you with?
+CALLER: No. No. That's all for now. Thank you so much.
+AGENT: Thank you for calling Barwood & Regency, Vinora. Have a wonderful day!
+CALLER: Thank you. You do the same.

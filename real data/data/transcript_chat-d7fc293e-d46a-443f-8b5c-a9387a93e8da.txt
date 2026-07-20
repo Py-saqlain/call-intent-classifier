@@ -1,0 +1,9 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Get the current
+AGENT: Could you please tell me your name first so I can assist you with Barwood & Regency?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: No.
+AGENT: Just to confirm, you want to cancel the booking and no trips will be scheduled, is that correct?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

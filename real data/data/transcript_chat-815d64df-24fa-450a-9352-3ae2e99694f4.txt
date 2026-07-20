@@ -1,0 +1,61 @@
+AGENT: Hello Clifton, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I want a ride to to only Let's see. See, Sharp Street UMC Church in Olney,
+CALLER: sandy spring
+AGENT: Alright,
+CALLER: Road, Maryland.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yeah. Yeah. I need a ride to Sharp Street Church in Olney, Maryland. ZIP code 2086O.
+AGENT: Thanks for that information. Just to confirm, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I I pay for I'm well, money. I with with with cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Thank you for letting me know. Now, could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Yeah. I I can't say, but I I I wanna ride to Shop Street Church in Olney, Maryland. ZIP code 2086O. And and I don't want it today. I don't want it today. I want it Sunday. Sunday morning, I want
+CALLER: Sunday morning at 09:00.
+AGENT: Thank you for letting me know you want the ride Sunday morning at 9:00 am to Sharp Street United Methodist Church in Olney, Maryland. Now, could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Church time. Yeah. Yeah. Yeah. Pay cash. Yeah. Yeah. Yeah. I live at six twenty four. Symphony Woods Drive. Two zero nine zero one, Silver Spring.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is 6 2 4 Symphony Woods Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's correct.
+AGENT: I found a location called Sharp Street United Methodist at 1 3 1 0 Olney Sandy Spring Road, Sandy Spring, Maryland 2 0 8 6 0. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Yes. Yeah. Yeah. You're absolutely right. One three one zero only Sandy Spring Road Sandy Spring, Maryland, 2086. O. And that's for Sunday? Tomorrow, that'll be twelve?
+AGENT: Your dropoff address has been verified, Clifton.
+AGENT: We have your pickup time as Sunday at 9:00 AM. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah. Yeah. You have me pick up from 624 Symphony Woods Drive, Silver Spring, Maryland two zero nine zero one At 09:00, on Sunday, the twelfth.
+AGENT: Okay great! I've got your pickup time as tomorrow at 9:00 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yeah. Yeah. I won't be picked up. I yeah. Yeah. I wanna go.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. How many
+CALLER: 09:00. 09:00. Tomorrow.
+AGENT: Thanks for confirming the pickup time as tomorrow at 9:00 AM. Now, could you please tell me how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible
+CALLER: No. That's right. Yeah. 9AM. Yeah. Yeah. Yeah. That's fine.
+AGENT: Okay great! I've got your pickup time as tomorrow at 9:00 AM. <emotion value="grateful"/> Now, how many passengers will be traveling, including yourself? And will
+CALLER: 9AM.
+AGENT: Thanks for confirming 9 AM as your pickup time. Now, could you please tell me how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. No. I this one person, me. This one.
+AGENT: Okay great! I've got 1 passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No. No. No. Yeah. Just one one passenger. No passenger. No packages.
+AGENT: Alright, the estimated fare is 31.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: The price, you said, is $39. Is that right?
+AGENT: The estimated fare for your trip is 31.5 dollars. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Alright. Okay. Sir, Yeah. Yeah. $39. Alright. 39 well, whatever the price is. So you're right. $39.
+AGENT: Just to clarify, the estimated fare I have is 31.5 dollars for your trip.
+CALLER: Right. You you call me. You you yeah. You yeah. You you call me, uh, sandy? You call me Sunday, uh, and, at 09:00? And I'll be ready.
+AGENT: Just to confirm, you would like a pickup tomorrow at 9:00 AM, and you'll be ready at that time. Is that correct? <emotion value="peaceful"/>
+CALLER: That's correct.
+AGENT: Your main trip is scheduled for tomorrow at 9:00 AM. Your confirmation number is 2 1 3 6 7 4 0 9 6. Is there anything else I can assist you with?
+CALLER: I'd like to hear that. I'd like to hear confirmation number again. Yeah. I wanna write it down. I want confirmation number.
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 4 0 9 6. Is there anything else I can help you with?
+CALLER: 39 go slow. Three nine No. I I I want you to go slow with the confirmation. Three nine
+AGENT: Just to clarify, the confirmation number is two one three six seven four zero nine six. Would you like me to say it again slowly?
+CALLER: Yes, ma'am, please. Yeah. Yes, ma'am.
+AGENT: Alright, here it is slowly: 2... 1... 3... 6... 7... 4... 0... 9... 6. Is there anything else I can do for you?
+CALLER: I'll give I'll give the confirmation number back to you to make sure that it's right.
+AGENT: Please go ahead
+CALLER: The confirmation, it it con confirmation is 3936740.
+AGENT: The confirmation number I have is 2 1 3 6 7 4 0 9 6. If you'd like, I can repeat it again slowly for you.
+CALLER: 309797. That's what she said. Okay. Three nine three let's see. 393 74097.
+AGENT: The confirmation number I have is 2 1 3 6 7 4 0 9 6. If you want, I can repeat it slowly again for
+CALLER: Okay. Thank you.
+AGENT: You're welcome. Is there anything else I can assist you with today?
+CALLER: Yeah. Yeah. Yeah. I have the confirmation number. Alright. No. Thank thank you.
+AGENT: Thank you for calling Barwood & Regency, Clifton. Have a great day!
+CALLER: Thank you.

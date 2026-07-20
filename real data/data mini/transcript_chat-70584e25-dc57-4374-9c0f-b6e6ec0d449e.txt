@@ -1,0 +1,12 @@
+CALLER: You can try
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Shiela Jones?
+CALLER: Yes.
+AGENT: Thanks for confirming, Shiela. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I'd like to know how long I have to wait for a cab. For one zero four zero zero zero zero zero. How much long does I have to wait?
+AGENT: I don't see an active trip for you right now. Would you like me to help you book a ride?
+CALLER: If I already booked the ride over Algo,
+AGENT: If you booked your ride through Algo, I don’t have access to that system’s trip details. For updates on that ride, you might want to check directly with Algo’s
+AGENT: Take your time. Just let me know
+CALLER: I said I booked Look. I said I booked a ride about an hour ago. I booked a ride with a. About an hour ago. Hello?
+AGENT: I understand
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

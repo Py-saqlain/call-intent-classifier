@@ -1,0 +1,13 @@
+AGENT: Hi Evon, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Okay.
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Speak, agent.
+AGENT: Alright, are you looking to book a ride, check on a trip, or speak with someone for help? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: A speaker gift.
+AGENT: I'm sorry, I didn't quite catch that. Could you please tell me more about what you need help with regarding your ride? <emotion value="hesitant"/>
+CALLER: Speak agent.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

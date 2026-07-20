@@ -1,0 +1,13 @@
+AGENT: Hello Andrew, this is Ana from Barwood & Regency. You have two trips today — one scheduled for pickup at 10:00 AM with vehicle 419, and another at 11:00 AM with the same vehicle assigned. How can I assist you today?
+CALLER: I want to send my trip to care. Four one nine We talked to the cab driver.
+AGENT: Looks like you already have trips from Silver Spring to Takoma Park at 10 AM and back at 11 AM today. What would you like to do? <emotion value="grateful"/>
+CALLER: Yeah. My chips assigned to 419 I already talked to the cab driver.
+AGENT: Thanks for letting me know about your trip and the cab driver. Would you like to check the status, cancel, change your trip, or do something else? <emotion value="grateful"/>
+CALLER: No. This is the time I took to my cab. Four one nine going and coming.
+AGENT: Hmm, let me make sure I understand — you took your trip with vehicle number 419 both going and coming back, and you've already talked to the driver? <emotion value="peaceful"/>
+CALLER: Yeah. Yes.
+AGENT: Okay, so your trips with vehicle 419 are both accepted and scheduled for pickup today at 10:00 AM and 11:00 AM. Is there anything else I can help you with? <emotion value="content"/>
+CALLER: No. Thank you very much.
+AGENT: Thank you for calling Barwood Cab and Regency Taxi. Have a wonderful day!
+CALLER: Okay. Thank you.
+AGENT: Close_Call

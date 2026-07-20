@@ -1,0 +1,14 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Michelle?
+CALLER: Yes, ma'am. How long?
+AGENT: Thanks for confirming, Michelle. Your trip is scheduled for pickup today at 3:23 PM. What can I help you with today?
+CALLER: Three. It stands for half hour. The street dirty side you gotta be lying to me. Quit lying.
+AGENT: Uhh, I want to make sure I understand you correctly. Are you trying to book a ride for three passengers, or did you mean something else? And could you please clarify the pickup address you
+CALLER: Yes.
+AGENT: Looks
+CALLER: 12:35. By Turmeric Valley Grove.
+AGENT: Uhh, just to clarify, did you mean 12:35 PM for your pickup time? And is the pickup location 1 2 3 5 Potomac Valley Road, Rockville, Maryland, or did you mean a different address near Turmeric Valley Grove?
+CALLER: Right.
+CALLER: Two thirty five to ten mechanic. Woah. Is where I wanna be. Pissed. Up for
+AGENT: Uhh, I want to make sure I understand you correctly. Are you saying you want a pickup at 2:35 PM and a dropoff at 1 0 mechanic street? Could you please confirm the exact addresses for pickup and dropoff?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: ten years, sir. I said, twelve. Thirty five

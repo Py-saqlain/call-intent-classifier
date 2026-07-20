@@ -1,0 +1,21 @@
+AGENT: Hello Patricia, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Need a pickup at one eighty three zero one Georgia Avenue one zero two one forty eight zero five South Lawn in Rockford.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit. Credit.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Okay, so your pickup is at one eight three zero one Georgia Avenue, Olney, Maryland, and your dropoff is at one four eight zero five Southlawn Lane, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your addresses have been verified, Patricia.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmm <break time="300ms"/> sorry, I didn't catch the pickup time. Could you please tell me what time you'd like to be picked up? <emotion value="hesitant"/>
+CALLER: As soon as possible.
+AGENT: Okay great! I've got your pickup time as today at 4:54 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: At least by 05:00 and Just one.
+AGENT: Okay great! I've updated your pickup time to today at 5:00 PM with one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No. No.
+AGENT: Alright, the estimated fare is 22.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Thank you.
+AGENT: Your main trip is scheduled for today at 5:00 PM. Your confirmation number is 2 1 3 6 7 3 5 6 0. Is there anything else I can help you with?
+CALLER: That's all.
+AGENT: Thank you for calling Barwood & Regency, Patricia. Have a wonderful day!

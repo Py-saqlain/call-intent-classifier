@@ -1,0 +1,10 @@
+AGENT: Hi Kevin, this is Ana from Barwood & Regency. Your trip is scheduled for pickup today at 2:40 PM. Thank you for your patience. How can I assist you today?
+CALLER: Yes. Past 02:40PM. Right? We know my cab.
+AGENT: Uhh, it sounds like you're asking about a cab scheduled for after 2:40 pm. Let me connect you to the trip status team so they can check on your ride for you.
+AGENT: Uhh, I'm sorry about that. Your cab was scheduled for 2:40 pm and it is
+CALLER: Thank you, ma'am.
+AGENT: You're welcome. If you need anything else or want to check on another trip, just let me know.
+AGENT: Uhh, I'm sorry about the delay and that no driver has been assigned yet. Let me connect you with a representative who can help right away.
+CALLER: Okay. Thank you.
+AGENT: I'm connecting you now to a customer service representative. Please stay on the line.
+AGENT: I'm connecting you now to a customer service representative. Please stay on the line.

@@ -1,0 +1,8 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Harriet Joiner?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm here.
+AGENT: Great! Are you Harriet Joiner?
+CALLER: Yes.
+AGENT: Thanks for confirming, Harriet. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: So I have any ride with you guys today?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,43 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Paulet Martin?
+CALLER: No. This is from Giant. This is Giant. I'm calling to order a cab for miss Shirley.
+AGENT: Thank you for letting me know. May I please have the full name of the person you want to order the cab for?
+CALLER: Give me one second. What's your full name? Shirley. It's for Shirley Greg.
+AGENT: Thanks, Sherly. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I'd like to order a cab from
+AGENT: Okay, I’m ready to
+CALLER: from one three mhmm.
+AGENT: Could you please repeat the full pickup address for me? I want to make sure I get it exactly right.
+CALLER: Alright. So the pickup address is one three four ninety New Hampshire Avenue, Silver Spring.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash, please.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so I have the pickup as 1 3 4 9 0 New
+CALLER: Mhmm.
+AGENT: Thank you for confirming. Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: The dropoff address is five three one Randolph Road,
+AGENT: Hmm, let me check that address.
+AGENT: Okay,
+CALLER: Okay.
+AGENT: I have the dropoff address as 5 3 1 Randolph Road, Silver Spring, Maryland. Is that correct?
+CALLER: Yes, please.
+AGENT: Both your addresses have been verified, Sherly.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right. Wouldn't you like to be picked up? Right now, please.
+AGENT: Okay, I've got your pickup time as right now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. No, please. Just one person. And no wheelchair accessible vehicle.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 7.5 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Can I have how much it was gonna cost again?
+AGENT: The main trip estimated fare is 7.5 dollars. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Seven point five. No. And how long is it gonna take?
+AGENT: The main trip estimated travel time is about 3 minutes and 15 seconds. Would you like to schedule a return trip as well? <emotion
+CALLER: Okay.
+AGENT: Thank you for your patience. I'm processing your booking now.
+CALLER: No
+AGENT: Your main trip is scheduled for today at 4:09 PM. Your confirmation number is 2 1 3 6 7 2 2 5 6. Is there anything else I can help you with?
+CALLER: Can I can I have the confirmation number again?
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 2 2 5 6. Is there anything else I can assist you with?
+CALLER: No that would be it please
+AGENT: Thank you for calling Barwood & Regency, Sherly. Have a wonderful day!
+CALLER: Thank you.

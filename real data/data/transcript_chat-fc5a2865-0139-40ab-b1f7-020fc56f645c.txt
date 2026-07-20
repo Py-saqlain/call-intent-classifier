@@ -1,0 +1,46 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Thomas Painter.
+AGENT: Thanks, Thomas. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a cab
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Dash Dash.
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you'd like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Thank you for letting me know about the payment. Now, could you please tell me the pickup address where the driver should come to get you? <emotion value="peaceful"/>
+CALLER: Thirty seven hundred
+AGENT: Thank you. Could you please provide the street name and city for the pickup address at thirty seven hundred? <emotion value="peaceful"/>
+CALLER: Rossmoor Boulevard,
+AGENT: And the city for thirty seven hundred Rossmoor Boulevard? <emotion value="peaceful"/>
+CALLER: Ross Moore Boulevard.
+AGENT: Just to confirm, is the pickup address thirty seven hundred Rossmoor Boulevard? Could you please also provide the city for this address? <emotion value="hesitant"/>
+CALLER: Yes. Yes.
+AGENT: Okay, so I found that location as three seven zero zero Rossmoor Boulevard, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Silver Spring. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please tell me the destination or dropoff address where you would like to go? <emotion value="peaceful"/>
+CALLER: One five zero zero eight.
+AGENT: Thank you. Could you please provide the street name and city for the dropoff address at one five zero zero eight? <emotion value="peaceful"/>
+CALLER: 15008 West Home Court,
+AGENT: And the city for one five zero zero eight West Home Court? <emotion value="peaceful"/>
+CALLER: West Holmes Court.
+AGENT: Just to confirm, is the dropoff address one five zero zero eight West Holmes Court? Could you please also provide the city for this address? <emotion value="hesitant"/>
+CALLER: Silver Spring, Maryland
+AGENT: Okay, so I found that location as one five zero zero eight Westholm Court, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Thomas.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay, I've got your pickup time as today at 3:47 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One one
+AGENT: Okay great! I've got that noted. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay great! I've got that noted. Do you have any special instructions for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 7.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 3:47 PM. Your confirmation number is 2 1 3 6 7 2 2 3 9. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Thomas. Have a wonderful day!

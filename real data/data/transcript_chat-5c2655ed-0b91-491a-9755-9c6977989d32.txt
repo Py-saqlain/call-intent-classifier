@@ -1,0 +1,48 @@
+AGENT: Hello Janneth, this is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Hello?
+AGENT: How can I assist you with your ride today?
+CALLER: Pickup.
+AGENT: Thank you for letting me know about your pickup. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Credit card. Visa. So I'm gonna ask you again. See, I have a pair now. Mhmm. I have a pen So wait. You have to go. But I asked you what I wanna pay now. Hello?
+AGENT: Thank you for choosing credit card as your payment method. Your payment is all set. If you need anything else, just let me know.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: The pickup address is one one three zero zero Rockville, Maryland.
+AGENT: I have the pickup address as one one three zero zero Rockville Pike, Rockville, Maryland. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 3000 McComets Avenue.
+AGENT: I have the dropoff address as three zero zero zero Potomac Avenue, Alexandria, Virginia. Is that correct?
+CALLER: No. 3000 my comments. My comments Avenue.
+AGENT: I couldn't find an address for 3000 My Comments Avenue. Could you please provide any nearby landmarks, cross streets, or the city and state for this address?
+CALLER: It's 3000 McCombs Avenue Kensington, Maryland. It's on the funny address. It's, please, Dawson Montgomery Avenue.
+AGENT: I have the dropoff address as three zero zero zero McComas Avenue, Kensington, Maryland. Is that correct?
+CALLER: Correct. Yes. It's correct.
+AGENT: Your dropoff address has been verified, Janneth.
+AGENT: When would you like to be picked up?
+CALLER: I'm already switching to Texas. One one three seven wheelchair. One one three seven wheelchair.
+AGENT: I want to make sure I have this right for your ride: How many passengers will be traveling with you, and will you need a wheelchair-accessible vehicle?
+CALLER: We are already in a week. In a vehicle with a wheelchair.
+AGENT: Thank you for letting me know you will need a wheelchair-accessible vehicle. How many passengers will be traveling with you, including yourself?
+CALLER: And another passenger.
+AGENT: Thanks for that. Now, when would you like to be picked up?
+CALLER: I'm already in the plan.
+AGENT: Could you please clarify what time you would like to be picked up?
+CALLER: Now I'm ordering the van.
+AGENT: Just to confirm, would you like to be picked up right now?
+CALLER: Yes. I'm in the van already.
+AGENT: Your pickup time is set for right now. Do you have any special instructions or notes for the driver?
+CALLER: Send the trip to the van.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: The fan is 1137. I'm sitting in the VIN already. Listen. Just send it to the driver.
+AGENT: I understand you are already in the van with vehicle number 1137. Do you have any special instructions or notes for the driver?
+CALLER: No. No. Nothing.
+AGENT: The estimated fare for your trip is 13 dollars, and you will be paying with Self. Would you like to schedule a return trip as well?
+CALLER: Yeah.
+AGENT: Great, I'll start collecting the details for your return trip now.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: No. No. Just double. No return trip.
+AGENT: Thank you for your patience. I am processing your trip booking now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 9 6 3 0. Your pickup is today at 3:02 PM. Is there anything else I can help you with?
+CALLER: No. Just send the diesel to the driver, please.
+AGENT: Thank you for calling Barwood & Regency, Janneth. Have a wonderful day!

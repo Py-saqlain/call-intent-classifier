@@ -1,0 +1,33 @@
+AGENT: Good morning, Herbert. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I'm at CVS at one nine one zero o what's street? Montgomery Village Stedwick, Avenue, I guess, the in Gaithersburg, Maryland.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: Pass. Yes. Cash.
+AGENT: Okay so I've got that payment noted as cash. Let me proceed with verifying that for you.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so I have the pickup address as one nine one zero zero Montgomery Village Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. CVS. Yes. CVS.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yes. One nine one zero five Cedric Road, Gaithersburg,
+AGENT: Thank you. Let me check that dropoff address for you.
+AGENT: I found the address as one nine one zero five Frederick Road, Gaithersburg, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah. Do you know how the calves are running? I mean, it's hot out here.
+AGENT: Your dropoff address has been verified, Herbert.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No. Now
+AGENT: Okay great! I've got your pickup time as now, today at 9:20 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a
+CALLER: Just myself. Just me.
+AGENT: Okay great! I've got that noted. Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Okay great! I've got that noted. Do you have any special instructions for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 9.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. And my bus is here, so you can cancel that. Okay? Cancel that because I see the bus. I'm catching that. To the cab.
+AGENT: Just to confirm, you want to cancel this cab booking since you will be taking the bus instead? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay, I will cancel this booking for you now. If you need a ride later or anything else, just let me know. <emotion value="peaceful"/>
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+CALLER: So just cancel it. Okay? I'm on the bus. I don't need to pass.
+AGENT: Alright, how would you like to pay if you decide to book a ride later? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Okay. Thank you.
+AGENT: Alright, just let me know whenever you need a ride and how you'd like to pay. We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.

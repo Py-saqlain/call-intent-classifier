@@ -1,0 +1,56 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Valencia Whittington?
+CALLER: Yes.
+AGENT: Thanks for confirming, Valencia. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Pull and ride.
+AGENT: Thanks for letting me know you'd like to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three one four five three one.
+AGENT: Thank you, Valencia. Your payment with Call and Ride is all set.
+AGENT: Valencia, could you please tell me the pickup address for your ride?
+CALLER: One four one two eight. Whispering Pines Court.
+AGENT: Thank you. To confirm, is your pickup address one four one two eight Whispering Pines Court, Silver Spring, Maryland?
+CALLER: Yes.
+AGENT: I have one four one two eight Whispering Pines Court, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: It seems the address one four one two eight Whispering Pines Court, Silver Spring, Maryland could not be located. Could you please provide the full street address including city and state again?
+CALLER: One four one two eight Whispering Pines Court, apartment two three, Aspen Field, Maryland two zero nine zero six.
+AGENT: Thank you. To confirm, is your pickup address one four one two eight Whispering Pines Court, apartment two three, Aspen Field, Maryland?
+CALLER: Yes.
+AGENT: I have one four one two eight Whispering Pines Court, Aspen Hill, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. It's two one one nine
+AGENT: Thank you. Could you please provide the full dropoff address including the street name, city, and state?
+CALLER: university Bolivar, University
+AGENT: The address two one one nine University Boulevard you mentioned appears to be outside our service area. Could you please provide a different destination or dropoff address within our service area?
+CALLER: Two one one nine. University Boulevard, Wheaton, Maryland.
+AGENT: Thank you. To confirm, is your dropoff address two one one nine University Boulevard, Wheaton, Maryland?
+CALLER: Yes.
+AGENT: I have two one one nine University Boulevard West, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Valencia. I will now proceed with the next steps for your trip.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two two
+AGENT: Thank you for letting me know there will be 2 passengers. Will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thanks for letting me know no wheelchair-accessible vehicle is needed. Do you have any special instructions or notes for the driver?
+CALLER: I have a walker.
+AGENT: The estimated fare for your trip is 18 dollars, and you will be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: Yeah.
+AGENT: Great, I'll start collecting the details for your return trip now.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: I'm not sure. I'll call.
+AGENT: Okay, your return trip is set as will-call, so you can call back when you're ready. How many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Mhmm. Two. Two
+AGENT: Thank you for letting me know there will be 2 passengers on the return trip. Will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: For your return trip, I have the pickup address as two one one nine University Boulevard West and the dropoff address as one four one two eight Whispering Pines Court. Is that correct?
+CALLER: Yes.
+AGENT: Valencia, the estimated fare for your return trip is 19 dollars, paying with your Call and Ride account. Should I go ahead and book both your main trip and return trip?
+CALLER: Yes.
+AGENT: Thank you, Valencia, I am booking both your main trip and return trip now.
+AGENT: Your main trip is scheduled for today at 1:56 PM with confirmation number 2 1 3 6 6 9 5 4 4. Your return trip is a will-call booking with confirmation number 2 1 3 6 6 9 5 4 5. You can call back when you're ready for the return trip and a driver will be dispatched then. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Valencia. Have a wonderful day.
+CALLER: You just

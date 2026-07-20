@@ -1,0 +1,9 @@
+AGENT: Hello Patricia, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to place an order for pickup at Manchester Street.
+AGENT: Thank you for letting me know your pickup location at Manchester Street. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: For 09:15AM. No. It no. No. No. No. No. No. No. No. No. No. No. No. No.
+AGENT: I want to make sure I understand you correctly. Could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: No. No. Let me speak with a representative, please.
+CALLER: Hello?
+AGENT: I’m here to help. What can I do for you today?
+CALLER: Hello? May I speak with a representative? Hello?

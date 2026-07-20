@@ -1,0 +1,23 @@
+AGENT: Hello Urmil, this is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I need the taxi, please.
+AGENT: Alright, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I I am at ten. I want two. Beach Long Lane Potomac.
+AGENT: It sounds like you mentioned an address and a number of passengers, but I didn't catch your payment method yet. Could you please tell me how you'd like to pay? Cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+AGENT: Thanks for sharing your pickup address at 10 Beach Long Lane in Potomac and that there will be 2 passengers. Now, how would you like to pay? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: No. I have that call and ride. Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmmm.. that didn't seem right, could you please say the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Zero two six five four nine.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: I'm sorry, but I couldn't locate 10 Beach Long Lane in Potomac. Could you please provide the full street address including the city and state? <emotion value="apologetic"/>
+CALLER: Yeah. This is the phone number I am calling from.
+AGENT: Thank you for letting me know. Could you please provide the full street address, including the street number, city, and state, for your pickup location? That will help me find it accurately. <emotion value="peaceful"/>
+CALLER: So how how much time it would be how much time it would take, please?
+AGENT: Uhh... I'm sorry, but I don't see an active trip for you right now. Would you like me to help you book a ride? <emotion value="peaceful"/>
+CALLER: I can you please speak a little bit slow? I am just hard of hearing. Please.
+AGENT: Of course, I will speak more slowly for you. I don’t see an active trip for you right now. Would you like help booking a ride? <emotion value="peaceful"/>
+CALLER: Please call. I am waiting outside. Please, if how much time it will take?
+AGENT: Uhh... I'm sorry, but I don't see a driver assigned to your trip yet. Let me connect you with a representative who can assist you right away. <emotion value="sympathetic"/>
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Okay. Okay. So he's coming right away.

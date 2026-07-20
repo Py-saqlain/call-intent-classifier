@@ -1,0 +1,46 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Kim?
+CALLER: Yes.
+AGENT: Thanks for confirming, Kim. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I need a cab at seven thirty seven. South Frederick Avenue,
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Colonumbia.
+AGENT: Hmmm.. that didn't seem quite right. Did you mean Call and Ride for your payment method? <emotion value="apologetic"/>
+CALLER: Yes.
+AGENT: Great! Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three four five. Two. Two. Zero.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: I found a few locations on South Frederick Avenue in Gaithersburg. 
+Option one: 509A South Frederick Avenue, number 3. 
+Option two: 509A South Frederick Avenue, number 1. 
+Option three: 509A South Frederick Avenue, number 4. 
+Option four: 509A South Frederick Avenue, number 2. 
+Option five: 509A South Frederick Avenue, number 6. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Seven thirty seven. South Frederick Avenue.
+AGENT: I see you repeated the street and time, but could you please tell me which option number from the list I just read is your exact pickup address on South Frederick Avenue?
+CALLER: Seven thirty seven.
+AGENT: Thank you for clarifying. Just to confirm, is your pickup address 7 3 7 South Frederick Avenue? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I found the address as five zero nine A South Frederick Avenue, number three, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide the full pickup address again, including the street number and city if possible? <emotion value="apologetic"/>
+CALLER: Seven
+AGENT: Okay, you said seven. Could you please provide the street name and city as well to complete the pickup address? <emotion value="peaceful"/>
+CALLER: Seven thirty. Seven.
+AGENT: I want to make sure I have your pickup address correct. Could you please say the full street number and street name again? For example, "seven three zero South Frederick Avenue." <emotion value="peaceful"/>
+CALLER: South Frederick Avenue, Gaithersburg, Maryland.
+AGENT: I found the address as five zero nine A South Frederick Avenue, number three, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. Seven three seven. South Frederick Avenue. Operator,
+AGENT: I found a few locations on South Frederick Avenue in Gaithersburg. 
+Option one: 509 South Frederick Avenue, letter A. 
+Option two: 509A South Frederick Avenue, number 3. 
+Option three: 509A South Frederick Avenue, number 1. 
+Option four: 509A South Frederick Avenue, number 4. 
+Option five: 509A South Frederick Avenue, number 2. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Operator, Dispatch. Dispatch.
+AGENT: I can help you with the pickup address right now — shall we continue?
+CALLER: Now
+AGENT: Let me get that set up for you right now.
+AGENT: Okay, I found the address as five zero nine A South Frederick Avenue, number three, Gaithersburg, Maryland. Is that correct?
+CALLER: Operator.

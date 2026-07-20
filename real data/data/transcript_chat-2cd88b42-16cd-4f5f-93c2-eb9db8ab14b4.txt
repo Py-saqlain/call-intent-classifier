@@ -1,0 +1,35 @@
+AGENT: Hi Victoria, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like a cab
+AGENT: Thank you for choosing us for your ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Following right
+AGENT: Could you please clarify your payment method? Would you like to pay with cash, credit
+CALLER: call and ride
+AGENT: Great, could you please provide the last six digits of your Call and Ride card?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Three zero one four five four.
+AGENT: Thank you, your payment with Call and Ride is all set.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Ten thousand Brunswick Avenue,
+AGENT: I have 1 0 0 0 0 Brunswick Avenue, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Twenty nine hundred University Boulevard, Wheaton, Maryland
+AGENT: I have 2 9 0 0 University Boulevard West, Wheaton, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Victoria. I will now proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: Thanks, I've noted your pickup time as today at 7:28 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One person No wheelchair.
+AGENT: Thank you. Will you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 10.5 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: No. I'll call.
+AGENT: Alright, I will mark that you prefer to call when ready for your return trip. Now, shall I go ahead and book your main trip?
+CALLER: Yes.
+AGENT: Booking your trip now.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 7:28 AM. Your confirmation number is 2 1 3 6 7 9 0 7 5. Is there anything else I can help you with?
+CALLER: Please send me a tracking link.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

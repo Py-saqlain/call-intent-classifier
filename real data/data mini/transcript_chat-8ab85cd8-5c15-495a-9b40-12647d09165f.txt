@@ -1,0 +1,17 @@
+AGENT: Hello, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like a taxi, please.
+AGENT: Thank you for choosing us for your ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash. Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: None. Three one three Willow Creek Drive,
+AGENT: I couldn't find an exact match for 3 1 3 Willow Creek Drive. However, I found 4 4 6 Girard Street, apartment 3 1 3, in Gaithersburg, Maryland. Is that the correct pickup location?
+CALLER: No. The correct pickup location is nine three one three willow Creek Drive. Gaithersburg, Montgomery Village,
+AGENT: I couldn't find an exact match for 9 3 1 3 Willow Creek Drive in Gaithersburg, Montgomery Village. But I found 9 3 0 8 Willow Creek Drive, Montgomery Village, Maryland 2 0 8 8 6. Is that the correct pickup location?
+CALLER: No, it's not.
+AGENT: Could you please provide
+CALLER: Get that live person.
+AGENT: I can help you with the pickup address right now — shall we continue?
+CALLER: The lack of what?
+AGENT: Did
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

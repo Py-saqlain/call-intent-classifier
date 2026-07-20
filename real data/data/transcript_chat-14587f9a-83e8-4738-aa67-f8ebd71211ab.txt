@@ -1,0 +1,50 @@
+AGENT: Hi Christine, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I I need to book a
+CALLER: trip
+AGENT: I can help you with that. Could you please tell me the pickup location for your trip?
+CALLER: Three six one four. Pear Tree Court,
+AGENT: Thank you for the pickup address at 3 6 1 4 Pear Tree Court. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Call online.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes. O six two eight five eight.
+AGENT: Thank you for providing your Call and Ride details. Your payment method is set to Call And Ride.
+AGENT: I have 3 6 1 4 Pear Tree Court, Aspen Hill, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. One four three zero one Leigh Hill Road.
+AGENT: Thank you for the dropoff address at 1 4 3 0 1 Leigh Hill Road. Is that correct?
+CALLER: Leah Hill. L a y h I l l.
+AGENT: Just to confirm, is the dropoff address 1 4 3 0 1 Layhill Road?
+CALLER: Yes.
+AGENT: I have 1 4 3 0 1 Layhill Road, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Christine. I will now proceed with the next steps for your trip.
+AGENT: When would you like to be picked up?
+CALLER: Now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger. No wheelchair.
+AGENT: Do you have any special instructions or notes for the driver?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: No. No. Special instruction.
+AGENT: The estimated fare for your trip is 8 dollars, paying with your Call And Ride card. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: Great, I will start collecting the return trip details for you.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Yes.
+AGENT: Could you please tell me the specific time you would like to be picked up for your return trip?
+CALLER: 11:00.
+AGENT: Just to confirm, did you mean 11:00 AM or 11:00 PM for your return trip pickup time?
+CALLER: 11AM.
+AGENT: Your return trip pickup time is set for today at 11:00 AM. How many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: One One passenger. No wheelchair. One passenger No wheelchair.
+AGENT: For your return trip, I have the pickup at 1 4 3 0 1 Layhill Road and the dropoff at 3 6 1 4 Pear Tree Court. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 8 dollars, paying with your Call And Ride card. Should I go ahead and book both your main trip and return trip now?
+CALLER: Yeah.
+AGENT: Booking your trips now.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 9 2 4 9, scheduled for today at 9:43 AM. Your return trip is also booked with confirmation number 2 1 3 6 7 9 2 5 0, scheduled for today at 11:00 AM. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Christine. Have a wonderful day!
+CALLER: Thanks. You.

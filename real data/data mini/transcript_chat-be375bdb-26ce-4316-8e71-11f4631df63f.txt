@@ -1,0 +1,26 @@
+AGENT: Hi Jenny, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a new trip.
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Color right.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three four one three seven seven.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: To get started, may I have your pickup address, please? <emotion value="peaceful"/>
+CALLER: 01 Professional Drive gave us the
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 2 0 5 Professional Drive, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, please provide the correct pickup address again. <emotion value="peaceful"/>
+CALLER: Two zero one. Professional Drive.
+AGENT: Okay, so I found 2 0 1 Professional Drive, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Hmm <break time="350ms"/> let me check that address.
+I found 2 0 5 Professional Drive, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, please provide the correct pickup address again. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Please tell me the full pickup address again when you're ready. <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Thank you.

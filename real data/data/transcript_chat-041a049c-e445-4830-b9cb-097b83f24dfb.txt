@@ -1,0 +1,38 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Maria Toledo?
+CALLER: Yes, ma'am.
+AGENT: Thanks for confirming, Maria. This is Barwood & Regency. How can I assist you today?
+CALLER: I would like to book a tax
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card,
+CALLER: Hello?
+AGENT: I'm here to help. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Colon, right
+AGENT: Hmmm.. that didn't seem right, could you please confirm if you meant Call and Ride as your payment method?
+CALLER: Call and ride Hello?
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Correct.
+CALLER: Three four two. Six, one. Oh,
+AGENT: Thank you for the digits. Just to confirm, the last six digits you provided are 3 4 2 6 1 0, is that correct?
+CALLER: No. It's three four two six three one.
+AGENT: Okay so I've got the last six digits as 3 4 2 6 3 1. Let me verify that for you now.
+AGENT: Okay so I've got that payment noted as Call and Ride.
+AGENT: Hi, this is Ana. To get started, could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Yes. One sterile seven two zero Georgia Avenue Gilbert Spring, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I'm sorry, but I couldn't find 1 7 2 0 Georgia Avenue in Gilbert Spring, Maryland. Could you please confirm the city or nearby cross street for that address? <emotion value="apologetic"/>
+CALLER: One Seven two zero. Georgia Avenue, Silver Spring, Maryland two zero nine zero two.
+AGENT: Okay, <break time="300ms"/> so I found 1 7 2 0 Georgia Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide the correct pickup address again?
+CALLER: One
+AGENT: Could you please provide the full pickup address again? Just the number "one" is not enough for me to find the location.
+CALLER: One
+CALLER: One terrible Georgia Avenue, Silver Spring, Maryland.
+AGENT: I want to make sure I have this right. Did you mean 1 Georgia Avenue, Silver Spring, Maryland?
+CALLER: Okay. One feral seven two zero.
+AGENT: Just to clarify, did you mean 1 7 2 0 Georgia Avenue, Silver Spring, Maryland?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready One, zero one zero seven two zero Georgia Avenue, Silver Spring, Maryland two zero nine o. Two.
+AGENT: Okay, let me check that address for you.
+AGENT: I couldn't find 1 0 1 7 2 0 Georgia Avenue in Silver Spring, Maryland. Could you please check if the street number is correct or provide a nearby landmark or business? <emotion value="apologetic"/>
+CALLER: Oh my god.
+CALLER: I would like to talk with the agent A and P,

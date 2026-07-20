@@ -1,0 +1,44 @@
+AGENT: Hello Chariza, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Potatoes, cab, pan with calling right.
+AGENT: Uhh, it sounds like you might want to book a cab and pay with Call and Ride. Could you please tell me where you'd like to be picked up and your destination?
+CALLER: 2358 Red Eagle Court, Silver Spring, Maryland, and I'm going to 231 East Deer Park Drive, Gaithersburg, Maryland. Two zero eight seven seven.
+AGENT: Okay, I see you're paying with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: One second. Let me get it. Give me one second. Me digits, and that is three five zero six six seven.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Okay, so your pickup is 2 3 5 8 Red Eagle Court, Silver Spring, Maryland, and your destination is 2 3 1 East Deer Park Drive, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup and dropoff addresses have been verified. Thank you, Chariza.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time as today at 12:17 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No. I need to change the drop off address to eight eight zero Bonifit Street, Silver Spring, Maryland.
+AGENT: Sure, let me update that address.
+AGENT: Okay, so I found the address as 8 8 0 Bonifant Street, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Alright, the dropoff address has been successfully updated. What time would you like to schedule your pickup? <emotion value="peaceful"/>
+AGENT: Just to confirm, your pickup time is today at 12:17 PM. Is that correct? <emotion value="peaceful"/>
+CALLER: Ma'am,
+AGENT: Yes, please let me know if the pickup time of today at 12:17 PM is correct. <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No wheelchair just one passenger.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 23 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, great! I'll start collecting the details for your return trip now. <emotion value="peaceful"/>
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 01:00.
+AGENT: Just to confirm, you mean 1:00 PM for your return trip pickup time, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your return trip pickup time as today at 1:00 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger. No. We wheelchair. Needed.
+AGENT: For your return trip, I have the pickup address as 8 8 0 Bonifant Street, Silver Spring, Maryland, and the dropoff address as 2 3 5 8 Red Eagle Court, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: The estimated fare for your return trip is 23 dollars, paying with Call and Ride. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so <break time="250ms"/> I'm booking both trips for you now. <emotion value="grateful"/>
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 3 1 6, with pickup today at 12:17 PM. Your return trip is also booked with confirmation number 2 1 3 6 7 3 1 6 5, with pickup today at 1:00 PM. Is there anything else I can help you with?
+CALLER: No. Not at this time.
+AGENT: Thank you for calling Barwood & Regency, Chariza. Have a wonderful day!
+CALLER: Thank you.

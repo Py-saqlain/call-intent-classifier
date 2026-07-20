@@ -1,0 +1,12 @@
+AGENT: Hi Evon, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello?
+AGENT: How can I assist you with your ride today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Configure my phone, please.
+AGENT: I’m here to help with your ride service. If you need assistance with your phone settings, I recommend contacting your phone provider or a tech support service. Is there something I can assist you with regarding your ride or transportation?
+CALLER: Before me, There was no phone yet? No? Everything.
+AGENT: It sounds like you might be reminiscing or asking about something else. If you need help with booking a ride or have questions about your transportation, I’m here to assist. Could you please tell me how I can help you with your ride today?
+CALLER: I wanna speak urgent. Where is it? The button's open?
+AGENT: If you need to speak urgently with a live representative, I can connect you right away. Let me do that for you now.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Once

@@ -1,0 +1,32 @@
+AGENT: Hello Joy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like a, uh, cab, please.
+AGENT: Uhh, sure thing. I can help you book a cab. Could you please tell me where you'd like to be picked up? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your cab today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: credit card. Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your cab? If you'd like, I can use your home address at 1 0 1 2 1 Pierce Drive, Silver Spring, Maryland. Would you like to be picked up from there? <emotion value="peaceful"/>
+CALLER: No. No. Hit 11120 New Hampshire Avenue. Silver Spring, Maryland.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is 1 1 1 2 0 New Hampshire Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Home. 10121 Pierce Drive, Silver Spring
+AGENT: Let me check that dropoff address for you. <emotion value="peaceful"/>
+AGENT: Okay, so your dropoff address is 1 0 1 2 1 Pierce Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Joy.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time set for today at 8:58 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One.
+AGENT: Thanks for that. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, no wheelchair accessible vehicle needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 9.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 8:58 AM. Your confirmation number is 2 1 3 6 7 7 9 3 5. Is there anything else I can help you with?
+CALLER: Not today. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Joy. Have a wonderful day.
+CALLER: Thank you. Bye bye.

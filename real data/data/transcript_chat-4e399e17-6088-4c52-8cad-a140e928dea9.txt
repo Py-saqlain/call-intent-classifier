@@ -1,0 +1,38 @@
+AGENT: Hi Marie, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, yes. I like, uh, taxi.
+AGENT: I can help you book a taxi ride. Could you please tell me where you would like to be picked up?
+CALLER: Okay. I'm at one eight five zero six Nutmeg Place,
+AGENT: Thank you for sharing your pickup location at one eight five zero six Nutmeg Place. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Germantown, Maryland. Cash.
+AGENT: Thank you, cash is all set for your payment method.
+CALLER: Cash.
+AGENT: I have the pickup address as one eight five zero six Nutmeg Place, Germantown, Maryland. Is that correct?
+AGENT: I have the pickup address as one eight five zero six Nutmeg Place, Germantown, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Okay. I'm going to the John's On Lehman Farm in Germantown. The address is one eight three three one Lehman Farm, Road. In Germantown.
+AGENT: I have the dropoff address as one eight three three one Leaman Farm Road, Germantown, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified. Thank you, Marie.
+AGENT: When would you like to be picked up?
+CALLER: Okay. Quick could you tell me could you tell me how much that I'm ready now, but could you tell me how much that will be?
+AGENT: The estimated fare for your trip is $7.50. Now, could you please tell me how many passengers will be traveling, including yourself, and if anyone will need a wheelchair-accessible vehicle?
+CALLER: Okay. Well, I'm having trouble with my legs. So I want if if they send a van, I will need
+AGENT: Thank you for letting me know about your leg trouble. Just to confirm, how many passengers will be traveling with you? And do you need a wheelchair-accessible van for your ride?
+CALLER: No.
+AGENT: I have noted that you are traveling alone and do not need a wheelchair-accessible vehicle, but you have leg trouble. When would you like to be picked up?
+CALLER: Now. I'm ready now.
+AGENT: Marie, the estimated fare for your trip is 7 dollars and 50 cents, paying with cash. Would you like to schedule a return trip as well?
+CALLER: Yes. I'm going in and I'm coming back.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Well, I'm just going in the store to get some change and come right back out.
+AGENT: Thank you, Marie. I am processing your immediate pickup now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 9:56 am. The confirmation number is 2 1 3 6 6 7 9 6 3. Would you like me to arrange your return trip now?
+CALLER: Yes. Because I'm going up there, and I'm coming right back.
+AGENT: I will arrange your return trip for you. Please hold on a moment while I prepare it.
+AGENT: It looks like your main trip is already booked with confirmation number 2 1 3 6 6 7 9 6 3. To arrange your return trip, I will need the pickup time for that. When would you like to be picked up for your return?
+CALLER: Well, let me just call call back because I'm not I'm just going up there get go to the customer service, get some change, and I'm coming back. I'll call back for a captain.
+AGENT: That sounds good, Marie. I will hold off on booking the return trip for now. When you're ready to come back, just give us a call and we'll send a driver for you. Is there anything else I can help you with today?
+CALLER: Okay. Okay.
+AGENT: I will connect you now for any further assistance.
+AGENT: Thank you for calling Barwood & Regency, Marie. Have a wonderful day!

@@ -1,0 +1,34 @@
+AGENT: Hello SANSON, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello? I want a cab tomorrow morning at 10:00. To go to Kaiser Gagesburg.
+AGENT: Okay, you want a cab tomorrow morning at 10:00 to go to Kaiser in Gaithersburg. Could you please tell me the pickup address for your ride? <emotion value="grateful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yeah. Yes. Yeah. I use my card
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your ride? If you want, I can use your home address at 1 9 1 4 2 Montgomery Village Avenue, Montgomery Village, Maryland. Would that work for you? <emotion value="peaceful"/>
+CALLER: No. No. No. $45.21. East West Highway. Register. You got it?
+AGENT: Okay, just to confirm, your pickup address is 4 5 2 1 East West Highway, is that correct? <emotion value="hesitant"/>
+AGENT: Okay, so your pickup address is 4 5 2 1 East-West Highway, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: It's Kevin. Correct.
+AGENT: I found Kaiser Permanente Gaithersburg Medical Center at 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. Is that the correct destination? <emotion value="peaceful"/>
+CALLER: Oh, yes. It's Kelly. It's Kelly.
+AGENT: Your dropoff address has been verified, Kelly. I will now proceed with arranging your ride.
+AGENT: You mentioned you want to be picked up tomorrow at 10:00 am. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Pickup. Pickup. Me on you.
+AGENT: Okay great! I've got your pickup time set for tomorrow at 10:00 am. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Thank you. Only just two. Two.
+AGENT: Okay, I've got two passengers. <emotion value="grateful"/> Will anyone be needing a wheelchair-accessible vehicle?
+CALLER: No. No. No.
+AGENT: Alright, no wheelchair-accessible vehicle needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No. No. That's it.
+AGENT: Alright, the estimated fare is 42 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. No. No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for tomorrow at 10:00 am. Your confirmation number is 2 1 3 6 7 7 2 9 4. Is there anything else I can help you with?
+CALLER: No. How much you say is that the fat?
+AGENT: The fare for your trip is 43 dollars. Is there anything else I can assist you with?
+AGENT: Take your time. Just let me know when
+CALLER: No. No. 43. They want so much. It's not so much. You'll increase the rate. Okay. Okay. Send me the cab.
+AGENT: Uhh, I'm sorry about that. Your trip is scheduled for tomorrow at 10:00 am, but a driver has not been assigned yet. Let me connect you with a representative who can help right away. <emotion value="sympathetic"/>
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: I'm ready. I'm ready. Okay.
+AGENT: I'm

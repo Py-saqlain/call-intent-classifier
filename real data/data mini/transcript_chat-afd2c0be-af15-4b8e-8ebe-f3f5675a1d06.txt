@@ -1,0 +1,11 @@
+AGENT: Hi Lauren, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I like to please prepare
+AGENT: How can I assist you with your ride today?
+CALLER: Pickup address, one nine eight zero one. Observation Drive, Germantown, Maryland two zero eight seven four.
+AGENT: Thank you for providing your pickup address at one nine eight zero one Observation Drive, Germantown, Maryland. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Account on file.
+AGENT: Just to make sure I understand, would you like to pay using the account you have on file with us?
+CALLER: Yes.
+AGENT: I want to let you know that we accept only cash, credit card, and Call and Ride for payment. If you'd like, I can connect you to a live agent who can help with other payment options. Would you like me to do that?
+CALLER: Yes.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

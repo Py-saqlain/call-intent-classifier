@@ -1,0 +1,35 @@
+AGENT: Hello Linda, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to reserve a taxi for tomorrow morning on Saturday going to National Airport.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Okay, so I have the dropoff address as two four zero one Smith Boulevard, Arlington, Virginia. Is that correct? <emotion value="peaceful"/>
+CALLER: Is that National Airport
+AGENT: Yes, 2401 Smith Boulevard, Arlington, Virginia is the address for Ronald Reagan Washington National Airport. Is that the correct dropoff location for your ride? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 4421. Stanford Street, Chevy Chase, Maryland.
+AGENT: Okay, so I have the pickup address as four four two one Stanford Street, Chevy Chase, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified, Linda.
+AGENT: You mentioned a pickup time of tomorrow morning on Saturday. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time set for tomorrow at 8:00 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: But no. No. No. No. No. No.
+AGENT: Hmm <break time="300ms"/> sorry, I want to make sure I understand correctly. Could you please tell me how many passengers will be traveling and if anyone will need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: No. The time is wrong. The time should be the time
+AGENT: I understand the time is not correct. Could you please tell me the exact time you would like to be picked up tomorrow morning on Saturday? <emotion value="hesitant"/>
+CALLER: One passenger
+AGENT: Okay great! I've got one passenger noted. <emotion value="grateful"/> Will you be needing a wheelchair-accessible vehicle?
+CALLER: 09:15AM.
+AGENT: Thanks for the update. I've changed your pickup time to tomorrow at 9:15 AM. Will you be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, no wheelchair-accessible vehicle needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Please telephone me when he is arriving.
+AGENT: Alright, the estimated fare is 31 dollars, paying with Credit Card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for tomorrow at 9:15 AM. Your confirmation number is 2 1 3 6 7 3 8 1 1. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Linda. Have a wonderful day!
+CALLER: Bye bye.

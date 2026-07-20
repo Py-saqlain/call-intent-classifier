@@ -1,0 +1,47 @@
+AGENT: Hello Maynuna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a trip.
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: 180530 Drive,
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I couldn't find an exact match for 180530 Drive. I found a location called 18201 Flower Hill Way, Gaithersburg, Maryland 20879. Is that the correct pickup address? <emotion value="hesitant"/>
+CALLER: Agent No.
+AGENT: Okay, please provide the correct pickup address again. <emotion value="peaceful"/>
+CALLER: 1805 Cody Drive,
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so your pickup address is 1 8 0 5 Cody Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Seven one eight Rockville five.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so your dropoff address is 7 1 8 Rockville Pike, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, Maynuna.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Your pickup address is 1805 Cody Drive, Silver Spring, Maryland. When would you like to be picked up? <emotion value="peaceful"/>
+When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Just to be sure, did you mean you want to be picked up right now, or would you prefer to schedule a will-call trip to call back when you're ready? <emotion value="hesitant"/>
+CALLER: Right now. Right now.
+CALLER: Right now.
+AGENT: Okay, so how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+Alright, soo <break time="300ms"/> so how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+AGENT: Okay great! I've got your pickup time as right now, today at 11:08 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two. Two passengers.
+AGENT: Okay great! I've got two passengers. Will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Two.
+AGENT: I see you mentioned two wheelchairs, but our vehicles can only accommodate up to one wheelchair along with passengers. We have Sedans for up to 3 passengers, Vans for up to 5 passengers, and Wheelchair Vans for up to 3 passengers plus 1 wheelchair. Could you please update the number of wheelchairs needed? <emotion value="hesitant"/>
+CALLER: Zero.
+AGENT: Okay great! I've got zero wheelchairs. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: Tab two zero four
+AGENT: Alright, the estimated fare is 22.5 dollars, paying with Self. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will skip the return trip. Should I go ahead and book your one-way trip now? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay, so <break time="250ms"/> I’m booking your trip now. <emotion value="grateful"/>
+AGENT: Thank you for waiting. I’m booking your trip now.
+AGENT: Your main trip is scheduled for today at 11:08 AM. Your confirmation number is 2 1 3 6 7 6 8 8 7. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Maynuna. Have a wonderful day!

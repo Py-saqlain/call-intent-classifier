@@ -1,0 +1,53 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Yes. My name is Weiying Lu. L I u is my last name.
+AGENT: Thank you, Weiying. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need to book a a a taxi from my home to my doctor's office today.
+AGENT: Uhh, I see we don't have a home address on file for you. Could you please tell me the street address of your home for the pickup? <emotion value="hesitant"/>
+CALLER: K. One six three six Martha Terrace in Rockville, Maryland two zero eight five two.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I I will pay cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so I found 1 6 3 6 Martha Terrace, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+Thank you for confirming your name, Weiying. How can I assist you with your ride today?
+CALLER: Yes.
+AGENT: I found a few locations. 
+ Option one: CCI Health Services Gaithersburg, 220 Girard Street Suite 100, Gaithersburg. 
+ Option two: Concentra Urgent Care, 733 South Frederick Avenue, Gaithersburg. 
+ Option three: Holy Cross Health Partners Progressive Medical Care, 18530 Office Park Drive, Montgomery Village. 
+ Option four: Tehseen Raza Naqvi, MD, 18530 Office Park Drive, Montgomery Village. 
+ Option five: Dr Brown Primary Care, LLC, 18524 Office Park Drive, Montgomery Village. 
+ Which one is correct? <emotion value="hesitant"/>
+CALLER: I have to station.
+AGENT: Uh, I am sorry, but could you please repeat that? Did you mean one of the options I listed, or is there a specific doctor's office address you want to give me? <emotion value="hesitant"/>
+CALLER: I have the destination of the office.
+AGENT: Okay, please tell me the full street address or the name of the doctor's office where you want to be dropped off. <emotion value="peaceful"/>
+CALLER: Drop off at nine nine zero five Medical Center Drive,
+AGENT: Okay, so I found 9 9 0 5 Medical Center Drive, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: When today would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 12:00.
+AGENT: Just to confirm, did you mean 12:00 PM noon for your pickup time today? <emotion value="peaceful"/>
+CALLER: Yes. Noon 12PM.
+AGENT: Okay great! I've got your pickup time today at 12:00 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Just myself.
+AGENT: Okay great! I've got 1 passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Just be on time.
+AGENT: Alright, so <break time="250ms"/> let me confirm those details. Your pickup is 1 6 3 6 Martha Terrace. <break time="250ms"/> Your dropoff is 9 9 0 5 Medical Center Drive. <break time="250ms"/> Pickup time is 12:00 PM today. <break time="250ms"/> One passenger, no wheelchair needed. <break time="250ms"/> The estimated fare is 19.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 12:00 PM. Your confirmation number is 2 1 3 6 7 0 4 2 0. Is there anything else I can help you with?
+CALLER: Repeat the confirmation number.
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 0 4 2 0. Is there anything else I can assist you with?
+CALLER: Would I get a call before the taxi come?
+AGENT: Our drivers typically do not call before arrival, but they aim to be on time and will contact you if there’s any delay. Is there anything else you’d like to know or arrange?
+CALLER: Do you have my contact information?
+AGENT: Yes, I have your phone number as 3 0 1 9 8 4 7 3 8 0. If you’d like to update or confirm any other contact details, just let me know. Is there anything else I can assist you with?
+CALLER: Yes, I need to update my contact information. I'll give you my cell number.
+AGENT: I can help with that. Please provide your new cell number, and I will make sure it gets updated.
+CALLER: Two four zero eight eight eight zero one three eight.
+AGENT: Thank you for the new number: 2 4 0 8 8 8 0 1 3 8. I'll update your contact information with this cell number. Is there anything else I can assist you with today?
+CALLER: So Will I be getting a comfort I be getting a call before the ride arrives?
+AGENT: Our drivers usually do not call before arriving, but they strive to be punctual and will reach out if there’s any unexpected delay. If you have any other questions or need assistance, I’m here to help.
+CALLER: Okay. That's it. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Weiying. Have a wonderful day!

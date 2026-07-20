@@ -1,0 +1,40 @@
+AGENT: Hi Dee, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I have a pickup for a gentleman named Lawrence and his wife. At 50 Maryland Avenue.
+AGENT: Thank you for sharing the pickup details for Lawrence and his wife at 5 0 Maryland Avenue. How would they like to pay for the ride? We accept cash, credit card, and Call and Ride.
+CALLER: Still pay cash?
+AGENT: Great, I've noted that cash will be used for payment.
+CALLER: Cash.
+AGENT: I have the pickup address as 5 0 Maryland Avenue, Rockville, Maryland. Is that correct?
+AGENT: Is the pickup address 5 0 Maryland Avenue, Rockville, Maryland correct?
+CALLER: That's correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. It is correct.
+AGENT: Could you please tell me the destination or dropoff address for the ride?
+CALLER: Five eight zero seven
+AGENT: Thank you for the dropoff number 5 8 0 7. Could you please provide the street name and city for this dropoff address?
+CALLER: Fifty eight zero seven Osceola Road
+AGENT: I have the dropoff address as 5 8 0 7 Osceola Road, Bethesda, Maryland. Is that correct?
+CALLER: Offsilver Road, Bethesda, Maryland.
+AGENT: Thank you for the correction. So the dropoff address is 5 8 0 7 Offsilver Road, Bethesda, Maryland. Is that right?
+CALLER: Are you spelling it 0 S C E L A?
+AGENT: I heard you say Offsilver Road. Could you please spell the street name for me to make sure I have it right?
+CALLER: 0 S C E L A. Oscela,
+AGENT: Thank you for spelling it out as O S C E L A. Just to confirm, is the dropoff address 5 8 0 7 Oscela Road, Bethesda, Maryland?
+CALLER: Yes. Two zero eight one six.
+AGENT: I have the dropoff address as 5 8 0 7 Osceola Road, Bethesda, Maryland. Is that correct?
+CALLER: That's correct.
+AGENT: Your dropoff address has been verified, Dee. I will now proceed with the next steps for your trip.
+AGENT: I have that there will be 2 passengers traveling. Is that correct?
+CALLER: That's correct. And one is in a walker.
+AGENT: Thank you for confirming the 2 passengers and letting me know one uses a walker. When would you like to be picked up?
+CALLER: Right now, please.
+AGENT: The estimated fare for your trip is 34 dollars, and you will be paying with cash. Would you like to schedule a return trip as well?
+CALLER: No. Thank you.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 11:16 AM. Your confirmation number is 2 1 3 6 7 8 0 4 1. Is there anything else I can assist you with?
+CALLER: Yes. Could you please repeat the confirmation number?
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 8 0 4 1. Is there anything else I can help you with?
+CALLER: Do you know the estimated time of arrival?
+AGENT: Your pickup is scheduled for today at 11:16 AM, but no driver has been assigned yet. I'll keep you posted. Is there anything else?
+CALLER: No. Thank you. You have my phone number?
+AGENT: Thank you for calling Barwood & Regency, Dee. Have a wonderful day.

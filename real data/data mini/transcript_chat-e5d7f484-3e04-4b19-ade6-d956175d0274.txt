@@ -1,0 +1,12 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Adele Biancarelli?
+CALLER: Yeah. You have been calling to cancel the ride that I just booked because
+AGENT: Thanks, Adele. This is Ana from Barwood & Regency. I see your trip is scheduled for pickup today at 6:07 PM. Let me connect you so we can address your concern about the cancellation.
+AGENT: I found one active trip for you, Adele: your first trip scheduled for pickup today at 6:07 pm from Silver Spring to Takoma Park. Would you like me to cancel this trip for you?
+CALLER: Yeah. Well, are they still coming? That's why I was wondering if it's 06:30 now. I'm still in
+AGENT: Just to confirm, you want me to cancel your trip scheduled for 6:07 pm from Silver Spring to Takoma Park, correct? If you prefer, I can check the status for you instead. What would you like to do?
+CALLER: hello? It it
+AGENT: Yes, I'm here. Would you like me to cancel your 6:07 pm trip from Silver Spring to Takoma Park, or would you prefer to check if the driver is still coming?
+CALLER: I like to push prefer to check the time. I'm still coming.
+AGENT: I understand you're still on your way. I can't contact the driver directly, but I can connect you with a representative who can help with any driver messages or issues. Let me connect you now.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Yeah.

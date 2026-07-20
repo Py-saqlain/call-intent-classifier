@@ -1,0 +1,12 @@
+AGENT: Hello Andrew, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: My trips
+AGENT: Could you please tell me if you want to check the status of your current trips, cancel a trip, or something else related to your trips?
+CALLER: Check the status.
+AGENT: You have two upcoming trips scheduled for tomorrow morning: one at 7:10 am from Friendship Boulevard to Tower Oaks Boulevard, and another at 9:15 am returning from Tower Oaks Boulevard to Friendship Boulevard. Would you like details on either trip?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: How are you?
+AGENT: I'm here to help you with your rides. What can I assist you with today?
+CALLER: Yeah. Yes. Haven't come down yet? Okay. They're coming. Thanks.
+AGENT: Okay, so your driver and vehicle are assigned for both trips tomorrow morning at 7:10 am and 9:15 am. Your rides are confirmed and scheduled. Anything else I can check for you?
+CALLER: Tell me the vehicle number.
+AGENT: Your vehicle number for both trips tomorrow morning is 548. Anything else I can help with?

@@ -1,0 +1,18 @@
+AGENT: Hello Tony, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Can I get a cab, please?
+AGENT: Alright, how would you like to pay for your cab today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Gotcha. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: May I have the pickup address for your cab, please? If you'd like, you can also say "home" and I will use your saved home address. <emotion value="peaceful"/>
+CALLER: Five seven
+AGENT: Uh, I am sorry, but could you please provide the full street address including the street name for the pickup? Just the number five seven is not enough to locate it. <emotion value="apologetic"/>
+CALLER: home.
+CALLER: Okay. 5708 Mayfair Manor Court.
+AGENT: Okay, I found 5 7 0 8 Mayfair Manor Court, Rockville, Maryland. Is that your pickup address? <emotion value="peaceful"/>
+AGENT: Okay, just to confirm, your pickup address is 7 7 1 5 Woodmont Avenue, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Okay, just to confirm, your pickup address is 7 7 1 5 Woodmont Avenue, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. No.
+AGENT: Okay, please provide the correct pickup address again, including the street number and street name. <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: 5708 Mayfair Manor Court.
+CALLER: I would have been better.

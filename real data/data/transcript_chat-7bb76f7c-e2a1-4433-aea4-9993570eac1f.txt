@@ -1,0 +1,33 @@
+AGENT: Hello, Ennette. This is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Morning.
+AGENT: How
+CALLER: I'm ready.
+AGENT: You don't have any active trips scheduled right now. Would you like me to help you book a ride?
+CALLER: Yes.
+AGENT: Thank you for confirming. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Call me right.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: Could
+CALLER: One zero
+AGENT: I’m sorry, I need the full last six digits of your Call and Ride card to proceed. Could you please provide all six digits?
+CALLER: Three four yes. Three four one zero nine six.
+AGENT: Thank you for providing your Call and Ride card details. Your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 9616 Main Street. Damascus, Maryland.
+AGENT: I have 9 6 1 6 Main Street, Damascus, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One four zero one Rockville Pike Rockville, Maryland
+AGENT: I have 1 4 0 1 Rockville Pike, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Ennette. I will now proceed with the next steps for your trip.
+AGENT: When would you like to be picked up?
+CALLER: A hour after I get dropped off.
+AGENT: When would you like to be picked up?
+CALLER: What time would they drop me off there?
+AGENT: I don’t have the dropoff time yet since we haven’t set the dropoff location or pickup time. Could you please tell me where you want to be dropped off? Then we can figure out the timing for your pickup an hour later.
+CALLER: One four zero one. Rockdale Pike Rockdale, Maryland.
+AGENT: When would you like to be picked up?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

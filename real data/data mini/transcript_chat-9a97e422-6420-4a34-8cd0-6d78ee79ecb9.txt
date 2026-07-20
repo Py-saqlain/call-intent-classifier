@@ -1,0 +1,7 @@
+AGENT: Hello Susan, this is Ana from Barwood & Regency. Vehicle 1005 has arrived at your pickup location. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hi. Are you here for Susan? I'm sorry. I didn't know you were here. I hope you didn't.
+AGENT: Uhh, no worries at all. How can I assist you with Susan's ride today? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay.
+AGENT: How can I assist you with your ride today? <emotion value="peaceful"/>

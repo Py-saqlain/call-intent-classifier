@@ -1,0 +1,29 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: That's it. Yes. That's
+AGENT: I want to make sure I got your name correctly. Could you please say your name again for me?
+CALLER: Deborah Marie Jenkins. Deborah
+AGENT: Thank you, Deborah. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I'm wet
+AGENT: I'm sorry to hear that you're wet. Is there something I can assist you with regarding a ride or transportation?
+CALLER: said that she been waiting here for her Uber for thirty minutes.
+AGENT: I understand you've been waiting quite a while for your Uber. If you'd like, I can help you arrange a ride with Barwood or Regency instead. Would you like me to assist you with booking a trip?
+CALLER: Barwood.
+AGENT: Alright, how would you like to pay for your Barwood ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Well, Varwell I mean, what's that?
+AGENT: Hmmm.. that didn't seem right, could you try again? You can pay with cash, credit card, or Call and Ride. <emotion value="apologetic"/>
+CALLER: Wells Fargo Visa debit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: What
+AGENT: I'm here to help. Could you please tell me the address where you'd like the driver to pick you up? <emotion value="peaceful"/>
+CALLER: 14120 Whispering Pines Court. Yeah.
+AGENT: Okay, so your pickup address is 1 4 1 2 0 Whispering Pines Court, Aspen Hill, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: 14120 Whispering Pond Court.
+AGENT: I found the address as 1 4 1 2 0 Whispering Pines Court, Aspen Hill, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Got it. No. What is it?
+AGENT: Just to clarify, the pickup address I found is 1 4 1 2 0 Whispering Pines Court, Aspen Hill, Maryland. Is that not correct? Could you please provide the correct address or any additional details? <emotion value="peaceful"/>
+CALLER: No. One four one four one two zero Whipping Willow Drive.
+AGENT: Hmm <break time="350ms"/> I couldn't find that address. Could you please provide the full street address including the city and state? <emotion value="apologetic"/>
+CALLER: May I speak to a human employee?
+AGENT: I can help you with the address details right now — shall we continue?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

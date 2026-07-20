@@ -1,0 +1,31 @@
+AGENT: Hello Eva, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Can I get a cab at one eight eight six two Bent Willow Circle, Germantown?
+AGENT: I can help with that. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call
+AGENT: Did you mean Call and Ride for your payment method? If so, please provide the last six digits of your Call and Ride card.
+CALLER: Thirty seventy four seven seven
+AGENT: Thank you, your payment method is set to Call and Ride.
+AGENT: I have 1 8 8 6 2 Bent Willow Circle, Germantown, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Walmart in Germantown, Merlin. Frederick Road, I'm not sure of the address. Could you look it up for me, please?
+AGENT: I found Walmart Supercenter at 2 0 9 1 0 Frederick Road, Germantown, Maryland. Is that the correct destination?
+CALLER: Yeah. Yes, ma'am.
+AGENT: Your dropoff address has been verified, Eva.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. One person, myself.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: To call when they arrive to pick me up.
+AGENT: The estimated fare for your trip is 13.5 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: Yes, ma'am. Thirty minutes after I'm dropped off.
+AGENT: Thank you for confirming you'd like a return trip about thirty minutes after your drop-off. I'll start collecting the return trip details now.
+AGENT: When would you like to be picked up for your return trip?
+CALLER: Yes.
+AGENT: The return trip pickup time must be at least 10 minutes after your main trip pickup time, which is today at 8:16 AM. Could you please provide a valid return pickup time, or would you prefer to just book a one-way trip instead?
+CALLER: A one way trip.
+AGENT: Your one-way trip is scheduled for today at 8:16 AM. Your confirmation number is 2 1 3 6 6 3 1 1 9. Is there anything else I can assist you with?
+CALLER: No, ma'am. You have a blessed day.
+AGENT: Thank you for calling Barwood & Regency, Eva. Have a wonderful day.
+CALLER: Thank you.

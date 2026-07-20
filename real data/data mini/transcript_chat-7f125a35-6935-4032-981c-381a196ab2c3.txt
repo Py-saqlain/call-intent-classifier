@@ -1,0 +1,13 @@
+AGENT: Hi Joan, this is Ana from Barwood & Regency. Your ride is scheduled for pickup today at 1:20 PM. How can I assist you today?
+CALLER: Speak to representative. Oh,
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Cancel the ride at 01:20PM.
+AGENT: I can take care of that for you.
+AGENT: I found one trip for you, the first trip at 1:20 pm from Brookeville to Olney. Should I go ahead and cancel this ride?
+CALLER: Yes.
+AGENT: Your ride with confirmation number 0 2 1 3 6 7 9 3 2 5 has been cancelled. Is there anything else I can help you with?
+CALLER: Speak to representative.
+CALLER: Hello?
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: Transfer me, please, to representative I hate this new automated crap. Doesn't work.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

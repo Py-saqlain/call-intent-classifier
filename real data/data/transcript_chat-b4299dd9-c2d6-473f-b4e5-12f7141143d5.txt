@@ -1,0 +1,47 @@
+AGENT: Hi Joan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi there. I'm looking for a pickup in Chevy Chase, Maryland today at three forty five.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: It's gonna be a credit card.
+AGENT: Okay
+AGENT: I found one location in Chevy Chase, Maryland near 5 0 0 6 Wickett Terrace, Bethesda. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: No. That's correct. That's not correct.
+AGENT: Okay, I understand that the pickup address I mentioned is not correct. Could you please provide the full pickup address or a nearby landmark so I can find the right location for you? <emotion value="apologetic"/>
+CALLER: Yep. It's gonna be the chevy chase recreational association.
+AGENT: I found Chevy Chase Recreation Association at 8 9 2 0 Spring Valley Road, Chevy Chase, Maryland. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: It's gonna be in Washington, DC. 4973 Hillbrook Lane, Washington, DC 20016.
+AGENT: Okay, just to confirm, your dropoff address is 4 9 7 3 Hillbrook Lane, Washington, D C. Is that correct? <emotion value="peaceful"/>
+CALLER: Yep.
+AGENT: I found 4 9 7 3 Hillbrook Lane Northwest, Washington, District of Columbia. Is that the correct dropoff address? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified. Thank you, Joan. <emotion value="peaceful"/>
+AGENT: You mentioned a pickup today at 3:45 PM. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay great! How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One passenger. No wheelchair.
+AGENT: Okay great! Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 18.5 dollars, paying with your credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, I'll start collecting the details for your return trip. <emotion value="peaceful"/>
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 5PM. Oh, sorry. Five five thirty.
+AGENT: Just to clarify, did you mean 5:30 PM for your return trip pickup time? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your return trip pickup time as today at 5:30 PM. How many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One. No. One passenger. No wheel no wheelchair.
+AGENT: For your return trip, I have the pickup address as 4 9 7 3 Hillbrook Lane Northwest, Washington, District of Columbia, and the dropoff address as 8 9 2 0 Spring Valley Road, Chevy Chase, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I understand the return trip addresses are not correct. Would you like to update the pickup address, the dropoff address, or both for your return trip? <emotion value="apologetic"/>
+CALLER: Drop off address.
+AGENT: Please provide the correct dropoff address for your return trip. <emotion value="peaceful"/>
+CALLER: Thirty eight hundred Thorn Apple Street, Chevy Chase, Maryland two zero eight one five.
+AGENT: Hmm, let me check that address. I couldn't find 3 8 0 0 Thorn Apple Street in Chevy Chase, Maryland. Could you please confirm the street name or provide a nearby landmark? <emotion value="apologetic"/>
+CALLER: Forty eight hundred thirty eight hundred Thornapple Street, Chevy Chase, Maryland two zero eight one five.
+AGENT: I couldn't find 4 8 3 8 Thornapple Street in Chevy Chase, Maryland. Could you please provide the full address again or try a nearby landmark? <emotion value="apologetic"/>
+CALLER: Thirty eight hundred Thornapple Street, Chevy Chase, Maryland.
+AGENT: I still couldn't find 3 8 0 0 Thornapple Street in Chevy Chase, Maryland. Could you please double-check the street name or provide a nearby landmark to help locate the address? <emotion value="apologetic"/>
+CALLER: That's the address.
+AGENT: Thank you for confirming. Since I couldn't find 3 8 0 0 Thornapple Street in Chevy Chase, Maryland in our system, could you please provide a nearby landmark or cross street to help me locate it? <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

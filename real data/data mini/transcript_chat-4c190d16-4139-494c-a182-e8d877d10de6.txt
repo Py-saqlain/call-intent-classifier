@@ -1,0 +1,14 @@
+AGENT: Hello AZIEB, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi, Anna. Can you give me a reservation for tomorrow?
+AGENT: Uhh, I can definitely help you with that. Could you please tell me the pickup address and the destination for your ride tomorrow? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride tomorrow? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: Page two for No. I have already reservation. Just I want to know the time.
+AGENT: I don't have the pickup time for your reservation yet. Could you please tell me when your pickup is scheduled? <emotion value="peaceful"/>
+CALLER: Tomorrow at eleven.
+AGENT: Okay, I've got your pickup time as tomorrow at 11 am. Now, how would you like to pay for this ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Give me give give me customer service, Anna.
+AGENT: I can help with your reservation details — would you like to continue? <emotion value="peaceful"/>
+CALLER: No. I would like to talk with the customer service.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you.
+AGENT: You're welcome.

@@ -1,0 +1,56 @@
+AGENT: Hi Mike, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi in.
+AGENT: Alright, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call me back.
+CALLER: Are you with the
+AGENT: Uhh, I’m here to help you with your taxi booking or any ride-related questions. Could you please tell me a bit more about what you need? <emotion value="peaceful"/>
+CALLER: It's calling right.
+CALLER: Payment.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Calling right, Anna.
+AGENT: Hmmm.. that didn't seem quite clear. Did you mean Call and Ride for your payment method? If so, I can ask for the last six digits of your card. If not, could you please tell me how you'd like to pay? <emotion value="apologetic"/>
+CALLER: Yes.
+AGENT: Alright, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: And the last six digits is three
+AGENT: Hmmm.. that didn't seem like six digits. Could you please say the full last six digits of your Call and Ride card again? <emotion value="apologetic"/>
+CALLER: Yes. Yes. And the last six digits is three three four nine zero four zero.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Thank you for that. Now, could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 155 Walkin Station Circle in Gaithersburg, Maryland.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found 1 5 5 Watkins Station Circle, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 19851, Observation Drive in Germantown, Maryland.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found 1 9 8 5 1 Observation Drive, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Great.
+AGENT: Your dropoff address has been verified, Mike.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Ten fifteen. AM.
+AGENT: Okay great! I've got your pickup time as today at 10:15 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One and no.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 11 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. Now, for your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: And 25. AM.
+AGENT: I have your return trip pickup time as 25 AM. That seems unusual—did you mean 2:25 AM or 10:25 AM? <emotion value="hesitant"/> Meanwhile, how many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No. 10:25AM.
+AGENT: Thank you for clarifying. I've updated your return trip pickup time to today at 10:25 AM. <emotion value="grateful"/> Now, how many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. Now, for your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 10:25. AM.
+AGENT: Thank you for confirming 10:25 AM for your return trip pickup time. <emotion value="grateful"/> Now, how many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One and no.
+AGENT: For your return trip, I have the pickup at 1 9 8 5 1 Observation Drive, Germantown, Maryland, and the dropoff at 1 5 5 Watkins Station Circle, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: The estimated fare for your return trip is 11 dollars, paying with your Call and Ride card. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I'm booking both trips for you now. <emotion value="grateful"/>
+AGENT: Thank you for your patience. I'm booking both your main and return trips now.
+AGENT: Your main trip is scheduled for today at 10:15 AM with confirmation number 2 1 3 6 7 3 0 4 1. Your return trip is scheduled for today at 10:25 AM with confirmation number 2 1 3 6 7 3 0 4 2. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Mike. Have a great day!
+CALLER: Me too.

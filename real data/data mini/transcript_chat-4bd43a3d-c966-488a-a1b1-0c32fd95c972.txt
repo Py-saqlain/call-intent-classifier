@@ -1,0 +1,8 @@
+AGENT: Hello Joel, this is Ana with Barwood & Regency. Vehicle 503 is on the way and should arrive for your pickup in about 20 minutes, around 1:43 pm. How can I assist you today?
+CALLER: Basically, can you transfer me to the customer agent
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: No. I like to reconfirm whether the vehicle is canned and whether there's an alternative that can come immediately because I'm late for the airport.
+AGENT: Okay, so your current ride from 6 Applewood Court in Rockville to Saarinen Circle near Dulles Airport is active, and your driver with vehicle number 503 is on the way, expected to arrive around 1:44 pm. If you want, I can connect you to a customer representative to explore immediate alternatives. Would you like me to do that?
+CALLER: Please send me to a customer representative. Thank you.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Yeah.

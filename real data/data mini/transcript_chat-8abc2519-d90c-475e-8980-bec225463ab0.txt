@@ -1,0 +1,10 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Fatemeh Shaerzadeh?
+CALLER: Yes.
+AGENT: Thanks, Fatemeh. This is Ana from Barwood & Regency. Vehicle 1137 has arrived at your pickup location. How can I assist you today?
+CALLER: It hasn't arrived. I let me see. I think there's one cat coming right now. Thank you.
+AGENT: Okay, take your time. If you need any further assistance or have questions about your ride, just let me know. Is there anything else I can help you with right now? <emotion value="peaceful"/>
+CALLER: So much. I will then have it as
+AGENT: Uhh, I’m here to help. Could you please tell me a bit more about what you’d like to do or arrange? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

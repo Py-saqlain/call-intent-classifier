@@ -1,0 +1,29 @@
+AGENT: Hello Yuna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like a to pick me up at six forty five going to Washington, Dallas. World Airport.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: K. K. Kiss.
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you'd like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Yes.
+AGENT: Uh, I am sorry, but could you please provide the full pickup address where the driver should come to get you?
+CALLER: Six six
+AGENT: Hmm, let me check that address. Just to clarify, is your pickup address six six with no street name, or did you mean six six followed by a street name?
+CALLER: Six six two zero Tenhill Road, Bethelton, Maryland
+AGENT: Okay, so I have your pickup address as 6 6 2 0 Kenhill Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay, so I have your pickup address as 6 6 2 0 Kenhill Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+CALLER: Correct. Correct. Yes.
+AGENT: Your dropoff address has been verified, Yuna.
+AGENT: I found Dulles International Airport at 1 Saarinen Circle, Dulles, Virginia. Is that the correct dropoff location? <emotion value="peaceful"/>
+AGENT: Just to confirm, you would like to be picked up at 6:45 PM, is that correct? <emotion value="peaceful"/>
+CALLER: Correct. Washington, Dallas
+AGENT: Okay great! I've got your pickup time set for today at 6:45 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Two. No. Yes.
+AGENT: Okay great! I've got 2 passengers and 1 wheelchair noted. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No. I need the confirmation number.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Okay. Thank you.

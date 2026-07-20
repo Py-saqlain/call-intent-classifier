@@ -1,0 +1,31 @@
+AGENT: Hi Alex, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to make a reservation for July 4.
+AGENT: Thanks for letting me know you want to book for July 4. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Activate credit card. I'll be paying with credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your ride on July 4?
+CALLER: Yeah. It please me at from my home?
+AGENT: I
+CALLER: And, uh, I want to be dropped at Walmart in Germantown.
+AGENT: I have your pickup address as one three zero zero one Wisteria Drive, Germantown, Maryland. Is that correct?
+CALLER: Yes. That's correct.
+AGENT: I found Walmart Supercenter at two zero nine one zero Frederick Road, Germantown, Maryland. Is that the place you want to be dropped off?
+CALLER: Yep. Correctly.
+AGENT: Your dropoff address has been verified, Alex.
+AGENT: What time on July 4 would you like to be picked up?
+CALLER: I'll call you.
+AGENT: I can help you finalize your pickup time right now — shall we continue?
+CALLER: Yes.
+AGENT: What time on July 4 would you like to be picked up?
+CALLER: I will call I will call you when I'm ready.
+AGENT: I've recorded your trip as a will-call for July 4. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: It's just one passenger and no wheelchair and, uh, no instructions for the driver.
+AGENT: Thank you, I have recorded one passenger and no wheelchair needed. Do you have any special instructions for the driver?
+AGENT: The estimated fare for your trip on July 4 is 11
+CALLER: No.
+AGENT: Just to clarify, are you saying you do not want to schedule a return trip?
+CALLER: Yes. I don't want a return trip.
+AGENT: Thank you for confirming. I am processing your will-call trip booking for July 4 now. Please hold for a moment.
+AGENT: Your will-call trip for July 4 has been booked. Your confirmation number is 2 1 3 6 6 3 2 4 2. Is there anything else I can help you with?
+CALLER: Thank you.
+AGENT: Thank you for calling Barwood & Regency, Alex. Have a great day!

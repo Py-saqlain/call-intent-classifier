@@ -1,0 +1,11 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Hi. How are doing? My name is Sean. Um, I have a question. I was wondering I stay in Gaithersburg I was wondering, do y'all make runs to Frederick Maryland?
+AGENT: Thanks, Sean. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Okay. I'll just wanted to ask a a question of question. I was wondering, do y'all pick up from Gaithersburg because I live in Gaithersburg, and I wanted to go to Frederick, Maryland. It was, like, 34 miles from here.
+AGENT: Thanks for sharing that, Sean. We do serve Gaithersburg and can arrange rides to Frederick, Maryland. To get started, could you please let me know how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Oh, I wanna pay cash, but I wanted a price on it. Would you be able give me a price on that?
+AGENT: I don't have the fare information yet since we are still gathering your trip details. Could you please tell me the pickup time you would like for your ride from Gaithersburg to Frederick?
+CALLER: I'm not really for sure. Won't I won't be for sure until it probably be around eleven, but right now and I was just looking at the price. Arrangement. You know, if you can give me a price, then I can go from there. But if you can't, then, you know, Yeah. I just wanted to, you know, get some information.
+AGENT: I understand you're looking for a price estimate before deciding. Unfortunately, I can't provide a fare estimate until the trip details are fully collected. If you'd like, I can help you set up the ride now with cash payment, and once the booking is confirmed,
+CALLER: Oh,
+AGENT: I want to make sure I get your payment method

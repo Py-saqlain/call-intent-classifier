@@ -1,0 +1,14 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Drew Evans?
+CALLER: Yes.
+AGENT: Thanks, Drew. This is Ana from Barwood & Regency. Vehicle 1009 is on the way and will arrive for your pickup in about 8 minutes, around 2:32 pm. How can I assist you today?
+CALLER: Yeah. I just wanted to know the estimated arrival.
+AGENT: Your driver in vehicle 1009 is about 4 minutes away and
+CALLER: One moment, sir.
+AGENT: Of course, take your time. Let me know when you're ready or if you have any other questions.
+CALLER: Or no, I don't have any other question.
+AGENT: I’m here if you need anything else. Let me know anytime.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Ready. Is it the cab a wheelchair taxi?
+AGENT: Yes, your ride is equipped to accommodate one wheelchair. Is there anything else you would like to know?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Drew. Have a wonderful day.

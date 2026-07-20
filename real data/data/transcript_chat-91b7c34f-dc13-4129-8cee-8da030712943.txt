@@ -1,0 +1,70 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Darlene?
+CALLER: No. You're not. You're speaking with Edward. Everett Hickson.
+AGENT: I don't see a profile under the name Edward Hickson. If you'd like, I can help you set up a new profile or assist you with booking a ride. How would you like to proceed?
+CALLER: I'd like to book a ride.
+AGENT: Thank you, Edward. How would you like to pay for your ride today? We accept
+CALLER: Everett. No. No. No. No. No. Gonna be Cash. It's gonna be Cash. My name is Everett. E v e r e t t. Last name, Hickson, h I c k s o n.
+AGENT: Thank you, Everett. Your payment method is set to cash.
+AGENT: How can I assist you further with your ride booking?
+CALLER: Uh, well, I need a ride to come pick me up. I'm at Kaiser Permanente Gaithersburg location.
+AGENT: I have the pickup address as 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. Is that correct?
+CALLER: No. It's six zero nine Wetstone
+CALLER: Street. Six zero nine six zero nine Whetstone, which is one word, Glen Street, Gaithersburg, Maryland 20877.
+AGENT: I couldn't locate 6 0 9 6 0 9 Whetstone Glen Street in Gaithersburg, Maryland. Could you please confirm the street number and name again?
+CALLER: The the street is six zero nine. Wetstone, which is one word, w h e t s t o n e. Space glen, G L E N, Street,
+CALLER: Gaithersburg,
+AGENT: I have the pickup address as 6 0 9 Whetstone Glen Street, Gaithersburg, Maryland. Is that correct?
+CALLER: Right. Yes. 20877.
+AGENT: I found two locations for "book a ride": Action Taxi, Inc at 1 5 8 0 5 Paramount Drive, Rockville, Maryland, and Book A Ride at 2 7 Hadfield Street, Georgetown, Guyana. Which one would you like to use as your destination?
+CALLER: My destination is the address I just gave you. 609 Wet Stone Glen Street, Gaithersburg, Maryland.
+AGENT: Just to confirm, your destination is 6 0 9 Whetstone Glen Street, Gaithersburg, Maryland?
+CALLER: Mhmm.
+AGENT: Your pickup and dropoff addresses cannot be the same. Could you please provide a different destination address?
+CALLER: Okay. My where I'm at right now, I'm at Kaiser Permanente Hospital in Gaithersburg. I didn't hear you clearly. That's where I am now. My address my home address that I just gave you, 609 Wet Stone Glen Street, Gaithersburg, Maryland is where I'm going.
+AGENT: Thank you for clarifying. So your pickup address is Kaiser Permanente Hospital in Gaithersburg, and your dropoff address is 6 0 9 Whetstone Glen Street, Gaithersburg, Maryland.
+CALLER: Yes.
+AGENT: I found Kaiser Permanente at 6 5 0 1 Loisdale Road, Springfield,
+CALLER: Maryland.
+AGENT: I have Kaiser Permanente at 6 5 0 1 Loisdale Road, Springfield, Virginia. Is that the correct pickup location?
+CALLER: No. The the pickup the correct pickup address is uh, hold on. Let me excuse me. Excuse me. Can you give me one second? What's the pickup address here? The pickup address.
+AGENT: Take your time, Everett. Whenever you're ready, please tell me the pickup address you'd like to use.
+CALLER: Okay. This is one of the security here. He's gonna give me the address I don't know why it's not written on this phone.
+AGENT: No problem, Everett. Just let me know the pickup address whenever you have it, and I'll be here to help you with your ride.
+CALLER: Okay. Okay.
+AGENT: Whenever you're ready, please provide the pickup address for your ride.
+CALLER: Okay. Okay. This guy is still looking for it. Okay. He has that as six five five walking Walker Mill, Road, Gaithersburg. Two zero eight seven nine
+AGENT: I have the pickup address as 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: The drop off address is my address, which is six zero nine Wetstone Glen Street. Gaithersburg, Maryland.
+AGENT: I have the dropoff address as 6 0 9 Whetstone Glen Street, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes
+AGENT: Your dropoff address has been verified, Everett. I will now proceed with the next steps to arrange your ride.
+AGENT: When would you like to be picked up?
+CALLER: right now,
+AGENT: Thank you. How many passengers will be traveling, including yourself? And will anyone need a
+CALLER: Just me. Just me. No.
+AGENT: Thank you for that. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 10.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No. It would not. I'm paying I am paying with cash. You say it's $10? Hello?
+AGENT: Yes, you are paying with cash. The estimated fare is 10.5
+CALLER: Yes.
+AGENT: Great. Should I go ahead and book
+CALLER: Okay.
+CALLER: Yes. I'm waiting.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your trip is booked for today at 8:56 AM. The confirmation number is 2 1 3 6 8 0 3 9 9. Is there anything else I can help you with?
+CALLER: Okay. So in other words, the cab should be here in eight minutes.
+AGENT: Yes, your pickup is scheduled for 8:56 AM, which is about eight minutes from now. Is there
+CALLER: Okay.
+CALLER: Seven now. Okay. So we're good?
+AGENT: I want to make sure I have your name correctly before we continue. Could you please tell me your name again?
+CALLER: Let me spell it for you. It's Everett, e v e r e t t. That's my first name. My last name is Dixon, h I c k s o n.
+AGENT: Thanks, Everett. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Well, you just did. Said the cab will be here in in how long?
+AGENT: I want to make sure I understand correctly—are you asking to confirm the pickup time for your ride?
+CALLER: I'm waiting to yes.
+AGENT: I’m not able to find a current trip under your name right now. Would you like me to help you book a ride?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Please. Please.

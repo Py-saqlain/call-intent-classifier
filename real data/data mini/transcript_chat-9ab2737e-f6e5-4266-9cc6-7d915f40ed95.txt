@@ -1,0 +1,10 @@
+AGENT: Hi Maryum, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I'm trying to find out what happened to my ride.
+AGENT: I don't see any active trip scheduled for you right now. Would you like me to help you book a new ride?
+CALLER: He just call
+AGENT: Hmm <break time="300ms"/> I still don't see any active trip for you right now. Would you like me to help you arrange a new ride? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+CALLER: Hello?
+AGENT: Yes, I'm here. How can I assist you with your ride today?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

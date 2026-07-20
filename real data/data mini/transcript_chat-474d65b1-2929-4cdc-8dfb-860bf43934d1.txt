@@ -1,0 +1,8 @@
+AGENT: Hi John, this is Ana from Barwood & Regency. Vehicle 365 is on the way and will arrive for your pickup at 10:45. How can I assist you today?
+CALLER: Is my is is my borrowed cap coming by actual? 10:45AM today taking me to 11533 Jordan Avenue service from eight zero seven. Coastal Road.
+AGENT: Looks like you already have a trip from 8 8 0 7 Colesville Road, Silver Spring to 1 1 5 2 3 Georgia Avenue at 10:45 am today. What would you like to do? <emotion value="grateful"/>
+CALLER: Have a cab come by at 8807 Coastal Road, checking me at 11533 George Avenue, Silver Shrine.
+AGENT: You already have a trip from 8 8 0 7 Colesville Road, Silver Spring to 1 1 5 2 3 Georgia Avenue at 10:45 am today. What would you like to do? <emotion value="grateful"/>
+CALLER: Alrighty. I'll take the tap at 07:45AM, please.
+AGENT: You still have a trip scheduled from 8 8 0 7 Colesville Road, Silver Spring to 1 1 5 2 3 Georgia Avenue at 10:45 am today. What would you like to do? <emotion value="grateful"/>
+CALLER: I would like to cash the cab leaving at eighty o seven All Fuel Road service being taken me to Home 1523 towards out of Silver Spring. Leaving at 10:45AM in 8807000 Road to

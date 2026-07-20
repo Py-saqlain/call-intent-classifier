@@ -1,0 +1,13 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Maria Alvarado Pena?
+CALLER: Yes.
+AGENT: Thanks for confirming, Maria. This is Barwood & Regency. How can I assist you today?
+CALLER: Am I prepared for today?
+AGENT: Could you please clarify what you mean by "prepared for today"? Are you asking about a scheduled ride or something else?
+CALLER: Right.
+AGENT: You have an upcoming scheduled ride on July 20th at 11:00 am from 1 9 7 0 1 Muncaster Road to 7 5 2 4 Standish Place in Derwood. Would you like any details or assistance with this trip?
+CALLER: No.
+AGENT: Your next scheduled ride is on July 22nd at 11:00 am, and no driver has been assigned yet. Is there anything else I can help you with?
+CALLER: My return trip today.
+AGENT: I see you have a trip today at 11:00 am, but there is no return trip scheduled for today in the system. Would you like me to help you book a return trip?
+CALLER: Representatives. Yeah.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

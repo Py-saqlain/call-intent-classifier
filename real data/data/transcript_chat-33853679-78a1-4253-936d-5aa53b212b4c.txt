@@ -1,0 +1,22 @@
+AGENT: Hello Joseph, this is Ana with Barwood & Regency. Your trip is accepted and vehicle 1034 is assigned, scheduled for pickup today at 3:00 PM. How can I assist you today?
+CALLER: Can I speak to her?
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What
+CALLER: A lab. Yeah. I wanna yeah. Okay. Cancel. For for today.
+AGENT: I can take care of that for you.
+AGENT: I see two trips on your account for today.  
+Trip one: return trip pickup at 7 1 0 Roeder Road in Silver Spring at 3 PM going to Washington.  
+Trip two: main trip pickup at 5 2 1 5 Loughboro Road Northwest in Washington at 5:45 PM going to Silver Spring.  
+Which one would you like to cancel?
+CALLER: Yep.
+AGENT: Hmm, could you clarify which trip you'd like to cancel? The 3 PM return trip or the 5:45 PM main trip?
+CALLER: Both of them for for today. 03:00. Then the 05:45. Can I speak to a a our just to pull it?
+AGENT: Okay so both your trips for today at 3 PM and 5:45 PM have been cancelled for you. Is
+CALLER: Can I speak to an agent for me, please? This bad
+CALLER: You still there? Hello? Hello?
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: Hello? I was saying, dude, are you still there?
+AGENT: Yes, I'm here. How can I assist you further?
+CALLER: He transferred me Well, I think I'm fine.
+AGENT: Alright, if you need anything else, just let me know. I'm here to help.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Yeah. It said transfer. You mean Transfer me. To an agent.

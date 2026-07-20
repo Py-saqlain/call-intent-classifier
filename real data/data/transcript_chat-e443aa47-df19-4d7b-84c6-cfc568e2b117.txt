@@ -1,0 +1,35 @@
+AGENT: Hello Leela, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to schedule a for a wheelchair accessible taxi.
+AGENT: Alright, how would you like to pay for your wheelchair accessible taxi? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your wheelchair accessible taxi? <emotion value="peaceful"/>
+CALLER: 9911 Watt Kins Road,
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found the pickup address as nine nine one
+CALLER: Petersburg, Maryland.
+AGENT: I want to make sure I have your pickup address correct. Is it nine nine one one Watkins Road, Gaithersburg, Maryland? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Humphrey funeral home in Bethesda.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I found a few locations.  
+Option one: 300 West Montgomery Avenue, Rockville.  
+Option two: 7557 Wisconsin Avenue, Bethesda.  
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Second option,
+AGENT: Your dropoff address has been verified, Leela.
+AGENT: I have that you need one wheelchair accessible vehicle. Is that correct? <emotion value="peaceful"/>
+CALLER: That is correct.
+AGENT: Okay great! I've got that noted. When would you like to be picked up? <emotion value="grateful"/>
+CALLER: Sunday, July 12, by 08:45.
+CALLER: AM.
+AGENT: Thanks for confirming the time as tomorrow at 8:45 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: It's representative
+AGENT: Just to confirm, your pickup time is tomorrow at 8:45 AM, and you need one wheelchair accessible vehicle. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Okay great! I've got that noted. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: Can I speak to a representative?
+AGENT: I can help with your booking details — would you like to continue? <emotion value="peaceful"/>
+CALLER: I want to speak to a representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

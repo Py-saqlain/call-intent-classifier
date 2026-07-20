@@ -1,0 +1,81 @@
+AGENT: Hello Nimusiima, this is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I mean, Rosie. I want a tax. It's But I'm here.
+AGENT: Uhh, I want to make sure I understand you correctly. Are you looking to book a taxi ride with us right now? <emotion value="hesitant"/>
+AGENT: Alright, how would you like to pay for your ride today? We
+CALLER: Yes. But I'll be picking up I'll be picking up on the bus lane
+AGENT: I want to make sure I understand you correctly about payment. Could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: Great. Scott.
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Credit cost.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? If you'd like, I can use your home address at 3 4 0 1 Robey Terrace, Silver Spring, Maryland. Would that work for you? <emotion value="peaceful"/>
+CALLER: I'll pick it I will be pick it up on Sabahani Hospital.
+AGENT: I found a few locations for Sabahani Hospital. 
+Option one: 9 9 0 1 Medical Center Drive, Rockville, Maryland. 
+Option two: 8 6 0 0 Old Georgetown Road, Bethesda, Maryland. 
+Option three: 3 4 4 University Boulevard West, Silver Spring, Maryland. 
+Option four: 1 5 0 0 Forest Glen Road, Silver Spring, Maryland. 
+Option five: 1 1 8 9 0 Healing Way, Silver Spring, Maryland. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Georgia Avenue. Old Georgia Town. On Old Georgia Town.
+AGENT: Just to clarify, are you referring to the
+CALLER: Oh, did you get down?
+AGENT: Uh, I am sorry, but could you please repeat that? I want to make sure I understand your choice for the hospital location. <emotion value="hesitant"/>
+CALLER: Suburban hospital on or or Georgia Town.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yep.
+AGENT: Could you please tell me the destination or dropoff address for your ride? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay. The address is eighty six zero zero. Orange, Georgia town.
+AGENT: Hmm, I couldn't find that address. Could you please provide the full street address, city, and state for the dropoff location? <emotion value="apologetic"/>
+CALLER: Eight six zero zero o d georgetown
+AGENT: Just to confirm, did you mean 8600 Old Georgetown Road? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay, just to confirm, is your dropoff address 8 6 0 0 Old Georgetown Road, Bethesda, Maryland? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Nimusiima.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: On Old Lubytown, eight six zero zero Old Georgia Town. Bethesda.
+CALLER: I will pick it up on that address.
+CALLER: Eight six zero zero Orloyote Town,
+AGENT: Sure, let me update that address.
+AGENT: Okay, just to confirm, is your pickup address 8 6 0 0 James Town Road, Amelia County, Virginia? <emotion value="peaceful"/>
+CALLER: It says Methesda. Not Virginia. Bethesda.
+AGENT: Thank you for clarifying that you meant Bethesda, not Virginia. Could you please say the pickup address again with Bethesda included? <emotion value="apologetic"/>
+CALLER: Eight six zero zero of geogerstown road. Let's pick it up.
+AGENT: Okay, just to confirm, is your pickup address 8 6 0 0 Old Georgetown Road, Bethesda, Maryland? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Alright, the pickup address has been successfully updated. What time would you like the pickup? <emotion value="peaceful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No. Right now.
+AGENT: Okay great! I've got your pickup time as today at 10:22 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Only me one.
+AGENT: Okay great! I've got that noted for one passenger. <emotion value="grateful"/> Will you be needing a wheelchair accessible vehicle?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Ready for what? You drop me you're gonna drop me on 13811 Casa Boulevard.
+AGENT: Sure, let me update that address.
+AGENT: Okay, just to confirm, is your dropoff address 1 3 8 1 1 Castle Boulevard, Silver Spring, Maryland? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The dropoff address has been successfully updated. What time would you like the pickup? <emotion value="peaceful"/>
+AGENT: Just to confirm, your pickup time is today at 10:22 AM and you have one passenger traveling. Is that
+CALLER: Right now,
+AGENT: I understand you want the pickup time as right now. Just to confirm, is that correct for your pickup time? <emotion value="hesitant"/>
+CALLER: Yes. Right now.
+AGENT: Okay great! I've got your pickup time as right now and one passenger. <emotion value="grateful"/> Will you be needing a wheelchair accessible vehicle?
+CALLER: Okay.
+AGENT: Just to clarify, will you be needing a wheelchair accessible vehicle for your ride? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay great! I've got that noted for one wheelchair-accessible vehicle. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: How many minutes do I have to wait?
+AGENT: The estimated travel time for your trip is about 25 minutes. Do you have any special instructions for the driver? <emotion value="peaceful"/>
+CALLER: No. How long do I have to wait?
+AGENT: The estimated travel time for your trip is about 25 minutes. Now, do you have any special instructions for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 39 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: What I pay with the credit card?
+AGENT: Your main trip payment method is Credit Card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Did you what?
+AGENT: Your main trip payment method is Credit Card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

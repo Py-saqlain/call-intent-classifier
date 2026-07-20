@@ -1,0 +1,18 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Annette?
+CALLER: Yes. Could you send a care to one five one hundred Endelock Drive? She was born, Maryland.
+AGENT: Thanks, Annette. This is Barwood & Regency. How can I assist you with your ride today?
+CALLER: Could you send me a ride to 15100 Interlochen Drive, Silver Spring, Maryland I'm going to thirty eight sixty, International Drive. At the Giant. It feels free. It leads you well.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Right. Cash. Yeah.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+CALLER: Cash.
+AGENT: Okay, Annette, I found your pickup at one five one zero zero Interlachen Drive, Silver Spring, Maryland, and your dropoff at three eight six zero International Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Okay, so I have your pickup as one five one zero zero Interlachen Drive, Silver Spring, Maryland, and your dropoff as three eight six zero International Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. It is.
+AGENT: Your pickup and dropoff addresses have been verified, Annette.
+AGENT: We have the pickup time as 3:00 PM, with 3 passengers and no wheelchairs. Is that correct? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Great! Is the pickup time 3:00 PM, with 3 passengers and no wheelchairs? Please confirm if this is correct. <emotion value="peaceful"/>
+CALLER: 3PM.
+AGENT: Alright, the estimated fare is 7 dollars, paying with your own account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>

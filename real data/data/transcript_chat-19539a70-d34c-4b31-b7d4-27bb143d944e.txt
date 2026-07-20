@@ -1,0 +1,53 @@
+AGENT: Hello William, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Schedule a a tab a tab service.
+AGENT: I'd be happy to help schedule your trip. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Yes.
+AGENT: Just to make sure I understand, would you like to pay with cash, credit card, or Call and Ride?
+CALLER: Cash.
+AGENT: Thank you, your payment method is set to cash. I'll proceed with your booking now.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: My house.
+AGENT: I have 6 5 5 Watkins Mill Road, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: No.
+AGENT: Thank you for letting me know. Please provide the correct pickup address.
+CALLER: One five eight zero four.
+AGENT: To confirm, is your pickup address one five eight zero four Snouffer School Road, Gaithersburg, Maryland? If not, please provide the street name and city as well.
+CALLER: No.
+AGENT: Could you please provide the full pickup address including the street name and city?
+CALLER: One five eight zero
+AGENT: Could you please provide the street name and city along with the number one five eight zero for your pickup address?
+CALLER: one five eight zero
+AGENT: I want to make sure I get your pickup address right. Could you please tell me the street name and city along with the number one five eight zero?
+CALLER: Drive,
+AGENT: Thank you. Could you please tell me the full street name and the city for the pickup address with the number one five eight zero and Drive?
+CALLER: rockville
+CALLER: One five eight zero four Thistle Bridge,
+AGENT: To confirm, is your pickup address one five eight zero four Thistle Bridge Drive, Rockville, Maryland?
+AGENT: Thank you for the update. Could you please confirm the city and state for the address one five eight zero four Thistle Bridge?
+CALLER: rockville, Maryland
+AGENT: I have one five eight zero four Thistlebridge Drive, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Yes. This is Carlos Auto Service. At three nine six eight Howard Avenue, two zero eight nine five.
+AGENT: I found a location called Carlos Auto Service at 309C Howard Avenue, Rockville, Maryland. Is that the correct dropoff address?
+CALLER: No. It's it's Kensington, Maryland.
+AGENT: Thank you for the clarification. Let me look for Carlos Auto Service in Kensington, Maryland.
+AGENT: I found Carlos Auto Service at 3960 Howard Avenue, Kensington, Maryland. Is that the correct dropoff address?
+CALLER: I believe so. It's also three nine six eight Howard Avenue.
+AGENT: Thank you for confirming. I have 3960 Howard Avenue, Kensington, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, William. I'll proceed with arranging your trip now.
+AGENT: You mentioned "taxi service" as a note for the driver. Is that correct? Please say yes to confirm or let me know if you want to change it.
+CALLER: Yes.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: I have your pickup time as today at 12:57 PM. How many passengers will be traveling, including yourself? Also, will anyone need a wheelchair-accessible vehicle?
+CALLER: What? One passenger
+AGENT: Thank you for confirming one passenger. Will you need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: The estimated fare for your trip is 21.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 12:57 PM. Your confirmation number is 2 1 3 6 7 8 1 6 9. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, William. Have a great day!

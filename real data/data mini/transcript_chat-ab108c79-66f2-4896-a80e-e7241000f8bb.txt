@@ -1,0 +1,13 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with William Dotson?
+CALLER: This is he.
+AGENT: Thanks, William. This is Barwood & Regency. Your last trip with vehicle six three four was not accepted; please check for other options or schedule a new ride. How can I assist you today?
+CALLER: Schedule a new ride.
+AGENT: You already have a trip from 1 3 0 6 0 Middlebrook Road to 1 9 4 1 9 Buckingham Way scheduled for today at 12:08 pm. What would you like to do next?
+CALLER: When is the ride coming?
+AGENT: Your ride was scheduled for 12:08 pm today, but it was rejected and does not have an active driver assigned. Would you like me to help you book a new ride?
+CALLER: Yeah.
+AGENT: You already have a trip from 1 3 0 6 0 Middlebrook Road to 1 9
+CALLER: Hey.
+AGENT: How can I assist you with your trip today?
+CALLER: Agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

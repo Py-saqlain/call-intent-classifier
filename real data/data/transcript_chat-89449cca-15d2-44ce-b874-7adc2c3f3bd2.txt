@@ -1,0 +1,62 @@
+AGENT: Hi Shayan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi. Can you give me a 10 c? I'm right here at Waterman Park, and I need to go to here. I could
+AGENT: Okay, I hear you want a ride from Waterman Park, but I didn't catch your destination. Could you please tell me where you'd like to go? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit
+CALLER: One nine cat
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you'd like to pay? You can choose cash, credit card, or Call and Ride. <emotion value="apologetic"/>
+CALLER: Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: I found a few locations. 
+ Option one: 3 5 5 Frederick Road, Germantown. 
+ Option two: 1 2 2 1 0 Stoney Bottom Road, Germantown. 
+ Option three: 1 2 6 7 1 Grey Eagle Court, Germantown. 
+ Option four:
+CALLER: Alright.
+AGENT: Could you please tell me which one of these locations is your pickup? You can say option one, option two, option three,
+CALLER: Water Landing Park. Water Landing Park.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 19351 Circle Gate Drive,
+AGENT: Thank you. Just to confirm, is your dropoff address 1 9 3 5 1 Circle Gate Drive? <emotion value="peaceful"/>
+CALLER: Yes.
+CALLER: One nine three five one.
+AGENT: Hmm, I couldn't find an exact match for 1 9 3 5 1 Circle Gate Drive. The closest match I found is 1 9 2 2 8 Circle Gate Drive in Germantown, Maryland. Is that the correct dropoff address? <emotion value="hesitant"/>
+CALLER: Yeah.
+AGENT: Okay, just to confirm, is your dropoff address 1 9 2 2 8 Circle Gate Drive, Germantown, Maryland? <emotion value="peaceful"/>
+CALLER: It's 19351 Circle Gate Drive, Germantown, MD two zero eight seven four.
+AGENT: I still couldn't find an exact match for 1 9 3 5 1 Circle Gate Drive, Germantown, Maryland. Could you please confirm if this is the correct dropoff location or provide a nearby landmark or cross street to help identify it? <emotion value="hesitant"/>
+CALLER: Yes. That that is it. That's it. Yes, dude. Do just do Circle Gate Drive.
+AGENT: I found a location called Seneca Place at 1 9 2 2 8 Circle Gate Drive, Germantown. Is that the dropoff location you want? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Shayan.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Okay.
+AGENT: Could you please tell me the time you would like to be picked up? For example, you can say a specific time
+CALLER: Now.
+AGENT: Okay great! I've got your pickup time as now, today at 11:39 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. Wheelchair. I'm in a wheelchair.
+AGENT: Okay great! I've got 1 passenger and 1 wheelchair. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare is 10 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes. As long as I could keep the same driver.
+AGENT: Alright, I will start collecting your return trip details now. <emotion value="peaceful"/>
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Not right now. Not right now. Never mind.
+AGENT: Just to confirm, are you canceling the return trip and want to proceed with booking only the main trip? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes. Yeah. I'm ready.
+AGENT: Okay, so just to confirm, you want to book only the main trip without a return trip, is that right? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Thank you for your patience. I'm processing your main trip booking now.
+CALLER: Okay.
+AGENT: Your main trip is scheduled for today at 11:39 PM. Your confirmation number is 2 1 3 6 7 6 6 4 0. Is there anything else I can help you with?
+CALLER: Now what kind of car should I be looking out for?
+AGENT: I don’t have the vehicle details here, but your driver will be from either Barwood Cab or Regency Taxi, depending on availability. If you’d like, I can connect you to someone who can provide the exact car type and driver details. Would you like me to do that?
+CALLER: No. I don't think I could get it right soon. I want to go.
+AGENT: Understood. Your driver will arrive shortly for your pickup. If you need anything else, just let us know. Safe travels!
+CALLER: Leave your message for two four zero six four four two
+AGENT: I’m here to help with your ride, but I’m not able to leave messages. If you need assistance with your trip or have any questions, please let me know.
+CALLER: k.
+AGENT: Is there anything else I can assist you with today?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

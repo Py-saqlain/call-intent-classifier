@@ -1,0 +1,53 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: On Arnold Gatt.
+AGENT: Thanks, Arnold. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a cab to to the bank
+CALLER: on Frederick Avenue.
+AGENT: Alright, thank you for that. Now, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: Capital One Bank,
+AGENT: Thanks for letting me know the destination is Capital One Bank. Now, how would you like to pay for your ride?
+CALLER: I got call Yeah. Either one of it could be cash or either of either
+AGENT: Hmmm.. that didn't seem quite clear. Did you mean you'd like to pay with Call and Ride, or with cash? Or would you prefer credit card instead?
+CALLER: just call him back.
+AGENT: Just to confirm, did you mean Call and Ride for your payment
+CALLER: Please.
+AGENT: Great, please provide the last six digits of your Call and Ride card so I can verify your payment. <emotion
+CALLER: Yes, ma'am.
+AGENT: Could you please say the last six digits of your Call and Ride card when you're ready? <emotion>
+CALLER: Hold on. Let me get it. Yes. Hold on. I gotta go get my wallet.
+AGENT: Take your time, Arnold. Just let me know the last six digits of your Call and Ride card whenever you're ready. <emotion>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Still there? Hello? Hello? Hello? Hello?
+AGENT: Yes, I'm here. Whenever you're ready, you can provide the last
+CALLER: Hello? Okay. Okay. Okay. It's $32.55 86.
+AGENT: Hmmm.. that didn't seem right, could you please say just the last six digits of your Call and Ride card, without any other numbers or symbols? <emotion value="apologetic"/>
+CALLER: Three two
+AGENT: Hmmm.. that’s only two digits. Could you
+CALLER: five five eighty six That's the number. On the card. 325586.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could
+CALLER: Okay.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: 101 Olden Hall Avenue, Gaithersburg.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so your pickup address is 1 0 1 Odendhal Avenue, Gaithersburg,
+CALLER: Okay.
+AGENT: I couldn't find any banks near 1 0 1 Odendhal Avenue, Gaithersburg. Could you please provide the full address or a more specific location for the bank?
+CALLER: On it's on it's
+CALLER: it no. It's on Frederick Avenue in Gaithersburg. It's not on Olden Hall Avenue.
+AGENT: Okay, so the bank is on Frederick Avenue in Gaithersburg. Could you please provide the street number on Frederick Avenue?
+CALLER: That's Frederick it's right on Frederick Avenue. It's in Gaithersburg, not far from me. You just have the information If you send the cab, ma'am, I'll show him.
+AGENT: I understand. To make sure the driver finds the right place, could you please provide the street number on Frederick Avenue? If you don’t know it, I can try searching just for Frederick Avenue in Gaithersburg.
+CALLER: That's that's all you gotta put.
+CALLER: He he'll know. Right on Frederick Avenue.
+AGENT: I understand you want the dropoff on Frederick Avenue in Gaithersburg. Unfortunately, I couldn't find that address in the system. Could you please provide a nearby landmark or cross street on Frederick Avenue to help locate it?
+CALLER: Oh gosh. The bike sets there off of Frederick Avenue before you get to the Beltway, ma'am. It's right on Frederick Avenue.
+AGENT: Thank you for that detail. Could you please tell me the name
+CALLER: Like, you're going to Germantown. Mhmm.
+AGENT: Thank you for that detail. Could you please tell me the name of the street or a nearby landmark off Frederick Avenue before the Beltway, so I can find the exact dropoff location for you?
+CALLER: Ma'am, I tell you what you do.
+AGENT: I’m here to help you get your ride arranged. Could you
+CALLER: I'll wait for the bus.
+AGENT: Just to confirm, you would like to
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Okay.

@@ -1,0 +1,8 @@
+AGENT: Hello Khianna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: No chicken. Representative, please.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Hello?
+CALLER: Hello?
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: Transfer me to the representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

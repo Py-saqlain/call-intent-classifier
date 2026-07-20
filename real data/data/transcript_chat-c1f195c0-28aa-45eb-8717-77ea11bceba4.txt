@@ -1,0 +1,59 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Barbara Howard?
+CALLER: Yes. Good morning.
+AGENT: Thanks for confirming, Barbara. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I would like to book a cab
+AGENT: Alright, Barbara, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: leaving from thirty eight twenty Chaplin Place Call and ride.
+AGENT: Thank you for that information, Barbara. Just to confirm, your pickup address is 3 8 2 0 Chaplin Place, and you would like to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three two seven two seven seven.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Hmm <break time="350ms"/> I want to make sure I have your pickup address correctly. Could you please tell me the full pickup address including the street number and street name?
+CALLER: Thirty two
+AGENT: Uh, I am sorry, but could you please provide the full pickup address including the street number and street name? Just "thirty two" is not enough for me to locate your pickup.
+CALLER: thirty eight twenty. Okay.
+AGENT: Thank you. Could you please tell me the street name and city for the pickup address starting with thirty eight twenty? <emotion value="peaceful"/>
+CALLER: Kaplan Place.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found your pickup as three eight two zero Chaplin Place, Chevy Chase, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Seventy one zero one. Democracy Boulevard, in Bethesda Montgomery Mall
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, I found your dropoff as seven one zero one Democracy Boulevard, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Barbara.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: As soon as possible.
+AGENT: Okay great! I've got your pickup time as today at 9:44 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One
+AGENT: Thanks for that. Will you need a wheelchair-accessible vehicle for this trip? <emotion value="peaceful"/>
+CALLER: one passenger. No
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: Logical and I would like a return trip.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Now, do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: I just don't do not send the cab two nine to
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. You don't want the cab number two nine to be sent, is that correct? <emotion value="hesitant"/>
+CALLER: I know. Two nine two.
+AGENT: Alright, the estimated fare is 19 dollars, paying with your Call and Ride account. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Great, I'll start collecting the details for your return trip now.
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please tell me what time you would like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: 12. 30.
+AGENT: Just to confirm, you mean 12:30 PM for your return trip pickup time, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your return trip pickup time as today at 12:30 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling on your return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Fine. No. One passenger.
+AGENT: Okay, so for your return trip, I have the pickup as seven one zero one Democracy Boulevard, Bethesda, and the dropoff as three eight two zero Chaplin Place. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 19 dollars, paying with your Call and Ride account. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so <break time="250ms"/> I'm booking both trips for you now. <emotion value="grateful"/>
+AGENT: Your main trip is scheduled for today at 9:44 AM with confirmation number 2 1 3 6 7 5 5 7 3. Your return trip is scheduled for today at 12:30 PM with confirmation number 2 1 3 6 7 5 7 4. Is there anything else I can help you with?
+CALLER: Yes. Can you repeat the confirmation?
+AGENT: Certainly. Your main trip confirmation number is 2 1 3 6 7 5 5 7 3. Your return trip confirmation number is 2 1 3 6 7 5 7 4. Is there anything else I can assist you with?
+CALLER: Could you repeat the return confirmation?
+AGENT: Of course. Your return trip confirmation number is 2 1 3 6 7 5 7 4. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Barbara. Have a wonderful day.

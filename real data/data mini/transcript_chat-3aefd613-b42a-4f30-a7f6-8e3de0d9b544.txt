@@ -1,0 +1,20 @@
+AGENT: Hi Paul, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Passy.
+AGENT: Umm, could you please tell me a bit more about what you need help with today? Are you looking to book a ride, check on a trip, or something else? <emotion value="peaceful"/>
+CALLER: Google Rise.
+AGENT: Okay, are you looking to book a ride to Google or something related to that? Could you please provide the pickup address and the time you want to be picked up? <emotion value="peaceful"/>
+CALLER: Bingo baggers.
+AGENT: I want to make sure I understand you correctly. Are you trying to book a ride to a place called Bingo Baggers, or is there something else you need help with? Could you please clarify? <emotion value="peaceful"/>
+CALLER: Two zero nine one zero
+AGENT: Thanks for that. Could you please tell me if that is a street number for your pickup or dropoff address, and the full street name and city? That way I can make sure I have the right location for your ride. <emotion value="peaceful"/>
+CALLER: Agent.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: No. No.
+AGENT: Alright, I’m here to help you. Could you please tell me what you need assistance with? <emotion value="peaceful"/>
+CALLER: A ride home. Classic.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Phone line.
+AGENT: Hmmm.. that didn't seem like a payment method I recognize. Could you please tell me if you'd like to pay with cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.

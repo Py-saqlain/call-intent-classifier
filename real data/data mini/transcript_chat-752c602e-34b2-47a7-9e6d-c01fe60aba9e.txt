@@ -1,0 +1,11 @@
+AGENT: Hello, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to know when my taxi is arriving.
+AGENT: Hmm <break time="300ms"/> I checked and it looks like you don't have an active trip scheduled right now. Would you like me to help you book a ride? <emotion value="peaceful"/>
+CALLER: Excuse me.
+AGENT: Yes, how can I assist you further? <emotion value="peaceful"/>
+CALLER: If I put I put planned a trip with the operator.
+AGENT: Okay, <break time="300ms"/> if you planned a trip with the operator, I can check the status for you. Let me pull that up right now.
+AGENT: Uhh <break time="300ms"/> I don't see an active trip under your profile at the moment. If you have a confirmation number or more details, I can try again, or I can connect you with an operator to assist. <emotion value="sympathetic"/>
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

@@ -1,0 +1,51 @@
+AGENT: Hello Kyon, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello. I would like to make a a taxi reservation for this afternoon.
+AGENT: Uhh, okay. I can help with that. Could you please tell me the pickup address for your ride this afternoon? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride this afternoon? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your ride this afternoon? If you'd like, I can use your home address at 1 3 7 4 6 Soaring Wing Lane, Silver Spring, Maryland. Would that work for you? <emotion value="peaceful"/>
+CALLER: No. This time, the pickup address is
+AGENT: Uh, I am sorry, but could you please complete the pickup address you want to use this time? <emotion value="peaceful"/>
+CALLER: seven one one
+AGENT: Thank you. To make sure I have it right, is your pickup address seven one one with no street name, or is there a street name or city you would like to add? <emotion value="peaceful"/>
+CALLER: Yes. Seven
+AGENT: I want to make sure I get your full pickup address correctly. Could you please provide the street name and city along with the number seven one one? <emotion value="peaceful"/>
+CALLER: 7111.
+AGENT: Thank you. Could you please provide the street name and city for the address 7 1 1 1? <emotion value="peaceful"/>
+CALLER: 7111. Democracy. Can I talk to live agent? Please?
+AGENT: I will connect you to a live agent right away. Please hold for a moment.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: I don't see any active trips under your profile right now. Would you like me to help you book a ride? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Seven one one one. Democracy bluebird Bethesda, Maryland, two zero eight one seven.
+AGENT: Okay, so I found your pickup address as seven one one one Democracy Boulevard, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: I wanna go to BWI.
+AGENT: I found the dropoff address as seven zero five zero Friendship Road, Baltimore, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Kyon.
+AGENT: You mentioned a pickup time of this afternoon. Is that correct? <emotion value="peaceful"/>
+CALLER: Pickup time is at 02:15PM.
+AGENT: Okay great! I've got that noted as 2:15 PM for your pickup time. <emotion value="grateful"/> Now, soo <break time="300ms"/> how many passengers will be traveling, including yourself?
+CALLER: Testimize there. One,
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. You said one passenger, correct? And will you need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: Yeah.
+AGENT: Okay great! I've got that noted with one passenger and one wheelchair. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No wheelchair. This time. Only one passenger.
+AGENT: Thanks for clarifying. I've updated your booking to one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: It's gonna be Nordstrom entrance place for pickup.
+AGENT: Alright, the estimated fare is 97.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 2:15 PM. Your confirmation number is 2 1 3 6 7 3 9 5 5. Is there anything else I can help you with?
+CALLER: Repeat the confirmation number again.
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 3 9 5 5. Is there anything else I can assist you with?
+CALLER: More time. Confirmation number.
+AGENT: Of course. Your confirmation number is 2 1 3 6 7 3 9 5 5. Is there anything else I can help you with?
+CALLER: No. Thank you. That's it.
+AGENT: Thank you for calling Barwood & Regency, Kyon. Have a wonderful day.
+CALLER: Okay.

@@ -1,0 +1,37 @@
+AGENT: Hello Ms, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. Can I have a a cab? At 10319 Ridgeline Drive? Gaithersburg, Maryland
+AGENT: Thank you for sharing your pickup location at 1 0 3 1 9 Ridgeline Drive in Gaithersburg, Maryland. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: No. Once
+AGENT: Could you please clarify how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: oh, credit card.
+AGENT: Thank you for letting me know you'll be paying with a credit card.
+AGENT: I have 1 0 3 1 9 Ridgeline Drive, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yeah. Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 201 South Frederick Avenue, Gaithersburg, Maryland.
+AGENT: Thank you for providing the dropoff address at 2 0 1 South Frederick Avenue, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: I have 2 0 1 South Frederick Avenue, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Ms.
+AGENT: When would you like to be picked up?
+CALLER: This call will be recorded.
+AGENT: When would you like to be picked up?
+CALLER: RV pickup. 9AM.
+AGENT: Just to confirm, you would like to be picked up today at 9:00 AM, correct?
+CALLER: Yes.
+AGENT: Thank you for confirming your pickup time at 9:00 AM today. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. I'm by myself.
+AGENT: Thank you for letting me know there will be one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 12.5 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: Just only pick me up at 9AM. How much?
+AGENT: The estimated fare for your pickup at 9:00 AM is 12.5 dollars. Would you like to schedule a return trip as well?
+CALLER: How much? Know how much they're going to pay? No.
+AGENT: Just to clarify, you want only the one-way trip at 9:00 AM and do not want to schedule a return trip, correct?
+CALLER: No. How much I will pay?
+AGENT: Your estimated fare for the trip is 12.5 dollars. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Your trip is scheduled for today at 9:00 AM. The confirmation number is 2 1 3 6 6 6 1 5 9. Is there anything else I can help you with?
+CALLER: No more dusty hits. Okay?
+AGENT: Thank you for calling Barwood & Regency, Ms. Have a great day.

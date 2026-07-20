@@ -1,0 +1,13 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Hi. My name is. I'm trying to, um, get a taxi from our car broke down. Uh, we're in Hancock, Maryland trying to get to Kensington, Maryland about 80 miles.
+AGENT: Thank you for sharing that. Could you please tell me your full name so I can set up your profile?
+CALLER: Sure. Silpy Tingo, s h I l p y. Tingo, t I n g o.
+AGENT: Thanks, Silpy. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I Are are you a person or, like, a AI?
+CALLER: I need a taxi ride.
+AGENT: Hi Silpy, thank you for letting me know. How would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit credit card.
+AGENT: Thank you, Silpy. Your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your taxi ride?
+CALLER: 192 West Main Street.
+AGENT: I have 1 9 2 West Main Street, Emmitsburg, Maryland as your pickup address. Is that correct?

@@ -1,0 +1,6 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with William Dotson?
+CALLER: This is he.
+AGENT: Thanks, William. This is Barwood & Regency. Vehicle 346 has arrived at your pickup location. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

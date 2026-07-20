@@ -1,0 +1,24 @@
+AGENT: Hello Kumar, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I was just talking to you or somebody I just wanna make sure you have everything. 12:00 pickup. From 9809 Coleman Court.
+AGENT: Thank you for sharing your pickup time and address. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: You see it? Yes. Credit card.
+AGENT: Thank you, I have your payment as credit card.
+AGENT: I have the pickup address as nine eight zero nine
+CALLER: Okay.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Okay. Five four five four Wisconsin Avenue.
+AGENT: I have the dropoff address as five four five four Wisconsin Avenue, Washington, District of Columbia. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Kumar. I will now proceed with the next steps.
+AGENT: You mentioned a pickup time of 12:00. Is that 12:00 PM today? Please confirm.
+CALLER: Yes. Yes. Yes.
+AGENT: Thank you for confirming your pickup time. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: So two passengers. Nobody needs wheelchair.
+AGENT: I have recorded two passengers and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Kumar, the estimated fare for your trip is 32.5 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No. No. No. It doesn't. No.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your trip is scheduled for today at 12:00 PM. Your confirmation number is 2 1 3 6 6 9 2 6 8. Is there anything else I can help you with?
+CALLER: No. That's fine. Thank you very much. Have a nice day.
+CALLER: Hello? Are we done?

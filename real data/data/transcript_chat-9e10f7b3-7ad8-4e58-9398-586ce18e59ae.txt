@@ -1,0 +1,54 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Joseph Sanwo?
+CALLER: Yes.
+AGENT: Thanks for confirming, Joseph. This is Barwood & Regency. How can I assist you today?
+CALLER: I'm trying to book a color ride
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Colon ride. Colon ride.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yeah.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three three two four zero zero.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 3910 Knowles Avenue, K As In Tim, 20895.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found your pickup address as three nine one zero Knowles Avenue, Kensington, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One five three one Rockville Park, Rockville.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found your dropoff address as one five three one Rockville Pike, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Joseph.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay, your pickup time is set for today at 1:01 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Two.
+AGENT: Thanks for letting me know there will be two passengers. Will anyone be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Two. No. Two passengers. No wheelchair.
+AGENT: Okay great! I've got two passengers and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+AGENT: Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 15.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Oh,
+AGENT: Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Oh,
+AGENT: Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes. Yes.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, I've scheduled your return pickup for today at 3:01 PM. Alright, soo <break time="300ms"/> how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Two. No one check.
+AGENT: For your return trip, I have the pickup as one five three one Rockville Pike, Rockville, Maryland, and the dropoff as three nine one zero Knowles Avenue, Kensington, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 15.5 dollars, paying with Call and Ride. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I'm booking both trips for you now. <emotion value="peaceful"/>
+AGENT: Thank you for waiting. I'm booking both your main and return trips now.
+AGENT: Your main trip is scheduled for today at 1:01 PM with confirmation number 2 1 3 6 7 4 7 1 1. Your return trip is scheduled for today at 3:01 PM with confirmation number 2 1 3 6 7 4 7 1 2. Is there anything else I can help you with?
+CALLER: Yes.
+AGENT: Looks like you already have trips from Kensington to Rockville at today 1:01 PM and from Rockville to Kensington at today 3:01 PM. What would you like to do? <emotion value="peaceful"/>
+CALLER: Confirm the status.
+AGENT: Uhh, I'm sorry about that. Your trips are active but no drivers have been assigned yet. I'll keep you posted. <emotion value="sympathetic"/>
+CALLER: Hi. You know, by the make

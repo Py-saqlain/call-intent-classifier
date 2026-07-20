@@ -1,0 +1,14 @@
+AGENT: Hi Renee, this is Ana with Barwood & Regency. Your trip is scheduled for pickup today at 10:30 AM. How can I assist you today?
+CALLER: I'm I need my cab.
+AGENT: Okay, I can help you with that. Where would you like to be picked up? <emotion value="grateful"/>
+CALLER: 12126 Heritage Park Circle,
+AGENT: Looks like you already have a trip from Silver Spring to Aspen Hill scheduled for today at 10:30 AM. What would you like to do? <emotion value="grateful"/>
+CALLER: I'm waiting for my test because I need to go home. At one two one two six Everton Park Circle. In Silver Spring.
+AGENT: You still have a trip from Silver Spring to Aspen Hill today at 10:30 AM. Would you like to check its status, cancel, change it, book a new trip, or something else? <emotion value="grateful"/>
+CALLER: Going back to 14136 Grand Prix Road. Yes. Thank you.
+AGENT: You still have a trip from Silver Spring to Aspen Hill today at 10:30 AM. What would you like to do with that? <emotion value="grateful"/>
+CALLER: Set the status. to status.
+AGENT: Your trip from Heritage Park Circle in Silver Spring to Grand Pre Road in Aspen Hill was scheduled for 10:30 AM and is active, but no driver has been assigned yet. I'll keep you posted. Anything else? <emotion value="peaceful"/>
+CALLER: Can I speak to someone She was taking my capsule in?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you.

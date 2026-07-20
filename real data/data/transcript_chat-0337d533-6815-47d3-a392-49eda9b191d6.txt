@@ -1,0 +1,40 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Harold Talley, t a l l e y.
+AGENT: Thanks, Harold. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I work at Safeway, I have a customer who needs a cab. At
+AGENT: Okay, I understand you need a cab for a customer from Safeway. Could you please tell me the full pickup address or the city where this Safeway is located?
+CALLER: Kensington Safeway. One yes.
+AGENT: Thanks for that. Just to confirm, the pickup location is the Safeway in Kensington, Maryland at 1? Could you please clarify the full street address or any additional details to make sure we have the right spot?
+CALLER: Sure. The full pickup address. Yes.
+AGENT: Could you please provide the full street address for the Safeway in Kensington, Maryland? That way I can make sure the driver goes to the correct location.
+CALLER: One zero five four one.
+AGENT: Thank you. Just to confirm, the pickup address is 1 0 5 4 1 Kensington, Maryland, correct? Could you please provide the street name as well?
+CALLER: 40541 Connecticut Avenue.
+AGENT: Thanks for that. So the pickup address is 4 0 5 4 1 Connecticut Avenue, Kensington, Maryland. Is that correct?
+CALLER: One zero one zero five four one Connecticut Avenue.
+AGENT: Okay, just to be sure, the pickup address is 1 0 1 0 5 4 1 Connecticut Avenue, Kensington, Maryland. Is that right?
+CALLER: Correct. Correct.
+AGENT: Great, thank you for confirming. Where would your customer like to go from there?
+CALLER: Wrong.
+AGENT: I’m sorry for the confusion. Could you please clarify the correct pickup address again?
+CALLER: 1051 Connecticut Avenue, Kensington, Maryland.
+AGENT: Alright, how would you like to pay for this ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: I found a few locations.  
+Option one: 4 2 6 5 Howard Avenue, Kensington, Maryland.  
+Option two: 1 0 9 0 1 Connecticut Avenue, Suite 3 0 0, Kensington, Maryland.  
+Option three: 1 0 9 0 1 Connecticut Avenue, Suite 1 0 0, Kensington, Maryland.  
+Option four: 1 0 5 1 6 Connecticut Avenue, Kensington, Maryland.  
+Option five: 1 0 5 3 2 Connecticut Avenue, Kensington, Maryland.  
+Which one is correct? <emotion value="hesitant"/>
+CALLER: To where you need to be.
+AGENT: Could you please provide the destination address or location where you would like to go? <emotion value="peaceful"/>
+CALLER: Wheaton Metro. Metro.
+AGENT: I found a few locations.  
+Option one: 2 4 1 2 to 2 4 1 8 University Boulevard West, Silver Spring, Maryland.  
+Option two: 1 1 1 7 1 Georgia Avenue, Silver Spring, Maryland.  
+Option three: 2 3 1 2 to 2 3 9 8 Reedie Drive, Silver Spring, Maryland.  
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Never mind, please, dear. Does we drive? In that area? You know, Michael, if if I just call my wife.
+AGENT: I understand, and yes, we do provide rides in that area. If

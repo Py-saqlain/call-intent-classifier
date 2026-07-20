@@ -1,0 +1,16 @@
+AGENT: Hello BARROW,JAMES, this is Ana from Barwood & Regency. The driver is at your location now. How can I assist you today?
+CALLER: So yeah. I'll come back on my own. Okay.
+AGENT: May I ask if there is anything else I can assist you with today?
+CALLER: Be this way. Yeah. If it's gonna
+AGENT: Could you please let me know if you need help with booking a ride, checking a trip status, or connecting to a representative? I'm here to assist you.
+CALLER: seems like it's gonna be sporadic storms for the next for almost the whole week. Agent.
+AGENT: If you need to schedule or adjust a ride because of the weather, I can help with that. Would you like to book a trip or check on an existing one?
+CALLER: Check on existing one.
+AGENT: You have two active trips today. The first trip at 1:45 pm was marked as no-show. Your next trip is scheduled for 3:15 pm from 1398 Lamberton Drive to 14401 Gunstock Court. Would you like any more details or assistance with these trips?
+CALLER: Yes.
+AGENT: What specific information or help would you like regarding your trips?
+CALLER: Cancel second trip.
+AGENT: I’m unable to cancel trips directly, but I can connect you with a representative who can assist with canceling your second trip. Would you like me to do that for you?
+CALLER: Yes.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Automated system.

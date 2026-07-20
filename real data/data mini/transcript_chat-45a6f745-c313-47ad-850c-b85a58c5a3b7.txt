@@ -1,0 +1,14 @@
+AGENT: Hi Vivi, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a ride from Suburban House to my house. Thank you.
+AGENT: I have your home address as 10810 Connecticut Avenue, Kensington, Maryland. To confirm, you want a ride from Suburban House to 10810 Connecticut Avenue, Kensington, Maryland. Is that correct?
+AGENT: Thank you for sharing your trip details. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: What are you talking about? Let me talk no.
+AGENT: I’m here to help whenever you’re ready. Just let me know how you’d like to pay for your ride when you’re ready.
+CALLER: Oh god. That
+AGENT: If you’d like, I can connect you to a live agent who can assist you further. Would you like me to do that?
+CALLER: I need to speak.
+CALLER: I get home. You're talking to somebody now? I'm trying to get a ride home. I don't know how I'm gonna get home. I came with an ambulance.
+AGENT: I understand you need a ride home. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Doorhouse, meet up.
+AGENT: Could you please clarify your payment method for the ride? We accept cash, credit card, and Call and Ride.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

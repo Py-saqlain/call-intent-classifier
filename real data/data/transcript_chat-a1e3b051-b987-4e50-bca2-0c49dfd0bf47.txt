@@ -1,0 +1,44 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Yeah. What I'm trying is this taxi place?
+AGENT: Yes, you reached Barwood & Regency. Could you please
+CALLER: Is this a taxi place? Oh, okay. I was just wondering, you guys served the Severing area? Severing, Maryland?
+AGENT: Yes, Barwood & Regency does serve the Severing area in Maryland. May I have your name so I can assist you with
+CALLER: Severin okay. No. I just wanna get a I'm trying to get a price going to some Severin to Edgewood, Maryland.
+AGENT: I can help with that, but first I need your name to set up your profile. Could you please tell me your name?
+CALLER: Can you give me a price on
+AGENT: I’m here to help with your ride, but first I need your name to find or create your
+CALLER: Name is Charles.
+AGENT: Thanks, Charles. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yeah. I was just trying to get a price from Severn, Maryland to Edgewood, Maryland.
+AGENT: Uhh, I can help you book a ride from Severn, Maryland to Edgewood, Maryland. However, I don’t have the ability to provide prices directly. Would you like me to start the booking process for you? <emotion value="peaceful"/>
+AGENT: Alright, Charles, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: It's not a
+AGENT: Hmmm.. that didn't seem right, could you try again? How would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: I won't be till September. But I'm trying to get a price on it. That's all. Approximately.
+AGENT: I understand you're looking for an approximate price for a ride from Severn to Edgewood in September. I don't have the ability to provide price estimates directly. If you'd like, I can help you book the ride now or closer to
+CALLER: Yes.
+AGENT: Alright, Charles, how would you like to pay for your ride when the time comes? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Oh, credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+CALLER: Yeah. I'm I'm not sure, man. Is that what date it's gonna be. But it's definitely gonna be sometime early September after Labor Day.
+AGENT: Okay, so I found one location for pickup:
+CALLER: Just trying to get a price on it. That's what I'm trying to get. Like, 37 more. It's, like,
+AGENT: I understand you're looking for a price estimate, but I’m here to help with addresses right now. Let’s continue with your pickup
+CALLER: It's like 37 miles from up in it.
+AGENT: Got it. Let's continue with confirming your pickup address first. The pickup location I found is Severn, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Severn, Maryland. Yeah.
+AGENT: I found one location for your dropoff: Edgewood, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I'm not sure yet. I don't know exactly what day it's gonna be yet. It's gonna be after Labor Day. But I'm gonna give you the address to that word? When I call you back, I'm gonna give you the address where I want you to pick this person up.
+AGENT: That's perfectly fine. When you know the exact day and time after Labor Day, just give us a call back with the details and the pickup address. For now, could you please tell me how many passengers will be traveling? <emotion value="peaceful"/>
+CALLER: One one person.
+AGENT: Okay, I understand you mean one passenger. How many wheelchairs will be traveling with you, if any? <emotion value="peaceful"/>
+CALLER: That what that is it. Just one.
+AGENT: Alright, I've noted one passenger and no wheelchairs. <emotion value="grateful"/> Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No. Not really. I'm just trying to get a price on that's what I need to know. So I don't know exactly what I I can pay on my credit card, but I was saying, I didn't know if I could do that or not. Most people have want to pay cash. You know? But I would like to get a price on on the credit card, or I can just call back and September and then you give me the price on the credit card?
+AGENT: I understand you're looking for a price estimate for your ride to help decide on payment. I don't have the ability to provide price quotes directly. You can call back in September with your exact details, and we'll assist you with booking and payment options then. Meanwhile, I've recorded one passenger and no special instructions for your trip. Is there anything else I can help you with right now? <emotion value="peaceful"/>
+CALLER: Alright. Thank you.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I'm not sure what day it's gonna be. I mean, I'll let you know on it. Alright. Thank you.

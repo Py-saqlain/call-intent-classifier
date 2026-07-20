@@ -1,0 +1,49 @@
+AGENT: Hi Karen, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a taxi for Monday morning
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card?
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: To get started, could you please tell me the pickup address for your ride on Monday morning? <emotion value="peaceful"/>
+CALLER: One nine zero one three High Stream h I g h s t r e a m Drive, in Germantown,
+AGENT: Okay, so I have your pickup as one nine zero one three Highstream Drive,
+CALLER: Maryland
+AGENT: Germantown, Maryland, is that correct? Please say yes if it is. <emotion value="peaceful"/>
+CALLER: No. No.
+AGENT: Okay, I understand. Could you please provide the correct city or any additional details for the pickup address? <emotion value="apologetic"/>
+CALLER: The correct street is one nine zero one three High Stream Drive.
+AGENT: Okay, so I have your pickup as one nine zero one three
+CALLER: And that's in Germantown.
+AGENT: Germantown, is that correct? Please say yes if it is. <emotion
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address for your ride on Monday morning? <emotion value="peaceful"/>
+CALLER: One zero one Monroe Street,
+CALLER: in Rockville, Maryland,
+AGENT: Okay, so I have your dropoff as one zero one Monroe Street, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Karen. <emotion value="peaceful"/>
+AGENT: You mentioned Monday morning for your pickup time. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time set for tomorrow at 9:00 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many
+CALLER: No. No. No.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. You said no to the number of passengers? Could you please tell me how many passengers
+CALLER: The time is that's not the no. The time is wrong.
+AGENT: Thanks for clarifying. You said the pickup time I noted is wrong. Could you please tell me the exact time on Monday morning you would like to
+CALLER: Yes.
+AGENT: Could you please tell me the exact time on Monday morning you would like to be picked up? <emotion value="peaceful"/>
+CALLER: 07:00.
+AGENT: Thanks for that. Since you said 7:00 without AM or PM, I want to confirm: Did you mean 7:00 AM on Monday morning? <emotion value="peaceful"/>
+CALLER: AM.
+AGENT: Okay great! I've got your pickup time set for tomorrow at 7:00 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a
+CALLER: Yes. One God.
+AGENT: Okay great! I've noted 1 passenger and 1 wheelchair. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No. No wheelchair.
+AGENT: Thanks for letting me know there is no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 34.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I understand you do not want to schedule a return trip. I will proceed with booking your one-way trip. Just to confirm, should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so <break time="250ms"/> I'm booking your trip now.
+AGENT: Your main trip is scheduled for tomorrow at 7:00 AM. Your confirmation number is 2 1 3 6 7 5 2 4 4. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Karen. Have a wonderful day!

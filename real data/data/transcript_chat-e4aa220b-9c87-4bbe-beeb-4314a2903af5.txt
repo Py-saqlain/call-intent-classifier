@@ -1,0 +1,26 @@
+AGENT: Hello Sahar, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Alice. This is the new our wedding week. How can I help you? Yes. Can I make a reservation for Sunday? I need to be picked up from five three five five Road in Batista, Maryland. And I want to be dropped at 12800 Middlebrook Road in Germantown, Maryland.
+AGENT: Thank you for sharing your pickup and dropoff details for Sunday. How would you like to pay for your ride? We
+CALLER: I'll be paying this credit card for this check.
+AGENT: Thank you, your payment by credit card is all set.
+CALLER: I will save his credit card.
+AGENT: Just to confirm, your pickup address is 5 3 5 5 Huntingtown Road, Huntingtown, Maryland, and your dropoff address is 1 2 8 0 0 Middlebrook Road, Germantown, Maryland. Is that correct?
+CALLER: The pickup address is the the pickup address is five
+AGENT: I want to make sure I understand correctly. Could you please repeat the full pickup address for me?
+CALLER: The pickup address is my home. Pickup address is my home.
+CALLER: Pickup address is my home.
+AGENT: Just to confirm, your pickup address is 8 7 0 0 Snouffer School Road, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified, Sahar. I will now proceed with your reservation.
+AGENT: What time on Sunday would you like to be picked up?
+CALLER: Can you repeat it?
+AGENT: What time on Sunday would you like to be picked up?
+CALLER: I need to be picked up at 2PM.
+AGENT: I've noted your pickup time as Sunday at 2 PM. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger and no wheelchair and no instructions for the
+AGENT: The estimated fare for your trip is 22 dollars, and you will be paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No retention.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for Sunday, July 19th at 2 PM. Your confirmation number is 2 1 3 6 7 9 3 6 6. Is there anything else I can assist you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Sahar. Have a wonderful day!

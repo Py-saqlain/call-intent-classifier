@@ -1,0 +1,11 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Patricia. Mark.
+AGENT: Thank you, Patricia. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Your firmware? Where are you from?
+AGENT: I'm here to assist you with your transportation needs for Barwood Cab and Regency Taxi in the Montgomery County, DC, and Northern Virginia area. How can I assist you with your ride today?
+CALLER: Okay. I'm getting a call that my ride is out outside. It's scheduled for 02:45. And I'm heading out right now. So it'll take me about maybe at least three to five minutes to get to the fund there.
+AGENT: Thank you for letting me know. Since your ride is already on its way and scheduled for 2:45 pm, I want to make sure everything is set for your pickup. Is there anything else you need help with regarding this trip?
+CALLER: Yes, please. I have a room later walker. And I need a van with a lift It's what I asked for. Is that a a big cab or a small cab, or could I do they have door to door assistance? You there?
+AGENT: I’m here. For a rider who needs a van with a lift and door-to-door assistance, we typically provide a wheelchair-accessible vehicle, which is larger than a regular cab to accommodate the lift and mobility needs. I can help you confirm your ride includes these features. Would you like me to check or update your booking to ensure the van with a lift and door-to-door assistance is arranged?
+CALLER: Yeah.
+AGENT: I'm connecting you now to a customer service representative who can assist you further with your van and lift request. Please stay on the line.

@@ -1,0 +1,30 @@
+AGENT: Hi Kelly, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like a call and ride tech
+AGENT: Alright, how would you like to pay with Call and Ride? Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three four four seven nine three.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 3610 Pier 3 Court, in Aspen Hill.
+AGENT: Okay, so I found your pickup address as three six one zero Pear Tree Court, Aspen Hill, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 13781 Connecticut Ave. Giant and Hill.
+AGENT: I found your dropoff address as one three seven eight one Connecticut Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified. Thank you, Kelly. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now.
+AGENT: Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Yep. One. And a regular sedan is fine.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 7 dollars, paying with Call And Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Not sure what time I'm coming back.
+AGENT: That's perfectly fine. Would you like to set up a will-call return trip instead, so you can call us when you're ready for the ride back? Or would you prefer to decide about the return trip later? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay, your return trip will be a will-call, picking up at 13781 Connecticut Avenue and going back to 3610 Pear Tree Court. The estimated fare for the return trip is 7 dollars, paying with Call And Ride. Should I go ahead and book both trips now? <emotion value="peaceful"/>
+CALLER: Yep. I I'll call when I'm ready to come back home.
+AGENT: Your main trip is scheduled for today at 1:20 PM with confirmation number 2 1 3 6 7 5 8 6 4. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 5 8 6 5. You can call us when you're ready for the return ride, and a driver will be sent to your pickup location. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Kelly. Have a wonderful day!
+CALLER: Yep. Thank you.

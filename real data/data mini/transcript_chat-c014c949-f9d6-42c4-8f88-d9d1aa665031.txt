@@ -1,0 +1,11 @@
+CALLER: Leaving early, so I didn't know we're gonna leave early. So You know what time is to leave early? I didn't know we were leaving early, so I'm calling for them to pick me up. That's the right. I don't have to be early. Yes. Yeah. Did you get that? Mhmm. I got that. I'm I'm waiting. Mhmm. Always. I didn't wanna go outside and sit in all of that hoop. But that's when you're I'm wait I'm waiting now for them to tell me when they're coming. So I don't know. Sitting on that sheet outside. Okay. So when are you gonna do for the holiday?
+AGENT: I understand you're waiting to be picked up and want to know when the driver will arrive. Let me connect you to the trip status team who can provide the exact pickup time and update on your ride. One moment,
+CALLER: Yes. Okay.
+CALLER: Yes.
+AGENT: You don't have an active trip scheduled right now. Would you like me to help you book a ride?
+CALLER: Yes.
+AGENT: Thank you for confirming. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Well, I had I had an interaction I have money in my Metro access.
+AGENT: I appreciate you letting me know. For this service, we only accept cash, credit card, or Call and Ride. Would you like to use one of these payment methods instead? If you need help with other options, I can connect you to a live agent.
+CALLER: Even think that Is this metro access? Is this Metro Access?
+AGENT: Metro Access is a separate service, and we don’t handle that here. For this ride, you can pay with cash, credit card, or Call and Ride. Would you like to choose one of those

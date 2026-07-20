@@ -1,0 +1,16 @@
+AGENT: Hello Izabella, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I have a question.
+AGENT: Of course, I'm here to help. What question do you have?
+CALLER: Can I speak to my
+AGENT: I can connect you to a live agent who can assist you further. Let me do that for you now.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Yeah?
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: Can you check appoint ID for 201741?
+AGENT: I can check that appointment ID for you. I'll get the details right now.
+AGENT: I don't see any active trips with that appointment ID. Would you like help booking a new ride?
+CALLER: Can I speak somebody?
+CALLER: Hello?
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: Transfer.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

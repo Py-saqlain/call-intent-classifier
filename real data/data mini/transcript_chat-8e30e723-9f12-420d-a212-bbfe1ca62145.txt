@@ -1,0 +1,8 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Jessica Keysar?
+CALLER: Agent
+AGENT: Yes, I’m here to help. Is this Jessica Keysar I’m speaking with?
+CALLER: agent. Agent agent Agent. Agent. Agent.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,49 @@
+AGENT: Hello BRYAN, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi.
+AGENT: Thank you for reaching out. How would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Great, I have your payment method as cash.
+AGENT: Could you please tell me the pickup address for your taxi ride?
+CALLER: Walmart, Germantown, Walmart Germantown
+AGENT: I found Walmart Supercenter at 2 0 9 1 0 Frederick Road, Germantown, Maryland. Is that the correct pickup location?
+CALLER: Yes. It's the correct pickup location.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 13501 Dairy Glen Court, Apartment 101,
+AGENT: I found a similar address from recent trips: 1 3 5 0 1 Derry Glen Court, Germantown, Maryland. Is that the correct dropoff location?
+CALLER: Yes. Correct.
+AGENT: Your dropoff address has been verified, Bryan. I will now proceed with arranging your taxi ride.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: Thanks, I've noted your pickup time as soon as possible. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No. No. Nobody needs a wheelchair. Just one pass passenger.
+AGENT: Thank you, I have recorded one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No. I don't.
+AGENT: The estimated fare for your trip is 12 dollars, and you will be paying with cash. Would you like to schedule a return trip as well?
+CALLER: You see me? Hey. Can you take this? No. No. No. No. This Walmart to the for the grid.
+AGENT: I want to make sure I understand your pickup and dropoff locations correctly. Could you please confirm the full pickup address and the full dropoff address for your trip?
+CALLER: Yes, sir.
+AGENT: Thank you. To make sure I have it right, could you please tell me the exact pickup address and the exact dropoff address you want for this trip?
+CALLER: Frederick Road, Walmart I mean, Walmart, Germantown,
+AGENT: Thanks for that. Could you please provide the street number for the Walmart on Frederick Road in Germantown? This will help me locate the exact pickup address.
+CALLER: Walmart, Maryland Walmart, Maryland and yeah. Yeah. Yes. Yes.
+AGENT: To make sure I have the right address, could you please tell me the street number for the Walmart on Frederick Road in Germantown, Maryland?
+CALLER: I'm not for sure.
+AGENT: No problem. Since you're not sure of the street number, I can help you find the correct address. Would you like me to look up the Walmart on Frederick Road in Germantown, Maryland for your pickup location?
+CALLER: Yes. Yes. Yes. Yes. Yes.
+AGENT: Thank you. I'll look up the Walmart on Frederick Road in Germantown, Maryland for your pickup address. Now, could you please tell me the dropoff address or location where you'd like to go from there?
+CALLER: 13501 Dairy Glen Court,
+AGENT: Just to confirm, is the dropoff address 1 3 5 0 1 Derry Glen Court? And could you please tell me the city and state for that address?
+CALLER: Germ germantown maryland
+AGENT: Thank you for confirming. Your dropoff address is 1 3 5 0 1 Derry Glen Court, Germantown, Maryland. Now, when would you like to be picked up from Walmart on Frederick Road?
+CALLER: Yes.
+AGENT: Thank you. Just to confirm, you would like to be picked up from Walmart on Frederick Road in Germantown, Maryland, and dropped off at 1 3 5 0 1 Derry Glen Court, Germantown, Maryland. When would you like the pickup time to be?
+CALLER: As soon as possible or as soon as a a tax is available.
+AGENT: Got it, you want to be picked up as soon as a taxi is available. Is that correct?
+CALLER: Yes
+AGENT: Thank you for confirming. I will proceed with that. Now, just to confirm, you want to pay with cash, one passenger, no wheelchair needed, pickup from Walmart on Frederick Road in Germantown, Maryland, dropoff at 1 3 5 0 1 Derry Glen Court, Germantown, Maryland, and pickup as soon as possible. Is all that correct?
+CALLER: Yeah. Yes. Correct.
+AGENT: Thank you for confirming all the details. I will now proceed with booking your trip.
+AGENT: Your main trip is scheduled for today at 3:07 PM. The confirmation number is 2 1 3 6 6 3 6 8 3. Is there anything else I can assist you with?
+CALLER: Have the taxi to have taxi call me.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: You you make me throw up off your supply on your feet.

@@ -1,0 +1,17 @@
+AGENT: Hello Kenneth, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Pickup one representative.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Repeat.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: You can help.
+AGENT: How can I assist you with your ride today?
+CALLER: Trying to get update on the ride.
+AGENT: I’ll check the status of your ride for you right now.
+AGENT: You don't have any active trips scheduled right now. Would you like me to help you book a ride?
+CALLER: Yes.
+AGENT: Thank you for confirming. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: No. Representative. Representative.
+CALLER: Oh, Which one have another issue about?
+AGENT: I can help you with booking a ride if you'd like — shall we continue?
+CALLER: Alright.
+AGENT: Great! Where would you like to be picked up from?

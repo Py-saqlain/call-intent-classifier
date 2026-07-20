@@ -1,0 +1,9 @@
+AGENT: Hi Yodit, this is Ana with Barwood & Regency. How can I help you today?
+CALLER: Hi. The the stuff is coming So somebody is to cancel it. Can I open move? Can I activate, please? You please send the job to 11337, please? The customer is in the cab already. I need to move.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+CALLER: Hello? Get this job, ma'am. Yeah. It it it it it it it it's it's my job. I just got here when I put my pickup, and then they they they canceled it. Now the customer is waiting right here. Eleven three seven Is it is it just my job? What's your name again? Size. It's my job for glass.
+AGENT: Hmm <break time="300ms"/> I still don't see any active trips under your account, including one for pickup at 11337. Could you please confirm the confirmation number or any other details about the trip? <emotion value="hesitant"/>
+CALLER: That's said? The whiskey oh, oh, we we oh, A wheelchair. They they can't sell it. I don't have no details. They can sell it to you. I don't have no trace of it anymore. They can sell it. Let me see. Let me see. Oh, glad glad it's okay. Let me see. Hold on. I cannot open it now. I it's right there, but I cannot open it. Because I canceled it. And that is by customer request again. They cancel by customer request. That's what you call.
+AGENT: Ummm, <break time="200ms"/> it looks like that trip was already cancelled. Is there anything else I can help you with? <emotion value="apologative"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Oh, yeah. Because I

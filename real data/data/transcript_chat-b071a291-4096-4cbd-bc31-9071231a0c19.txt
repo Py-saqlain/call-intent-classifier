@@ -1,0 +1,33 @@
+AGENT: Hi Jim, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hannah, I need to set up a wheelchair van for tomorrow July the sixteenth.
+AGENT: Thank you for letting me know about the wheelchair van for tomorrow, July sixteenth. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: Could you please tell me the pickup address for your ride tomorrow?
+CALLER: Six four zero seven Offutt, o f f u t t, Road, Chevy Chase, Maryland.
+AGENT: I have the pickup address as six four zero seven Offutt Road, Chevy Chase, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address for your ride?
+CALLER: Suburban Hospital
+AGENT: I found Suburban Hospital at 8600 Old Georgetown Road, Bethesda, Maryland. Is that the correct dropoff location?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Jim. I will now proceed with arranging your ride.
+AGENT: You mentioned a pickup time of tomorrow, July sixteenth, and needing one wheelchair-accessible vehicle. Is that correct? Please say yes to confirm or let me know if any details need changing.
+CALLER: I need a I need also to get an open return at the end of tomorrow.
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. Is the pickup time and wheelchair count for the main trip correct as I mentioned?
+CALLER: Okay.
+AGENT: I see that you gave the date tomorrow, July sixteenth, but I need to know what time on that day you would like to be picked up. What time should I schedule for your pickup?
+CALLER: I need a wheelchair van at 08:30 in the morning.
+AGENT: Thank you, I have your pickup time set for tomorrow at 8:30 AM with one wheelchair. How many passengers will be traveling, including yourself?
+CALLER: 08:15. Stop.
+AGENT: I don't have the passenger count yet. How many passengers will be traveling, including yourself?
+CALLER: One. No. I'm I'm wrong. Two, the the wheelchair and me.
+AGENT: Jim, the estimated fare for your trip is 11.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: What Yes. I need an open return
+AGENT: Your return trip will be an open will-call, with pickup at 8600 Old Georgetown Road and dropoff at 6407 Offutt Road. The fare is also 11.5 dollars, paying with cash. Should I go ahead and book both trips for you?
+CALLER: Yes, please.
+AGENT: Thank you for waiting. I'm booking both your main trip for tomorrow at 8:15 AM and your open will-call return trip now. Please hold on a moment.
+AGENT: Your main trip is scheduled for tomorrow at 8:30 AM with confirmation number 2 1 3 6 7 8 4 4 6. Your return trip is an open will-call with confirmation number 2 1 3 6 7 8 4 4 7. Is there anything else I can help you with?
+CALLER: Yes. I need to change the pickup the pickup time to 08:15AM. Not 08:30.
+AGENT: I understand you'd like to change your pickup time to 8:15 AM instead of 8:30 AM. Trip modifications need to be handled by a live agent. Let me connect you with someone who can help.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

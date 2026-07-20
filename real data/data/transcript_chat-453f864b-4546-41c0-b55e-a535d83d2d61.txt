@@ -1,0 +1,29 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: I have a. I have have a ring wind.
+AGENT: I'm sorry, I didn't quite catch that. Could you please tell me your name again?
+CALLER: What please. I have a ring wind. I v o r I n e, ivoryne wint, double I n t.
+AGENT: Thank you for sharing your name, Ivoryne Wint. Let me save that for you.
+AGENT: Thank you, Ivoryne. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yeah. I like to book a to pay those so I'm.
+AGENT: Thank you for letting me know you'd like to book a trip. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Color red.
+AGENT: Did you mean Call and Ride for your payment method? If so, I can ask for the last six digits of your Call and Ride card.
+CALLER: Yes.
+AGENT: Great! Please provide the last six digits of your Call and Ride card when you're ready.
+CALLER: Yes. C four nine nine eight one eight.
+AGENT: Thank you, your payment with Call and Ride is all set.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 13013 Springbrook Parkway. 130313 Twinbrook Parkway. Apartment T 11 B.
+AGENT: I have 1 3 0 1 3 Twinbrook Parkway, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yeah. Yeah. Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Destination, Verizon. And Rockville Park. And after Verizon,
+AGENT: Thank you for the destination information. Just to clarify, is your dropoff address Verizon in Rockville Park, or are these two separate destinations?
+CALLER: What will pipe? Verizon what will pipe and then foodland.
+AGENT: It sounds like you want to go to Verizon, then to a place called "What Will Pipe," and then to Foodland. Could you please confirm if these are the correct destinations and if you want to make stops at all three? Also, please provide the full address or location details for "What Will Pipe" and Foodland if possible.
+CALLER: No. What? Two. Corn. No, Bad. Please put me on to a live operator.
+CALLER: Hello. Hello?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Hello.
+AGENT: I’m
+CALLER: Okay.

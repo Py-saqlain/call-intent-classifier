@@ -1,0 +1,47 @@
+AGENT: Hello CHAP, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to arrange for a wheelchair van for tomorrow morning.
+AGENT: Alright, how would you like to pay for your ride tomorrow morning? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: To get started, may I have the pickup address for your ride tomorrow morning? <emotion value="peaceful"/>
+CALLER: One nine three one zero Clubhouse Road, Montgomery Village, Maryland two zero eight eight six.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, <break time="300ms"/> so I found that location as 1 9 3 1 0 Club House Road, Montgomery Village, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the dropoff address? <emotion value="peaceful"/>
+CALLER: Nine seven zero seven Medical Center Drive, Rockville, Maryland two zero eight five zero
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, <break time="300ms"/> so I found that location as 9 7 0 7 Medical Center Drive, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified.
+AGENT: Just to confirm, you would like a pickup tomorrow morning and need a wheelchair-accessible van with one wheelchair, is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time for tomorrow morning and one wheelchair noted. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself?
+CALLER: Two.
+AGENT: Okay great! I've got two passengers and one wheelchair noted. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: It's one passenger and one wheelchair.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. I've updated your passenger count to one and kept one wheelchair. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 21 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Not yet.
+AGENT: Okay, no problem. If you decide later that you want to schedule a return trip, just let me know. Meanwhile, should I go ahead and book your main trip now? <emotion value="peaceful"/>
+CALLER: What time do you have the pickup? For tomorrow? July seventh I mean, July 10.
+AGENT: Your pickup time is scheduled for 9:18 am tomorrow, July 10th. Would you like to proceed with booking this trip now? <emotion value="peaceful"/>
+CALLER: I'd like the pickup time to be 8AM. On July 10.
+AGENT: Just to confirm, should I change the pickup time for your main trip to 8 am on July 10th? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay, just to be sure, you want your pickup time changed to 8 AM tomorrow, July 10th, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup time has been updated to 8 AM on July 10th. <emotion value="grateful"/> Is there anything else I can assist you with regarding your trip?
+AGENT: Alright, the estimated fare is 21 dollars, paying with Credit Card. Would
+CALLER: No.
+AGENT: Just to confirm, you do not want to book this trip now, and no trips will be booked, is that right? <emotion value="peaceful"/>
+CALLER: I do want to book the trip at 8AM tomorrow morning
+AGENT: Thank you for confirming. I am processing your booking now for 8 AM tomorrow morning. Please hold on a moment.
+AGENT: Your trip is booked for tomorrow at 8 AM. Your confirmation number is 2 1 3 6 7 1 7 4 6. Is there anything else I can help you with?
+CALLER: Would you repeat that number, please?
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 1 7 4 6. Is there anything else I can assist you with?
+CALLER: Would you confirm that it's for a wheelchair van?
+AGENT: Yes, your booking includes one wheelchair passenger, so a wheelchair-accessible van will be provided. Is there anything else you would like to check or arrange?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, CHAP. Have a wonderful day.

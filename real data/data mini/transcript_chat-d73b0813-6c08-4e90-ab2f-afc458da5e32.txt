@@ -1,0 +1,19 @@
+AGENT: Hi Jennifer, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Return trip.
+AGENT: Got it, I'll arrange the return trip once your main trip is set up. Alright, how would you like to pay? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card. No. I
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: can't Representative. A representative
+AGENT: I'll connect you to a live agent who can assist you further.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Oh, we're ready.
+AGENT: Okay, so your pickup address is 1 Mountain Laurel Court, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: What? Cancel. Cancel. Cancel. Cancel. Cancel.
+AGENT: Just to confirm, you want to cancel your entire booking and no trips will be scheduled?
+CALLER: Stop.
+AGENT: Just to confirm, you want to cancel your entire booking and no trips will be scheduled?
+CALLER: Yes.
+AGENT: Your booking has been canceled. Is there anything else I can help you with today? <emotion value="peaceful"/>
+CALLER: Representative
+CALLER: Hello? Hello?

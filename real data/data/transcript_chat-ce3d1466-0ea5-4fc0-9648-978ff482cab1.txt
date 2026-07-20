@@ -1,0 +1,36 @@
+AGENT: Hello Herb, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to schedule a cab for tomorrow.
+AGENT: Thank you for letting me know you need a cab for tomorrow. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: Could you please tell me the pickup address for your ride tomorrow?
+CALLER: Sure. 21000 Father Hurley Boulevard, in Germantown, Maryland.
+AGENT: I have 2 1 0 0 0 Father Hurley Boulevard, Germantown, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address for your ride?
+CALLER: It will be a round trip and I'm going to the Giant Food store the Middlebrook Shopping Center.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Now, could you please provide the full address for the Giant Food store at the Middlebrook Shopping Center?
+CALLER: I I don't have it.
+AGENT: No problem. Could you please tell me the city or area where the Middlebrook Shopping Center is located? That will help me find the right Giant Food store for you.
+CALLER: It's in Germantown, Maryland and it's off of Middlebrook Road.
+AGENT: I found Giant Food at 1 3 0 6 0
+CALLER: Or Middlebrook Brook Drive.
+AGENT: Just to confirm, is the Giant Food store located at 1 3 0 6 0 Middlebrook Road in Germantown, Maryland the correct dropoff address for your ride?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Herb. I will now proceed with arranging your ride.
+AGENT: What time tomorrow would you like to be picked up?
+CALLER: Eleven. AM
+AGENT: I have your pickup time set for tomorrow at 11:00 AM. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Just one and I have my own walker.
+AGENT: The estimated fare for your ride tomorrow at 11:00 AM is 6 dollars, paying with cash. You mentioned you'd like a return trip — would you still like me to set that up?
+CALLER: Yes.
+AGENT: For your return trip, what time would you like to be picked up?
+CALLER: But I wanted I wanted the round trip
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. For your return trip, what time would you
+CALLER: around the
+AGENT: Could you please tell me the specific time you would like for your return trip pickup?
+CALLER: I want the same tab to wait for me and then do a reach around trip back
+AGENT: Thank you for
+CALLER: The original address
+AGENT: I'm processing your main trip
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

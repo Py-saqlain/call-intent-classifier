@@ -1,0 +1,19 @@
+AGENT: Hi Cathy, this is Ana with Barwood & Regency. Vehicle 1187 is on the way and should arrive around 4:16 pm. How can I assist you today?
+CALLER: Okay. So you said eleven o so you said a four seven four seventeen? The 1107417. Right?
+AGENT: Uhh, I want to make sure I understand correctly. Are you referring to a confirmation number or something else? Could you please clarify what the number 1107417 is related to? <emotion value="hesitant"/>
+CALLER: Yeah. No. What what what what
+AGENT: Okay, no problem. Could you please tell me what you need help with or what you'd like to do today? <emotion value="peaceful"/>
+CALLER: Okay. Yeah. Okay. That's what I wanna do. Left a four one. Four one seven eleven o seven. Okay. Thank you so much.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today? <emotion value="grateful"/>
+CALLER: No. No. No. No. No. No. No. No. No. No. No. Okay. No. This will No. No. You you said 473, so I'm I'm here already. 473. Then you said the the card number 1107. Thank you so much. Thank you so much. I'm I'm I'm right here later. I'm right here later. Don't cancel. I'm right here later. Thank you so much.
+AGENT: Alright, I understand you are already there and do not want to cancel. If you need anything else or want to confirm your trip details, just let me know. Is there anything else I can assist you with? <emotion value="peaceful"/>
+CALLER: Right. Right. Yes. Yes.
+AGENT: Okay, so your driver is about 9 minutes away from picking you up at 1 3 1 9 Apple Avenue. The vehicle number is 1 1 8 7. Anything else I can check for you? <emotion value="content"/>
+CALLER: Thirteen nineteen Avenue going to thirteen Okay. Okay.
+AGENT: Just to confirm, your pickup is at 1 3 1 9 Apple Avenue, and your drop-off is at 1 3 1 0 East-West Highway, correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes. Uh-huh. And you said his number 11871187?
+AGENT: The vehicle number is 1 1 8 7, not 1 1 8 7 1 1 8 7. Is there anything else you'd like to know? <emotion value="peaceful"/>
+CALLER: Okay. I okay. Okay. No. That's it. Thank you so much. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Cathy. Have a wonderful day!
+CALLER: Bye.
+AGENT: Thank you for calling

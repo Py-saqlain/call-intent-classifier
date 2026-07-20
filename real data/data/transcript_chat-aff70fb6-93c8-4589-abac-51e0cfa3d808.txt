@@ -1,0 +1,49 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Philimina?
+CALLER: Yeah.
+AGENT: Thanks for confirming, Philimina. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I need to book a trip right now. I'm trying to go to Germantown.
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Alright.
+AGENT: Hmmm.. that didn't seem like a payment method. Could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: I'm sicker.
+AGENT: I want to make sure I understand you correctly. Did you mean to say "cash" as your payment method? <emotion value="hesitant"/>
+CALLER: Kyle, I'm right. No. Call on right. Call on right.
+AGENT: Just to confirm, did you mean Call and Ride as your payment method? <emotion value="hesitant"/>
+CALLER: Yeah.
+AGENT: Okay, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Turn to zero six two nine.
+AGENT: Thank you for that. Just to confirm, the last six digits you provided are 0 6 2 9? Could you please repeat to make sure I have all six digits? <emotion value="hesitant"/>
+CALLER: If three, two six zero six
+AGENT: Thank you for the digits. Just to confirm, the last six digits of your Call and Ride card are 3 2 6 0 6? Could you please repeat to make sure I have all six digits correctly? <emotion value="hesitant"/>
+CALLER: No. No. No. No. That's wrong. If three two. Zero six two nine
+AGENT: Thanks for clarifying. Just to be sure, the last six digits are 3 2 0 6 2 9, is that correct? <emotion value="hesitant"/>
+CALLER: Yeah. Yeah.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: It's something what the street can get us work.
+AGENT: Uh, I am sorry, but could you please repeat the pickup street address? <emotion value="hesitant"/>
+CALLER: 17 watts treating gita's blood.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found your pickup address as 1 7 Water Street, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah. Maryland. Yeah. And I'm going to force chemical one in Germantown.
+AGENT: I found a few locations for Germantown. 
+Option one: 7 6 3 4 Airpark Road, Gaithersburg. 
+Option two: 1 9 8 2 5 Blunt Road, Germantown. 
+Option three: 1 9 7 7 3 Frederick Road, Germantown. 
+Option four: 1 9 5 9 0 Frederick Road, Germantown. 
+Option five: 1 9 7 7 7 Frederick Road, Germantown. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Yeah. No. Yes. One.
+AGENT: Your dropoff address has been verified. Your pickup address has also been verified. Thank you, Philimina.
+AGENT: Just to confirm, you would like to be picked up now, correct? <emotion value="peaceful"/>
+CALLER: Where I'm going? Where I'm going? Let me yeah. Yes. And I want to return ship to come back home at 08:00.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Now, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: one. Let me let me hear where the address I'm going to.
+AGENT: Your main trip dropoff address is 7634 Airpark Road, Gaithersburg, Maryland. Now, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: No. No. No. No. That's fine. That's wrong.
+AGENT: Sure, let me update that address.
+AGENT: Uh, I am sorry, but I didn't find any location matching that. Could you please provide the full dropoff address again? <emotion value="apologetic"/>
+CALLER: Oh, jeez. That's wrong. That's wrong. You send a cup Seneca Court. Yeah. It's for a clinic
+AGENT: Uh, I am sorry, but could you please provide the full street number and street name for the dropoff address? If you only know the street name, just let me know and I can help find it. <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Okay. For Seneca Oh, Yes. Please do that.

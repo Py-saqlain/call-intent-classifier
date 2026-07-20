@@ -1,0 +1,32 @@
+AGENT: Hello Ayan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I like to get a taxi.
+AGENT: Alright, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Fourteen five three five Macbeth. Drive, Silver Spring,
+AGENT: Okay, so your pickup address is one four five three five Macbeth Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Maryland
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please tell me the address where you would like to be dropped off? <emotion value="peaceful"/>
+CALLER: Three seven
+AGENT: Uh, I am sorry, but could you please provide the full dropoff address including the street name and city? Just the number three seven is not enough to locate it. <emotion value="apologetic"/>
+CALLER: three seven zero one International Drive.
+AGENT: Okay, so your dropoff address is three seven zero one International Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: 3701 International Drive,
+AGENT: Your dropoff address has been verified, Ayan.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Your pickup address is 14535 Macbeth Drive, Silver Spring, Maryland. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Just one and no. One passenger. No wheelchair.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. When would you like to be picked up? <emotion value="hesitant"/>
+AGENT: I seem to have trouble retrieving the pickup time right now. Let's try again: When would you like to be picked up? <emotion value="hesitant"/>
+CALLER: Six
+AGENT: Alright, I understand you want to be picked up at 6. Let me confirm if you mean 6 AM or 6 PM. Could you please specify? <emotion value="peaceful"/>
+AGENT: The time you requested has already passed. When would you like to be picked up instead? <emotion value="hesitant"/>
+CALLER: $6.45. No. No.
+AGENT: I heard you mention cash payment. Now, when would you like to be picked up? <emotion value="peaceful"/>
+AGENT: I don't have your pickup time yet. When would you like to be picked up? <emotion value="peaceful"/>
+When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Six foot six forty five. Six six forty five.
+AGENT: Hmm <break time="300ms"/> I want to make sure I understand correctly. Are you trying to tell me a time for pickup, or something else? Could you please

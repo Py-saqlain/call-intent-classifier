@@ -1,0 +1,12 @@
+AGENT: Hello Ronald, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Well, I was wondering if you can still work? You still have cabs that go to the airport. We're in Potomac. Well, I don't know. Did my son already leave? Oh, we're in Potomac. Do you still have cabs that go to the airport?
+AGENT: Uhh, yes, we definitely still have cabs that go to the airport from Potomac. Are you looking to book a ride to the airport now, or would you like to check on a trip your son might have already booked? <emotion value="peaceful"/>
+AGENT: It looks like there isn't an active trip for your son right now. Would you like me to help you book a cab to the airport from Potomac? <emotion value="peaceful"/>
+CALLER: What did you say? There's an active thing for my son right now?
+AGENT: Uhh, no, I checked and there isn't an active trip for your son at the moment. Would you like help booking a ride to the airport instead? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, I found one location near Potomac: United States Postal Service at 1 0 2 2 1 River Road, Potomac, Maryland. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: Wait. I don't know. I think I can't do this because I don't know where he is right now. I I don't know where he is. I wanted to ask him about it. No. That's not what we are.
+AGENT: Uhh, I understand it can be tricky when you’re not sure where he is right now. I can’t contact the driver directly, but I can connect you with a representative who can help with any driver messages or

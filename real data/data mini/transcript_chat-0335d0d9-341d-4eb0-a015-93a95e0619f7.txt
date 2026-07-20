@@ -1,0 +1,17 @@
+AGENT: Thank you for calling Barwood & Regency. May I have your name or phone number to find your profile?
+CALLER: Lynn Toil.
+AGENT: Thanks, Lynn. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: So miss Lentoll is at 15225 Shady Grove Road and requesting for pickup.
+AGENT: Thank you for sharing the pickup
+CALLER: To her house to have she's requesting for pickup to go back home to 2912 back back three lane.
+AGENT: Thanks for the details about the pickup and dropoff locations. How would Miss Lentoll like to pay for this ride? We accept cash, credit card, and Call and Ride.
+CALLER: I have no idea. She just gave me this number to call for pickup, and she gave me a confirmation number as well.
+AGENT: I understand. If you have the confirmation number, you can use it when you call back to activate the ride. Meanwhile, could you please let me know how Miss Lentoll would prefer to pay when the ride is activated? That way, we can be ready to assist her smoothly.
+CALLER: I have no idea, so I have to ask her.
+AGENT: That’s perfectly fine. Please ask Miss Lentoll how she would like to pay—cash, credit card, or Call and Ride—and then let me know. I’ll be here to help you complete the booking whenever
+CALLER: Okay.
+AGENT: Whenever you’re ready, just let me know
+CALLER: I'll call back.
+AGENT: I will connect you to a live agent who can assist you further. Please hold for a moment.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Please, thank you.

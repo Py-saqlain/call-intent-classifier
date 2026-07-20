@@ -1,0 +1,11 @@
+AGENT: Hi Juliana, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Take all my trips tomorrow.
+AGENT: So you'd like to schedule all your trips for tomorrow? Could you please confirm if you want me to book rides for all your usual destinations tomorrow, or do you have specific trips in mind? Also, do you want to start with
+CALLER: No. No.
+AGENT: Okay, thanks for clarifying. What would you like to do with your trips tomorrow?
+CALLER: K.
+AGENT: Uhh, how can I assist you with your trips or rides today?
+CALLER: Check on schedule trips tomorrow.
+AGENT: You have two scheduled trips tomorrow: one pickup at 6:51 am from 1 1 5 0 6 Lockwood Drive to 9 0 1 Arcola Avenue, and another at 4:15 pm from 9 0 1 Arcola Avenue to 1 1 5 0 6 Lockwood Drive. Would you like any changes or more details?
+CALLER: Agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,15 @@
+AGENT: Hello Herbert, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?
+AGENT: Hi there! How can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Yes. I need a taxi at the Walmart on Germantown Road in Germantown?
+AGENT: Looks like you already have a trip from Germantown to Gaithersburg scheduled for last night at 10:41 pm. What would you like to do? <emotion value="grateful"/>
+CALLER: Oh, no. Say I guess that's Cedric. Let me look at the address. Wait a minute.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello? Okay. The order is 20910 Frederick Road, Germantown, Walmart. And I'm standing out front where the you know, I'm just standing out front. So wear the baskets and stuff for
+AGENT: You still have a trip from Germantown to Gaithersburg from last night at 10:41 pm. What would you like to do now? <emotion value="grateful"/>
+CALLER: Do you have any calves in the area? Achilles. You don't have any cash?
+AGENT: I can't check vehicle availability or cash on hand directly, but I can connect you with a representative who can assist you with that. Would you like me to do that? <emotion value="peaceful"/>
+CALLER: Yes. Let me speak to a representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Okay. Thank

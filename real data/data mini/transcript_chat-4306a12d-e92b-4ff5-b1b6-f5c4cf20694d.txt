@@ -1,0 +1,32 @@
+AGENT: Hi Eufemia, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a ride around 10:00.
+AGENT: Thanks for letting me know your pickup time around 10:00 am. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash Cash.
+AGENT: Thank you, I have your payment method as cash.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 1919 Stanley Avenue, Rockville.
+AGENT: I have your pickup address as one nine one nine Stanley Avenue, Rockville, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Eight five zero five white post court Potomac.
+AGENT: I have your dropoff address as eight five zero five White Post Court, Potomac, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Eufemia. I will now proceed with arranging your ride.
+AGENT: Just to confirm, you would like to be picked up today at 10:00 am, is that correct?
+CALLER: Yes.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Just myself.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 23 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: Okay. I'm sorry?
+AGENT: You can let me know if you'd like to schedule a return trip for after your ride, or if you prefer just the one-way trip. Would you like me to set up a return trip for you?
+CALLER: Yes. What?
+AGENT: Great! I'll start collecting the details for your return trip.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Oh, no. Just one way. One way.
+AGENT: Your one-way trip is scheduled for today at 10:00 am. Your confirmation number is 2 1 3 6 6 6 7 4 7. Is there anything else I can help you with?
+CALLER: That's it for today.
+AGENT: Thank you for calling Barwood & Regency, Eufemia. Have a wonderful day!
+CALLER: Thank you.
+AGENT: You're very welcome!

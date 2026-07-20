@@ -1,0 +1,27 @@
+AGENT: Hello Quincy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Speak to a representative.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Hey,
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: Book a reservation.
+AGENT: Let me get that set up for you right now.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: To start, may I have the pickup address for your ride, please? <emotion value="peaceful"/>
+CALLER: Fifty seven zero one. Maranelli Road.
+AGENT: Okay, so I found that location as 5 7 0 1 Marinelli Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct. Correct.
+AGENT: Your pickup address has been verified. Now, may I have the dropoff address? <emotion value="peaceful"/>
+CALLER: BWI Airport.
+AGENT: Is that Baltimore-Washington International Airport, arrivals or departures? <emotion value="peaceful"/>
+CALLER: Arrivals. Departures. Departures.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 12:30PM today.
+AGENT: Okay great! I've got your pickup time as today at 12:30 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Nope.
+AGENT: Okay, I've noted that no wheelchair-accessible vehicle is needed. <emotion value="grateful"/> How many passengers will be traveling, including yourself?
+CALLER: I wanna change the name of the passenger.
+AGENT: I understand you'd like to change the name of the passenger. Trip modifications need to be handled by a live agent. Let me connect you with someone who can help.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,61 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Maryland Goodman?
+CALLER: Yes.
+AGENT: Thanks for confirming, Maryland. This is Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Ready.
+AGENT: Great! Are you looking to book a new ride or do you need help with something else?
+CALLER: Booking to come and pick it up 5555 Wisconsin Avenue.
+AGENT: Thank you for that address. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: That's a cash.
+AGENT: Thank you, cash is all set for your ride.
+AGENT: I have 5 4 5 4 Wisconsin Avenue, Chevy Chase, Maryland as the dropoff address. Is that correct?
+CALLER: Hold on. They asked me if if I like did I have to give them the the did I have to tell them Yeah. Then ask I have the account number.
+AGENT: I want to make sure I understand you correctly. Are you asking if you need to provide an account number for the ride?
+CALLER: No. I have the account number.
+AGENT: Thank you for letting me know you have the account number. For now, let's continue with your ride details. Is the dropoff address at 5 4 5 4 Wisconsin Avenue, Chevy Chase, Maryland correct?
+CALLER: Pickup.
+AGENT: Thank you. Could you please provide the pickup address for your ride?
+CALLER: It's 5454 with Wisconsin Avenue.
+AGENT: Just to clarify, you said the pickup address is 5 4 5 4 Wisconsin Avenue, correct?
+CALLER: Correct. 5454 Wisconsin. Yes.
+AGENT: I have 5 4 5 4 Wisconsin Avenue, Chevy Chase, Maryland as the pickup address. Is that correct?
+CALLER: Yes, Frank. Correct.
+AGENT: The pickup and dropoff addresses cannot be the same. Could you please provide a different pickup address?
+CALLER: I know. I know. The dropoff is seventeen ninety nine east west. It's Jefferson Street. Rockville.
+AGENT: I have 1 7 9 9 East Jefferson Street, Rockville, Maryland as the dropoff address. Is that correct?
+CALLER: Right.
+AGENT: Your dropoff address has been verified. Now, could you please provide a different pickup address?
+CALLER: Correct.
+AGENT: Just to confirm, you want the pickup address to be different from the dropoff. Could you please tell me the pickup address you want to use?
+CALLER: No. Pickup. I mean, it's
+AGENT: Could you please provide the pickup address you want for your ride?
+CALLER: Fifty four.
+AGENT: Could you please provide the full pickup address including the street name and city? For example, the number and street name like "5454 Wisconsin Avenue, Chevy Chase, Maryland."
+CALLER: Fifty four fifty four Wisconsin Avenue.
+AGENT: I have 5 4 5 4 Wisconsin Avenue, Chevy Chase, Maryland as the pickup address. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified, Maryland. I will now proceed with the next steps.
+AGENT: When would you like to be picked up?
+CALLER: Okay. That might
+AGENT: Could you please tell me the time you would like to be picked up?
+CALLER: I say pick up. And now.
+AGENT: Got it, pickup is scheduled for now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: I said, yes. Wheelchair.
+AGENT: Thank you for letting me know about the wheelchair. How many passengers will be traveling in total?
+CALLER: And my custom and the car and my car too. When my uh, and I have a ID number.
+AGENT: The estimated fare for your trip from 5 4 5 4 Wisconsin Avenue to 1 7 9 9 East Jefferson Street is 23 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: My customer number is two five No. No.
+AGENT: Just to clarify, are you asking to update or provide your customer number for this trip, or is there something else you'd like to do?
+CALLER: No. No. No. No. Hold on. It was I have my telephone number. Custom number. Yes. I have to I have a custom number. It's two two five one eight three.
+AGENT: Thank you for sharing your customer number. Is there anything you would like me to do with that number for your booking, or should we continue with scheduling your trip?
+CALLER: Just to book in and continue to the trip. And I wanna know how much it's gonna be.
+AGENT: Thank you for your patience. I am processing your trip booking now.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 9 2 9 1. The pickup is today at 11:00 AM. The estimated fare is 23 dollars. Is there anything else I can assist you with?
+CALLER: Supposed to be $4.50. Yeah. How much is that gonna be?
+AGENT: The fare for your trip is 23 dollars as confirmed by the booking system. If you have any concerns or need further assistance, I can connect you with a representative. Would you like me to do that?
+CALLER: No. No. No. It's not gonna be $23. It's 4 fifth 50. It's $4.50. It's $4.50.
+AGENT: I understand you expect the fare to be 4 dollars and 50 cents, but the system shows 23 dollars for this trip. If you'd like, I can connect you with a representative who can look into this for you. Would you like me to do that?
+CALLER: Please. Yes. Please.
+CALLER: Yes please.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,36 @@
+AGENT: Hello lespia, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Thank you, Annie, for conversation with FX Okay. I I pick up on me seven three eight Lopez Road. Galesville.
+AGENT: Uhh, I want to make sure I got that right. Did you mean 7 3 8 Clopper Road in Gaithersburg for your pickup? <emotion value="hesitant"/>
+CALLER: Hey there. Uh-huh. We go. Yes. I'm going eight eight zero Rooster Avenue in Gaithersburg in Coast
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Colon, right, honey.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Three four. Five nine zero seven.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Okay, so I have your pickup as 7 3 8 Clopper Road, Gaithersburg, Maryland, and your dropoff as 8 8 0 Russell Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes, honey.
+AGENT: Your pickup and dropoff addresses have been verified, Lespia.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Okay. Okay. Thanks. Okay, heaven. What time for pickup for me, honey?
+AGENT: Could you please tell me the time you would like to be picked up? <emotion value="peaceful"/>
+CALLER: Yes, please.
+AGENT: I want to make sure I understand correctly—what time would you like your pickup to be? <emotion value="hesitant"/>
+CALLER: Okay. What time?
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Uh-huh. Okay.
+AGENT: I didn't catch the time you want for pickup. Could you please tell me the specific time you'd like? <emotion value="hesitant"/>
+CALLER: Yeah. I guess.
+AGENT: I want to make sure I understand your pickup time. Could you please tell me the exact time you want to be picked up? <emotion value="hesitant"/>
+CALLER: Okay. Yeah.
+AGENT: I’m still waiting to hear the time you want to be picked up. Could you please tell me the specific time? <emotion value="hesitant"/>
+CALLER: Yeah. Please. But I'm The taxi for pickup for me.
+AGENT: I want to make sure I understand your pickup time. Could you please tell me the exact time you want to be picked up? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Alright, soo <break time="300ms"/> how many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Could you please tell me how many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: Mhmm. Yeah.
+AGENT: I want to make sure I get it right. How many passengers will be traveling, including yourself? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

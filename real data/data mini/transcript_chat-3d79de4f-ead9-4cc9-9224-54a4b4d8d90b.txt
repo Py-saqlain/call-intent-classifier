@@ -1,0 +1,19 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Rachel Estrada?
+CALLER: Yes.
+AGENT: Thanks for confirming, Rachel. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Need a ride to go to Clarksburg. Home.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: All in one
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you would like to pay? You can choose cash, credit card, or Call and Ride. <emotion value="apologetic"/>
+CALLER: call and ride Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero three four zero eight zero.
+AGENT: Thank you, your Call and Ride payment is all set. <emotion value="grateful"/>
+AGENT: Okay, so your dropoff address is 2 3 7 3 0 Clarksmeade Drive, Clarksburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: 1226. No miss Lane, Gaither Maryland 20879.
+AGENT: Just to confirm, did you mean 1 2 2 6 No Miss Lane, Gaithersburg, Maryland? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Hmm, I couldn't find 1 2 2 6 No Miss Lane, Gaithersburg, Maryland. Could you please double-check the street name or provide a nearby landmark or cross street to help identify the address? <emotion value="apologetic"/>
+CALLER: Right here. Because I'm helping Rachel.

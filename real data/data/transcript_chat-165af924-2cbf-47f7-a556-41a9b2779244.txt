@@ -1,0 +1,39 @@
+AGENT: Hi Paul, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: One zero five hundred Connecticut Avenue. I'm waiting I'm still waiting on a cab.
+AGENT: I understand you're waiting for a cab at 1 0 5 1 0 Connecticut Avenue. Let me check the status of your ride for you. I'll connect you to the trip status agent right now.
+AGENT: I checked and you don't have an active trip scheduled right now. Would you like me to help you book a ride from 1 0 5 1 0 Connecticut Avenue?
+CALLER: Yeah.
+AGENT: Great. To confirm, your pickup address is 1 0 5 1 0 Connecticut Avenue, correct?
+CALLER: Correct.
+AGENT: Thank you. What time would you like the pickup? You can say now, a specific time, or a day and time.
+CALLER: Right now. Now.
+AGENT: Got it. How many passengers will be riding?
+CALLER: Now. Now.
+AGENT: I understand you want the ride right now. Could you please tell me how many passengers will be riding?
+CALLER: Now. One.
+AGENT: Thank you. Will you need a wheelchair-accessible vehicle for this trip?
+CALLER: One
+AGENT: Just to clarify, do you need a wheelchair-accessible vehicle, or are you saying there is one passenger?
+CALLER: No. One passenger
+AGENT: Thank you for confirming one passenger and no wheelchair needed. What payment method will you be using for this ride?
+CALLER: Credit card.
+AGENT: Thanks. To confirm, you want a ride now from 1 0 5 1 0 Connecticut Avenue for one passenger, no wheelchair, paying by credit card. Is that correct?
+CALLER: Yes.
+AGENT: We accept cash, credit card, and Call and Ride for payment. How would you like to pay for your ride?
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: Pickup address, one zero five one zero Connecticut Avenue. In Kensington.
+AGENT: I have 1 0 5 1 0 Connecticut Avenue, Kensington, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One three two two seven. Bregman Road, Silver Spring, Maryland two zero nine zero four.
+AGENT: I have 1 3 2 2 7 Bregman Road, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Paul. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: Right now.
+AGENT: The estimated fare for your ride is 21.5 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Your main trip is scheduled for today at 1:35 PM. Your confirmation number is 2 1 3 6 6 4 6 3 4. Is there anything else I can help you with?
+CALLER: No.

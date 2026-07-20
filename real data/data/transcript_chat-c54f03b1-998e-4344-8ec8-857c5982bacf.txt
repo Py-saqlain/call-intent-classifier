@@ -1,0 +1,38 @@
+AGENT: Hello Zoia, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to book a cab
+AGENT: Alright, how would you like to pay for your cab ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Colon ride.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three, three eight nine eight
+AGENT: Hmmm.. that didn't seem like six digits. Could you please say the last six digits of your Call and Ride card again? <emotion value="apologetic"/>
+CALLER: five. Three three eight nine eight. Five.
+AGENT: Thank you for that. Just to confirm, the last six digits you gave me are five three three eight nine eight, is that correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, please say the last six digits of your Call and Ride card again when you're ready. <emotion value="hesitant"/>
+CALLER: It is three three eight nine eight
+AGENT: That sounds like five digits, but I need six digits for the Call and Ride card. Could you please provide the full six digits? <emotion value="hesitant"/>
+CALLER: five. Three three eight nine eight. 5.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Nine seven zero four Aldersgate Road Rockville, Maryland.
+AGENT: Okay, so I have your pickup address as nine seven zero four Aldersgate Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One one three five University Boulevard West Silver Spring, Maryland.
+AGENT: I have the dropoff address as one one three five University Boulevard West, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Zoia.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: At noon, today,
+AGENT: Okay great! I've got your pickup time as today at 12:00 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just me, no wheelchair.
+AGENT: Okay great! I've got 1 passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 33 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 12:00 PM. Your confirmation number is 2 1 3 6 7 5 5 9 5. Is there anything else I can help you with?
+CALLER: Oh, that'd be all. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Zoia. Have a wonderful day!

@@ -1,0 +1,25 @@
+AGENT: Hello Peter, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Scheduling right.
+AGENT: I can help you schedule a ride. Could you please tell me the pickup location?
+CALLER: 5151 Pukso Road.
+AGENT: Just to confirm, did you mean 5151 Pooks Hill Road in Bethesda, Maryland for your pickup?
+CALLER: Yeah.
+AGENT: Thank you. Where would you like to go?
+CALLER: Oliver Street in Chevy Chase, Bethesda, Maryland.
+AGENT: Got it. When would you like the pickup?
+CALLER: 510 today.
+AGENT: Thank you for the pickup time of 5:10 pm today. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: I have the pickup address as 5 1 5 1 Pooks Hill Road, Bethesda, Maryland, and the dropoff address as Hyattsville Dietz Park Oliver Street, Hyattsville, Maryland. Is that correct?
+CALLER: No.
+AGENT: Thank you for letting me know. Which address would you like to correct, the pickup or the dropoff?
+CALLER: He dropped off.
+AGENT: Just to confirm, you want to correct the dropoff address. Please provide the correct dropoff address.
+CALLER: Oliver Street, Chevy Chase, Maryland.
+AGENT: I found the dropoff address as Hyattsville Dietz Park Oliver Street, Hyattsville, Maryland. Is that the correct dropoff address?
+CALLER: No.
+AGENT: Please provide the correct dropoff address again.
+CALLER: Boulevard Street, chevy chase, Maryland two zero eight one five.
+AGENT: I could not find an exact match for 2 0 8 1 5 Boulevard Street, Chevy Chase, Maryland. However, I found 8 5 5 0 Connecticut Avenue, Chevy Chase, Maryland 2 0 8 1 5. Is that the correct dropoff location?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

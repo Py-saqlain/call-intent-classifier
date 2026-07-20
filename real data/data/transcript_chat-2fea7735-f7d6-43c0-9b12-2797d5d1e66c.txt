@@ -1,0 +1,11 @@
+AGENT: Hi Veronica, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay.
+AGENT: How can I assist you with your ride today?
+CALLER: Okay.
+AGENT: Uhh, are you looking to book a ride, check on a trip, or speak with someone for help?
+CALLER: Yes.
+AGENT: Could you please tell me if you'd like to book a new ride, check the status of an existing trip, or speak with a representative?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

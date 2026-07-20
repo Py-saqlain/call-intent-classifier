@@ -1,0 +1,33 @@
+AGENT: Hello Milangs, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Uh, I would like to cab, please, for four nine zero zero Moreland m o o r l a n d, Lane in Bethesda,
+CALLER: Maryland two zero eight one four.
+AGENT: Thank you for the address details. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash is good. Cash is good.
+AGENT: Thank you, cash it is.
+CALLER: Alright. And it's for going to suburban hospital? At eight six zero zero Old Georgetown Road. Bicesa.
+AGENT: Just to confirm, your pickup address is four nine zero zero Moorland Lane, Bethesda, Maryland. Is that correct?
+CALLER: Yes. 20814. For the code.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. It's suburban s u b u r b a n hospital, eight six zero zero Old, o n d, Georgetown, G 0 R G E T 0 W N, Road, Bethesda, Maryland 20814.
+AGENT: I have the dropoff address as eight six zero zero Old Georgetown Road, Bethesda, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Mr. Milangs.
+AGENT: When would you like to be picked up?
+CALLER: Thank No.
+AGENT: Could you please clarify if you mean you want to be picked up right now, or if you prefer to call back later for your ride?
+CALLER: Yes. Not to be picked up right now.
+AGENT: Got it. Would you like to make this a will-call trip, where you call us back when you are ready for pickup?
+CALLER: I am ready for pickup.
+AGENT: Thank you for clarifying. I will proceed with scheduling your pickup as soon as possible. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One No. Just one person.
+AGENT: The estimated fare for your trip is 7.5 dollars, and you will be paying with your own payment method. Would you like to schedule a return trip as well?
+CALLER: No. Not yet.
+AGENT: Thank you for your patience. I am processing your pickup now.
+AGENT: Your main trip is scheduled for today at 12:22 AM. Your confirmation number is 2 1 3 6 6 8 9 9 8. Is there anything else I can assist you with?
+CALLER: To I repeat that. Two one six six Can you repeat the confirmation number, please?
+AGENT: Certainly. Your confirmation number is 2 1 3 6 6 8 9 9 8. Is there anything else I can help you with?
+CALLER: Could you tell me oh, yeah. You just said the the cab would be here at 12:22. Am I correct?
+AGENT: Yes, that's correct. Your cab is scheduled to arrive today at 12:22 AM. Is there anything else you would like to know or arrange?
+CALLER: No thank you
+AGENT: Thank you for calling Barwood & Regency, Milangs. Have a wonderful day.
+CALLER: Thank you.

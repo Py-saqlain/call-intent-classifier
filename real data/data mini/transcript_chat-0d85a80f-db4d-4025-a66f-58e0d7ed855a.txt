@@ -1,0 +1,19 @@
+AGENT: Hi Leah, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to book a taxi plus so that I can stay in my wheelchair on July twenty ninth
+AGENT: Alright, how would you like to pay for your taxi plus ride on July twenty ninth? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: To start, could you please tell me the pickup address for your ride on July twenty ninth? If you'd like, I can use your home address at 7 0 1 King Farm Boulevard, Rockville, Maryland. Would that work for you? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so your pickup address is 7 0 1 King Farm Boulevard, Rockville, Maryland. Now, could you please provide the destination or dropoff address for your ride on July twenty ninth? <emotion value="peaceful"/>
+CALLER: Oh, you'll have to just wait a minute. I have to look that up. Sorry.
+AGENT: No problem at all, take your time. Just let me know when you're ready with the dropoff address. <emotion value="peaceful"/>
+CALLER: You know, I think I'm gonna have to call back But I tried to download the app, and I couldn't find it for Barwood Taxi Service.
+AGENT: I understand. If you
+CALLER: From for my iPhone.
+AGENT: I understand. If you prefer, you can always call us back when you're ready, and we'll be here to help you book your ride over the phone. If you have any other questions or need assistance with the app later, feel free to reach out. Would you like me to connect you to someone who can help with app support, or is there anything else I can assist you with right now? <emotion value="peaceful"/>
+CALLER: Yes. Yes. App support would be great.
+AGENT: I'll connect you now to someone who can assist with app support. Please hold for a moment.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm waiting for someone to help me with app support.
+AGENT: I'm connecting you now to a customer service representative who can help with app support. Please stay on the line.

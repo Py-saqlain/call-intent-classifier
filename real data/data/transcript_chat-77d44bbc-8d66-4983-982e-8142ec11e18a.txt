@@ -1,0 +1,45 @@
+AGENT: Hello Alfonso, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Schedule return trip.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Colonel made.
+AGENT: Hmmm.. that didn't seem right, could you please confirm if you meant Call and Ride for payment? <emotion value="hesitant"/>
+CALLER: Colin.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great! Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three three two four three four.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: It is
+AGENT: Uh, I am sorry, but could you please repeat the pickup address? <emotion value="hesitant"/>
+CALLER: One one eight nine One one eight nine o Healing Way. Silver Spring, Maryland.
+AGENT: I couldn't find an exact match for 1 1 8 9 Healing Way in Silver Spring, Maryland. I found a place called Healing Wyoming, Silver Spring, Maryland 2 0 9 0 4. Is that the correct pickup location? <emotion value="hesitant"/>
+CALLER: Customer service.
+AGENT: I found a location called Customer Service in Gaithersburg, Maryland 2 0 8 7 7. Is that the correct pickup location? <emotion value="hesitant"/>
+CALLER: No.
+AGENT: Okay, I will disregard that suggestion. Could you please provide the full pickup address again? <emotion value="hesitant"/>
+CALLER: One one eight nine o Healing Way, Silver Spring, Maryland.
+AGENT: Okay, so your pickup address is 1 1 8 9 0 Healing Way, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Please watch.
+AGENT: Uh, I am sorry, but could you please repeat the destination or dropoff address? <emotion value="hesitant"/>
+CALLER: 929 Bonifant Street, Silver Spring, Maryland.
+AGENT: Okay, so your dropoff address is 9 2 9 Bonifant Street, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Alfonso. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Immediate.
+AGENT: Okay great! I've got your pickup time as today at 12:03 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One. No. One person.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 24 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Ready.
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: No return trip.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 12:03 PM. Your confirmation number is 2 1 3 6 7 5 7 3 6. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Alfonso. Have a wonderful day.

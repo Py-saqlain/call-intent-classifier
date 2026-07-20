@@ -1,0 +1,50 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Italia Gabriel?
+CALLER: Yes.
+AGENT: Thanks for confirming, Italia. This is Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I'm calling to get it right so that way I can drop off to Walmart. Yeah. Hello?
+AGENT: Thank you for letting me know your destination is Walmart. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Record in Rye.
+AGENT: Just to make sure I heard you right, did you mean Call and Ride for your payment method?
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three five one zero eight seven.
+AGENT: Thank you, your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your ride to Walmart?
+CALLER: One three three one eight twelve Dale Jemontown, apartment I.
+AGENT: I have the pickup address as one three three one eight Dovedale Way, Germantown, Maryland. Is that correct?
+CALLER: Yes. Department of Health.
+AGENT: I found a Walmart Supercenter at two zero nine one zero Frederick Road, Germantown, Maryland. Is that the Walmart you want to go to?
+CALLER: Yep. Yep.
+AGENT: Your dropoff address has been verified, Italia.
+AGENT: When would you like to be picked up?
+CALLER: At 02:30.
+AGENT: Just to confirm, did you mean 2:30 PM for your pickup time?
+CALLER: Yes.
+AGENT: Thank you for confirming your pickup time at today at 2:30 PM. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. It it which accessible vehicle for sure. Just one passenger.
+AGENT: Got it, one passenger and a wheelchair-accessible vehicle. Do you have any special instructions or notes for the driver?
+CALLER: Discussion, Oh, no discussion.
+AGENT: The estimated fare for your trip is 17 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: One Can you bring it back?
+AGENT: Just to clarify, are you asking to book a return trip back to 1 3 3 1 8 Dovedale Way, or is the trip we just set up your return journey?
+CALLER: Yes. For a good retention as well.
+AGENT: Great, I'll start collecting the details for your return trip.
+AGENT: What time would you like to be picked up for your return trip?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I can return. Yeah. But pick up on one 9PM. Yes. Okay. Hello? Hello? Hello? No. Sit. Hello? Hello?
+AGENT: Just to confirm, did you mean 9 PM for your return trip pickup time?
+CALLER: Hello.
+AGENT: I want to make sure I have your return trip pickup time correctly. Did you say 9 PM?
+CALLER: No. No. No. At 03:30.
+AGENT: Thank you for the update. Did you mean 3:30 PM for your return trip pickup time?
+CALLER: Yes.
+AGENT: Your return trip pickup time is set for today at 3:30 PM. How many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Team. Yes. And we check and accessible vehicle and one passenger.
+AGENT: For your return trip, I have the pickup address as two zero nine one zero Frederick Road, Germantown, Maryland, and the dropoff address as one three three one eight Dovedale Way, Germantown, Maryland. Is that correct?
+CALLER: Yeah. Yes.
+AGENT: Italia, the estimated fare for your return trip is 17 dollars, paying with your Call and Ride account. Should I go ahead and book both your main and return trips?
+CALLER: Yes. No. Yes. Go go ahead and book it.
+AGENT: Thank you, Italia. I am now booking both your main and return trips.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 5 6 4 8, scheduled for today at 2:30 PM. Your return trip is also booked with confirmation number 2 1 3 6 6 5 6 4 9, scheduled for today at 3:30 PM. Is there anything else I can help you with?
+CALLER: No. That's it.
+AGENT: Thank you for calling Barwood & Regency, Italia. Have a wonderful day!

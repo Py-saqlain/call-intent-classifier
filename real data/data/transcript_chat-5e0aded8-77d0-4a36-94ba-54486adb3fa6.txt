@@ -1,0 +1,41 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Huong Ngo?
+CALLER: It's
+AGENT: Could you please confirm if you are Huong Ngo?
+CALLER: Excuse me. Can you repeat, please?
+AGENT: Of course. This is Barwood & Regency. Am I speaking with Huong Ngo?
+CALLER: Yes. Yes. Speak speaking.
+AGENT: Thanks for confirming, Huong. This is Barwood & Regency. How can I assist you today?
+CALLER: I would like to have a cat to pick me up tomorrow. For my house.
+AGENT: Alright, how would you like to pay for your ride tomorrow? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Only why.
+AGENT: Hmmm.. that didn't seem quite clear. Could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: What
+AGENT: Hmmm.. I’m not sure I understood that. Could you please let me know how you would like to pay? Your options are cash, credit card, or Call and Ride. <emotion value="apologetic"/>
+CALLER: On n y.
+AGENT: Hmmm.. that didn't seem right, could you try again? How would you like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: Yes. No. No.
+AGENT: Hmmm.. I’m
+CALLER: I give you my Zero one three six seven nine. That's my text.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+CALLER: Yes
+AGENT: Could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is 1 8 3 0 1 Georgia Avenue, Olney, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. No. No. No. No. No. No. That's incorrect. I never lived there. I live at 531 Randolph Road.
+AGENT: Okay, so your pickup address is 5 3 1 Randolph Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. That's correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: And eight, four one South Street, Silver Spring. One zero eight four one Charles Street, Silver Spring.
+AGENT: Hmmm <break time="350ms"/> let me check that address.
+AGENT: I couldn't find 8 4 1 South Street or 1 0 8 4 1 Charles Street in Silver Spring. Could you please double-check the dropoff address or provide a
+CALLER: No.
+AGENT: Could you please provide the dropoff address again? If you only know the street name, just let me know and I can help find the number. <emotion value="peaceful"/>
+CALLER: Yes. No. No. No. One zero at four one c h I l d s sweet silver spring.
+AGENT: Okay, let me check that address for you.
+AGENT: I couldn't find 1 0 4 1 Childs Street in Silver Spring. Could you please provide the full street address, city, and state again? <emotion value="apologetic"/>
+CALLER: Yes.
+CALLER: Yes. One zero eight four one Ciao Street, c s I l d s, Street, Street, They told me all the time over there.
+AGENT: Hmmm <break time="350ms"/> let me check that address.
+AGENT: I couldn't find 1 0 8 4 1 Childs Street in Silver Spring. Could you please
+CALLER: Yes.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Yeah.

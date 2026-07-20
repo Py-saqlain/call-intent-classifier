@@ -1,0 +1,8 @@
+AGENT: Hi Yvette, this is Ana from Barwood & Regency. Your trip is
+CALLER: Hi. She's a familiar. She work here?
+AGENT: Uhh, could you please clarify what you mean by "she's a familiar" and "she work here"? Are you asking if someone you know works with us, or is there something specific I can help you with today? <emotion value="hesitant"/>
+CALLER: I would like to know when my taxi bar taxi is. At taxi is. I'm at six one one one Montrose Road. Rockville, Maryland two zero eight five two. My name is Yvette Smith.
+AGENT: Okay, so your driver is about 1 minute away for your pickup at 6 1 1 1 Montrose Road. The vehicle number is 1 0 0 9. Anything else I can check for you? <emotion value="content"/>
+CALLER: Yeah.
+AGENT: Okay, your driver is about 2 minutes away for your pickup at 6 1 1 1 Montrose Road. The vehicle number is 1 0 0 9. Is there anything else I can help you with? <emotion value="content"/>
+CALLER: No. Thank you very much.

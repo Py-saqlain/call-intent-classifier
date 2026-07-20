@@ -1,0 +1,10 @@
+AGENT: Hi Leah, this is Ana with Barwood & Regency. Your trip is scheduled for pickup today at 7:09 PM. How can I assist you today?
+CALLER: A card number.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Card number.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Trip status, and card number.
+AGENT: I can help you check your trip status right now. However, for the card number, I’m unable to take that information here. Let me check your trip status for you.
+AGENT: I’m sorry, it looks like your trip is running late and no driver has been assigned yet. I’ll connect you with a customer representative who can assist you further.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

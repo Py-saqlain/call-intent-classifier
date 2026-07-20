@@ -1,0 +1,48 @@
+AGENT: Hi Ronnie, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Are you live? No.
+AGENT: Okay, I'm here to help whenever you're ready. What can I do for you today? <emotion value="peaceful"/>
+CALLER: I need to speak to a customer service person.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer? <emotion value="peaceful"/>
+CALLER: Hi. I wanna get my last Eight five zero zero Connecticut Avenue
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Just just just
+AGENT: Hmmm.. that didn't seem right, could you try again? How would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so your pickup address is eight five zero zero Connecticut Avenue, Chevy Chase, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. At the gas station. Specifically.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 2,900. University Boulevard West, That's the giant who grocery store.
+AGENT: Thank you. Just to confirm, is your dropoff address two nine zero zero University Boulevard West? <emotion value="peaceful"/>
+CALLER: Yes. I need a taxi plus.
+AGENT: Thank you for confirming the dropoff address at two nine zero zero University Boulevard West. I will note that you need a Taxi Plus vehicle. <emotion value="peaceful"/>
+AGENT: Hmm, I couldn't find a Taxi Plus near two nine zero zero University Boulevard West. Could you please provide the full dropoff address again or specify if you want a Taxi Plus vehicle for the trip? <emotion value="apologetic"/>
+CALLER: No. It doesn't matter. No taxi plus. Regular driver is fine.
+AGENT: Got it, we'll arrange a regular taxi for your trip. Now, just to confirm, your dropoff address is two nine zero zero University Boulevard West, right? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Ronnie.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now.
+AGENT: Okay great! I've got your pickup time as today at 5:13 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Thanks for letting me know no wheelchair is needed. How many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: One. One.
+AGENT: Okay great! I've got that noted. Do you have any special instructions or information for the driver? <emotion value="grateful"/>
+CALLER: Yes. I'm in front of the giant gas station. That's the address.
+AGENT: The estimated fare is 14 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Okay.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Yeah. If you want speaking round trip.
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Can I just do a round trip? Like, wait for
+AGENT: I understand you'd like a round trip. For the return trip, could you please tell me the pickup time you'd prefer? <emotion value="peaceful"/>
+CALLER: What time will I get there?
+AGENT: I don't have that return trip information yet. Let me continue collecting your trip details and we'll have that information shortly. For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Disregard Did it work for a phone? Disregard your return trip.
+AGENT: Thank you for letting me know. I’m processing your main trip booking now. Please hold on a moment.
+AGENT: Your main trip is booked for today at 5:13 PM. Your confirmation number is 2 1 3 6 7 3 5 7 1. Is there anything else I can help you with?
+CALLER: Six
+AGENT: Could you please clarify what you mean by "Six"? Are you asking about the confirmation number or something else?
+CALLER: That's it.
+AGENT: Thank you for calling Barwood & Regency, Ronnie. Have a wonderful day!
+CALLER: I'd like

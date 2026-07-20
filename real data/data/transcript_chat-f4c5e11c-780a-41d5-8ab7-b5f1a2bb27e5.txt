@@ -1,0 +1,30 @@
+AGENT: Hello Dominique, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book the taxi to the airport.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: One zero three zero seven Natalie Road Silver Spring, Maryland
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: I found the pickup address as one zero three zero seven Naglee Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thank you. Your pickup address has been verified. Now, I will find the airport location for your dropoff. <emotion value="peaceful"/>
+AGENT: I found a few airports. Option one: 7940 Airpark Road, Gaithersburg, Maryland. Option two: 7200 Hawkins Creamery Road, Gaithersburg, Maryland. Option three: 1973 Gillis Falls Road, Woodbine, Maryland. Option four: 9611 Reichs Ford Road, Ijamsville, Maryland. Option five: 1909 Corporal Frank Scott Drive, College Park, Maryland. Which one would you like? <emotion value="hesitant"/>
+CALLER: I'm going to Dallas Airport. Seattle is now?
+AGENT: I understand you want to go to Dallas Airport. Just to confirm, you mean Washington Dulles International Airport in Virginia, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, and your pickup address is confirmed as well. Thank you, Dominique. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 5AM in the morning.
+AGENT: Okay great! I've got your pickup time as tomorrow at 5 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One.
+AGENT: Thanks for that. Will you need a wheelchair-accessible vehicle for this trip? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay great! I've got that noted. Do you have any special instructions or requests for the driver? <emotion value="grateful"/>
+CALLER: I want to know the price.
+AGENT: The estimated fare for your trip is $84. Do you have any special instructions or requests for the driver? <emotion value="peaceful"/>
+CALLER: It's too expensive.
+AGENT: I understand. If you'd like, I can connect you to a live agent who might be able to assist you further. Would you like me to do that? <emotion value="peaceful"/>
+CALLER: Phone number.
+CALLER: There's no need if the price will not drop.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

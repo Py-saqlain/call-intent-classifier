@@ -1,0 +1,10 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Kind of.
+AGENT: I want to make sure I get your name right so I can help you with your ride. Could you please tell me your name?
+CALLER: Kenneth
+AGENT: Thanks, Kenneth. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Operator,
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Transfer.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

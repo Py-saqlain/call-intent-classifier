@@ -1,0 +1,11 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Duck Donald?
+CALLER: No.
+AGENT: Thank you for letting me know. May I ask who I’m speaking with today? You can also tell me if you want me to list the names I have on this number.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?
+AGENT: Yes, I’m here to help. Who am I speaking with today?
+CALLER: Barbara Brownfield.
+AGENT: I don’t see a profile under the name Barbara Brownfield. We can set one up for you when you book a trip. Would you like help with booking a ride today?
+CALLER: No.
+AGENT: Just to confirm, are you sure you want to cancel the entire booking? If you do, no trips will be booked.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

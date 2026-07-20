@@ -1,0 +1,11 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Elisa Moon?
+CALLER: Yes.
+AGENT: Thanks, Elisa. This is Ana from Barwood & Regency. You have two trips today — one pickup scheduled for 11:30 AM, and another trip scheduled for 9:45 AM that has been updated. How can I assist you today?
+CALLER: Cancel my ride at 09:45.
+AGENT: Hmm <break time="300ms"/> I see two trips on your account. <break time="700ms"/> Trip one: return trip pickup at 1 2 2 0 2 Braxfield Court in Rockville at 9:45 am going to 1 1 2 0 0 Rockville Pike in Rockville. <break time="500ms"/> Trip two: main trip pickup at 1 1 2 0 0 Rockville Pike in Rockville at 11:30 am going to 1 2 2 0 2 Braxfield Court in Rockville. <break time="500ms"/> You said to cancel the 9:45 am trip, is that correct? <emotion value="hesitant"/>
+CALLER: Yes. Yes.
+AGENT: Okay so <break time="200ms"/> your return trip at 9:45 am has been cancelled for you. Is there anything else I can help you with? <emotion value="grateful"/>
+CALLER: Confirm my 11:30 appointment
+AGENT: That is your main trip pickup at 1 1 2 0 0 Rockville Pike in Rockville at 11:30 am going to 1 2 2 0 2 Braxfield Court in Rockville. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency,

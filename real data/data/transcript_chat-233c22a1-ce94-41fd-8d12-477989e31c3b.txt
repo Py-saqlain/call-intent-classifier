@@ -1,0 +1,30 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready. No wish. I'm all.
+AGENT: Thanks, No. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a taxi.
+AGENT: Alright, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your taxi? <emotion value="peaceful"/>
+CALLER: For the Silver Spring transfer station plan We we the address is One moment.
+AGENT: Uh, I am sorry, but could you please repeat the pickup address? <emotion value="hesitant"/>
+CALLER: Sure. One moment.
+AGENT: Take your time. Just let me know when you are ready with the pickup address. <emotion value="peaceful"/>
+CALLER: The pickup address is eight four zero four Colesville Road.
+AGENT: Okay, so I found your pickup location as eight four zero four Colesville Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One zero zero three. South Belgrade Road, Silver Spring, Maryland
+AGENT: I found the dropoff address as one zero zero three North Belgrade Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: One zero zero three south. Belgrade Road.
+CALLER: Silver Spring, American one.
+AGENT: I want to make sure I have your dropoff address right. You said one zero zero three South Belgrade Road in Silver Spring, Maryland, but the system found one zero zero three North Belgrade Road. Could you please confirm which one is correct? <emotion value="hesitant"/>
+CALLER: South Bell Road Road.
+AGENT: I found a couple of locations for South Bell Road Road in Silver Spring, Maryland.
+CALLER: No. No. South Belgrade Road. 1003 South Belgrade Road.
+AGENT: The system keeps showing one zero zero three North Belgrade Road, Silver Spring, Maryland when you say South Belgrade Road. Could you please confirm if North Belgrade Road is acceptable, or would you like me to try searching differently? <emotion value="hesitant"/>
+CALLER: No. Not acceptable.
+AGENT: Thank you for letting me know. Please say the dropoff address again, and I will try to find the correct one for you. <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: I mean,

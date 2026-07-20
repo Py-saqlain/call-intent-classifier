@@ -1,0 +1,24 @@
+AGENT: Hi Tyrone, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I just got a call from my tech my my driver. I wanna make sure it's a van.
+AGENT: Could you please tell me the pickup address or the trip details you want to check so I can help confirm the vehicle type for you?
+CALLER: Okay. The pickup address is eight zero eight Bladensburg Road, apartment two zero two, Washington, DC two thousand two.
+AGENT: Thanks for that. Do you also have a dropoff address or destination for this trip? And is there a specific pickup time you want to schedule?
+CALLER: Mhmm. Yeah. I'm going to okay. I'm going to twenty forty one Georgia Avenue, Howard University Hospital two thousand one.
+AGENT: Got it. And when would you like the pickup time for this trip?
+CALLER: Are we able to pick up time for this trip? He he just called me. I just wanna make sure it's a van. Some type of van.
+AGENT: Okay, I understand you want to confirm the vehicle type is a van for your trip from 8 0 8 Bladensburg Road, apartment 2 0 2, Washington, DC to 2 0 4 1 Georgia Avenue, Howard University Hospital. Since you mentioned the driver just called you, is this trip for right now or a scheduled time?
+CALLER: Yeah. Yes.
+AGENT: Alright, how would you like to pay for your trip today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: It's already been gone through, uh, metro access.
+AGENT: I appreciate you letting me know, but we only accept cash, credit card, and Call and Ride for payment. Would you like to use one of those methods instead? <emotion value="peaceful"/>
+CALLER: I'm saying, I was it was not said to me about payment when I made the the preparation. Now you were saying payment.
+AGENT: Okay so I understand the payment wasn't mentioned earlier during your preparation. For us to proceed, could you please tell me how you'd like to pay now? We accept cash, credit card, or Call and Ride. <emotion value="peaceful"/>
+CALLER: How much is the ride gonna be? It it was only me. Woke up in the morning 04:50.
+AGENT: I don't have the fare information yet for your trip. Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: If I don't know how much it's gonna cost, I'm a pay cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so your pickup is at 8 0 8 Bladensburg Road Nebraska, Washington, District of Columbia, and your dropoff is at Howard University Hospital, Washington, District of Columbia. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. I speak to agent. I'm not talking to a agent, a person.
+AGENT: I will connect you to a live agent right away. Please hold for a moment.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.

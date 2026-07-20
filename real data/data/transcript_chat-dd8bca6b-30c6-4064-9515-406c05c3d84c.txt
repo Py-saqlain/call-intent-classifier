@@ -1,0 +1,54 @@
+AGENT: Hello Natalia, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, I would like to book a ride tomorrow.
+AGENT: Alright, how would you like to pay for your ride tomorrow? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: To get started, may I have the pickup address for your ride tomorrow? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Uh, I am sorry, but could you please tell me the pickup address you would like for your ride tomorrow? <emotion value="peaceful"/>
+CALLER: Five seven zero one
+AGENT: Thank you. Could you please provide the street name and city for the pickup address at 5 7 0 1? <emotion value="peaceful"/>
+AGENT: Thank you. Could you please provide the street name and city for the pickup address at 5 7 0 1? <emotion value="peaceful"/>
+CALLER: I a d, the street address, five seven
+AGENT: Uh, I am sorry, but could you repeat the street name and city for the pickup address? <emotion value="peaceful"/>
+CALLER: five seven zero one Marinelli I a d, the street address, five seven Mary Mary Mary Nelly Met Road.
+AGENT: Okay, so I found that location. Is 5 7 0 1 Marinelli Road, Rockville, Maryland the correct pickup address? <emotion value="peaceful"/>
+CALLER: Mary Mary Road.
+AGENT: Uh, I am sorry, but could you please confirm if the pickup address is 5 7 0 1 Marinelli Road, Rockville, Maryland? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the dropoff address for your ride tomorrow? <emotion value="peaceful"/>
+CALLER: I A D. International Airport Dallas.
+AGENT: Just to clarify, do you mean Washington Dulles International Airport in Virginia? If so, would you like arrivals or departures? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Would you like arrivals or departures at Washington Dulles International Airport? <emotion value="peaceful"/>
+CALLER: The departure.
+AGENT: Okay, so I found that location. Is 1 Saarinen Circle, Dulles, Virginia the correct dropoff address for departures at the airport? <emotion value="peaceful"/>
+CALLER: But why why Virginia?
+AGENT: Washington Dulles International Airport is located in Virginia, near Dulles. So the full address includes Dulles, Virginia. Does that sound right for your dropoff? <emotion value="peaceful"/>
+CALLER: It's Washington, Dallas Airport.
+AGENT: I understand you said Washington Dallas Airport. Just to confirm, you mean Washington Dulles International Airport in Virginia, correct? <emotion value="peaceful"/>
+CALLER: In Washington.
+AGENT: Got it. The airport you’re referring to is Washington Dulles International Airport in Virginia, which serves the Washington area. Is that the correct dropoff location for your ride? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: What time tomorrow would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 515. AM.
+AGENT: Okay great! I've got your pickup time as tomorrow at 5:15 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Yes. And I would like to ask you for a ride of driver number 1097.
+AGENT: I've noted that you need a wheelchair-accessible vehicle and your request for driver number 1097. How many passengers will be traveling in total? <emotion value="grateful"/>
+CALLER: Me and one, no, one more passenger.
+AGENT: Alright, so let me confirm those details. Your pickup is 5 7 0 1 Marinelli Road. Your dropoff is 1 Saarinen Circle. Pickup time is tomorrow at 5:15 AM. You will have 2 passengers including yourself, and you need a wheelchair-accessible vehicle. The estimated fare is 67 dollars, paying with your Credit Card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Two of us, and one is the using wheelchair.
+AGENT: Thank you for clarifying that one of the two passengers will be using a wheelchair. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for tomorrow at 5:15 AM. Your confirmation number is 2 1 3 6 7 1 4 3 4. Is there anything else I can help you with?
+CALLER: Repeat it. Repe repeat it. Two one Repeat the confirmation number. Please. Hello?
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 1 4 3 4. Is there anything else I can assist you with?
+CALLER: Two. Repeat the number, please.
+AGENT: Just to be sure, would you like me to repeat the full confirmation number again?
+CALLER: Hello?
+AGENT: Your confirmation number is 2 1 3 6 7 1 4 3 4. Is there anything else I can assist you with?
+CALLER: Two one two one three Repeat the confirmation number.
+AGENT: Your confirmation number is 2 1 3 6 7 1 4 3 4. Is there anything else I can help you with?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

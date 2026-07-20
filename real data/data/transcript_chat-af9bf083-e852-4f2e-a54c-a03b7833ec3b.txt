@@ -1,0 +1,54 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Hello?
+AGENT: Hi there! This is Ana with Barwood & Regency. Could you please tell me your name?
+CALLER: Anthony.
+AGENT: Thanks, Anthony. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a wheelchair accessible cab to Alexandria from Springfield. From Silver Spring. I'm sorry.
+AGENT: Alright, Anthony, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: It's clear.
+AGENT: Hmmm.. <break time="300ms"/> I didn't quite catch that. Could you please tell me how you'd like to pay? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Hmm <break time="350ms"/> I couldn't find any locations for Silver Spring, Maryland near your area. Could you please provide a more specific pickup address or a nearby landmark? <emotion value="apologetic"/>
+CALLER: 11502 Galt Avenue, Silver Spring.
+AGENT: Okay, I found 1 1 5 0 2 Amherst Avenue, Silver Spring, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, please provide the correct pickup address again.
+CALLER: One one five zero two Galt Avenue,
+AGENT: Okay, I found 1 1 5 0 2 Galt Avenue, Wheaton, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: I found Alexandria, Virginia as your dropoff location. Is that correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, please provide the correct dropoff address. <emotion value="apologetic"/>
+CALLER: One nine zero zero Diagonal Road, Alexandria.
+AGENT: I found Alexandria, Virginia as your dropoff location. Is that correct? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Anthony. I will now proceed with your booking.
+AGENT: We have noted that you need one wheelchair-accessible vehicle. Is that correct? Please say yes to confirm or let me know if it needs to be changed. <emotion value="peaceful"/>
+CALLER: Yeah. Yeah.
+AGENT: Okay great! I've got that noted. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Twelve forty six.
+AGENT: Just to confirm, did you mean twelve forty-six PM? Please say yes if that's correct or let me know if you meant AM. <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time set for today at 12:46 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will any of you need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Left four
+AGENT: Thanks for that. I see you mentioned 4 passengers and 1 wheelchair. That combination is a bit over our vehicle capacity. For a wheelchair van, we can accommodate up to 3 passengers plus 1 wheelchair. Could you please tell me the number of passengers again? <emotion value="hesitant"/>
+CALLER: Okay. Three passengers and one wheelchair.
+AGENT: Okay great! I've got that noted. So, three passengers including one wheelchair. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No. It's four pack. It's okay.
+AGENT: I understand you want to have four passengers including one wheelchair, but that combination exceeds our vehicle capacity. With one wheelchair, the maximum number of passengers we can accommodate is three. Could you please provide a passenger count that fits within this limit? <emotion value="hesitant"/>
+CALLER: Okay. That's fine.
+AGENT: Alright, soo <break time="300ms"/> how many passengers will be traveling, including yourself? And will any of you need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Three passengers including the wheelchair.
+AGENT: Alright, the estimated fare is 49.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 12:46 PM. Your confirmation number is 2 1 3 6 7 3 1 9 3. Is there anything else I can assist you with?
+CALLER: You said 12:46. What time will will the what what time will the cab arrive to me?
+AGENT: The pickup time you provided is 12:46 PM, so the driver will aim to arrive right around then. If you’d like, I can check if there’s an estimated arrival time closer to your pickup. Would you like me to do that?
+CALLER: Is there a driver available now?
+AGENT: Let me check on driver availability for you. Please hold on just a moment.
+AGENT: Hmm, let me pull that up for you. Uhh, I’m sorry, but I can’t access driver availability without your profile information. Let me connect you with a representative who can help right away. <emotion value="sympathetic"/>
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

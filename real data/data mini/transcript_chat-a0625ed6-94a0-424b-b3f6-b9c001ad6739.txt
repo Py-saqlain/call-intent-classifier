@@ -1,0 +1,14 @@
+AGENT: Hi Khianna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: No. I think it.
+AGENT: Uhh, could you please tell me how I can assist you today? <emotion value="peaceful"/>
+CALLER: 5250.
+AGENT: Okay, could you please tell me what address or location the number 5 2 5 0 refers to? Is it a pickup or dropoff location? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Pick up the pizza.
+CALLER: Pick up the kitchen. The
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: doctor. Johnson,
+AGENT: Hmmm.. that didn't seem like a payment method. Could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Cancel the ride.
+AGENT: I understand you'd like to cancel the ride. Let me connect you to a live agent who can assist you further.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

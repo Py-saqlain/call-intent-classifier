@@ -1,0 +1,47 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Dana Bowen?
+CALLER: Yes.
+AGENT: Thanks, Dana. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I'd like to get it carried, please.
+AGENT: Could you please clarify what you would like to get carried? Are you referring to luggage or something else?
+CALLER: Okay. I'd like to get a tab. C a b, cab.
+AGENT: Thank you for clarifying. It sounds like you want to book a cab ride. Could you please tell me your pickup address?
+CALLER: Yep.
+AGENT: Could you please provide the pickup address where the driver should come to get you?
+CALLER: Eleven five three four.
+AGENT: Thank you. Could you please tell me the street name and city for the pickup at 1 1 5 3 4?
+CALLER: Yep. Eleven five three four. One one five three four. Middlebrook Road, Germantown
+CALLER: One one five three four. Middlebrook Road, Germantown
+AGENT: Hi! How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+AGENT: How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Middlebrook Road Yeah. Cat. Cat. Yes.
+AGENT: Just to make sure I understand, did you mean to pay with cash?
+CALLER: Cat. Cat. Yes. A damn chest. Yes.
+AGENT: Thanks for confirming. I'll proceed with cash as your payment method.
+AGENT: Thank you, I have your payment method as cash.
+AGENT: I have the pickup address as 1 3 0 3 2 Middlebrook Road, Germantown, Maryland. Is that correct?
+CALLER: One one five three four. Middlebrook Road, Navy Federal Bank. One one five three four. Middlebrook Road, German jail.
+AGENT: I have the pickup address as 1 1 5 3 4 Middlebrook Road, Germantown, Maryland. Is that correct?
+CALLER: Yes. Yep.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 12907 Drive. Germantown, Maryland.
+AGENT: I found a similar address: 1 2 9 0 7 Wisteria Drive, Germantown, Maryland. Is that the correct destination?
+CALLER: Yep.
+AGENT: Your dropoff address has been verified, Dana.
+AGENT: When would you like to be picked up?
+CALLER: Right now.
+AGENT: Got it, I'll schedule your pickup for right now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Two.
+AGENT: Just to confirm, you said two passengers and no wheelchair needed?
+CALLER: No.
+AGENT: Thanks for clarifying. How many passengers will be traveling, and how many will need a wheelchair-accessible vehicle?
+CALLER: No one needs a wheelchair. Come on.
+AGENT: Thank you, I have two passengers and no wheelchair needed. Do you have any special instructions for the driver?
+CALLER: Yes.
+AGENT: Please tell me the special instructions for the driver.
+CALLER: Tell the driver to give me a call.
+AGENT: The estimated fare is 9.5 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 5:40 PM. The confirmation number is 2 1 3 6 6 4 9 1 1. Is there anything else I can help you with?
+CALLER: No. Thank you.
+CALLER: Four minutes. Can't be

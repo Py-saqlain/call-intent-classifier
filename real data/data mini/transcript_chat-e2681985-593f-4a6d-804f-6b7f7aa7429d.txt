@@ -1,0 +1,18 @@
+AGENT: Hello Sahar, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi, Anna. How are you?
+AGENT: Uhh, I'm here and ready to help. What can I do for you today? <emotion value="peaceful"/>
+CALLER: I need to book a ride.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride.
+AGENT: Okay, great. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Six four five three two one.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Yeah. Can you please take me from two zero one sofa school load?
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Uh, I am sorry, but could you repeat that pickup address? It sounded a bit unclear. <emotion value="apologetic"/>
+AGENT: Could you please repeat the pickup address again? It sounded a bit unclear.
+CALLER: Eight two eight two zero one.
+AGENT: Thank you. Could you please provide the street name for the pickup address? The number you gave is eight two eight two zero one. <emotion value="peaceful"/>
+CALLER: No. Listen to me. 201 Snowford School Road.
+AGENT: Hmm <break time="350ms"/> let me check that address.

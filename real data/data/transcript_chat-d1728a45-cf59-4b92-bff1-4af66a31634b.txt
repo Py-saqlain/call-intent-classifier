@@ -1,0 +1,36 @@
+AGENT: Hi Yvan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to speak to a person.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Okay. No. I need to speak to okay. I I need a taxi pickup. Right away.
+AGENT: Let me get that set up for you right now.
+AGENT: Thanks for letting me know you need a taxi pickup right away. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Fall in. Fall in right. Falling right.
+AGENT: Did you mean Call and Ride for your payment method?
+CALLER: Yeah.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three two six zero two two.
+AGENT: Thank you, your payment with Call and Ride is all set. The system will now proceed with arranging your ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Twenty four zero one oh gosh, at Research Boulevard.
+AGENT: I have 2 4 0 1 Research Boulevard, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yeah. Yeah.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: That yes.
+AGENT: Could you please tell me the destination or dropoff address for your ride?
+CALLER: 14955 Shady Grove Road.
+AGENT: I have 1 4 9 5 5 Shady Grove Road, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: 14955 Shady Grove Road,
+AGENT: Your dropoff address has been verified, Yvan. I'll now proceed with arranging your trip.
+AGENT: You mentioned you want to be picked up now. Is that correct? Please say yes to confirm or let me know if you want a different pickup time.
+CALLER: Yes. Yes. Yeah. That's correct. Yes.
+AGENT: Thanks for confirming your pickup time as now. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. One.
+AGENT: Thank you for letting me know there is one passenger and one wheelchair. Do you have any special instructions or notes for the driver?
+CALLER: No way of care. No way of No. No wheelchair.
+AGENT: Yvan, the estimated fare for your trip is 7 dollars, paying with Call and Ride. Would you like to schedule a return trip as well?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: No. I'm ready.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 1:53 PM. Your confirmation number is 2 1 3 6 6 4 6 9 2. Is there anything else I can assist you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Yvan. Have a wonderful day!

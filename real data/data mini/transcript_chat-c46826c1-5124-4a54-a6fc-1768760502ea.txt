@@ -1,0 +1,14 @@
+AGENT: Hello Barry, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I had taxi come to two hundred Girard Street,
+AGENT: Thank you for letting me know about the taxi at two hundred Girard Street. How can I assist you with your ride today? Are you looking to book a new trip, check the status of an existing one, or something else?
+CALLER: New trip. Where's going, I'm Okay.
+AGENT: Thank you for sharing your pickup location at two hundred Girard Street. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Dennis Cash.
+AGENT: Great, we'll use cash for your payment.
+CALLER: Yes.
+AGENT: I have the pickup address as two zero zero Maury Street, Richmond, Virginia. Is that correct?
+CALLER: No. 200 Girard Street.
+AGENT: I am still seeing two zero zero Maury Street, Richmond, Virginia as the closest match. Could you please provide a nearby landmark or cross street to help me find two zero zero Girard Street?
+CALLER: It's near East Diamond Avenue.
+AGENT: I found CCI Health Services Gaithersburg at 2 2 0 Girard Street, Gaithersburg, Maryland. Is that the correct pickup location?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

@@ -1,0 +1,38 @@
+AGENT: Hi Jill, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I I need a taxi. Twelve thirty
+AGENT: Alright, how would you like to pay for your taxi? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Well, first of all,
+AGENT: Take your time, no rush. When you're ready, just let me know how you'd like to pay. <emotion value="peaceful"/>
+CALLER: cat. Uh-huh. Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your taxi? If you'd like, I can use your home address at 7 2 0 1 Wisconsin Avenue, Bethesda, Maryland. Would that work for you? <emotion value="peaceful"/>
+CALLER: No. That's wrong.
+AGENT: Okay, no problem. Could you please provide the correct pickup address? <emotion value="apologetic"/>
+CALLER: It's eighty one hundred eighty one eighty one hundred
+AGENT: Hmm <break time="350ms"/> let me check that address. You said eighty one hundred eighty one eighty one hundred. Could you please clarify the street name or city for that pickup address? <emotion value="hesitant"/>
+CALLER: It's eighty one hundred eighty one hundred Connecticut Avenue Chevy Chase. No. No. No. Again.
+AGENT: Okay, just to be sure, is your pickup address 8 1 0 0 Connecticut Avenue, Chevy Chase, Maryland? <emotion value="hesitant"/>
+CALLER: Yeah.
+AGENT: Okay, so your pickup address is 8 1 0 0 Connecticut Avenue, Chevy Chase, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Six nine three one Arlington Road, Bethesda, Maryland
+AGENT: Hmm <break time="350ms"/> let me check that address. You said six nine three one Arlington Road, Bethesda, Maryland. Is that correct? <emotion value="hesitant"/>
+AGENT: Okay, your dropoff address is 6 9 3 1 Arlington Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Jill.
+AGENT: Just to confirm, you would like to be picked up at 12:30 PM today, is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One.
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 9 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No thank you.
+AGENT: Thank you for your patience. I am now processing your booking.
+AGENT: Your main trip is scheduled for today at 12:30 PM. Your confirmation number is 2 1 3 6 7 1 7 7 7. Is there anything else I can assist you with?
+CALLER: No. That's good. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Jill. Have a wonderful day!
+CALLER: K. Thank you. You too.

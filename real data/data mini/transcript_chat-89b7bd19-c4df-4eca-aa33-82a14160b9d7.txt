@@ -1,0 +1,13 @@
+AGENT: Hi Sarah, this is Ana with Barwood & Regency. You have two trips today — one scheduled for pickup at 1:45 PM with vehicle 1083, and another confirmed for 4:30 PM with the same vehicle. How can I assist you today?
+CALLER: Cancel both trips.
+AGENT: I see two trips on your account.  
+ Trip one: pickup at 4 0 1 N Broadway in Baltimore at 4:30 pm going to 4 0 2 4 Gannon Road in Silver Spring.  
+ Trip two: pickup at 4 0 2 4 Gannon Road in Silver Spring at 1:45 pm going to 4 0 1 N Broadway in Baltimore.  
+Would you like me to cancel both of these trips?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I would go both trips.
+AGENT: Okay, so I've got that you want to cancel both trips: the 4:30 pm from Baltimore to Silver Spring and the 1:45 pm return from Silver Spring to Baltimore. Is that correct?
+CALLER: Yeah.
+AGENT: Okay so both trips, the 1:45 pm return trip and the 4:30 pm main trip, have been cancelled for you. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Sarah. Have a wonderful day!

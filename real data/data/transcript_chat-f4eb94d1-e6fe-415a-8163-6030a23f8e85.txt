@@ -1,0 +1,42 @@
+AGENT: Hi Albert, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a CAD to leisure world Medical Center.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: I found a few
+CALLER: Say again, please.
+AGENT: I found a few locations for CAD near 3 4 0 2 Olandwood Court, Olney, Maryland. Option one: 5 4 2 0 Olney
+CALLER: No. No. No. No. No. This is three seven zero one International Drive. Silver Spring,
+AGENT: Okay, just to confirm, your pickup address is 3 7 0 1 International Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That is correct.
+AGENT: Okay, so your pickup address is 3 7 0 1 International Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: K. Correct.
+AGENT: I found two locations for Leisure World Medical Center. Option one: 3 3 0 5 North Leisure World Boulevard, Silver Spring. Option two: 3 3 0 5 North Leisure World Boulevard, Silver Spring. Which one is correct? <emotion value="hesitant"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Albert.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Your pickup address
+CALLER: Yes. No. No. Hello? Oh, for god's sake.
+AGENT: The time you requested
+CALLER: Hello? Yeah. Say again, please.
+AGENT: The time you requested has already passed. When would you like to be picked up? <emotion value="hesitant"/>
+How many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay. Pickup. As soon as possible. One person. Yeah. It it's just as soon as possible for pickup.
+AGENT: Alright, the estimated fare is 8.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: I don't know when I'm coming back. It and what it's a doctor's appointment. I I don't know how long it will take. Can you understand what I'm saying? Hello?
+AGENT: I understand that you’re unsure about your return time after your doctor’s appointment. Would you like me to set up a will-call return trip so you can call us when you’re ready to be picked up? <emotion value="peaceful"/>
+CALLER: That
+AGENT: Okay, I’ve set up a will-call return trip for you from 3305
+CALLER: Okay.
+AGENT: Okay, I’ve set up a will-call return trip for you from 3305 N Leisure World Boulevard back to 3701 International Drive. The estimated fare for the return trip is 8.5 dollars, paying with Credit Card. Should I go ahead and book both trips?
+CALLER: Yeah.
+AGENT: Okay, so I’m booking both trips for you now. <emotion value="peaceful"/>
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 9:39 AM with confirmation number 2 1 3 6 7 2 9 9 6. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 2 9 9 7. Is there anything else I can help you with?
+CALLER: Can I expect about the the taxi? When can I expect
+AGENT: Your main trip is scheduled
+CALLER: taxi?
+AGENT: Your taxi for the main trip is scheduled to pick you up today at 9:39 AM. If you need any updates or assistance, just let me know. Is there anything else I can help with?
+CALLER: No. That's that's fine. Thank you.
+CALLER: Bye. Bye.

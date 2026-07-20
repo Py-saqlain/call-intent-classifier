@@ -1,0 +1,27 @@
+AGENT: Hi Cathy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like the reverse trip of the one I took this morning.
+AGENT: Thanks for letting me know about the return trip. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: It's fifteen two four five Shady Grove Road, North Bill Pink.
+AGENT: I have 1 5 2 4 5 Shady Grove Road, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Six teen fifth fifteen c the card drive, Rockville, Maryland.
+AGENT: I found a few locations related to "C The Card Drive" in Rockville, Maryland:
+
+1. DARCARS Nissan of Rockville at 1 5 9 1 1 Indianola Drive
+2. DARCARS Volvo Cars at 1 5 4 0 1 Frederick Road
+3. CARS OF ROCKVILLE at 7 0 1 East Gude Drive Unit 100-LL
+4. 7-Eleven at 7 7 9 Hungerford Drive
+5. Walgreens at 4 3 0 Hungerford Drive
+
+Which one would you like to use as your dropoff address?
+CALLER: None.
+AGENT: I understand none of those are correct. Could you please provide a more specific or different dropoff address?
+CALLER: I'd like to talk to an agent.
+AGENT: I can help you find the right dropoff address — would you like to continue?
+CALLER: No no no
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: I see.

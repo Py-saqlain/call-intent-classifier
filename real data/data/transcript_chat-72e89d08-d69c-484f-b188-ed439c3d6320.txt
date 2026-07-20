@@ -1,0 +1,38 @@
+AGENT: Hello Victory, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: If I needed vaccine,
+AGENT: Uhh, if you needed a vaccine, are you looking to book a
+CALLER: I need a Yeah. I need your. Hello? Hello?
+AGENT: Okay, I’m here to help. Are you looking to book a ride somewhere?
+CALLER: Hello? Yes. I'm I'm I want to at first first group.
+AGENT: Alright, it sounds like you want to book a ride for a first group. Could you please tell me where you would like to be picked up from?
+CALLER: We are recording.
+AGENT: I understand. When you're ready, please let me know your pickup location or how I can assist you with your ride.
+CALLER: Okay. I'm I'm at seventeen Testfield Road.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Calling
+CALLER: Yeah. Calling car. Calling car.
+AGENT: Just to be sure, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="hesitant"/>
+CALLER: Come on. Right. Come on. Right. Come on. Right. Mhmm.
+AGENT: Okay so I've got that you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Thirty four-eleven sixty one. Three hundred forty one thousand one hundred sixty one,
+AGENT: Thank you for that. Just to confirm, the last six digits you gave me are three four one one six one, correct? <emotion value="hesitant"/>
+CALLER: Yep. Yeah.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+CALLER: Mhmm. Big name.
+AGENT: Okay, so I found 17 Fersfield Road, Guilford, Pennsylvania. Is that the correct pickup address? <emotion value="hesitant"/>
+CALLER: Yeah. That's the approach.
+AGENT: Your pickup address has been verified. Could you please tell me your destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Nine eight six one they passed Delcast Road.
+AGENT: Hmm, let me check that address.
+CALLER: Montgomery Building.
+AGENT: I found a few locations.  
+Option one: 9 8 6 1 Dellcastle Road, Montgomery Village, Maryland.  
+Option two: 9 8 6 1 Dellcastle Road, Gaithersburg, Maryland.  
+Which one is correct? <emotion
+CALLER: Mhmm.
+AGENT: Uh, I am sorry, but could you please clarify which one you mean: 9 8 6
+CALLER: Yep.
+AGENT: Uh, I am sorry, but could you repeat that? I want to make sure I get the correct destination address. <emotion value="hesitant"/>
+CALLER: The correct destination
+AGENT: Uh, I am sorry, but could you repeat that? I want to make sure I get the correct destination address. <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

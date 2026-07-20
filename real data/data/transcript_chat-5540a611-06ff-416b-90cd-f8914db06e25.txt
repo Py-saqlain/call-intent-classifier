@@ -1,0 +1,65 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Drew Evans?
+CALLER: Yes.
+AGENT: Thanks for confirming, Drew. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I would like to book a trip.
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Column one.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yes. Zero zero three two eight six.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: 08630 Fentany Street.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Uh, I am sorry, but I couldn't locate that address. Could you please provide the street number and name again?
+CALLER: I'm on the phone with Connor.
+AGENT: Uh, I am sorry, but I couldn't
+CALLER: 8630 Fenton Street.
+AGENT: Okay, so I found 8 6 3 0 Fenton Street. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Silver Spring, Maryland?
+AGENT: Okay, so I found 8 6 3 0 Fenton Street, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the dropoff address? <emotion value="peaceful"/>
+CALLER: No. This isn't this isn't when we the dropoff is The drop off address is two zero four zero zero Apple Harvest Circle,
+CALLER: You got Germantown, Maryland. Two zero eight seven six.
+AGENT: Okay, so I found 2 0 4 0 0 Apple Harvest Circle, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I found 2 0 4 0 0 Apple Harvest Circle, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I would like to be picked up Friday, July 10.
+AGENT: What time on Friday, July 10 would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I'm gonna book this as a will call. Will call.
+AGENT: Okay, I've recorded your pickup as a will-call trip for Friday, July 10. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes.
+AGENT: Just to clarify, will there be one passenger and one wheelchair-accessible vehicle needed? <emotion value="hesitant"/>
+CALLER: Two passengers will be trouble. One passenger in.
+CALLER: I Yeah. No. Two passengers and one wheelchair accessible vehicle needed.
+AGENT: Okay great! I've got two passengers and one wheelchair-accessible vehicle noted. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: Yes. I would like for him to pick me up at the front entrance.
+AGENT: Alright, so let me confirm those details. Your pickup
+CALLER: Of the MedStar Eye Institute.
+AGENT: Just to confirm, is your pickup location 8 6 3 0 Fenton Street, or would you like to update it to the MedStar Eye Institute? <emotion value="hesitant"/>
+CALLER: Oh, It 8630 Fenton Street.
+CALLER: Eight six
+AGENT: Alright, so let me confirm those
+CALLER: And this is gonna be MedStar Eye Institute.
+AGENT: Okay, so your dropoff is MedStar Eye Institute at 2 0 4 0 0 Apple Harvest Circle. <break time="250ms"/> Your pickup time is July 10th. <break time="250ms"/> You have two passengers and one wheelchair-accessible vehicle. <break time="250ms"/> The fare is 54 dollars, paying with your
+CALLER: No. No. No. No. No. My pickup time my pickup address is eighty eighty six three zero Benson Street. The MedStar Eye Institute.
+AGENT: Just to clarify, is your pickup address 8 0 8 6 3 0 Benson Street at the MedStar Eye Institute? <emotion value="hesitant"/>
+CALLER: No. Six. Let's see. Six three zero Benton Street. MedStar Eye Institute. Eighty six thirty Vinton Street, MedStar Eye Institute.
+AGENT: Thank you for clarifying. Your pickup address is 8 6 3 0 Benton Street at the MedStar Eye Institute. <emotion value="peaceful"/> Now, could you please confirm your pickup time?
+CALLER: Fenton Fenton Street. Fenton Street.
+AGENT: Alright, so your pickup address is 8 6 3 0 Fenton Street at the MedStar Eye Institute. <emotion value="peaceful"/> What time would you like to be picked up?
+CALLER: I would like to make this trip as a will call will call.
+AGENT: Okay, I understand you'd like to make this trip a will-call. <emotion value="peaceful"/> Just to confirm, your pickup is 8 6 3 0 Fenton Street at the MedStar Eye Institute, with two passengers and one wheelchair-accessible vehicle. What time would you like to schedule your pickup for?
+CALLER: Yes.
+AGENT: I see that only one trip can be booked as will-call at a time. Since your main trip is already set as will-call, would you like to schedule a specific pickup time for your return trip instead, or would you prefer to speak with a live agent for assistance? <emotion value="hesitant"/>
+CALLER: A live agent. Live agent.
+AGENT: I’m connecting you to a live agent now who can assist you further. Please hold for a moment.
+AGENT: Your will-call trip is booked with confirmation number 2 1 3 6 7 0 9 8 7. Your pickup is scheduled for July 10th. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Drew. Have a great day!

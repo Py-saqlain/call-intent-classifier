@@ -1,0 +1,39 @@
+AGENT: Hello chaeif, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes, please. I'd like have a taxi cab in the morning at 06:30. To go to Reagan Airport
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so your dropoff is 2 4 0 1 Smith Boulevard, Arlington, Virginia. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. In the morning from
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: Giving me the airport address?
+AGENT: I have your dropoff address as 2 4 0 1 Smith Boulevard, Arlington, Virginia, which is Ronald Reagan Washington National Airport. Now, may I have the pickup address where the driver should come to get you in the morning? <emotion value="peaceful"/>
+CALLER: Fifty eight hundred
+AGENT: Thank you. Could you please tell me the street name and city for the pickup address starting with fifty eight hundred? <emotion value="peaceful"/>
+CALLER: Nicholson Lane,
+AGENT: And the city for fifty eight hundred Nicholson Lane? <emotion value="peaceful"/>
+CALLER: Yeah. Fifth
+AGENT: Hmm <break time="350ms"/> I want to make sure I got that right. You said the city is "Fifth" for fifty eight hundred Nicholson Lane? Could you please confirm or correct that? <emotion value="hesitant"/>
+CALLER: Yes. 5800 Nicholson Lane, North Bethesda.
+AGENT: Okay, so I found fifty eight hundred Nicholson Lane, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified, chaeif.
+AGENT: Just to confirm, you would like to be picked up tomorrow at 6:30 AM, is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Is it sufficient 06:30 to be at the airport? Seven is fine? It takes half an hour in the morning.
+AGENT: Thank you for confirming the pickup time of tomorrow at 6:30 AM. If you prefer, I can update your pickup time to 7:00 AM instead. Would you like me to do that? <emotion value="peaceful"/>
+CALLER: No. No. I want to be at the airport seven.
+AGENT: Got it, you want to arrive at the airport by 7:00 AM. Since travel takes about half an hour, would you like me to adjust your pickup time to 6:30 AM to ensure you get there on time? <emotion value="peaceful"/>
+CALLER: Yes. Now this is what I asked for.
+AGENT: Okay great! I've got your pickup time set for tomorrow at 6:30 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. I I'll be by myself.
+AGENT: Okay great! I've got that noted for one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No. He would call me up on arrival
+AGENT: Alright, the estimated fare is 45.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+CALLER: Okay.
+AGENT: Your main trip is scheduled for tomorrow at 6:30 AM. Your confirmation number is 2 1 3 6 7 7 7 8 4. Is there anything else I can help you with?
+AGENT: Your main trip is scheduled for tomorrow at 6:30 AM. Your confirmation number is 2 1 3 6 7 7 7 8 4. Is there anything else I can help you with?
+CALLER: No, thank you.
+AGENT: Thank you for calling Barwood & Regency, chaeif. Have a wonderful day!
+CALLER: Thank you.

@@ -1,0 +1,20 @@
+AGENT: Hello Coleen, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Pickup. Book a trip.
+AGENT: Thank you for choosing us for your trip. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride
+AGENT: Great, you chose Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Three three four two zero eight.
+AGENT: Thank you, your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: 775 Rockville Pike.
+AGENT: I have 7 7 5 Rockville Pike, Rockville,
+CALLER: I hop.
+AGENT: I want to make sure I heard you correctly. Did you mean to confirm the pickup address as 7 7 5 Rockville Pike, Rockville, Maryland?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 505 Griffith Farm Road,
+AGENT: I couldn't locate 505 Griffith Farm Road. Could you please provide the city and state for that address?
+CALLER: Sherwood, Maryland
+AGENT: I still couldn't find 505 Griffith Farm Road, Sherwood, Maryland. Could you please confirm if the street number or name is correct, or provide any nearby landmarks or cross streets?
+CALLER: I have

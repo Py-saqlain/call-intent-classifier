@@ -1,0 +1,42 @@
+AGENT: Hello Karin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a pickup.
+AGENT: Thank you for letting me know. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card?
+CALLER: Three three seven five one six.
+AGENT: Thank you, your payment with Call and Ride is all set.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Six
+AGENT: Could you please provide the full street address for the pickup? Just the the number "six" is not enough to locate it.
+CALLER: five five walk in Mill Road, Gaithersburg,
+AGENT: I have 5 5 Watkins Mill Road, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: No.
+AGENT: Thank you for letting me know. Please provide the correct pickup address.
+CALLER: Not correct. Six five five Watkins Mill Road Gaithersburg, Maryland, to zero eight seven nine.
+AGENT: I have 6 5 5 Watkins Mill Road, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: That's correct.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: One two five zero three are dens avenue Rock ville, Maryland, two zero eight five two.
+AGENT: I have 1 2 5 0 3 Ardennes Avenue, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: That is correct.
+AGENT: Your dropoff address has been verified, Karin. I will now proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+CALLER: One No.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: Yes, have them call upon arrival I will be waiting inside the Kaiser Building. To have them call when they get here.
+AGENT: The estimated fare is 28 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking your one-way trip now.
+AGENT: Your main trip is scheduled for today at 4:33 PM. The confirmation number is 2 1 3 6 6 9 6 9 0. Is there anything else I can assist you with?
+CALLER: Check text me the confirmation number. Text the information to me. Text me the confirmation number.
+AGENT: I can't send texts directly, but you can call our office or use our app to receive your confirmation details by text. Is there anything else I can help you with?
+CALLER: No, I have not been made aware of the app.
+AGENT: I understand. If you'd like, I can connect you to a representative who can provide more information about the app and other ways to get your confirmation details. Would you like me to do that?
+CALLER: No. Have the driver call me upon arrival.
+AGENT: The driver will call you upon arrival as you requested. Is there anything else I can assist you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Karin. Have a wonderful day.

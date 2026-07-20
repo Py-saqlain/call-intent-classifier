@@ -1,0 +1,69 @@
+AGENT: Hello Dr, this is Ana with Barwood & Regency. Your trip is scheduled for pickup today at 12:07 AM. How can I assist you today?
+CALLER: No. Not 12:07AM. 03:00.
+AGENT: Okay, I understand you want the pickup time at 3:00. Could you please confirm if you mean 3:00 PM today? Also, may I have the pickup and dropoff addresses for your ride?
+CALLER: Yes. 3PM today.
+AGENT: Looks like you already have a trip from 6 2 5 Hungerford Drive to 4 2 3 Twinbrook Parkway at 12:07 AM today. What would you like to do?
+CALLER: Yeah. You got 423 Twinbrook Parkway pick
+AGENT: You still have a trip from 6 2 5 Hungerford Drive to 4 2 3 Twinbrook Parkway at 12:07 AM today. What would you like to do?
+CALLER: Not at 12:07.
+AGENT: I see, you want to update the pickup time from 12:07 AM to 3:00 PM today. Would you like me to help with changing that?
+CALLER: No. Not in 12:07AM. That's wrong.
+AGENT: Thanks for clarifying. Since you already have a trip scheduled at 12:07 AM, would you like to cancel that one and book a new trip for 3:00 PM today instead?
+CALLER: Yes.
+AGENT: Hmm <break time="300ms"/> I see one trip on your account. <break time="700ms"/> Trip one: pickup at 6 2 5 Hungerford Drive at 12:07 am going to 4 2 3 Twinbrook Parkway. <break time="500ms"/> Would you like me to cancel this trip for you?
+CALLER: No. No. Yes. I need 423 Twinbrook Parkway pickup 03:00.
+AGENT: Hmm <break time="200ms"/> could you clarify which trip you'd like to cancel?
+CALLER: Well, I want the hunger for drive is a trip I'm going to now.
+AGENT: Okay, <break time="300ms"/> so you'd like to cancel the trip with pickup at 6 2 5 Hungerford Drive at 12:07 am going to 4 2 3 Twinbrook Parkway. Is that correct?
+CALLER: Yes. That's correct. Cancel that.
+AGENT: Okay so <break time="200ms"/> that trip has been cancelled for you. Is there anything else I can help you with?
+CALLER: Yes. What what about the pickup at four twenty three Twinbrook?
+AGENT: Hmm <break time="300ms"/> I don't see any active trips with pickup at 4 2 3 Twinbrook Parkway on your account right now. Would you like to book a new trip from there?
+CALLER: Well, I suppose
+AGENT: Okay, <break time="300ms"/> I can help you book a new trip from 4 2 3 Twinbrook Parkway. When would you like the pickup time to be?
+CALLER: yes, suppose to have been I booked it at 02:30, and they said it would be here at 03:00.
+AGENT: Hmm <break time="300ms"/> I don't see any current bookings for a pickup at 4 2 3 Twinbrook Parkway at 2:30 pm or 3:00 pm on your account. Would you like me to help you book a new trip for that time?
+CALLER: Yes, please.
+AGENT: Great. What is your destination address for the trip starting at 4 2 3 Twinbrook Parkway?
+CALLER: Best destination is Hungover Drive.
+AGENT: Just to confirm, you want to book a trip from 4 2 3 Twinbrook Parkway to 6 2 5 Hungerford Drive. Is that correct?
+CALLER: That's correct. That's correct.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: back to 423. Cash. Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: <emotion value="peaceful"/> Could you please tell me the pickup address for your ride?
+AGENT: Okay, just to confirm, your pickup address is 4 2 3 Twinbrook Parkway, Rockville, Maryland. Is that correct?
+CALLER: That's correct. That's correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: The hunger for drive.
+AGENT: I found a few locations.  
+Option one: 3 9 7 E Gude Drive, Rockville.  
+Option two: 5 8 7 Hungerford Drive, Rockville.  
+Option three: 1 4 0 1 Research Boulevard, Rockville.  
+Option four: 1 8 Export Drive, Sterling, Virginia.  
+Option five: 1 0 0 Indiana Avenue Northwest, Washington, D C.  
+Which one is correct?
+CALLER: That that is not me ma'am. No. No. 625 Hungerford Drive.
+AGENT: Okay, I found Giant Food at 6 2 5 Hungerford Drive, Rockville. Is that the correct dropoff location?
+CALLER: That's where I'm going. Yes, that's a correct dropoff. Then a return trip from 625 back to four twenty three Trimbrook Parkway
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Your dropoff address has been verified, Dr.
+AGENT: I have the pickup time as today at 3 PM. Is that correct? <emotion value="hesitant"/>
+CALLER: Well, it's supposed to have been at 02:30 and they said it'd be 03:00 before it got here.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. So the pickup time should be today at 2:30 PM, is that correct? <emotion value="hesitant"/>
+CALLER: That's correct.
+AGENT: The time you requested has already passed. When would you like to be picked up? <emotion value="hesitant"/>
+CALLER: Immediately,
+AGENT: Okay great! I've got your pickup time set for today at 3:21 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: 03:21. That's too late. Ma'am, no. 03:21 is too late. Want it before that.
+AGENT: I understand you want a pickup before 3:21 PM. Could you please tell me the exact time you would like to be picked up? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: When exactly would you like to be picked up? Please provide the time. <emotion value="hesitant"/>
+CALLER: Immediately.
+AGENT: Okay, I've updated your pickup time to right now, today at 3:22 PM. <emotion value="grateful"/> How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: 03:15. No ma'am. No. Not 03:22.
+AGENT: I see you want a pickup at 3:15 PM, which is earlier than the current time. Unfortunately, that time has already passed. Could you please provide a pickup time that is at least a few minutes from now or let me know if you want a will-call trip instead? <emotion value="hesitant"/>
+CALLER: A few minutes from now.
+AGENT: Thank you. Could you please tell me how many passengers will be traveling, and if anyone will need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: No wheelchair. No wheelchair.
+CALLER: Just one No wheelchair. No wheelchair.

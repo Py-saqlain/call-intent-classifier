@@ -1,0 +1,12 @@
+AGENT: Hi Nicole, this is Ana with Barwood & Regency. You have two trips today — one scheduled for pickup at 12:00 PM, and another with vehicle 1017 arriving around 9:57 AM, about 13 minutes away. How can I assist you today?
+CALLER: With what? I'm a big lady. I I didn't wanna get They won't call me back alone.
+AGENT: Uhh, I want to make sure I understand you correctly. Are you looking to book a ride and want to make sure you have the right assistance or vehicle for your needs? Could you please tell me a bit more about what you need help with? <emotion value="hesitant"/>
+CALLER: I'm not even gonna get paid. I pray.
+AGENT: I want to make sure I’m here to help you as best as I can. Are you trying to arrange a ride right now, or is there something else you need assistance with? <emotion value="peaceful"/>
+CALLER: I'm sorry, bro. Well, I wasn't even know where I could get to my point. I wasn't even to another way.
+AGENT: Okay, no worries. If you want, I can help you book a ride to wherever you need to go. Just let me know your pickup location and destination, and we’ll take it from there. Does that sound good? <emotion value="peaceful"/>
+CALLER: Am I angel?
+AGENT: Uhh, I’m here to help you with your ride needs. If you want to book a trip or have any questions about your ride, just let me know. How can I assist you today? <emotion value="peaceful"/>
+CALLER: I lie, Angel.
+AGENT: Alright, if you’d like to book a ride or need help with anything related to your transportation, just let me know what you need. I’m here to assist you. <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

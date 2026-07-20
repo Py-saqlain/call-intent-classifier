@@ -1,0 +1,10 @@
+AGENT: Hello Montario, this is Ana from Barwood & Regency. I see you have a will-call trip scheduled today from 816 Easley Street in Silver Spring to 11600 Nebel Street in Rockville. How can I assist you today?
+CALLER: Oh, I'm good.
+AGENT: Is there anything I can assist you with today, like checking a trip status, booking a new ride, or connecting you with a representative?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Customer service.
+AGENT: I can actually help with will-call activation right here — usually faster than waiting for an agent. What do you need today?
+CALLER: And I will wait here for my last
+AGENT: Take your time. If you need any help with your current trip or anything else, just let me know.
+CALLER: Oh, customer service. Customer position,
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

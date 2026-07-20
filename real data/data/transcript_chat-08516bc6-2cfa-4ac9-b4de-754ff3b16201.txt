@@ -1,0 +1,33 @@
+AGENT: Hi Rodney, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Get a taxi.
+AGENT: Alright, how would you like to pay for your taxi? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your taxi? If you'd like, I can also use your home address at 2 2 0 1 Randolph Road, Silver Spring, Maryland. <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I found your pickup address as 2 2 0 1 Randolph Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: One. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 801 Octagon Drive,
+AGENT: Hmm, I found the address as 8 0 1 Falcon Drive, Upper Marlboro, Maryland. Is that the correct dropoff location? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: 108 Northwood Avenue. Silver Spring, Maryland.
+AGENT: I found the address as 1 0 8 Southwood Avenue, Silver Spring, Maryland. Is that the correct dropoff location? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Rodney.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Immediately.
+AGENT: Okay, I've scheduled your pickup for right now. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thanks for that. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay great! <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 14.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 1:15 AM. Your confirmation number is 2 1 3 6 7 4 4 8 9. Is there anything else I can help you with?
+CALLER: Yeah.
+AGENT: What else can I assist you with today?
+CALLER: Nothing.
+AGENT: Thank you for calling Barwood & Regency, Rodney. Have a wonderful day.

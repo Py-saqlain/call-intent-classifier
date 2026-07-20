@@ -1,0 +1,32 @@
+AGENT: Hello Yvonne, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Need a taxi.
+AGENT: I'd be happy to help with your taxi ride. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Call them right.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Three four nine three four seven.
+AGENT: Thank you for providing your Call and Ride details. Your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your taxi ride?
+CALLER: One twenty twenty eight Cherry Hill Road Giant
+AGENT: I have the pickup address as one two zero two eight Cherry Hill Road, Silver Spring, Maryland. Is that correct?
+CALLER: One twenty twenty eight Cherry Hill Road,
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Three nine three zero Blackburn Lane, Burton ville.
+AGENT: I have the dropoff address as three nine three zero Blackburn Lane, Burtonsville, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Yvonne.
+AGENT: When would you like to be picked up?
+CALLER: Now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: I need to speak. One and no handicap.
+AGENT: Thank you for that information. Do you have any special instructions or notes for the driver?
+CALLER: Hello?
+AGENT: I’m here to help. Do you have any special instructions or notes for the driver?
+CALLER: Hello?
+AGENT: I’m here to help. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Yvonne, the estimated fare for your trip is 15.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I’m processing your booking now.
+AGENT: Your main trip is scheduled for today at 4:24 PM. Your confirmation number is 2 1 3 6 7 8 4 5 4. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Yvonne. Have a wonderful day.

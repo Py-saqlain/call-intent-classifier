@@ -1,0 +1,31 @@
+AGENT: Hello MR, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes, Anna. My name is James Wilson. I need a cab to go I I need a cab I'm in the call and ride program.
+AGENT: Okay, James, I understand you need a cab and you are in the Call and Ride program. Could you please tell me your pickup location and where you would like to go?
+CALLER: Yes, ma'am.
+AGENT: Thank you, James. Could you please provide the address or location where you would like to be picked up?
+CALLER: pickup location is twenty two zero five Gucci two zero
+AGENT: Just to confirm, your pickup location is 2 2 0 5 Georgian Way, correct? And where would you like to go?
+CALLER: it's 2205 Georgian Way, Yeah.
+AGENT: Great, thank you for confirming 2 2 0 5 Georgian Way as your pickup location. Where would you like to go from there?
+CALLER: And now I wanna go to the seventy nine fifty three New Hampshire Avenue. It's called Laney Park Optical. It's a eyeglass place.
+AGENT: Alright, James, since you mentioned Call and Ride as your payment method, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yes, ma'am. It's three three five three eight seven.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Call And Ride.
+CALLER: Yes, ma'am.
+AGENT: <emotion value="peaceful"/> Thank you. Could you please tell me the pickup address for your ride?
+AGENT: Okay, so I have your pickup as 2 2 0 5 Georgian Way in Wheaton-Glenmont, Maryland, and your dropoff as 7 9 5 3 New Hampshire Avenue in Hyattsville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes, ma'am. Yes, ma'am. 7953 New Hampshire Avenue in in Hattsville, Maryland. Yes,
+AGENT: Your pickup address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: as soon as possible.
+AGENT: Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Good. No. It's just meat. Me only. Me only.
+AGENT: Okay great! <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: I don't need no wheelchair.
+AGENT: Thanks for confirming no wheelchair is needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No ma'am.
+AGENT: Alright, so <break time="250ms"/> your pickup is 2 2 0 5 Georgian Way. <break time="250ms"/> Your dropoff is 7 9 5 3 New Hampshire Avenue. <break time="250ms"/> Pickup time is as soon as possible, around 1:47 PM. <break time="250ms"/> You have one passenger and no wheelchair needed. <break time="250ms"/> The estimated fare is 21 dollars and 50 cents, paying with your Call and Ride account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Great! I'll start collecting the details for your return trip now. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.

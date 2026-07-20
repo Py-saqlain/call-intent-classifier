@@ -1,0 +1,19 @@
+AGENT: Hello ms, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like to request taxica by 01:00.
+AGENT: Alright, how would you like to pay for your taxi? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card?
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: To start, could you please tell me the pickup address for your taxi at 1:00 pm? <emotion
+CALLER: Orkash,
+AGENT: Hmm <break
+CALLER: That will be hold on a moment. Oops. I'm sorry. Hold on a second. It's for one patient as a matter of fact. Hold on a moment. Okay. The address is is for missus Frost
+AGENT: I'm
+CALLER: Okay? And the address is nine three four one Copenhagen, Drive,
+AGENT: Hmm <break time="350ms"/> I couldn't find 9 3 4 1 Copenhagen Drive. Could you please provide the city and state for that address? <emotion value="hesitant"/>
+CALLER: It is in Potomac, Maryland 20854.
+AGENT: Hmm <break time="350ms"/> I still couldn't find 9 3
+CALLER: It is okay. Let me spell out the address. Hold on. It's c o p e n h a v e r. Oh, Copenhagen Drive.
+AGENT: Thank you for spelling that out. Just to confirm, the pickup address is 9 3 4 1 Copenhagen Drive in Potomac, Maryland, correct? <emotion value="peaceful"/>
+CALLER: Correct. 20854, the ZIP code.
+AGENT: Hmm <break time="350ms"/> I still couldn't find 9 3 4 1 Copenhagen Drive in Potomac, Maryland. Could you please confirm if there might be any other details or a
+CALLER: Okay. Let me call you back. Let me call you back.

@@ -1,0 +1,15 @@
+AGENT: Hello Marilyn, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Good morning. Do I have a ride picking me up this morning?
+AGENT: I don't see any active ride scheduled for you this morning. Would you like me to help you book one?
+CALLER: They had called me, um, last night. Said they'd be here by about four fifteen between five fifteen or something like that.
+AGENT: I don't see any active trip scheduled for you around that time. Would you like me to help you arrange a new pickup?
+CALLER: Well, this morning? Yes.
+AGENT: Good morning! How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Great! Could you please tell me which payment method you'd like to use: cash, credit card, or Call and Ride?
+CALLER: Cash.
+AGENT: Thank you for letting me know. Your payment method is set to cash. I'll proceed with arranging your ride now.
+AGENT: Could you please tell me the pickup address for your ride this morning?
+CALLER: Twenty one fifteen I Street Northeast, Washington DC two thousand ten.
+AGENT: I have 2 1 1 5 I Street Northeast, Washington, District of Columbia as your pickup address. Is that correct?

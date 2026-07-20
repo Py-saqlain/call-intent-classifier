@@ -1,0 +1,40 @@
+AGENT: Hello Joseph, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a toxic cup. From Best Buy in my Milestone. My resident returned to.
+AGENT: It sounds like you want to book a ride from Best Buy in Milestone to your residence. Could you please confirm the exact pickup address for Best Buy and your home address, or if you want me to use
+CALLER: Yes.
+AGENT: Thank you for confirming your pickup and dropoff locations. How would you like to pay for your ride?
+CALLER: I'm not
+AGENT: I want to make sure I understand you correctly. Could you please tell me how you would
+CALLER: Fudge.
+AGENT: Just to be sure, did you mean to say cash for your payment method?
+CALLER: Oh, shit.
+AGENT: If you’d like, you can tell me how you prefer to pay for your ride—cash, credit card, or Call and Ride. Which one works best for you?
+CALLER: Five Cash. Touch
+AGENT: Thank you, I have your payment method as cash.
+CALLER: Thank you.
+AGENT: I found one pickup location: Best Buy at 2 0 9 1 4 Frederick Road, Germantown, Maryland. Is that the correct pickup address? Also, I have your dropoff as 1 1
+CALLER: Yeah. Yeah.
+AGENT: Your pickup address has been verified, Joseph.
+AGENT: When would you like to be picked up?
+CALLER: Thank you.
+AGENT: When would you like to be picked up?
+CALLER: I'm ready even now.
+AGENT: Thanks, I've noted your pickup time as today at 3:05 PM. How many passengers will be traveling, including yourself? And will anyone need a
+CALLER: One. One Yes.
+AGENT: Thank you, I have recorded 1 passenger and 1 wheelchair. Do you have any special instructions or notes for the driver?
+CALLER: No. Just just so handicap accessible. That's all.
+AGENT: The estimated fare for your trip is 11 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 3:05 PM. Your confirmation number is 2 1 3 6 6 9 6 3 6. Is there anything else I can help you with?
+CALLER: No. Can you send that confirmation number to my email address? Please?
+AGENT: I’m not able to send emails directly. If you’d like, I can connect you to a representative who can assist with that. Would you like me to do that?
+CALLER: That's okay. That's alright. No problem. I'm waiting for the cab.
+AGENT: I will make sure your trip is on its way. If you need anything else, just let me know.
+CALLER: Okay. And the driver come into Best Buy and get me because the I'm not I'm not out outside.
+AGENT: I will include a note for the driver to come inside Best Buy to pick you up. Is that the Best Buy at your pickup location?
+CALLER: I'm right at Yeah.
+AGENT: Thank you for confirming. I have added the note for the driver to come inside Best Buy to pick you up. If there’s anything else you need, just let me know.
+CALLER: Thank you. No. Okay. No. I'm fine. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Joseph. Have a wonderful day!
+CALLER: It's a

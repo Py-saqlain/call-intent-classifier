@@ -1,0 +1,43 @@
+AGENT: Hello Alba, this is Ana with Barwood & Regency. How
+CALLER: Hello?
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Could you send me a copy? Thanks.
+AGENT: Could you please clarify what copy you are referring to? Are you asking for a copy of a booking confirmation, receipt, or something else? <emotion value="peaceful"/>
+CALLER: I'm calling I'm calling for you to send me a bowel taxi.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: That's Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Pickup of dressing.
+AGENT: Uh, I am sorry, but could you repeat that? Did you mean "Pickup of dressing" as in a place or something else? <emotion value="hesitant"/>
+CALLER: One I'm not global food. One three eight one four Outlet Drive, Silver Spring, Maryland.
+CALLER: Two zero nine four.
+AGENT: Hmm, let me check that address. You said one three eight one four Outlet Drive, Silver Spring, Maryland, and then two zero nine four. Could you please clarify which part is the pickup address? Are you giving two different addresses or correcting the first one? <emotion value="hesitant"/>
+CALLER: Okay. I am at one three eight one four Outlet Drive, Silver Spring, Maryland.
+CALLER: Global food.
+AGENT: Okay, so your pickup address is one three eight one four Outlet Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One seven two five
+AGENT: Could you please
+CALLER: Bailey Manor Drive, Hills Street,
+AGENT: Hmm, let me check that address. You said one seven two five Bailey Manor Drive, Hills Street.
+CALLER: So you just text
+AGENT: Uh, I am sorry, but could you repeat that? I want to make sure I have the correct dropoff address. <emotion value="hesitant"/>
+CALLER: One seven two five. Fairy Manor Drive,
+AGENT: Uh, I am sorry, but could you please confirm the street name?
+CALLER: Silver Spring, So
+AGENT: Okay, so the dropoff address you gave is one seven two five Bailey Manor Drive, Silver Spring. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yes.
+AGENT: Okay, so the dropoff address I found is one seven two five Staley Manor Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Alba.
+AGENT: We have noted that you need one wheelchair. Is that correct? <emotion value="peaceful"/>
+CALLER: One seven two five. Bailey. S t a l e y, Mano Drive, Silver Spring, Maryland two zero nine zero four.
+AGENT: It looks like you provided an address, but I’m currently focused on collecting your pickup time, number of passengers, wheelchair needs, and any special instructions
+CALLER: Can I speak speak to can I speak to someone who's needs?
+CALLER: She can't find it. She's trying to.
+AGENT: I will connect you to a live agent who can assist you further. Please hold for a moment.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Could you put me on to someone else, please? I'd like to speak to a representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

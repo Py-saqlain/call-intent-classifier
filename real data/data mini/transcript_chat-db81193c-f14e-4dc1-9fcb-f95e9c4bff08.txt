@@ -1,0 +1,11 @@
+AGENT: Hello Clarence, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Alright. Agent
+AGENT: How can I assist you with your ride today?
+CALLER: Agent.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: I would prefer that you help me out with getting the cab four one four assigned to my ride today.
+AGENT: Thank you for letting me know about the cab four one four. To proceed with your ride booking, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: Meditrans.
+AGENT: We only accept cash, credit card, and Call and Ride for payment. Would you like to use one of these methods, or would you prefer to speak with a live agent who can assist you further?
+CALLER: Meditran.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

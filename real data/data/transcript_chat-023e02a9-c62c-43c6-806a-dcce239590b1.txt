@@ -1,0 +1,33 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Joy. A p p e r.
+AGENT: Thanks, Joy. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I'd like to call for a cab for tomorrow morning. At seven thirty
+AGENT: Alright, how would you like to pay for your ride tomorrow morning at 7:30 am? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Oh, credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride tomorrow morning at 7:30 am? <emotion value="peaceful"/>
+CALLER: One zero one two one. Pierce Drive, It's p I e r c e. Drive, Silver Spring.
+AGENT: Hmm <break time="350ms"/> I couldn't find 1 0 1 2 1 Pierce Drive in Silver Spring. Could you please confirm the street number and name again, or provide any nearby landmarks or cross streets? <emotion value="apologetic"/>
+CALLER: Two.
+AGENT: Thank you. Just to confirm, is your pickup address 2 Pierce Drive in Silver Spring? <emotion value="peaceful"/>
+CALLER: No. It's from Pierce Drive. To another address in Silver Spring.
+AGENT: Okay, so your pickup is on Pierce Drive in Silver Spring, but you don't have a specific street number for pickup. Could you please provide the exact pickup address or a nearby landmark to help locate it? <emotion value="peaceful"/>
+CALLER: Yes. Yes. Mhmm.
+AGENT: Could you please provide the full pickup address including the street number on Pierce Drive in Silver Spring? This will help me find the exact location for your ride. <emotion value="peaceful"/>
+CALLER: It's one zero one two one
+AGENT: Hmm <break time="350ms"/> I still can't find 1 0 1 2 1 Pierce Drive in Silver Spring. Could you please check if the street name or number might be slightly different, or if there is another nearby landmark or cross street you can provide? <emotion value="apologetic"/>
+CALLER: Between Timberwood and Lorraine.
+AGENT: Hmm <break time="350ms"/> I couldn't find Pierce Drive between Timberwood and Lorraine in Silver Spring. Could you please provide the full street address including the number, or another nearby landmark? <emotion value="apologetic"/>
+CALLER: The house has been here since 1937. It's one zero one two one Pierce, p I e r c e, Drive, In four corners in Woodmore,
+AGENT: Hmm <break time="350ms"/> I still can't find 1 0 1 2 1 Pierce Drive in Four Corners, Woodmore. Could you please provide another nearby landmark or a different address for pickup? <emotion value="apologetic"/>
+CALLER: No. That that's that's the address for my house.
+AGENT: Thank you for clarifying that 1 0 1 2 1 Pierce Drive in Four Corners, Woodmore is your house address. May I confirm that this is your pickup address for the ride tomorrow morning at 7:30 am? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmm <break time="350ms"/> I still can't find 1 0 1 2 1 Pierce Drive in Woodmore. Could you please provide the city and state for this address? <emotion value="apologetic"/>
+CALLER: Silver Spring, Maryland.
+AGENT: Hmm <break time="350ms"/> I still can't locate 1 0 1 2 1 Pierce Drive in Silver Spring, Maryland. Could you please double-check the street number or name, or provide another nearby landmark or cross street? <emotion value="apologetic"/>
+CALLER: Okay. No. I hit the note. I got thought it's it's The house is one zero one two one Pierce. P I e r c e, Drive,
+AGENT: Thank you for repeating that your house address is 1 0 1 2 1 Pierce Drive. Since I am still unable to locate it exactly, could you please provide the city and state one more time to make sure I have the full address? Or if there is another landmark nearby, that would help too. <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: No. Silver Spring.
+CALLER: Thank you.

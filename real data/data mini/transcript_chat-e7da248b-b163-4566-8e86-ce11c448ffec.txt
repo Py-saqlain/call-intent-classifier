@@ -1,0 +1,23 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Dana Bowen?
+CALLER: Yes.
+AGENT: Thanks for confirming, Dana. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I would like to get a cab, please, ma'am.
+AGENT: Alright, Dana, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmmm.. that didn't seem quite clear, Dana. Could you please tell me how you would like to pay? Cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Yes. Dash.
+AGENT: Hmmm.. that didn't seem right, could you try again? Would you like to pay with cash, credit card, or Call and Ride? <emotion value="apologetic"/>
+CALLER: C s, n as in
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/> I will proceed with that.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Thanks for confirming cash, Dana. Now, could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Burger king.
+AGENT: I found a few Burger King locations. 
+Option one: 7 6 1 1 Rickenbacker Drive North, Gaithersburg. 
+Option two: 1 6 0 0 4 Shady Grove Road, Gaithersburg. 
+Option three: 2 0 4 3 0 Germantown Road, Germantown. 
+Option four: 1 9 7 0 0 Germantown Road, Germantown. 
+Option five: 3 8 7 0 International Drive, Silver Spring. 
+Which one would you like? <emotion value="peaceful"/>
+CALLER: Road.
+AGENT: Uh, I am sorry, but could you please specify which of the Burger King locations on the roads I mentioned you would like? For example, the one on Rickenbacker Drive, Shady Grove Road, Germantown Road, or International Drive? <emotion value="hesitant"/>

@@ -1,0 +1,38 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Mariam, This is this is my last name.
+AGENT: Thanks, Mariam. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Uh, I need the one taxi, please. Number. My card number.
+AGENT: Thank you, Mariam. How would you like to pay for your ride today? We accept cash, credit card, and Call and
+CALLER: I would just say
+CALLER: How to pay? It's the credit card?
+AGENT: Yes, credit card is one of the accepted payment methods. Would you like to pay with a credit card for this ride?
+CALLER: Call in line.
+CALLER: Call in light.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Two three seven nine.
+AGENT: Thank you for the digits. Just to confirm, the last six digits of your Call and Ride card are 2 3 7 9? It looks like that's only four digits. Could you please provide the full
+CALLER: Yes. Yes.
+AGENT: I only have four digits so far. Could you please provide the other two digits to complete the last six digits of your Call and Ride card?
+CALLER: Yes. 2379.
+AGENT: I see you repeated 2379, which is four digits. I need the full six digits of your Call and Ride card to proceed. Could you please provide the
+CALLER: Yes.
+AGENT: Could you please say the full six digits of your Call and Ride card? For example, if your card number ends with six digits, please provide all six so I can verify your payment.
+CALLER: Zero nine zero six two three seven nine.
+AGENT: Thank you for providing those digits. To clarify, is the full last six digits of your Call and Ride card 0 9 0 6 2 3 or 7 9? Could you please confirm the exact six digits?
+CALLER: Zero six two three seven nine.
+AGENT: Thank you, Mariam. Your payment method is set as Call and Ride.
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: Oh, two two five
+AGENT: Thank
+CALLER: North Washington Street, log Rockville, Maryland.
+AGENT: I have 2 2 5 North Washington Street, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: There's any one four five zero eight Home Crest Road. Silver Spring, Maryland, two zero nine zero six.
+AGENT: I have 1 4 5 0 8 Homecrest Road, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Mariam. I'll proceed with the next steps now.
+AGENT: You mentioned 1
+CALLER: Okay. You.
+AGENT: Thank you for confirming 1 passenger. When would you like to be picked up?
+CALLER: Thank you very much. Yeah. Thanks. Hold on. Thank you. Okay. No problem. Yeah.

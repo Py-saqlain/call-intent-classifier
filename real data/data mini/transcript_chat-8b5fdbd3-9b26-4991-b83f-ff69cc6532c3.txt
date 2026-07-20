@@ -1,0 +1,19 @@
+AGENT: Hello Robert, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Uh, can I talk to
+AGENT: Uhh, yes, I’m here to help. What can I assist you with today? <emotion value="peaceful"/>
+CALLER: Can you I can talk to somebody?
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Two eight.
+AGENT: Could you please tell me what you need help with regarding "two eight"? Are you looking to book a ride, check a trip status, cancel, or something else?
+CALLER: I did. Can't say I received a trip, but it's too far. More than eight miles before or something is not even. That's why I want to cancel the trip.
+AGENT: I can take care of that for you.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see
+CALLER: Okay.
+CALLER: team trip. Kim Kim trip.
+AGENT: Hmmm.. <break time="300ms"/> I didn't quite catch that. Alright, how would you like to pay? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: No. I'm not the customer. I'm the driver. I'm not customer. I'm the driver. I want to cancel the the Kim
+AGENT: I understand you're the driver and want to cancel the trip for Kim. However, I handle payment collection. Let me connect you to the right person who can assist with cancellations. Please hold for a moment.
+CALLER: Thank you.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Can I talk to the representative? Can I can

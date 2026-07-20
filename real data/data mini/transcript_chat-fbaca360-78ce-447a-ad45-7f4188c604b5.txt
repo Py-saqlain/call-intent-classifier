@@ -1,0 +1,5 @@
+AGENT: Hi Katrina, this is Ana with Barwood & Regency. Vehicle 257 is on the way and should be there for your pickup in about 9 minutes at 6:13 pm. How can I assist you today?
+CALLER: Yes. I need to find out what time the taxi is actually coming, the ETA. I've been waiting for forty five minutes.
+AGENT: I'll check the status and ETA of your taxi for you right now.
+AGENT: Okay, so your driver in vehicle 257 is on the way and should arrive in about 9 minutes, around 6:13 pm. Is there anything else I can help you with? <emotion value="content"/>
+CALLER: Yes. I would like to speak to a person.

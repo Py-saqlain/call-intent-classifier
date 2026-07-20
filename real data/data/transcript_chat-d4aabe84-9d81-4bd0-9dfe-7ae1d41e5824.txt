@@ -1,0 +1,61 @@
+AGENT: Hello, Virginia. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Can I get a cab at 3502 Shelf Hill mandatory?
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so your pickup address is 3 5 0 2 Sheffield Manor Terrace, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: I'm going to TD Bike on Bridge Chain.
+AGENT: Hmm, I couldn't find a location for "TD Bike on Bridge Chain." Could you please provide the full address or any nearby street or landmark to help me find it? <emotion value="apologetic"/>
+CALLER: Oh, okay. Castle Boulevard. TD Bank.
+AGENT: Thanks for that. What is the street number on Castle Boulevard for TD Bank? <emotion value="peaceful"/>
+CALLER: I don't know. It's one three four something.
+AGENT: Okay, so you said the dropoff is TD Bank at one three four something Castle Boulevard. Let me look that up for you. <emotion value="peaceful"/>
+AGENT: I found a few TD Bank locations. 
+Option one: 1 5 8 3 0 Shady Grove Road, Gaithersburg, Maryland. 
+Option two: 8 1 0 West Diamond Avenue, Gaithersburg, Maryland. 
+Option three: 1 8 1 0 8 Town Center Drive, Olney, Maryland. 
+Option four: 1 9 9 0 5 Century Boulevard, Germantown, Maryland. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Okay.
+AGENT: Could you please tell me which one of those four TD Bank locations is the correct one for your dropoff? <emotion value="peaceful"/>
+CALLER: Briggs Cheney, Castle Boulevard, TD Byte.
+AGENT: Uh, I am sorry, but could you repeat that? I want to make sure I have the correct dropoff address. <emotion value="apologetic"/>
+CALLER: Castle Boulevard.
+AGENT: Thanks for that. What is the street number on Castle Boulevard for your dropoff? <emotion value="peaceful"/>
+CALLER: One three four I think it's
+AGENT: Okay, so you said the dropoff is at one three four Castle Boulevard. Let me look that up for you. <emotion value="peaceful"/>
+AGENT: Hmm, I couldn't find a location for 134 Castle Boulevard. Could you please provide any nearby landmark, cross street, or additional details to help me find it? <emotion value="apologetic"/>
+CALLER: one four. Yes.
+AGENT: Okay, so you said the dropoff is at one four Castle Boulevard. Let me check that for you. <emotion value="peaceful"/>
+AGENT: I found two locations on Castle Boulevard with the number 14. 
+Option one: 1 3 8 1 3 Castle Boulevard, Silver Spring, Maryland, unit 14. 
+Option two: 1 3 9 2 9 Castle Boulevard, Silver Spring, Maryland, suite 14. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: The first one.
+AGENT: Your dropoff address has been verified, Virginia. I'll now proceed with arranging your ride.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now.
+AGENT: Okay great! I've got your pickup time as today at 10:47 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: That's one one
+AGENT: Thanks for that. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay great! I've got that noted. Do you have any special instructions for the driver? <emotion value="peaceful"/>
+CALLER: I would like to hear him to bring me back.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Do you have any other special instructions for the driver? <emotion value="peaceful"/>
+CALLER: No, ma'am.
+AGENT: Alright, the estimated fare is 7 dollars, paying with Self. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: Okay.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I don't have that return trip information yet. Let me continue collecting your trip details and we'll have that information shortly. For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now, if you would like, at thirty five zero two.
+AGENT: The return trip pickup time must be at least 10 minutes after your main trip pickup time, which is today at 10:47 AM. Could you please provide a valid return pickup time that is at least 10 minutes later? Or would you prefer to just book a one-way trip instead? <emotion value="hesitant"/>
+CALLER: Ten minutes later. Ten minutes. A one way trip.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 6 8 7 0, and your pickup is today at 10:47 AM. Is there anything else I can help you with?
+CALLER: Oh, could you happen to call me? When he outside?
+AGENT: I’m not able to call the driver directly, but I can connect you with a representative who can help with that. Let me do that for you now.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Okay.
+AGENT: I’m

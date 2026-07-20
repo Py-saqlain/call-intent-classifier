@@ -1,0 +1,56 @@
+AGENT: Thank you for calling Barwood & Regency. May I please have your name or the phone number on your account to help you today?
+CALLER: Three zero one nine eight four. One nine one nine b v
+AGENT: Thank you for that. Just to confirm, is your phone number 3 0 1 9 8 4 1 9 1 9?
+CALLER: Yes.
+AGENT: I have your phone number, but I still need your name to find your profile. Could you please tell me your name?
+CALLER: Baby. Bibi, b I b I. I need a wheelchair van to pick me up.
+AGENT: Thanks, Bibi. This is Ana from Barwood & Regency. How can I assist you with your ride today?
+CALLER: I need to go from my home to Bow Avenue, Target.
+AGENT: Thank you for sharing your trip details, Bibi. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Chloride.
+AGENT: Just to make sure I heard you right, did you mean credit card for your payment?
+CALLER: Call and ride.
+AGENT: Great, for Call and Ride, could you please provide the last six digits of your Call and Ride card?
+CALLER: Three five zero six zero zero
+AGENT: Thank you, Bibi. Your payment with Call and Ride is all set.
+CALLER: okay. Now I need a return trip So he just have to wait for me for, like, five minutes so that I can go in the store. And get the the transaction done.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Now, about your destination, is Bow Avenue, Target the correct place you want to go?
+CALLER: Yes.
+AGENT: I found Target at 5 7 0 0 Bou Avenue, Rockville, Maryland. Is this the place you want to go?
+CALLER: It's not gonna be long. It's gonna be two or three minutes. I'm just yeah. Yeah. Yes. And he need to wait for me because it's just gonna be a quick transaction. To get card.
+AGENT: Your dropoff address has been verified, Bibi.
+AGENT: We have noted that you need one wheelchair for your trip. Is that
+CALLER: Mhmm.
+AGENT: Thank you for confirming
+CALLER: Yes. And I'm coming back. It's return. Hello?
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. What time would you like to be picked up for your main trip?
+CALLER: Anytime now.
+AGENT: I've scheduled your pickup for today at 10:05 AM. How many passengers will be traveling, including
+CALLER: Is this
+AGENT: How many passengers
+CALLER: One. Me. One. Just me.
+AGENT: Thank you
+CALLER: Oh god.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: If you would just wait for me because I just have to go in and pick up this card. And come back out. Bring me back home.
+AGENT: The estimated fare for your trip is 6 dollars, and you'll be paying with your Call and Ride card. You mentioned you'd like the driver to wait for you to pick up your card and then bring you back home. Would you also like me
+CALLER: Yes, ma'am.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: As soon as it takes me about five minutes later, I'll be coming back out. I'm not going there to shop.
+CALLER: Just to get this card. And come back out. It shouldn't be more than five minutes wait.
+AGENT: How many passengers will be traveling on your return trip, and will you need a wheelchair-accessible vehicle?
+CALLER: One Yes.
+AGENT: For your return trip, I have the pickup at 5 7 0 0 Bou Avenue and the dropoff at 1 1 8 0 0
+CALLER: The same vehicle that takes me can bring me back. Mhmm. Seven five zero Old Georgetown Road.
+AGENT: Just to confirm, for your return trip dropoff, did you mean 7 5 0 0 Old Georgetown Road?
+CALLER: Are you there? One one seven five zero. Old Georgetown Road.
+AGENT: Thank you for clarifying. For your return trip dropoff, is 1 1 7 5 0 Old Georgetown Road correct?
+CALLER: It's just bringing me back home. Yes.
+AGENT: For your return trip dropoff, I have 1 1 7 5 0 Old Georgetown Road, Rockville, Maryland. Is that correct?
+CALLER: None. It was Yeah.
+AGENT: Your dropoff address has been verified, Bibi.
+AGENT: The estimated fare for your return trip is also 6 dollars, paying with your Call and Ride card. Should I go ahead and book both your
+CALLER: Okay. Alright.
+AGENT: Thank you for your patience. I am now processing your booking for both the
+CALLER: Yes, please. Can you make it as quickly as possible?
+AGENT: Your main trip confirmation number is 2 1 3 6 7 9 2 6 8, and your return trip confirmation number is 2 1 3 6 7 9 2 6 9. Is there

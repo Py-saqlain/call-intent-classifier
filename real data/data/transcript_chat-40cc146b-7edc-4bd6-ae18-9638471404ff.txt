@@ -1,0 +1,33 @@
+AGENT: Hi Kiana, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Can I get a cab?
+AGENT: I'd be happy to help you with that. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Last Cash.
+AGENT: Thank you, cash is all set for your payment method.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 8,200 string side Place, Gaithersburg, Maryland two zero eight seven nine.
+AGENT: I have 8 2 0 0 Streamside Place Apartment 1, Gaithersburg, Maryland 2 0 8 7 9 as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Yeah. It's nineteen forty seven Brassy Place, Montgomery Village, Maryland two zero eight eight six.
+AGENT: I couldn't find an exact match for nineteen forty seven Brassy Place, Montgomery Village, Maryland two zero eight eight six. The closest match I found is between nineteen five one three and nineteen five five one Brassie Place, Montgomery Village, Maryland two zero eight eight six. Is that the correct dropoff location?
+CALLER: Yes.
+AGENT: I have nineteen five one three to nineteen five five one Brassie Place, Montgomery Village, Maryland two zero eight eight six as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Kiana.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: one
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 12 dollars, and you will be paying with your own payment method. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking your one-way trip. Just to confirm, should I go ahead and book it now?
+CALLER: Yes.
+AGENT: I am booking your trip now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 6 7 2 0. Your pickup is today at 8:10 AM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Kiana. Have a wonderful day!
+CALLER: Thanks.

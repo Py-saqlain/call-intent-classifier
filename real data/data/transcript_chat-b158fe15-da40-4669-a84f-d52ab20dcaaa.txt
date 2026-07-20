@@ -1,0 +1,34 @@
+AGENT: Hello Josephine, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I'm I want a taxi to go to Walmart.
+AGENT: Thanks for letting me know your destination is Walmart. How would you like to pay for your ride today? We accept cash, credit card,
+CALLER: Yes.
+CALLER: Yes.
+AGENT: Could you please tell me if you would like to pay with cash, credit card,
+CALLER: Yes.
+AGENT: I want to make sure I understand you correctly. Would you like to pay
+CALLER: Cash. Cash.
+AGENT: Thank you, cash it is. I'll proceed with your booking now.
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: 76. Maple Avenue,
+AGENT: Thank you. Just to confirm, is your pickup address 7
+CALLER: South Uh-huh. Could you say that again?
+AGENT: I want to make sure I got it right. Is your pickup address seven six Maple Avenue, South?
+CALLER: Seventy six twenty Naperville Avenue, Takoma Park,
+AGENT: Just to confirm, is your pickup address seven six two zero Maple Avenue, Takoma Park, Maryland?
+CALLER: Yes.
+AGENT: I found several Walmart locations at 2 0 9 1 0 Frederick Road in Germantown, Maryland. There is a Walmart Deli, Walmart Supercenter, Walmart Auto Care Center, Walmart Pharmacy, and Walmart Vision & Glasses. Which one would you like to go to?
+CALLER: I'm going to seventy nine twenty nine Georgia Avenue,
+AGENT: I couldn't find 7929
+CALLER: Twenty twenty fifth Fifty nine. Twenty nine, two
+AGENT: Could you please say the full street address
+CALLER: north way.
+AGENT: I want to make sure I have it right. Are you saying the address is 2025 Northway? If not, could you please provide the full street
+CALLER: No. No.
+AGENT: Could you please provide the full dropoff street address again, including the street number, street name, city, and state if possible?
+CALLER: Yes, ma'am. It is
+AGENT: Thank you. Please go ahead and tell me the full dropoff address including the street number, street name, city, and state.
+CALLER: It is. Fifty nine twenty nine, Georgia Avenue Northwest.
+AGENT: I found
+CALLER: Watching can be free.
+AGENT: I want to make sure I heard you correctly. Did you mean the Walmart Supercenter at 5 9 2 9 Georgia Avenue Northwest in Washington, D C?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

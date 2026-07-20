@@ -1,0 +1,33 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Mary Anne Rasenburg,
+AGENT: Thanks, Mary. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I wanted to order a taxi to 9014 Old Georgetown Road. Bethesda.
+AGENT: Thank you for sharing your destination, Mary. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, Mary. Your payment method is set to credit card.
+AGENT: Mary, I have 9 0 1 4 Old Georgetown Road, Bethesda, Maryland as your dropoff address. Is that correct?
+CALLER: That's my pickup address. I wanna be off somewhere else.
+AGENT: Thank you for clarifying, Mary. Let's get your pickup address confirmed first. Could you please tell me the full address where you'd like to be picked up?
+CALLER: 9014 Old Georgetown Road in Bethesda.
+AGENT: Mary, I have 9 0 1 4 Old Georgetown Road, Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. It's the NIH Clinical Center, 10 Center Drive in in Bethesda.
+AGENT: Mary, I have 1 0 Center Drive, Bethesda, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Mary. I'll now proceed with arranging your trip.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: Thanks, Mary. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger. No wheelchair accessible vehicle.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: He can go into the driveway on the right of the house to the back.
+AGENT: The estimated fare for your trip is 5.5 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No. Not now.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now?
+CALLER: Please do.
+AGENT: I am booking your trip now.
+AGENT: Your main trip is scheduled for today at 2:19 pm. Your confirmation number is 2 1 3 6 6 4 7 4 1. Is there anything else I can assist you with?
+CALLER: No. That's it.
+AGENT: Thank you for calling Barwood & Regency, Mary. Have a wonderful day!
+CALLER: Okay.

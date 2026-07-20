@@ -1,0 +1,66 @@
+AGENT: Hi Cris, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, I need a taxi to 9901 Medical Center Drive, Rockville, Maryland.
+AGENT: Thank you for sharing your destination. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: I have 9 9 0 1 Medical Center Drive, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: No. That's the pickup address.
+AGENT: Thank you for clarifying that 9 9 0 1 Medical Center Drive, Rockville, Maryland is your pickup address. Could you please provide the destination or dropoff address?
+CALLER: No. No. The pickup address is nine nine zero one Medical Center Drive, emergency department.
+CALLER: Adventist Hospital
+AGENT: I found several Adventist Hospital-related locations:
+
+1. 6 Montgomery Village Avenue, Suite 402, Gaithersburg, Maryland
+2. 820 West Diamond Avenue, Gaithersburg, Maryland
+3. 117 Ellington Boulevard, Gaithersburg, Maryland
+4. 15225 Shady Grove Road, Suite 201, Rockville, Maryland
+
+Which one would you like to use as your dropoff address?
+CALLER: No. The pickup address.
+AGENT: Thank you for
+CALLER: Pickup address.
+CALLER: Is 9901 Medical Center Drive, Emergency Department.
+AGENT: I have 9 9 0 1 Medical Center Drive, Emergency Department, Rockville, Maryland as your
+CALLER: Correct.
+AGENT: Your pickup address has been verified, Cris.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a
+CALLER: One one No. Wheelchair. One passenger.
+AGENT: Thank you, I have recorded one passenger and no wheelchair needed. Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 4.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No. Do you can I give you the drop off address?
+AGENT: I have the dropoff address as 9901 Medical Center Drive. Would you like to update it or keep it as is?
+CALLER: No. That's the
+AGENT: Just to confirm, you want to keep the dropoff address as 9901 Medical Center Drive, correct?
+CALLER: no. That's the pickup address. No. No.
+AGENT: Thank you for clarifying that 9901 Medical Center Drive is the pickup address. Could you please provide the dropoff address?
+CALLER: Yeah. The drop off address is seven six zero one Nutwood Court.
+AGENT: Thank you.
+CALLER: Burwood, Maryland.
+AGENT: Just to confirm, your dropoff address is 7 6 0 1 Nutwood Court, Barwood, Maryland. Is that correct?
+CALLER: No. Seven six zero one Nutwood Court,
+AGENT: Could you please confirm the city and state for 7 6 0 1 Nutwood Court?
+CALLER: Rockville, Maryland.
+AGENT: Thank you for confirming.
+CALLER: Rockville, Maryland.
+AGENT: Got it, your dropoff address is 7 6 0 1 Nutwood Court, Rockville, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: To update your dropoff address, could you please provide the full address you want to use?
+CALLER: Seven six zero one Nutwood Court, Rockville, Maryland.
+AGENT: I have 7 6 0 1 Nutwood Court, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: The dropoff address has been successfully updated. Now, when would you like to be picked up?
+AGENT: Your pickup address is 9 9 0 1 Medical Center Drive, and your dropoff address
+CALLER: Now
+AGENT: Your pickup time is set for now, at 4:38 am. Is that correct?
+CALLER: Yes.
+AGENT: Great. The estimated fare for your trip is 14 dollars, paying with your Self account. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your trip is booked with
+CALLER: I'm paying with cash.
+AGENT: I see your trip is already booked with the Self account payment. If you'd like to change to cash, I can connect you to a representative who can assist with that. Would you like me to do that?
+CALLER: Thank you.
+AGENT: Thank you for calling Barwood & Regency, Cris. Have a wonderful day.

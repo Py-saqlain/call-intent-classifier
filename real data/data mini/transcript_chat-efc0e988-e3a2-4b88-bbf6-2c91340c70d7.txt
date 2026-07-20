@@ -1,0 +1,7 @@
+AGENT: Good morning, Raymond. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, somebody called and said my cab is outside.
+AGENT: Uhh, so your cab is already outside? If you need any help with your current ride or want to check its status, I can assist you with that. What would you like to do? <emotion value="peaceful"/>
+AGENT: Hmm, let me check on that for you. Uhh, it looks like you don't have an active trip scheduled right now. Would you like me to help you book a ride? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

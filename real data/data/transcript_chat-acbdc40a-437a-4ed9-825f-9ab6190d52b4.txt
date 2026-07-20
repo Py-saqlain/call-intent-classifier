@@ -1,0 +1,37 @@
+AGENT: Hello Dr, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Okay. I need a pickup at four twenty three Twinbrook Parkway. Right away.
+AGENT: Thank you for letting me know your pickup location and time. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: I'm paying I'm paying cash.
+AGENT: Thank you for confirming cash as your payment method.
+AGENT: I have 4 2 3 Twinbrook Parkway, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Cash. And I need it to I need them okay. I need them to take me to 625. Hungerford Drive.
+AGENT: Thank you for confirming your pickup address. Now, I will confirm your dropoff address as 6 2 5 Hungerford Drive. Is that correct?
+CALLER: Alright. That's correct.
+AGENT: Your dropoff address has been verified, Dr. I will now proceed with arranging your ride.
+AGENT: You mentioned you want to be picked up right away. Is that correct? Please say yes to confirm or let me know if you want a different pickup time.
+CALLER: That's correct. And then I need them to return me back to four twenty three. Yes. That's correct.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. How many passengers will be traveling with you, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No, right away. Just one myself.
+AGENT: The estimated fare for your ride is 12 dollars, paying with cash. You mentioned you'd like a return trip as well—would you still like me to set that up?
+CALLER: No, just myself.
+AGENT: Just to confirm, are you referring to the number of passengers for the main trip or the return trip?
+CALLER: Yes, please.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Just one for both ways.
+AGENT: Thank you for confirming one passenger for the return trip as well. What time would you like to be picked up for your return trip?
+CALLER: And one within one within five minutes after I'm dropped off.
+AGENT: I have scheduled your return pickup for five minutes after you are dropped off. Will you need a wheelchair-accessible vehicle for the return trip?
+CALLER: Five to ten minutes. Yes.
+AGENT: For your return trip, I have the pickup at 6 2 5 Hungerford Drive and the dropoff at 4 2 3 Twinbrook Parkway, Rockville, Maryland. Is that correct?
+CALLER: Yeah. That's correct.
+AGENT: The estimated fare for your return trip is 12 dollars, paying with your usual payment method. Should I go ahead and book both your main trip and return trip?
+CALLER: Yes. Please do.
+AGENT: Thank you. I am now booking both your main trip and return trip.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 8:02 PM with confirmation number 2 1 3 6 7 8 5 6 8. Your return trip is scheduled for tomorrow at 1:02 AM with confirmation number 2 1 3 6 7 8 5 6 9. Is there anything else I can help you with?
+CALLER: No. My return my return trip
+AGENT: Would you like me to repeat the confirmation number for your return trip?
+CALLER: no. My return trip is today. Yes. My return trip is today.
+AGENT: Thank you for clarifying. I will update your return trip to be today instead of tomorrow. Please hold on a moment while I make that adjustment.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you.

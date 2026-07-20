@@ -1,0 +1,20 @@
+AGENT: Hello Ricardo, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to schedule a pickup
+AGENT: Okay, I can help you with scheduling a pickup. Let me get that started for you.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Five six zero one Chesterbrook Road, Bethesda, Maryland, 20816.
+AGENT: Okay, so I have your pickup as five six zero one Chesterbrook Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Dallas International Airport
+AGENT: Hmm, let me check that address. Okay, I found 1 Aviation Circle, Washington, District of Columbia. Is that the correct dropoff location? <emotion value="hesitant"/>
+CALLER: No, it's not. It's the airport in Virginia.
+CALLER: Dallas International Airport
+AGENT: I see that the address you mentioned is outside our service area. Could you please provide an alternative dropoff address? <emotion value="apologetic"/>
+CALLER: No. I cannot.
+AGENT: I understand. Since we can't proceed without a dropoff address, would you like to cancel this booking? <emotion value="hesitant"/>
+CALLER: Yes, please.
+AGENT: Hmm, let me pull that up for you. I’m sorry, I don’t see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>

@@ -1,0 +1,12 @@
+AGENT: Hello Rahmel, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I live in leisure world, and I wanna know how much it would cost to go from leisure world to sixty ten Executive Boulevard,
+CALLER: That's Elite Healthcare.
+AGENT: Uhh, I can help you with arranging a ride from Leisure World to 6 0 1 0 Executive Boulevard, Elite Healthcare. However, I don't have the ability
+CALLER: Okay. I don't need it I don't need it today. I don't need it today. But I may wanna use it in the future even on a regular basis. So how much would it cost to go and come back about two hours later?
+AGENT: I understand you're interested in future rides from Leisure World to 6 0 1 0 Executive Boulevard, Elite Healthcare, including a return trip about two hours later. I don't have fare information directly, but I can help you book those rides or connect you with someone who can provide pricing details. Would you like me to assist you with scheduling a ride now or connect you to a representative for fare questions? <emotion value="peaceful"/>
+CALLER: Because I'm not gonna use it I could not commit to it now, but in the future, I may wanna use it even on a basis. So that's why I'm just trying to find out about what it would cost.
+AGENT: I completely understand wanting to know the cost before committing. Since I can't provide fare details myself, I can connect you with a representative who can give you accurate pricing information whenever you're ready. Would you like me to connect you to someone who can help with that? <emotion value="peaceful"/>
+CALLER: Okay. That's fine. Yeah. Look. Go ahead. Do that, please. Thank you. I appreciate your time.
+AGENT: I'll connect you now to a representative who can provide the fare information and assist you further. Please hold for a moment.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you very much. Thank you.

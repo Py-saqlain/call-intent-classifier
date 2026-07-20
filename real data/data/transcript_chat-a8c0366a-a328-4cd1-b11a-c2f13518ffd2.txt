@@ -1,0 +1,40 @@
+AGENT: Hello Gerrie, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Okay. I have to make a reservation, please. For Tuesday, July 7.
+AGENT: Thank you for letting me know your reservation date is Tuesday, July 7. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: That's my credit card.
+AGENT: Thank you for confirming your payment method as credit card.
+AGENT: Could you please tell me the pickup address for your ride on Tuesday, July 7?
+CALLER: It's a ring house facility. One eight zero one East Jefferson Street, Rockville, Maryland.
+AGENT: I have 1 8 0 1 East Jefferson Street, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address for your ride?
+CALLER: It's the Shady Grove Medical Center at it's part of Adventist Hospital And the address
+AGENT: Could you please
+CALLER: is nine nine the address is nine zero zero one Medical Center Drive, Rockville, Maryland two zero eight five zero.
+AGENT: I have 9 0 0 1 Medical Center Drive, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: Nine nine No. The address is nine nine zero one Medical Center Drive, It's called shady grove. Medical Center.
+AGENT: I have 9 9 0 1 Medical Center Drive, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Gerrie. I will now proceed with the next steps for your reservation.
+AGENT: You mentioned your pickup time is Tuesday, July 7. Is that correct?
+CALLER: Yes.
+AGENT: You gave the date Tuesday, July 7, but I need to know what time on that day you would like to be picked up. What time should I schedule for your pickup?
+CALLER: Two fifteen.
+AGENT: Just to clarify, is that two fifteen in the morning or in the afternoon?
+CALLER: It's in in the afternoon.
+AGENT: Thank you. Your pickup time is set for Tuesday, July 7th at 2:15 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One, only myself. No. We do not need a wheelchair.
+AGENT: Thank you for that information. Do you have any special instructions or notes for the driver?
+CALLER: Just to get me there. And what is the fair place?
+AGENT: The estimated fare for your trip is 21 dollars and 50 cents, and you will be paying with your own payment method. Would you like to schedule a return trip as well?
+CALLER: Are you sure about that $21.50? Are you sure about that rate?
+AGENT: Yes, the estimated
+CALLER: Because I've gone there before, and it's it's it's it's less than that.
+AGENT: I understand your concern about the fare. The system shows the estimate as 21 dollars and 50 cents for this trip. If you'd like, I can help you update any details or check other options. Would you like to proceed with booking this trip, or do you want to make any changes?
+CALLER: So just a just make just book that, please.
+AGENT: Thank you. I am now booking your trip for Tuesday, July 7th at 2:15 PM from 1 8 0 1 East Jefferson Street to 9 9 0 1 Medical Center Drive for one passenger without wheelchair needs.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 7 3 4 7. The pickup is scheduled for July 7th at 2:15 PM. Is there anything else I can assist you with?
+CALLER: That's it for now. Thank you very much.
+AGENT: Thank you for calling Barwood & Regency, Gerrie. Have a wonderful day!
+CALLER: Now that's with Regency. Correct?

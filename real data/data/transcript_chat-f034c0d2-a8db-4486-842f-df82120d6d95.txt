@@ -1,0 +1,62 @@
+AGENT: Hello Charlotte, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to try to set up a transport for tomorrow morning for a wheelchair.
+AGENT: Thank you for letting me know about the wheelchair for tomorrow morning. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: It'll be it'll be cash.
+AGENT: Thank you for choosing cash as your payment method.
+AGENT: Could you please provide the pickup address for your ride tomorrow morning?
+CALLER: K. The pickup is 7727 Scotland Drive. S C 0 T L A N D, Drive in Potomac, Maryland
+AGENT: I have 7 7 2 7 Scotland Drive, Potomac, Maryland as your pickup address. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address for your ride?
+CALLER: Yes. It's six six four Watkins Mill Road, in Gaithersburg.
+AGENT: I found Watkins Mill High School at 1 0 3 0 1 Apple Ridge Road, Gaithersburg, Maryland. Is this the correct dropoff location?
+CALLER: No. It's not. Hold on a second. Let me see if I can get the correct address. Hold on.
+AGENT: Take your time. Just let me know the correct dropoff address when you're ready.
+CALLER: Okay. Hold on.
+AGENT: I'm here whenever you're ready. Just let me know the dropoff address when you have it.
+CALLER: Okay.
+AGENT: Could you please provide the dropoff address for your ride?
+CALLER: Yes. Uh, in a in a minute. I'm trying to find it.
+AGENT: No problem at all. Take your time to find the dropoff address, and just let me know when you're ready.
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from
+CALLER: Yes.
+CALLER: Yes. Hold on.
+AGENT: Thank you for letting me know. Whenever you're ready, please provide the dropoff address for your ride.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: K. Be with you shortly.
+AGENT: Thank you. I'll be here when you're ready to provide the dropoff address.
+CALLER: Okay. The number is six fifty five Watkins Mill Road, Gaithersburg.
+CALLER: Six five five.
+AGENT: I have 6 5 5 Watkins Mill Road, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Charlotte. I'll now proceed with arranging your ride.
+AGENT: You mentioned you need a pickup tomorrow morning and that one wheelchair will be traveling. Is that correct? Please say yes to confirm or let me know if any details need to be changed.
+CALLER: Yes.
+AGENT: Thank you for confirming. How many
+CALLER: Yes.
+AGENT: Could you please tell me how many passengers will be traveling, including yourself? Also, will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Just two. Two, myself and, and the the wheelchair person.
+AGENT: Charlotte, the estimated fare for your trip is 32.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Two thirty. PM.
+AGENT: The time you requested has already passed. What time would you like to be picked up for your return trip?
+CALLER: 02:30PM tomorrow.
+AGENT: Thank you. For your return trip, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. Myself and one wheelchair.
+AGENT: For your return trip, I have the pickup address as 6 5 5 Watkins Mill Road, Gaithersburg, Maryland, and the dropoff address as 7 7 2 7 Scotland Drive, Potomac, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 32.5 dollars, paying with cash. Should I go ahead and book both trips?
+CALLER: Yes.
+AGENT: Thank you, I am now booking both your trips.
+AGENT: Thank you for your patience. I am now booking both your main and return trips.
+AGENT: Your main trip is scheduled for tomorrow at 8:00 AM with confirmation number 2 1 3 6 7 8 5 1 1. Your return trip is scheduled for tomorrow at 2:30 PM with confirmation number 2 1 3 6 7 8 5 1 2. Is there anything else I can help you with?
+CALLER: Yes. I need a correction on the the main trip. The time.
+CALLER: Pickup time?
+AGENT: Yes, the pickup time for the main trip. What time would you like it changed to?
+CALLER: 10:30AM.
+AGENT: I will connect you to a representative who can assist with changing the pickup time for your main trip. Please hold for a moment.
+CALLER: Thank you.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

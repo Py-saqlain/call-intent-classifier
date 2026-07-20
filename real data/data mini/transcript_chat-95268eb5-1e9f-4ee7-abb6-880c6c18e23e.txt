@@ -1,0 +1,12 @@
+AGENT: Hello Rosa, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Need to book a cup.
+AGENT: I want to make sure I understand you correctly—are you looking to book a ride? If so, could you please tell me where you'd like to be picked up and your destination?
+CALLER: One one four one eight Lavery Way in Germantown,
+AGENT: Thank you for the pickup address at 1 1 4 1 8 Ledbury Way in Germantown. Where would you like to go?
+CALLER: Maryland
+AGENT: Just to confirm, is Maryland your dropoff location, or is there a more specific address or place within Maryland you want to go to?
+CALLER: Maryland. Okay.
+AGENT: Thank you for sharing your pickup and dropoff locations. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

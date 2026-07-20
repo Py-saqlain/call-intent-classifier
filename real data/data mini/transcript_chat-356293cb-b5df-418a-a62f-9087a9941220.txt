@@ -1,0 +1,32 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Drew Evans?
+CALLER: Am I speaking with Drew Evans? Yes.
+AGENT: Thanks, Drew. This is Ana from Barwood & Regency. What can I help you with today?
+CALLER: I help you with? Today? I would like to put a check.
+AGENT: Could you please clarify what you mean by "put a check"? Are you looking to book a ride, check on a trip status,
+CALLER: You're looking to book a ride?
+CALLER: Check on a trip?
+CALLER: No. Book a ride. Book
+AGENT: Thank you for letting me know you'd like to book a ride. How would you like to
+CALLER: Thank you for letting me like to book a ride. How would you like to take
+AGENT: We accept cash, credit card, and Call and Ride for payment.
+CALLER: We have that time. Credit card, and call and ride for payment.
+AGENT: Great, you mentioned credit card
+CALLER: Great. You mentioned credit
+AGENT: Thank you, I have your payment method as
+AGENT: To get started with your booking, could you please tell me the pickup
+CALLER: To get started with your booking, you please tell me the pickup
+AGENT: I’m here to help. Could you please provide the
+CALLER: I'm here to help.
+AGENT: I’m ready
+CALLER: Could you please provide
+CALLER: I'm ready
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: Could you please provide the pickup address for your ride?
+AGENT: Yes, please go ahead and tell me the pickup address for your
+CALLER: Yes. Please go ahead and tell me the pickup address for your
+AGENT: I’m ready to note your pickup address whenever you are. What address should I use?
+CALLER: I'm ready to note your pickup address whenever you are.
+CALLER: Address that I
+AGENT: Could you please tell me the full pickup address you would like to use?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Let me connect you with a human agent who can assist you better.

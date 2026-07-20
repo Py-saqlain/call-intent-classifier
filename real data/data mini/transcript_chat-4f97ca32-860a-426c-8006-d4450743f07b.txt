@@ -1,0 +1,27 @@
+AGENT: Hi Mike, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi. Anna. I need a cab at the leisure world giant in Silver Spring.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Tickets thirty eight dash. Dash
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Thirty eight sixty These International Drive in Silver Spring.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is three eight six zero International Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: I found Giant Food at three eight six zero International Drive, Silver Spring, Maryland. Is that the correct destination? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Mike.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now.
+AGENT: Okay great! I've got your pickup time as today at 10:55 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Thank you. One, just me.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Will you be needing a wheelchair accessible vehicle?
+CALLER: No, ma'am.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 5 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Your main trip is scheduled for today at 10:55 AM. Your confirmation number is 2 1 3 6 7 1 8 2 4. Is there anything else I can help you with?
+CALLER: Great. Yep. Thank you. Bye.

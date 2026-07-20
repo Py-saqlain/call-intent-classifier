@@ -1,0 +1,57 @@
+AGENT: Hello Suzanne, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi. I need a handicapped taxi for tomorrow. In the past, we have used taxi driver two four nine This is I need a van that can handle a wheelchair transport.
+AGENT: Alright, how would you like to pay for your ride tomorrow? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride tomorrow? If you'd like, I can use your home address at 5 0 0 5 Overlea Court, Bethesda, Maryland. Would that work for you?
+CALLER: Five
+AGENT: Uh, I am sorry, but could you please provide
+CALLER: That's correct.
+AGENT: Just to clarify, would you like me to use your home address at 5 0 0 5 Overlea Court, Bethesda, Maryland as your pickup location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I found your pickup location as 5 0 0 5 Overlea Court, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address for your ride? <emotion value="peaceful"/>
+CALLER: US renal dialysis at forty seven zero one Sangamo Road,
+CALLER: Bethesda, Maryland.
+AGENT: Okay, so I
+CALLER: Two zero eight one six.
+AGENT: Okay, so I found your dropoff location as 4 7 0 1 Sangamore Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Suzanne. <emotion value="peaceful"/>
+AGENT: We have noted that you need one wheelchair-accessible vehicle and that your trip includes handicapped taxi and wheelchair transport. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thanks for confirming. When would you like to be picked up tomorrow? <emotion value="peaceful"/>
+CALLER: Twelve fifteen. PM.
+AGENT: The time you requested has already passed. What time would you like to be picked up tomorrow? <emotion value="hesitant"/>
+CALLER: Twelve Noon.
+AGENT: Just to confirm, you mean twelve noon tomorrow, correct? <emotion value="peaceful"/>
+CALLER: Actually, 12:15 tomorrow.
+AGENT: Thanks for clarifying. To be sure, is that 12:15 PM tomorrow? <emotion value="peaceful"/>
+AGENT: The time you requested has
+CALLER: Yes.
+AGENT: I noticed the time you requested has already passed. Could you please provide a different pickup time for tomorrow? <emotion value="hesitant"/>
+CALLER: I'm not sure. Why why has the time has not already passed. It's 12:15 tomorrow.
+AGENT: I understand, and I want to make sure we get this right. Just to clarify, the current time is 6:38 PM today, Sunday, July 12th. So if you want a pickup at 12:15 PM tomorrow, that would be in the future and should be fine. Let me update that for you now.
+CALLER: Yes.
+AGENT: Okay great! How many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: One Just one pass passenger who is my mother who is in a wheelchair.
+AGENT: Alright, the estimated fare is 5 dollars, paying with credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Got it, let's arrange the return trip now. When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Between 05:15 and 05:30PM. Tomorrow,
+AGENT: Thanks for that. To make sure I have it right, would you prefer a pickup at 5:15 PM or 5:30 PM tomorrow for your return trip? <emotion value="peaceful"/>
+CALLER: 05:15 tomorrow.
+AGENT: The time you requested for the return trip has already passed. Could you please provide a different pickup time for your return trip tomorrow? <emotion value="hesitant"/>
+CALLER: The time has not passed. It's for 05:15 tomorrow, Monday, July 13.
+AGENT: Thanks for clarifying. Just to confirm, you want to be picked up at 5:15 PM tomorrow, Monday, July 13th, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thanks for confirming. Alright, soo <break time="300ms"/> how many passengers will be traveling on the return trip, including yourself? And will you need a wheelchair-accessible vehicle for that trip?
+CALLER: Just what
+AGENT: I didn't quite catch that. Could you please tell me how many passengers will be traveling on the return trip,
+CALLER: yes. It
+AGENT: Alright, could you please tell me how many passengers will be traveling on the return trip, including yourself? And will you need a wheelchair-accessible vehicle for that trip? <emotion value="peaceful"/>
+CALLER: One passenger who is in a wheelchair and, yes, I do need a wheelchair accessible vehicle.
+AGENT: Okay, so for your return trip, I have the pickup location as 4 7 0 1 Sangamore Road, Bethesda, Maryland, and the dropoff location as 5 0 0 5 Overlea Court, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 5

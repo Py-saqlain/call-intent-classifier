@@ -1,0 +1,51 @@
+AGENT: Hello Jane, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab tomorrow. At 02:00.
+AGENT: Alright, how would you like to pay for your ride tomorrow at 2:00 pm? We accept
+CALLER: PM.
+AGENT: Thanks for confirming the time as 2:00 pm. Could you
+CALLER: But Credit card. Credit card, I said. Hello? Hello?
+AGENT: Okay so I've got that payment noted as credit card. Let me
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+CALLER: Hello?
+AGENT: Hello, I'm here to help you with your cab reservation. To get started, could you please tell me the pickup address for your ride tomorrow at 2:00 pm? <emotion value="peaceful"/>
+CALLER: Ninety nine sixty nine Lakeland Road, Gaithersburg, Montgomery Village two zero eight eight six.
+AGENT: Hmm <break time="350ms"/> let me check that address. Just to confirm, did you say nine nine six nine Lake Landing Road in Gaithersburg, Maryland? <emotion value="hesitant"/>
+CALLER: That's right.
+AGENT: Okay, so I found the pickup location as nine nine six nine Lake Landing Road, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That too.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address for your ride? <emotion value="peaceful"/>
+CALLER: Shear reflections at eight eleven muscle abdomen raised The
+AGENT: Hmm <break time="350ms"/> let me check that address. Did you say eight one one Muscle Abode Road? Could you please confirm or clarify the street name? <emotion value="hesitant"/>
+CALLER: 811 Russell Avenue, Caesar Smith.
+AGENT: Okay, just to confirm, did you say eight one one Russell Avenue in Caesar Smith? <emotion value="hesitant"/>
+CALLER: I said in Gaithersburg, 811 Muscle Avenue, Gaithersburg. Gaithersburg.
+AGENT: Hmm <break time="350ms"/> let me check that address. Just to confirm, did you say eight one one Muscle Avenue, Gaithersburg, Maryland? <emotion value="hesitant"/>
+AGENT: Okay, so I found the dropoff location
+CALLER: Russell, r u s e Russell Avenue, R U S S E L L. It's I gave it
+AGENT: Thank you for clarifying. Just to confirm, your dropoff address is eight one one Russell Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="hesitant"/>
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, Jane.
+AGENT: Just to confirm,
+CALLER: Okay. Yes.
+AGENT: Okay great! How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: More No.
+AGENT: Hmm <break time="300ms"/> sorry, just to be clear, do you mean no passengers or no wheelchair needed? Could you please tell me how many passengers will be traveling and if anyone needs a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: One person, no wheelchair.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No. Pick me up this two.
+AGENT: Alright, the estimated fare is 7.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. No. I don't need any church. It's just too
+AGENT: Alright, I understand you don't need a return trip. Just to confirm, you want me to book your ride for 2 PM tomorrow, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+CALLER: Yes
+AGENT: Thank you for confirming. I am processing your booking now. Please hold on a moment.
+AGENT: Your ride is scheduled for tomorrow at 2 PM. Your confirmation number
+CALLER: Yes.
+AGENT: Your confirmation number is 2 1 3 6 7 3 5 1 2. Is there anything else I can help you with?
+CALLER: Let me repeat the the confirmation of the Two one three six seven three five one two. Is that right?
+AGENT: Yes, that's exactly right: 2 1 3 6 7 3 5 1 2. Is there anything else I can assist you with?
+CALLER: What was your name again? Did you give me your name? For yourself?
+AGENT: Yes, I’m Ana. If you need anything else, just let me know.
+CALLER: And no. That's all. That's all.
+AGENT: Thank you for calling Barwood & Regency, Jane. Have a wonderful day!
+CALLER: Thank you.

@@ -1,0 +1,47 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Chunn Mao?
+CALLER: Yes.
+AGENT: Thanks for confirming, Chunn. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Book tips.
+AGENT: Okay, I can help you with booking a trip. Could you please tell me where you would like to be picked up from?
+CALLER: From nine seven zero nine Key West Avenue.
+AGENT: Got it. Your pickup address is 9 7 0 9 Key West Avenue. Where would you like to go?
+CALLER: Five two zero near load. Rockville.
+AGENT: Just to confirm, your destination is 5 2 0 Veirs Mill Road in Rockville, correct?
+CALLER: Yes.
+AGENT: Thank you. When would you like your pickup?
+CALLER: Tomorrow, afternoon, 02:15PM.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: Okay. Cache
+AGENT: Okay so I've got that payment noted as cash. Let me proceed with verifying it.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so I have your pickup as 9 7 0 9 Key West Avenue, Rockville, Maryland, and your dropoff as 5 2 0 Veirs Mill Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your addresses have been verified, Mr. Chunn.
+AGENT: Just to confirm, you would like to be picked up tomorrow at 2:15 PM, is that correct? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time set for tomorrow at 2:15 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a
+CALLER: Two. Two Two.
+AGENT: Okay great! I've got two passengers noted. <emotion value="grateful"/> Will anyone be needing a wheelchair accessible vehicle?
+CALLER: Yes. Yes.
+AGENT: Okay great! I've got that a wheelchair accessible vehicle will be needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Yes. Pickup me on the 1st Floor garage, 1st Floor. Guess the parking
+AGENT: Alright, the estimated fare is 14.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, great! I'll start collecting the details for your return trip now. <emotion value="peaceful"/>
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 04:30PM. Tomorrow.
+AGENT: Just to confirm, you want your return trip pickup tomorrow at 4:30 PM, correct? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your return trip pickup time set for tomorrow at 4:30 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling on your return trip, including yourself? And will anyone need a wheelchair
+CALLER: Two. Two Yes.
+AGENT: For your return trip, I have your pickup at 5 2 0 Veirs Mill Road and your dropoff at 9 7 0 9 Key West Avenue. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 15.5 dollars, paying with Cash. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I am booking both trips for you now. <emotion value="grateful"/>
+AGENT: Thank you for your patience. I am booking both your main and return trips now.
+AGENT: Your main trip is scheduled for tomorrow at 2:15 PM with confirmation number 2 1 3 6 7 4 1 7 4. Your return trip is scheduled for tomorrow at 4:30 PM with confirmation number 2 1 3 6 7 4 1 7 5. Is there anything else I can help you with?
+CALLER: Yes. As for the return trip, please pick up and then pick up me at the front door of the main church.
+AGENT: Thank you for that detail. I will pass along your request to have the return trip pickup at the front door of the main church. Is there anything else you'd like to add
+CALLER: Thank you.
+CALLER: Okay. Thank you.

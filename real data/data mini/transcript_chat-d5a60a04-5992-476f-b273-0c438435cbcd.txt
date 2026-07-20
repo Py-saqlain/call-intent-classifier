@@ -1,0 +1,24 @@
+AGENT: Hello Collin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I need a cab to come pick me up. From 17740 Towncrest Drive, and I'm going to eight fourteen West Diamond Avenue in Gaithersburg and I'm paying with car ride
+AGENT: Hmmm.. that didn't seem quite right. Did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Three one one six two eight
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+CALLER: Right.
+AGENT: Okay, so I have your pickup as one seven seven four zero Towne Crest Drive, Gaithersburg, Maryland, and your dropoff as eight one four West Diamond Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your addresses have been verified, Collin.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay, I've got your pickup time as now, today at 6:53 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One No.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: The estimated fare is 12 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, I will proceed with booking just your one-way trip. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so booking your trip now. <emotion value="peaceful"/>
+AGENT: Thank you for waiting. I'm booking your trip now.
+AGENT: Your main trip is booked for today at 6:53 am. Your confirmation number is 2 1 3 6 7 6 7 0 3. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Collin. Have a wonderful day!

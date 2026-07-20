@@ -1,0 +1,49 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Eric mower m o w e r It's a senate regency.
+AGENT: Thanks, Eric. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I'd like a cab.
+AGENT: Alright, how would you like to pay for your cab today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Thank you. Could you please tell me the pickup address for your cab? <emotion value="peaceful"/>
+CALLER: One nine two eight Powder Mill Road, Silver Spring, Maryland two zero nine zero three.
+AGENT: Okay, so I found your pickup location as one nine two eight Powder Mill Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One three three two one. New Hampshire Avenue, Silver Spring, Maryland two zero nine zero four.
+AGENT: Okay, so I found your dropoff location as one three three two one New Hampshire Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: 20904.
+AGENT: Thank you for the correction. So your dropoff is one three three two one New Hampshire Avenue, Silver Spring, Maryland two zero nine zero four. Is that right? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Eric. I will now proceed with the next steps for your ride.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: What time is now? Eleven thirty.
+AGENT: It's currently 10:56 AM. You mentioned eleven thirty — did you mean 11:30 AM or 11:30 PM? <emotion value="peaceful"/>
+CALLER: Hey,
+AGENT: Could you please let me know if you want to be picked up at 11:30 AM or 11:30 PM? <emotion value="hesitant"/>
+CALLER: Round trip.
+AGENT: Thank you for letting me know about the round trip. I'll arrange the return trip once your main trip details are complete. Now, could you please confirm if
+CALLER: 11:30AM.
+AGENT: Okay great! I've got your pickup time as today at 11:30 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One. No. One.
+AGENT: Okay great! I've got that noted — one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 15.5 dollars, paying with Self. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Great, I'll start collecting the details for your return trip now. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: 12:45. No.
+AGENT: Just to confirm, you mean 12:45 PM for your return trip pickup time? <emotion value="peaceful"/>
+CALLER: 12:45. No. 01:30.
+AGENT: Okay great! I've got your return trip pickup time as today at 1:30 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> how many passengers will be traveling on your return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Want and no.
+AGENT: For your return trip, I have the pickup as one three three two one New Hampshire Avenue, Silver Spring, Maryland, and the dropoff as one nine two eight Powder Mill Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 15.5 dollars, paying with credit card. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I'll proceed with booking both trips for you now. <emotion value="grateful"/>
+AGENT: Your main trip is scheduled for today at 11:30 AM with confirmation number 2 1 3 6 7 6 8 8 1. Your return trip is scheduled for today at 1:30 PM with confirmation number 2 1 3 6 7 6 8 8 2. Is there anything else I can help you with?
+CALLER: No. That's all.
+AGENT: Thank you for calling Barwood & Regency, Eric. Have a wonderful day!
+CALLER: That's all.
+AGENT: Thank you

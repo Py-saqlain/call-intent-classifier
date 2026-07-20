@@ -1,0 +1,15 @@
+AGENT: Hello Herbert, this is Ana from Barwood & Regency. I see you have a will-call trip scheduled today from 19718 Germantown Road in Germantown to 19105 Frederick Road in Gaithersburg. How can I assist you today?
+CALLER: Yes. I need to get taxi at, um, Holy Cross Hospital in Observation Drive and in gate
+AGENT: Okay, you want a taxi to Holy Cross Hospital on Observation Drive. Could you please tell me where you will be picked up from?
+CALLER: The the emergency side. Emergency side.
+AGENT: Thanks for that. Just to be sure, is your pickup location the emergency side of Holy Cross Hospital on Observation Drive? And do you want the taxi to take you there or pick you up from there?
+CALLER: Yeah.
+AGENT: Thanks for confirming. Could you please tell me the pickup address or location where the taxi should come to get you?
+CALLER: No. Pick me up. That's where I'm at now. Okay.
+AGENT: Looks like you already have a trip from Germantown to Gaithersburg today as a will-call. What would you like to do?
+CALLER: The I'm already at the hospital. I need them to pick me up from here. The emergency side.
+AGENT: I see you need a pickup from the emergency side of Holy Cross Hospital now. Since you already have a trip scheduled, would you like to change your existing trip to this new pickup location, or do you want to book a separate ride?
+CALLER: Yes.
+AGENT: I understand you'd like to modify your trip to have the pickup from the emergency side of Holy Cross Hospital. Trip modifications need to be handled by a live agent. Let me connect you with someone who can help.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Okay. Thank you.

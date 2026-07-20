@@ -1,0 +1,11 @@
+AGENT: Hello Robert, this is Ana with Barwood & Regency. Your trip is scheduled for pickup today at 1:14 PM. How can I assist you today?
+CALLER: The camera is waiting. Anything else from 37 going to 18 North Avenue?
+AGENT: Looks like you already have a trip from 4 0 9 Russell Avenue to 6 3 0 East Diamond Avenue scheduled for today at 1:14 PM. What would you like to do?
+CALLER: We cancel the trip 63400 Avenue.
+AGENT: I found one active trip for you: your first trip at
+CALLER: In two four four nine zero seven nineteen eighty Northwind Drive
+AGENT: It seems like you mentioned an address, but I want to make sure I understand your request correctly. Are you asking to cancel a trip related to that address, or is there something else you'd like to do?
+CALLER: Can do the pickup from 630 East Avenue to 409 Russell Avenue? In 409 Russell Avenue back to 18 West Highland Drive. 63711812 Drive. Now.
+AGENT: It sounds like you want to book a trip from 630 East Diamond Avenue to 409 Russell Avenue, then a return trip from 409 Russell Avenue to 18 West Highland Drive, starting now. Since
+CALLER: It's in your system. It's missing It's It's in the system.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

@@ -1,0 +1,14 @@
+AGENT: Hello Estela, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to taxi.
+AGENT: Thank you for choosing us for your ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Say Correct.
+AGENT: Could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Pay call and ride.
+AGENT: Great, Call and Ride it is. Could you please provide the last six digits of your Call and Ride card?
+CALLER: I don't have a card. I have coupon.
+AGENT: I understand. For payment, we only accept cash, credit card, or Call and Ride on
+CALLER: And the number is one eight three
+AGENT: The last six digits of your Call and Ride card should be six digits long. You mentioned
+CALLER: Yes. Excuse me. Excuse me. I don't have the card. I have coupon. Rockville, the the senior center for Rockville give me the coupon. And I I I use always with the action taxi.
+AGENT: Thank you for explaining. Since you have a coupon from the Rockville Senior Center, I want to let you know that on this line we only accept cash, credit card, or Call and Ride for payment. If you'd like, I can connect you to a live agent who can assist you with using your coupon. Would you like me to do that?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

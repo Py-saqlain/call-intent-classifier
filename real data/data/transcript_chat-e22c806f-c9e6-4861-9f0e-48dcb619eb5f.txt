@@ -1,0 +1,27 @@
+AGENT: Hello, andre. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yeah. I'd like go to New Zealand.
+AGENT: Thanks for sharing your destination. To get your ride set up, could you please let me know how you'd like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: K.
+AGENT: Could you please tell me which payment method you would like to use for your ride? Cash, credit card, or Call and Ride?
+CALLER: Can Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: From seven eight, thirty four seventy eight, thirty four, Scott, Dale, or dark. Scott Scott Dale. Scott Scott did.
+AGENT: I have 7 8 3 4 Scotland Drive, Potomac, Potomac, Maryland as your pickup address. Is that correct?
+CALLER: Yes. Race was a maternal dog too.
+AGENT: New Zealand is outside our service area. Could you please provide a different destination address?
+CALLER: It's my home address. Seventy eight thirty four Scott Lane Drive.
+AGENT: I have 7 8 3 4 Scotland Drive, Potomac, Potomac,
+CALLER: Tomah Mill.
+AGENT: Thank you for the correction. I will update the dropoff address to 7 8 3 4 Scotland Drive, Potomac, Tomah Mill, Maryland. Is that correct?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: We're ready to work. You know, You know? Hello?
+AGENT: Yes, I'm here and ready to assist you. Could you please confirm the dropoff address? Is it 7 8 3 4 Scotland Drive, Potomac, Tomah Mill, Maryland?
+CALLER: No. It's seven eight three four Scotland Drive somewhere where In two two zero two zero nine two more.
+AGENT: I have 7 8 3 4 Scotland Drive, Potomac, Maryland as your dropoff address. Is that correct?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?
+AGENT: Yes, I'm here to help. Could you please confirm if 7 8 3 4 Scotland Drive, Potomac, Maryland is the correct dropoff address?
+CALLER: Yes. Yes. Speak up with you.
+AGENT: The dropoff address you provided is the same as the pickup address. For your ride, the pickup and dropoff locations need to be different. Could you please provide a different destination address?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

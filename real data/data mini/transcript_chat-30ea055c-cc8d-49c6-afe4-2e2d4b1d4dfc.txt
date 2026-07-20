@@ -1,0 +1,13 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Duck Donald?
+CALLER: No.
+AGENT: May I ask who I’m speaking with, please? Your name will help me find your profile. If you’d like, I can also share the names I have on this number.
+CALLER: What you got? Okay.
+AGENT: The names I have on this number are Lambert Okoro, Anthony Peete, Eva Everett, Marian Floyd, Maria Aguilara, Eric Hearn, Flori Liss, Florette Rhoden, Clifton, Duck Donald, Ruby Watson, Charles Bailey, George Richmond, and Stuart Goins. Which one is yours?
+CALLER: Representative. Representative. God. Representative. Oh my gosh.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Do we just need to be having a AI for you?
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: This shit about to throw me on. I'm about to stop calling you. The reason I did Agent.
+AGENT: I understand this is frustrating. Would you like me to connect you to a person who can assist you further?
+CALLER: Yes.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

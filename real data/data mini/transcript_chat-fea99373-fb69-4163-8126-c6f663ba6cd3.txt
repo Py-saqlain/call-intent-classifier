@@ -1,0 +1,21 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Alright.
+AGENT: Could you please tell me your name so I can set up your profile?
+CALLER: Alright.
+AGENT: I’m here to help whenever you’re ready to share your name.
+CALLER: Eric Patterson.
+AGENT: Thanks, Eric. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need to care.
+AGENT: Uhh, I want to make sure I understand you correctly. Are you looking to book a ride or do you need some other kind of assistance? <emotion value="hesitant"/>
+CALLER: Yes. Yes.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: So nine five four Hewitt Avenue.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: I found the address as nine five four Thayer Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Thank you. I will verify your pickup address now. <emotion value="peaceful"/>
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Twenty nine fifty four

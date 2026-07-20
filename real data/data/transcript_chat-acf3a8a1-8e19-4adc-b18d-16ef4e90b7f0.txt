@@ -1,0 +1,47 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Mahnaz Diba?
+CALLER: Yes.
+AGENT: Thanks, Mahnaz. This is Barwood & Regency. How can I help you today?
+CALLER: I would like to have a cab to come to four seven zero one Sangamo Road,
+AGENT: Alright, how would you like to pay for your ride? We accept
+CALLER: And f. Friday's car.
+AGENT: Hmmm.. that didn't seem quite clear, could you please tell me again how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Credit card. Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so your pickup address is 4 7 0 1 Sangamore Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Correct. Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: It's 4620 North Park Avenue, in Chevy Chase.
+AGENT: Okay, let me check that dropoff address for you.
+AGENT: Okay, so your dropoff address is 4 6 2 0 North Park Avenue, Chevy Chase, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Mahnaz.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: When can it be here?
+AGENT: I understand you're eager to know the pickup time. To get your ride scheduled, could you please tell me what time you'd like the cab to pick you up? <emotion value="peaceful"/>
+CALLER: I run between 04:15 and 04:30.
+AGENT: Just to be sure, did you mean you want to be picked up around 4:15 or 4:30 PM today? <emotion value="hesitant"/>
+CALLER: Closer to 04:15 is
+CALLER: Yes.
+AGENT: Alright, soo <break time="300ms"/> how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Just one. Just one. Just one.
+AGENT: Okay great! I've got one passenger noted. Will you be needing a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Thank you,
+AGENT: Do you need a wheelchair-accessible vehicle for this trip? <emotion value="peaceful"/>
+CALLER: No. Just that's all I need, just someone to come and pick me up. And if you could send someone closer to four that would be perfect.
+AGENT: Hmm, sorry, let me get that right. You'd like the pickup time changed to around 4:00 PM instead of 4:15 PM, and no wheelchair-accessible vehicle is needed. Is that correct? <emotion value="apologetic"/>
+CALLER: No. It's right now. It's for no. It's right now, it's almost four. So I I am not ready, but you don't at least write it down between 04:15 and 04:30.
+AGENT: Okay great! I've got your pickup time between 4:15 and 4:30 PM, one passenger, and no wheelchair needed. Do you have any special instructions
+CALLER: Right.
+CALLER: Okay. Thank you.
+AGENT: Alright, the estimated fare is 10 dollars, paying with credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Say it again, please.
+AGENT: Sure, the estimated fare for your trip is 10 dollars, and the payment method is credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: I don't understand Do I need to schedule what?
+AGENT: No problem. I’m asking if you would like to arrange a return trip back after your initial ride, or if you only need the one-way trip right now. Would you like me to set up a return trip for you? <emotion value="peaceful"/>
+CALLER: Just one trip. Just one trip. My god. It's just one trip.
+AGENT: Thank you for clarifying. I’m processing your one-way trip booking now. Please hold on a moment.
+CALLER: You.
+AGENT: Your main trip is scheduled for today at 4:15 PM. Your confirmation number is 2 1 3 6 7 4 3 1 4. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Mahnaz. Have a wonderful day!
+CALLER: You too. Bye.

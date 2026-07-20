@@ -1,0 +1,9 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Anita Bardliving?
+CALLER: Yes.
+AGENT: Thanks for confirming, Anita. This is Barwood & Regency. Your trip scheduled for pickup today at 3:23 PM is currently being processed. How can I assist you today?
+CALLER: In con confirm return trip.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Status of trip. Status. Of during trip.
+AGENT: Uhh <emotion value="sympathetic"/> your trip scheduled for pickup today at 3:23 PM was rejected by the system. Let me connect you with a representative who can help right away.
+AGENT: I'm connecting you now to a customer service representative who can help with your trip status. Please stay on the line.

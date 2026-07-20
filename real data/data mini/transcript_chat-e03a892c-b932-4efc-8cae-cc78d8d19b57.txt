@@ -1,0 +1,22 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Ron Burnett.
+AGENT: Thanks, Ron. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: 1137 is taking me to Holy Cross.
+AGENT: Alright, Ron, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I'll pay the driver. The credit card.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Hmm <break time="350ms"/> I couldn't find any locations for just "1 1 3 7" near your area. Could you please provide the full street address or a nearby landmark for your pickup location? <emotion value="apologetic"/>
+CALLER: Which Yeah. I'm at Hebrew home.
+AGENT: I found a few locations for Hebrew Home. <break time="700ms"/> Option one: 6 1 2 1 Montrose Road, Rockville, Maryland. <break time="500ms"/> Option two: 6 1 0 5 Montrose Road, Rockville, Maryland. <break time="500ms"/> Which one is correct? <emotion value="hesitant"/>
+CALLER: That's it. Option one. Yeah. Option Option one.
+AGENT: I found a few locations for Holy Cross. <break time="700ms"/> Option one: 2 0 1 Russell Avenue, Gaithersburg, Maryland. <break time="500ms"/> Option two: 2 2 0 Perry Parkway, Suite 5, Gaithersburg, Maryland. <break time="500ms"/> Option three: 1 5 2 4 5 Shady Grove Road, Suite 1 3 0, Rockville, Maryland. <break time="500ms"/> Which one is correct? <emotion value="hesitant"/>
+CALLER: Option one. Think the nurse wanted to come down. She had to see you put immediately. Right? Yeah. It's the one Heading with the two agents. Agent, please. Agent police. Agent agent. Agent. Agent.
+AGENT: Your dropoff address has been verified, Ron. I am now passing your trip details along to the booking team to complete your reservation.
+AGENT: Ron, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Please.
+AGENT: Could you please tell me what time you'd like to be picked up? <emotion value="hesitant"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Can you speak to an agent?
+AGENT: I can help you set that pickup time right now — shall we finish up?
+CALLER: Yes. The driver is here.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

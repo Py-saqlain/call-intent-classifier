@@ -1,0 +1,28 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Serina Wealth?
+CALLER: Yes.
+AGENT: Thanks for confirming, Serina. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I want to reserve a ride round trip on tomorrow's on the fifteenth. My appointment's at 01:00.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Calling right.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three four
+AGENT: Hmmm.. that didn't seem right, could you try again with all six digits of your Call and Ride card? <emotion
+CALLER: two five zero eight.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Thank you for that. Now, could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 342508. 5801 Nicholson Lane, North Bethesda.
+AGENT: Okay, so your pickup address is 5 8 0 1 Nicholson Lane, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Executive Boulevard Let's see the address.
+AGENT: I found a few locations on Executive Boulevard. 
+Option one: 6 2 5 1 Executive Boulevard, Rockville. 
+Option two: E Jefferson Street and Executive Boulevard, North Bethesda. 
+Option three: 6 1 5 5 Executive Boulevard, North Bethesda. 
+Option four: 6 1 1 6 Executive Boulevard, Rockville. 
+Option five:
+CALLER: No. No. No. No. No. No. No. I I have to call you back.
+AGENT: I
+CALLER: I need to call you back. Alright. Bye.

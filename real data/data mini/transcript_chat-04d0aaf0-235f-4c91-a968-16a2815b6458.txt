@@ -1,0 +1,9 @@
+AGENT: Hi Veronica, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I I might ride to.
+AGENT: Uhh, I want to make sure I understand you correctly. Are you looking to book a ride somewhere? If so, could you please tell me where you'd like to go? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: How much is it?
+AGENT: I don't have the fare information yet since we haven't finalized your trip details. Meanwhile, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: What's the call where?
+AGENT: It sounds like you might be asking about Call and Ride, which is one of our payment options. It's a prepaid card you can use to pay for your rides. If you'd like to use Call and Ride, I'll need the last six digits of your card to process the payment. Would you like to pay with Call and Ride, cash, or credit card? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.

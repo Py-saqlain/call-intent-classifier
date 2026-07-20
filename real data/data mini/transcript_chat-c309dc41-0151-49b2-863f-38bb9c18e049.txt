@@ -1,0 +1,14 @@
+AGENT: Hello Francois, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Engine.
+AGENT: Hello, how can I assist you with your ride today?
+CALLER: Airgainst Again. Again.
+AGENT: How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Agent.
+AGENT: Could you please let me know how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Hey, Jeff.
+AGENT: I’m here to help with your payment for the ride. Could you please tell me how you would like to pay? Cash, credit card, or Call and Ride?
+CALLER: Hey. Hey. Yes. Hey. Hey.
+AGENT: I want to make sure I understand you correctly. Could you please tell me how you would like to pay for your ride? Cash, credit card, or Call and Ride?
+CALLER: Yes. Yes. Yes. Yes. Agnes.
+AGENT: I want to make sure I understand you correctly. Could you please tell me how you would like to pay for your ride? Cash, credit card, or Call and Ride?
+AGENT: Take your time. Just let me know when you're ready.

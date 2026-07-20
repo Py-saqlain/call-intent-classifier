@@ -1,0 +1,4 @@
+AGENT: Hello Miller, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello?
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.

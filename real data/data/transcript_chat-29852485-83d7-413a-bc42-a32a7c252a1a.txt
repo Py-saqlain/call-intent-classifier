@@ -1,0 +1,24 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Charles, c h a r l e s.
+AGENT: Thank you, Charles. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Like to have a car, uh, come pick us up at, 10:30.
+AGENT: Alright, Charles, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Will pay with with cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Charles, could you please tell me the pickup address for your ride at 10:30? <emotion value="peaceful"/>
+CALLER: Yes. Three zero zero four. Bonn Vieux. B as in boy, o n v as in Victor, I e w. Bonnview, Lane, Silver Spring,
+AGENT: Hmm <break time="350ms"/> let me check that address. I'm sorry, Charles, but I couldn't locate 3004 Bonnview Lane in Silver Spring. Could you please confirm the street name and city again, or provide any nearby landmarks or cross streets? <emotion value="apologetic"/>
+CALLER: two zero nine zero six. The cross street is Regina Regina
+AGENT: Thank you, Charles. Just to confirm, is your pickup address 2 0 9 0 6 Bonnview Lane near Regina in Silver Spring, Maryland? <emotion value="peaceful"/>
+CALLER: No, it is not. You have the wrong number.
+AGENT: Okay, Charles, could you please provide the correct street number for Bonnview Lane near Regina in Silver Spring, Maryland? <emotion value="peaceful"/>
+CALLER: Number is three zero zero four.
+AGENT: Thank you for clarifying, Charles. So your pickup address is 3 0 0 4 Bonnview Lane near Regina in Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yes.
+AGENT: Hmm <break time="350ms"/> I am sorry, Charles, but I couldn't find 3004 Bonnview Lane near Regina in Silver Spring, Maryland. Could you please provide the full street address including the city and state again, or any other nearby landmarks? <emotion value="apologetic"/>
+CALLER: Can I speak with somebody? Speak with a representative.
+AGENT: I can help you with the address details right now — would you like to continue?
+CALLER: I look. I yeah. 3004 Bonview Lane. Silver Spring, 20906.
+AGENT: Charles, I am still having trouble locating 3004 Bonnview Lane in Silver Spring, Maryland. Could you please confirm if the street name is spelled correctly or provide any nearby landmarks or cross streets to help find it? <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Thank you.

@@ -1,0 +1,12 @@
+AGENT: Hello Stacy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I speak with a
+AGENT: Uhh, yes? How can I assist you today? <emotion value="peaceful"/>
+CALLER: I trying to apply for work.
+AGENT: Okay, I understand you're trying to apply for work. Could you please tell me how I can assist you with that today? Are you looking to book a ride or need information related to transportation? <emotion value="peaceful"/>
+CALLER: I want to be a driver.
+AGENT: Thanks for letting me know you're interested in becoming a driver. For driver applications or employment inquiries, I recommend contacting the company directly through their official website or HR department. Is there anything else I can help you with regarding rides or transportation today? <emotion value="peaceful"/>
+CALLER: Can you give me the website or application?
+AGENT: I don't have direct access to provide the website or application for driver jobs. I suggest checking the official Barwood Cab or Regency Taxi websites or contacting their customer service for driver application details. If you'd like, I can connect you to a live representative who might assist you further with that. Would you like me to do that? <emotion value="peaceful"/>
+CALLER: Yes, please.
+AGENT: I'll connect you to a live representative who can help you with the driver application. Please hold for a moment.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

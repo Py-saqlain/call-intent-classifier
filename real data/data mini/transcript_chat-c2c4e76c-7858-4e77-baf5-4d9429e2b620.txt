@@ -1,0 +1,14 @@
+AGENT: Hello Michael, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Barwick taxi cab round trip please
+AGENT: Alright, how would you like to pay for your Barwick taxi cab round trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Round the world. Round the world, girl. Debit card Debit card. Repeat. Repeat.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: To get started with your round trip, could you please tell me the pickup address? If you'd like, I can use your home address at 1 4 5 3 1 Layhill Road, Silver Spring, Maryland. Would you like to be picked up from there? <emotion value="peaceful"/>
+CALLER: Representative, please.
+CALLER: Hello?
+AGENT: I'm here and ready to help. Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+AGENT: Could you please provide the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: Mass speak with a representative operator Repeat. Repeat. Repeat. May I speak with a representative operator?
+AGENT: I can help with your booking details — would you like to continue? <emotion value="peaceful"/>
+CALLER: Representative operator, please. I don't like voice mail.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

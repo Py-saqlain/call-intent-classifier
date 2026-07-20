@@ -1,0 +1,15 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Diane Dickerson?
+CALLER: Yes.
+AGENT: Thanks, Diane. This is Ana from Barwood & Regency. Your pickup is scheduled for today at 1:15 PM. How can I assist you?
+CALLER: I know. I need to be picked up now.
+AGENT: Alright, Diane, I'll get that arranged for you right away. Let me take care of booking your pickup now.
+AGENT: Looks like you already have a trip from 50 Monroe Street to 406 Blandford Street at 1:15 PM today. What would you like to do?
+CALLER: Okay. Cancel that.
+AGENT: I see one trip on your account. Trip one: pickup at 5 0 Monroe Street in Rockville at 1:15 pm going to 4 0 6 Blandford Street in Rockville. Would you like me to cancel this trip? <emotion value="hesitant"/>
+CALLER: Talk to an operator. Cancel it. Speak to an operator.
+AGENT: Okay so that trip has been cancelled for you. Let me connect you with a representative now.
+CALLER: You.
+CALLER: Hello?
+AGENT: Hi Diane, I’m connecting you now with a representative who can help you directly.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Okay.

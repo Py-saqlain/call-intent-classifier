@@ -1,0 +1,21 @@
+AGENT: Hello Richard, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I need a cab at the food line on Rockville Pike
+CALLER: going to one nine nine Rounds Avenue.
+AGENT: Thanks for sharing your destination. Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: How you doing?
+AGENT: I'm here to help you with your payment method. When you're ready, could you please let me know how
+CALLER: Kesh. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: What's the address here? 845 Rockville Pike.
+AGENT: Okay, let me check that address for you. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is 8 4 5 Rockville Pike, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I found Food Lion at 8 4 5 Rockville Pike, Rockville, Maryland. Is that the place you want to go? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Richard.
+AGENT: When would you like to be picked up? <emotion
+CALLER: No. Oh, Jesus Christ.
+AGENT: Just to clarify, did you mean you want to be picked up right now,
+CALLER: Excuse me.

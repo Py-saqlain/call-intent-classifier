@@ -1,0 +1,14 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Hello?
+AGENT: Hi there! This is Ana with Barwood & Regency. Could you please tell me your name?
+CALLER: Dan Srivoto.
+AGENT: Thanks, Dan. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I just wanted to know that are you having reservation through metro for me That is. The place is 8040 Georgia Avenue, two three three zero three Brooklawn Terrace Chevy Chase.
+AGENT: Thanks for sharing that address. Since you mentioned metro reservations, I want to let you know that we don't handle metro or MetroAccess
+CALLER: Do you have my treasurer as a return in my name?
+AGENT: I can help you check on any existing trips you might have. Let me connect you to the trip status team who can look up your reservations and returns for you.
+AGENT: Hmm, let me pull that up for you.
+AGENT: I’m
+CALLER: Okay.
+AGENT: Since I can’t find your profile to check trips, would you like me to connect you with a representative who can assist you further?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

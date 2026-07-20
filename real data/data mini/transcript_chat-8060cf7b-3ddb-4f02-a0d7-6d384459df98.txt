@@ -1,0 +1,27 @@
+AGENT: Hello Yolanda, this is Ana from Barwood & Regency. How can I help you today?
+CALLER: I would like to be picked up using my call and ride card
+AGENT: Alright, how about you please provide the last six digits of your Call and Ride card so I can verify your payment? <emotion value="peaceful"/>
+CALLER: Three four five three six zero.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: 2914 Regina Drive, Silver Spring, Maryland.
+AGENT: Okay, so I have 2 9 1 4 Regina Drive, Silver Spring, Maryland as your pickup address. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please tell me the destination or dropoff address where you would like to go? <emotion value="peaceful"/>
+CALLER: One five nine zero Rocklepike Rock
+AGENT: I found a similar address from recent trips: 1 5 9 0 Rockville Pike, Rockville, Maryland. Is that the correct destination? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified. Thank you, Yolanda. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Seven twenty.
+AGENT: Just to confirm, did you mean 7:20 AM or 7:20 PM for your pickup time? <emotion value="hesitant"/>
+CALLER: AM.
+AGENT: Okay great! I've got your pickup time as today at 7:20 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One and no.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: No. Thank you.
+AGENT: Alright, the estimated fare is 17 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Thank you.
+AGENT: Thank you for your patience. I'm

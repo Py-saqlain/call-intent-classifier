@@ -1,0 +1,13 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: My name is Kenneth.
+AGENT: Thanks, Kenneth. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I wanna sign up with the with the I mean, Germantown. Which one of your agency is closed by? The or which one is closed by?
+AGENT: I understand you're interested in signing up and want to know which of our agencies is closest to Germantown. I can help with that. Are you looking for a ride service near Germantown, Maryland?
+CALLER: two zero yeah.
+AGENT: Could you please clarify what you mean by "two zero"? Are you referring to a street number, a time, or something else?
+CALLER: No. I'm giving you my ZIP code. The ZIP code 20874 is my ZIP code.
+AGENT: Thank you for sharing your ZIP code 20874. To assist you best, are you looking to book a ride from Germantown, Maryland, or do you want information about the closest Barwood or Regency office near you?
+CALLER: No. I like to register, you know, because I just lost my car.
+AGENT: I understand you'd like to register for our service since you lost your car. I can help you get started with that. To proceed, I will connect you with someone who can assist you with registration and account setup. Let me transfer you now.
+AGENT: I'm connecting you now to a customer service representative who can help you with registration. Please stay on the line.
+CALLER: Yeah.

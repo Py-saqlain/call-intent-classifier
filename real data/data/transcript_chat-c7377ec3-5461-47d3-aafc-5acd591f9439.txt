@@ -1,0 +1,66 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Patricia Thomas?
+CALLER: No.
+AGENT: Thank you for letting me know. Who am I speaking with today? Your name, please? You can also tell me if you
+CALLER: My neck darling. Darlene Kerr.
+AGENT: I don't see a profile under the name Darlene Kerr. We can set one up for you when you book your first ride. Would you like me to help you with that now?
+CALLER: No. I'm only riding because I've got a broken arm, and I can't drive.
+AGENT: I understand, and I'm here to help you with your ride whenever you're ready. If you decide you'd like to book a trip or need assistance, just let me know. How can I assist you today?
+CALLER: I would like to book a trip
+AGENT: Thank you for letting
+CALLER: My doctor's office. To to my apartment.
+AGENT: I noticed you mentioned your doctor's office and your apartment, but before we finalize those details, could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call
+CALLER: Credit card.
+AGENT: Thank you for letting me know you'll be paying with a credit card. Your payment method is set as credit card. The system will now proceed with your booking.
+AGENT: Could you please provide the pickup address for your trip?
+CALLER: Six five five. Watkins, w a t k I n s, Mill, m I l l, Road, Gaithersburg, Maryland
+AGENT: I have 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. Is that correct?
+CALLER: That's correct.
+AGENT: I found a few places related to "book a trip": Cruise Planners at 1 3 6 1 6 Warrior Brook Terrace, Germantown, Maryland; We Book Travel at 4 2 1 5 Saunders Tavern Trail, Henrico, Virginia; and Booking-vip.com at 6 0 1 Brickell Key Drive, Miami, Florida. Which one would you like to go to? Or if none of these are correct, please provide a more specific destination address.
+CALLER: Kaiser Permanente Health Center
+AGENT: Thank you for that. I'll look up Kaiser Permanente Health Center for you now.
+AGENT: I found several locations at Kaiser Permanente Gaithersburg Medical Center, all at 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. There is Advanced Urgent Care, Pharmacy, Radiology, and Lab. Which one would you like to go to?
+CALLER: They're all in the same building.
+AGENT: Thank you for letting me know. I'll use 6 5 5 Watkins Mill Road, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: It's a pickup address.
+AGENT: Thank you for clarifying that 6 5 5 Watkins Mill Road, Gaithersburg, Maryland is your pickup address. Could you please provide the dropoff address or destination where you'd like to go?
+CALLER: Yes. The drop off address
+AGENT: Could you please tell me the dropoff address or the place you want to go to?
+CALLER: is four one five
+AGENT: Could you please provide the street name and city for the dropoff address along with the number 4
+CALLER: The drop off address
+AGENT: I understand you want to provide the dropoff address. Could you please say the full dropoff address including the street number, street name, and city? That way I can make sure I get it exactly right for you.
+CALLER: Four one five. Russell, r u s s e l l, Avenue,
+AGENT: Thank you. Could you please tell me the city and state for 4 1 5 Russell
+CALLER: apartment
+AGENT: Could you please provide the city and state for 4 1 5 Russell Avenue apartment? This will help me locate the exact dropoff address for you.
+CALLER: Gaithersburg,
+AGENT: Thank you. Just to confirm, your dropoff address is 4
+CALLER: Maryland
+AGENT: I have 4 1 5 Russell Avenue, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. ZIP code.
+AGENT: Thank you for confirming the dropoff address as 4 1 5 Russell Avenue, Gaithersburg, Maryland. Your pickup and dropoff addresses are now verified. I will proceed with the next steps for your trip.
+AGENT: I’m sorry, I still need your name to proceed. Could you please tell me your name again?
+CALLER: Darlene, d a r l e n e.
+AGENT: Thanks, Darlene. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I would like transportation
+AGENT: I see you want to
+CALLER: Kaiser Permanente at at Kaiser I wanna I am at Kaiser Permanente at 655 Watkins Mill Road, I wanna go to my home address at 415 Russell Avenue, Gaithersburg, Maryland.
+AGENT: I have 4 1 5 Russell Avenue, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Darlene. I will now proceed with your booking.
+AGENT: When would you like to be picked up?
+CALLER: Now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One One person
+AGENT: Thank you. Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 8.5 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No. Could you please verify the name of the cab company?
+AGENT: Your pickup address is 655 Watkins Mill Road, Gaithersburg, Maryland. Could you please clarify if you want me to verify the cab company name or any other information?
+CALLER: Please verify the cab company name.
+AGENT: I don't have the cab company name in the trip details. If you'd like, I can connect you to a live agent who can provide that information. Would you like me to do that?
+CALLER: Yes.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

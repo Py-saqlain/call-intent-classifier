@@ -1,0 +1,36 @@
+AGENT: Hello matas, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a trip
+AGENT: So, you'd like to book a trip. Could you please tell me the pickup address?
+CALLER: 803 Russell Avenue.
+AGENT: Thank you. And where would you like to go?
+CALLER: Seven four hundred Lindbergh Drive, Bay
+AGENT: Just to confirm, is your destination 7 4 0 0 Lindbergh Drive, Gaithersburg?
+CALLER: Yeah.
+AGENT: Got it. When would you like the pickup?
+CALLER: What time now?
+AGENT: It is currently 12:10 pm. What time would you prefer for your pickup?
+CALLER: 12:15.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: K. Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, I have pickup as 8 0 3 Russell Avenue, Gaithersburg, Maryland, and dropoff as 7 4 0 0 Lindbergh Drive, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified.
+AGENT: Just to confirm, you would like to be picked up today at 12:15 pm, is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One,
+AGENT: Thanks for that. Will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One, No.
+AGENT: Hmm, sorry, let me get that right. You said one passenger and no wheelchair needed, correct? <emotion value="hesitant"/>
+CALLER: Alright.
+AGENT: Okay great! Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, so let me confirm those details. Your pickup is 8 0 3 Russell Avenue in Gaithersburg. Your dropoff is 7 4 0 0 Lindbergh Drive. Pickup time is today at 12:15 PM. One passenger, no wheelchair needed. The estimated fare is 13.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Say that again
+AGENT: Sure, let me confirm again. Your pickup is 8 0 3 Russell Avenue in Gaithersburg. Your dropoff is 7 4 0 0 Lindbergh Drive. Pickup time is today at 12:15 PM. One passenger, no wheelchair needed. The estimated fare is 13.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your main trip is booked for today at 12:15 PM. Your confirmation number is 2 1 3 6 7 0 6 4 1. Is there anything else I can help you with?
+CALLER: None.
+AGENT: Thank you for calling Barwood & Regency, matas. Have a wonderful day.

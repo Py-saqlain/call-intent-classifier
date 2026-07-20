@@ -1,0 +1,7 @@
+AGENT: Hi Robert, this is Ana from Barwood & Regency. Your pickup is scheduled for today at 12:50 PM. How can I assist you today?
+CALLER: The camera is waiting.
+AGENT: Uhh, I’m here to help with your ride needs. Could you please tell me where you’d like to go or what I can assist you with today? <emotion value="peaceful"/>
+CALLER: The is where should we pick up from 18 Northwind Drive Road to 06:37AM in the 07:30AM. It's the Way.
+AGENT: Looks like you already have trips from 18 North Summit Drive to 630 E Diamond Avenue at 7:30 AM, from 630 E Diamond Avenue back to 18 North Summit Drive at 12:50 PM, and one more. What would you like to do? <emotion value="grateful"/>
+CALLER: How long till the cab gets here?
+AGENT: Uhh, I’m not seeing a driver assigned yet for your pickup at 6:37 AM from 18 Northwind Drive. I’ll keep you posted. <emotion value="peaceful"/>

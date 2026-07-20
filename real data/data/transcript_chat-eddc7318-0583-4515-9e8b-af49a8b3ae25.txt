@@ -1,0 +1,78 @@
+AGENT: Hello Chin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: You're fine. Miss Tang is a patient here at Suburban. She's requesting a ride. To her house.
+AGENT: Alright, how would Miss Tang like to pay for her ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride.
+AGENT: Okay, just to confirm, did you say Call and Ride? If so, could you please provide the last six digits of the card? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Thank you. Please go ahead and tell me the last six digits of the Call and Ride card when you're ready. <emotion value="peaceful"/>
+CALLER: Where is the last six digits, honey?
+AGENT: The last six digits are the final six numbers printed on the Call and Ride card, usually found on the front or back. Whenever you find them, just let me know those six digits, and I'll take care of the rest. <emotion value="peaceful"/>
+CALLER: I see two digits, not six. Oh, here. R one seven four zero. It's not six digits. Yeah. I know. I don't have a six digit here.
+AGENT: Hmmm.. that didn't seem right, could you try again and check if there might be more digits on the card? The last six digits are needed to process the payment. <emotion value="apologetic"/>
+CALLER: It says ticket book number thirty nine.
+AGENT: It sounds like that might not be the card number we need. If you don’t have the six-digit Call and Ride card number handy, would you like to pay with cash or credit card instead? <emotion value="peaceful"/>
+CALLER: Hold on. Let me get somebody to help me.
+AGENT: Of course, take your time. Just let me know when you're ready with the payment method. <emotion value="peaceful"/>
+CALLER: Yeah. Whole month. If I'll pay by by credit card, but I will prefer to pay by call and ride. Alright. Let me see if I can help you.
+AGENT: Alright, I understand you prefer to pay by Call and Ride. Whenever you have the six-digit card number ready, just let me know. If you decide to pay by credit card instead, that's fine too. How would you like to proceed for now? <emotion value="peaceful"/>
+CALLER: Where can where can you find the sick visit? There's no six I'm with you. Where can you find a six digit? Is this all you have for the colon. Right? Yeah. That's it? What That's that's it. We're gonna want one fifty to but the the ticket book is 39. And, you know, it's if you buy rough year seniors center
+AGENT: Thanks for checking. Since the Call and Ride card number isn’t available, would you like to pay by cash or credit card instead? <emotion value="peaceful"/>
+CALLER: You don't see a six digit here, Maria. You don't you don't have anything else?
+AGENT: Since there’s no six-digit Call and Ride card number available, would you prefer to pay with cash or credit card for this ride? <emotion value="peaceful"/>
+CALLER: We always just
+AGENT: It seems like your message got cut off. Could you please let me know how you would like to pay—cash, credit card, or Call and Ride if you find the card number? <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+CALLER: Even the taxi driver confront
+AGENT: I found a few locations. 
+ Option one: 9 9 0 1 Medical Center Drive, Rockville, Maryland, Adventist HealthCare Shady Grove Medical Center. 
+ Option two: 6 0 0 1 Montrose Road, Rockville, Maryland, Suburban Hospital Outpatient Behavioral Health Services. 
+ Option three: 1 0 2 1 5 Fernwood Road, Bethesda, Maryland, Suburban Outpatient Medical Center. 
+ Option four: 8 6 0 0 Old Georgetown Road, Bethesda, Maryland, Suburban Hospital Emergency Room. 
+ Option five: 8 6 0 0 Old Georgetown Road, Bethesda, Maryland, Suburban Hospital Intensive Care Unit. 
+Which one is correct? <emotion value="hesitant"/>
+AGENT: Okay, so I found your dropoff location as 100 Beall Avenue, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+Which one of the pickup locations I read is correct for you?
+CALLER: Yeah. If a taxi driver could find the city street that Oh, no. No. No. It's I Option two. Right. Right.
+AGENT: Okay, so your pickup address is 8 6 0 0 Old Georgetown Road, Bethesda, Maryland, and your dropoff address is 100 Beall Avenue, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Your pickup address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've noted your pickup time as today at 8:55 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: if possible as soon as yes. One.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. You want the pickup as soon as possible, with one passenger, correct? And will you need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: Yes. Yes. Yes.
+AGENT: Okay great! I've got that noted. Will you have any special instructions or requests for the driver? <emotion value="peaceful"/>
+CALLER: Yes. Yes. Yes. No. I have a doctor. I have no. I have a walk walker.
+AGENT: Alright, so let me confirm those details. Your pickup is 8600 Old Georgetown Road. Your dropoff is 100 Beall Avenue. Pickup time is today at 8:56 PM. You have one passenger traveling, and you will need a wheelchair-accessible vehicle. The estimated fare is 24 dollars, paying with a credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: I have the walker
+AGENT: Thank you for letting me know you have a walker. That’s helpful for the driver to be aware of. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Is it a survival heart Yeah. No. No. It's a they are emergency. Suburban hospital emergency entrance
+AGENT: I found a few locations. 
+ Option one: 8 6 0 0 Old Georgetown Road, Bethesda, Maryland, Suburban Hospital Emergency Room. 
+ Option two: 8 6 0 0 Old Georgetown Road, Bethesda, Maryland, Suburban Hospital. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Yeah.
+AGENT: Sure, let me update your dropoff address to the emergency entrance at Suburban Hospital. Alright, so would you like to schedule a return trip as well? <emotion value="peaceful"/>
+AGENT: Alright, so let me confirm those details. Your pickup is 8 6 0 0 Old Georgetown Road. Your dropoff is 8 6 0 0 Old Georgetown Road. Pickup time is today at 8:56 PM. You have one passenger traveling, and you will need a wheelchair-accessible vehicle. The estimated fare is 5 dollars, paying with a credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: So which one is I guess that's under Old Town Or Georgetown. Where is she? Only one way.
+AGENT: Thank you for your patience. I’m processing your booking now.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 7 1 4 7 7. Your pickup is today at 8:56 PM. Is there anything else I can help you with?
+CALLER: write down the you know, reservation Yeah.
+AGENT: I have your reservation recorded with confirmation number 2 1 3 6 7 1 4 7 7. If you need to reference it later, just let us know. Is there anything else I can assist you with?
+CALLER: Anyways, it was it was
+AGENT: I’m here to help whenever you’re ready. Is there something else you’d like to do with your reservation?
+CALLER: hold a second. I have to write down.
+AGENT: Take your time. I’m here when you’re ready.
+CALLER: Yeah. I I I need to to write down the confirmation number.
+AGENT: The confirmation number is 2 1 3 6 7 1 4 7 7. Let me know if you need me to repeat it or help with anything else.
+CALLER: Hold a second. I I have to write down.
+AGENT: No problem at all. Take your time, and just let me know when you’re ready.
+CALLER: Reservation number reservation number
+AGENT: The reservation number is 2 1 3 6 7 1 4 7 7. Would you like me to repeat it again or assist you with anything else?
+CALLER: You yes. Two one three Repeat again.
+AGENT: Certainly. The confirmation number is 2 1 3 6 7 1 4 7 7. Is there anything else I can assist you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Chin. Have a wonderful day!
+CALLER: Thank you. So I've been waiting Okay. Bye.

@@ -1,0 +1,51 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Carey?
+CALLER: Nope. Hello? My name is. I would like to book a taxi, uh, for tomorrow. For a guest.
+AGENT: Thanks, Anette. This is Ana from Barwood & Regency. I see you'd like to book a taxi for tomorrow for a guest. Let me connect you so we can get that arranged.
+CALLER: Okay.
+AGENT: Thank you, Anette. How would you like to pay for the ride? We accept cash, credit card, and Call and Ride.
+CALLER: Oh, I think it she will do with credit card.
+AGENT: Great, credit card it is. Thank you for letting me know.
+AGENT: Could you please provide the pickup address for the ride tomorrow?
+CALLER: Okay. 9751 Washingtonian Boulevard,
+AGENT: I have 9 7 5 1 Washingtonian Boulevard, Gaithersburg, Maryland as the pickup address. Is that correct?
+CALLER: Yep. Yes. That's correct.
+AGENT: I wasn't able to find a location matching "book a taxi, uh, for tomorrow. For a guest." Could you please provide the full destination address or the place where the guest needs to be dropped off?
+CALLER: AstraZeneca.
+AGENT: I found several AstraZeneca locations: 
+
+1. 1 Medimmune Way, Gaithersburg, Maryland
+2. 200 Orchard Ridge Drive, Gaithersburg, Maryland
+3. 10050-9922 Medical Center Drive, Rockville, Maryland
+4. 801 Pennsylvania Avenue Northwest, Suite 830, Washington, D C
+5. 633 Research Court, Frederick, Maryland
+
+Which one would you like to use?
+CALLER: Legate this floor.
+AGENT: Could you please clarify which address you would like to use from the AstraZeneca locations I listed? If you meant a specific one, please say the number or the full address.
+CALLER: I don't have an address. Can you use It's in Gaithersburg. She's going to Gaithersburg, AstraZeneca.
+AGENT: There are two AstraZeneca locations in Gaithersburg: 
+
+1. 1 Medimmune Way
+2. 200 Orchard Ridge Drive
+
+Which one should I use for the dropoff?
+CALLER: One
+AGENT: Your dropoff address has been verified, Anette. I will now proceed to arrange your ride.
+AGENT: When would you like your guest to be picked up tomorrow?
+CALLER: At the entrance, 06:45AM.
+AGENT: You mentioned 6:45 AM for pickup tomorrow. Just to confirm, is that correct?
+CALLER: Yes. Yes. That's correct. 06:45AM.
+AGENT: Thank you for confirming the pickup time of 6:45 AM tomorrow. How many passengers will be traveling, including your guest? Also, will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Just one. One guest.
+AGENT: Got it, one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No. No. Just just wave outside at the entrance
+AGENT: The estimated fare for your trip is 14
+CALLER: Okay. They like to pay. Hello?
+AGENT: The payment method we have on file is Self. Would you like to proceed with booking this
+CALLER: Hello?
+AGENT: Your trip is booked for
+CALLER: Yes.
+AGENT: Your main trip is confirmed with confirmation number 2 1 3 6 6 8 9 5 5, scheduled for tomorrow at 6:45 AM. Is there anything else I can help you with?
+CALLER: No. That will be all. Thank you.
+AGENT: Thank you for calling Barwood & Regency, anette. Have a wonderful day!
+CALLER: You too. Thank you.

@@ -1,0 +1,49 @@
+AGENT: Hello William, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to schedule a wheelchair pickup for tomorrow morning.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your wheelchair ride tomorrow morning? <emotion value="peaceful"/>
+CALLER: Thirty three twenty two Chiswick Court, Silver Spring, Maryland two zero nine zero six.
+AGENT: Okay, so I have your pickup address as three three two two Chiswick Court, Silver Spring, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I understand the pickup address is not correct. Could you please provide the
+CALLER: The address is the address
+AGENT: Just to clarify, you mean the pickup address is three three two two Chiswick Court, Silver Spring, Maryland, correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One eight one zero one Prince Philip Drive,
+AGENT: I have the dropoff address as one eight one zero one Prince Philip Drive, Olney,
+CALLER: Olney, Maryland
+AGENT: Your dropoff address has been verified, William.
+AGENT: Just to confirm, you want a pickup tomorrow morning with one wheelchair, is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Okay great! I've got your pickup time set for tomorrow at 9:00 AM with one wheelchair. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including
+CALLER: No. The time no. The pick no. Negative.
+CALLER: Pickup time is 8AM.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. You want the pickup time changed to tomorrow at 8:00 AM, correct? <emotion value="hesitant"/>
+CALLER: Correct.
+AGENT: Okay great! I've updated your pickup time to tomorrow at 8:00 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself?
+CALLER: One.
+AGENT: Okay great! I've got one passenger traveling with one wheelchair. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Have the driver call me at three zero one five two six eight eight seven zero. When they're on the way.
+AGENT: Alright, the estimated fare is 17.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, thanks for confirming. I'll start collecting the return trip details now. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: 10AM.
+AGENT: Just to confirm, you want your return trip pickup at 10:00 AM, correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Okay great! I've got your return trip pickup time set for tomorrow at 10:00 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling on the return trip, including yourself?
+CALLER: One
+AGENT: Okay great! I've got one passenger for the return trip. <emotion value="grateful"/> Will you be needing a wheelchair accessible vehicle for the return trip?
+CALLER: Yes.
+AGENT: For your return trip, I have the pickup address as one eight one zero one Prince Philip Drive, Olney, Maryland, and the dropoff address as three three two two Chiswick Court, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: The estimated fare for your return trip is 17.5 dollars, paying with Self. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I'm booking both trips for you now. <emotion value="grateful"/>
+AGENT: I'm processing your booking for both trips now. Please hold on a moment.
+AGENT: Your main trip is scheduled for tomorrow at 8:00 AM with confirmation number 2 1 3 6 7 5 3 0 1. Your return trip is scheduled for tomorrow at 10:00 AM with confirmation number 2 1 3 6 7 5 3 0 2. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, William. Have a wonderful day.

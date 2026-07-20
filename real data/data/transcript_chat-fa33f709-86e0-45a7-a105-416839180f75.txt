@@ -1,0 +1,30 @@
+AGENT: Hello Quin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like to book a.
+AGENT: I can help you with booking a ride. Could you please tell me where you would like to be picked up from?
+CALLER: Two two one.
+AGENT: Just to confirm, is your pickup address 2 2 1 Muddy Branch Road, Gaithersburg, Maryland? Or is there another street name or location you'd like to specify?
+CALLER: Yeah.
+AGENT: Thank you. And where would you like to go?
+CALLER: No. I want to try for punching time.
+AGENT: Could you please clarify what time you'd like to schedule your pickup for?
+CALLER: Wanna schedule my pickup for now.
+AGENT: Thanks for letting me know you want to schedule your pickup for now. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Come on, Ryan. I'm fine.
+AGENT: I want to make sure I have your payment method correctly so we can get your ride arranged. Could you please tell me if you’ll be paying with cash, credit card, or Call and Ride?
+CALLER: Online.
+AGENT: We accept cash, credit card, and Call and Ride for payment. Could you please choose one of these options? If you need help with other payment methods, I can connect you to a live agent.
+CALLER: Yeah.
+AGENT: Which payment method would you like to use: cash, credit card, or Call and Ride?
+CALLER: I are you called right?
+AGENT: Just to be sure, did you mean Call and Ride as your payment method? If so, I’ll need the last six digits of your Call and Ride card.
+CALLER: Three four eight six two zero.
+AGENT: Thank you for providing your Call and Ride card details. Your payment method is set to Call And Ride.
+AGENT: I have 2 2 1 Muddy Branch Road, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Right. Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Designation is five four pound strength Drive. Gaithersburg.
+AGENT: I found a few locations related to what you said: Life Time at 10121 Washingtonian Boulevard, LA Fitness at 602 Quince Orchard Road, and PR Strength at 18761-T North Frederick Avenue, all in Gaithersburg. Which one would you like to use as your dropoff address?
+CALLER: Five four zero Drive, my drop off address.
+AGENT: I found a few locations near what you said: Concentra Urgent Care at 733 South Frederick Avenue, MedStar Health Primary Care at 12111 Darnestown Road Suite A, and MedStar Health Urgent Care at 12111 Darnestown Road, all in Gaithersburg. Which one would you like to use as your dropoff address?
+CALLER: I would have used my own driver's address at five four zero five Drive, Gaithersburg, Come on,
+AGENT: I couldn't find an exact match for 5405 Drive in Gaithersburg, but I found these locations nearby: Advanced Pain and Neurology Center at 501 North Frederick Avenue Suite 302,

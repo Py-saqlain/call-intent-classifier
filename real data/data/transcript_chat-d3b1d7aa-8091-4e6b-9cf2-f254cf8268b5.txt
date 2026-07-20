@@ -1,0 +1,44 @@
+AGENT: Hello, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to order a tax.
+AGENT: Thank you for reaching out. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know
+CALLER: Hello.
+AGENT: How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you
+CALLER: Representative.
+CALLER: Agent.
+AGENT: I can help with your booking details — would you like to continue?
+CALLER: Okay.
+AGENT: Great! What details would you like to provide for your ride? You can tell me your pickup location, destination, time, number of passengers, or any special needs.
+CALLER: The date, is tomorrow morning. At five fifty AM.
+AGENT: Thank you. Do you have a pickup address you'd like to use for your ride tomorrow at 5:50 am?
+CALLER: Seventy nine forty eight. Turncrest Drive, Potomac, Maryland
+AGENT: I have 7 9 4 8 Turncrest Drive, Potomac, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Dallas International Airport.
+AGENT: I have 1 Aviation Circle, Washington, District of Columbia as your dropoff address. Is that correct?
+CALLER: I don't know. Dallas International Airport.
+AGENT: I have Saarinen Circle, Sterling, Virginia as your dropoff address. Is that correct?
+CALLER: I don't know.
+AGENT: Dallas International Airport is commonly known as Washington Dulles International Airport, located at 1 Saarinen Circle, Dulles, Virginia. Is that the airport you mean for your dropoff?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Mr. Jacobs.
+AGENT: You mentioned your pickup time is tomorrow at 5:50 am. Is that correct?
+CALLER: Yes.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two. Two passengers.
+AGENT: Thank you. Will anyone be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 66 dollars, and the payment method is credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for tomorrow at 5:50 AM. The confirmation number is 2 1 3 6 7 8 5 9 2. Is there anything else I can assist you with?
+CALLER: Could you give me the confirmation number again, please?
+AGENT: Certainly. The confirmation number for your main trip is 2 1 3 6 7 8 5 9 2. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, jacobs. Have a great day!

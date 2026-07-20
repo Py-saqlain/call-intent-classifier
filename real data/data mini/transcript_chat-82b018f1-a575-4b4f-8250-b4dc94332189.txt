@@ -1,0 +1,8 @@
+AGENT: Hello Juliana, this is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Any trip scheduled tomorrow?
+AGENT: You have two trips scheduled tomorrow: one pickup at 7:25 am from 1 1 5 0 6 Lockwood Drive to 9 0 1 Arcola Avenue, and another at 4:30 pm from 9 0 1 Arcola Avenue to 1 1 5 0 6 Lockwood Drive. Anything else?
+CALLER: Operator,
+CALLER: Agent.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

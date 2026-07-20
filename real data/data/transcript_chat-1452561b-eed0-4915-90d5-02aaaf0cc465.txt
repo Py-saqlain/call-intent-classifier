@@ -1,0 +1,35 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Kristen Palmer,
+AGENT: Thanks, Kristen. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I would like to order a taxi.
+AGENT: Alright, Kristen, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Kristen, could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Six one zero one Wilson Lane, Bethesda, Maryland two zero eight one seven.
+AGENT: Okay, Kristen, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, Kristen, I have 6 1 0 1 Wilson Lane, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One zero zero two nine Gable Manor Court, Potomac, Maryland two zero eight five four.
+AGENT: Okay, Kristen, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, Kristen, I have 1 0 0 2 9 Gable Manor Court, Potomac, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Kristen.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 03:30PM today.
+AGENT: Okay great! I've got your pickup time noted for today at 3:30 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: It will not be for me. It will be for my son.
+AGENT: Thank you for letting me know. Could you please tell me how many passengers your son will have, and if anyone will need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One.
+AGENT: Thanks for that. Will your son need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, no wheelchair-accessible vehicle needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 19.5, paying with credit card. You mentioned the pickup is at 6 1 0 1 Wilson Lane, and the dropoff is at 1 0 0 2 9 Gable Manor Court, with one passenger and no wheelchair needed, for today at 3:30 PM. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is booked for today at 3:30 PM. Your confirmation number is 2 1 3 6 7 5 8 8 6. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Kristen. Have a wonderful day!
+CALLER: Thank you.

@@ -1,0 +1,32 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Patty Clemenson?
+CALLER: Yes. You are.
+AGENT: Thanks, Patty. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yes. I'm calling up. I need I think that somebody been called in. But I'm calling up. I need a cab tomorrow. To pick me up at 02:30.
+AGENT: Thank you for letting me know. Could you please tell me the pickup address and the destination for your ride tomorrow at 2:30 pm?
+CALLER: You don't have me for a trip at all scheduled? One, I'm sorry. What?
+AGENT: I don't see any trip scheduled for you right now. If you'd like, I can help you book a new ride for tomorrow at 2:30 pm. Could you please tell me where you want to be picked up and where you want to go?
+CALLER: That would be fine. I'm gonna go to my doctor, doctor Gantes.
+AGENT: Thank you. Could you please tell me the pickup address for your ride to see Dr. Gantes tomorrow at 2:30 pm?
+CALLER: Oh my gosh. My cab driver no. Called up and said the same thing that she didn't have anything. Scheduled yet. But is there any way that he could call you back? Because I'm not I know it's a middle bird Road. But I know where you're on Middlebrook Road.
+AGENT: I understand. I can't have the driver call you directly, but I can help you get your ride scheduled now so everything is set. Just to confirm, is your pickup address on Middlebrook Road? If so, could you please provide the house or building number?
+CALLER: Alright. Yes. No. I
+AGENT: Could you please provide the house or building number on Middlebrook Road for your pickup? That way I can make sure the driver knows exactly where to come.
+CALLER: I don't live on road. I live up one I don't
+AGENT: Thank you for clarifying. If you don’t live on Middlebrook Road, could you please tell me the exact address where you would like to be picked up tomorrow at 2:30 pm? If it’s your home, I can look it up for you.
+CALLER: Yes. One one eight zero zero three Matt New Road. Could you look it up and you would see that you picked me up there before, taking me to my doctors.
+AGENT: Thank you for providing your pickup address at 1 1 8 0 0 3 Matt New Road. Now, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: No. One, eight one It's on Colin Wright. It's call and ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Oh my gosh. I guess, god, I'm not sure what it is. I'm sorry. I'm just not sure. What can I do
+AGENT: No worries at all. If you're not sure about the Call and Ride card number, would you like to pay with cash or credit card instead? I can help you with either option.
+CALLER: No? I need to pay by car, run ride car.
+AGENT: Thank you for confirming you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? This helps us verify your payment.
+CALLER: Alright. Wait a minute. Oh gosh. I don't even have my book out here.
+AGENT: Take your time. Whenever you have your Call and Ride card handy, just let me know the last six digits. If you need a moment, I’m here to help when you’re ready.
+CALLER: Okay.
+AGENT: Whenever you’re ready, please provide the last six digits of your Call and Ride card so I can verify your payment.
+CALLER: Hello. My appointment. Hello.
+AGENT: I’m here to help. When you’re ready, please share the last six digits of your Call and Ride card so we can proceed with your payment.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay. I have my card right here. Hello? Hello? Hello?
+AGENT: Thank you for letting me know you have your card. Please go ahead and tell me the last six digits

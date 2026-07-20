@@ -1,0 +1,14 @@
+AGENT: Hello James, this is Ana from Barwood & Regency. I see you have a will-call trip scheduled today from 6000 Executive Boulevard in Rockville to 12 Dalamar Street in Gaithersburg. How can I assist you today?
+CALLER: Could I speak to an agent?
+AGENT: I can actually help with will-call activation right here — usually faster than waiting for an agent. What do you need today?
+CALLER: I need to be picked up.
+AGENT: Let me get that set up for you right now.
+AGENT: Looks like you already have trips from Gaithersburg to Rockville tomorrow at 10:15 am, from Rockville to Gaithersburg today as a will-call, and one more. What would you like to do?
+CALLER: At six thousand Executive Boulevard going to twelve Delamont Okay.
+AGENT: Just to confirm, you want a ride from 6 0 0 0 Executive Boulevard to 1 2 Dalamar Street, correct? And when would you like the pickup?
+CALLER: correct Right now.
+AGENT: You already have trips scheduled from Gaithersburg to Rockville tomorrow at 10:15 am, from Rockville to Gaithersburg today as a will-call, and one more. What would you like to do?
+CALLER: I'm ready now.
+AGENT: Your trip from 6 0 0 0 Executive Boulevard, Rockville to 1 2 Dalamar Street, Gaithersburg is activated. A driver will be dispatched to your pickup location shortly. If you need anything else, just let me know.
+CALLER: I need to be picked up to for the day. Can you can I speak to an agent?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

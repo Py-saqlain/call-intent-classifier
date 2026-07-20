@@ -1,0 +1,32 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Maria.
+AGENT: Thanks, Maria. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I would like to load at a cab
+AGENT: Uhh, just to be sure, are you looking to book a ride with a cab now?
+CALLER: Yep.
+AGENT: Alright, Maria, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Maria, could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Seven six three seven old Georgetown Road, and z. 0814.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found your pickup address as seven six three seven Old Georgetown Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Alright.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Ten three one two. Droshmore Falls Street, Bethesda, Maryland
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I'm sorry, Maria, but I couldn't find 10312 Droshmore Falls Street in Bethesda, Maryland. Could you please double-check the street name or provide any nearby landmarks or cross streets? <emotion value="apologetic"/>
+CALLER: One zero three one two Drotmore, Oak Street, Bethesda, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I'm sorry, Maria, but I still couldn't find that address. Could you please confirm the street name again or provide a nearby landmark or cross street to help locate it? <emotion value="apologetic"/>
+CALLER: One zero three one two. Strathmore Hall Street, North, Vista,
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I found a location called Avalon at Grosvenor Station at 1 0 3 0 6 Strathmore Hall Street, North Bethesda, Maryland. Is that the place you want to go? <emotion value="peaceful"/>
+CALLER: No. One zero three one. Two. Strathmore. Paul Street.
+AGENT: Okay, Maria, I understand you want to go to 1 0 3 1 2 Strathmore Paul Street. Let me check that address for you.
+AGENT: I found a location called Avalon at Grosvenor Station at 1 0 3 0 6 Strathmore Hall Street, North Bethesda, Maryland. Is that the place you want to go? <emotion value="peaceful"/>
+CALLER: What is one zero three zero six Can you find your address? You can't see
+AGENT: Maria, I understand you're asking about 1 0 3 0 6 Strathmore Hall Street. Unfortunately, I couldn't find an exact match for 1 0 3 1 2 Strathmore Paul Street, but the closest location I found is 1 0 3 0 6 Strathmore Hall Street, North Bethesda, Maryland. Could you please confirm if that is acceptable, or would you like to try another address? <emotion value="peaceful"/>
+CALLER: three one two Truck four. Hold. North Bethesda.
+AGENT: Maria, just to clarify, are you saying the address is 3 1 2 Truck Four Hold, North Bethesda? Could you please repeat or clarify the street name? <emotion value="peaceful"/>
+AGENT: I'm

@@ -1,0 +1,32 @@
+AGENT: Hi Maynuna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to book a trip.
+AGENT: Okay, I can help you with that. Could you please tell me where you would like to be picked up from? <emotion value="grateful"/>
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: 1805 Cody Drive,
+AGENT: I noticed you mentioned an address, but first, could you please tell me how you would like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: 1805 Cody Drive, Silver Spring, Maryland.
+AGENT: Okay, so I found 1805 Cody Drive, Silver Spring, Maryland as your pickup address. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Could you please tell me your dropoff address? <emotion value="peaceful"/>
+CALLER: Seven one eight Rockville Pike.
+AGENT: Okay, so I found 718 Rockville Pike, Rockville, Maryland as your dropoff address. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. In the toilet.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now.
+AGENT: Okay, I've got your pickup time as today at 8:26 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Three
+AGENT: Thanks for letting me know there will be three passengers. <emotion value="grateful"/> Will anyone be needing a wheelchair-accessible vehicle?
+AGENT: Will anyone be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. No.
+AGENT: Okay, I've noted that no wheelchair-accessible vehicle is needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No. That's it.
+AGENT: The estimated fare is 24.5 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 8:26 AM. Your confirmation number is 2 1 3 6 7 1 7 0 2. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Maynuna. Have a wonderful day!

@@ -1,0 +1,26 @@
+AGENT: Hi Susan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab.
+AGENT: Alright, how would you like to pay for your cab today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Colin Wright.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero zero three zero nine one three five.
+AGENT: Hmmm.. that didn't seem right, could you please say the last six digits of your Call and Ride card again? <emotion value="apologetic"/>
+CALLER: Zero I'm sorry.
+AGENT: Could you please say the last six digits of your Call and Ride card again, just the digits? <emotion value="hesitant"/>
+CALLER: Three zero nine one three five.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: One four three zero two Brad, that's b as in boy, r a d, Drive, Rockville, Maryland.
+AGENT: Okay, so your pickup address is 1 4 3 0 2 Brad Drive, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+AGENT: Could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Seven six one zero
+AGENT: Hmm, I need a bit more to find the address. Could you please provide the full street address including the street name and city? <emotion value="hesitant"/>
+AGENT: Could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: seven six one zero seven six one zero Carol Avenue, Takoma Park.
+AGENT: Okay, so your pickup address is 7 6 1 0 Carroll Avenue, Takoma Park, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. No. No. No. No. Drop off.
+AGENT: Okay, so you want to provide the dropoff address now. Could you please tell me the destination or dropoff address? <emotion

@@ -1,0 +1,50 @@
+AGENT: Hello Tetros, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello. Hello.
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: I just got a word tomorrow morning.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Hello?
+AGENT: I'm here to help. How would you like to pay for your ride? We accept cash,
+CALLER: Yeah.
+AGENT: Hmmm.. that didn't seem right, could you please tell me how you would like to pay? We accept cash, credit card,
+CALLER: I heard from you right, I
+AGENT: I want to make sure I understand you correctly. How would you like to pay for your ride? You can use cash, credit card, or Call and Ride. <emotion value="hesitant"/>
+CALLER: I can drive it. It's great.
+AGENT: Just to be sure, are you saying you'd like to pay with cash, credit card, or Call and Ride for your trip tomorrow morning? <emotion value="hesitant"/>
+CALLER: Calling right. Calling right.
+AGENT: Okay, just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Hello?
+AGENT: Could you please provide the last six digits of your Call and Ride card so I can proceed with your payment? <emotion value="peaceful"/>
+CALLER: Two zero.
+AGENT: Hmmm.. that didn't seem right, could you please say the last six digits of your Call and Ride card again? <emotion value="apologetic"/>
+CALLER: Three three five three two zero.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Hi there! Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Hello?
+AGENT: Yes, I’m here. Could you please provide
+CALLER: Hello?
+AGENT: Yes, I’m here to help. Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Three, two, one. University of address.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 3 2 1 University Boulevard West, Silver Spring, Maryland. Is that the correct
+CALLER: Hello? Yeah. Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Destination is SS three. S s seven, zero three Flora Avenue.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I couldn't locate that address. Could you please provide the full street address including the city and state for the destination? <emotion value="apologetic"/>
+CALLER: Agent three. Eighty seven zero three. Flower Avenue.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I found TESS Community Action Center at 8 7 0 3 Flower Avenue, Silver Spring, Maryland. Is that the correct destination?
+CALLER: Yeah. What's your name? What's your name? Give me the card number. Two four nine. The wheelchair car. My.
+AGENT: Thank you for confirming the destination address. Your dropoff address has been verified. Now, could you please tell me if you need a wheelchair-accessible vehicle for this trip? <emotion value="peaceful"/>
+CALLER: Hello?
+AGENT: Yes, I’m here to assist you. Do you need a wheelchair-accessible vehicle for your trip? <emotion value="peaceful"/>
+CALLER: I don't know. Three, two, one. One two eight seven zero three.
+AGENT: Hmm <break time="350ms"/> let me check that address. Could you please clarify if this is a new address for pickup or dropoff, or if you are providing additional information? <emotion value="hesitant"/>
+CALLER: Give me the account number. Two.
+AGENT: I want to make sure I understand correctly. Are you trying to update your account or payment information? If so, I can connect you to the right person to help with that. Would you like me to do that?
+CALLER: Retired. I cannot talk anymore. I told you. I told you. You got my name going. Don't go back. Go home. I'm leaving.
+AGENT: I understand. Just to confirm, would you like to cancel this booking request so no trips will be scheduled? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

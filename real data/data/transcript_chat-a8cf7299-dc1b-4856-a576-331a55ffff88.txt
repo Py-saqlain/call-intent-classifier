@@ -1,0 +1,34 @@
+AGENT: Hi Paul, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take
+CALLER: I need a ride from Kensington to Colesville. Hello?
+AGENT: Thanks for letting me know your trip from Kensington to Colesville. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: I found Dunkin' at 1 3 8 0 4 Outlet Drive, Silver Spring, Maryland. Is this the pickup location you want?
+CALLER: No. No. One zero five one zero Connecticut Avenue.
+AGENT: You said one zero five one zero Connecticut Avenue. Is that correct for your pickup location?
+CALLER: Correct.
+AGENT: I have 1 0 5 1 0 Connecticut Avenue, Kensington, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: I found Colesville, Maryland. Is this the dropoff location you want?
+CALLER: One three two two seven. Bregman Road.
+AGENT: You said one three two two seven Bregman Road. Is that correct for your dropoff location?
+CALLER: Yes.
+AGENT: I have 1 3 2 2 7 Bregman Road, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Paul.
+AGENT: When would you like to be picked up?
+CALLER: Right now.
+AGENT: How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+CALLER: One passenger. No wheelchair.
+AGENT: Thank you for confirming one passenger and no wheelchair. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 21.5 dollars, and you will be paying with your own payment method. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your main trip is scheduled for today at 12:50 PM. Your confirmation number is 2 1 3 6 6 4 6 0 1. Is there anything else I can assist you with?
+CALLER: Tomorrow morning.
+AGENT: To clarify, would you like to change your pickup time to tomorrow morning instead?
+CALLER: No.

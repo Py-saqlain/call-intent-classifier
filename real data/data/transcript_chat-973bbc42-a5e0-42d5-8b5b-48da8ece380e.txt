@@ -1,0 +1,42 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Christina Vindal.
+AGENT: Thanks, Christina. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I want to get a taxi.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your taxi ride? <emotion value="peaceful"/>
+CALLER: One four zero zero, Forest Glen Road, Silver Spring, Maryland two zero nine one zero.
+AGENT: Okay, so your pickup address is 1 4 0 0 Forest Glen Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Three two one University Boulevard West, apartment three one three.
+AGENT: Okay, so your dropoff address is 3 2 1 University Boulevard West, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Christina. I'll now proceed with the next steps for your ride.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Soon as possible.
+AGENT: Okay great! I've got your pickup time as soon as possible, today at 3:08 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two
+AGENT: Thanks for letting me know there will be two passengers. Will anyone be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Two in total. No. Wheelchair.
+AGENT: Okay great! I've got two passengers total and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Preferably Hispanic Spanish speaking, please.
+AGENT: Alright, the estimated fare is 8 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Not at this time.
+AGENT: Okay, I will skip the return trip for now. Let me confirm, should I go ahead and book your one-way trip for two passengers, no wheelchair, from 1 4 0 0 Forest Glen Road to 3 2 1 University Boulevard West at 3:08 am, paying with Self? <emotion value="peaceful"/>
+CALLER: Yes. Playing with cash. Yes. And can you call this number? When it arrives?
+AGENT: Just to confirm, you want to pay with cash for this trip, correct? Also, I want to make sure about the phone number you'd like us to call when the driver arrives. Could you please provide the number? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thanks for confirming cash as your payment method. I can update your payment to cash. However, I don't have the ability to add a phone number for driver contact. If you want the driver to call you when they arrive, please make sure your phone number is on file with us. Now, should I go ahead and book your trip? <emotion value="peaceful"/>
+CALLER: Three zero one, eight hundred
+AGENT: Thank you for providing the start of the phone number. Could you please give me the full phone number you want us to use for the driver to call when they arrive? <emotion value="peaceful"/>
+CALLER: 800. 1174.
+AGENT: Thanks for the number so far. Could you please provide the full phone number including the area code and all digits? That way I can make sure it's correct for the driver to call when they arrive. <emotion value="peaceful"/>
+CALLER: Three zero one, three zero one eight hundred eleven seven four.
+AGENT: Thank you for the phone number three zero one, three zero one, eight hundred, one one seven four. I can't add the phone number to the booking myself, but please be sure your number is on file with us so the driver can reach you when they arrive. Now, should I go ahead and book your trip paying with cash? <emotion value="peaceful"/>
+CALLER: Yes, please.
+AGENT: Thank you for your patience. I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is booked for today at 3:08 AM. Your confirmation number is 2 1 3 6 7 7 8 3 3. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Christina. Have a wonderful day.

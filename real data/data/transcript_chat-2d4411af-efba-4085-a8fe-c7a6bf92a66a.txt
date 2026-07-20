@@ -1,0 +1,41 @@
+AGENT: Hi Martha, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi from Bethesda to home.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: I found a few locations for Bethesda. 
+Option one: 8 2 0 1 Woodmont Avenue, Bethesda. 
+Option two: 8 0 0 1 Woodmont Avenue, Bethesda. 
+Option three: 4 9 3 4 Saint Elmo Avenue, Bethesda. 
+Option four: Bethesda Station and Bay C, Bethesda. 
+Which one would you like to use? <emotion value="hesitant"/>
+CALLER: None.
+AGENT: Okay, I understand none of those are correct. Could you please provide a more specific address, landmark, or cross street in Bethesda to help me find your pickup location? <emotion value="apologetic"/>
+CALLER: Six four three zero
+AGENT: Thank you. Just to clarify, is your pickup address 6 4 3 0 followed by
+CALLER: Rockledge Drive,
+AGENT: Okay, so your pickup address is 6 4 3 0 Rockledge Drive, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so your pickup address is 6 4 3 0 Rockledge Drive, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so your dropoff address is 8 2 1 5 Larry Place, Chevy Chase, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Martha. I will now proceed with the next step.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Your main trip pickup address is 6430 Rockledge Drive, Bethesda, Maryland. Alright,
+CALLER: No.
+AGENT: Yes, I have your pickup address as 6430 Rockledge Drive, Bethesda, Maryland. When would you like to be picked up? <emotion value="peaceful"/>
+When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No. No.
+AGENT: Hmm sorry, let me get that right. When would you like to be picked up? <emotion value="hesitant"/>
+CALLER: Right now,
+AGENT: Okay great! I've got your pickup time as today at 8:16 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Myself only, no vehicle accessible.
+AGENT: Okay great! I've got 1 passenger and no wheelchair needed. Do you have any special instructions for the driver? <emotion value="grateful"/>
+CALLER: I'm sitting outside on the bench waiting.
+AGENT: Alright, the estimated fare is 19.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 8:16 AM. Your confirmation number is 2 1 3 6 7 7 9 2 1. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Martha. Have a wonderful day.

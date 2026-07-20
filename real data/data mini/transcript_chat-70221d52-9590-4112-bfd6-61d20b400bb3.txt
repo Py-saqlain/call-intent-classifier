@@ -1,0 +1,12 @@
+AGENT: Hello Donna, this is Ana from Barwood & Regency. Your trip is being processed and is scheduled for pickup today at 11:09 AM. How can I assist you today?
+CALLER: Um, where's my rat?
+AGENT: I can help you check the status of your ride. Let me look into that for you.
+AGENT: Your ride is active and was scheduled for pickup at 11:09 am from 7 3 7 Frederick Road in Gaithersburg, but no driver has been assigned yet. I'll keep you posted. Is there anything else I can help with?
+CALLER: How long will it be?
+AGENT: The estimated travel time for your trip is about 4 and a half minutes. Would you like any other information?
+CALLER: No.
+AGENT: Your pickup was scheduled for today at 11:09 AM, but no driver has been assigned yet. Is there anything else I can assist you with?
+CALLER: No. How long will it be before I could get a driver's?
+AGENT: I don't have an exact time for when a driver will be assigned, but if you'd like, I can connect you with a customer representative who can provide more details. Would you like me to do that?
+CALLER: Yes.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

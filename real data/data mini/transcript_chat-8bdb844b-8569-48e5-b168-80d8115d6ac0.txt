@@ -1,0 +1,12 @@
+AGENT: Hello Barbara, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: They automatically told me that about my pickup tomorrow.
+AGENT: I understand you were informed about your pickup tomorrow. Are you calling to check on that trip, make any changes, or do you need help with something else?
+CALLER: No. With it it automatically told me that I was being picked up at 10:15 tomorrow.
+AGENT: Yes, your pickup is scheduled for tomorrow at 10:15 am from 2 0 9 Monroe Street in Rockville. Is there anything else you would like to know or update?
+CALLER: No. But do do you know where it's going?
+AGENT: Your trip is going to 6 1 2 5 Montrose Road in Rockville. Would you like me to help with anything else?
+CALLER: No. They'll be here tomorrow at 10:15.
+CALLER: Correct
+AGENT: Take your time getting ready for your pickup tomorrow at 10:15 am. If you need to pass a message to the driver or have any issues, I can connect you with a representative who can assist. Would you like me to do that?
+AGENT: No rush at all, take your time getting ready for your pickup tomorrow at 10:15 am. Is there anything else I can assist you with?
+CALLER: No. Thank you.

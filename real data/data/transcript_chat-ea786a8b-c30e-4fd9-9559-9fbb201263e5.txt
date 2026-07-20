@@ -1,0 +1,29 @@
+AGENT: Hello Marjorie, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to book a cab, please.
+AGENT: Okay, I can help you with that. Let me start the booking process for you.
+AGENT: Alright, how would you like to pay for your cab? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call in right, please.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay so I've got that you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero five one four one four.
+AGENT: Okay so I've got that payment noted as Call and Ride.
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 9909 Medical Center Drive in Rockville.
+AGENT: Okay, so your pickup address is 9 9 0 9 Medical Center Drive, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 722 guard View Way in Rockville.
+AGENT: I found a similar address: 7 2 2 Garden View Way, Rockville, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Marjorie.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: As soon as possible.
+AGENT: Okay great! I've got your pickup time as today at 4:17 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Just want No. Just one. I have a walker.
+AGENT: Alright, Marjorie, the estimated fare is 11 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No, thank you.
+AGENT: Thank you for your patience, Marjorie. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 4:17 PM. Your confirmation number is 2 1 3 6 7 7 2 7 0. Is there anything else I can help you with?
+CALLER: No, thank you.
+AGENT: Thank you for calling Barwood & Regency, Marjorie. Have a wonderful day!

@@ -1,0 +1,28 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Carla Espinosa?
+CALLER: Yeah. Hello? Hello?
+AGENT: Thanks for confirming, Carla. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Oh, yeah. Thank you. Okay. So I need a a cab to drive me to 85 62nd Avenue, That's Apartment 1501, It's in Silver Spring, Maryland The ZIP code is 20910.
+AGENT: Thank you for sharing your destination, Carla. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: So do you all don't they don't charge at the cab when when they take me over there?
+AGENT: Just to make sure I understand, are you asking if the ride is free of charge, or are you asking about how the payment is handled when you get to your destination?
+CALLER: Right. How yeah. Right. Right. So I don't carry cash because I'm blind. So I'm without sight.
+AGENT: Thank you for letting me know, Carla. Since you don’t carry cash, you can pay with a credit card or Call and Ride. Would you like to use a credit card, or do you have a Call and Ride card?
+CALLER: Right. I do I do have I I do have a Visa card I have a Visa card
+AGENT: Great, Carla. We'll use your credit card for payment. Your payment method is set as credit card. The system will now proceed with your booking.
+CALLER: I have a Visa card
+AGENT: I found a location called 19025 Highstream Drive, Apartment 856, Germantown, Maryland. Is that the place you want to go to?
+AGENT: I wasn't able to find 8 5 6 2nd Avenue, Apartment 1501, Silver Spring, Maryland exactly. Could you please confirm if you meant 19025 Highstream Drive, Apartment 856, Germantown, Maryland instead?
+CALLER: No. No. No. I'm going to, um, eighty five six sixty. Second Avenue, That's
+AGENT: Thank you for clarifying. Just to confirm, your dropoff is at 8 5 6 6 0 Second Avenue, Silver Spring, Maryland, correct?
+CALLER: No. No. Yeah. No. No. It's
+AGENT: I want to make sure I get it right. Could you please say the full dropoff address again slowly, including the apartment number if there is one?
+CALLER: No. It's eighty five six
+AGENT: Thank you. Could you please complete the address by saying the street name and city along with the number eighty five six?
+CALLER: Okay. No. Okay. It's eight
+AGENT: I understand you're giving the address number starting with eight. Could you please say the full street number and the street name along with the city and state?
+CALLER: No. It's eighty five six Let me speak let me speak with a representative. Let me speak oh, stupid ass. Okay. I wanna speak with a representative.
+AGENT: I can help you with the address details right now—would you like to continue?
+CALLER: No. And I need to speak with the representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you.
+AGENT: You're

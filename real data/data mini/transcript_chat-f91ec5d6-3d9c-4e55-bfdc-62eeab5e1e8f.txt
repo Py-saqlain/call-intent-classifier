@@ -1,0 +1,12 @@
+AGENT: Hello Dermot, this is Ana from Barwood & Regency. Your trip is being processed and is scheduled for pickup today at 8:49 PM. You also have a will-call trip scheduled for
+CALLER: Yeah. Listening. Some robot system they got there. Don't even work.
+AGENT: Uhh, I understand it can be frustrating sometimes. How can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Yeah. How about that? Yeah. You can totally tell me what's going on.
+AGENT: Uhh, I'm seeing you have an active trip scheduled for pickup at 1 0 7 2 0 Georgia Avenue in Silver Spring at 8:49 pm today, but no driver has been assigned yet. I'll keep you posted. <emotion value="peaceful"/> Anything else?
+CALLER: Cancel it. Cancel it. Cancel it.
+AGENT: I see two trips on your account. <break time="700ms"/> 
+Trip one: your return trip pickup at 1 0 7 2 0 Georgia Avenue in
+CALLER: And so Cancel. Cancel. Cancel.
+AGENT: Okay so that return trip pickup at 1 0 7 2 0 Georgia Avenue has been cancelled for you. Is there anything else I can help you with? <emotion value="grateful"/>
+CALLER: Okay. Cancel the return trip as well.
+AGENT: Hmm, the trip

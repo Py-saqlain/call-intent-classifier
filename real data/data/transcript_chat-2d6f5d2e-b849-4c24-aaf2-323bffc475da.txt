@@ -1,0 +1,36 @@
+AGENT: Hello Mija, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Our long time over here with you on taxes. I'm with Costco. One hour away over here.
+AGENT: Uhh, I want to make sure I understand you correctly. Are you looking to book a ride with us, or do you need help with something else related to your trip? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I'm ready for twelve thirty. Over here pickup. But no help taxi. No. Alright. With the taxi. Unbelievable.
+AGENT: I hear you about the pickup time at twelve thirty. Just to make sure I have everything right, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card. Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? If you'd like, I can also use your home address at one four four one one Traville Gardens Circle, Rockville, Maryland. <emotion value="peaceful"/>
+CALLER: Yeah. I wanna lock in Maryland two zero five eight five zero
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I'm sorry, but I couldn't find that address. Could you please provide the full street address, including the street number, street name, city, and state? <emotion value="apologetic"/>
+CALLER: Hello. Would you help me with 10:30 over here. You are taxi in back to my home. The job was 12:30. I'm disabled. In a one hour letter,
+AGENT: I see you mentioned needing a ride around 10:30 today and that you have a disability. Could you please tell me the pickup address for this trip? If you want, I can use your home address at one four four one one Traville Gardens Circle, Rockville, Maryland. <emotion value="peaceful"/>
+CALLER: 20850.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I found a few locations for 20850. 
+Option one: 20850 Boland Farm Road, Germantown, Maryland. 
+Option two: 20850 Rockledge Boulevard, Bethesda, Maryland. 
+Option three: 20850 Hardwood Forest Drive, Sterling, Virginia. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: No. No. No. No. Lachelle, Maryland. Lachelle, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 1 4 4 1 1 Traville Gardens Circle, Rockville, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Yeah.
+CALLER: Yeah. Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Hello? I'm English. I don't understand. Would you help me now? Sorry. Open your touch it. I'm or today in the morning ten. Or Alright. Back to my home. Costco and from back to my home. But why no here or sexy?
+AGENT: I understand you want a ride around 10 in the morning today, from Costco back to your home. Let's get your dropoff address first. Could you please tell me the full address where you want to be dropped off? If it's your home, I have it as one four four one one Traville Gardens Circle, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Correct.
+AGENT: It looks like your dropoff address is the same as your pickup address. The pickup and dropoff locations need to be different. Could you please provide a different destination address for your ride? <emotion value="peaceful"/>
+CALLER: Hello. I don't understand. It is speak Would you help me now? What would you touch this? I'm on a round trip reserve. In the morning.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Now, could you please provide the pickup address for your ride? If you want, I can use your home address at one four four one one Traville Gardens Circle, Rockville, Maryland. <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Not still. You know? Eighty five zero.

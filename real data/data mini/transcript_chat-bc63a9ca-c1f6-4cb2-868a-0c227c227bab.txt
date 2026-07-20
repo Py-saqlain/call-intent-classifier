@@ -1,0 +1,29 @@
+AGENT: Hello Bill, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to speak to a dispatch
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Well, I need a cab.
+AGENT: Let me get that set up for you right now.
+AGENT: Alright, how would you like to pay for your cab ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: K. Finish. Finish.
+AGENT: Just to confirm, if I understand correctly, you want to cancel the
+CALLER: Yep.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your
+CALLER: I need a cab.
+AGENT: Alright, how would you like to pay for your cab ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Six.
+AGENT: Hmmm.. <break time="300ms"/> I didn't catch the payment method. Could you please tell me if you'd like to pay with cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your cab ride? If you'd like, I can use your home address
+CALLER: Thirty four ten to save way food and drugs at Road, Rockville.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I couldn't find an exact match for that address. However, I found a location at 1390 Piccard Drive, Rockville, Maryland. Is that the correct pickup
+CALLER: Fifty five
+AGENT: Okay, so you meant
+CALLER: No. No.
+AGENT: Okay, please provide the pickup address again or any nearby landmark
+CALLER: No.
+AGENT: I want to make sure I get your pickup address right. Could you please say it again or give me a nearby
+CALLER: Fifty five fifty five
+AGENT: Could
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

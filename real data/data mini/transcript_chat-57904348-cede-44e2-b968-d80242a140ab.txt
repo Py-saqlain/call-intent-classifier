@@ -1,0 +1,14 @@
+AGENT: Hello Rebecca, this is Ana from Barwood & Regency. Your ride with vehicle 562 has been accepted and is scheduled to arrive by 11:02. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Please
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: to everybody, please.
+AGENT: Could you please clarify what you mean by "to everybody"? Are you looking to book a ride or need help with something else? <emotion value="hesitant"/>
+CALLER: I need to speak.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: I need somebody to pick me up right now.
+AGENT: Let me get that set up for you right now.
+AGENT: Looks like you already have a trip from 19718 Germantown Road to 18061 Cottage Garden Drive at 11:30 AM today. What would you like to do?
+CALLER: Reschedule it so they come and get me now.
+AGENT: I understand you'd like to reschedule your trip to be picked up right now. Trip modifications need to be handled by a live agent. Let me connect you with someone who can help.
+AGENT: I'm connecting you now to a customer service representative who can assist with rescheduling your pickup. Please stay on the line.

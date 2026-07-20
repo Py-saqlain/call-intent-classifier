@@ -1,0 +1,44 @@
+AGENT: Hi Mary, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like have a cab at nine four nine Crappers Road. In Gaithersburg.
+AGENT: Thank you for sharing your pickup address at 9 4 9 Crappers Road in Gaithersburg. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: I have 9 4 9 Clopper Road, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 18028 Citrus Court,
+AGENT: Thank you for the dropoff address at 1 8 0 2 8 Citrus Court. Could you please tell me the city and state for this address?
+CALLER: Mckay, Pittsburgh,
+AGENT: Just to confirm, is your dropoff address 1 8 0 2 8 Citrus Court in McKeesport, Pennsylvania?
+CALLER: One eight zero two eight. Court in Gaithersburg, Maryland.
+AGENT: Thank you for clarifying. I have 1 8 0 2 8 Citrus Court in Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Yeah. Just a round trip.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Your dropoff address is 1 8 0 2 8 Citrus Court, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Mary. I will now proceed with arranging your trip.
+AGENT: When would you like to be picked up?
+CALLER: Soon as possible.
+AGENT: Got it, I'll arrange your pickup for today at 1:20 PM. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: This one. Regular vehicle size.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare is 17 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: I'm just gonna run-in, pick up my money, run back out.
+AGENT: Would you like to pick a specific time for your return trip, or should I arrange it for a couple of hours after your first trip?
+CALLER: No. I'm gonna come right back. I'm gonna go in and get something and come right back.
+AGENT: Thank you for that. I’m processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 1:20 pm. The confirmation number is 2 1 3 6 7 8 2 4 5. Would you like me to help you schedule the return trip now?
+CALLER: Yeah. Well, like I said, I'm just gonna go in and come right back out. So if you could just wait for me, I'll just come right back out.
+AGENT: I understand. For your return trip, would you prefer to schedule a will-call booking so you can call us when you're ready to be picked up?
+CALLER: No.
+AGENT: Alright, then what time would you like to schedule your return trip pickup?
+CALLER: I'm only gonna be there a couple minutes. And I'm coming right back out. So if you could just wait for me.
+AGENT: I see. Since you want the driver to wait for you, I will arrange the return trip pickup for shortly after your arrival. I will proceed with booking that now. Please hold on a moment.
+AGENT: Your main trip is already booked with confirmation number 2 1 3 6 7 8 2 4 5. It looks like the return trip was not added yet. Would you like me to start the return trip booking now?
+CALLER: Yes.
+AGENT: You already have a trip scheduled from 9 4 9 Clopper Road to 1 8 0 2 8 Cactus Court at 1:20 pm today. What would you like to do next?
+CALLER: That's it, ma'am. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Mary. Have a wonderful day.
+CALLER: Okay. Bye.

@@ -1,0 +1,13 @@
+AGENT: Hello Bernard, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. Where is my ride?
+AGENT: You don't have an active trip scheduled right now. Would you like me to help you book a ride?
+CALLER: There's somebody there. Who's supposed to pick me up. To metro access.
+AGENT: I don't see any active trip assigned to you at the moment. If you want, I can help you arrange a ride to Metro Access. Would you like to do that?
+CALLER: Yes.
+AGENT: Great! How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Metro metro access.
+AGENT: It sounds like you mentioned Metro Access, but that's not a payment method we can accept. For payment, we do accept cash, credit card, or Call and Ride. Which one would you like to use?
+CALLER: Schedule me somebody to pick me up this afternoon?
+AGENT: I can help with that. Before we proceed, could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Yeah.
+AGENT: Thank you. Just to confirm, did you mean you want to pay with cash?

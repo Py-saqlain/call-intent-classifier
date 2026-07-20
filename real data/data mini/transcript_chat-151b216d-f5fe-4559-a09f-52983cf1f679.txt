@@ -1,0 +1,22 @@
+AGENT: Hello Tetros, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm not looking good.
+AGENT: Uhh, I'm sorry to hear that. How can I assist you today? <emotion value="peaceful"/>
+CALLER: Who wanted that?
+AGENT: Could you please tell me a bit more about what you need help with? I'm
+CALLER: Hi.
+AGENT: Hi there! How can I assist you with your ride today?
+CALLER: Yes. Schedule what?
+AGENT: Are you looking to schedule a ride with us? If so, I can help you get that started.
+CALLER: Yes.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Color right. What's the address?
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? Also, could you please tell me your pickup address? <emotion value="hesitant"/>
+CALLER: Yes. The pickup address is three two one University Boulevard West.
+AGENT: Okay so I've got that payment noted. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: What are calling? Are you at? Call them out. What's your six digit? He said, three three Five six two zero.
+AGENT: Thank you for
+CALLER: Five three two zero.
+AGENT: Hmmm.. that didn't seem right, could you please provide exactly six digits from your Call and Ride card? <emotion value="apologetic"/>
+CALLER: What color are you calling?
+AGENT: Just to clarify, did you mean Call and Ride for your payment method? If so, could you please provide the six
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

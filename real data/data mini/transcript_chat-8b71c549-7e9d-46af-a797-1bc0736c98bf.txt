@@ -1,0 +1,10 @@
+AGENT: Hi Devin, this is Ana with Barwood & Regency. Your trip is scheduled for pickup today at 6:15 PM. How can I assist you today?
+CALLER: I speak to a representative, please?
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do
+CALLER: Checking my trip status. Checking check checking trip status.
+AGENT: You have three upcoming trips: your first pickup is scheduled for July 10th at 10:45 AM; your second trip is confirmed for July 6th at 10:45 AM with vehicle 1141; and your third trip is also confirmed for July 6th at 5:00 PM with the same vehicle. Anything else?
+CALLER: Today's trip.
+AGENT: Today's trip was scheduled for pickup at 6:15 PM from 111 Michigan Avenue Northwest in Washington, DC, to 12641 Georgia Avenue in Silver Spring, Maryland. The trip status shows it is running late. Would you like me to connect you with a representative for assistance?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready. Yes. I would like to speak to a representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

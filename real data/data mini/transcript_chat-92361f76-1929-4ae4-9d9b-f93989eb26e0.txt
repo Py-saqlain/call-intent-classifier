@@ -1,0 +1,15 @@
+AGENT: Hello Robert, this is Ana with Barwood & Regency. Your trip is scheduled for pickup today at 1:14 PM. How can I assist you today?
+CALLER: I wanna cancel the pickup from 06:37AM going to 409 Westwood Avenue to six thirty East Avenue to 18 Northwind Drive. As soon as possible.
+AGENT: I found one active trip for you: your first trip scheduled for 1:14 pm, picking up at 409 Russell Avenue in Gaithersburg and going to 630 East Diamond Avenue in Gaithersburg. Is this the trip you want to cancel?
+CALLER: I can't for both trips. I wanna cancel both trips.
+AGENT: You have one active trip right now, so I will cancel that one for you. Please confirm you want me to cancel your trip at 1:14 pm from 409 Russell Avenue to 630 East Diamond Avenue in Gaithersburg. Is that correct?
+CALLER: I knew Yes. I wanna be picked up for 630 East Avenue going to 18 North Avenue Drive. As soon as possible as soon as possible as soon as possible.
+AGENT: Your trip at 1:14 pm from 409 Russell Avenue to 630 East Diamond Avenue has been cancelled. Would you like me to help you book a new ride from 630 East Diamond Avenue to 18 North Summit Drive now?
+CALLER: Yes. I said yes.
+AGENT: Great, I'll get that new ride arranged for you. Just a moment please.
+AGENT: Looks like you already have a trip from 409 Russell Avenue to 630 East Diamond Avenue at 1:14 pm today. What would you like to do?
+CALLER: Cancel it.
+AGENT: Your trip at 1:14 pm from 409 Russell Avenue to 630 East Diamond Avenue in Gaithersburg was already cancelled. Is there anything else I can help you with?
+CALLER: I said cancel it. Damn it.
+AGENT: I see that trip was already cancelled for you. Is there something else you would like help with?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

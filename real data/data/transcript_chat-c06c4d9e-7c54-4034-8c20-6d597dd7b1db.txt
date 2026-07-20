@@ -1,0 +1,48 @@
+AGENT: Hello Patricia, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to get a cab, please.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: As soon as possible, hopefully. I'd like to pay
+AGENT: Could you please tell me how you would like to pay? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Six zero nine Mission m I s s I o n, Hills h I l l s, Court,
+AGENT: Okay, so I found the pickup address as six zero nine Mission Hills Court, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Actually, it's Ashton, A S H T 0 N. But a lot of the call companies still have me listed at silver spring.
+AGENT: Hmm, let me check that address again. I found 609 Mission Hills Court, Silver Spring, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Yes. Two zero eight six one.
+AGENT: Okay, I understand you want to update the pickup address. Could you please provide the full street address including the street name and city? <emotion value="peaceful"/>
+CALLER: Yes. Six zero nine Mission Hills Court, Ashton, A S H T 0 N, Maryland 20861.
+AGENT: I'm sorry, but I couldn't locate 609 Mission Hills Court in Ashton, Maryland. Could you please confirm the city or provide a nearby landmark or cross street to help identify the address? <emotion value="apologetic"/>
+CALLER: Yes. My address is and listen carefully, 609 Mission Hills Court, Silver Spring, Maryland 20905.
+AGENT: Okay, so I found the pickup address as six zero nine Mission Hills Court, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please tell me the destination or dropoff address for your ride? <emotion value="peaceful"/>
+CALLER: Hold on.
+AGENT: Take your time. Just let me know when you're ready with the destination address. <emotion value="peaceful"/>
+CALLER: Three four one four Olin Wood, o l a n d w o o d. Court, Pawnee, Maryland two zero eight three two.
+AGENT: Okay, so I found the dropoff address as three four one four Olandwood Connecticut, Olney, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. Oh, no. Olinwood Court. C o u r t.
+AGENT: Okay, I understand you want to update the dropoff address. Could you please provide the full street address including the street name and city? <emotion value="peaceful"/>
+CALLER: Oh, shit. Three four one four. Olan, o l a n d w o o d Court, c o u r t. Maryland two zero eight three two.
+AGENT: Okay, so I found the dropoff address as three four one four Olandwood Court, Olney, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Patricia. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I would like to be picked up and soon as possible. I have a doctor's appointment. So I got to be there by 01:30. So can I be picked up now or within ten minutes?
+AGENT: Okay great! I've got your pickup time as soon as possible and noted that you have a doctor's appointment and need to be there by 1:30 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Two. Two.
+AGENT: Okay great! I've got two passengers. Will you be needing a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 16.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes, please.
+AGENT: Okay so <break time="250ms"/> I'm booking your trip now. <emotion value="grateful"/>
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 5 8 1 1. Your pickup is today at 1:09 PM. Is there anything else I can help you with?
+CALLER: Repeat the confirmation number.
+AGENT: The confirmation number is 2 1 3 6 7 5 8 1 1. Is there anything else I can assist you with?
+CALLER: No, that's it. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Patricia. Have a wonderful day!

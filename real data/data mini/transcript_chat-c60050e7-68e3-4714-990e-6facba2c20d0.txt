@@ -1,0 +1,24 @@
+AGENT: Hi Peter, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Cap. Call cap.
+AGENT: I want to make sure I understand you correctly. Are you looking to book a ride and pay with Call and Ride?
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call
+CALLER: Wicked one. Go ahead.
+AGENT: I want to make sure I got that right. Did you say the last six digits are "1 1 1 1 1 1"?
+CALLER: No. No. It's No.
+AGENT: Thank you for letting me know. Could you please tell me the correct last six digits of your Call and Ride card?
+CALLER: Great. Three four five three three seven.
+AGENT: Thank you for providing the digits. Your payment method is confirmed as Call And Ride.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: We can One thousand one Rockville Pike.
+AGENT: I have 1 0 0 1
+CALLER: Get way more.
+AGENT: I want to make sure I got that right. Did you say "1001 Rockville Pike, Rockville, Maryland" for your pickup address?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Get of
+AGENT: I didn't quite catch that. Could you please tell me the destination or dropoff address for your trip?
+CALLER: Damn. All of heaven to come.
+AGENT: Could you please clarify the destination or dropoff address for your trip? If you meant a specific
+CALLER: Damn you, Jesus, and I'm not paying because you
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

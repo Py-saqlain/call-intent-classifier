@@ -1,0 +1,11 @@
+AGENT: Hi Ted, this is Ana with Barwood & Regency. You have been picked up by vehicle 548. How can I assist you today?
+CALLER: Thank you Representative. Thing. Then heats up.
+AGENT: I want to make sure I understand you correctly. Are you looking to book a ride or do you need help with something else?
+CALLER: Representative.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+AGENT: Take
+CALLER: Got it? Yes. Okay. Good. Yeah.
+AGENT: Take your time. Is there something specific you need help with regarding your ride or trip?
+CALLER: Yeah. Representative.
+AGENT: I'm connecting you now to a customer service representative. Please stay on the line.
+CALLER: 1215. 15.

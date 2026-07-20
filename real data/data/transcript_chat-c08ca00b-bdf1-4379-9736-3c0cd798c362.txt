@@ -1,0 +1,65 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Newfield Easton.
+AGENT: Thank you, Newfield. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Okay. Wanna go to Boost Mobile Phone Company in Montgomery Village. And a return calf
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I'm a take a repeat. Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: One one it's 18600 Cross Country Lane. 18600 Cross Country Lane, Gaithersburg, Maryland. And I'm ready now.
+AGENT: Okay, so your pickup address is one one six zero zero Cross Country Lane, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Going to Montgomery Village. No. No.
+AGENT: I understand you said "Going to Montgomery Village" but I need to confirm your pickup address first. Could you please provide the correct pickup address again?
+CALLER: It's one eight I said it's the address.
+AGENT: Just to clarify, is your pickup address one eight six zero zero Cross Country Lane, Gaithersburg, Maryland?
+CALLER: yes. Davisburg. No. No. No. No. No. She's giving you my address. It's a it's a it's a computer that you're talking to, not a human. Yeah. I know it's a computer. Okay. Hello?
+AGENT: I’m here to help you. Let’s make sure I have your pickup address correct. You said one eight six zero zero Cross Country Lane, Gaithersburg, Maryland. Is that right?
+CALLER: Yeah. Yes.
+AGENT: I found a couple of Boost Mobile locations in Montgomery Village.  
+Option one: 1 8 3 2 4 Contour Road, Montgomery Village.  
+Option two: 1 9 3 2 6 Montgomery Village Avenue, Montgomery Village.  
+Which one would you like to go to?
+CALLER: Montgomery Village Avenue,
+AGENT: Your dropoff address has been verified, Newfield. I will now proceed with arranging your trip.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now.
+AGENT: Okay great! <break time="200ms"/> I've got your pickup time as right now. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: I'm ready. Yes. Just
+AGENT: Just to confirm, will there be one passenger including yourself, and one wheelchair needed? Or could you please tell me the total number of passengers and how many wheelchairs are required? <emotion value="hesitant"/>
+CALLER: It's only one passenger and no wheelchairs.
+AGENT: Okay great! <break time="200ms"/> I've got one passenger and no wheelchairs. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: The estimated fare is 9.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Alright, thank you. I'll start collecting the return trip details for you now. <emotion value="peaceful"/>
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Time I call you back.
+AGENT: Okay, I've recorded your return trip as a will-call trip. <emotion value="grateful"/> Alright, soo <break time="300ms"/> how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. I have zero passengers for the return trip, but that seems off. Could you please confirm how many passengers will be traveling on the return trip, including yourself? <emotion value="hesitant"/>
+CALLER: Just one. Me. There's only one person who returned.
+AGENT: Okay great! <break time="200ms"/> I've got one passenger for the return trip. Will you need a wheelchair-accessible vehicle for the return trip? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: For your return trip, I have the pickup address as one nine three two six Montgomery Village Avenue, and the dropoff address as one eight six zero zero Cross Country Lane. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. So I might be calling Capital One. Return gonna be going to Capital One.
+AGENT: Got it. So for your return trip, you want to keep the pickup at one nine three two six Montgomery Village Avenue, but change the dropoff to Capital One. Let me find the address for Capital One. <emotion value="peaceful"/>
+AGENT: Sorry about that. Let me search for Capital One as your return trip dropoff location.
+AGENT: I found several Capital One locations.  
+Option one: 5 0 9 North Frederick Avenue, Gaithersburg.  
+Option two: 1 2 Bureau Drive, Gaithersburg.  
+Option three: 1 4 9 4 3 Shady Grove Road, Rockville.  
+Which one would you like for your return trip dropoff?
+CALLER: Five zero nine. Frederick Avenue. Five and five zero nine. Thank you. That's it.
+AGENT: Okay, so your return trip dropoff address is five zero nine North Frederick Avenue, Gaithersburg, Maryland. Is that correct?
+CALLER: Non credit avenue 509 Frederick Avenue.
+AGENT: Just to confirm, is your return trip dropoff address five zero nine North Frederick Avenue, Gaithersburg, Maryland?
+CALLER: Yes.
+AGENT: Your return trip dropoff address has been verified, Newfield. I will now proceed with arranging your return trip.
+AGENT: The estimated fare for your return trip is 9.5 dollars, paying with Self. Should I go ahead and book both trips for you? <emotion value="peaceful"/>
+CALLER: Yes. You could yeah. Go ahead and book both. But I'm a call you back on how long you don't know when I'm a be finished. At Boost Mobile. I'll call you back when I get ready to to come back. You hear me? A holler. Okay.
+AGENT: Your main trip is scheduled for today at 11:45 AM with confirmation number 2 1 3 6 7 5 7 2 4. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 5 7 2 5. You can call back when you're ready, and a driver will be sent to your pickup location then. Is there anything else I can help you with?
+CALLER: How long before the cab come into 18600?
+AGENT: I don’t have the exact arrival time for your cab at 1 8 6 0 0 right now. When you call back for your return trip, we can provide a more precise estimate then. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Newfield. Have a wonderful day!
+CALLER: This is too.

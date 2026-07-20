@@ -1,0 +1,46 @@
+AGENT: Hello Khei, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Kylie I would like to have a ride from 17 Saddle Creek Court. Only. Hello?
+AGENT: I hear you'd like a ride from 17 Saddle Creek Court. Could you please confirm the city and state for that address? Also, let me know where you'd like to go
+CALLER: Hello?
+AGENT: I'm here to help. Could you please tell me the city and state for 17 Saddle Creek Court, and your destination?
+CALLER: Hello?
+CALLER: Hello?
+AGENT: How can I assist you with your ride today?
+CALLER: Can can you wake me up? Of 17 salary? Court? Only m d two zero eight three two.
+CALLER: Hello?
+AGENT: I want to make sure I have your address right. Did you mean 17 Shadowridge Court, Olney, Maryland? If so, could you please tell me where you'd like to go?
+CALLER: Number is zero three four seven five one five. Cone and ride.
+AGENT: Thank you for providing your Call and Ride payment. Your payment method is Call And Ride.
+AGENT: I have
+CALLER: Cone and ride. Yes. The number is three four seven five one five.
+AGENT: Your pickup address at 1 7 Shadowridge Court, Olney, Maryland has been verified. Could you please tell me your destination or dropoff address?
+CALLER: That you mentioned fifth two Randolph Road.
+AGENT: Could you please confirm the full dropoff address? Is it 5 2 Randolph Road? If you can provide the city and state as well, that would be helpful.
+CALLER: Five two rand up. Road. Silver Spring.
+AGENT: I have 5 2 Randolph Road, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: No. Only 52 Randolph Road.
+AGENT: Thank you for clarifying. Just to confirm, your dropoff address is 5 2 Randolph Road, Silver Spring, Maryland, correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Khei. I will now proceed with the next steps for your trip.
+AGENT: When would you like to be picked up?
+CALLER: You send the taxes right now. Okay? I Don't come too late. Hello?
+AGENT: I want to make sure I understand your pickup time. Could you please tell me the exact time you would like to be picked up?
+CALLER: Yeah. Pickup. At 09:30.
+AGENT: The time you requested has already passed. What time would you like to be picked up instead?
+CALLER: Right now, Can you send right now? 17 Saddlegate Court.
+AGENT: Thank you for the pickup address. To proceed, could you please tell me how many passengers will be traveling and if anyone will need a wheelchair-accessible vehicle?
+CALLER: Two two person there.
+AGENT: I have recorded two passengers. What time would you like to be picked up?
+CALLER: Right now.
+AGENT: I have scheduled your pickup for right now with two passengers. Will you need a wheelchair-accessible vehicle?
+CALLER: Say again, my my hearing is so bad.
+AGENT: No problem. I have your pickup scheduled for right now with two passengers. Do you need a
+CALLER: Can you
+AGENT: Do you need a wheelchair-accessible vehicle for your trip?
+CALLER: Okay. My phone and ride number three four seven five one five.
+AGENT: Thank you for confirming your Call and Ride number three four seven five one five. Do you need a wheelchair-accessible vehicle for your trip?
+CALLER: Say again, please.
+AGENT: I have your pickup scheduled for right now with two passengers.
+CALLER: You send a text? Pick up right now.
+AGENT: I have your pickup scheduled for right now with
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

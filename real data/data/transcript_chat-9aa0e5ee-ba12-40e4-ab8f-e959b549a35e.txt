@@ -1,0 +1,44 @@
+AGENT: Hello Bernadette, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Before I
+AGENT: How can I assist you with your ride today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: 09:30.
+AGENT: Thanks for letting me know the time. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Faster for the
+AGENT: Could you please tell me which payment method you'd like to use? We accept cash, credit card, and Call and Ride.
+CALLER: One of those.
+AGENT: Just to make sure I get it right, would you prefer to pay with cash, credit card, or Call and Ride?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Operator.
+AGENT: I can help with your booking details — would you like to continue?
+CALLER: Yeah.
+AGENT: Let me get that set up for you right now.
+AGENT: Great! How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, cash it is. I'll proceed with that for your ride.
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: 17009 Lost Side Lane. All available.
+AGENT: Just to confirm, did you mean 1 7 0 0 9 Moss Side Lane in Olney, Maryland as your pickup address?
+CALLER: Yes.
+AGENT: I have 1 7 0 0 9 Moss Side Lane, Olney, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Three three three three three Spartan Lane.
+AGENT: Just to confirm, did you say 3 3 3 3 3 Spartan Lane as your dropoff address? Could you please also provide the city and state for that address?
+CALLER: Yes. On the now that
+AGENT: Thank you for confirming the dropoff address as 3 3 3 3 3 Spartan Lane. Could you please tell me the city and state for that address to make sure I have it right?
+CALLER: Oh, let me moments
+AGENT: Take your time. Whenever you're ready, please provide the city and state for the dropoff address.
+CALLER: All the moments
+AGENT: I want to make sure I have the correct city and state for your dropoff address at 3 3 3 3 3 Spartan Lane. Could you please provide that information when you’re ready?
+CALLER: Oh, oh, n a y mound.
+AGENT: Thank you. Just to confirm, is the dropoff address 3 3 3 3 3 Spartan Lane in Annandale, Virginia?
+CALLER: No. Only love and
+AGENT: I want to make sure I get your dropoff address right. Could you please repeat the city and state for 3 3 3 3 3 Spartan Lane?
+CALLER: Oh, customer service. Customer service.
+AGENT: Since you mentioned customer service, I want to make sure I understand correctly.
+CALLER: Yes.
+AGENT: I couldn't find any location matching "Customer Service 33333 Spartan Lane." Could you please provide the full dropoff address including city and state, or any nearby
+CALLER: No. No.
+AGENT: I understand. Could you please provide the dropoff address again, maybe with any nearby landmarks or cross streets to help identify it?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

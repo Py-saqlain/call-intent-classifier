@@ -1,0 +1,44 @@
+AGENT: Hello Jin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Right.
+AGENT: How can I assist you with your ride today?
+CALLER: Boca Ride.
+AGENT: Thank you for sharing that. To proceed, could you please let me know how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Olive rice.
+AGENT: Did you mean Call and Ride for your payment method?
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: 351137.
+AGENT: Thank you, your payment with Call and Ride has been verified.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 8021 Georgia Avenue,
+AGENT: I have 8 0 2 1 Georgia Avenue, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: I wasn't able to find a location called "Boca Ride." Could you please provide the full dropoff address or a nearby landmark?
+CALLER: 10401 Motor City Drive,
+AGENT: I have 1 0 4 0 1 Motor City Drive, Bethesda, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Jin. I will now proceed with the next steps.
+AGENT: When would you like to be picked up?
+CALLER: No.
+AGENT: Just to clarify, do you want to be picked up right now, or would you prefer to schedule a will-call trip to call back later?
+CALLER: Now
+AGENT: How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: No.
+AGENT: To make sure I understand, will there be no passengers traveling, or did you mean no wheelchair needed? Could you please tell me how many passengers will be
+CALLER: No wheelchair.
+AGENT: Thank you for letting me know there is no wheelchair needed. How many passengers will be traveling?
+CALLER: One
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 27 dollars, and you will be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 4 5 7 6. Your pickup is today at 12:20 PM. Is there anything else I can help you with?
+CALLER: Now
+AGENT: Your pickup is scheduled for today at 12:20 PM, which is very soon. If you need a ride immediately, I can check availability or assist you further. Would you like me to do that?
+CALLER: Tracking.
+AGENT: I will connect you to a representative who can provide tracking information for your ride. Please hold for a moment.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Ready.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

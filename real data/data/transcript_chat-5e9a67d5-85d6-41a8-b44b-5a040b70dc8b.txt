@@ -1,0 +1,36 @@
+AGENT: Hello Herbert, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: This is Carlotta.
+AGENT: Hi Carlotta, how can I assist you today? <emotion value="peaceful"/>
+CALLER: Yes. I need a taxi at 19105 Frederick Road, in Gaithersburg, 19105. Frederick Road in Gaithersburg,
+AGENT: Alright, Carlotta, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Hmmm.. that didn't seem clear, Carlotta. Could you please tell me how you would like to pay? Cash, credit card, or Call and Ride? <emotion value="apologetic"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay Carlotta, I have 1 9 1 0 5 Frederick Road, Gaithersburg, Maryland as your pickup address. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm going to the Safeway on I think it's Germantown Road or something. In in Germantown. I'm ready. I'm going to the Safeway on in Germantown on Germantown Road. Hello? Hello?
+AGENT: Hi Carlotta, I’m here. Let me check the Safeway on Germantown Road in Germantown for you. <emotion value="peaceful"/>
+AGENT: I found Safeway at 1 9 7 1 8 Germantown Road, Germantown, Maryland. Is that the correct destination? <emotion value="peaceful"/>
+CALLER: That's it.
+AGENT: Your dropoff address has been verified, Carlotta.
+AGENT: Carlotta, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time as today at 7:19 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just one.
+AGENT: Thanks for letting me know there will be just one passenger. <emotion value="grateful"/> Will you need a wheelchair-accessible vehicle for this trip?
+CALLER: No.
+AGENT: Okay great! I've got that you do not need a wheelchair-accessible vehicle. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No. I'm ready now. I'm sitting outside
+AGENT: Alright, the estimated fare is 12.5, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. I'll call. I'll call.
+AGENT: Okay, your return trip will be set as will-call, paying with cash. The pickup will be at 19718 Germantown Road, and the dropoff at 19105 Frederick Road. The estimated fare for the return is 12.5. Should I go ahead and book both trips for you? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 7:19 am with confirmation number 2 1 3 6 7 3 8 8 5. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 3 8 8 6. You can call back when you are ready for the return trip, and a driver will be sent then. Is there anything else I can help you with?
+CALLER: Yes. The address where I'm be picked up at is one nine one zero five Frederick Road.
+AGENT: Thank you for the correction. I will update your pickup address to 1 9 1 0 5 Frederick Road. Let me make that adjustment for you.
+AGENT: I understand you'd like to change the pickup address to 1 9 1 0 5 Frederick Road. Trip modifications need to be handled by a live agent. Let me connect you with someone who can help.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

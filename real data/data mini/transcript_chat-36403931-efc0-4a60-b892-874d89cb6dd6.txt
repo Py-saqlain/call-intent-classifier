@@ -1,0 +1,29 @@
+AGENT: Hello Helen, this is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I would like to know where my ride at.
+AGENT: You don't have an active trip scheduled right now. Would you like me to help you book a ride?
+CALLER: Yes.
+AGENT: Great! How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: I'm in a wheelchair.
+AGENT: Thank you for letting me know you will be traveling with a wheelchair. Now, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: How much? How much is it?
+AGENT: I don't have the fare information yet since we're still gathering your trip details. Meanwhile,
+CALLER: $4.
+AGENT: Thanks for sharing that. To proceed, could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: K.
+AGENT: Could you please specify which payment method you'd like to use: cash, credit card, or Call and Ride?
+CALLER: I just said cash.
+AGENT: Thank you for confirming cash as your payment method.
+AGENT: To get started, could you please tell me your pickup address?
+CALLER: It's
+AGENT: I didn't catch the full pickup address. Could you
+CALLER: slim. Oh, no.
+AGENT: No problem. Could you please say the full pickup address again? If you want, you can also say "home" to use your saved home address.
+CALLER: Sixty four
+AGENT: Could you please provide the full street name and city for the pickup address starting with sixty-four?
+CALLER: seventy five and a half five. Next, please. Hello. Sixty four seventy five. New Hampshire Avenue.
+AGENT: I couldn't find an address matching sixty-four seventy-five New Hampshire Avenue in Washington, D C. Could you please confirm the street number and name again, or provide the city and state if different?
+CALLER: I just told you that you are met.
+AGENT: Since you
+CALLER: That's exactly where I'm at.
+AGENT: Thank you for letting
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

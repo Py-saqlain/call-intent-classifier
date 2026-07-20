@@ -1,0 +1,22 @@
+AGENT: Hi Kiana, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Service.
+AGENT: How can I assist you with your ride service today?
+CALLER: Can I get a cab, please?
+AGENT: I'd be happy to help you with that. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you for letting me know you'll be paying with cash.
+AGENT: Could you please tell me the address where you'd like to be picked up?
+CALLER: Shady grove station
+AGENT: I found several locations for Shady Grove Station:
+
+1. Shady Grove Road and Mill Run Drive, Redland, Maryland
+2. WMATA Shady Grove Rail Yard, 1 5 9 0 3 Somerville Drive, Rockville, Maryland
+3. Shady Grove Metro Garage Number 1, Derwood, Maryland
+4. Montgomery County Shady Grove Transfer Station and Recycling Center, 1 6 1 0 1 Frederick Road, Derwood, Maryland
+5. Shady Grove Station and Bay A, Redland, Maryland
+
+Which one would you like to use for your pickup?
+CALLER: Shady Grove Station.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: It is 8200 Springside Place, Gaithersburg, Maryland 20879.
+AGENT: I couldn't locate 8200 Springside Place in Gaithersburg, Maryland. Could you please confirm

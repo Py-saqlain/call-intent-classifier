@@ -1,0 +1,9 @@
+AGENT: Hello Debra, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Agent.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Book a ride.
+AGENT: Let me get that set up for you right now.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call right.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.

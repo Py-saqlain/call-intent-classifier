@@ -1,0 +1,64 @@
+AGENT: Hi Kevin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a ride
+AGENT: Thank you for letting me know. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Oh, I'm right.
+AGENT: Could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Alright.
+AGENT: I want to make sure I have your payment method correctly. Would you like to pay with cash, credit card, or Call and Ride?
+CALLER: Call and ride.
+AGENT: Great! Could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero eight six three zero three.
+AGENT: Thank you, your payment with Call and Ride has been verified.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Eighteen three one five. Lost my Circle.
+AGENT: Just to confirm, is your pickup address 1 8 3 1 5 Lost Knife Circle, Montgomery Village, Maryland?
+CALLER: Yes.
+AGENT: I have 1 8 3 1 5 Lost Knife Circle, Montgomery Village, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Sixteen eight three seven Grass Branch Way,
+AGENT: Just to confirm, is your dropoff address 1 6 8 3 7 Grass Branch Way? Could you please also tell me the city and state for this address?
+CALLER: Be with Merrill.
+AGENT: To confirm, is your dropoff address 1 6 8 3 7 Grass Branch Way, Bethesda, Maryland?
+CALLER: No. It's. It did with Maryland.
+AGENT: Thank you for clarifying. Just to confirm, is your dropoff address 1 6 8 3 7 Grass Branch Way, Chevy Chase, Maryland? If not, could you please provide the correct city?
+CALLER: Bearwood, Maryland.
+AGENT: I couldn't find 1 6 8 3 7 Grass Branch Way in Barwood, Maryland. Could you please double-check the street number or the street name, or provide any nearby landmarks or cross streets?
+CALLER: One six eight three seven Franz Branch Way, Deerwood, Maryland.
+AGENT: Thank you for the correction. Just to confirm, is your dropoff address 1 6 8 3 7 Franz Branch Way, Deerwood, Maryland?
+CALLER: Yes.
+AGENT: I wasn't able to locate 1 6 8 3 7 Franz Branch Way, Deerwood, Maryland. Could you please confirm the street number and name again or provide a nearby landmark or cross street to help find the address?
+CALLER: Is it the corn bud? Fast branch way and Shea Grove Road.
+AGENT: Thank you. Just to clarify, is your dropoff address near the corner of Franz Branch Way and Shady Grove Road?
+CALLER: Shade Grove Road.
+AGENT: Thanks for confirming. Since the address is near the corner of Franz Branch Way and Shade Grove Road, could you please provide the exact street number on Franz Branch Way if you have it? If not, I can try searching for locations near that intersection.
+CALLER: One six eight three seven. Branch Way,
+AGENT: I couldn't find any results for 1 6 8 3 7 Franz Branch Way near Shade Grove Road. Could you please double-check the street number or the street name again? Or if you have another nearby landmark or address, that might help.
+CALLER: Oh, the giant bullsword. On Crab's Branch Way.
+AGENT: Thank you for that information. Just to confirm, is your dropoff address near the Giant Food store on Crabbs Branch Way?
+CALLER: Yes.
+AGENT: I found Giant Food at 1 6 8 3 7 Crabbs Branch Way, Derwood, Maryland. Is that the correct dropoff location?
+CALLER: Yes. It is.
+AGENT: Your dropoff address has been verified, Kevin. I will now proceed with the next steps for your trip.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger, no wheelchair.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: The travelers come back to pick me up in twenty minutes. After he drops me
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Kevin, the estimated fare for your trip is 15.5 dollars, paying with Call and Ride. You mentioned you'd like a return trip — would you still like me to set that up?
+CALLER: Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Twenty minutes after I'm dropped off, on the first strip.
+AGENT: For your return trip, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Fine. One person, no wheelchair.
+AGENT: For your return trip, I have the pickup as 1 6 8 3 7 Crabbs Branch Way, Derwood, Maryland, and the dropoff as 1 8 3 1 5 Lost Knife Circle, Montgomery Village, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 15.5 dollars, paying with Call and Ride. Should I go ahead and book both trips?
+CALLER: Yes.
+AGENT: Booking your trips now.
+AGENT: Your main trip is scheduled for today at 4:10 PM with confirmation number 2 1 3 6 7 9 6 8 8. Your return trip is scheduled for today at 4:29 PM with confirmation number 2 1 3 6 7 9 6 8 9. Is there anything else I can help you with?
+CALLER: No. That's it.
+AGENT: Thank you for calling Barwood & Regency, Kevin. Have a great day!

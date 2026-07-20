@@ -1,0 +1,61 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+AGENT: Take your time.
+CALLER: Hello?
+AGENT: Thanks, Hello. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Hi. My name is Gary Castillo. I would like to book a ride
+AGENT: Alright, Gary, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Pulling right.
+AGENT: Hmmm..  that didn't seem right, could you please confirm if you meant Call and Ride as your payment method? <emotion value="apologetic"/>
+CALLER: Colin Ride.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Hello?
+AGENT: Yes, I want to confirm if you meant Call and Ride for your payment method. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Thirty one ninety five ninety seven.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Sixteen. Seven twelve, Bethhurst Road, Rockville.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found 1 6 7 1 2 Bethayres Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One one two one one two one one six, Kent Mill Road, Silver Spring, Maryland. Silver Spring, Maryland two zero nine zero two.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: I found a location called Saint Andrew Apostle Catholic Church at 1 1 6 0 0 Kemp Mill Road, Silver Spring, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Hello.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now,
+AGENT: Okay great! I've got your pickup time as today at 7:02 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Good.
+AGENT: Could you please tell me how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: Only me.
+AGENT: Okay great! I've got one passenger. <emotion value="grateful"/> Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Okay great! I've noted no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 39 dollars, paying with Call And Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Eight forty.
+AGENT: Just to confirm, did you mean 8:40 PM for your return trip pickup time? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when
+CALLER: If I cancel that one. I'll cancel the return trip.
+AGENT: Just to confirm, are you saying you want to cancel the return trip?
+CALLER: Yes.
+AGENT: Thank you for letting me know. I’m processing your main trip booking now. Please hold on a moment.
+AGENT: Your main trip is booked for today at 7:02 PM. Your confirmation number is 2 1 3 6 7 4 3 5 8. Is there anything else I can help you with?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Your main trip is already booked with confirmation number 2 1 3 6 7 4 3 5 8. Since you canceled the return trip, there is no return trip booked. Is there anything else I can assist you with?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: I see your main trip is already booked with confirmation number 2 1 3 6 7 4 3 5 8. Since you canceled the return trip, there is no return trip to book. Is there anything else I can assist you with?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I am. Well, I'm ready.
+AGENT: Your main trip is already booked with confirmation number 2 1 3 6 7 4 3 5 8. Since you canceled the return trip, there is no return trip booked. Is there anything else I can assist you with?
+CALLER: I'm ready.
+AGENT: Your main trip is already booked with confirmation number 2 1 3 6 7 4 3 5 8. Since you canceled the return trip, there is no return trip booked. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Hello. Have a wonderful day!
+AGENT: I'm
+CALLER: Hi.

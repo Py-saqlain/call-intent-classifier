@@ -1,0 +1,7 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Philimina?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: And then if it keeps coughing,
+AGENT: I want to make sure I have the right person to help you best. Is this Philimina I’m speaking with?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

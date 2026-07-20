@@ -1,0 +1,40 @@
+AGENT: Hi Mike, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Need a taxi.
+AGENT: Thank you for reaching out. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Yeah.
+AGENT: Could you please let me know which payment method
+CALLER: Call and ride.
+AGENT: Great, could you please provide the last six digits of
+CALLER: Calling ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six
+CALLER: No. Yes. Go ahead, It's three zero six six three six.
+AGENT: Thank you for providing your Call and Ride details. Your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 18715 North Frederick Avenue. Gaithersburg, Maryland.
+AGENT: I have 1 8 7 1 5 North Frederick Avenue, Gaithersburg, Maryland as your
+CALLER: Yep.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Mhmm. Nineteen eight fifty one Observation Drive,
+CALLER: Germantown, Maryland.
+AGENT: I have 1 9 8 5 1 Observation Drive, Germantown, Maryland as your dropoff address. Is that correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Mike.
+AGENT: When would you like to be picked up?
+CALLER: Two yeah, two twenty seven.
+AGENT: Just to confirm, did you mean 2:27 PM for your pickup time?
+CALLER: PM.
+CALLER: Yes.
+AGENT: Thank you for confirming your pickup time as today at 2:27 PM. How many passengers will be traveling, including yourself? And will anyone need a
+CALLER: Two. Two. No.
+AGENT: Thank you, I have recorded 2 passengers and no wheelchairs. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Mike, the estimated fare for your trip is 12 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: We will call.
+AGENT: Your return trip will be a will-call, with pickup at 19851 Observation Drive and dropoff at 18715 North
+CALLER: Right.
+AGENT: Would you like me to go ahead and book both your main trip and the will-call return trip now?
+CALLER: Yes. A book I'm booking the the trip, Becky.
+AGENT: Your main trip is scheduled for today at 2:27 pm with confirmation number 2 1 3 6 6 9 5 8 5. Your return trip is a will-call booking with confirmation number 2 1 3 6 6 9 5 8 6. You can call back when you're ready for the return trip and a driver will be dispatched then. Is there anything else I can help you with?
+CALLER: Yeah.
+AGENT: I see you have a will-call trip on file with pickup at 19851 Observation Drive and dropoff at 18715 North Frederick Avenue. Would you like to activate this trip now, or would you prefer to book a new ride?
+CALLER: No. No. No. No. I'm fine, honey. Thanks. Thank you.

@@ -1,0 +1,6 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Yolette?
+CALLER: Yes.
+AGENT: Thanks, Yolette. This is Ana from Barwood & Regency. You have two trips today — your pickup is scheduled for today at 12:00 PM, and Vehicle 660 is on the way and will arrive for your pickup in approximately 10 minutes. How can I assist you today?
+CALLER: Mary, Mary.
+AGENT: Could you please clarify what you mean by "Mary, Mary"? Are you trying to book a ride, check a trip, or something else? I'm here to help.
+AGENT: Take your time. Just let me know when you're ready.

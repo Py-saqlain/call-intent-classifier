@@ -1,0 +1,33 @@
+AGENT: Hello Ida, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to schedule a trip for tomorrow.
+AGENT: Uhh, okay, I can help you with scheduling a trip for tomorrow. Let me get that started for you.
+AGENT: Alright, how would you like to pay for your trip tomorrow? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip tomorrow? If you'd like, I can use your home address at 1 1 8 0 0 Rosalinda Drive, Potomac, Maryland. Would that work for you? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, please provide the pickup address you'd like us to use for your trip tomorrow. <emotion value="peaceful"/>
+CALLER: 19301 Watkins Mill Road in Gaithersburg, Maryland.
+AGENT: Okay, so your pickup address is 1 9 3 0 1 Watkins Mill Road, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address for your trip tomorrow? <emotion value="peaceful"/>
+CALLER: My destination address is 19644 Clubhouse Road, Montgomery Village, Maryland.
+AGENT: Okay, so your destination address is 1 9 6 4 4 Club House Road, Montgomery Village, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Ida. <emotion value="grateful"/>
+AGENT: What time tomorrow would you like to be picked up? <emotion value="peaceful"/>
+CALLER: One thirty.
+AGENT: Just to confirm, did you mean 1:30 PM tomorrow for your pickup time? <emotion value="peaceful"/>
+Just to confirm, did you mean 1:30 PM tomorrow for your pickup time? <emotion value="peaceful"/>
+CALLER: Yes. Yes. And cap three three nine, please.
+AGENT: Okay great! I've got your pickup time set for tomorrow at 1:30 PM and noted your driver instructions as "cap three three nine." <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One one I do wheelchair accessible one.
+AGENT: Alright, Ida, the estimated fare is 5.5 dollars, paying with your Credit Card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Return open.
+AGENT: Okay, your return trip will be an open will-call return from 19644 Club House Road back to 19301 Watkins Mill Road, with the same fare of 5.5 dollars and paying with your Credit Card. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Thank you for your patience. I'm now booking your main trip for tomorrow at 1:30 PM with wheelchair accessibility and your open will-call return trip. Please hold on a moment.
+AGENT: Your main trip is scheduled for tomorrow at 1:30 PM with confirmation number 2 1 3 6 7 4 6 9 8. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 4 6 9 9. Is there anything else I can assist you with?
+CALLER: Yes, please. Sure.
+AGENT: Looks like you already have trips from Gaithersburg to Montgomery Village tomorrow at 1:30 PM and a will-call return. What would you like to do? <emotion value="peaceful"/>
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

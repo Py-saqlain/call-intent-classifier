@@ -1,0 +1,26 @@
+AGENT: Hi James, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like a taxi.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Enter me a cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your taxi ride? If you'd like, I can also use your home address at 1 8 1 0 1 Prince Philip Drive, Olney, Maryland. Would you like to be picked up from there? <emotion value="peaceful"/>
+CALLER: No. That's not my home address.
+AGENT: I'm sorry about that. Could you please provide the correct pickup address for your ride? <emotion value="apologetic"/>
+CALLER: My home address is three four two nine
+AGENT: Thank you. Could you please provide the full street name and city for the address starting with three four two nine? That
+CALLER: three four two nine
+AGENT: I understand the number is three four two nine, but I need the street name and city to find the exact address. Could you please tell me the street name and city for three four two nine? <emotion value="peaceful"/>
+CALLER: South Leisure, l a I s u r e, World Boulevard.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found the pickup location at three four two nine South Leisure World Boulevard, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: It's it's it's it's the unit number is 88 Dash 2 E.
+AGENT: Thank you for that information. Could you please provide the full dropoff address including the street number, street name, and city? The unit number alone is not enough to locate the destination. <emotion value="peaceful"/>
+CALLER: I
+AGENT: I didn't quite catch that. Could you please provide the full dropoff address
+CALLER: Alright. Give give give me a reference. Give me a representative.
+CALLER: Representative.
+AGENT: I can help you with your booking — would you like to continue? <emotion value="peaceful"/>
+CALLER: No. Give me a representative.
+AGENT: I'm connecting you to a customer

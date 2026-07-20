@@ -1,0 +1,10 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: What's her name? Butch Davis.
+AGENT: Thanks, Butch. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Um, I would like to get a cab for ninety eight ninety eight thirteen, but the Road, The map is Merler.
+AGENT: Umm, just to make sure I have it right, you want a cab pickup at 9 8 9 8 1 3 Merler Road? Could you please confirm that for me? <emotion value="hesitant"/>
+AGENT: Take
+CALLER: No. It's not it. No, it's $98.13. But that's the Church Road.
+AGENT: Okay, so you want a cab for pickup at Church Road, and the fare is $98.13? Could you please clarify the full pickup address including the street number? Also, where would you like to go? <emotion value="hesitant"/>
+CALLER: They said the pickup is ninety eight dollars.
+AGENT: Uhh, I want to make

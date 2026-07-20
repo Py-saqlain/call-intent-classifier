@@ -1,0 +1,23 @@
+AGENT: Hello Dr, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Anna, you are not paying attention as to what I'm saying to you. Ma'am. Please. This is the third time I'm trying to give you my pickup address.
+AGENT: I'm here to help you, and I want to make sure I get your pickup address right. Please go ahead and tell me
+CALLER: I'm at four two three okay.
+AGENT: Thank you for that. Just to confirm, is your pickup address 4 2 3 Twinbrook Parkway in Rockville, Maryland?
+CALLER: Four two three four two three
+AGENT: I want to make sure I have this exactly right. Are you saying your pickup address
+CALLER: Yes. Yes. That's an executive
+AGENT: Thank you for confirming your pickup address. Now, how would you like to pay for your ride? We accept cash, credit card, and Call
+CALLER: I'm paying cash.
+AGENT: Thank you for letting me know you'll be paying cash. Your payment method is set to cash.
+AGENT: I wasn't able to find an address matching "4 2 3 4 2 3" near 4 2
+CALLER: Okay. I need need the taxi to take me to fifteen five
+AGENT: It looks like you're giving a new address. Just to clarify, is this a new pickup address or the destination where you'd like to go?
+CALLER: Pickup address, ma'am.
+AGENT: Thank you for clarifying. Could you please provide the full street name and city for the pickup address
+CALLER: Four twenty three.
+AGENT: Just to make sure I understand correctly, is your pickup address 1 5 5 4 2 3? Could you please provide the street name and city as well?
+CALLER: No. No, ma'am. Why don't you listen at me carefully
+AGENT: I’m here to help and I want to get this right for you. You mentioned
+CALLER: and get this correct? If you want to help, then list what I'm telling you and get it right, please.
+AGENT: Of course, I want to make sure I get your pickup address exactly right. Please say the full address including
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

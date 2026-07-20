@@ -1,0 +1,51 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Janet Athos?
+CALLER: Yes.
+AGENT: I’m confirming that you are Janet Athos. Just a moment please.
+AGENT: Thanks for confirming, Janet. This is Barwood & Regency. How can I assist you today?
+CALLER: Taxi tomorrow morning.
+AGENT: Thank you for letting me know you need a taxi tomorrow morning. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Thursday July '16, From home,
+AGENT: Thanks for sharing your pickup date and location as Thursday, July 16th, from home. Could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: That's all they care about, Credit card.
+AGENT: Thank you for confirming your payment method as credit card.
+AGENT: For your pickup address, should I use your home at 7 7 0 1 Bradley Boulevard, Bethesda, Maryland?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Ready.
+AGENT: Great! I will use your home address at 7 7 0 1 Bradley Boulevard, Bethesda, Maryland for pickup. Is that correct?
+CALLER: No.
+AGENT: Thank you for letting me know. Please provide the pickup address you would like to use instead.
+CALLER: 9811.
+AGENT: To confirm, is your pickup address 9 8 1 1 Bradley Boulevard, Bethesda, Maryland?
+CALLER: No.
+AGENT: Thank you. Could you please provide the street name and city for the pickup address?
+CALLER: Belle Haven, Bethesda.
+AGENT: I found a similar address from recent trips: 9 8 1 1 Belhaven Road, Bethesda, Maryland. Is that the correct pickup location?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Fifty two fifteen Loughborough.
+AGENT: I found the dropoff address as 5 2 1 5 Loughboro Road Northwest, Washington, District of Columbia. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Janet. I’m now passing your trip details along to complete your booking.
+AGENT: You mentioned you want a pickup tomorrow morning. Is that correct? Please say yes to confirm or let me know if you want to change the pickup time.
+CALLER: Yes. Tomorrow morning.
+AGENT: Thank you for confirming the pickup time as tomorrow morning at 9:00 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Wheelchair accessible vehicle. Pickup time, seven forty five AM.
+AGENT: You mentioned a pickup time of 7:45 AM and that you need a wheelchair-accessible vehicle. Just to confirm, is the pickup time 7:45 AM tomorrow? Please say yes to confirm or let me know if you want to change it. Also, how many passengers will be traveling?
+CALLER: Yeah.
+AGENT: The time you requested, 7:45 AM tomorrow, has already passed. Could you please provide a new pickup time?
+CALLER: Three
+AGENT: Just to clarify, is that three passengers including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Wheelchair accessible vehicle. Yes.
+AGENT: Thank you. I have recorded 3 passengers including yourself and a wheelchair-accessible vehicle. Do you have any special instructions or notes for the driver?
+CALLER: 07:45AM pickup. Three people.
+AGENT: I see you want a pickup at 7:45 AM with three people. Since the 7:45 AM time was earlier rejected as already passed, would you like me to update your pickup time to 7:45 AM tomorrow? Please confirm yes or provide a different time. Also, do you have any special instructions for the driver?
+CALLER: Yes.
+AGENT: The pickup time of 7:45 AM tomorrow has already passed. Could you please provide a different pickup time?
+CALLER: Yes. 07:45AM pickup.
+AGENT: I understand you want a 7:45 AM pickup, but that time has already passed. Could you please provide another pickup time that is later than 7:45 AM?
+CALLER: 07:50AM. Three people.
+AGENT: The pickup time of 7:50 AM tomorrow has already passed as well. Could you please provide a pickup time that is later than 9:00 AM tomorrow?
+CALLER: 07:48AM.
+AGENT: The pickup time of 7:48 AM tomorrow has already passed too. Could you please provide a pickup time later than 9:00 AM tomorrow?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Thank you.

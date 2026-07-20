@@ -1,0 +1,9 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Yacob Belai?
+CALLER: Yes. Yes.
+AGENT: Thanks for confirming, Yacob. This is Ana from Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Cancel.
+AGENT: I can help you with canceling your trip. Let me connect you to the cancellation specialist who can assist you further.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+CALLER: Cancel.
+AGENT: Hmm <break time="300ms"/> I still don't see any upcoming trips on your account to cancel. Is there something else you'd like help with? <emotion value="apologetic"/>

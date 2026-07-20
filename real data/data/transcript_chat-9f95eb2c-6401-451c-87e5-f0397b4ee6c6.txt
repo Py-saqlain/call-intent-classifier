@@ -1,0 +1,32 @@
+AGENT: Hello Lawrence, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm looking for a ride back home.
+AGENT: Thank you for letting me know. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Alright. Go ahead. Please.
+AGENT: Could you please tell me which payment method you'd like to use—cash, credit card, or Call and Ride?
+CALLER: Call and ride. Call and ride cards.
+AGENT: Thank you for choosing Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three two two five eight three.
+AGENT: Thank you, your payment with Call and Ride is all set. I will proceed with arranging your ride now.
+AGENT: I have 1 1 7 North Frederick Avenue, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: No. That is wrong.
+AGENT: Thank you for letting me know. Could you please provide the correct dropoff address?
+CALLER: Dropoff address is twenty one thousand Brother Holly Boulevard, Germantown,
+AGENT: I have 2 1 0 0 0 Father Hurley Boulevard, Germantown, Maryland as your dropoff address. Is that correct?
+CALLER: Sounds good.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: Twelve eight hundred. Meadowbrook Road, Germantown.
+AGENT: I found a similar address: 1 2 8 0 0 Middlebrook Road, Germantown, Maryland. Is that the pickup location you meant?
+CALLER: Yes, please.
+AGENT: Your pickup address has been verified, Lawrence. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: No. I'm waiting. I want to go right now. And I need a saloon car if available.
+AGENT: Just to clarify, you want to be picked up right now, and you prefer a sedan if one is available. I'll note that for the driver. Now, how many passengers will be traveling with you, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Where to where to No. No. I need a vehicle. We had two, myself and my caregiver.
+AGENT: Thank you for letting me know there will be two passengers, yourself and your caregiver. And just to confirm, do either of you need a wheelchair-accessible vehicle?
+CALLER: Not my not my person.
+AGENT: Lawrence, the estimated fare for your ride is 8.5 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: I don't need a wheelchair. I said I need a saloon car.
+AGENT: Thank you for clarifying that you do not need a wheelchair-accessible vehicle and that you prefer a sedan. Would you like to schedule a return trip as well?
+CALLER: No. No. No. No. I don't live here.
+AGENT: Just to clarify, is the pickup address of 1 2 8 0 0 Middlebrook Road correct for your ride, or would you like to update it?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

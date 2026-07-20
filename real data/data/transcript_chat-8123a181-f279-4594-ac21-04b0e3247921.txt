@@ -1,0 +1,38 @@
+AGENT: Hi Kiana, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I get a cab?
+AGENT: How can I assist you with your cab ride today?
+CALLER: Cash.
+AGENT: Thank you, I have your payment method as cash.
+AGENT: Could you please tell me the pickup address for your cab ride?
+CALLER: Shady Grove Station.
+AGENT: I found several locations for Shady Grove Station: 
+
+1. Shady Grove Road and Mill Run Drive in Redland, Maryland
+2. WMATA Shady Grove Rail Yard at 1 5 9 0 3 Somerville Drive, Rockville, Maryland
+3. Shady Grove Metro Garage Number 1 in Derwood, Maryland
+4. Montgomery County Shady Grove Transfer Station and Recycling Center at 1 6 1 0 1 Frederick Road, Derwood, Maryland
+5. Shady Grove Station and Bay A in Redland, Maryland
+
+Which one would you like to use?
+CALLER: Shady Grove Station Metro Station, Dorwood.
+AGENT: Just to confirm, did you mean Shady Grove Metro Garage Number 1 in Derwood, Maryland?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: It is 8200 Springside Place, Gatham Maryland 20879.
+AGENT: Just to confirm, did you say 8 2 0 0 Springside Place, Gaithersburg, Maryland?
+CALLER: String size. String size Place, Gaithersburg, Maryland two zero eight seven nine.
+AGENT: Thank you for clarifying. Just to confirm, did you say 8 2 0 0 Springside Place, Gaithersburg, Maryland?
+CALLER: No. No.
+AGENT: Could you please repeat the dropoff address again?
+CALLER: Customer service.
+AGENT: I found a location called Customer Service in Gaithersburg, Maryland two zero eight seven seven. Is that the dropoff location you want?
+CALLER: No.
+AGENT: Could you please provide more details or a different address for your dropoff location?
+CALLER: 8200 Stream Side Place, Gaithersburg, Maryland 20879.
+AGENT: Just to confirm, did you say 8 2 0 0 Stream Side Place, Gaithersburg, Maryland?
+CALLER: Yes.
+AGENT: I couldn't locate 8 2 0 0 Stream Side Place in Gaithersburg, Maryland. Could you please double-check the street name or provide any nearby landmarks or cross streets to help find the correct dropoff address?
+CALLER: 8200 Streamside Place, Gaithersburg, Maryland, 0879.
+AGENT: I couldn't find any results for 8 2 0 0 Streamside Place in Gaithersburg, Maryland. Could you please verify the address or provide another nearby landmark or cross street?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Eighty two hundred Streamside Place, Gaithersburg, Maryland.

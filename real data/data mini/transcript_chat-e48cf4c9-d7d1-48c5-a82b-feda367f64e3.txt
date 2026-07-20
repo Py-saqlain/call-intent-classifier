@@ -1,0 +1,10 @@
+AGENT: Hello Jack, this is Ana from Barwood & Regency. You have two trips today — one scheduled for pickup at 1:00 PM with vehicle 660, and another confirmed for 3:15 PM with the same vehicle. How can I assist you today?
+CALLER: Thank you. I just wanted to confirm.
+AGENT: How can I assist you today? Are you looking to book a ride, check on a trip, or something else?
+CALLER: Check on a trip.
+AGENT: You have two active trips today: one at 1:00 pm from Gracefield Road to Rockledge Drive, and a return trip at 3:15 pm from Rockledge Drive back to Gracefield Road. Would you like details on either trip?
+CALLER: Yes.
+AGENT: Which trip would you like details on—the 1:00 pm trip or the 3:15 pm trip?
+CALLER: The one fifth the 1PM trip.
+AGENT: For your 1:00 pm trip from Gracefield Road to Rockledge Drive, the driver and vehicle are assigned and the trip is accepted. Is there anything specific you would like to know about this trip?
+CALLER: No. Thank you so much. Bye.

@@ -1,0 +1,62 @@
+AGENT: Hello Mkposong, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, like to book a round trip.
+AGENT: I can help you with booking a round trip. Could you please tell me the pickup address for your trip?
+CALLER: Four four one eight Jupiter Street, Rockville, Maryland
+AGENT: Thank you for the pickup address at 4 4 1 8 Jupiter Street, Rockville, Maryland. Where would you like to go for your dropoff location?
+CALLER: One two, zero nine nine Rockville Pike Rockville, Maryland
+AGENT: Got it. Your dropoff location is 1 2 0 9 9 Rockville Pike, Rockville, Maryland. When would you like to be picked up for your trip?
+CALLER: 10:30AM. Today.
+AGENT: Thanks for letting me know your pickup time is today at 10:30 am. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: Just to confirm, your pickup address is 4 4 1 8 Jupiter Street, Rockville, Maryland, and your dropoff address is 1 2 0 9 9 Rockville Pike, Rockville, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup and dropoff addresses have been verified, Mkposong.
+AGENT: You mentioned your pickup time is today at 10:30 am. Is that correct? Please say yes or no.
+CALLER: Yes.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger. No wheelchair.
+AGENT: Thank you. Will you have any special instructions or information for the driver?
+CALLER: To wait for me.
+AGENT: The estimated fare for your trip is 12 dollars, and you will be paying with cash. Would you like to schedule a return trip as well?
+CALLER: Yes, please.
+AGENT: Great, I'll start collecting the details for your return trip now.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: At eleven AM today.
+AGENT: Your return trip pickup time is today at 11:00 am. How many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger.
+CALLER: No wheelchair.
+AGENT: Thank you for confirming one passenger for the return trip. Will anyone need a wheelchair-accessible vehicle for the return trip?
+AGENT: For your return trip, I have the pickup at 1 2 0 9 9 Rockville Pike
+CALLER: No.
+AGENT: Okay, please provide the correct pickup address for your return trip.
+CALLER: One two zero nine nine Rockville Pike Rockville, Maryland
+AGENT: You just said 1 2 0 9 9 Rockville Pike, Rockville, Maryland for your return trip pickup. Is that correct?
+CALLER: Correct.
+AGENT: Thank you for confirming your return trip pickup address as 1 2 0 9 9 Rockville Pike, Rockville, Maryland. Now, could you please provide the dropoff address for your return trip?
+CALLER: Four four one eight Jupiter Street, Rockville, Maryland
+AGENT: Thank you for the return trip dropoff address at 4 4 1 8 Jupiter Street, Rockville, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Your return trip pickup address has been verified, Mkposong.
+AGENT: The estimated fare for your return trip is 12 dollars, paying with cash. Should I go ahead and book both trips?
+CALLER: No.
+AGENT: Just to confirm, you do not want to book either trip at this time, correct?
+CALLER: I want to book the trips.
+AGENT: Thank you for confirming you want to book the trips. I will proceed with booking them now.
+AGENT: Thank you for your patience. I
+CALLER: No. Not today.
+AGENT: I understand you prefer not to book the trips for today. Would you like to
+CALLER: Not today.
+AGENT: Thank you for letting me know you do not want to book the trips for today. When would you like to schedule your trips instead?
+CALLER: Wednesday,
+AGENT: Just to confirm, you want to schedule your trips for Wednesday. Is that correct?
+CALLER: Correct.
+AGENT: Thank you for confirming Wednesday for your trips. I will update your booking to that day now.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Cancel my trips. On Wednesday.
+AGENT: I can take care of that for you.
+AGENT: I found two trips scheduled for Wednesday: your return trip at 10:30 am from Rockville Jupiter Street to Rockville Pike, and your main trip at 11:00 am from Rockville Pike back to Jupiter Street. Would you like to cancel both of these trips?
+CALLER: Yes, please.
+AGENT: Both of your trips for Wednesday, including the 10:30 am return trip and the 11:00 am main trip, have been cancelled. Is there anything else I can help you with?
+CALLER: No. That is it.
+AGENT: Thank you for calling Barwood & Regency, Mkposong. Have a great day.

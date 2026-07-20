@@ -1,0 +1,36 @@
+AGENT: Hello Nicholas, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to abide a I got call and ride for my I need a ride to pick up in a destination.
+AGENT: I understand you'd like to book a ride using your Call and Ride card. Could you please tell me the pickup address and the destination where you'd like to go?
+CALLER: Yeah. The pickup would pickup address is one two one three six Aund I'm Drive, Clarksburg, Maryland two zero eight seven one.
+AGENT: Thank you for that. Just
+CALLER: And the pickup is one second.
+AGENT: I want to make sure I understand correctly: you mentioned the pickup address as 1 2 1 3 6 Pond Pine Drive in Clarksburg, Maryland. Could you please clarify what you meant by
+CALLER: Yeah. Yes.
+AGENT: Thanks for letting me know you want to pay with Call
+CALLER: On the desk destination addresses,
+CALLER: the destined the destination is eight two zero three Kent Barrie Drive, Bethesda, Maryland two zero eight one four.
+AGENT: Got your pickup at 1 2 1 3 6 Pond Pine Drive, Clarksburg, Maryland, and your destination at 8 2 0 3 Kent Barrie Drive, Bethesda, Maryland. Since you're paying with Call and Ride, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes. One second.
+AGENT: Take your time. Whenever you're ready, please provide the last six digits of your Call and Ride card.
+CALLER: Yes. It's three one zero six two o.
+AGENT: Thank you for providing the digits. Your payment method Call And Ride has been verified.
+AGENT: I have 1 2 1 3 6 Pond Pine Drive, Clarksburg, Maryland as your pickup, and 8 2 0 3 Kentbury Drive, Bethesda, Maryland as your dropoff. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup and dropoff addresses have been verified, Nicholas.
+AGENT: When would you like to be picked up?
+CALLER: Five, uh, 45, if possible.
+AGENT: Just to confirm, you mean 5:45 PM today for your pickup time, correct?
+CALLER: Yes. Correct.
+AGENT: Thank you for confirming your pickup time at 5:45 PM today. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One. One
+AGENT: Thanks for letting me know there will be one passenger. Will you need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No. I do not. Thank you anyway.
+AGENT: The estimated fare for your trip is 58.5 dollars, and you will be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No. I would not at this time. No. Thank you.
+AGENT: Alright, I will proceed with just the one-way trip. Should I go ahead and book your ride for 5:45 PM today from 1 2 1 3 6 Pond Pine Drive to 8 2 0 3 Kentbury Drive?
+CALLER: Yes.
+AGENT: Your ride is booked for today at 5:45 PM. The confirmation number is 2 1 3 6 6 5 8 3 7. Is there anything else I can help you with?
+CALLER: Uh, no. Thank you. Thanks anyways. Alright. Have a nice day. Alright. Bye.
+AGENT: Thank you for calling Barwood & Regency, Nicholas. Have a wonderful day!

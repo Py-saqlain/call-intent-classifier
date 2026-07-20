@@ -1,0 +1,20 @@
+AGENT: Hello Annette, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi at Whole Foods on Willard Avenue in Chevy Chase.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I don't care. Credit card. Credit card. Whatever. Credit card. How fast can I get a cap?
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: I just gave it to you Willow Avenue
+AGENT: Uh, I am sorry, but could you please repeat the pickup address? You mentioned Willow Avenue, is that correct? If so, could you please provide the street number as well? <emotion value="apologetic"/>
+CALLER: Willow Avenue. 4420 4420, forty four twenty, four twenty,
+AGENT: Okay, just to confirm, your pickup address is 4 4 2 0 Willow Avenue, correct? <emotion value="peaceful"/>
+AGENT: Okay, so I found 4 4 2 0 Willard Avenue, Chevy Chase, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: 4420 Willard Avenue. 4420 Willard Avenue. Yes. Yes. Yes.
+CALLER: Yes. Yes. Yes.
+AGENT: I wasn't able to find any Whole Foods on Willard Avenue in Chevy Chase. Could you please provide a nearby landmark, cross street, or a more specific address to help me locate it? <emotion value="apologetic"/>
+AGENT: I found a few locations. Option one: 6 8 0 1 Willard Avenue, Chevy Chase. Which one is correct? <emotion value="hesitant"/>
+CALLER: Yes. Yes. Oh, come on. Wisconsin Avenue. Wisconsin Avenue. Wisconsin Avenue.
+AGENT: Okay, just to clarify, you want the dropoff at 6 8 0 1 Wisconsin Avenue, Chevy Chase, correct? <emotion value="peaceful"/>
+AGENT: Okay, so I found 6 8 0 1 Wisconsin Avenue, Chevy Chase, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: I want a human being

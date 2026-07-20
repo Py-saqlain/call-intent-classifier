@@ -1,0 +1,28 @@
+AGENT: Hi Alex, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to make a reservation for tomorrow.
+AGENT: Thank you for letting me know you want to make a reservation for tomorrow. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: I'll pay this ticket card.
+AGENT: Just to confirm, did you mean a credit card for payment? If so, I can proceed with that. If you meant something else, please let me know.
+CALLER: Yeah. Um, can you pick me up on the Dallas International Airport?
+AGENT: Thank you for confirming your payment by credit card. I'll proceed with your reservation now. If you have any other details to add or questions, feel free to let me know.
+AGENT: I have the pickup address as 1 Saarinen Circle, Dulles, Virginia. Is that correct?
+CALLER: Yes. That that's correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One nine one nine Avenue Northwest in Washington DC.
+AGENT: Just to confirm, is your dropoff address 1 9 1 9 Avenue Northwest, Washington, D C?
+CALLER: One nine one nine Connecticut Avenue Northwest in Washington DC. Yes.
+AGENT: I have the dropoff address as 1 9 1 9 Connecticut Avenue Northwest, Washington, District of Columbia. Is that correct?
+CALLER: Yes. That's correct. Um, pick me up tomorrow at 11PM.
+AGENT: I have the dropoff address as 1 9 1 9 Connecticut Avenue Northwest, Washington, D C. Is that correct?
+CALLER: That's correct.
+AGENT: Your dropoff address has been verified, Alex. I'll now proceed with arranging your reservation.
+AGENT: You mentioned your pickup time as tomorrow at 11 PM. Is that correct? Please say yes to confirm or provide a different time.
+CALLER: Yes. One passenger and no teacher and no instructions for the driver.
+AGENT: The estimated fare for your ride from Washington Dulles International Airport to 1919 Connecticut Avenue Northwest tomorrow at 11 PM is 70.5, paying with your credit
+CALLER: No. It's answered.
+AGENT: Thank you for your patience. I'm processing your booking now.
+CALLER: No. This interest
+AGENT: Your main trip is scheduled for tomorrow at 11 PM with confirmation number 2 1 3 6 8 0 3 5 0. Is there anything else I can help you with?
+AGENT: Take
+CALLER: No. Thank you. Nothing else.
+AGENT: Thank you for calling Barwood & Regency, Alex. Have a wonderful day!

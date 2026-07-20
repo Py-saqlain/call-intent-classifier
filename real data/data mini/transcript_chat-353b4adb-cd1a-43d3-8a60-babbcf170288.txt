@@ -1,0 +1,12 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Jessica Keysar?
+CALLER: Yes.
+AGENT: Thanks, Jessica. This is Barwood & Regency. Your pickup is scheduled for today at 12:30 PM. How can I assist you?
+CALLER: Cancel.
+AGENT: I found one trip for you, Jessica. It's your first trip scheduled for today at 12:30 pm from 9 Chestnut Street in Gaithersburg to 655 Watkins Mill Road in Gaithersburg. Would you like me to cancel this trip?
+CALLER: Yes.
+AGENT: Your trip with confirmation number 0 2 1 3 6 6 8 9 6 3 has been cancelled. Is there anything else I can help you with?
+CALLER: Now
+AGENT: I understand you want to book a trip now, but I will connect you to a live agent who can assist with new bookings. Please hold for a moment.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Cancel.
+AGENT: You don't have any active trips to cancel right now. Your trip with confirmation number 0 2 1 3 6 6 8 9 6 3 was already cancelled. Is there anything else I

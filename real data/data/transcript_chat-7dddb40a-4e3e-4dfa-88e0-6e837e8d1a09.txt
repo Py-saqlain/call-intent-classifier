@@ -1,0 +1,25 @@
+AGENT: Hi Rachel, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to set up a ride.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: It'll be cash cash
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? If you'd like, I can also use your home address at 6 5 0 1 14th Street Northwest, Washington D C. <emotion value="peaceful"/>
+CALLER: No. No. The address is one nine two seven East West Highway, apartment t as in Tom, one silver spring Maryland two zero nine one o.
+AGENT: Hmm, let me check that address. <emotion value="apologetic"/> I couldn't locate 1 9 2 7 East West Highway, Apartment T, Silver Spring, Maryland. Could you please confirm the street number, street name, city, and state again?
+CALLER: No.
+AGENT: I understand. Could you please provide any nearby landmarks or cross streets to help identify the correct pickup address? <emotion value="peaceful"/>
+CALLER: It's nineteen Wait. Stop.
+CALLER: Stop.
+AGENT: I'm here
+CALLER: One. Nine two seven East west Highway, apartment t one, Silver Spring, Maryland two zero nine one o.
+AGENT: Hmm, I am sorry, but I still couldn't locate 1 9 2 7 East West Highway, Apartment T1, Silver Spring, Maryland. Could you please confirm the full street address, city, and state again? <emotion value="apologetic"/>
+CALLER: One nine two seven. East west Highway. Apartment t one, Silver Spring Maryland two zero nine one o.
+AGENT: Thank you for repeating the address. Just to confirm, your pickup address is 1 9 2 7 East West Highway, Apartment T 1, Silver Spring, Maryland, two zero nine one zero. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmm, I am sorry, but the address 1 9 2 7 East West Highway, Apartment T 1, Silver Spring, Maryland, two zero nine one zero still cannot be located. Could you please double-check the apartment number or provide any additional details that might help? <emotion value="apologetic"/>
+CALLER: Apartment t one.
+AGENT: Thanks for confirming the apartment as T one. Could you please verify if the street number and street name are exactly 1 9 2 7 East West Highway in Silver Spring, Maryland? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I couldn't find any results for 1 9 2 7 East West Highway, Apartment T 1, Silver Spring, Maryland. Could you please provide any nearby landmarks or cross streets to help identify the pickup location? <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Yay.

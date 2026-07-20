@@ -1,0 +1,37 @@
+AGENT: Hello Kumar, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes, ma'am. I need a cab. At the at 12:00 at noon to
+AGENT: I can help you with that cab ride. Could you please tell me the pickup address and the destination?
+CALLER: Please say yes. My pickup address is 9809 Coleman Court. You should have it up. In your record.
+AGENT: I have your home address as 9 8 0 9 Korman Court, Rockville, Maryland. Is that the correct pickup location for your ride at 12:00 noon? And where would you like to go?
+CALLER: Invite me my phone number. Two four zero four That's correct. Yeah. That's correct. Yeah. Yes, ma'am. Fifty four fifty four Wisconsin Avenue.
+AGENT: Thank you for confirming your pickup and dropoff addresses. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit cards.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: I have your dropoff address as 5 4 5 4 Wisconsin Avenue, Washington, District of Columbia. However, I could not locate the pickup address at 9 8 0 9 Korman Court, Rockville, Maryland. Could you please provide the full pickup address again, including the street name and city?
+CALLER: Yes. Yes. Yes.
+AGENT: Could you please say the full pickup address including the street name and city so I can make sure to get it right for you?
+CALLER: Yeah. You just said it's 9809 Coleman Court?
+AGENT: You mentioned 9 8 0 9 Coleman Court earlier, but I want to confirm the correct street name and city for your pickup address. Is it 9 8 0 9 Coleman Court, Rockville, Maryland? Or is it a different street name?
+CALLER: Potomac? MD Yes. Yes. It's a nine inch for Tom. Potomac? Yeah. Yeah. 20854. Yeah.
+AGENT: Just to confirm, is your pickup address 9 8 0 9 Coleman Court, Potomac, Maryland?
+CALLER: That's the one. Okay.
+AGENT: I have the pickup address as 9 8 0 9 Korman Court, Potomac, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified, Kumar.
+AGENT: You mentioned a pickup time of 12:00 pm. Is that correct?
+CALLER: Okay. Okay. I'm sorry?
+AGENT: Just to confirm, is your pickup time 12:00 pm?
+CALLER: I'm sorry? Address?
+AGENT: Your pickup time is what I need to confirm right now. Is 12:00 pm the correct time for your pickup?
+CALLER: Would you have my pickup at Yes. That's PM noon. Today. Okay?
+AGENT: Thank you for confirming your pickup time at 12:00 pm today. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. Along this morning. I have VHN. It's not not really sorry. A walker. Not really a walker.
+AGENT: Could you please tell me how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? Also, if you have any special instructions for the driver, please let me know.
+CALLER: Two. Two No. No.
+AGENT: Thank you. I have recorded 2 passengers and no wheelchair needed. Do you have any special instructions for the driver?
+CALLER: Okay. Yes. No.
+AGENT: The estimated fare for your trip is 31.5 dollars, and you will be paying with your own payment method. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: Great, I'll start collecting the details for your return trip now.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Okay. Okay. Return trip. I I don't have time. I just want to wait next. Put it one way. Okay? Okay. Okay. Hello? Hello? Are you there? Hello? Hello?

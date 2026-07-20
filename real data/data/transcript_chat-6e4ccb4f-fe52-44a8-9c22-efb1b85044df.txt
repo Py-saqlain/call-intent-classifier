@@ -1,0 +1,31 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: John takes
+AGENT: Thanks, John. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a taxi.
+AGENT: Thank you, John. How would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, John. Your payment method is set to credit card. I'll proceed with your booking now.
+AGENT: John, could you please tell me the pickup address for your taxi?
+CALLER: One two two zero eight
+AGENT: Thank you, John. Could you please provide the street name and city for the pickup address starting with one two two zero eight?
+CALLER: Pardon me? Moselle Terrace.
+AGENT: Just to confirm, your pickup address is one two two zero eight Moselle Terrace. Could you please tell me the city and state for this address?
+CALLER: This is what Greensburg, Maryland.
+AGENT: John, it seems I couldn't locate one two two zero eight Moselle Terrace in Greensburg, Maryland. Could you please double-check the city name or provide a nearby landmark or cross street to help me find the correct
+CALLER: No.
+CALLER: No. North Potomac.
+AGENT: John, I found the address as one two two zero eight Mosel Terrace, North Potomac, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One two one five five Dawnstown Road,
+AGENT: Thank you, John. Could you please tell me the city and state for one two one five five Dawnstown Road?
+CALLER: Gatensburg, Maryland.
+AGENT: John, I couldn't locate one two one five five Dawnstown Road in Gatensburg, Maryland. Could you please double-check the city name or provide a nearby landmark or cross street to help me find the correct dropoff address?
+CALLER: High School
+AGENT: Thank you, John. To help find the correct dropoff address, could you please tell me the full street address or the city and state where the high school is located?
+CALLER: No. I'll give you the drop off address. One two one five five Darnstown Road, Ginsburg, Maryland.
+AGENT: John, I found the dropoff address as one two one five five Darnestown Road, Gaithersburg, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+AGENT: Your dropoff address has been
+CALLER: Nope.

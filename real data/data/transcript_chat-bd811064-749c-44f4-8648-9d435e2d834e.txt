@@ -1,0 +1,45 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Yes. It's Carol Esther. Yes. T e s.
+AGENT: Thank you, Carol. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I need to schedule a ride back home from the doctor's office.
+AGENT: I see you'd like to schedule a ride back home from the doctor's office. To make sure I have the right home address for your dropoff, could you please tell me your home address?
+CALLER: Yes. 1235 Potomac Valley Road in Rockville. Two zero eight five zero.
+AGENT: Thank you for the address, Carol. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: With Congo, please. Colon right.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method?
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes. Three four five four nine three. Three four five four nine three.
+AGENT: Thank you, Carol. Your payment with Call and Ride is all set.
+AGENT: I found several doctor's offices. Which one would you like to use?
+
+1. 220 Girard Street, Suite 100, Gaithersburg, Maryland
+CALLER: Okay. I I need to be picked up at no. No. No. I need to be picked up at nine four zero six
+AGENT: To clarify, you want to be picked up at 9 4 0 6, but could you please tell me the street name
+CALLER: Old Georgetown Road in Bethesda.
+AGENT: Your pickup address has been verified, Carol.
+AGENT: When would you like to be picked up?
+CALLER: No, please.
+AGENT: Just to clarify, are you asking for a pickup right now, or would you prefer to call back later when you're ready?
+CALLER: Yes. No. I'm ready now.
+AGENT: Thank you. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One. No.
+AGENT: Thanks for that. Do you have any special instructions or notes for the driver?
+CALLER: Yes. The entrance is in the back of the house.
+AGENT: The estimated fare for your trip is 19.5 dollars, and you'll be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: Behind the house. No. I'm just going home. So 1235 Potomac Valley Road.
+AGENT: Just to clarify, are you booking a return trip back to 9406 Old Georgetown Road, or is the trip we just set up your return journey?
+CALLER: Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: I I I I don't know. 9406 Old Georgetown Road.
+AGENT: Thank you for the details. I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 9:15
+CALLER: It's only $19.
+AGENT: Yes, the fare for your trip is 19 dollars and 50 cents. Is there anything else I can assist you with?
+CALLER: It's $19.50 one way?
+AGENT: I don't have the ability to confirm fares beyond what the system provides. Your trip fare is listed as 19 dollars and 50 cents. Would you like to schedule a return trip or anything else?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: You already have a main trip scheduled for today at
+CALLER: Alright.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

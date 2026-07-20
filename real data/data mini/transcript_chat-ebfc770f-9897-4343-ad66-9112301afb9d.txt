@@ -1,0 +1,29 @@
+AGENT: Hello Chuck, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Are you a taxi?
+AGENT: Uhh, yeah, we do provide taxi and cab services here. How can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: I just like to order taxi from worked in the metro.
+AGENT: Okay, so you'd like to order a taxi from a metro station? Could you please tell me which metro station you're at or want to be picked up from? <emotion value="peaceful"/>
+CALLER: I want to go to a metro station. To Rockville Metro Station.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: It's one four zero five Research Boulevard,
+AGENT: Okay, so your pickup address is one four zero five Research Boulevard, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: I found Rockville Metro Station at 2 5 1 Hungerford Drive, Rockville, Maryland. Is that the correct destination? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Chuck.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Immediately, as soon as possible.
+AGENT: Okay, I've scheduled your pickup for as soon as possible, today at 10:45 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Just one passenger and no wheelchair needed.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No. I don't.
+AGENT: Alright, the estimated fare is 9.5 dollars, paying with your credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. I do not.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 10:45 PM. Your confirmation number is 2 1 3 6 7 6 6 3 4. Is there anything else I can help you with?
+CALLER: No. That's it.
+AGENT: Thank you for calling Barwood & Regency, Chuck. Have a wonderful day!
+CALLER: You too. Thank you. Bye.

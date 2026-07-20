@@ -1,0 +1,41 @@
+AGENT: Hi Janet, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to book a trip.
+AGENT: Uhh, okay, I can help you with that. Let me get some details for your trip. Where would you like to be picked up from? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Colon, right.
+AGENT: Hmmm.. that sounds like Call and Ride. Did you mean to pay with Call and Ride? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great! Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three one nine six six two.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Thank you for that. Now, could you please tell me the pickup address for your ride? If you'd like, I can use your home address at 3 1 3 6 Bel Pre Road, Aspen Hill, Maryland. Would you like to be picked up from there? <emotion value="peaceful"/>
+CALLER: Yes
+AGENT: Okay, so I found your pickup address as 3 1 3 6 Bel Pre Road, Aspen Hill, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: yes
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Giant at Aspen Hill. One three seven eight one Connecticut Avenue, Silver Spring, Maryland two zero nine zero six.
+AGENT: I found Giant Food at 1 3 7 8 1 Connecticut Avenue, Silver Spring, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Janet.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I'm ready to go.
+AGENT: Just to be sure, do you mean you'd like to be picked up right now, or would you prefer to schedule a will-call trip to call back when you're ready? <emotion value="hesitant"/>
+CALLER: Yes. No. I can pick up right now.
+AGENT: Okay great! I've got your pickup time as today at 10:02 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Okay, I've noted that no wheelchair-accessible vehicle is needed. How many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: Only myself.
+AGENT: Okay great! I've got one passenger traveling. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 8.5 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. No.
+AGENT: Your main trip is booked for today at 10:02 AM. Your confirmation number is 2 1 3 6 7 3 0 2 1. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Regency Taxi. Have a wonderful day, Janet.
+CALLER: Thank you.
+AGENT: functions.Close_Call()
+CALLER: Do that again.
+AGENT: functions.Close_Call()
+CALLER: Okay
+AGENT: Thank you for calling Regency Taxi. Have a wonderful day, Janet.
+CALLER: Thank you. Bye. Thank you. Bye.

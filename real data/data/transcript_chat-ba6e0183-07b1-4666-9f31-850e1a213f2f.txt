@@ -1,0 +1,38 @@
+AGENT: Hello sun, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Was it? Giants In White Oak. What is the address?
+AGENT: Could you please clarify if you want to book a ride to Giants in White Oak or if you are asking for the address of Giants
+CALLER: Yes. No. We want it from Giant from Giant in Waikou.
+AGENT: So you want a ride from Giant in White
+CALLER: Write the address for me on a paper. Hello? Hello? What is this?
+AGENT: Hi,
+CALLER: Hello?
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Can you speak, please? I need a ride taxi from Giant in Whitehall.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+CALLER: Eleven two two one. New Hampshire Avenue.
+AGENT: Okay, so I found Giant Food at 1 1 2 2 1 New Hampshire Avenue, Silver Spring, Maryland. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Eight one five passion p e r s h I n g, Pershing Drive.
+AGENT: Thank you. Let me check
+CALLER: Silver Spring, Maryland. Two zero nine one zero.
+AGENT: Okay, so I found 8 1 5 Pershing Drive, Silver Spring, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Sun.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now Immediately.
+AGENT: Okay great! I've got your pickup time as today at 3:59 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a
+CALLER: One. One. No.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 14 dollars, paying with cash. Would you like to schedule a return trip as
+CALLER: Okay.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I told you I'm leaving from 11221 New Hampshire Ave Avenue. Now. I'm going to 815 Passing Drive.
+AGENT: Your main trip is scheduled for today at 3:59 PM. Your confirmation number is 2 1 3 6 7 4 3 1 2. Is there anything else I can help you with?
+CALLER: How long the wait? How long for the wait time?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you.
+AGENT: You're

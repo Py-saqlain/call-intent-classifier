@@ -1,0 +1,27 @@
+AGENT: Hello Dolores, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like place order for tax. Book taxi for 01:35PM.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: Credit. Credit.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your taxi ride?
+CALLER: 20324 Aspenwood Lane. Montgomery Village.
+AGENT: Okay, so your pickup address is 2 0 3 2 4 Aspenwood Lane, Montgomery Village, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Five Dandy Court.
+AGENT: I found a location called Dandy Vacuum Station at 2 0 0 8 Dandy Loop Road, York
+CALLER: Rockville.
+AGENT: I found a few locations.  
+Option one: Dandy Vacuum Station, York County, Virginia.  
+Option two: 5 Dandy Court, Rockville, Maryland.  
+Which one
+CALLER: No. No. Assistant. Assistant.
+AGENT: Uh, I am sorry, but could you please repeat the dropoff address?
+CALLER: Please agent.
+AGENT: I
+CALLER: Danjig Court, Rockville.
+AGENT: I found a location at 1 9 1 East Jefferson Street, Rockville, Maryland. Is that the correct dropoff address?
+CALLER: Agent agent, agent,
+AGENT: I can help with your booking — would you like to continue?
+CALLER: I would like to speak with agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

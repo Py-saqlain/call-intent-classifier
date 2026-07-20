@@ -1,0 +1,15 @@
+AGENT: Hello, Virginia. This is Ana with Barwood & Regency. Your ride is scheduled for pickup today at 11:18 AM. How can I assist you today?
+CALLER: Have you ever found my cab?
+AGENT: Uhh, I want to make sure I understand you correctly. Are you asking about the status or location of a ride you already booked? Or are you looking to schedule a new cab ride?
+CALLER: Yes.
+AGENT: Okay, I just want to be sure—are you asking about a ride you already have booked and want to know where the driver is? Or do you want to book a new ride?
+CALLER: No. The first one.
+AGENT: Alright, I will check the status of your current ride for you. Just a moment please.
+AGENT: Uhh, your trip was just placed and a driver is being assigned. Your pickup was scheduled for 11:18 am. I'll keep you posted. Anything else?
+CALLER: Hello?
+AGENT: Yes, I'm here. How can I assist you further?
+CALLER: What you say?
+AGENT: I said your trip was just placed and a driver is being assigned, with pickup scheduled for 11:18 am. Would you like me to check anything else?
+CALLER: Yeah. Check to see where the cab at.
+AGENT: Uhh, the system shows no driver or vehicle assigned yet for your trip. Let me connect you with a representative who can help right away.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,11 @@
+AGENT: Hello Sharon, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi. I need a for Londonderry Tower. One seven zero six zero King James Way,
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, I found your pickup address as one seven zero six zero King James Way, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Silver diners, silver spring. Georgia Avenue.
+AGENT: Hmm <break time="350ms"/> let me check that address. I found a few locations. <break time="700ms"/> Option one: Silver Diner, 8100 Georgia Avenue, Silver Spring. <break time="500ms"/> Option two: Silver Diner, 8050 Georgia Avenue, Silver Spring. <break time="500ms"/> Which one is
+CALLER: Yep.

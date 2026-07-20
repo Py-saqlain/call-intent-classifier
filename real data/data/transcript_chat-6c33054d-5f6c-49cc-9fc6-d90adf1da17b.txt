@@ -1,0 +1,15 @@
+AGENT: Hi Esabell, this is Ana with Barwood & Regency. Vehicle 548 has arrived at your pickup location. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: What?
+AGENT: How can I assist you with your ride today? Would you like to book a trip, check on a ride, or speak with someone?
+CALLER: Hi,
+AGENT: I'm here to help whenever you're ready. What can I do for you today?
+CALLER: You must be waiting because they just called me. Ma'am.
+AGENT: I’m here to assist you whenever you’re ready. How can I help you with your ride today?
+CALLER: Do not pull off.
+AGENT: If you need me to connect you with someone who can assist you right away, I can do that. Would you like me to connect you to a live representative?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: He's, like, a 102 out there.
+AGENT: I understand, it’s important to be careful in this heat. If you need any help with your ride or want to let the driver know something, just tell me how I can assist you.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

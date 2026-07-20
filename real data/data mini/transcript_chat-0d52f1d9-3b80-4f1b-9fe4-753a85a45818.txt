@@ -1,0 +1,10 @@
+AGENT: Hello, Evelin. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to set up an account pickup.
+AGENT: Uhh, just to be sure, did you mean you want to book a ride for a pickup from your account address, or are you referring to something else with "account pickup"? Could you please clarify a bit? <emotion value="hesitant"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Corporate account
+AGENT: Hmmm.. that didn't seem right, could you try again? We accept cash, credit card, and Call and Ride for payment. How would you like to pay? <emotion value="apologetic"/>
+CALLER: I would like to pay with a corporate account.
+AGENT: I want to make sure you get the right help. We only accept cash, credit card, and Call and Ride on this line. If you'd like, I can connect you to a live agent who can assist with corporate accounts. Would you like me to do that? <emotion value="hesitant"/>
+CALLER: Yes, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

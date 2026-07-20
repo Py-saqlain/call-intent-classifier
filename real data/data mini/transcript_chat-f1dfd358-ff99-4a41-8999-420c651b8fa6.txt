@@ -1,0 +1,14 @@
+AGENT: Hi Mary, this is Ana with Barwood & Regency. Vehicle 1187 is on the way and should be there in about 6 minutes, aiming to pick you up around 1:02 pm. How can I assist you today?
+CALLER: Are you sure?
+AGENT: Could you please tell me what specifically you'd like me to check or confirm for you? I'm here to help.
+CALLER: Somebody's going to pick me up about
+AGENT: Your driver is scheduled to pick you up at 12:25 pm from 1 0 2 1 5 Fernwood Road in Bethesda. Would you like me to provide any other details?
+CALLER: What time now now what time is it? Twelve? Fifty six now.
+AGENT: Yes, it is currently 12:56 pm. Your driver is about 6 minutes away from your pickup time. Is there anything else I can help you with?
+CALLER: But you said 12:25 pickup time? Yeah.
+AGENT: That's right, your pickup was scheduled for 12:25 pm, which is now in the past. If you need help with this trip or want to check on the driver, I can connect you with a customer representative. Would you like me to do that?
+CALLER: About this is the six times. It's only six minutes.
+AGENT: I understand it feels like just six minutes, but since your scheduled pickup was at 12:25 pm and it's now 12:56 pm, the pickup time has already passed. If you want, I can connect you with a representative who can assist you further. Would you like me to do that?
+CALLER: Yes, please. Yes, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank

@@ -1,0 +1,11 @@
+AGENT: Hello Zenebech, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I have a question. Can you guys pick up from Maryland and drop in DC?
+AGENT: Yes, we can definitely arrange pickups from Maryland and drop-offs in Washington, DC. If you'd like, I can help you schedule a ride now. Just let me know your pickup address, destination, and when you'd like to be picked up.
+CALLER: May July 13. At 12:30 pickup. And drop off 12:50. Pennsylvania.
+AGENT: Just to clarify, you want a pickup on July 13th at 12:30 pm, starting from Maryland, and a drop-off in Pennsylvania by 12:50 pm? Could you please confirm the exact pickup and drop-off addresses, especially the street names and numbers, so I can assist you accurately?
+CALLER: Okay. Well, if you guys can be able to pick up from Maryland and drop and pick up from DC to Maryland, I'll call back tomorrow and reschedule it.
+AGENT: Alright, I understand. Yes, we can arrange pickups and drop-offs between Maryland and
+CALLER: And I would like to talk to live agent.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Connect me a person.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

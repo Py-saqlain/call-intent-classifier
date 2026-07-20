@@ -1,0 +1,30 @@
+AGENT: Hello Sheba, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I want to go home back.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: my pickup is one twenty one six. Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: I found a few locations for 1216. 
+Option one: 1111 University Boulevard West Apartment 1216, Silver Spring. 
+Option two: 1121 University Boulevard West Apartment 1216, Silver Spring. 
+Option three: 1111 University Boulevard West Apartment 1216-A, Silver Spring. 
+Option four: 1121 University Boulevard West Apartment 1216-B, Silver Spring. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: The pickup address is one twenty one
+AGENT: Just to clarify, you mean the pickup address is 1 2 1, but could you please tell me the street name or any other details to help me find the exact location? <emotion value="hesitant"/>
+CALLER: Okay? I want to be picked up. All those you are saying, what twenty one six. Georgia Avenue.
+AGENT: Thank you for that. So your pickup address is 1 2 1 6 Georgia Avenue. Let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, I found the address as one two zero one six Georgia Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: One no. No. I didn't say one to one six. I said one two zero one six. No. Please just listen.
+AGENT: I understand, you said one two one six Georgia Avenue, not one two zero one six. Let me check that again carefully. <emotion value="apologetic"/>
+AGENT: I apologize for the confusion. The system still shows one two zero one six Georgia Avenue, Silver Spring, Maryland. Could you please confirm if this is the correct address or provide any additional details to help me find the exact pickup location? <emotion value="apologetic"/>
+CALLER: Wow. One one one two zero one six. Georgia Avenue.
+AGENT: Thank you for clarifying. So your pickup address is 1 1 1 2 0 1 6 Georgia Avenue. Let me check that address for you. <emotion value="peaceful"/>
+AGENT: I see the address as one two zero one six Georgia Avenue, Silver Spring, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: That's where I am. No. Why do you say 11 again? One two zero one six. Oh, jeez. You give me a headache.
+AGENT: I’m sorry for the confusion and any frustration caused. Just to confirm, your pickup address is one two zero one six Georgia Avenue, Silver Spring, Maryland. Is that correct? <emotion value="apologetic"/>
+CALLER: No. Why do you say 11 again? One two zero one six. Oh, jeez. You give me a headache. Hello? My have given you my pickup with several times. Yes. That's it.
+AGENT: Thank you for your patience. Let's try again. Please tell me your pickup address including the street number and street name.
+CALLER: That's correct. Just leave it like that.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+AGENT: I found a few
+CALLER: I should tell you again. Okay. 12016. 12016. Oh, okay.

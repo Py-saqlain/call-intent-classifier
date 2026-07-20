@@ -1,0 +1,27 @@
+AGENT: Hi Wayne, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. We're going to one eight Doxdam Court, Germantown, Maryland.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Visa debit.
+AGENT: Thank you for letting me know. We only accept cash, credit card, and Call and Ride on this line. Debit cards are processed as credit cards, so I can proceed with credit card for you. Does that work? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Okay, so I found the address as one eight Doxdam Court, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: It's what's the pickup address, Seventy six forty six.
+AGENT: Uh, I am sorry, but could you please repeat the pickup address? I want to make sure I get it right. <emotion value="peaceful"/>
+CALLER: Stanis Place,
+AGENT: Thank you. Just to confirm, is your pickup address 7 6 4 6 Stanis Place? Could you please tell me the city and state for that address? <emotion value="peaceful"/>
+CALLER: Rockville, Maryland.
+AGENT: Okay, I found the address as seven six four six Standish Place, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Card. Yes.
+AGENT: Your pickup address has been verified, Wayne.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Just to clarify, did you mean you want to be picked up right now, or would you prefer a will-call trip where you call us back when you're ready? <emotion value="hesitant"/>
+CALLER: Now.
+AGENT: Okay great! I've got your pickup time as today at 3:59 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Okay, I've noted that no wheelchair-accessible vehicle is needed. <emotion value="grateful"/> How many passengers will be traveling, including yourself?
+CALLER: Two two
+AGENT: Okay great! I've got that noted as 2 passengers. <emotion value="grateful"/> Do

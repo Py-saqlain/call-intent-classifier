@@ -1,0 +1,13 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Anna, my name is David. Lebowitz.
+AGENT: Thanks, David. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Uh, I am looking to see if there's a way to reserve a car a taxi from Barwood to pick up my daughter and granddaughter at BWI that also would have a front facing car seat.
+AGENT: Thank you for sharing that, David. To help with your reservation, may I ask how you would like to pay for the ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, David. Your payment method is set to credit card. I will proceed with your reservation now.
+AGENT: I wasn't able to find a specific address for Barwood. Could you please provide the full pickup address or a nearby street address for the pickup location?
+CALLER: Can you please confirm that you have taxis that is that have a front facing car seat for a four and a half year old?
+AGENT: I understand your question about the front-facing car seat for your four and a half year old. To assist you best with that, I will connect you to a live agent who can provide detailed information about vehicle options and car seats. Please hold for a moment.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready. I'm waiting to you said I'm on hold. So I'm waiting for your live person. Nothing for me to take time to.
+AGENT: I'm connecting you now to a customer service representative who can assist you further. Please stay on the line.

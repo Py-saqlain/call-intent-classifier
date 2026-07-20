@@ -1,0 +1,20 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Jeannette Butler?
+CALLER: Yes.
+AGENT: Thanks, Jeannette. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I wanna make a reservation.
+AGENT: I'd be happy to help with your reservation. How would you like to pay for your ride? We accept cash, credit card, and Call
+CALLER: Call and ride.
+AGENT: Thank you for choosing Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three two nine four nine seven.
+AGENT: Thank you, Jeannette. Your payment with Call and Ride is all set. What pickup address would you like to use for your reservation?
+AGENT: Could you please tell me the pickup address for your reservation?
+CALLER: One two three, zero eight Village Square Terrace, Rockville, Maryland apartment four zero one, two zero eight five two.
+AGENT: I have 1 2 3 0 8 Village Square Terrace, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: I need a representative
+AGENT: I can help with your reservation details — would you like to continue?
+CALLER: I need to speak to a representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you.
+AGENT: You're welcome.

@@ -1,0 +1,11 @@
+AGENT: Hello, Andre. This is Ana from Barwood & Regency. Vehicle 677 is on the way and should arrive in about 18 minutes, around 12:27. How can I assist you today?
+CALLER: Is is there a way
+AGENT: How can I assist you today? Are you looking to book a ride, check on a trip, or something else?
+CALLER: Yeah. The the the script you made is that a
+AGENT: Could you please tell me more about what you mean by "the script"? Are you asking about booking a ride, checking a trip, or something else? I'm here to help.
+CALLER: Okay. I called the for a trip to go to store. But I know I wanna know what's the trip. Was it van or a car?
+AGENT: Your current trip to the store is active, and a vehicle number 677 is assigned. If you want to know if it's a van or a car specifically, I can connect you with a representative who can provide that detail. Would you like me to do that?
+CALLER: Yeah. Yeah.
+AGENT: I'm connecting you to a customer service representative now. Please
+CALLER: Yeah.
+AGENT: I have connected you to a

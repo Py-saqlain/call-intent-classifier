@@ -1,0 +1,9 @@
+AGENT: Hello Young, this is Ana from Barwood & Regency. Your trip is scheduled for pickup today at 5:46 PM. Thank you for your patience. How can I assist you today?
+CALLER: Hello? Hello?
+AGENT: Hi there! How can I assist you with your ride today?
+AGENT: Take your time. Just let me know when
+CALLER: Hello. Are you calling? Please Customer service. Hello? Hello? I couldn't get it.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Hello? Can I can I talk to customer service?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: I'm still reading test Pepsi.

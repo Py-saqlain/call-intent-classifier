@@ -1,0 +1,25 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Jen Curtis.
+AGENT: Thanks, Jen. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: She need to return to the facility.
+AGENT: Could you please tell me the pickup address and the facility address for the return trip? Also, do you have a preferred pickup time?
+CALLER: Six zero one Six zero one. North Caroline Street, Baltimore, Maryland.
+AGENT: Thank you. Just to confirm, the pickup address is 6 0 1 North Caroline Street, Baltimore, Maryland, correct? And is this the location you want to be picked up from for the return trip? Also, could you please provide the destination address or the name of the facility you want to go to?
+CALLER: Yes.
+AGENT: Could you please provide the destination address or the name of the facility you want to return to from 6 0 1 North Caroline Street, Baltimore, Maryland? Also, do you have a preferred pickup time for this return trip?
+CALLER: Three four one five Greencaster Road,
+AGENT: Thank you. Just to confirm, the destination address is 3 4 1 5 Greencaster Road. Could you please tell me the city and state for that address? Also, do you have a preferred pickup time for this trip?
+CALLER: Three four one five. Birtsville, Maryland
+AGENT: Thanks for confirming. So your pickup is 6 0 1 North Caroline Street, Baltimore, Maryland, and your dropoff is 3 4 1 5 Birtsville, Maryland. When would you like the pickup for this return trip?
+CALLER: Burtonsville, Maryland.
+AGENT: Got it, the dropoff is 3 4 1 5 Greencaster Road, Burtonsville, Maryland. When would you like the pickup for this return trip?
+CALLER: Right now.
+AGENT: Alright, how would you like to pay for this trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: She already have a trip.
+AGENT: I understand you already have a trip. To proceed with this return trip, could you please let me know how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Medicaid pay Medicaid pay.
+AGENT: We only accept cash, credit card, and Call and Ride for payment on this line. If you would like, I can connect you to a live agent who can assist with Medicaid payment options. Would you like me to do that? <emotion value="hesitant"/>
+CALLER: yes agency please
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you.
+AGENT: I’m here to help if you need anything else.

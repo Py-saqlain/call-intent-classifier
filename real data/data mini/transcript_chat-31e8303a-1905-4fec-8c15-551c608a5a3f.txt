@@ -1,0 +1,20 @@
+AGENT: Hello Henry, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Representative, please, ma'am? My name is this is Harry Harry, y'all say hear me.
+AGENT: I'll
+CALLER: But I need to book a ride I need a taxi. I need to text to by the branch
+CALLER: for both mobile
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Guys.
+AGENT: Hmmm.. that didn't
+CALLER: C a c a s h.
+AGENT: Okay so I've got that payment noted as cash.
+AGENT: Could you please tell me the pickup address for your ride?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Do Heather anyway. Drop in my residence on Lane.
+AGENT: Hmm <break time="350ms"/> let me check that address. You said
+CALLER: I'm ready. Now let's bring to our apartment, please. First visit representative.
+AGENT: I want to make sure I have your pickup address correct. Did you say your pickup is your residence on Lane? Could you please provide the street number
+CALLER: You're having anyway. Two Helen Hemenway. Let's be a representative. Let's be a representative. Please. Let's speak to a representative.
+AGENT: I'll connect you to a representative now.
+CALLER: Thank you.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

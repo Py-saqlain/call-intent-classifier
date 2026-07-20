@@ -1,0 +1,31 @@
+AGENT: Hello Debrah, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a trip.
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Debit card. Debit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? If you'd like, I can also use your home address at 5 3 1 Randolph Road, Silver Spring, Maryland. <emotion value="peaceful"/>
+CALLER: Five three one Randolph Road,
+AGENT: Okay, so I have your pickup as 5 3 1 Randolph Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One zero one. Two one New Hampshire Avenue.
+AGENT: Okay, I have the dropoff address as 1 0 1 New Hampshire Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I understand the dropoff address is not correct. Could you please provide the correct dropoff address again? <emotion value="apologetic"/>
+CALLER: One zero one two one New Hampshire Avenue.
+AGENT: Okay, I have the dropoff address as 1 0 1 2 1 New Hampshire Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Debrah. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time set for today at 9:30 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: I can take any but I have a manual wheelchair.
+AGENT: Thanks for letting me know about the manual wheelchair. How many passengers will be traveling in total, including yourself? <emotion value="hesitant"/>
+CALLER: One.
+AGENT: Alright, the estimated fare is 19 dollars, paying with your debit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Leave it open.
+AGENT: Okay, your return trip will be set as a will-call, leaving it open for you to call when you're ready. The return trip pickup will be at 10121 New Hampshire Avenue, going back to 531 Randolph Road. The estimated fare for the return trip is 19 dollars, paying with your debit card. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes
+AGENT: Your main trip is scheduled for today at 9:30 AM with confirmation number 2 1 3 6 7 6 7 8 8. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 6 7 8 9. You can call back when you're ready for the return trip and a driver will be sent then. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Debrah. Have a wonderful day!

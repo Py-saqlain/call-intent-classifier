@@ -1,0 +1,14 @@
+AGENT: Hello Gusgva, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Okay? See They just wanted to be more discreet with the doctor because, you know, if he doesn't know but but talking private with the doctor. And giving her in and out. Guide her. Because to be honest, the question, you know what it is, which people become with the Internet. Help you get back to yourself. Yeah.
+AGENT: Uhh, I want to make sure I understand how I can assist you best. Are you looking to book a ride to or from a doctor's appointment, or is there something else I can help you with today? <emotion value="peaceful"/>
+CALLER: Going. Yeah.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Talk to representative.
+AGENT: I can help with your booking details — would you like to continue? <emotion value="peaceful"/>
+CALLER: I have a three thirty pickup. I wanna be sure that it still comes
+AGENT: I can check that for you right now. One moment please.
+AGENT: It looks like there isn't an active trip scheduled for 3:30 pm today. Would you like me to help you book a ride for that time? <emotion value="peaceful"/>
+AGENT: Uhh <break time="300ms"/> I'm sorry, but I don't see an active trip scheduled for 3:30 pm. Let me connect you with a representative who can help right away. <emotion value="sympathetic"/>
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: I'm gonna make sure that the booking that I have to put I just wanna confirm my 03:30 pickup. You're ready? There isn't active or not? Is there an active return trip from you? Thank you.
+AGENT: I'm

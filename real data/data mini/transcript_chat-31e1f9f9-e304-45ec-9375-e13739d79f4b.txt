@@ -1,0 +1,20 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Glenn Vanessa?
+CALLER: No. But I'm I'm at Bethesda care Bethesda or Sterling Care Bethesda. This is, uh, Tom Wright.
+AGENT: I don't see a profile under the name Tom Wright. We can set one up for you when you book a
+CALLER: Okay.
+AGENT: Thank
+CALLER: Okay. And all my wallet and everything all my wallet and everything Hello?
+AGENT: How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: All of my cash is at the place we're going. I'm gonna have to run-in and grab it once we get there.
+AGENT: Thank you for letting me know. So for now, would you like to
+CALLER: Okay.
+AGENT: Would you like to pay with a credit card then, or would you prefer to use Call and Ride?
+CALLER: Calling right, I guess. I don't I don't have my wallet with me is the problem.
+AGENT: Just to confirm, did you mean Call and Ride for payment? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Okay. I don't have that. I don't have my wallet with me. I need that cash at my house.
+AGENT: I understand. Since you don’t have your Call and Ride card or cash with you, would you like to pay with a credit card instead?
+CALLER: I I have nothing. I need the cash from my apartment.
+AGENT: Thank you for letting me know. Since you don’t have cash, credit
+CALLER: K.
+CALLER: I have plenty of cash at the apartment.
+AGENT: I'm connecting

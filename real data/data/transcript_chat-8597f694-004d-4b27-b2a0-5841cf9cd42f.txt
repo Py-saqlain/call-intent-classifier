@@ -1,0 +1,61 @@
+AGENT: Hello JANICIA, this is Ana with Barwood & Regency.
+CALLER: I would like to have appointment right now. Reservation right now.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: For Okay.
+AGENT: Hmmm..
+CALLER: Court ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yeah. Thirty two twenty four nine six.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: May I have the pickup address for your ride, please? <emotion value="peaceful"/>
+CALLER: One zero three one three Georgia Avenue.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 1 0 3 1 3 Georgia Avenue, Wheaton-Glenmont, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. May I have the dropoff address, please? <emotion value="peaceful"/>
+CALLER: One four let me see. Espen hill stepping more the AAT I therapist want to risk seven three five.
+AGENT: Uh, I am sorry, but could you repeat that
+CALLER: Connect level.
+AGENT: Could you please provide the full street address or the name of the place you want to go
+CALLER: One three Yeah. One three. Seven. One three seven That eight let me see. Eight five Connecticut Avenue
+AGENT: Hmm <break time="350ms"/> let me check that address.
+CALLER: It was Spring, Maryland.
+AGENT: Okay, so I found 1 3 7 8 1 Connecticut Avenue, Aspen Hill, Maryland. Is that correct? <emotion
+CALLER: No. Three, seven three let me see. 35 or I cannot see the other one. One to be seven three five. Connecticut Avenue.
+AGENT: Thank you for the clarification. Let me check 7 3 5 Connecticut Avenue in Aspen Hill, Maryland. <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay, so I found 1 1 1 Rockville Pike, suite 7 3 5, Rockville,
+CALLER: A t I
+AGENT: Uh, I am sorry, but could you repeat that?
+CALLER: One three seven three five Connecticut Avenue, service Spring, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 1 3 7 3 5 Connecticut Avenue, Aspen Hill, Maryland. Is that correct?
+CALLER: ATI.
+AGENT: Just to be sure, did you mean Aspen Hill, Maryland for the dropoff location? <emotion value="hesitant"/>
+CALLER: No. No. Just just forget Aspen here. Just Silver Spring, Maryland. Connecticut Avenue, Silver Spring, Maryland.
+AGENT: Okay, so I found a few locations.  
+ Option one: 1 3 7 3 5 Connecticut Avenue, Aspen Hill, Maryland.  
+ Option two: 1 3 7 3 5 Connecticut Avenue, Silver Spring, Maryland.  
+ Which one is correct?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified.
+CALLER: One four five zero eight Homecrest. Road. 14508, Home Crest. Road.
+AGENT: Just to confirm, you want your pickup time to be right now, is that correct? <emotion value="peaceful"/>
+CALLER: Silver Spring, Maryland.
+AGENT: I’m here to help with your pickup time, passengers, wheelchairs, and driver notes. Could you please confirm if you want to be picked up right now? <emotion value="peaceful"/>
+CALLER: Nothing. Yeah. I'm ready to go.
+AGENT: Okay great! I've got your pickup time as right now. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: My no. My self. Not nothing. Just myself.
+AGENT: Okay great! I've got that noted for one passenger and no wheelchair needed. Do you have
+CALLER: No.
+AGENT: Alright, so <break time="250ms"/> let me confirm those details. Your pickup is 1 0 3 1 3 Georgia Avenue. <break time="250ms"/> Your dropoff is 1 3 7 3 5 Connecticut Avenue. <break time="250ms"/> Pickup time is 1:59 PM. <break time="250ms"/> You have one passenger traveling, and a wheelchair-accessible vehicle is needed. <break time="250ms"/> The estimated fare is 16 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. I go home. From you pick me up here. I just give you Georgia Avenue. Right? Telephone I mean, in address. Didn't I give you address? You kicked me up.
+AGENT: Just to
+CALLER: Yeah. Okay. Please pick me up. 10313 Georgia Avenue,
+AGENT: Thank you for confirming your pickup address as 1 0 3 1 3 Georgia Avenue. I am processing your booking now. Please hold on a moment.
+AGENT: Your trip
+CALLER: And and go to
+AGENT: Could you please tell me the full address or location where you would like to go?
+CALLER: go to
+AGENT: I want to make sure I have your destination correctly. Could you please say the full address or
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

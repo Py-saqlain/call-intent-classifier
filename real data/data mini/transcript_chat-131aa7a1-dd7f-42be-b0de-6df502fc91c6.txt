@@ -1,0 +1,24 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Then 88.
+AGENT: Could you please tell me your full name? I want to make sure I get it right for your profile.
+CALLER: Show this. Joseph
+AGENT: Thanks, Joseph. This is Ana from Barwood & Regency.
+CALLER: Ten eight eight I can do a trip, uh, about the I'm too far from there.
+AGENT: I want to make sure I understand you correctly. Are you saying you want to book a trip but you feel you are too far from the pickup location? Could you please tell me your pickup address and your destination?
+CALLER: Yeah. Repeat repeat that for type his he the the location is two one nine one e Street, I Street in in Norwood, Washington.
+AGENT: Thank you for sharing your pickup location at 2 1 9 1 E Street, I
+CALLER: On the destination,
+AGENT: Could you please tell me your destination address? Also, when you have a moment, let me know how you would like to pay for your
+CALLER: Seven seven zero four seven four four one Oscar Luza Drive, the road.
+AGENT: Thank you for the destination at 7 7 0 4 7 4 4
+CALLER: Okay.
+AGENT: How would you like to pay for your trip today? We accept cash, credit card, and Call and Ride.
+CALLER: Don't know. Maybe maybe it's wrong. Medicaid.
+AGENT: I understand. Just to let you know, on this line we only accept cash, credit card, and Call and Ride for payment. If
+CALLER: Okay.
+AGENT: Would you like to pay with cash, credit card, or Call and Ride?
+CALLER: No. I did I'm a driver. I'm not a customer.
+AGENT: Thank you for letting me know. Since you're a driver,
+CALLER: I'm a driver. I'm a driver. Yeah. I tell you that's the they send me the trip. But I've I am too far from the location. Repeat up time. It is 02:00. It is 02:00 now.
+AGENT: I understand you're a
+AGENT: I'm experiencing a technical limitation on my end. Let

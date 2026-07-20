@@ -1,0 +1,54 @@
+AGENT: Hi Toya, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: How can I Agent, please?
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Did
+AGENT: Did you want to tell me what you need, or shall I transfer you? <emotion value="peaceful"/>
+CALLER: Please try to
+AGENT: Sure, please go ahead and tell me what you need help with. <emotion value="peaceful"/>
+CALLER: taxi
+AGENT: Alright, let me get that set up for you right now.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Alright.
+AGENT: Hmmm.. that didn't seem like a payment method. Could you please tell me if you'd like to pay with cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Could you please specify which payment method you would like to use: cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Hatch Catch.
+AGENT: Okay so I've got that payment noted as cash. Let me proceed with verifying it for you. <emotion value="grateful"/>
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 23910. Catawba Hill Drive.
+AGENT: Okay, let me check that address. 23910 Catawba Hill Drive. Could you please tell me the city and state for this address? <emotion value="peaceful"/>
+CALLER: Clarksburg, Maryland.
+AGENT: Okay, so I found the pickup address as two three nine one zero Catawba Hill Drive, Clarksburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One three five zero one Richard Farm Road.
+AGENT: Thank you. Could you please tell me the city and state for one three five zero one Richard Farm Road? <emotion value="peaceful"/>
+CALLER: Germantown, Maryland.
+AGENT: Okay, I found the dropoff address as one three five zero one Richter Farm Road, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Toya. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now.
+AGENT: Okay great! I've got your pickup time as right now, today at 3:06 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Yeah. So how much
+AGENT: The estimated fare for your main trip is $25.50. Now, could you please tell me how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. What pastor?
+AGENT: Hmm <break time="300ms"/> sorry, I didn't quite catch that. Could you please tell me how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: One and no.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 25.5, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. No.
+AGENT: Okay, I understand you do not want to schedule a return trip. I will proceed with booking your main trip now. Just to confirm, should I go ahead and book it? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so <break time="250ms"/> I'm booking your trip now.
+AGENT: I'm processing your booking now. Please hold on a moment.
+CALLER: Please hold on a moment.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 4 4 9 2. Your pickup is today at 3:06 AM. Is there anything else I can help you with?
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 4 4 9 2. Your pickup is today at 3:06 AM. Is there anything else I can help you with?
+CALLER: I'm booking a trip. I'm processing your booking Your room should Tier one four four nine two. Six.
+AGENT: I understand you're booking a trip and mentioned a confirmation number. Just to clarify, your current confirmed trip has the number 2 1 3 6 7 4 4 9 2. Is there anything else you'd like me to assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Toya. Have

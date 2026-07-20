@@ -1,0 +1,9 @@
+AGENT: Hi Jon, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Actually, we want to cab number 355. To pick up from 12210 Palm Orchard Drive, Silver Spring, to the Homey Crest one four five one four Homey Crest Road, 20906 Silver Spring.
+AGENT: Thank you for sharing your pickup and dropoff addresses. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Medicaid medicaid. No. Medicaid. Overreturn. Already, we came with the to this add this address. And we want to go back at 02:00, two 02:15, whatever. Like that. And taxi cab, three five five.
+AGENT: I appreciate you letting me know about Medicaid, but on this line, we only accept cash, credit card, and Call and Ride for payment. Would you like to use one of those methods instead? Also, I got that you want a return trip around 2:00 or 2:15 pm from the same address.
+CALLER: Give me a representative represent
+AGENT: I can help with your payment details if you'd like — shall we continue?
+CALLER: no. I want representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

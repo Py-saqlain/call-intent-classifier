@@ -1,0 +1,22 @@
+AGENT: Hi Veronica, this is Ana with Barwood & Regency. Your trip is scheduled for pickup today at 4:35 PM. How can I assist you today?
+CALLER: Oh, what kind of that? Booking taxi.
+AGENT: I can help you book a taxi. Could you please tell me where you would like to be picked up from?
+CALLER: 8787 Road. Chevy Chase.
+AGENT: Thank you. Just to confirm, is your pickup address 8 7 8 7 Road, Chevy Chase, Maryland? Also, could you please tell me your destination?
+CALLER: Maryland.
+AGENT: I want to make sure I have your destination right. You said Maryland—is there a specific street address or place in Maryland where you'd like to go?
+CALLER: 8700 Jonesville Road.
+AGENT: Thank you for that. Just to confirm, your destination is 8 7 0 0 Jonesville Road, Maryland, correct? Also, when would you like to be picked up?
+CALLER: 8700 Jonesdale Road, Yes.
+AGENT: Thanks for confirming your destination as 8 7 0 0 Jonesdale Road, Maryland. When would you like your pickup?
+CALLER: Yeah.
+AGENT: Could you please tell me the pickup time you'd like for your ride?
+CALLER: No.
+AGENT: Just to clarify, would you like the pickup to be as soon as possible, or do you have a specific time in mind for your ride?
+CALLER: Yeah.
+AGENT: You already have a trip from Chevy Chase to Washington scheduled for today at 4:35 pm. What would you like to do next?
+CALLER: Book the book the ride home. I've been waiting for a cab for how long.
+AGENT: I understand you're waiting for a cab and want to book a ride home. Let me connect you with a representative who can assist you right away.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Okay.
+CALLER: Yes.

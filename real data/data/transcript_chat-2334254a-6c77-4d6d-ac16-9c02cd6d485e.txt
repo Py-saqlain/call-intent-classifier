@@ -1,0 +1,40 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Andrean.
+AGENT: Thanks, Andrean. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a ride.
+AGENT: Alright, Andrean, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Andrean, could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Two two five zero zero Fitzgerald Drive. Do you know if anyone's in there going in Gaithersburg? Do you know if anyone in there is going to Gaithersburg, like, driving Gaithersburg? It's it's really hard to get a Uber pass around. Yeah. Yeah. Yeah.
+AGENT: Thank you for the address, Andrean. Just to confirm, is your pickup location 2 2 5 0 0 Fitzgerald Drive? And is that in Gaithersburg, Maryland? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, Andrean, I have 2 2 5 0 0 Fitzgerald Drive, Gaithersburg, Maryland as your pickup address. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 19717 Green Village Drive, Montgomery Village. Maryland.
+AGENT: Thank you, Andrean. Just to confirm, is your dropoff location 1 9 7 1 7 Green Village Drive, Montgomery Village, Maryland? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmm <break time="350ms"/> let me check that address. I wasn't able to locate 1 9 7 1 7 Green Village Drive, Montgomery Village, Maryland. Could you please confirm the street number and spelling, or provide a nearby landmark or cross street? <emotion value="apologetic"/>
+CALLER: Stewart Town Road.
+AGENT: Thank you. Could you please provide the street number for Stewart Town Road? If you don't know it, just let me know. <emotion value="peaceful"/>
+CALLER: I don't know it.
+AGENT: I found a few locations. <break time="700ms"/> Option one: 1 9 7 0 0 Goshen Road, Gaithersburg. <break time="500ms"/> Option two: Stewart Town, Maryland 2 0 8 7 9. <break time="500ms"/> Which one is correct? <emotion value="hesitant"/>
+CALLER: Option one.
+AGENT: Your dropoff address has been verified, Andrean.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now.
+AGENT: Okay, I've got your pickup time as right now. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One. One
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. Will you be needing a wheelchair accessible vehicle? <emotion value="hesitant"/>
+CALLER: No. One
+AGENT: Okay great! <emotion value="grateful"/> I've got that noted. Do you have any special instructions or information for the driver?
+CALLER: No. No.
+AGENT: Alright, the estimated fare is 21.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 1:39 AM. Your confirmation number is 2 1 3 6 7 4 4 9 0. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Andrean. Have a wonderful day!
+CALLER: Then I heard
+AGENT: I’m here to help. Could

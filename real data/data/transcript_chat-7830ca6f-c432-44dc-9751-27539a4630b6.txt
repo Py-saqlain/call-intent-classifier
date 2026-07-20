@@ -1,0 +1,28 @@
+AGENT: Hello, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to order a cab.
+AGENT: Thank you for choosing us for your ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Thirty six zero three Gleneagles Drive, apartment two c, Silver Spring, Maryland.
+AGENT: I have the pickup address as three six zero three Gleneagles Drive, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Ninety eight zero two Georgia Avenue, Silver Spring.
+AGENT: I have the dropoff address as nine eight zero two Georgia Avenue, Silver Spring, Maryland, apartment number 26 dash 302. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Mr. Barnhart. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: Thanks, I've noted your pickup time as now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger No accommodation.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 22 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now?
+CALLER: Yes.
+AGENT: Thank you, I am booking your trip now.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 9 6 0 5. Your pickup is today at 2:42 PM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, BARNHART. Have a great day!

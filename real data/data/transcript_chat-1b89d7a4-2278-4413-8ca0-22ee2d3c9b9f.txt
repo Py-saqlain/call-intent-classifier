@@ -1,0 +1,27 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Robert one.
+AGENT: Thanks, Robert. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: We're trying to catch a cab from one eight eight one eight seven row to to to to Brook Parkway. Well, actually, Brook Mall. Where the Giant is.
+AGENT: Thank you for sharing your pickup and dropoff locations. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Dash. Dash. Dash
+AGENT: I want to make sure I understand you correctly. Did you mean to say cash as your payment method?
+CALLER: Mhmm. Yes.
+AGENT: Thank you, Robert. Your payment method is set to cash. I’m moving forward with your booking now.
+AGENT: I wasn't able to find an address matching "1 8 8 1 8 7 Row." Could you please provide the full street name or a nearby landmark or cross street to help me locate your pickup address?
+CALLER: I see. Okay. One eight eight one eight seven, s e r b e n road.
+AGENT: I couldn't find an address for one eight eight one eight seven Serben Road. Could you please provide the city and state for that address?
+CALLER: Okay. Thank you. They truck on here.
+AGENT: I want to make sure I understand you correctly. Did you say "They truck on here"? Could you please
+CALLER: Mm-mm.
+AGENT: Could you please clarify
+CALLER: Mm-mm. It's saying that they can't locate this address here. Hang on.
+AGENT: Take your time, Robert. Whenever you're ready, please provide the full pickup address including the street number, street name, city, and state so I can assist you better.
+CALLER: Alright. Wednesday. Seven one eight. Brooks Drive, Florence two one nine Georgia, Maryland two zero seven four seven.
+AGENT: Thank you for the address. Just to confirm, your pickup address is seven one eight Brooks Drive, Florence, Maryland. Is that correct?
+CALLER: That's correct.
+AGENT: I couldn't find an address for seven one eight
+CALLER: 05:00 on me.
+AGENT: I want to make sure I understand you correctly. Are you trying to say 5:00 as the pickup time?
+CALLER: Yes.
+AGENT: I still can't find seven one eight Brooks Drive in Florence, Maryland. Could you please confirm the city and
+CALLER: Okay.

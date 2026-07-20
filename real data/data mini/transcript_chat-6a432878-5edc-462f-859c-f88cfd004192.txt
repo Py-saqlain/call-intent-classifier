@@ -1,0 +1,23 @@
+AGENT: Hello Christine, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Make a reservation for this morning.
+AGENT: Alright, how would you like to pay for your ride this morning? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Colon rise.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Go on. Three two seven three zero one.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Where would you like to be picked up this morning? <emotion value="peaceful"/>
+CALLER: One two four hundred five Potomac Avenue, Potomac, Maryland.
+AGENT: Hmm let me check that address. <emotion value="peaceful"/> I found a few locations. 
+ Option one: 7 0 0 Potomac Avenue, Hagerstown, Maryland. 
+ Option two: 1 2 4 0 5 Potomac Avenue, Potomac, Maryland. 
+Which one is correct? <emotion value="hesitant"/>
+Sorry, I made a mistake reading the options. Let me try again. <emotion value="apologetic"/> I found a few
+CALLER: None.
+AGENT: Uh, I am sorry, but could you please repeat the pickup address? <emotion value="apologetic"/>
+CALLER: 12400 Path Potomac Merritt. South Potomac Avenue, Maryland
+AGENT: I found a few locations. <break time="700ms"/> Option one: 1 2 4 3 0 Park Potomac Avenue, Potomac, Maryland. <break time="500ms"/> Option two: 1 2 4 0 0 Park Potomac Avenue, suite R-2, Potomac, Maryland. <break time="500ms"/> Option three: 9 6 0 0 Newbridge Drive, Potomac, Maryland. <break time="500ms"/> Option four: 1 7 0 0 Richmond Highway, Arlington, Virginia. <break time="500ms"/> Option five: 2 8 9 9 Richmond Highway, Arlington, Virginia. <break time="500ms"/> Which one is correct?
+CALLER: None of those.
+AGENT: Uh, I am sorry, but could you please repeat the pickup address? <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

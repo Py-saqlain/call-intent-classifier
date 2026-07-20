@@ -1,0 +1,46 @@
+AGENT: Hello Eva, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab
+AGENT: Thank you for reaching out. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Call it ride.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? If so, could you please provide the last
+CALLER: Yes.
+AGENT: Great! Could you please provide the last six digits of your Call and Ride card?
+CALLER: It's thirty seventy four seven seven.
+AGENT: Thank you, your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address
+CALLER: Thank you.
+AGENT: You're welcome. Could you please provide the
+CALLER: One eight
+AGENT: I heard "one eight." Could you please provide the full street number and street name for your pickup address?
+CALLER: one
+AGENT: Could you please provide the full street number
+CALLER: One eight
+AGENT: Could you please provide the full street number and street name for your pickup address?
+CALLER: 62 Bent Willow Circle.
+AGENT: I couldn't find an exact match for 62 Bent Willow Circle. However, I found a location at 209 Monroe Street, Rockville, Maryland 20850. Is that the correct pickup
+CALLER: No. No. No. It's one eight eight six two Bent Willow Circle, Germantown.
+AGENT: I have 1 8 8 6 2 Bent Willow Circle, Germantown, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. It's two zero zero two five Century Boulevard, Germantown, Maryland.
+AGENT: I have 2 0 0 2 5 Century Boulevard, Germantown, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Eva.
+AGENT: When would you like to be picked up?
+CALLER: By two thirty. Two o'clock. 02:00.
+AGENT: Just to confirm, you would like to be
+CALLER: 02:00.
+AGENT: Just to confirm, you would like to be picked up at 2:00 PM today? Please say yes to confirm or provide a different time.
+CALLER: Yes.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. Just myself.
+AGENT: Thank you. Will you have any special instructions or notes for the driver?
+CALLER: Just the call when he pull up.
+AGENT: Eva, the estimated fare for your trip is 9.5 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+CALLER: Thank you.
+AGENT: Your main trip is scheduled for today at 2:00 PM. The confirmation number is 2 1 3 6 6 4 6 8 5. Is there anything else I can help you with?
+CALLER: No. Thank you. Have a good day.
+AGENT: Thank you for calling Barwood & Regency, Eva. Have a wonderful day.
+CALLER: You too. Thank you.

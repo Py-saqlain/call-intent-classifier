@@ -1,0 +1,13 @@
+AGENT: Hi Joan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to pick up at forty one ten Road. Probably in the
+AGENT: Uhh, I want to make sure I got that right. Did you mean 4 1 1 0 Road for your pickup address? And could you please tell me the full street name and city? Also, when were you thinking about the pickup time? <emotion value="hesitant"/>
+CALLER: Yeah. It it it is is is he still
+AGENT: Could you please clarify your pickup address and the time you want to be picked up? I'm here to help you get your ride scheduled. <emotion value="peaceful"/>
+CALLER: Not now.
+AGENT: Alright, so you want to schedule a pickup at 4 1 1 0 Road for a later time, not right now. Could you please tell me when you'd like the pickup? <emotion value="peaceful"/>
+CALLER: Right right now.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Medicare.
+AGENT: We only accept cash, credit card, and Call and Ride for payment. Would you like to use one of these options, or would you like me to connect you to a live agent who can assist with other payment methods? <emotion value="hesitant"/>
+CALLER: Central line agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

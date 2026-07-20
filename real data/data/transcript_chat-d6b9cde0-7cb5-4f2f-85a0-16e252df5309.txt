@@ -1,0 +1,12 @@
+AGENT: Hello Nelson, this is Ana from Barwood & Regency. Your ride with vehicle 1027 is scheduled to arrive by 5:40, about 15 minutes from now. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+CALLER: Hello? Hello?
+AGENT: Yes, I'm here. How can I assist you with your ride today?
+CALLER: Hello. Hello?
+AGENT: How can I assist you with your ride today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello? Hello?
+AGENT: Yes, I'm here. How can I assist you with your ride today?
+CALLER: Hello?
+AGENT: How can I assist you with your ride today?

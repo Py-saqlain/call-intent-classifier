@@ -1,0 +1,33 @@
+AGENT: Hello Tony, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need you to pick up Robert from four ten Hungerford Drive. Two zero eight five zero. Rockville.
+AGENT: Thank you for the details. How would you like to pay for this ride? We accept cash, credit card, and
+CALLER: Cash.
+AGENT: Thank you, cash is all set for your ride.
+AGENT: I have 4 1 0 Hungerford Drive, Rockville, Maryland as the pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One four six four three Bauer Drive.
+AGENT: Could you please tell me the city and state for one four six four three Bauer Drive?
+CALLER: Rockville two two zero eight five three.
+AGENT: Thank you. Just to confirm, your dropoff address is one four six four three Bauer Drive, Rockville, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: I have one four six four three Bauer Drive, Rockville, Maryland as the dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Tony. I will now proceed with your booking.
+AGENT: When would you like Robert to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No. One person Robert.
+AGENT: Thank you. Will you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your ride is 11.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking your one-way trip now.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled
+CALLER: Thank you.
+AGENT: You're welcome. Is there anything else I can help you with?
+CALLER: So how long? How long is the wait?
+AGENT: I'll connect you with a representative who can provide the estimated wait time.
+CALLER: Thank you.
+AGENT: Thank you for calling Barwood & Regency, Tony. Have a wonderful day.

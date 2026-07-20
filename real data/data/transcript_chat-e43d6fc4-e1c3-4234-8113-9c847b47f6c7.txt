@@ -1,0 +1,22 @@
+AGENT: Hello, Madonna. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi. I'm over at six five five.
+AGENT: Thank you for letting me know your location at six five five. How would you like to pay for your ride today?
+CALLER: Vaccine, please. I'm gonna pay cash. Cash. I'm gonna pay cash.
+AGENT: Thank you for choosing cash as your payment method.
+AGENT: I found a few addresses for six five five. There's six five five Bell Court
+CALLER: And I'm going to two for Lee Street.
+AGENT: Just to confirm, your pickup address is six five five Bell Court, Woodsboro, Maryland. Is that
+CALLER: No. No. No. Listen to me. Listen to me. Listen to me. It's 655 Watkinsville Road. 655 Watkins Mill Road. I don't know DC. I don't live in DC. I live in. Six five five Watkins New Road, Gaithersburg, Maryland. To do a seven nine.
+AGENT: Just to confirm, your pickup address is six five five Watkins Mill Road, Gaithersburg, Maryland. Is that correct?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready I'm ready to go. And I'm going to I'm ready to go now.
+AGENT: Thank you for confirming your pickup at six five five Watkins Mill Road, Gaithersburg, Maryland. Now, could you please provide the destination or dropoff address?
+CALLER: Two zero four two zero four. Two zero four Lee Street, Gazingburg, Maryland. Two zero eight seven seven.
+AGENT: Just to confirm, your dropoff address is two zero four Lee Street, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes, please.
+AGENT: Your pickup address has been verified. Now, could you please confirm the dropoff address again for me?
+CALLER: Okay. My address is 655 Rockinsley Road, my pickup area. 655 Rockins Mill Road, Gasteisburg, Maryland. 23879.
+AGENT: I understand you mentioned 655 Rockinsley Road, but just to confirm, is your pickup address six five five Watkins Mill Road, Gaithersburg, Maryland, or did you want to update it to 655 Rockinsley Road?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Yes. It's 655 Walkins Mill Road. I need to be picked up from six five five.
+AGENT: Your

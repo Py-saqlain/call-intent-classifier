@@ -1,0 +1,23 @@
+AGENT: Hi Tracy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Oh, yes. Could I have a cab pick me up at 10:00?
+AGENT: I can help with that 10:00 pickup. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Okay. It Colorado. Call arrive.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero zero eight seven seven five six.
+AGENT: It looks like the number you gave has seven digits. Could you please provide exactly the last six digits of your Call and Ride card?
+CALLER: What is it? Keep keep me confused. Zero eight seven seven five six.
+AGENT: Thank you for providing the digits. Your payment method is set to Call and Ride.
+AGENT: Thank you for confirming your payment. Now, could you please tell me the pickup address for your ride?
+CALLER: Yes. Twelve thousand I mean, twenty one thousand Father Hurley Boulevard, Germantown, Maryland.
+AGENT: I have 2 1 0 0 0 Father Hurley Boulevard, Germantown, Maryland as your pickup address. Is that correct?
+CALLER: Yeah. Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. One nine seven eight one nine seven.
+AGENT: Could you please clarify if that is a street number or part of the address? Also, if you could provide the street name and city or area, that would help me find the correct destination for you.
+CALLER: of Oh, okay. Okay. One nine seven eight five
+AGENT: Thank you. Could you please provide the full dropoff address including the street name and city or area? This will help me locate it accurately.
+CALLER: Yes. Oh, shit. What is the name of that day of shoot. Damn.
+AGENT: No worries, take your time. If you remember any part of the address, street name, or nearby landmarks, just let me know and I'll help find it for you.
+CALLER: Alright. Thank you. I'll call you back in a few minutes.

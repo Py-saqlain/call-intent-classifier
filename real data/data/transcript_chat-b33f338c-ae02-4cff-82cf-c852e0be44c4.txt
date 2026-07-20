@@ -1,0 +1,32 @@
+AGENT: Hello zyara, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Transportation, please.
+AGENT: Okay, I can help with transportation. Could you please tell me where you would like to be picked up from? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Where would you like to be picked up from? <emotion value="peaceful"/>
+CALLER: 4113 Postgate Terrace, South Spring, Maryland 20906.
+AGENT: Okay, so I found 4 1 1 3 Postgate Terrace in Aspen Hill, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Where would you like to go? <emotion value="peaceful"/>
+CALLER: 14518. So it's 209. So it's
+AGENT: Uh, I am sorry, but could you please repeat the full address for your destination? <emotion value="peaceful"/>
+CALLER: Yes. One 4518. Benco Terrace. Silver Spring, Maryland two zero nine zero six.
+AGENT: Hmm, let me check that address. Did you mean 1 4 5 1 8 Banquo Terrace, Silver Spring, Maryland? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yeah. Yeah. I'm ready.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now.
+AGENT: Okay great! I've got your pickup time as today at 9:14 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Great! How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No one's two.
+AGENT: Okay great! I've got 2 passengers and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, so let me confirm those details. Your pickup is 4 1 1 3 Postgate Terrace. Your dropoff is 1 4 5 1 8 Banquo Terrace. Pickup time is today at 9:14 AM. You have 2 passengers traveling, and a wheelchair-accessible vehicle is needed. The estimated fare is 7.5 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 0 4 6 2. Your pickup is today at 9:14 AM. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, zyara. Have a wonderful day!

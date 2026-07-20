@@ -1,0 +1,42 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Reed Rigsby.
+AGENT: Thanks, Reed. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I'm trying to call a cab for my mom
+AGENT: Okay, I can help with that. Could you please tell me the pickup address where your mom will be, and where she needs to go?
+CALLER: She's at BrightView Assisted Living. At five five one zero Grozner Lane, Bethesda.
+AGENT: Thank you. And where would your mom like to go from BrightView Assisted Living at 5 5 1 0 Grozner Lane, Bethesda?
+CALLER: To 9113 Belmont Road, Potomac, Maryland.
+AGENT: Got it. When would your mom need the pickup from BrightView Assisted Living at 5 5 1 0 Grozner Lane, Bethesda to 9 1 1 3 Belmont Road, Potomac, Maryland?
+CALLER: It's Belmart Road, not Belmont Road.
+AGENT: Thank you for the correction. So the destination is 9 1 1 3 Belmart Road, Potomac, Maryland. When would your mom need the pickup from BrightView Assisted Living at 5 5 1 0 Grozner Lane, Bethesda?
+CALLER: As soon as possible.
+AGENT: Alright, how would you like to pay for this ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: She has a credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so I have your pickup as Brightview Assisted Living, 8, Lee Airpark Drive, Village at Lee Airpark, Chestnut Hills, Edgewater, Anne Arundel County, Maryland, and your dropoff as 9 1 1 3 Belmart Road, Potomac, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. Grocer assisted living five five one o I'm sorry. BrightView
+AGENT: Thank you for clarifying. So the pickup is BrightView Assisted Living at 5 5 1 0 Grozner Lane, Bethesda, Maryland. Is that correct? <emotion value="apologetic"/>
+AGENT: Okay, I found Brightview Assisted Living at 8 Lee Airpark Drive, Village at Lee Airpark, Chestnut Hills, Edgewater, Ellicott City, Maryland. Is that the correct pickup address? <emotion value="hesitant"/>
+CALLER: Assisted Living, Grosner 5510 Grosner Lane. Yes.
+AGENT: Okay, I found 5 5 1 0 Grosvenor Lane, Bethesda, Maryland. Is that the correct pickup address? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified, Mr. Reed. I will now proceed with arranging your trip.
+AGENT: You mentioned you would like the pickup as soon as possible. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including your mom? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just one person.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: and she has a walker
+AGENT: Alright, the estimated fare is 23.5 dollars, paying with Self. I noted one passenger with a walker needing wheelchair assistance. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: She has a walker It's not a a wheelchair.
+AGENT: Thank you for clarifying that she uses a walker and does not need a wheelchair-accessible vehicle. Would you still like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, I will skip the return trip. Should I go ahead and book your ride now? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay, so booking your ride now. <emotion value="grateful"/>
+AGENT: Thank you for waiting. I'm booking your ride now.
+AGENT: Your main trip is scheduled for today at 3:40 PM. Your confirmation number is 2 1 3 6 7 4 3 0 0. Is there anything else I can help you with?
+CALLER: That's it.
+AGENT: Thank you for calling Barwood & Regency, Reed. Have a wonderful day!
+CALLER: Thanks. Bye.
+AGENT: Thank you for calling

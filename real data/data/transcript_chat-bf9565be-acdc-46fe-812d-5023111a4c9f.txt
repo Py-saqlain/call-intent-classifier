@@ -1,0 +1,40 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Please I don't use it every day. Hi, patient's name is Ruby Hatfield.
+AGENT: Thank you, Ruby. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Taxi.
+AGENT: I can help you book a taxi. Could you please tell me the pickup address?
+CALLER: 9901 Medical Center Drive, Rockville, Maryland.
+AGENT: Thank you for the pickup address at 9 9 0 1 Medical Center Drive in Rockville, Maryland. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: I have 9 9 0 1 Medical Center Drive, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Hold on. Okay. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Two seventeen booth Street.
+AGENT: Thank you. Just to confirm, is your dropoff address 2 1 7 Booth Street?
+CALLER: Two one seven Booth Street. Easy. Yes.
+AGENT: I have 2 1 7 Booth Street, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Ruby. I will now proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: No.
+AGENT: Just to clarify, did you mean you want to be picked up right now, or would you prefer to schedule a will-call trip to call back later?
+CALLER: Yes. Yes. Now.
+AGENT: Thank you, I have scheduled your pickup for right now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One and no accessible.
+AGENT: Thank you for letting me know there is one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 12 dollars, paying with credit card. Would you like to schedule a return trip as well?
+CALLER: Twelve dollars. No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 5:15 pm. Your confirmation number is 2 1 3 6 7 9 7 7 3. Is there anything else I can assist you with?
+CALLER: Hey, cash.
+AGENT: I see you want to pay with cash instead. Let me update that for you. Please hold on a moment.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Ready
+AGENT: Perfect, your driver is on the way and you'll be all set shortly. If you need anything else, just let me know.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Very confusing.
+AGENT: I understand this can feel a bit confusing. Let me help you clearly. You have a taxi booked from 9 9 0 1 Medical Center Drive in Rockville, Maryland, for today at 5:15 pm, and you will be paying with cash. If you'd like, I can assist you further or clarify anything else. What would you like to do next?
+CALLER: Done.
+AGENT: Thank you for calling Barwood & Regency, Ruby. Have a wonderful day!

@@ -1,0 +1,22 @@
+CALLER: Hello? Hello? Hello? Yeah. Hey.
+AGENT: How can I assist you with your ride today?
+CALLER: You hear me? Hey, girl. Can can you pick me up?
+AGENT: Yes, I hear you! To get started with your ride, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: Dollar bills, cash,
+AGENT: Thank you for letting me know you'll be paying with cash.
+AGENT: Could you please tell me the address where you'd like to be picked up?
+CALLER: Yeah. Can you pick me up over at two eight zero one East Franklin Street, Richmond, Virginia.
+AGENT: I have the pickup address as two eight zero one East Franklin Street, Richmond, Virginia. Is that correct?
+CALLER: Yes, ma'am.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yeah. I wanna go over wanna go over to one seven one Maltry Street, Charleston, South Carolina.
+AGENT: The dropoff address at one seven one Moultrie Street, Charleston, South Carolina is outside our service area. Could you please provide a different destination address within our service area?
+CALLER: How about 1302 Benning Street, Charleston, South Carolina.
+AGENT: I couldn't locate 1302 Benning Street, Charleston, South Carolina. Could you please confirm the full street address, city, and state again?
+CALLER: Yeah. 1302 Meeting Street South. Meeting Street, Charleston, South Carolina.
+AGENT: The address at 1302 Meeting Street, Charleston, South Carolina is also outside our service area. Could you please provide a different destination address within our service area?
+CALLER: Okay. Let me try let's go over to s reject s reject.
+AGENT: The address you provided is outside our
+CALLER: Yeah.
+AGENT: I
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a

@@ -1,0 +1,5 @@
+AGENT: Hi Shante, this is Ana from Barwood & Regency. Your trip is scheduled for pickup today at 10:36 AM. How can I assist you today?
+CALLER: I don't want to feel my wife is here.
+AGENT: I'm here to help with your transportation needs. Could you please tell me how I can assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: How long in my ride gets here?

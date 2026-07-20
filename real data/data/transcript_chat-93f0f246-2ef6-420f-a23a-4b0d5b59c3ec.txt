@@ -1,0 +1,52 @@
+AGENT: Hi Jiqing, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a book a text. Please.
+AGENT: I can help you with booking a ride. Could you please tell me where you would like to be picked up from?
+CALLER: You want I give you that the address of my pickup?
+AGENT: Yes, please. Could you provide the address where you'd like to be picked up?
+CALLER: What's the question?
+AGENT: Could you please tell me the address where you want the driver to pick you up?
+CALLER: One
+CALLER: one seven zero six zero king m Way.
+AGENT: Thank you for the pickup address at one seven zero six zero Kingman Way. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call on the right.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Three five one. Two zero two.
+AGENT: Thank you, your payment with Call and Ride is all set.
+AGENT: I have 1 7 0 6 0 King James Way, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Six zero two. Queens Archer Road.
+AGENT: Thank you for the dropoff address at six zero two Queens Archer Road. Let me check that for you.
+AGENT: I have 6 0 2 Queensgate Road, Baltimore, Maryland as your dropoff address. Is that correct?
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide the correct dropoff address again?
+CALLER: Six zero two. Queen archer. Road, is the gate of
+AGENT: It sounds like you are saying six zero two Queen Archer Road, but the system found Queensgate Road. Could you please clarify if the dropoff is Queen Archer Road or Queensgate Road, or provide any additional details to help me find the correct address?
+CALLER: Prince Arturo,
+AGENT: Thank you for that detail. To make sure I get the correct dropoff address, could you please provide the full street address including the street
+CALLER: o r c h a r d.
+AGENT: Thank you. Just to confirm, is the dropoff address six zero two Queen Archer Road, Prince Orchard? Could you please confirm or provide any additional details?
+CALLER: It's LA Fitness. It's six zero two Queens Arch Road, in the gates
+AGENT: I found LA Fitness at 6 0 2 Quince Orchard Road, Gaithersburg, Maryland. Is that the correct dropoff location?
+CALLER: Yep. Yeah. Yes. Thank you. Yes.
+AGENT: Your dropoff address has been verified, Jiqing.
+AGENT: When would you like to be picked up?
+CALLER: I wanna pick up in the 09:45.
+AGENT: Just to confirm, you want to be picked up today at 9:45 AM, correct?
+CALLER: Yes. Thank you.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: That's one person.
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle?
+CALLER: No. No. Thank you.
+AGENT: Do you have any special instructions or information for the driver?
+CALLER: No. Nothing. Thank you.
+AGENT: The estimated fare for your trip is 8.5 dollars, and you will be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: I will call you later. Thank you.
+AGENT: Your return trip will be set as will-call, with pickup at 602 Quince Orchard Road and dropoff at 17060 King James Way. The fare will be 8.5 dollars, paying with your Call and Ride account. Should I go ahead and book both trips?
+CALLER: But I don't know when it's exactly I I can it's like a like a coming back. So I don't know the time. So please alright. No no I call you later. Please.
+AGENT: Just to clarify, you want the return trip to be will-call, so you can call us when you're ready for the ride back, correct?
+CALLER: I don't know what time I'm I'm ready to back. Yes. Thank you.
+AGENT: Thank you for confirming. I am processing your main trip and will-call return trip now. Please hold for a moment.
+AGENT: Your main trip is scheduled for today at 9:45 AM with confirmation number 2 1 3 6 6 6 7 7 3. Your return trip is a will-call booking with confirmation number 2 1 3 6 6 6 7 7 4. You can call us when you're ready for the return ride, and a driver will be dispatched then. Is there anything else I can help you with?
+CALLER: Oh, thank you so much. I appreciate. Your night. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Jiqing. Have a wonderful day!

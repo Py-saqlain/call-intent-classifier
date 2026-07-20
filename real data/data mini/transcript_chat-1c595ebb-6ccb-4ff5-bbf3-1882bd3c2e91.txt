@@ -1,0 +1,16 @@
+AGENT: Hello Dr, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: And I need a taxi to pick me up from four twenty one Twinbrook Parkway, No. 423 Twinbrook Parkway.
+AGENT: Thank you for sharing your pickup address at 4 2 1 Twinbrook Parkway. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: And take me to fifteen five zero oh, four two three.
+AGENT: Thanks for letting me know your destination is 1 5 5 0 0 4 2 3. Could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Ma'am, it's four two three. Ma'am, you're not listening to what I'm saying.
+AGENT: I’m sorry for any confusion. I want to make sure I get everything right. You said your destination is 4 2 3, correct? Now, could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Ma'am, you're not listening to what I'm telling you. No. Yeah. Four two three. Cash.
+AGENT: Thank you for confirming cash as your payment method.
+AGENT: I have 4 2 1 Twinbrook Parkway, Rockville, Maryland for your pickup, and 4 2 3 Dover Road, Rockville, Maryland for your dropoff. Is that correct?
+CALLER: take me to fifteen five zero No. 423. No. No. No. You got it all wrong. No. You got it wrong, ma'am. You have it wrong. Incorrect,
+AGENT: Thank you for letting me know there is an issue with the dropoff address. Could you please provide the full correct dropoff address again?
+CALLER: It's it's ma'am, I need you to text me pick me up at four twenty three. Twenty ten twin Twin Brook Parkway 423.
+AGENT: Just to confirm, your pickup address is 4 2 3 2 0 1 0 Twinbrook Parkway, Rockville, Maryland, correct?
+CALLER: No. No. No. No. No. That's not correct, ma'am.
+AGENT: Thank you for clarifying. Could you please say the full pickup

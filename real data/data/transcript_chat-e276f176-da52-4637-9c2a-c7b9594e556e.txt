@@ -1,0 +1,38 @@
+AGENT: Hello Cynthia, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Um, I'm trying to make an appointment for Monday, July 13.
+AGENT: Okay, I can help with that. Are you looking to book a ride for Monday, July 13? If so, could you please tell me the pickup location and your destination?
+CALLER: Yeah. The pickup location will be one zero nine zero one Amherst Avenue, apartment one twenty one, Silver Spring, Missouri.
+AGENT: Umm, just to confirm, you said the pickup address is 1 0 9 0 1 Amherst Avenue, apartment 1 2 1, Silver Spring, Missouri? I want to make sure about the state since Silver Spring is usually in Maryland. Could you please confirm the state for me? <emotion value="hesitant"/>
+CALLER: Marinara.
+AGENT: Alright, so the pickup address is 1 0 9 0 1 Amherst Avenue, apartment 1 2 1, Silver Spring, Maryland. Is that correct? And could you please tell me the destination address? <emotion value="grateful"/>
+CALLER: Yes. That destination address is thirteen nineteen Apple Avenue, suite h two hundred, silver spring
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cool. Call and ride.
+AGENT: Great, you mentioned Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Alright. Hold on for me.
+AGENT: Take your time. Just let me know the last six digits of your Call and Ride card when you're ready. <emotion value="peaceful"/>
+CALLER: Okay. Okay.
+AGENT: Hmmm.. that didn't seem like six digits. Could you please say the last six digits of your Call and Ride card again? <emotion value="apologetic"/>
+CALLER: Hold on a minute.
+AGENT: No problem, take your time. Just let me know the last six digits when you're ready. <emotion value="peaceful"/>
+CALLER: Zero No. I'm sorry. Three five zero zero nine seven.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Okay, I have confirmed your dropoff address as 1319 Apple Avenue, Silver Spring, Maryland.
+CALLER: I need the cat to pick me up.
+AGENT: Uh, I am sorry, but could you please repeat your pickup address with the street name and city? <emotion value="apologetic"/>
+CALLER: I just gave it to you.
+AGENT: I understand you mentioned 10901 Amherst Avenue apartment 121 Silver Spring Maryland, but that address could not be located. Could you please confirm or provide the full pickup address again, including the street number, street name,
+CALLER: Yes.
+CALLER: One zero nine zero one Amherst Avenue, apartment one two one, silver spring
+AGENT: Okay, so I have your pickup as one zero nine zero one Amherst Avenue, apartment one two one, Silver Spring, Maryland. Let me check that address. <emotion value="peaceful"/>
+AGENT: I'm sorry, but I couldn't locate one zero nine zero one Amherst Avenue, apartment one two one, Silver Spring, Maryland. Could you please provide the full street address including the city and state again? <emotion value="apologetic"/>
+CALLER: One zero nine zero one Amherst Avenue, Silver Spring, Maryland, apartment one two one.
+AGENT: I'm still unable to locate one zero nine zero one Amherst Avenue, Silver Spring, Maryland. Could you please confirm if the street name or number might be different, or provide any nearby landmarks or cross streets? <emotion value="apologetic"/>
+CALLER: Midorford, Georgia Avenue, right across from the Best Buy.
+AGENT: Thank you for that information. Let me search for addresses on Midorford, Georgia Avenue near Best Buy. <emotion value="peaceful"/>
+AGENT: I found Best Buy at one zero nine zero one Georgia Avenue, Wheaton, Maryland, two zero nine zero two. Is that the correct pickup location? <emotion value="hesitant"/>
+CALLER: No. The pickup location is one zero nine zero one Amherst Avenue, Wheaton Merlin, I mean, Silver Spring Merlin, Apartment 121. It's across from the Best Buy. Right across from the Best Buy.
+AGENT: Thank you for clarifying. Since the address you gave earlier could not be found, and you mentioned it is across from Best Buy, I will note that as a landmark. Let me try searching for Amherst Avenue near Best Buy in Silver Spring. <emotion value="peaceful"/>
+AGENT: I found Amherst Gardens at one one four four zero Amherst Avenue, Silver Spring, Maryland, two zero nine zero two. Is that the correct pickup location? <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Thank you.

@@ -1,0 +1,19 @@
+AGENT: Hello, Andre. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm trying to catch a cab from here to your house. Rockville turnway station.
+CALLER: To six availing to me four 68 boy sixty eight thirty four, car car lane
+AGENT: Just to make sure I have it right, you want a ride from Rockville Turnpike Station to 6 4 6 8 3 4 Car Car Lane? Could you please confirm? Also, do you want to pay with cash, card, or another method?
+CALLER: No. That's another one. I won't get to you again.
+AGENT: I want to make sure I understand correctly. Are you saying you want a ride
+CALLER: I won't go to
+AGENT: Could you please clarify your pickup location and your destination? That way I can assist you with booking your ride.
+CALLER: been going at Rockville Subway Station.
+AGENT: Thank you for clarifying. So your pickup location is Rockville Subway Station. Could you please tell
+CALLER: So being off that
+AGENT: I want to make sure I understand your destination correctly. Could you please say the address or place you want to go to from Rockville Subway Station?
+CALLER: Oh, oh, and where is
+AGENT: It sounds like you might be asking about the destination or where you want to go. Could you please tell me the address or place you want to be dropped off at?
+CALLER: Speak no hearing. For me,
+AGENT: I want to make sure I understand. Are you saying you have difficulty hearing and would like me to
+CALLER: seven
+AGENT: Could
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

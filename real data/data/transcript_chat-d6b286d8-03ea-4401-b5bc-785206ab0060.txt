@@ -1,0 +1,41 @@
+AGENT: Hi Veronica, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Tax, please.
+AGENT: Could you please clarify what you need help with regarding a taxi? Are you looking to book a ride, check on a current trip, or something else?
+CALLER: Book a ride.
+AGENT: How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: K. K. K.
+AGENT: I want to make sure I understand you correctly. Did you mean to say cash for your payment method?
+CALLER: Test.
+AGENT: I want to make sure I understand you correctly. Did you mean to say cash for your payment method?
+CALLER: Yes. Cash. Yes. Cash.
+AGENT: Thank you for confirming cash as your payment method.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 8700 Jones Mill Road, Chevy Chase, Maryland.
+AGENT: I have 8 7 0 0 Jones Mill Road, Chevy Chase, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: $31.45, Pleasant Street Northwest, Washington, DC.
+AGENT: Just to confirm, is your dropoff address 3 1 4 5 Pleasant Street Northwest, Washington, D C?
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide the correct dropoff address again?
+CALLER: 3145 Mount Pleasant Street Northwest, Washington DC.
+AGENT: I have 3 1 4 5 Mount Pleasant Street Northwest, Washington, District of Columbia as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Veronica. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: No.
+AGENT: Just to clarify, did you mean you want to be picked up right now, or would you prefer to schedule a will-call trip to call back later?
+CALLER: Yes. Now.
+AGENT: Thank you. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 20 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 4:35 PM. Your confirmation number is 2 1 3 6 7 9 7 0 8. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Veronica. Have a wonderful day.
+CALLER: You too.

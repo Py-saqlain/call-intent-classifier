@@ -1,0 +1,47 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Sarah Kaplan?
+CALLER: Yes.
+AGENT: Thanks, Sarah. This is Barwood & Regency. How can I assist you today?
+CALLER: I need to schedule a ride.
+AGENT: Thank you for letting me know, Sarah. How would you like to pay for
+CALLER: Using call and ride. It's yeah.
+AGENT: Thank you for choosing Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three four four six six zero.
+AGENT: Thank you, Sarah. Your payment with Call And Ride has been verified.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Q1 pre March hollow plates.
+AGENT: I couldn't find any location matching "Q1 pre March hollow plates." Could you please provide the full street address or a
+CALLER: Not what I said.
+AGENT: I'm sorry about that. Could you please say the pickup address again slowly or spell out any part that might be unclear?
+CALLER: Two
+AGENT: Thank you. Could you please tell me the
+CALLER: two one three Marsh, Hollow, place,
+AGENT: I have 2 1 3 Marsh Hollow Place, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: That is correct.
+CALLER: That is correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Eight seven one eight Delcris. Drive.
+AGENT: I have 8 7 1 8 Delcris Drive, Montgomery Village, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Sarah.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+CALLER: I would like to be notified the cab
+AGENT: How many passengers will be traveling, including yourself? Also, will you need a wheelchair-accessible vehicle?
+CALLER: passenger and no wheelchair.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: Please use the back parking lot.
+AGENT: The estimated fare for your trip is 22.5 dollars, paying with your Call And Ride card. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: Great, I will start collecting the details for your return trip.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Two pm
+AGENT: Just to confirm, you mean 2 PM for your return trip pickup time, correct?
+CALLER: Yes.
+AGENT: How many passengers will be traveling on your return trip, including yourself? Also, will you need a wheelchair-accessible vehicle?
+CALLER: One passenger. No wheelchair.
+AGENT: For your return trip, I have the pickup address as 8 7 1 8 Delcris Drive and the dropoff address as 2 1 3 Marsh Hollow Place. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 22.5 dollars, paying with your Call And Ride card. Should I go ahead and book both your main and return trips?
+CALLER: Yeah.
+AGENT: Thank you, Sarah. I am now booking both your main and return trips.
+AGENT: Your main trip is scheduled for today at 8:06 AM with confirmation number 2 1 3 6 8 0 3 3 7. Your return trip is scheduled for today at 2:00 PM with confirmation number 2 1 3 6 8 0 3 3 8. Is there anything else I can help you with?

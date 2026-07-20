@@ -1,0 +1,58 @@
+AGENT: Hello James, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi. We need a taxi at the Andrew Kim house. 2100 Olney standing road, in Olney, Maryland
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Thank you for that. Could you please provide the pickup address for your ride?
+CALLER: Two thousand one hundred Olney Sandy Spring Road. In Olney,
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is two one zero zero Olney Sandy Spring Road, Olney, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: It's correct.
+AGENT: I searched for Andrew Kim house but did not find any matching locations. Could you please provide a more specific address, landmark, or cross street for the dropoff?
+CALLER: Cross street is Old Vic Road.
+AGENT: Thank you. Let me look for Andrew Kim house near Old Vic Road. <emotion value="peaceful"/>
+AGENT: I still couldn't find Andrew Kim house near Old Vic Road. Could you please provide the full street address, city, and state for the dropoff location?
+CALLER: 2100 Olney Sandy Spring Road, It's near Good Council High School.
+AGENT: Okay, just to confirm, is your dropoff address 2100 Olney Sandy Spring Road, near Good Counsel High School? <emotion value="peaceful"/>
+CALLER: Yes. Where are you going?
+AGENT: Okay, so your dropoff address is two one zero zero Olney Sandy Spring Road, Olney, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No Pickup address is two one zero zero Olney Sandy Spring Road.
+AGENT: Thank you for clarifying. So your pickup address is two one zero zero Olney Sandy Spring Road, Olney, Maryland. Could you please provide the dropoff address? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Korean restaurant. Find that one. It's going to nearest Korean restaurant.
+AGENT: I found a few Korean restaurants nearby. 
+Option one: 2235 Bel Pre Road, Silver Spring. 
+Option two: 1314 East Gude Drive, Rockville. 
+Option three: 12337 Georgia Avenue, Silver Spring. 
+Option four: 1613 East Gude Drive, Rockville. 
+Option five: 2104 Veirs Mill Road, Rockville. 
+Which one would you like to go to? <emotion value="peaceful"/>
+CALLER: Okay. And four. Goody Road. Goody Drive.
+AGENT: Just to confirm, you want to go to 1613 East Gude Drive, Rockville, Maryland? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes. Yes. Woody Drive. Option 4.
+AGENT: Your dropoff address has been verified, James.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay, I've got your pickup time as today at 3:04 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One.
+AGENT: Thank you. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+AGENT: Thank you. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay,
+AGENT: Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No, ma'am, no wheelchair.
+AGENT: Okay great! I've got that noted. Do you have any special instructions for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 22 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Not yet.
+AGENT: Okay, I understand you don’t want a return trip right now. Would you like me to go ahead and book your ride to 1 6 1 3 E Gude Drive for today at 3:04 pm? <emotion value="peaceful"/>
+CALLER: Yes,
+AGENT: Okay so <break time="250ms"/> I'm booking your ride now.
+AGENT: Your ride is booked for today at 3:04 pm. Your confirmation number is 2 1 3 6 7 6 0 8 5. Is there anything else I can help you with?
+CALLER: I just want to verify the pickup address is twenty one hundred Olney Sandy Spring Road.
+AGENT: Yes, your pickup address is twenty one hundred Olney Sandy Spring Road in Olney, Maryland. Is there anything else you’d like to check or arrange?
+CALLER: No, thank you.
+CALLER: Go outside now. Yes.
+AGENT: Thank you for calling Barwood & Regency, James. Have a great day!
+CALLER: I

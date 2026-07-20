@@ -1,0 +1,55 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Alex I'm looking for a wheelchair transport for today at 2PM.
+AGENT: Thanks, Alex. This is Ana from Barwood & Regency. How can I assist you with your ride today?
+CALLER: I'm looking for a wheelchair transport today at 2PM.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Alex, could you please tell me the pickup address for your ride today at 2 PM? <emotion value="peaceful"/>
+CALLER: Did you hear what I said about the wheelchair transport?
+AGENT: Yes, Alex, I heard that you need a wheelchair transport today at 2 PM. Now, could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: One three four zero five Justice Road, Rockville, Maryland two zero eight five zero.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is one three four zero five Justice Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Nine four zero eight Thorne ike Drive, Gaithersburg, Maryland.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so your dropoff address is nine four zero eight Thornedike Drive, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Alex.
+AGENT: Alex, I have that you want a wheelchair transport today at 2 PM with one wheelchair. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. How much would it be?
+AGENT: The estimated fare for your main trip is $42. Now, how many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: Three total.
+AGENT: Okay great! I've got that noted with three passengers including one wheelchair. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 44 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: 6PM.
+AGENT: Just to confirm, you said 6 PM for your return trip pickup time, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your return trip pickup time set for today at 6:00 PM. <emotion value="grateful"/> Now, how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. I will need a wheelchair accessible vehicle.
+AGENT: Okay, I've noted that you will need a wheelchair-accessible vehicle for the return trip. <emotion value="grateful"/> How many passengers will be traveling on the return trip, including yourself?
+CALLER: Three total.
+AGENT: For your return trip, I have the pickup address as nine four zero eight Thornedike Drive, Gaithersburg, Maryland, and the dropoff address as one three four zero five Justice Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 44 dollars, paying with your Self account. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Paying with cash.
+AGENT: Just to confirm, would you like to update the payment method for your main trip, or use cash for the return trip? <emotion value="hesitant"/>
+CALLER: Use cash for both trips.
+AGENT: Alright, I've updated the payment method to cash for both trips. The estimated fare is 44 dollars, paying with cash. Should I go ahead and book both trips? <emotion value="peaceful"/>
+AGENT: I've updated your payment method to cash for both trips. I'll proceed with the booking now.
+AGENT: Okay, so your payment method has been updated to cash for both trips. The estimated fare is 44 dollars, paying with cash. Should I go ahead and book both trips? <emotion value="peaceful"/>
+AGENT: Just to confirm, the estimated fare for your return trip is 44 dollars, paying with cash. Should I
+CALLER: Yes.
+AGENT: Thank you for confirming. I am processing the booking for both trips now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 2:00 PM with confirmation number 2 1 3 6 7 4 0 3 0. Your return trip is scheduled for today at 6:00 PM with confirmation number 2 1 3 6 7 4 0 3 1. Is there anything else I can help you with?
+CALLER: Yes. Last time I booked a trip, nobody showed up to to to pick me up. So can I speak to somebody, please?
+AGENT: I understand your concern. Let me connect you to a representative who can assist you directly.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Hmm, let me check on that for you. Uhh, it looks like I need to verify your profile before I can access trip details. I'll connect you to a representative who can help you right away.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

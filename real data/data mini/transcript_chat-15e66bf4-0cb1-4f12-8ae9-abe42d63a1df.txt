@@ -1,0 +1,13 @@
+CALLER: Again, there's two days in the Okay?
+AGENT: Uhh, I want to make sure I understand correctly—are you saying you want to book a ride for two different days?
+CALLER: Tomorrow, tomorrow, two. Yeah.
+CALLER: Ninety two. Sunday.
+AGENT: Okay, just to clarify, are you looking to book a ride for tomorrow and another one for Sunday? Could you please confirm the pickup and dropoff locations for these rides?
+CALLER: Yes. 10720 Georgia Avenue, apartment two zero four Silver Spring, Maryland. Two zero nine zero two. Pickup, her
+AGENT: Alright, how would you like to pay for your rides? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Agent.
+AGENT: I can take care of the payment details right now — want to keep going?
+CALLER: Agent.
+CALLER: Agent.
+AGENT: I'm connecting you to a customer service

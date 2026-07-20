@@ -1,0 +1,33 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Donna Chapman.
+AGENT: Thanks, Donna. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Um, I need a cab at seven three seven at Route three fifty five in Rockville no. In Gaithersburg, Maryland, Albies.
+AGENT: Thank you for the details, Donna. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: It's gonna be saying My name is. Cash.
+AGENT: Thank you, Donna. Your payment method is set to cash.
+AGENT: I wasn't able to locate 7 3 7 Route 3 5 5 in Gaithersburg, Maryland. Could you please provide the full street address again, including any nearby landmarks or cross streets if possible?
+CALLER: Seven three seven Frederick Road in Gaithersburg, Maryland.
+AGENT: I have 7 3 7 Frederick Road, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Lake Forest Transit. In Gaithersburg, Maryland.
+AGENT: I found two locations for Lake Forest Transit in Gaithersburg, Maryland:
+
+1. Lakeforest Transit Center and Odendhal Avenue
+2. Lakeforest Transit Center
+
+Which one would you like to use?
+CALLER: Lake Forest Transit Center.
+AGENT: Your dropoff address has been verified, Donna.
+AGENT: When would you like to be picked up?
+CALLER: Right now.
+AGENT: How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No. One.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No. Just hurry up. It's hot.
+AGENT: The estimated fare for your trip is 7.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking your one-way trip. Just a moment please.
+AGENT: Your main trip is scheduled for today at 11:09 AM. Your confirmation number is 2 1 3 6 6 5 5 1 7. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Donna. Have a great day!

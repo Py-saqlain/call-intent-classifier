@@ -1,0 +1,53 @@
+AGENT: Hello Clara, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Good afternoon. I need a taxi call on drive, please.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Hold on. Right, please.
+AGENT: Take your time. Whenever you're ready, just let me know how you'd like to pay. <emotion value="peaceful"/>
+CALLER: Hey. I'm ready. To go.
+AGENT: Great! How would you like to pay for your ride? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: Call on drive.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="peaceful"/>
+CALLER: I'm going to go and call on rides. I don't have to pay.
+AGENT: Hmmm.. that didn't seem quite clear. Could you please confirm if you want to pay with Call and Ride, or would you prefer cash or credit card instead? <emotion value="apologetic"/>
+CALLER: I get my coronavirus. Card.
+AGENT: Thank you for letting me know. For this service, we only accept cash, credit card, or Call and Ride. Unfortunately, coronavirus cards are not accepted here. Would you like to use cash, credit card, or Call and Ride instead? <emotion value="peaceful"/>
+CALLER: Color on rice, please.
+AGENT: Okay, I understand you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero zero. Three four three five four eight.
+AGENT: Thank you. Okay so I've got those last six digits noted. Let me verify your Call and Ride payment now. <emotion value="peaceful"/>
+AGENT: Hmmm.. it looks like the digits you gave me were more than six. Could you please provide exactly the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Four three five four eight.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Uh, I am sorry, but could you please say the pickup address again?
+CALLER: Yes. 17. Know. Seventy nine five five
+CALLER: CVS two command line, otomac.
+AGENT: Okay, so I found 7 9 1 9 Tuckerman Lane, Potomac, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: 7955.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found 7 9 5 5 Tuckerman Lane, Rockville, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Yes. Yes. That is correct.
+AGENT: I found a few locations. 
+ Option one: Dr. Behzad Mirdamadi, DDS, 1 8 2 1 8 Flower Hill Way, Gaithersburg. 
+ Option two: Laytonsville Family Dentistry - Dr. Harith Ali, 8 0 5 1 Cessna Avenue, suite 2 8 8, Gaithersburg. 
+ Option three: Dr. Parvej Malik, MD, 2 0 0 Girard Street, Gaithersburg. 
+ Option four: Renew Dental Partners, 1 6 8 1 5 Crabbs Branch Way, Rockville. 
+ Option five: Dr. Rasha Bafi Saleem, MD, 3 1 7 East Diamond Avenue, suite c, Gaithersburg. 
+ Which one is correct? <emotion value="hesitant"/>
+CALLER: Seventy nine five five two command line for Thomas, please.
+AGENT: Uh, I am sorry, but could you please clarify which option you would like to choose from the list I just read?
+CALLER: My address when I pick up please, is seventy nine five five CVS To get my line.
+AGENT: Okay, I understand your pickup address is 7 9 5 5 Cedar Lane, Potomac. Let me confirm that for you. <emotion value="peaceful"/>
+AGENT: Okay, so I found 7 9 5 5 Tuckerman Lane, Rockville, Maryland. Is that the correct pickup
+CALLER: Yes.
+AGENT: I found a few locations. 
+ Option one: Dr. Behzad Mirdamadi, DDS, 1 8 2 1 8 Flower Hill Way, Gaithersburg. 
+ Option two: Laytonsville Family Dentistry - Dr. Harith Ali, 8 0 5 1 Cessna Avenue, suite 2 8 8, Gaithersburg. 
+ Option three: Dr. Parvej Malik, MD, 2 0 0 Girard Street, Gaithersburg. 
+ Option four: Renew Dental Partners, 1 6 8 1 5 Crabbs Branch Way, Rockville. 
+ Option five: Dr. Rasha Bafi Saleem, MD, 3 1 7 East Diamond Avenue, suite c, Gaithersburg. 
+ Which one is correct? <emotion value="hesitant"/>
+CALLER: 7955 to command line Potomac.
+AGENT: Uh, I am sorry, but could you please clarify which option you would like to choose from the list I just read?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

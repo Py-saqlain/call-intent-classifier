@@ -1,0 +1,40 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Carol Keys?
+CALLER: I need a cab that 1235 Potomac Valley Road.
+AGENT: Thanks for letting me know. Just to confirm, is this Carol Keys?
+CALLER: I got test. To give you.
+AGENT: Could you please tell me your name so I can assist you with your ride?
+CALLER: Oh, Michelle.
+AGENT: Thanks, Michelle. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a cab come pick me up at twelve thirty five Potomac Valley Road going to 102 Thomas Street, Rockville 20850. And I'll be paying cash
+AGENT: Okay so I've got that payment noted as cash.
+CALLER: Pass.
+AGENT: Just to confirm, your pickup address is 1 2 3 5 Potomac Valley Road in Rockville, Maryland, and your dropoff is 1 0 2 Thomas Street in Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Right. Yes, ma'am.
+AGENT: Your addresses have been verified, Michelle.
+CALLER: Thank you.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: How long will it take
+AGENT: The
+CALLER: Now Right now, please.
+AGENT: Okay great! I've got your pickup time as today at 2:50 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible
+CALLER: How long would it take? One. How long would it take?
+AGENT: The estimated travel time for your trip is about 4.78 minutes. Now, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible
+CALLER: Eight minutes. One.
+CALLER: One.
+CALLER: Nobody else.
+AGENT: Okay great! I've got one passenger and no wheelchairs. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Picked up now.
+AGENT: I
+CALLER: I got a walker though.
+CALLER: I have a walker. But they can put that back to the car.
+AGENT: Alright, the estimated fare is 7.5, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 2:50 PM. Your
+CALLER: I appreciate it. Yeah. 02:50PM is the time. Yes. I guess you should I'm gonna get a. Like to see it now. Just like a I'm looking right at the cough.
+AGENT: I'm glad the time works for you. If you need any updates or assistance with your ride, just let me know. Is there anything else I can
+CALLER: Does higher round three of be here?
+AGENT: Could you please clarify what you mean by "higher round three"? I want to make sure I understand correctly to
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Michelle. Have a

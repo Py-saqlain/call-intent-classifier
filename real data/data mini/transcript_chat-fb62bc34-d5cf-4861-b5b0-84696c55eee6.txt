@@ -1,0 +1,11 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Customer service agent.
+AGENT: Of course—I can help with booking rides, checking your trip status, or canceling trips right here. What can I assist you with today?
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello? Customer service agent.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: The trick one.
+AGENT: Could you please tell me a bit more about what you need help with? That way I can assist you right away or connect you to the right person.
+CALLER: Customer service agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

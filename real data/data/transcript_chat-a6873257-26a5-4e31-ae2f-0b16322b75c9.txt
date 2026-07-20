@@ -1,0 +1,53 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Washington Sonia?
+CALLER: No.
+AGENT: Thank you for letting me know. May I ask who I’m speaking with today? Your name, please?
+CALLER: Malafia
+AGENT: I don't see a profile under the name Malafia. We can set one up for you when you book a trip. Would you like help with booking a ride today?
+CALLER: Yes.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: We have account we have your call center number.
+AGENT: Hmmm.. that didn't seem quite clear to me. Could you please tell me how you would like to pay for your ride? Cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: We have we have we have account.
+AGENT: Thank you for sharing that you have an account. Just to clarify, for payment today, would you like to use cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: They will get they will charge it from our account.
+AGENT: I understand you want to charge the ride to your account. Could you please confirm if that account is a Call and Ride account? If so, I will need the last six digits of your Call and Ride card. If not, please let me know if you prefer cash or credit card instead. <emotion value="peaceful"/>
+CALLER: Somebody else will pay
+AGENT: Alright, thank you for letting me know. In that case, how would the payment be made? Would it be cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: Maybe credit card.
+AGENT: Okay so I've got that payment noted as credit card. Let me proceed with verifying that for you.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? If you want, I can also use your home address at 1 8 1 0 1 Prince Philip Drive, Olney, Maryland. Would you like me to pick you up from there? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I have your pickup address as one eight one zero one Prince Philip Drive, Olney, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yep.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yes. Two six Mulberry Drive, Mulberry like m a r, b as in boy, u, r like rainbow y, drive, Townsville, Maryland
+AGENT: Hmm <break time="350ms"/> I couldn't find 2 6 Mulberry Drive in Townsville, Maryland. Could you please double-check the street number, city, or state for me? <emotion value="apologetic"/>
+CALLER: Yeah. Twenty six Marble Drive Clownsville, Maryland two one zero three two.
+AGENT: Thank you for the update. Just to confirm, is the address 2 6 Marble Drive, Clownsville, Maryland? <emotion value="peaceful"/>
+CALLER: Yep. Marbury Drive.
+AGENT: Okay, so I have the address as 2 6 Marbury Drive, Clownsville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I have the dropoff address as two six Marbury Drive, Crownsville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. I will now proceed with the next steps for your trip.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: As early as possible.
+AGENT: Okay great! I've got your pickup time as today at 5:04 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: No. One person No wheelchair.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: Yes. That the person has to go straight to the destination. No details. No stop somewhere.
+AGENT: Alright, the estimated fare is 82 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 5:04 PM. Your confirmation number is 2 1 3 6 7 2 2 9 4. Is there anything else I can help you with?
+CALLER: Can you repeat the confirmation number?
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 2 2 9 4. Is there anything else I can assist you with?
+CALLER: Can I speak with somebody else?
+AGENT: I can connect you with someone else. First, may I have your name again, please?
+CALLER: Malefia, m a l e f I a.
+AGENT: Thanks, Malefia. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I want to talk with real person.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: I will wait to to to stick with the agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

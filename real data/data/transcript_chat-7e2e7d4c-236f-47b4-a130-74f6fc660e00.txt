@@ -1,0 +1,50 @@
+AGENT: Hello, this is Ana with Barwood & Regency. How can I assist you today, peyna?
+CALLER: I need a cab
+AGENT: Alright, how would you like to pay for your cab ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: 3146 Stewart Avenue.
+AGENT: Okay, so I found the pickup address as three one four six Hewitt Avenue, Aspen Hill, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's
+AGENT: I didn't catch the full response. Could you please confirm if the pickup address is three one four six Hewitt Avenue, Aspen Hill, Maryland?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Giant and after hill.
+AGENT: I found a few locations.  
+Option one: 1 8 2 5 0 Flower Hill Way, Gaithersburg.  
+Option two: 1 6 8 3 7 Crabbs Branch Way, Derwood.  
+Option three: 2 0 0 4 4 Goshen Road, Gaithersburg.  
+Option four: 4 6 Bureau Drive, Gaithersburg.  
+Which one is correct? <emotion value="hesitant"/>
+CALLER: None.
+AGENT: Could you please provide a more specific address or a nearby landmark, cross street, or city to help me find the correct Giant location? <emotion value="peaceful"/>
+CALLER: One three seven eight one Connecticut Avenue.
+AGENT: Okay, so I found the dropoff address as one three seven eight one Connecticut Avenue, Aspen Hill, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. The giant.
+AGENT: Your dropoff address has been verified, peyna.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Your pickup address is 3146 Hewitt Avenue, Aspen Hill, Maryland. When would
+CALLER: Now
+AGENT: Okay great! I've got your pickup time as today at 3:36 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: two and no.
+AGENT: Okay great! I've got 2 passengers and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: Paul, when he comes,
+AGENT: Alright, the estimated fare is 7 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, great! I'll start collecting the details for your return trip now. <emotion value="peaceful"/>
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Twenty five to thirty minutes. Twenty five minutes.
+AGENT: Okay great! I've got your return trip pickup time as today at 3:58 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling on your return trip, and will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Two
+AGENT: Okay, I've got 2 passengers for your return trip. Will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: For your return trip, I have the pickup address as one three seven eight one Connecticut Avenue, Aspen Hill, Maryland, and the dropoff address as three one four six Hewitt Avenue, Aspen Hill, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: The estimated fare for your return trip is 8 dollars, paying with Self. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I am booking both trips for you now. <emotion value="grateful"/>
+AGENT: Thank you for waiting. I am now booking both your main and return trips together.
+AGENT: Your main trip is scheduled for today at 3:36 PM with confirmation number 2 1 3 6 7 4 8 5 7. Your return trip is scheduled for today at 3:58 PM with confirmation number 2 1 3 6 7 4 8 5 8. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, peyna. Have a wonderful day!

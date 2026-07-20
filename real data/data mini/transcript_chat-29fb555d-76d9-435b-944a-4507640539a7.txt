@@ -1,0 +1,16 @@
+AGENT: Hi Janet, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to book a trip
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Calling Ryan.
+AGENT: Hmmm.. that didn't seem right, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Caller,
+AGENT: Did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Three one nine six six two.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? If you want to be picked up from your home, just say "home." <emotion value="peaceful"/>
+CALLER: Hold
+AGENT: I'm here whenever you're ready. Just let me know the pickup address when you can. <emotion value="peaceful"/>
+CALLER: May I speak to a representative?
+CALLER: Hello?
+AGENT: Yes,

@@ -1,0 +1,19 @@
+AGENT: Hello Kumar, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Update it there tomorrow morning at 07:00.
+AGENT: Could you please confirm what address or location you would like to update for tomorrow morning at 7:00 am?
+CALLER: Nine, eight, leader nine. Callback code. Potomac MD two zero eight five four.
+AGENT: Thank you for sharing the details. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: I couldn't locate 9 8 1 9 Leader Street in Potomac, Maryland. Could you please provide the full street address, city, and state again?
+CALLER: Yes. No. Eight zero nine.
+AGENT: Just to confirm, is your pickup address 8 0 9 Leader Street in Potomac, Maryland?
+CALLER: Put on at least 20854.
+AGENT: Thank you for the clarification. I understand the pickup address is 8
+CALLER: Yes.
+AGENT: I
+AGENT: Take your time. Just let me
+CALLER: No. No. No. Night. No. It's just a nine eight zero nine. Hello? Hello? Hello? Hello?
+AGENT: Take your time. Just let me know the full street address, city, and state when you're ready, and I'll help you with your pickup address.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Nine eight nine Call me and code. Okay.

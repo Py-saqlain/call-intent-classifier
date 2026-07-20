@@ -1,0 +1,10 @@
+AGENT: Hi Mike, this is Ana with Barwood & Regency. Your pickup is scheduled for today at 2:35 PM, and you also have a will-call trip today from 8 8 3 Russell Avenue to 1 8 7 1 5 North Frederick Avenue in Gaithersburg. How can I assist you today?
+CALLER: Ship status.
+AGENT: I'll check the status of your trip for you. Just a moment, please.
+AGENT: You have an active trip scheduled for pickup at 2:35 pm from 1 8 7 1 5 North Frederick Avenue to 8 8 3 Russell Avenue in Gaithersburg. The return trip is also active but set as will-call. Would you like any more details or help with something else?
+CALLER: Yeah.
+AGENT: Your pickup is scheduled for today at 2:35 PM, but no driver has been assigned yet. I'll keep you posted. Anything else I can help with?
+CALLER: Okay.
+AGENT: Your pickup is scheduled for today at 2:35 PM, but no driver has been assigned yet. I'll keep you posted. Anything else I can help with?
+CALLER: No.
+AGENT: I'm connecting you to a customer service representative now. Please

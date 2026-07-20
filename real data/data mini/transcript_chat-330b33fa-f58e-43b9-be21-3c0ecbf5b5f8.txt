@@ -1,0 +1,16 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Larisa Yelovich?
+CALLER: Exactly. Can you please help me to find the telephone number for your driver His name is Finn. K h a n. And his card number is two two three
+AGENT: Thanks, Larisa. This is Barwood & Regency. Let me connect you to someone who can assist with finding the driver's phone number for Finn Khan with card number two
+CALLER: Thank you.
+CALLER: Two two three.
+AGENT: Hmm, let me check that for you. Uhh, it looks like you don't have any active trips right now. Would you like help booking a new ride?
+CALLER: Oh, he doesn't have right now?
+AGENT: That's right, there isn't an active trip for you
+CALLER: You could
+AGENT: Okay, I’m here to help. Would you like to book a new ride? If so,
+CALLER: You cannot find him?
+AGENT: Uhh, I do see a profile for Larisa Yelovich with no active trips
+CALLER: No. No. No. Just to help me help me to fire find mister. K h a n. Card 223.
+AGENT: Okay, I understand you want help finding a trip for Mr. Khan with card number 223. Let me connect you to someone who can assist
+CALLER: Okay.
+CALLER: Okay. Please do this as soon as possible. Because I already waited for ten minutes, and nobody can get back to me.

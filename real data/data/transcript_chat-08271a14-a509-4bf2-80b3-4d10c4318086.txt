@@ -1,0 +1,30 @@
+AGENT: Hello SHANTE, this is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I need a cab using call and ride
+AGENT: Thanks for letting me know you'll be using Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three five two zero six nine.
+AGENT: Thank you, your Call and Ride payment is all set.
+AGENT: Could you please tell me the pickup address for your cab ride?
+CALLER: Three six North Summit Drive,
+AGENT: I have 3 6 North Summit Drive, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Two zero one one one Central Boulevard, Germantown, Maryland.
+AGENT: I found a similar address from recent trips: 2 0 1 1 1 Century Boulevard, Germantown, Maryland. Is that the correct dropoff location?
+CALLER: Yes. Dialysis.
+AGENT: Your dropoff address has been verified, Shante. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Two. And more.
+AGENT: The estimated fare for your trip is 20 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: Not yet.
+AGENT: Alright, we'll just keep this as a one-way trip for now. Would you like me to go ahead and book your ride for pickup at 1:08 pm?
+CALLER: Yeah.
+AGENT: Booking your ride now.
+AGENT: Your main trip is booked for today at 1:08 pm. The confirmation number is 2 1 3 6 6 4 6 1 3. Is there anything else I can help you with?
+CALLER: Repeat my confirmation number.
+AGENT: Your confirmation number is 2 1 3 6 6 4 6 1 3. Is there anything else I can assist you with?
+CALLER: Repeat my confirmation number.
+AGENT: Your confirmation number is 2 1 3 6 6 4 6 1 3. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, SHANTE. Have a great day!

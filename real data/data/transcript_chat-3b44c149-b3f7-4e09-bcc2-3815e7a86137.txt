@@ -1,0 +1,21 @@
+AGENT: Hi Khianna, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+CALLER: Yes.
+AGENT: Okay, how can I assist you with your ride today?
+CALLER: With coupon 13.
+AGENT: Could you please clarify what you mean by "coupon 13"? Are you looking to use a coupon for a ride booking, or do you need help with something else related to that?
+CALLER: Yes. With coupon 13.
+AGENT: Thanks for confirming. To help you with booking a ride using coupon 13, could you please tell me your pickup location?
+CALLER: Okay. You're telling me.
+AGENT: Uhh, I just need to know where you'd like to be picked up from so I can check the details for your ride with coupon 13. Could you please tell me your pickup address?
+CALLER: Associate.
+AGENT: I want to make sure I understand you correctly. Are you saying your pickup location is at or near "Associate," or is that something else? Could you please clarify a bit more?
+CALLER: Something else.
+AGENT: Alright, no problem. Could you please tell me your pickup address or location? That way I can assist you with your ride using coupon 13.
+CALLER: Eight.
+AGENT: Thanks for that. Just to be sure, is "Eight" part of your pickup address, like a street number or something else? Could you please provide the full pickup address or more details?
+CALLER: Something else.
+AGENT: Okay, I want to make sure I get this right for you. Could you please tell me the full pickup address or location where you'd like to be picked up?
+CALLER: Something else. Something else. Representative. Representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

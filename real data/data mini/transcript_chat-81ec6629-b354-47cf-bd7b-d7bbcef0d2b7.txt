@@ -1,0 +1,13 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Devin Edwards.
+AGENT: Thanks, Devin. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Baiting to be picked up.
+AGENT: Hi Devin, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Four. Already paid for.
+AGENT: I want to make sure I understand correctly—are you saying you have already paid for the ride, or would you like to pay with cash or a card now? Could you please clarify your preferred payment method?
+CALLER: Yes.
+AGENT: Thank you for confirming. Since you mentioned you have already paid, could you please tell me which payment method you used—cash, credit card, or Call and Ride? This will help me verify your payment.
+CALLER: Medicaid transportation.
+AGENT: We warmly accept only cash, credit card, and Call and Ride for payment on this line. For Medicaid transportation or other options, I can connect you to a live agent who can assist you further. Would you like me to do that?
+CALLER: Yes.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

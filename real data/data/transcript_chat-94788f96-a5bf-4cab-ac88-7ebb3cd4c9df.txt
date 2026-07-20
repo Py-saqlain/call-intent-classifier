@@ -1,0 +1,17 @@
+AGENT: Hello, Erenstine. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I'm trying to get a a trip from I'm at what is it, total it's called, fifth fifteen hundred four Glen Rose Silver Spring, Maryland two zero nine one zero. And I'm going to seven one zero Roto Road Silver Spring, Maryland two zero nine one two. Do y'all have taxis available that's still out
+AGENT: Thank you for sharing your pickup and dropoff locations. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Alright. The y'all have cabs available?
+AGENT: I don't have real-time availability information, but once we confirm your payment method, we can proceed with booking your ride. Could you please let me know how you'd like to pay? Cash, credit card, or Call and Ride?
+CALLER: Call them right call them right. Okay. Call them right. Call them right. Call them right. Oh, zero three one Just make me 034105. For miss Ferguson. And I'm I'm at the the the main entrance at the other house. Of the hospital. 15004 Glen Road, Silver Spring, Maryland 20910.
+AGENT: Thank you for confirming Call and Ride as your payment method. I have that noted for your trip. The system will now proceed with your booking.
+AGENT: Thank you for sharing your pickup and dropoff locations. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+AGENT: I have the pickup address as 1 5 0 0 4 Westholm Connecticut, Silver Spring, Maryland, and the dropoff as 7 1 0 Roeder Road, Silver Spring, Maryland. Is that correct?
+CALLER: No. I'm at I'm at 1500 No. It's not. I'm at one five zero zero Forest Glen Road, Silver Spring, Maryland at so called Holy Cross Hospital. I'll be at the main, yeah, main entrance. This is the Baldwood phone that I'm on. That they have at their death.
+AGENT: I have the pickup address as 1 5 0 0 Forest Glen Road, Silver Spring, Maryland. Is that correct?
+CALLER: Yeah. Just like yeah. You told me that before. Yes. And I told you yes.
+AGENT: Your pickup address has been verified, Mr. Erenstine. Now, could you please provide the destination or dropoff address?
+AGENT: When would you like to be picked up?
+CALLER: I told you I told you. I'm a tell you again. 710 right now. If you have any cab availability. Seven one zero Roto Road is where I'm going.
+AGENT: You mentioned 7:10. Just to confirm, do you mean 7:10 AM or 7:10 PM for your pickup time?
+CALLER: No. Seven one zero No. I'm ready to go now. You asked me for the address I was going to. Can I speak to a live person? He's no AI there. I mean, y'all know y'all got Yeah. I understand y'all are helpful, but it's other things that need to be done. And you keep asking me the same thing. I told you where I was going. I told you my payment method. And then you do saying something else. Are are you still there? Are you still there?

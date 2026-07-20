@@ -1,0 +1,10 @@
+AGENT: Hello Elaine, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hey. I'm calling from Montgomery County Police. How are you?
+AGENT: How can I assist you with your transportation needs today?
+CALLER: Hello?
+AGENT: I'm here to help. What can I do for you today?
+CALLER: Can I get a taxi?
+AGENT: I'd be happy to help you with that. How would you like to pay for your taxi? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

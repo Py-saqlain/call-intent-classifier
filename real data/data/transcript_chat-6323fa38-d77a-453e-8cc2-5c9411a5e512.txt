@@ -1,0 +1,33 @@
+AGENT: Hi Kevin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Wanna book a ride.
+AGENT: Thanks for choosing us for your ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash. Cash.
+AGENT: Great, we'll use cash for your payment.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Three one zero five. Beckenham Court,
+CALLER: Silver Spring, Maryland.
+AGENT: Thank you. I have three one zero five Beckenham Court, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: I have your pickup address as three one zero five Beckenham Court, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Glenmont metro station one two five zero one Georgia Avenue.
+AGENT: Thank you for the dropoff address. I have one two five zero one Georgia Avenue, Glenmont Metro Station. Is that correct?
+CALLER: Yes.
+AGENT: I have your dropoff address as one two five zero one Georgia Avenue, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Kevin. I'll now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger No wheelchair.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 14.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: Not at this time, no.
+AGENT: Alright, I will proceed with just the one-way trip. Should I go ahead and book this ride for you now?
+CALLER: Yes.
+AGENT: I am booking your trip now.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 4 4 2. The pickup is today at 9:31 am. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Kevin. Have a great day!

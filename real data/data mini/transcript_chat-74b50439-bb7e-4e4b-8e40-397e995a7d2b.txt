@@ -1,0 +1,13 @@
+AGENT: Hello, this is Ana with Barwood & Regency. How can I assist you today, Linda?
+CALLER: I'm trying to get a estimated arrival time for a His name is Timothy Barnes.
+AGENT: Okay, let me check the status of the trip for Timothy Barnes and get you the estimated arrival time. One moment please.
+AGENT: It looks like there is no active trip currently scheduled for Timothy Barnes. Would you like me to help you book a ride for him?
+CALLER: No. I would like to speak with an agent please.
+CALLER: Hello?
+AGENT: Uhh, how can I assist you today? Are you looking to check a trip status, book a ride, or speak with a representative? <emotion value="peaceful"/>
+CALLER: Can I speak can I speak with an agent?
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: I'd like to speak with a representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: A representative
+AGENT: I'm connecting you to a

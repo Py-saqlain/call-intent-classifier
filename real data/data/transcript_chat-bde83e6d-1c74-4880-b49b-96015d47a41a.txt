@@ -1,0 +1,31 @@
+AGENT: Hi Alex, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, I need to trip from two zero one one one Century Boulevard in Germantown to my home. I'll be paying this credit card.
+AGENT: Thank you for letting me know you'll be paying with a credit card. Your payment method is all set as Credit Card.
+AGENT: I have the pickup as 20111 Century Boulevard, Germantown, Maryland, and the dropoff as 8201 Snouffer School Road, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup and dropoff addresses have been verified, Alex. I'll proceed with the next steps for your trip.
+AGENT: When would you like to be picked up?
+CALLER: Pick me up tomorrow at 11:30PM. Yeah.
+AGENT: I have your pickup time as tomorrow at 11:30 PM. How many passengers will be traveling, including yourself? And will you need a wheelchair-accessible vehicle?
+CALLER: One passenger, no wheelchair, and no instructions for the drivers.
+AGENT: The estimated fare for your trip is 25.5 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: It should keep it open for now.
+AGENT: Just to clarify, would you like to keep the return trip option open for now and decide later, or would you prefer to skip scheduling a return trip at this time?
+CALLER: Yeah. I've built call return trip. Yes.
+AGENT: What time would you like to be picked up for your
+CALLER: Yes. Yes. Go ahead.
+AGENT: Could you please tell me the pickup time you want for your return trip?
+CALLER: Will call. It's a will call return.
+AGENT: Your return trip has been recorded as a will-call trip. How many
+CALLER: It's a will call return trip.
+AGENT: How many passengers will be traveling on your return trip, including yourself? And will you need a wheelchair-accessible vehicle?
+CALLER: Same number of messengers. No. Thank you.
+AGENT: For your return trip, I have the pickup as 8201 Snouffer School Road, Gaithersburg, Maryland, and the dropoff as 20111 Century Boulevard, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 25.5 dollars, paying with your credit card. Should I go ahead and book both trips?
+CALLER: Book book portraits.
+AGENT: Thank you. I am now booking both your trips.
+AGENT: Thank you for your patience. I am now processing the booking for both your main and will-call return trips. Please hold on a moment.
+AGENT: Your main trip is scheduled for tomorrow at 11:30 PM with confirmation number 2 1 3 6 8 0 3 1 8. Your will-call return trip has confirmation number 2 1 3 6 8 0 3 1 9. Is there anything else I can assist you with?
+CALLER: Thank you.
+AGENT: Thank you for calling Barwood & Regency, Alex. Have a wonderful day.

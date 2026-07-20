@@ -1,0 +1,52 @@
+AGENT: Hello Lucian, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Connect to with someone. Please.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: I want to book a trip. Houston, call and ride.
+AGENT: Let me get that set up for you right now.
+AGENT: Thanks for letting me know you'll be using Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes. Three two nine eight nine three.
+AGENT: Thank you for providing your Call and Ride card digits. Your payment method is set as Call And Ride. I'll proceed with your booking now.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: Okay. Seven a client, quote, Gaithersburg.
+AGENT: I have 7 Acline Court, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Houston, Texas is outside our service area. Could you please provide a different destination address?
+CALLER: Desktop app. Is six six zero three. Long arc Drive, etcetera.
+AGENT: Just to confirm, is your destination 6 6 0 3 Long Arc Drive?
+CALLER: Yeah.
+AGENT: I have 6 6 0 3 Lone Oak Drive, Bethesda, Maryland as your destination address. Is that correct?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, Lucian. I'll now proceed with the next steps for your trip.
+AGENT: When would you like to be picked up?
+CALLER: Oh, this today? Two thirty PM. July four
+AGENT: I've scheduled your pickup for today at 2:30 PM. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No need wheelchair, just one person. One passenger,
+AGENT: Thank you. I have recorded one passenger and no wheelchair needed. Do you have any special instructions for the driver?
+CALLER: No. No. Thank you.
+AGENT: The estimated fare for your trip is 31.5 dollars, and you will be paying with your Call And Ride card. Would you like to schedule a return trip as well?
+CALLER: Later. So you can set up and you can set up a return trip but I don't know what time. Maybe three hours more.
+AGENT: Just to
+CALLER: Three or four hours.
+AGENT: Just to confirm, you would like your return trip pickup to be about three or four hours after your first trip? Could you please specify if you prefer three hours or four hours?
+CALLER: Three hour.
+CALLER: Let me see. Let me see.
+AGENT: For your return
+CALLER: Well, I think it's return trip. Around
+AGENT: Will your
+CALLER: Seven, seven thirty thirty. Around that.
+AGENT: I’m currently collecting passenger and wheelchair information for your return trip. Will the return trip have the same number of passengers and wheelchair needs as your first trip, which was one passenger and no wheelchair?
+CALLER: Return is for two passengers. No wheelchair.
+AGENT: For your return trip, I have the pickup address as 6 6 0 3 Lone Oak Drive, Bethesda, Maryland, and the dropoff address as 7 Acline Court, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 31.5 dollars, paying with your Call And Ride card. Should I go ahead and book both your main trip and this return trip?
+CALLER: Yes. If I need, and I will maybe early or late. And I will call you back.
+AGENT: Thank you
+CALLER: That okay?
+AGENT: Your main trip is scheduled
+CALLER: Give you a thirty minute Mhmm. Yeah. Go ahead, please.
+AGENT: Your main trip is scheduled for today at 2:30 PM with confirmation number 2 1 3 6 6 6 2 7 1. Your return trip is scheduled for today at 5:30 PM with confirmation number 2 1 3 6 6 6 2 7 2. Is there anything else I can help you with?
+CALLER: Please send me a link when your scheduled. When the drivers will assist booking please send me a link.
+AGENT: I don’t have the ability to send links directly, but you can always call us back anytime to check your booking status or get updates about your driver. Is there anything else I can assist you with?
+CALLER: No. No. I will call you. And if not, around thirty minutes ahead. So at 02:00, I'll call back to make sure. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Lucian. Have a great day!
+CALLER: Thank you. Bye bye.

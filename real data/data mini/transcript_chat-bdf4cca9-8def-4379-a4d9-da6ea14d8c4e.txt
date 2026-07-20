@@ -1,0 +1,9 @@
+AGENT: Hi Mary, this is Ana with Barwood & Regency. Your pickup is scheduled for today at 10:15 AM. How can I assist you today?
+CALLER: Okay. Could you cancel that?
+AGENT: I found three active trips for you: a return trip at 10:15 am from 11652 South Laurel Drive to 14631 Laurel Bowie Road, a main trip at 3:00 pm from 14631 Laurel Bowie Road to 11652 South Laurel Drive, and another main trip scheduled for 4:30 pm from 7350 Van Dusen Road to 11652 South Laurel Drive. Which one would you like me to cancel? Or would you prefer to cancel all of them?
+CALLER: Cancel is 03:15. For today. And I don't have a tip going to that.
+AGENT: Just to confirm, you want to cancel the main trip today at 3:00 pm from 14631 Laurel Bowie Road to 11652 South Laurel Drive, correct?
+CALLER: Yes. Yeah.
+AGENT: Your main trip at 3:00 pm today from 14631 Laurel Bowie Road to 11652 South Laurel Drive has been cancelled. Is there anything else I can help you with?
+CALLER: Adaptive. Thank you so much.
+AGENT: Thank you for calling Barwood & Regency, Mary. Have a wonderful day!

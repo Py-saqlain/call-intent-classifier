@@ -1,0 +1,47 @@
+AGENT: Hello, Ennette. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Knee cap.
+AGENT: Could you please tell me how I can assist you with your ride today? Are you looking to book a trip or need help with something else?
+CALLER: Book a trip.
+AGENT: Thank you for letting me know you'd like to book a trip. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Calling by
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? If not, please let me know which payment method you'd prefer.
+CALLER: Three zero three seven nine nine.
+AGENT: Thank you, your payment with Call and Ride has been verified.
+AGENT: Could you please provide the pickup address for your trip?
+CALLER: 717 Monroe Street, Rockville, Maryland
+AGENT: I have 7 1 7 Monroe Street, Rockville, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: North Bethesda Metro Station.
+AGENT: I found North Bethesda Metro Station at 5500 Marinelli Road, North Bethesda, Maryland. Is that the correct destination?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, Ennette. I will now proceed with arranging your trip.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions or information for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 14 dollars, and you will be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: Yeah.
+AGENT: Great, I'll start collecting the details for your return trip.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: I'll call
+AGENT: I understand you want a will-call for your return trip. Just to confirm, is that correct?
+CALLER: Yeah.
+AGENT: For your return trip, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Will you be needing a wheelchair-accessible vehicle for your return trip?
+CALLER: No.
+AGENT: For your return trip, I have the pickup address as 5 5 0 0 Marinelli Road, North Bethesda, Maryland, and the dropoff address as 7 1 7 Monroe Street, Rockville, Maryland. Is that correct?
+CALLER: Yeah.
+AGENT: The estimated fare for your return trip is 14 dollars, paying with your Call and Ride account. Should I go ahead and book both trips for you?
+CALLER: Yeah.
+AGENT: I am booking both trips for you now.
+AGENT: I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 2:53 PM with confirmation number 2 1 3 6 6 3 6 6 5. Your return trip is a will-call booking with confirmation number 2 1 3 6 6 3 6 6 6. You can call back when you're ready for the return trip and a driver will be dispatched then. Is there anything else I can help you with?
+CALLER: Dang. No.
+AGENT: Thank you for calling Barwood & Regency, ennette. Have a wonderful day.
+CALLER: Got it.

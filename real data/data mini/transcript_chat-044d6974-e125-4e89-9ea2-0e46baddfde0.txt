@@ -1,0 +1,22 @@
+AGENT: Hello Maynuna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to book a ride.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Okay. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: I have your payment method as cash. Now, could you please provide the pickup address where the driver should meet you? <emotion value="peaceful"/>
+CALLER: 323 Copeland Place.
+AGENT: Okay, so I found a similar address from recent trips: 323 Copley Place, Gaithersburg, Maryland. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: 323 Coffin Place Gaithersburg, Maryland. Where did you get the
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, I found the address as 3 2 3 Copley Place, Gaithersburg, Maryland. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: 3 no.
+AGENT: Okay, I understand that 3 2 3 Copley Place is not correct. Please provide the correct pickup address again. <emotion value="peaceful"/>
+CALLER: Yeah. Yes.
+AGENT: Could you please say the full correct pickup address again so I can find it for you? <emotion value="peaceful"/>
+CALLER: Three two three Copley Place, Cape
+AGENT: Okay, so I heard three two three Copley Place, but I want to make sure about the city name. Did you say Gaithersburg, Maryland? <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: This is. Three two three Copeley Place. Yes.
+AGENT: Thank you for

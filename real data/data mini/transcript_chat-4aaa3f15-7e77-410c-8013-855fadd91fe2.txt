@@ -1,0 +1,13 @@
+AGENT: Hi Alliah, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Regency taxi.
+AGENT: Uhh, how can I assist you with Regency Taxi today? <emotion value="peaceful"/>
+CALLER: Ready for pickup.
+AGENT: Uhh, I don't see an active trip for you right now. Would you like me to help you book a new ride? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Just to confirm, you want to cancel and not book a trip right now? <emotion value="peaceful"/>
+CALLER: Speak with the representative.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer? <emotion value="peaceful"/>
+CALLER: You're moving to in the thing? It's not it's the front desk.
+AGENT: Did you want to tell me what you need, or shall I transfer you? <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a
+CALLER: The driver is not here yet. Can you put them in six?

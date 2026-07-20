@@ -1,0 +1,25 @@
+AGENT: Hello CHERY, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. My name is Sherry. I need a cab to go to Aspen Hill.
+AGENT: Alright, Sherry, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Sherry, could you please tell me the pickup address for your ride?
+CALLER: My pickup address is twenty seven zero five Dawson Avenue, Silver Spring, Maryland.
+AGENT: Okay, let me check that address.
+AGENT: I found the address as two seven zero five Arcola Avenue, Silver Spring, Maryland. Is that correct?
+CALLER: No. Dawson. Not.
+AGENT: Okay, I understand you want Dawson Avenue, not Arcola Avenue. Let me check that for you.
+AGENT: Hmm, it seems the system is showing two seven zero five Arcola Avenue in Silver Spring, Maryland instead of Dawson Avenue. Could you please confirm if you want to use two seven zero five Arcola Avenue, or would you like to provide another nearby landmark or cross street to help find Dawson Avenue? <emotion value="hesitant"/>
+CALLER: Yeah. That was yeah.
+AGENT: I found a few locations for Aspen Hill. 
+Option one: 304 North Stonestreet Avenue A, Rockville. 
+Option two: 3460 Olney Laytonsville Road number two two two, Olney. 
+Option three: 1001 Twinbrook Parkway, Rockville. 
+Option four: 5013 Baltic Avenue, Rockville. 
+Option five: 4407 Aspen Hill Road, Rockville. 
+Which one would you like?
+CALLER: No. Any guy needed any cup. I just want to go to Aspen Hill.
+AGENT: I understand you want to go to Aspen Hill without specifying a particular location. To make sure we get you to the right place, could you please provide a nearby landmark, cross street, or any additional detail about Aspen Hill? This will help me find the best dropoff address for you. <emotion value="peaceful"/>
+CALLER: I'm going to take you on ten We spoke in. Five.
+AGENT: I'm sorry, I didn't quite catch that. Could you please repeat the address or location you want to go to? <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

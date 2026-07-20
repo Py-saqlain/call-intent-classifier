@@ -1,0 +1,12 @@
+AGENT: Hi John, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I was wondering if I still have an appointment. To have a borrowed cab come by at 09:10AM tomorrow on Friday, 07/10/2026. Leave in my house at one one five two three Georgia Avenue, Silver Spring.
+AGENT: Looks like
+CALLER: That is to eight zero seven cultural roads that
+AGENT: You do have a scheduled pickup tomorrow at 9:10 am from 1 1 5 2 3 Georgia Avenue in Silver Spring. The drop-off is at 8 8 0 7 Colesville Road. Would you like me to help with anything else?
+CALLER: Yes. Uh, the return trip is at twelve noon. Leaving 88 or seven. Coast Hill Road headed to 115 Kingsford Georgia Avenue, Switzerland at 12PM, tomorrow. Friday. July tenth, twenty three.
+AGENT: I see you have a return trip scheduled for tomorrow at 12:00 pm from 8 8 0 7 Colesville Road to 1 1 5 2 3 Georgia Avenue in Silver Spring. Does that sound correct?
+CALLER: Correct.
+AGENT: Looks like you already have trips from 1 1 5 2 3 Georgia Avenue to 8 8 0 7 Colesville Road at 9:10 am, and back at 12:00 pm tomorrow. What would you like to do?
+CALLER: I will take the leaving my house at 11533 Georgia Avenue. So with one headed to eighty eight zero seven, Coalsville Road. Over the front. And then from 8807 Colesville Road, Silver Spring, the one one five people Georgia Avenue. And it come by 807 on the road from there.
+AGENT: I'm connecting you now to a customer service representative. Please stay on the line.
+CALLER: Right.

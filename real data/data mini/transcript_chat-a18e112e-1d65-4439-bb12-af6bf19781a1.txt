@@ -1,0 +1,14 @@
+AGENT: Hi Amrita, this is Ana from Barwood & Regency. Your pickup is scheduled for today at 12:30 PM. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I need to talk to an agent.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Has it she has the trip at 09:15. Pickup address, three one nine Flannery Lane, Silver Spring, Maryland. You please check the status of the cab? Pickup time is 09:15. From three one nine Flannery Laneville.
+AGENT: Hmm <break time="300ms"/> your trip scheduled for 9:15 am from 3 1 9 Flannery Lane does not yet have a driver or vehicle assigned. I'll keep you posted. Is there anything else I can check for you? <emotion value="peaceful"/>
+CALLER: How long will it take?
+AGENT: The estimated travel time for your trip from 3 1 9 Flannery Lane to your destination is about 13 minutes. Anything else? <emotion value="peaceful"/>
+CALLER: What what time will the capture come?
+AGENT: Uhh <break time="300ms"/>
+CALLER: Because she has to be there by nine
+AGENT: Uhh <break time="300ms"/> I'm sorry,
+CALLER: Go Go time will the cab come 09:15 cab come to pick up Amrita?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

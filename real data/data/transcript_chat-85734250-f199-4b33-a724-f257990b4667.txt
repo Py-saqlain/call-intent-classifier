@@ -1,0 +1,41 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Valencia Whittington?
+CALLER: Yes.
+AGENT: Thanks for confirming, Valencia. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Colin ride.
+AGENT: Uhh, just to be sure, did you mean you want to pay with Call and Ride for your trip?
+CALLER: Yes.
+AGENT: Okay, Valencia, since you want to pay with Call and Ride, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three one four five three one
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Okay, Valencia, let's start with your pickup address. Where would you like to be picked up from? <emotion value="peaceful"/>
+CALLER: One four one two eight whispering times Court.
+AGENT: Okay, so your pickup address is 1 4 1 2 8 Whispering Pines Court, Aspen Hill, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes. They're kidnapped. Kidnapping and interfering
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Two eight seven three. Valley View Avenue. Wheaton, Maryland
+AGENT: Hmm <break time="350ms"/> let me check that address again. I couldn't find 2 8 7 3 Valley View Avenue in Wheaton, Maryland. Could you please confirm the street number and name, or provide any nearby landmarks or cross streets? <emotion value="hesitant"/>
+CALLER: Wheaton West field Wheaton mall.
+AGENT: I found a location called Westfield Wheaton at 1 1 1 6 0 Veirs Mill Road, Wheaton, Maryland. Is this the dropoff location you want? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Valencia.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now.
+AGENT: Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: No.
+AGENT: Okay great! I've got that noted: 1 passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 18 dollars, paying with Call And Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, great! I'll start collecting the details for your return trip now. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: I will call
+AGENT: Got it, your return trip is set as will-call. Now, how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Two. Two
+AGENT: Okay, I've got 2 passengers for your return trip. Will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Two. Two two. No act access.
+AGENT: Got it, no wheelchair access needed for your return trip. Just to confirm, your return pickup is at 1 1 1 6 0 Veirs Mill Road, Wheaton, Maryland, and your return dropoff is at 1 4 1 2 8 Whispering Pines Court, Aspen Hill, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. Yes.
+AGENT: Okay, I have set your return pickup as 1 1 1 6 0 Veirs Mill Road, Wheaton, Maryland. Now, please provide the dropoff address for your return trip. <emotion value="peaceful"/>
+AGENT: Take your time.

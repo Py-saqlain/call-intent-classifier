@@ -1,0 +1,13 @@
+AGENT: Hi Lucas, this is Ana with Barwood & Regency. Your ride is scheduled for pickup today at 11:30 AM. How can I assist you today?
+CALLER: 06:00AM pickup.
+AGENT: Looks like you already have trips from 18010 Chalet Drive to 19851 Observation Drive at today 6:00 am; from 19851 Observation Drive to 18010 Chalet Drive at today 11:30 am; and 10 more. What would you like to do? <emotion value="grateful"/>
+CALLER: What the heck will I have this here? At six?
+AGENT: If you'd like, I can check the details or status of your trips for you. Would you like me to do that? <emotion value="peaceful"/>
+AGENT: You have a trip scheduled for today at 6:00 am from 1 8 0 1 0 Chalet Drive to 1 9 8 5 1 Observation Drive. Would you like any more details or help with this trip? <emotion value="peaceful"/>
+CALLER: Yeah.
+CALLER: Number.
+AGENT: Could you please clarify what number you are referring to? Are you asking for the confirmation number of your trip or something else? <emotion value="peaceful"/>
+AGENT: You have a trip scheduled for July 18th at 6:00 am from 1 8 0 1 0 Chalet Drive to 1 9 8 5 1 Observation Drive, but no driver has been assigned yet. Would you like help with anything else? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Put the representative on the phone.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

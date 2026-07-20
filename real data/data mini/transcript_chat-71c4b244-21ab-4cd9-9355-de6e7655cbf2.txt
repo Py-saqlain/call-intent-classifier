@@ -1,0 +1,12 @@
+AGENT: Hello Ramatulai, this is Ana from Barwood & Regency. Your trip is scheduled for pickup today at 2:30 PM. How can I assist you today?
+CALLER: Please.
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: That is the way to the park.
+AGENT: Okay, are you looking to book a ride to the park? <emotion value="peaceful"/>
+CALLER: I'm taking it. An agent, please. 4AM. What?
+AGENT: Alright, I'll connect you to a live agent to help with your ride at 4 AM. Please hold for a moment.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: About my trip. Pickup.
+AGENT: Got it, I’ll check on your trip pickup details for you right now.
+AGENT: Uhh, your pickup scheduled for today at 2:30 pm from 1 3 9 2 0 Castle Boulevard is running late. Let me connect you with a representative who can help right away. <emotion value="sympathetic"/>
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

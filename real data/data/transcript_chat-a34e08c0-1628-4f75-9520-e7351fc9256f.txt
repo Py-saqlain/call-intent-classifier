@@ -1,0 +1,35 @@
+AGENT: Hello, CLAIR. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need the taxi.
+AGENT: Thank you for letting me know. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash. Yeah. I still need to look.
+AGENT: Thank you for choosing cash as your payment method. I'll proceed with that for your ride.
+AGENT: Could you please tell me the pickup address for your taxi ride?
+CALLER: One two zero two eight.
+AGENT: Thank you. Could you please provide the street name and city for the pickup address starting with one two zero two eight?
+CALLER: I'll ask. One, two, three. Two, eight, It's Randall Freight.
+AGENT: Just to clarify, is your pickup address 1 2 3 2 8 Randall Freight? Could you please confirm the city and state as well?
+CALLER: Yeah.
+AGENT: It looks like 1 2 3 2 8 Randall Freight is outside our service area. Could you please provide a different pickup address within Montgomery County, DC, or Northern Virginia?
+CALLER: You doing?
+AGENT: I'm here and ready to help. Could you please provide a pickup address within our service area?
+CALLER: No.
+AGENT: Just
+CALLER: Which one the part would you be?
+CALLER: The lady should take me another place.
+AGENT: I want to make sure I understand you correctly. Are you asking to change your destination to a different place?
+CALLER: Oh,
+AGENT: If you'd like to go somewhere else or need help with a different destination, just let me know the address or place, and I'll assist you with that.
+CALLER: One two zero two eight.
+AGENT: Could you please tell me the full street name and city for the address starting with 1 2 0 2 8?
+CALLER: Insurance on fraud. Isrand on fraud.
+AGENT: It sounds like you mentioned "insurance on fraud." If you need help related to insurance or a fraud issue, I recommend connecting you with a live representative who can assist you further. Would you like me to connect you
+CALLER: I think are you trying to customer service guy. Damn. They ask me insurance.
+AGENT: I
+CALLER: Hello?
+AGENT: How can I assist you further with your taxi ride or any other request?
+CALLER: Can you tell us what is the dispatch, please?
+AGENT: If you're asking about the status or details of a dispatch or ride, I can connect you to the trip
+CALLER: Don't know what we thought in our past. Hello?
+AGENT: I’m here to help.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: I need to pick it up to taxi. Yes.

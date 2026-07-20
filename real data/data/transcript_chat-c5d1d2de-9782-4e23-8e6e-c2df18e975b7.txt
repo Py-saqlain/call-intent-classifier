@@ -1,0 +1,54 @@
+AGENT: Hi Christian, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: This is not Christian.
+AGENT: Thank you for letting me know. How can I assist you today?
+CALLER: I need to, um, schedule a ride for tomorrow morning
+AGENT: Thank you for letting me know you want to schedule a ride for tomorrow morning. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call in right.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: Could you please provide the last six
+CALLER: Yes. Just a moment.
+AGENT: Take your time. Whenever you're ready, please provide the last six digits of your Call and Ride card.
+CALLER: Just a moment.
+AGENT: No problem at all. I'll wait for you to provide the last six digits of your Call and Ride card when you're ready.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: The last six digits are three four zero seven zero zero.
+AGENT: Thank you for providing your Call and Ride information. Your payment method is set to Call and Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: One zero five zero seven Huttings. H u t t I n g Place,
+AGENT: Thank you. Just to confirm,
+CALLER: Silver Spring, Maryland two zero nine zero
+AGENT: Thank you for that. To confirm, your pickup address is one zero five zero seven Hutting Place, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Just to confirm, your pickup address is one zero five zero seven Hutting Place, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: It is
+AGENT: Could you please provide the full destination or dropoff address?
+CALLER: Just a moment.
+AGENT: Take your time. Whenever you're ready, please provide the destination or dropoff address.
+CALLER: Destination, three three zero five North Leisure World Boulevard.
+AGENT: Thank you. Just to confirm, your destination address is three three
+CALLER: Silver Spring, Maryland
+AGENT: Thank you. To confirm, your destination address is three three zero five North Leisure World Boulevard, Silver Spring, Maryland. Is that correct?
+CALLER: That's correct.
+AGENT: Just to confirm, your destination address is three three zero five North Leisure World Boulevard, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Christian. I will now proceed with the next steps.
+AGENT: You mentioned your pickup time as tomorrow morning. Is that correct? Please say yes if it is.
+CALLER: Yes. Ten
+CALLER: ten AM tomorrow morning. And I am not Christian.
+AGENT: Thank you for confirming the pickup time as tomorrow at 10 AM. I will record that now. Next, how many passengers will be traveling, including yourself? Also, will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes.
+AGENT: Just to clarify, will there be one passenger including yourself, and will you need a wheelchair-accessible vehicle? Or could you please specify the number of passengers and if any wheelchairs are needed?
+CALLER: Just myself, wheelchair accessible.
+AGENT: The estimated fare for your trip is 22.5 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now for tomorrow at 10 AM with one passenger and a wheelchair-accessible vehicle. Please hold on a moment.
+AGENT: Your trip is booked for tomorrow at 10 AM. The confirmation number is 2 1 3 6 6 9 3 1 0. Is there anything else I can help you with?
+CALLER: Please repeat the confirmation number slowly.
+AGENT: Certainly. The confirmation number is 2 1 3 6 6 9 3 1 0. Is there anything else I can assist you with?
+CALLER: Yes. Repeat the confirmation number slowly.
+AGENT: Of course. The confirmation number is 2 1 3 6 6 9 3 1 0. Is there anything else I can do for you?
+CALLER: No. And my name is Martha Luisa.
+AGENT: Thank you for calling Barwood & Regency, Christian. Have a wonderful day.

@@ -1,0 +1,38 @@
+AGENT: Hello Donna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to be picked up at CVS. In Rockville. And taken to 1301 to card
+AGENT: Thank you for sharing your pickup and dropoff details. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes. What do you need? Carline ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? If not, please let me know which payment method you'd prefer.
+CALLER: Yes.
+AGENT: Great! Please provide the last six digits of your Call and Ride card when you're ready.
+CALLER: I Three two seven six four zero.
+AGENT: Thank you for providing your Call and Ride card details. Your payment method is set to Call And Ride.
+AGENT: I found several CVS locations near Rockville. Here are some options: 
+
+1. 17651 Redland Road, Derwood, Maryland
+2. 19100 Montgomery Village Avenue, Gaithersburg, Maryland
+3. 546 North Frederick Avenue, Gaithersburg, Maryland
+4. 20 Upper Rock Circle, Rockville, Maryland
+
+Which one would you like to use for your pickup?
+CALLER: Yep.
+AGENT: Your pickup address has been verified, Donna. I am now passing your trip details along to arrange your ride.
+AGENT: When would you like to be picked up?
+CALLER: 20 Upper Rock. Circle.
+AGENT: Sure, let me update that address.
+AGENT: I found CVS at 20 Upper Rock Circle, Rockville, Maryland. Is this the pickup location you want to use?
+CALLER: Yes. Yes.
+AGENT: The pickup address has been successfully updated. What time would you like the pickup?
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: Got it, I have your pickup time set for today at 5:03 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: What No. No. Not this
+AGENT: Your main trip pickup address is 20 Upper Rock Circle, Rockville, Maryland. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: I have recorded one passenger and no wheelchair needed. Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: Donna, the estimated fare for your trip is 7 dollars, paying with Call and Ride. Would you like to schedule a return trip as well?
+CALLER: Return where? Wanna go to to park?
+AGENT: Just to clarify, are you booking a return trip back to 20 Upper Rock Circle, or is the trip we just set up your return journey?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

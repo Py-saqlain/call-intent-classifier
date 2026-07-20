@@ -1,0 +1,49 @@
+AGENT: Hello Princess, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Can I have a ride, please?
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Can you yeah. I'm using a I'm using a debit card, please.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Mhmm.
+CALLER: One two two nine. Chris Heaven. Drive, Silver Spring.
+AGENT: Okay, so I found 1 2 2 9 Cresthaven Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Quarter three nineteen.
+AGENT: Hmm <break time="350ms"/> let me check that address. Could you please confirm the city and state for quarter three nineteen? <emotion value="peaceful"/>
+CALLER: Drive
+AGENT: Uh,
+CALLER: Silver Spring.
+AGENT: I couldn't find an exact match for 3 1 9 Drive in Silver Spring, Maryland.
+CALLER: Four three one nine. Four three one nine. Hello?
+AGENT: Okay, so I found 4 3 1 9 Ferrara Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes. Yes.
+AGENT: Your dropoff address has been verified, Princess.
+AGENT: When would you like to be
+CALLER: Okay. Okay. Hello?
+AGENT: Yes, I'm here to help. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Yeah. Now if if possible.
+AGENT: Okay great! I've got your pickup time set for today at 3:10 PM. Alright, soo
+CALLER: Or whenever you're available.
+AGENT: Got it, I'll keep your pickup time as today at 3:10 PM. Now, how many passengers will be traveling, including yourself? And will
+CALLER: Okay. Oh, thank you.
+AGENT: You're welcome! Just to
+CALLER: One. Oh my lord. Okay. Thanks a lot.
+CALLER: Appreciate it.
+AGENT: Okay great! I've got that noted. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: Right. No. No. No. No. No. No.
+AGENT: Okay great!
+CALLER: Don't need any help. We're working.
+AGENT: Alright, the estimated fare is 26 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion
+CALLER: Okay. Okay. No. Not today. No. I'm just going home. Mhmm. Mhmm.
+AGENT: Alright, I understand you don't want to schedule a return trip today. I'll proceed with booking just the one-way trip for you. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: No. Yeah. Yes, please. I wanna go. As soon as I can get home. It's getting hard out here.
+AGENT: Okay, so booking your trip now. <emotion value="grateful"/>
+AGENT: Thank you for your
+CALLER: Okay.
+AGENT: Your
+CALLER: No problem.
+AGENT: Looks like you already have a trip from 1 2 2 9 Cresthaven Drive to 4 3 1 9 Ferrara Drive at today 3:10 PM. What would you like to do? <emotion value="peaceful"/>
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today? <emotion value="peaceful"/>
+CALLER: Oh, Oh, I'm okay. I my trip is booked. I'm fine. I'm just waiting for the ride. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Princess. Have a wonderful day!

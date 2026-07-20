@@ -1,0 +1,46 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Madeline Turner?
+CALLER: Yes. You are.
+AGENT: Thanks for confirming, Madeline. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I would like to book a ride for today
+AGENT: Thank you, Madeline. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: This is is call and ride.
+AGENT: Thank you for letting me know you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three two five six three six.
+AGENT: Thank you, Madeline. Your payment with Call and Ride is all set.
+AGENT: Could you please tell me the pickup address for your ride today?
+CALLER: Three five one three Edwin Street, Silver Spring, Maryland two zero nine zero two.
+AGENT: I have 3 5 1 3 Edwin Street, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: JCPenney one one one six zero Vries Mill Road, Silver Spring, Maryland.
+AGENT: I have 1 1 1 6 0 Veirs Mill Road Suite DPT4, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Madeline.
+AGENT: What time today would you like to be picked up?
+CALLER: No.
+AGENT: Just to clarify, did you mean you want to be picked up right now, or would you prefer to schedule a will-call trip to call back later?
+CALLER: Yes.
+AGENT: Your pickup time is set for right now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Now. One
+CALLER: One no. One passenger.
+AGENT: Thank you for confirming one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+AGENT: Thank you. I have recorded one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Madeline, the estimated fare for your trip is 9.5 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: At
+AGENT: Could you please tell me the specific time you would like to be picked up for your return trip?
+CALLER: four thirty.
+AGENT: Just to confirm, do you mean 4:30 PM for your return trip pickup time?
+CALLER: 04:30. PM. Yes.
+AGENT: Your return trip pickup time is set for today at 4:30 PM. How many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger No wheelchair.
+AGENT: For your return trip, I have the pickup address as 1 1 1 6 0 Veirs Mill Road Suite DPT4, Silver Spring, Maryland, and the dropoff address as 3 5 1 3 Edwin Street, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 9.5 dollars, paying with your Call and Ride account. Should I go ahead and book both your main and return trips?
+CALLER: Yes.
+AGENT: Thank you. I am now booking both your main and return trips.
+AGENT: Your main trip is scheduled for today at 2:19 PM with confirmation number 2 1 3 6 6 9 5 6 8. Your return trip is scheduled for today at 4:30 PM with confirmation number 2 1 3 6 6 9 5 6 9. Is there anything else I can assist you with?
+CALLER: No. That's all.
+AGENT: Thank you for calling Barwood & Regency, Madeline. Have a wonderful day!

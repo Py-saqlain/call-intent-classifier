@@ -1,0 +1,16 @@
+AGENT: Hello Janette, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello, Anna. This is Kimberly Johnson. And I wanna book a ride.
+AGENT: Okay, Kimberly, I can help you with that. Could you please tell me where you would like to be picked up from? <emotion value="grateful"/>
+AGENT: Alright, Kimberly, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: A one hundred was calling by calling back
+AGENT: Hmmm.. that didn't seem right, could you please confirm if you meant Call and Ride for your payment method? If so, I will need the last six digits of your Call and Ride card. <emotion value="apologetic"/>
+CALLER: Three four zero zero one five.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Kimberly, could you please tell me the address where you would like to be picked up? If you want, I can also use your home address at 8 4 5 Rockville Pike, Rockville, Maryland. <emotion value="peaceful"/>
+CALLER: 101st Street.
+AGENT: Hmm <break time="350ms"/> let me check that address. Since you said just "101st Street," could you please provide the street number and city or nearby landmark to help me find the exact pickup location? <emotion value="hesitant"/>
+CALLER: It's 103rd Street.
+AGENT: Thanks for that. Could you please provide the full street number and the city or area for 103rd Street? That way I can find the exact pickup address for you. <emotion value="peaceful"/>
+CALLER: One hundred third one hundred first Street, Rockville, Maryland.
+AGENT: Okay, just to be sure, you said "one zero three one zero one Street, Rockville, Maryland" — is that correct? <emotion value="peaceful"/>
+CALLER: It's one hundred per give me a representative. No. No. Give me a representative.

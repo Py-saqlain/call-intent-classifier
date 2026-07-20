@@ -1,0 +1,58 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Unknown?
+CALLER: Patricia Ferro,
+AGENT: Thank you for that. May I confirm, are you Patricia Thomas or another Patricia?
+CALLER: Patricia, Sarah.
+AGENT: Thanks, Patricia. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a ride from Kaiser Permanente here in Jesus Burg back home to the corner of 7 Locks and River Road near Potomac.
+AGENT: Alright, Patricia, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: You you can probably sign that Yeah. You oh, you
+AGENT: Hmmm.. <break time="300ms"/> I didn't quite catch that. Could you please tell me how you'd like to pay? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: debit. A debt a debt
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as credit card. <emotion value="grateful"/>
+CALLER: Yes.
+AGENT: Okay, Patricia, I found one location for your pickup at Kaiser Permanente in Jesus Burg. Is that the correct place?
+AGENT: I found a few locations near the corner of 7 Locks and River Road in Potomac. 
+Option one: 1093 Seven Locks Road, Potomac. 
+Option two: 11355 Seven Locks Road, Potomac. 
+Option three: Cabin John Village, 11301 Seven Locks Road, Potomac. 
+Option four: 10700 Swains Lock Road, Potomac. 
+Option five: 10116 River Road, Potomac. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Neither one of those.
+AGENT: Okay, I understand. Could you please provide a bit more detail or a nearby landmark to help me find the exact corner of 7 Locks and River Road you mean in Potomac? <emotion value="hesitant"/>
+CALLER: It's River Health.
+AGENT: I found a location called Pivot PT - Potomac, an Athletico company, at 10220 River Road, Suite 2, Potomac. Is that the place you mean?
+CALLER: Right there at that corner of 7 Locks and River Road.
+AGENT: Your dropoff address has been verified, Patricia.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No. I'm my address is eight
+AGENT: I have your pickup and dropoff addresses and payment method noted. Now, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No. I haven't no. You haven't said anything that's my address.
+AGENT: Your main trip pickup address is 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: What's what's my dropoff address? Because you haven't said that.
+AGENT: Your main trip dropoff address is 1 0 2 2 0 River Road, Suite 2, Potomac, Maryland. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: That's not right.
+AGENT: Sure, let me update that address.
+AGENT: I understand you want to update your pickup address. Could you please provide the correct pickup address? <emotion value="peaceful"/>
+CALLER: That's not my address. My address is my address is
+AGENT: Could you please say your full pickup address again so I can make sure I have it right? <emotion value="peaceful"/>
+CALLER: no. No. No. No. The pickup is the pickup is correct. But but the
+AGENT: Okay, I understand your pickup address is correct. Could you please clarify what part you want to update or correct? <emotion value="peaceful"/>
+CALLER: Six 55 Watkinsville Road,
+AGENT: I found the address as six five five Watkins Mill Road, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: It's the drop off date. The drop That's
+AGENT: Okay, I understand you want to update the dropoff address. Could you please provide the correct dropoff address? <emotion value="peaceful"/>
+CALLER: that is the pickup, but I want to give you my drop off. Yes.
+AGENT: Thank you for clarifying. Please go ahead and tell me your dropoff address. <emotion value="peaceful"/>
+CALLER: Eight one three zero Right.
+AGENT: Could you please provide the full dropoff address including the street name and city? That way I can make sure I have it exactly right. <emotion value="peaceful"/>
+CALLER: 8130. Rising, R I S I N G, Ridge, R I D G E, Road, Bethesda, Maryland, which is virtually right in Potomac.
+AGENT: Hmm <break time="350ms"/> let me check that address again. It seems I couldn't find 8130 Rising Ridge Road in Bethesda, Maryland. Could you please confirm the street name and city once more or provide any nearby landmarks? <emotion value="hesitant"/>
+CALLER: That's exactly correct and it's right at the corner of 7 Locks in River Road.
+AGENT: Thank you for the clarification. Since the address is right at the corner of 7 Locks and River Road, would you like me to search again using just that intersection and Potomac as the city? <emotion value="peaceful"/>
+CALLER: Well, the address is the first, but it's virtually in Potomac. But the address itself is Bethesda, and you all picked me up at 06:00 today to come to Kaiser. So you should have it in the record.
+AGENT: I found your last pickup address as six five five Watkins Mill Road, Gaithersburg, Maryland. Is that correct? And for the dropoff, I don't have a record yet. Could you please confirm or provide the dropoff address again? <emotion value="peaceful"/>
+CALLER: Not me. Ma'am, Well,
+AGENT: I’m here to help. Could you please confirm if the pickup address six five five Watkins Mill Road, Gaithersburg, Maryland is correct? And then we can make sure your dropoff address is right too. <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: That's correct.

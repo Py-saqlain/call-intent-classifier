@@ -1,0 +1,69 @@
+AGENT: Hello Dee, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Very good. Good morning. I'm, uh, I need a ride today at twelve thirty and pick up place is thirty two ten North Leisure World Boulevard. Is our apartment here, and every time I take a ride with you guys, you have been very good to me, and I need to go through these giant Pharmacy to pick up my medication. And from there, I think I need after the hour then somebody has to come and pick up there, you see. With the same ride there, you see. So that's the arrangement After 12:30, I should be picked up at thirty two ten North Leesville Boulevard, Maryland, 20906.
+AGENT: Thank you for sharing your plans with me. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: And
+AGENT: Could you please let me know which payment method you'd prefer to use for your ride? Cash, credit card, or Call and Ride?
+CALLER: What is what is that? Please call.
+AGENT: Call and Ride is a payment card you can use with us. It works like a prepaid or account card for your rides. Would you like to use Call and Ride, or would you prefer cash or credit card instead?
+CALLER: Credit card.
+AGENT: Thank you, your payment by credit card is all set.
+AGENT: I have 3 2 1 0 North Leisure World Boulevard, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes. At 12:30 today.
+CALLER: 12:30PM.
+AGENT: I found several Giant Pharmacy locations. Here are some options: 
+
+1. 1 8 2 5 0 Flower Hill Way, Gaithersburg, Maryland
+2. 1 6 8 3 7 Crabbs Branch Way, Derwood, Maryland
+
+Which one would you like to go to?
+AGENT: I found several Giant Pharmacy locations. Which one would you like to go to? 
+
+1. 1 8 2 5 0 Flower Hill Way, Gaithersburg, Maryland
+2. 1 6 8 3 7 Crabbs Branch Way, Derwood, Maryland
+
+Please tell me the number of the location you prefer.
+CALLER: No. The I have it. A pharmacy place to pick up a drop me off is at they are on just a moment. I have a address here. They they are on the International Drive. You see? On the International Drive, I always take care of it for that one. It is it is right on International Drive I'll just give you that
+AGENT: Please go ahead and provide the address on International Drive where you'd like to be dropped off.
+CALLER: Yeah. The the the the the their address is I think you guys know that one if they are on the International Drive at at Giant Pharmacy, and their phone number is three zero one five nine eight three two zero eight. They are on thirty eight something. I think I have here but
+AGENT: Thank you for the information. Could you please provide the full street number on International Drive for the Giant Pharmacy dropoff? That will help me find the exact address for you.
+CALLER: Okay. That is, uh, I think, pharmacies on we are on Just a moment. We are on
+AGENT: Take your time. Whenever you're ready, please provide the full street number and street name on International Drive for the Giant Pharmacy dropoff.
+CALLER: Thirty eight
+AGENT: Thank you. To confirm, is the dropoff address 3 8 0 1 International Drive, Silver Spring, Maryland?
+CALLER: Just a moment. The
+AGENT: No problem, take your time. Let me know when you're ready to provide the full dropoff address.
+CALLER: no, you have a pharmacy on the international drive.
+AGENT: I understand you want to go to the Giant Pharmacy on International Drive. To make sure I get the right location, could you please confirm the full street address or any nearby landmarks? This will help me find the exact dropoff spot for you.
+CALLER: That is the place you should drop me.
+AGENT: I see a few addresses on International Drive in Silver Spring that might be the Giant Pharmacy location you mentioned. Could you please confirm if the dropoff address is 3 8 0 1 International Drive, Silver Spring, Maryland?
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Dee. I will now proceed with arranging your ride.
+AGENT: You mentioned you want to be picked up today at 12:30 pm. Is that correct?
+CALLER: That is the one.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Pickup is pickup time at 12:30 is one person one person, myself.
+AGENT: Thank you for letting me know there will be one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No. No. One person it's thirty two ten Yeah.
+AGENT: The estimated fare for your trip is 8 dollars, and you will be paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: On the card?
+AGENT: Just to confirm, you want to pay with your credit card for this trip, correct?
+CALLER: Yes. Yes.
+AGENT: Great! Would you like to schedule a return trip as well?
+CALLER: And 12:30,
+AGENT: Just to clarify, are you asking to confirm the pickup time is 12:30 pm?
+CALLER: And
+AGENT: Would you like to schedule a return trip for after your 12:30 pm pickup, or is this a one-way trip only?
+CALLER: Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: It's a one way trip, and then
+AGENT: Thank you. I am processing your one-way trip booking for today at 12:30 pm. Please hold on a moment.
+AGENT: Your one-way trip is booked for today at 12:30 pm. Your confirmation number is 2 1 3 6 6 5 5 0 0. Is there anything else I can assist you with?
+CALLER: Just a minute. Yeah. Can you give me confirmation number, please?
+AGENT: Certainly. Your confirmation number is 2 1 3 6 6 5 5 0 0. Is there anything else I can help you with?
+CALLER: That's it. And I will be the pickup of place is thirty two ten. I'll be outside outside the building They it is visible to believe what? And it is a one edge west building. One age west. Okay?
+AGENT: Thank you for the details about your pickup location. I can't contact the driver directly, but I can connect you with a representative who can assist with any messages or issues for the driver. Would you like me to do that for you?
+CALLER: Yes. What will be the color of the cap or the cab number?
+AGENT: I’m unable to provide details like the cab color or number directly. However, I can connect you with a representative who can give you that information. Would you like me to connect you now?
+CALLER: Sure.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: And I'm as a Yeah.

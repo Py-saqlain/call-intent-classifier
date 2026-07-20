@@ -1,0 +1,12 @@
+AGENT: Hello Precious, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. This is Griffin at 507. I wanna go to six zero eight North Hornet Lane, Could you send me a cab, please? So I can get to church?
+AGENT: Alright, Griffin, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: You credit card. Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, Griffin, I have your pickup as 5 0 7 Woodston Road, Rockville, Maryland, and your dropoff as 6 0 8 North Horners Lane, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your addresses have been verified, Griffin. I'll proceed with arranging your ride now.
+CALLER: Okay. How long will that be?
+AGENT: The estimated fare for your trip is $6. Now, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No. If you can't,
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

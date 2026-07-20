@@ -1,0 +1,22 @@
+AGENT: Hello Marsha, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to get a cab
+AGENT: Alright, how would you like to pay for your cab today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Hello? Calling by
+AGENT: Hmmm.. that didn't seem right, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: Call and ride.
+AGENT: Okay, great. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: O eight five two seven one.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your cab? If you'd like, I can use your home address at one five nine four four Luanne Drive, Gaithersburg, Maryland. Would you like to be picked up there? <emotion value="peaceful"/>
+CALLER: No. Seventeen o nine.
+AGENT: Thank you. Could you please provide the street name and city for the pickup address at one seven zero nine? <emotion value="peaceful"/>
+CALLER: Yep. They Yelp, please.
+AGENT: Uh, I am sorry, but could you please repeat the street name and city for the pickup address at one seven zero nine? <emotion value="hesitant"/>
+CALLER: Yeah.
+AGENT: Could you please say the street name and city for the pickup address at one seven zero nine? <emotion value="peaceful"/>
+CALLER: Yeah. Please.
+AGENT: I want to make sure I have the correct pickup address. Could you please tell me the street name and city for one seven zero nine? <emotion value="peaceful"/>
+CALLER: Yelp Place Rockville.
+CALLER: Yeah. Please.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+AGENT: Okay, so I found the pickup address

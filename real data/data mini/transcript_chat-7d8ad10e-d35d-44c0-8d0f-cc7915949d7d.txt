@@ -1,0 +1,20 @@
+AGENT: Hi Alex, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Uh, can you pick me up from 321 University Boulevard West in Silver Spring, Maryland and, uh, I want to go home. I'll be paying with credit card for this trip.
+AGENT: Thank you for letting me know you'll be paying with credit card. Your payment method is confirmed as Credit Card.
+AGENT: Would you like to arrange a return trip as well, or is this one-way?
+AGENT: I have your pickup as 3 2 1 University Boulevard West, Silver Spring, Maryland, and your dropoff as 8 2 0 1 Snouffer School Road, Gaithersburg, Maryland. Is that
+CALLER: Yes. That's correct.
+AGENT: Your pickup and dropoff addresses have been verified, Alex. I'll proceed with the next steps for your trip.
+AGENT: When would you like to be picked up?
+CALLER: Picking up on Sunday, but I don't know the time yet.
+AGENT: Since you mentioned Sunday but don't know the time yet, I will record this as a will-call trip for Sunday. Is that correct?
+CALLER: Yes. I will call.
+CALLER: It's a bill call. Yes.
+AGENT: Just to confirm, you want a will-call trip for Sunday. Now, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two passengers and one wheelchair. And no instructions for the driver.
+AGENT: The estimated fare for your trip is 42.5 dollars, and you will be paying with a credit card. Would you like to schedule a return trip as well?
+CALLER: No. I don't want any country.
+AGENT: I'm processing your will-call trip booking for Sunday now. Please hold on a moment.
+AGENT: Your will-call trip for Sunday is booked. The confirmation number is 2 1 3 6 7 9 3 2 1. Is there anything else I can help you with?
+CALLER: No. Thank you. That's what
+AGENT: Thank you for calling Barwood & Regency, Alex. Have a wonderful day.

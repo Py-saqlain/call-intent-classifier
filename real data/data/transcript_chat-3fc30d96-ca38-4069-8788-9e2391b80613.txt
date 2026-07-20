@@ -1,0 +1,32 @@
+AGENT: Hello Bella, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab. I'm at the one congressional plaza and and Wells Fargo. I need to go to the Levitt's House. At 6111 Montrose Road.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Two, five, Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+CALLER: Yes.
+AGENT: Could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+AGENT: I have your dropoff as 6111 Montrose Road, North Bethesda, Maryland. However, I couldn't locate the pickup address at 1 Congressional Plaza and
+CALLER: And on that
+AGENT: Uh, I am sorry, but could you please provide the full pickup address including the street number, street name, and city? That will help me find it
+CALLER: And 111, um, Congress. Plaza. It's in Wells Fargo Bank.
+AGENT: Okay, let me check that address for you. <emotion
+CALLER: I'm I'm not sure Yeah.
+AGENT: Okay, I found 1 1 1 Congressional Drive, Queen Anne's South County, Maryland. Is that the correct pickup address? Please say yes or no. <emotion value="hesitant"/>
+CALLER: It's it's Congressional Plazas across the street from CVS of the
+AGENT: Thanks for clarifying. Let me search for Congressional Plaza across the street from CVS. <emotion value="peaceful"/>
+AGENT: I found a few locations.  
+Option one: 20
+CALLER: Yeah. Yes. Oh, Hello?
+AGENT: I heard your confirmation. Let me verify that pickup address for you. <emotion value="peaceful"/>
+AGENT: Your pickup address has been verified, Bella.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Okay. Oh, and now Soon as possible. I'll be I'll be you'll see me. By the driveway.
+AGENT: The estimated fare is 21.5 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: $21 just just to go to? Hello?
+AGENT: The estimated fare for your trip to 6111 Montrose Road is 22.5 dollars. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. No. Okay. I'll be waiting.
+AGENT: Thank you for your patience. I'm processing your ride now.
+AGENT: Your main trip is booked for today at 9:30 AM. Your confirmation number is 2 1 3 6 7 6 7 8 5. Is there anything else I can help you with?
+CALLER: No.
+CALLER: Hi
+AGENT: Thank you for calling Barwood & Regency, Bella. Have a wonderful day.

@@ -1,0 +1,23 @@
+AGENT: Hello devira, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello. Is this?
+AGENT: Uhh, yes, I'm here. How can I assist you today? <emotion value="peaceful"/>
+CALLER: Ballard, Ashley. I need to make arrangements for pickup and then return home.
+AGENT: Alright, how would you like to pay for your rides today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Alright. Well, I'm gonna probably give cash tip with credit card Discover through paying.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: To get started, could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Yeah. Can I talk to somebody that's alive?
+CALLER: Hello?
+AGENT: I will connect you to a live agent now.
+AGENT: Could you please tell me the address
+CALLER: Thank you.
+AGENT: You're welcome. Could you please provide the address where you'd like to be picked up? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Live agent.
+AGENT: I will connect you to a live agent now.
+CALLER: Thank you.
+AGENT: Thank you for calling Barwood Cab and Regency Taxi, devira. Have a wonderful day!
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready for a live agent. Yes.
+CALLER: My sugar Hello?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

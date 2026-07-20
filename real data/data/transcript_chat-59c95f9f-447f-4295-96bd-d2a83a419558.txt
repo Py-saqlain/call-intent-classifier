@@ -1,0 +1,22 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Drew Evans?
+CALLER: Yes.
+AGENT: Thanks, Drew. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yes. I would like a I would like to be picked up on for tomorrow, Tuesday, July 7,
+AGENT: Could you please tell me the pickup address and the destination for your ride tomorrow, Tuesday, July 7?
+CALLER: Yes.
+AGENT: Thank you. Please provide the pickup address where you would like to be picked up tomorrow.
+CALLER: Yes. Yes. 2400 Apple Harbors Circle, Germantown, Maryland, apartment j,
+AGENT: Got it. And where would you like to go from 2400 Apple Harbors Circle, Apartment J, Germantown, Maryland?
+CALLER: Yes. I would like to go to twenty five hundred
+AGENT: Could you please
+CALLER: Seneca Meadows Parkway,
+AGENT: Thank you. To confirm, your pickup will be
+CALLER: Germantown round.
+AGENT: Thank you. To confirm, your pickup will be at 2 4 0 0 Apple Harvest Circle, Apartment J, Germantown, Maryland, and your dropoff will be at 2 5 0 0 Seneca Meadows Parkway, Germantown, Maryland, tomorrow, Tuesday, July 7. Is that correct?
+CALLER: Yes.
+AGENT: Would you like to specify a pickup time for your ride tomorrow, or should I proceed with scheduling it for the default time?
+CALLER: On, like, a 02:30PM pickup?
+AGENT: It looks like you already have two trips scheduled, one on July 7th from 20500 Seneca Meadows Parkway to 20400 Apple Harvest Circle, and another on July 10th from Silver Spring to Germantown. What would you like to do?
+CALLER: I would like to schedule this trip for tomorrow.
+AGENT: Since you already have trips scheduled, I’ll connect you with a representative who can help schedule this new trip for tomorrow. Please hold for a moment.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,25 @@
+AGENT: Hello Alba, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Could you send me a card, please, thanks?
+AGENT: Uhh, could you please clarify what kind of card you are referring to? Are you asking about a Call and Ride card or something else? <emotion value="hesitant"/>
+CALLER: No. I'm calling for a bow.
+AGENT: Okay, so you’re calling to book a ride? I can help with that. Let me get some details from you to get started. Where would you like to be picked up? <emotion value="grateful"/>
+CALLER: Yeah. Okay.
+AGENT: Great! Could you please tell me the pickup address for your ride? <emotion value="grateful"/>
+CALLER: One seven two five daily
+AGENT: Just to confirm, is your pickup address 1 7 2 5 Staley Manor Drive in Silver Spring, Maryland? <emotion value="grateful"/>
+CALLER: one seven two five Yeah. Yes.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, just to confirm, your pickup address is 1 7 2 5 Staley Manor Drive, Silver Spring, Maryland. Is that correct? <emotion value="grateful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Could you please tell me the destination or dropoff address for your ride? <emotion value="peaceful"/>
+CALLER: Which seem rough Okay, it's rough at Bridge Training Shopping Center.
+AGENT: Hmm, I couldn't find a location for Bridge Training Shopping Center. Could you please provide the full street address or another nearby landmark? <emotion value="apologetic"/>
+CALLER: So it's next to global. Global in British Danish shopping center.
+AGENT: It looks like that location is outside our service area. Could you please provide a different destination or dropoff address within our service area? <emotion value="apologetic"/>
+CALLER: Okay. I'll call you back.
+AGENT: Thank you for calling Barwood & Regency, Alba. Have a wonderful day.
+CALLER: My call is you work in.

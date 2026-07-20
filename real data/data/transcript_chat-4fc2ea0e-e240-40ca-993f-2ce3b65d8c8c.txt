@@ -1,0 +1,58 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Henson Moore?
+CALLER: No.
+AGENT: Thank you for letting me know. May I ask who I’m speaking with today? Your name, please?
+CALLER: Congressional Country Club.
+AGENT: It sounds like you said "Congressional Country Club," but I need your name to find your profile. Could you please tell me your name?
+CALLER: There no profile.
+AGENT: Thanks for letting me know. Since I don’t see a profile under your name, I can help you set one up when you’re ready to book a ride. What can I assist you with today?
+AGENT: Thanks for clarifying. How can I assist you with your ride today? Are you looking to book a trip?
+CALLER: Schedule a ride. Schedule a pickup.
+AGENT: This is Barwood & Regency. Could you please tell me your name so I can assist you with scheduling your pickup?
+CALLER: Yes.
+AGENT: Thank you. May I have your name, please?
+CALLER: Daniel Mudd,
+AGENT: Thanks, Daniel. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Schedule a pickup.
+AGENT: I'd be happy to help schedule your pickup. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash Cash.
+AGENT: Thank you for letting me know you'll be paying with cash.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Eighty five hundred
+AGENT: Thank you. Could you please provide the street name and city for the pickup address?
+CALLER: River Road.
+AGENT: I have 8 5 0 0 River Road, Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Yes, ma'am.
+AGENT: Thank you. Could you please tell me the destination or dropoff address for your ride?
+CALLER: What's the destination again? Four four eight
+AGENT: I don't have the destination address yet. Could you please provide the full destination address including the street name and city? You mentioned "four four eight"—could you tell me the street name and city for that?
+CALLER: six zero No. No.
+AGENT: I want to make sure I have your destination address correctly. You said "four four eight" and then "six zero no no." Could you please clarify the full street number, street name, and city for your destination?
+CALLER: Four eight six zero.
+AGENT: Thank you. Could you please provide the street name and city for the destination address?
+CALLER: Four
+AGENT: It seems like you said "Four." Could you please provide the street name and city for the destination address?
+AGENT: Take your time. Just
+CALLER: six zero.
+AGENT: Take your time. Just let me know the street name and city for the destination address when you're ready.
+CALLER: 4860. Bethesda Avenue, ma'am.
+AGENT: I have 4 8 6 0 Bethesda Avenue, Bethesda, Maryland as your destination address. Is that correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Daniel. I will now proceed with the next steps to arrange your ride.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: Got it, I'll arrange your pickup as soon as possible. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Mostly. No.
+AGENT: Could you please clarify the number of passengers traveling? And just to confirm, no wheelchair-accessible vehicle is needed?
+CALLER: One.
+AGENT: Thank you for confirming one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: Correct. Sure.
+AGENT: Please tell me the special instructions or notes you'd like the driver to know.
+CALLER: No.
+AGENT: Daniel, the estimated fare for your trip is 17.5 dollars, and you will be paying with cash. Would you like to schedule a return trip as well?
+CALLER: No. Schedule, please.
+AGENT: Thank you. I am processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 12:43 PM. Your confirmation number is 2 1 3 6 7 9 3 9 7. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Daniel. Have a wonderful day.

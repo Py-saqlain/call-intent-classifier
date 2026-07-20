@@ -1,0 +1,32 @@
+AGENT: Hello Phillippe, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I just want to confirm my reservation for 07:30PM.
+AGENT: I don't see an active trip scheduled for 7:30 PM. Would you like me to help you book a ride for that time?
+CALLER: Yes, please.
+AGENT: Thank you for confirming the time. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: 10100 Gullsworthy Place, Bethesda. Maryland.
+AGENT: I have 1 0 1 0 0 Galsworthy Place, Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Dulles Airport.
+AGENT: I found Dulles International Airport at 1 Saarinen Circle, Dulles, Virginia. Is that the correct dropoff location?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Phillippe. I will now proceed with your booking.
+AGENT: When would you like to be picked up?
+CALLER: 07:30PM.
+AGENT: Your pickup time is set for today at 7:30 PM. How many passengers will be traveling, including yourself? Also, will anyone need a wheelchair-accessible vehicle?
+CALLER: Three passengers no wheelchairs.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No. Three large loggers only.
+AGENT: The estimated fare for your trip is 60 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed without a return trip. Should I go ahead and book your trip now?
+CALLER: Can you repeat?
+AGENT: The estimated fare for your trip is 60 dollars, paying with your credit card. You chose not to schedule a return trip. Should I go ahead and book your trip now?
+CALLER: Yes.
+AGENT: Thank you, I am now booking your trip.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 9 6 7 6. The pickup is today at 7:30 PM. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Phillippe. Have a wonderful day!

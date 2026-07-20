@@ -1,0 +1,48 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have
+CALLER: Okay Oh. Hello? Oh, it's still
+AGENT: I’m here to help. Could you please tell me your name so I can set up your profile?
+CALLER: Hello?
+AGENT: I’m here with Barwood & Regency. Could you please tell me your name when you’re ready?
+CALLER: Hello?
+AGENT: I’m here to assist you with Barwood & Regency. Whenever you’re ready, please tell me your name so
+CALLER: Hello?
+AGENT: I’m here to help with Barwood & Regency. Please let me know your name when you’re ready.
+CALLER: Katrina Carter,
+AGENT: Thanks, Katrina. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yes. Could I speak to a live agent? Or a live customer service representative? They just started with that. Thank you. Echo. Hello?
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Okay. You can help me right now.
+AGENT: Thank you, Katrina. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Colon right
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero eight four three six five. Zero eight four three six five.
+AGENT: Thank you, Katrina. Your payment with Call and Ride is all set.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Eight zero seven
+CALLER: Kennebec Avenue, k e n n e b e c, Avenue, apartment number two, Takoma Park, Maryland
+AGENT: I have 8 0 7 Kennebec Avenue, Takoma Park, Maryland as your pickup address. Is that correct?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay.
+CALLER: I'm I'm Hello?
+AGENT: Yes, I'm here to help. Is the pickup address 8 0 7 Kennebec Avenue, Takoma Park, Maryland correct?
+CALLER: Yes. Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. It's one three five two nine Connecticut Avenue, Silver Spring, Maryland two zero nine zero six.
+AGENT: I have 1 3 5 2 9 Connecticut Avenue, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yeah. And it's for tomorrow? It's for Thursday. July six sixteenth. I think
+AGENT: Your dropoff address has been verified, Katrina. I will now proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: Thursday at 10AM. Thursday, July sixteenth at ten AM
+AGENT: Your pickup time is set for tomorrow at 10:00 AM. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: This one And no. No wheelchair vehicle.
+AGENT: Thank you. I have recorded 1 passenger and no wheelchair-accessible vehicle needed. Do you have any special instructions for the driver?
+CALLER: Alright. Yes. Pick me up at the bottom of the driveway.
+AGENT: Katrina, the estimated fare for your trip is 26 dollars, paying with Call and Ride. Would you like to schedule a return trip as well?
+CALLER: Yeah. But I'll call from the store. Thank you.
+AGENT: Your return trip will be set as will-call, with pickup from 13529 Connecticut Avenue back to 807 Kennebec Avenue. The fare will be 26 dollars, paying with Call and Ride. Should I go ahead and book both trips now?
+CALLER: Yes. It's just one trip, one way. And then I will call back. Yeah.
+AGENT: Thank you for your patience, Katrina. I'm processing your one-way trip booking now. Please hold on a moment.
+AGENT: Your one-way trip is booked for tomorrow at 10:00 AM. Your confirmation number is 2 1 3 6 7 8 4 9 4. Is there anything else I can assist you with?
+CALLER: No. That's it. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Katrina. Have a wonderful day!
+CALLER: Too.

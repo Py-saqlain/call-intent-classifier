@@ -1,0 +1,20 @@
+AGENT: Hi Larry, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a care Head up. Offered Road. Montgomery County
+AGENT: Thank you for
+CALLER: going to Center Wake
+AGENT: Could you please let me know how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: I'll pay in cash.
+AGENT: Thank you for letting me know you'll be paying with cash.
+AGENT: I have 8 2 0 1 Snouffer School Road, Montgomery County, Maryland as your pickup address. Is that correct?
+CALLER: No. That is not correct. My pickup address is at the IHOP or Frederick Road.
+AGENT: Thank you for the correction. Just to clarify, is your pickup address IHOP on Frederick Road? If you can provide the street number or city, that would help me find the exact location.
+CALLER: There'll be I have Frederick Road, Gaithersburg, Maryland.
+AGENT: I have 2 0 6 North Frederick Avenue, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: It'll be ninety forty two Sinoe Road. Gaithersburg, Maryland.
+AGENT: I couldn't locate 9 0 4 2 Sinoe Road in Gaithersburg, Maryland. Could you please confirm the street number and name again or
+CALLER: No. It is the street address the street address is ninety forty two Center Way Road, Gaithersburg, Maryland.
+AGENT: I couldn't find 9 0 4 2 Center Way Road in Gaithersburg, Maryland either. Could you please double-check the address or provide a nearby landmark or cross street to help me find it?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Thank

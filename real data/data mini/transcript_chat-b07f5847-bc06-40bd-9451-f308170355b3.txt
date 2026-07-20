@@ -1,0 +1,9 @@
+AGENT: Hi Joy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: We don't how it's do I get to Southwest?
+AGENT: I want to make sure I understand correctly—are you looking to book a ride to Southwest Airlines at an airport, or do you mean a different Southwest location? Could you please clarify?
+AGENT: Take your time. Just let me know
+CALLER: That's okay.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

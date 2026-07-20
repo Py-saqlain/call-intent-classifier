@@ -1,0 +1,29 @@
+AGENT: Hi Mona, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like to just send me taxi, please.
+AGENT: Alright, how would you like to pay for your taxi? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: One two three zero one Brackenville. Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, I have the pickup address as one two three zero one Braxfield Court, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One nine eight. Road.
+AGENT: Hmm <break time="350ms"/> let me check that address. Could you please tell me the street name or city for the address "one nine eight Road"? That will help me find the exact location. <emotion value="peaceful"/>
+CALLER: Okay then. Rockville Rockville, Maryland 20852.
+AGENT: Okay, I found the dropoff address as one nine eight Halpine Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Mona.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Ten minute, please.
+AGENT: Just to clarify, do you mean you would like to be picked up in ten minutes from now? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time set for today at 12:00 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Thank Yep. No. Jessie.
+AGENT: Alright, the estimated fare is 8.5 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Okay.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No. No. I say no.
+AGENT: Thank you for letting me know. I am now processing your main trip booking. Please hold on a moment.
+AGENT: Your main trip is booked for today at 12:00 PM. Your confirmation number is 2 1 3 6 7 3 1 4 5. Is there anything else I can help you with?
+CALLER: Thank you.
+AGENT: Thank you for calling Barwood Cab. Have a great day, Mona.
+CALLER: Okay. Thank you.

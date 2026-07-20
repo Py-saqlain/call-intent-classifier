@@ -1,0 +1,43 @@
+CALLER: Hello?
+AGENT: How can I assist you with your ride today?
+AGENT: Take
+CALLER: Hello? Hello? Hello? Hello?
+AGENT: I'm here to help. What can I do for you regarding your ride?
+CALLER: I I'm calling in right.
+CALLER: To seventeen less fuel crude.
+AGENT: Thank you for sharing that. To help you further, could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call
+CALLER: All I'm trying.
+AGENT: Just to make
+CALLER: Colin, right.
+AGENT: Did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of
+CALLER: Yeah. Yes. The last six digit that performed eleven fifty one. Thirty four eleven sixty one.
+AGENT: Thank you. Just to confirm, the last six digits of your Call and Ride card are 1 1 5 1 3 4, is that correct?
+CALLER: No. One three four one one six one. Three four one one six one.
+AGENT: Thank you for confirming the digits 1 3 4 1 1 6 1 for your Call and Ride card. Your payment method is set to Call and Ride.
+AGENT: I found several fuel stations near 9861 Dellcastle Road in Montgomery Village, Maryland:
+
+1. Exxon at 7 9
+CALLER: You know, Yeah. What? Hello?
+AGENT: Yes, I'm here to help. Which of the fuel stations I mentioned would you like to use for your pickup location?
+CALLER: Pickup location is nine eight six one Delcast Road, Montgomery Village.
+AGENT: I have 9 8 6 1
+CALLER: Drop off.
+AGENT: Could you please provide the destination or dropoff address?
+CALLER: Mhmm. Mhmm. Alright. Stop until seventeen Road.
+AGENT: Could you please clarify the dropoff address? Did you mean "Seventeen Road" or something else? If you have a full address or a nearby landmark, that would help.
+CALLER: Field. Fat field root.
+AGENT: Could you please confirm if you mean "Fat Field Road" for your dropoff address? If not, please
+CALLER: Seventeen flat field route.
+AGENT: Thank you. Just to confirm, is your dropoff address "Seventeen Flat Field Route"? If that's correct, please say yes.
+CALLER: S I R S T. Space.
+CALLER: Field. Space.
+CALLER: Field. Fresh.
+CALLER: Build.
+AGENT: It sounds like you are spelling out part of the address. Could you please say the full dropoff address again, including the street number and street name?
+CALLER: Drop off.
+AGENT: Could you please provide the full dropoff address or the name of the place you want to go
+CALLER: One seven.
+CALLER: First group o.
+AGENT: Could you please provide the full dropoff address including the street
+CALLER: Oh my god.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

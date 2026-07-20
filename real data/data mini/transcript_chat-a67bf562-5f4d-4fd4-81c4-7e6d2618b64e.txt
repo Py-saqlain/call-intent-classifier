@@ -1,0 +1,15 @@
+AGENT: Hello Woodrow, this is Ana from Barwood & Regency. Vehicle 698 has arrived at your pickup location. How can I assist you today?
+CALLER: We've all been here. Long, long time ago.
+AGENT: Uhh, yeah, I get that feeling. How can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Well,
+AGENT: Yes? What can I help you with regarding your ride or transportation needs? <emotion value="peaceful"/>
+CALLER: They they picked you all belong to pick me up. And they probably remember car. Left my car.
+AGENT: Umm, it sounds like you might be talking about a pickup or a ride you had before. Are you looking to book a new ride, check on a current ride, or something else? <emotion value="hesitant"/>
+CALLER: I I no. I'm not doing nothing. And and that bag is mine too.
+AGENT: Okay, I hear you. If you need help with anything related to your ride or if you want to talk to someone about your bag or any other issue, just let me know how I can assist you. <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Alright, if you have any questions or need assistance with a ride, just let me know. I'm here to help. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Had been on the top
+AGENT: I'm sorry, I didn't quite catch that. Could you please clarify or tell me more about what you need help with? <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

@@ -1,0 +1,24 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Kim Pipari?
+CALLER: Yes.
+AGENT: Thanks for confirming, Kim. This is Barwood & Regency. How can I assist you today?
+CALLER: I need a cab at Shady Grove Metro.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Column ride.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Thirty four five two two o.
+AGENT: Hmmm.. that didn't seem quite right. Could you please repeat the last six digits of your Call and Ride card, saying each digit clearly? <emotion value="apologetic"/>
+CALLER: Three four three four five two two zero.
+AGENT: Thank you. I have noted the last six digits as 3 4 3 4 5 2 2 0, but that is eight digits. Could you please provide exactly six digits from your Call and Ride card? <emotion value="hesitant"/>
+CALLER: Three four five two two zero.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: I found one location for Shady Grove Metro near 610 Professional Drive, Gaithersburg, Maryland 20879. Is this the correct pickup location? <emotion value="peaceful"/>
+CALLER: No. Shady Grove Metro.
+AGENT: Thank you for clarifying. Just to be sure, you want the pickup at Shady Grove Metro without the nearby 610 Professional Drive address, correct? <emotion value="hesitant"/>
+CALLER: No. Operator.
+CALLER: Jesus Christ. I can walk fucking home from here. This is bullshit. Fucking ass.
+CALLER: Hello?
+AGENT: Uhh, I’m here to help. I see you want to speak with an operator. I’ll connect you to a live agent right away.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Are you talking you taxi? Thank you.

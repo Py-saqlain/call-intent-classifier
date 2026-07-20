@@ -1,0 +1,25 @@
+AGENT: Hi Dennis, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Need a taxi. From one three one one two O'Kanal Avenue. Rockville
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so I found 1 3 1 1 2 Okinawa Avenue, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Could you please tell me your destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Eight four five Rockville Pike
+AGENT: Okay, so I found 8 4 5 Rockville Pike, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: As soon as possible.
+AGENT: Okay great! I've got your pickup time as today at 2:31 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One and no.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: Alright, so let me confirm those details. Your pickup is 1 3 1 1 2 Okinawa Avenue. Your dropoff is 8 4 5 Rockville Pike, Rockville. Pickup time is today at 2:31 PM. One passenger, no wheelchair needed. The estimated fare is 7.5 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Because I'm not sure how long I'll be there.
+AGENT: Alright, I understand. So we'll just book the one-way trip for now. Let me go ahead and confirm your booking.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 7 0 8 6. Your pickup is today at 2:31 PM. Is there anything else I can help you with?
+CALLER: No, thank you.
+AGENT: Thank you for calling Barwood & Regency, Dennis. Have a wonderful day!
+CALLER: Thanks. You too.

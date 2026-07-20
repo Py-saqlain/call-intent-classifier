@@ -1,0 +1,43 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Deborah Watson?
+CALLER: Yes.
+AGENT: Thanks, Deborah. This is Barwood & Regency. How can I assist you today?
+CALLER: Could you send a cab to fifty eight Penny Doll Court, Silver Spring, Maryland
+AGENT: I can help with that. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call a ride. Call arrive.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero eight three five four zero. Three five Yep.
+AGENT: Thank you, Deborah. Your payment with Call and Ride is all set.
+AGENT: I have 5 8 Penny Dog Court, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. Yes. Yes. Michelle.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: The pickup, would you shut the fuck up? The pickup address is 58 Penny Duck Court, Silver Spring, Maryland.
+AGENT: I found a similar address from recent trips: 5 8 Penny Dog Court, Silver Spring, Maryland. Is that the correct pickup location?
+CALLER: Yes. Yes.
+AGENT: The pickup and dropoff addresses cannot be the same. Could you please provide a different pickup address?
+CALLER: Okay. My dropoff my drop off address is thirteen five two nine Connecticut Avenue, Silver Spring.
+AGENT: Thank you for the new dropoff address. To make sure I have it right, is your dropoff address 1 3 5 2 9 Connecticut Avenue, Silver Spring, Maryland?
+CALLER: Yes.
+AGENT: I have 1 3 5 2 9 Connecticut Avenue, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: Fifty eight Penny Doll Court Silver Spring, Maryland.
+AGENT: I found a similar address from recent trips: 5 8 Penny Dog Court, Silver Spring, Maryland. Is that the correct pickup location?
+CALLER: Yes. That's the correct pickup location.
+AGENT: Your pickup address has been verified, Deborah. I will now proceed with your booking.
+AGENT: When would you like to be picked up?
+CALLER: Mhmm. Now. Could have got.
+AGENT: Thanks for letting me know you want to be picked up now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Right. One. One
+AGENT: Thank you. I have recorded 1 passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: Right.
+AGENT: The estimated fare for your trip is 15 dollars, and you'll be paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: Hey.
+AGENT: Yes, I'm here to help. Would you like to schedule a return trip for your ride?
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 2:11 PM. Your confirmation number is 2 1 3 6 7 8 2 8 9. Is there anything else I can assist you with?
+CALLER: No. Thank you. How long will it be?
+AGENT: Your trip is estimated to take about 10 minutes. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Deborah. Have a wonderful day.
+CALLER: You too. Bye bye.

@@ -1,0 +1,48 @@
+AGENT: Hello Dr., this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello. This is Rick Decker in the I called the agency taxi. You said it's okay? Doctor Rakit?
+CALLER: Pickup at 05:00. You haven't sent anybody yet? They have closed the shop, everything.
+CALLER: So can you send someone quickly? At 88 Burro Drive? I'll stay in McDonald's because it's getting too late.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card,
+CALLER: No. I'll stay here. I'll stay in the 88 Boulevard Drive. It's charged Change car. But send me somebody. I mean, what? It's very unacceptable. At 05:00, they're supposed to come. It's seven 06:30 now. And this is coming as soon as possible. It's not possible at all. This is like a airport.
+AGENT: I understand
+CALLER: I mean, it's very close.
+AGENT: I
+CALLER: You should send somebody right away.
+AGENT: I
+CALLER: I'm waiting.
+AGENT: Alright, I understand you need a ride as soon as possible from 8 8 Burro Drive. Could you please let me know how you would like to pay for this trip? We accept cash,
+CALLER: Did I did call three times. Nobody's coming here.
+AGENT: I hear you, and I want to help get this
+CALLER: Credit card. No. Don't don't hear me at all. You don't hear at all. They said they're coming right away. They haven't come. For one and a half hour.
+AGENT: Okay, I've got that you want to pay by credit card. Let me process that for you right now.
+AGENT: Okay so
+AGENT: Okay, so your pickup address is 8 8 Bureau Drive, Gaithersburg, Maryland. Is that correct?
+CALLER: Right. Right. It's yeah. A customer feeds from McDonald's. Just opposite the McDonald's.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: It one four seven one zero Springfield Road, Germantown, Maryland. They have been there many times. You should have it in your system.
+AGENT: Okay, so
+CALLER: My food is aching. I can't stand here. Because the the senior center.
+AGENT: I understand you're feeling uncomfortable and your food is getting cold. Just to confirm, is the dropoff address 1 4 7 1 0 Springfield Road, Germantown, Maryland?
+CALLER: Right.
+AGENT: Your dropoff address has been verified, Dr. Now I'll proceed with arranging your trip.
+AGENT: I want to make sure I have your pickup time correct. You mentioned 5:00 am. Is that right? <emotion value="hesitant"/>
+CALLER: Yeah. Okay. It it was, but now it's step 06:30.
+AGENT: Thanks for the update. Just to confirm, you want your pickup time to be 6:30 am now? <emotion value="hesitant"/>
+CALLER: No. No. Right now, 06:30PM.
+AGENT: Okay, so your pickup time is 6:30 PM today. Is that correct? <emotion value="hesitant"/>
+CALLER: Right now. Yeah. It was 5PM. They never showed up.
+AGENT: The time you requested, 6:30 PM, has already passed. Could you please tell me the pickup
+CALLER: So just send me somebody right away. Right. I know. So 06:40. Make it 06:40.
+AGENT: Okay great! I've got your pickup time set for today at 6:40 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers
+CALLER: Okay. I'm working here. Just one passenger.
+AGENT: Okay great! I've got one passenger. <emotion value="grateful"/>
+CALLER: And come quick.
+AGENT: Do you need a wheelchair accessible vehicle for this trip? <emotion value="peaceful"/>
+CALLER: No. I don't need anything. No. No. I don't need anything. Just send me somebody. Quick.
+AGENT: Alright, the estimated fare is 21.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Just just don't waste my time. Just
+CALLER: Get somebody here.
+AGENT: Your main trip is scheduled for today at 6:40 PM. Your confirmation number is 2 1 3 6 7 2 3 3 5. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Dr. Rakahit. Have a great day.
+CALLER: Okay. Thank you. Bye.

@@ -1,0 +1,11 @@
+AGENT: Hi Robert, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: 26. Them At 63630 Avenue on Wednesday. Going to 49 West Avenue. Is that 12:50PM?
+AGENT: Looks like you already have trips from 630 E Diamond Avenue to 409 Russell Avenue at Wednesday 12:50 pm, and back at 2 pm. What would you like to do?
+CALLER: Keep the first one Second one, I'm talk to the library.
+AGENT: Just to clarify, you want to keep your first trip at 12:50 pm and change the second trip to go to the library?
+CALLER: No. I say that.
+AGENT: Thanks for clarifying. Would you like to check the status of your existing trips, cancel one, make a change, book a new trip, or something else?
+CALLER: The return the return trip leaving from a 49 Muscle Avenue going back to 18 Westminster Drive. 2PM, 02:45PM. Please. Forty five PM. Got 02:00. Leaning leaning 49 Russell Avenue, going back to 18 Westmin Drive. Pickup at 02:45, not 2PM. Got it?
+AGENT: You still have trips scheduled from 630 E Diamond Avenue to 409 Russell Avenue at Wednesday 12:50 pm, and back at 2 pm. Would you like to change the return trip time to 2:45 pm and update the pickup and dropoff addresses?
+CALLER: I'd like to talk to a live person, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

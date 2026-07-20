@@ -1,0 +1,12 @@
+AGENT: Hi Amy, this is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I'll pick up at Lake Forest Transit Center.
+AGENT: Thanks for letting me know your pickup location at Lake Forest Transit Center. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Odin Hall Avenue, Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: I found a few locations for Lake Forest Transit Center: Lakeforest Transit Center and Odendhal Avenue in Gaithersburg, Maryland; Lakeforest Transit Center in Gaithersburg, Maryland; and Germantown Transit Center on Crystal Rock Drive in Germantown, Maryland. Which one would you like to use for your pickup? Also, the dropoff address you gave, Odin Hall Avenue, appears to be outside our service area. Could you please provide a different dropoff address?
+CALLER: Yes. Odin Hall.
+AGENT: The address Odin Hall Avenue still appears to be outside our service area. Could you please provide a different dropoff address?
+CALLER: This is pickup, dummy. This isn't dropoff. This is pickup.
+AGENT: I understand you want Odin Hall Avenue as the pickup location, not the dropoff. Let's update your pickup address to Odin Hall Avenue. Could you please confirm the full pickup address or provide any nearby landmarks or city to help me find the exact location?
+CALLER: Trans Lake Forest Transit Center, Oden Hall Avenue.
+AGENT: I

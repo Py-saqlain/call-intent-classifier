@@ -1,0 +1,39 @@
+AGENT: Hello Russell, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I need a tax to DCA tomorrow, the fifteenth, at
+AGENT: Alright, how would you like to pay for your ride to Ronald Reagan Washington National Airport tomorrow, the fifteenth? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: $10.15. Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride to Ronald Reagan Washington National Airport
+CALLER: Thank you
+AGENT: You're welcome! Whenever you're ready, please provide the pickup address for your ride to Ronald Reagan Washington National
+CALLER: Yes.
+AGENT: I’m here to help. Could you please provide the pickup address for your ride to Ronald Reagan Washington National Airport tomorrow? <emotion value="peaceful"/>
+CALLER: Yes. Five three zero one Westbard Circle.
+AGENT: Okay, so your pickup address is 5 3 0 1 Westbard Circle, Bethesda, Maryland. Is that correct? <emotion
+CALLER: Correct.
+CALLER: Exactly.
+AGENT: I found Ronald Reagan Washington National Airport at 2 4 0 1 Smith Boulevard, Arlington, Virginia. Is that the correct dropoff location? <emotion value="peaceful"/>
+AGENT: Your dropoff address has been verified, Russell. I will now proceed with the next step.
+AGENT: You mentioned your pickup time as tomorrow, the fifteenth. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Thanks for confirming the date. What time on the fifteenth would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Correct. Ten fifteen.
+AGENT: Just to clarify, did you mean 10:15 AM or 10:15 PM on the fifteenth? <emotion value="peaceful"/>
+CALLER: 10:15 a. M. Thank you
+AGENT: Okay great! I've got your pickup time as tomorrow at 10:15 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible
+CALLER: Just one.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Will you be
+CALLER: No.
+AGENT: Okay great! I've got that you do not need a wheelchair-accessible vehicle. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: Yes. To call this when he's closer to the address I live in an apartment, and I need to get my suitcases downstairs.
+AGENT: Alright, the estimated fare is 32.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No, thank you.
+AGENT: Alright, I will skip the return trip for now. <emotion value="peaceful"/> Should I go ahead and book your trip for tomorrow at 10:15 AM from 5 3 0 1 Westbard Circle to 2 4 0 1 Smith Boulevard?
+CALLER: Correct.
+AGENT: Your trip is booked for tomorrow at 10:15 AM. Your confirmation number is 2 1 3 6 7 7 2 8 2. Is there anything else I can help you with?
+CALLER: I wanna Yes. Hold on a second. I need to catch the number that you gave me. Hold on. Totally unprepared for it.
+AGENT: Take your time. I'm here whenever you're ready. Just let me know when you want me to repeat the confirmation
+CALLER: Yes. What's the number? The comp confirmation number?
+AGENT: The confirmation number is 2 1 3 6 7 7 2 8 2. Would you like me to help you with anything else?
+CALLER: No, that's all. Let me repeat the number. The confirmation number, two one thirty six seven seven two eight two.
+AGENT: Thank you for calling Barwood & Regency, Russell. Have a wonderful day.

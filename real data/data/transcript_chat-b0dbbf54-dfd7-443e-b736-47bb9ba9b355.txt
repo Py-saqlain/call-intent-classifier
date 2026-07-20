@@ -1,0 +1,39 @@
+AGENT: Hi James, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Hi. I need a cab at two two two three Velcro Road Audi, Brooklyn Storm.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: K.
+AGENT: Hmmm.. that didn't seem right, could you please tell me how you'd like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: I said cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so I found your pickup location as 2 2 2 3 Bel Pre Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Okay, I found your pickup as 2
+CALLER: Correct. Correct.
+AGENT: Your pickup address has been verified. <emotion value="grateful"/>
+AGENT: I'm sorry, but I couldn't locate Audi, Brooklyn Storm. Could you please provide a full address or a different destination? <emotion value="apologetic"/>
+CALLER: Two two two three. Belltree Road, Arty's Grocery Store.
+AGENT: Thank you. Let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found your dropoff location as 2 2 2 3 Bel Pre Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. My drop off my drop off is one two six two seven Lay Hill Road.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found your dropoff location as 1 2 6 2 7 Layhill Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct. Correct.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now. Ready.
+AGENT: Okay great! I've got your pickup time as right now. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a
+CALLER: One. One No.
+AGENT: Okay great! I've got one passenger and no wheelchairs. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, so let me confirm those details. Your pickup is 2 2 2 3 Bel Pre Road. Your dropoff is 1 2 6 2 7 Layhill Road. Pickup time is 12:31 PM. You have one passenger and one wheelchair. The estimated fare is 10.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. No. No wheelchair.
+AGENT: Just to confirm, should I update the wheelchair count for your main trip, or for the return trip? <emotion value="hesitant"/>
+CALLER: There's there's no wheelchair, just one person. No. It's only one person.
+CALLER: No wheelchair.
+AGENT: Alright, I'll update the wheelchair count for your main trip to zero. <emotion value="peaceful"/> Okay, so would you like me to go ahead and book your trip now?
+CALLER: Yeah.
+AGENT: Okay, so I’m booking your trip now. <emotion value="grateful"/>
+AGENT: Thank you for your patience. I’m booking your trip now.
+AGENT: Your main trip is booked for today at 12:31 PM. Your confirmation number is 2 1 3 6 7 0 6 5 2. Is there anything else I can help you with?
+CALLER: No. How long would that take?
+AGENT: Your trip is estimated to take about 6 minutes. Is there anything else I can help you with? <emotion value="peaceful"/>
+CALLER: No. Thank you very much. Thank you.

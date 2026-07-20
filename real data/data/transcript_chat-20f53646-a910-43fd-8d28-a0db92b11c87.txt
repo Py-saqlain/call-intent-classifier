@@ -1,0 +1,31 @@
+AGENT: Hi Gwen, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I had put in earlier for a return up from the hair cuttering at Aspen Hill. At the Aspen Hill shopping area.
+AGENT: I understand you want to arrange a return trip from the Aspen Hill shopping area after your haircut. Let me connect you to the booking team who can help schedule that ride for you.
+AGENT: Thank you for letting me know about your return trip from Aspen Hill. To get everything set up, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you for choosing cash as your payment method.
+AGENT: I found Aspen Hill Shopping Center at 1 3 6 6 1 Connecticut Avenue, Silver Spring, Maryland. Is that the correct pickup location?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: That's correct.
+AGENT: Could you please tell me the destination or dropoff address for your trip?
+CALLER: That's correct. Thirty four Thirty four zero eight. Chiswick Court, Digital world.
+AGENT: Just to confirm, is your dropoff address 3 4 3 4 zero eight Chiswick Court, Digital World?
+CALLER: Thirty four o eight. Chiswick.
+AGENT: I have 3 4 0 8 Chiswick Court, Silver Spring, Maryland as the dropoff address. Is that correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Gwen. I will now proceed to arrange your trip.
+AGENT: When would you like to be picked up?
+CALLER: Right now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Why?
+AGENT: I ask about the number of passengers and wheelchair needs to make sure we send the right vehicle for your trip. Could you please tell me how many passengers will be traveling and if anyone needs a wheelchair-accessible vehicle?
+CALLER: One person traveling and no special
+AGENT: The estimated fare for your trip is 10.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 12:43 PM. Your confirmation number is 2 1 3 6 6 9 3 8 7. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Gwen. Have a wonderful day.
+CALLER: Same to you.

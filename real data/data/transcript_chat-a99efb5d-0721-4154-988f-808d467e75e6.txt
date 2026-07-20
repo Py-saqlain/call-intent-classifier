@@ -1,0 +1,28 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Christine Weiss?
+CALLER: Yes.
+AGENT: Thanks, Christine. This is Barwood & Regency. What can I help you with today?
+CALLER: I'd like to leave book a cab from 10222 Ridgeline Drive, Montgomery Village. Maryland
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Colin Wright. Call and ride.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yes. Three four nine one eight zero.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+CALLER: That's right.
+AGENT: Okay, so your pickup address is 1 0 2 2 Ridgeline Drive, Montgomery Village, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. 1022232, No. One zero two two two.
+AGENT: Okay, just to clarify, did you mean one zero two two two two Ridgeline Drive, Montgomery Village, Maryland? <emotion value="hesitant"/>
+CALLER: Yes. Ridgeline Drive.
+AGENT: Okay, so your pickup address is 1 0 2 2 2 Ridgeline Drive, Montgomery Village, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmm <break time="350ms"/> I couldn't locate that address. Could you please provide the complete street number and name again for your pickup location? <emotion value="apologetic"/>
+CALLER: Yes. 10222 Ridgeline Drive, Gaithersburg.
+AGENT: Okay, so your pickup address is 1 0 2 2 Ridgeline Drive, Montgomery Village, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. 103 Twos at the end.
+AGENT: Just to confirm, did you mean 1 0 2 2 3 Ridgeline Drive, Montgomery Village, Maryland? <emotion value="hesitant"/>
+CALLER: No. Let me speak to an agent.
+AGENT: I can help you confirm that pickup address right now — shall we continue?
+CALLER: Is you isn't what you said. Let me speak to a live agent.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+AGENT: I'm

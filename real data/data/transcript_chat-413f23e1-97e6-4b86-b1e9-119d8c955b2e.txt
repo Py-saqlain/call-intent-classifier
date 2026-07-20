@@ -1,0 +1,22 @@
+AGENT: Hello, CARTER. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Can I have a pickup at forty two thirty one Isabella Street?
+AGENT: Thank you for sharing your pickup address at 4 2 3 1 Isabella Street. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Catch.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: I have 4 2 3 1 Isbell Street, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yeah. Do you know how how how long it's gonna take?
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? Regarding the time, I don't have that information, but once we have your full trip details, the booking system can give you an estimated pickup time.
+CALLER: 11907 Parklawn Drive,
+AGENT: Thank you for the dropoff address at 1 1 9 0 7 Parklawn Drive. Is that correct?
+CALLER: Correct.
+AGENT: I found a similar address: 1 1 9 0 6 Parklawn Drive, North Bethesda, Maryland. Is that the correct dropoff
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Mr. Carter. I will now proceed with the next steps for your trip.
+AGENT: When would you like to be picked up?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Pickup now.
+AGENT: Got it, your pickup is scheduled for now. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thank you for letting me know no wheelchair is needed. How many passengers will be traveling, including yourself?
+CALLER: The child
+AGENT: Could you please tell me the number of passengers traveling, including yourself?

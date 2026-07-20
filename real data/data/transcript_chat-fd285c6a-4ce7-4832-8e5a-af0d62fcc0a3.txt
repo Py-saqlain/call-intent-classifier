@@ -1,0 +1,46 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Yeah. Can you send me a copy, please?
+AGENT: Could you please tell me your name first so I can assist you properly?
+CALLER: Excuse me?
+AGENT: I want to make sure I have your name so I can help you with your request. What name should I use for your profile?
+CALLER: Okay. Catherine.
+AGENT: Thanks, Catherine. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a cup
+AGENT: Could you please clarify if you need a ride or some other assistance? I'm here to help with transportation bookings and related services.
+CALLER: Yes. I need a ride.
+AGENT: Thank you, Catherine. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, Catherine. Your payment method is set to cash.
+AGENT: Catherine, could you please tell me the address where you'd like to be picked up?
+CALLER: Yeah. Sixteenth zero zero one
+AGENT: Thank you. Could you please provide the street name and city for the pickup address?
+CALLER: 15001 Chateaugu Road.
+AGENT: I couldn't locate 15001 Chateaugu Road. Could you please provide the city and state for this pickup address?
+CALLER: It says one six. That's not a Red Roof hotel.
+AGENT: Thanks for that information. Could you please clarify the full pickup address including the street number, street name, city, and state? That will help me find the correct location for you.
+CALLER: It's a rugby.
+AGENT: Could you please confirm the full pickup address including the street number, street name, city, and state? If you mean a specific place like a rugby field or club, please provide any nearby street or landmark details to help locate it.
+CALLER: Rockville.
+AGENT: Thank you. So your pickup address is on Rugby in Rockville. Could you please provide the street number for Rugby Road in Rockville?
+CALLER: Can I can I give you the ZIP code?
+AGENT: I’m sorry, Catherine, but I can’t accept ZIP codes alone for the pickup address. Could you please provide the street number along with the street name and city? That will help me find the exact location for your pickup.
+CALLER: The screen number here is a one six zero zero one.
+AGENT: Thank you, Catherine. Just to confirm, your pickup address is 1 6 0 0 1 Rugby Road, Rockville, Maryland. Is that correct?
+CALLER: It's not broke, big. Road.
+AGENT: Thanks for clarifying, Catherine. So your pickup address is 1 6 0 0 1 Rugby Road, Rockville, Maryland. Is that correct?
+CALLER: You say Rugby Rugby Grove?
+AGENT: Thank you for clarifying. Is your pickup address 1 6 0 0 1 Rugby Grove, Rockville, Maryland?
+CALLER: No. Yeah.
+AGENT: I found 1 6 0 0 1 Shady Grove Road, Rockville, Maryland. Is that the correct pickup address?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: The unit address?
+AGENT: For the dropoff address, could you please provide the full street address including the street number, street name, city, and state? If you mean a specific unit or apartment number, please include that as well after the main address.
+CALLER: Yeah. Give me one second. I gotta shift it. I'll try.
+AGENT: Take your time, Catherine. Just let me know the dropoff address whenever you're ready.
+CALLER: I I gotta I gotta check there. This is where I'm going. So can I call you back?
+AGENT: Just to confirm, since you want to call back later, would you like to cancel this booking for now? No trips will be booked if you confirm.
+CALLER: Okay.
+AGENT: Thank you. I will cancel this booking for you now. If you need any assistance later, please feel free to call back.
+CALLER: Because I I got sick where where where I'm going. Okay. Okay. Thank you.
+AGENT: I'm sorry to hear that. If you need any help in the future, just let us know. Take care.

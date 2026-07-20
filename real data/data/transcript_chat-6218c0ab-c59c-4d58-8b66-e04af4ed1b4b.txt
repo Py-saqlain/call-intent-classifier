@@ -1,0 +1,40 @@
+AGENT: Hi Christine, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I need a cab My name is Pauline Flood. I'm using I need a cab at one three six four Pear Tree Court Silver Spring, Maryland.
+AGENT: Alright, Pauline, how would you like to pay for your cab today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I need
+CALLER: I speak to someone, please?
+AGENT: I can help with your booking details — would you like to continue?
+CALLER: Yes. I need a cab and and the first address I gave you to go to germantown The address is one eight zero zero three Mattini Road, Germantown, Maryland
+AGENT: Thanks for that information, Pauline. Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: Call and ride.
+AGENT: Okay, Pauline, could you please provide the
+CALLER: Call and ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thank you. Please go ahead and tell me the last six digits of your Call and Ride card when you're ready.
+CALLER: O six four two two seven
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: I have confirmed your dropoff address as 18003 Mateny Road, Germantown, Maryland. However, I was unable to locate the pickup address at 1 3 6 4 Pear Tree Court, Silver Spring, Maryland. Could you please provide the full pickup address including the street name and city? <emotion value="peaceful"/>
+CALLER: I'm sorry.
+AGENT: No worries at all. Whenever you're ready, please provide the full pickup address with the street name and city, and I'll help you
+CALLER: Three six one four
+AGENT: Thank you. To make sure I have it right, could you please tell me the
+CALLER: Three sick oh my god.
+AGENT: Uh, I am sorry, but could you please repeat the full pickup address including the street name and city? I want to make sure I get it exactly right for you. <emotion value="peaceful"/>
+CALLER: Three six one four pear tree court silver spring Maryland
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: I'm sorry, but I couldn't locate 3614 Pear Tree Court, Silver Spring, Maryland. Could you please double-check the street number or provide any nearby landmarks or cross streets to help identify the address? <emotion value="apologetic"/>
+CALLER: So you need to tell me as many times, question and call date These people just stop
+AGENT: I understand this can be frustrating. I'm here to help you get your pickup address right so we can proceed. Could you please try giving me the street number and street name again, or any nearby landmark that might help? <emotion value="peaceful"/>
+CALLER: Three
+AGENT: Thank you.
+CALLER: six one four
+AGENT: Thank you for that. Could you please provide the street name and city for the pickup address? <emotion value="peaceful"/>
+CALLER: I just did. 3614 Pear Tree Court.
+AGENT: Thank you for confirming 3614 Pear Tree Court. Since that address could not be found earlier, could you please provide a nearby landmark or cross street to help me locate it better? <emotion value="peaceful"/>
+CALLER: Cinnamon Run.
+AGENT: Okay, let me check that address with Cinnamon Run nearby. <emotion value="peaceful"/>
+AGENT: I found a location called Cinnamon Run at Peppertree Farm, located at 14120 Weeping Willow Drive, Silver Spring, Maryland. Is this the correct pickup location? <emotion
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified, Christine.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>

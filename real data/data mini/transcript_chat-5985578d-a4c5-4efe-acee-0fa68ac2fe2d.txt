@@ -1,0 +1,12 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Unknown?
+CALLER: No.
+AGENT: Thank you for letting me know. May I ask who I’m speaking with today? You can also choose from Jerry Richardson or Washington Sonia if that helps.
+CALLER: This is MedStar Montgomery Medical Center.
+AGENT: Thanks for that. Since this is a medical center, could you please tell me the name of the person you’re calling about or the client’s name?
+CALLER: Charles Thomas,
+AGENT: Thanks, Charles. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: We speak to a human being, please?
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Checking on trip status.
+AGENT: Okay, so your driver is on the way and will arrive for your pickup in about 8 minutes at 5:22 pm. Anything else?
+CALLER: No thank you

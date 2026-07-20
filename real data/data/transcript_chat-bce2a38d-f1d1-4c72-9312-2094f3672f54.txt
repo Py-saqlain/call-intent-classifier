@@ -1,0 +1,64 @@
+AGENT: Hello Miller, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+CALLER: Make a trip.
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call en route. Schedule appointment.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="hesitant"/>
+CALLER: 351889.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: To get started, could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Speak to a representative.
+CALLER: Hello?
+AGENT: I'm here and ready to help. Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: One two eight four five Fairchild Drive.
+AGENT: Okay, so your pickup address is 1 2 8 4 5 Fairchild Drive, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yep. Address is
+AGENT: I didn't catch the dropoff address. Could you please say it again? <emotion value="peaceful"/>
+CALLER: One two four zero Twinbrook Parkway, Rockville, Maryland.
+AGENT: Hmm, let me check that address. I couldn't find 1 2 4 0 Twinbrook Parkway, Rockville, Maryland. Could you please confirm the street number and city for the dropoff address again? <emotion value="apologetic"/>
+CALLER: One two four zero one. Twinbrook Park Rockville, Maryland.
+AGENT: Thanks for that. Just to clarify, is your dropoff address 1 2 4 0 1 Twinbrook Park, Rockville, Maryland? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found a few locations.  
+Option one: 1 2 4 0 1 Twinbrook Parkway, Rockville, Maryland, at Guitar Center Lessons.  
+Option two: 1 2 4 0 1 Twinbrook Parkway, Rockville, Maryland, at Guitar Center.  
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Option one.
+AGENT: Your dropoff address has been verified, Mr. Miller.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Today, at 10:00,
+AGENT: Just to confirm, you mean today at 10:00 AM, correct? <emotion value="peaceful"/>
+CALLER: No. Today, 09:50.
+AGENT: Okay great! I've got your pickup time noted for today at 9:50 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thanks for that. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: No.
+AGENT: Okay, no wheelchair accessible vehicle needed. <emotion
+CALLER: No wheelchair.
+AGENT: Got it, no wheelchair needed. <emotion value="peaceful"/> Do you have any special instructions or notes for the driver?
+CALLER: Call me when you get here.
+AGENT: Alright, the estimated fare is 41.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes. Same trip.
+AGENT: Okay, great. I'll start collecting the return trip details for the same route. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Return trip. I wanna be picked up at eleven. O'clock.
+AGENT: Just to confirm, you mean 11:00 AM for your return trip pickup time, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your return trip pickup time noted for today at 11:00 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling on your return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. I have one passenger for your return trip. Will you be needing a wheelchair accessible vehicle? <emotion value="hesitant"/>
+CALLER: No.
+CALLER: No wishes.
+AGENT: Okay, so your return trip pickup is 1 2 4 0 1 Twinbrook Parkway, and your return dropoff is 1 2 8 4 5 Fairchild Drive. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 41.5 dollars, paying with Call and Ride. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I'm booking both trips for you now. <emotion value="grateful"/>
+AGENT: Your main trip is scheduled for today at 9:50 AM with confirmation number 2 1 3 6 7 3 8 7 0. Your return trip is scheduled for today at 11:00 AM with confirmation number 2 1 3 6 7 3 8 7 1. Is there anything else I can help you with?
+CALLER: That's it.
+AGENT: Thank you for calling Barwood & Regency, Miller. Have a wonderful day!

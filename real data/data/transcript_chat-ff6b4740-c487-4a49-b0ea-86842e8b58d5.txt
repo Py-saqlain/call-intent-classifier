@@ -1,0 +1,52 @@
+AGENT: Hello Arlyn, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes, I need someone to pick me up.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Beyond places the giant food store outside at thirty eight six International Time. Leisure world, silver spring two zero nine zero six,
+AGENT: I couldn't find an exact match for 386 International Drive in Leisure World, Silver Spring. However, I found a location at 3802 International Drive, Silver Spring, Maryland 20906. Is that the correct pickup address? <emotion value="hesitant"/>
+CALLER: No. Thirty eight six sixty. Internet drug.
+AGENT: Okay, so you meant 3860 International Drive, Silver Spring, Maryland 20906? Let me check that address for you. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is eight six zero International Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No worries. Thirty eight six International Drive. Leave the world. The giant food store.
+AGENT: I found a few locations near 386 International Drive in Leisure World, Silver Spring. 
+
+Option one: Leisure World Opticians Inc. Exams and Glasses at 3804 International Drive. <break time="500ms"/> 
+Option two: Leisure World Plaza at 3800 to 3860 International Drive. <break time="500ms"/> 
+Option three: Leisure World Corporation at 3305 North Leisure World Boulevard. <break time="500ms"/> 
+
+Which one is the correct pickup location? <emotion value="hesitant"/>
+CALLER: Thirty eight sixty. International Drive, Silver Spring, two zero nine zero six. Giant Food Store,
+AGENT: So your pickup is at 3860 International Drive, Silver Spring, Maryland 20906, near the Giant Food Store. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. I'll be out in front of the Giant Food store outside.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Thirty five twenty Peyer Tree Court, Hillwood spring two zero nine zero six.
+AGENT: Okay, so your dropoff address is three five two zero Pear Tree Court, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, Arlyn.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right away,
+AGENT: Okay great! I've got your pickup time as right away, today at 10:26 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One one.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. You have one passenger, correct? <emotion value="peaceful"/> Will you be needing a wheelchair accessible vehicle?
+CALLER: No. Thank you.
+AGENT: Okay great! I've noted that no wheelchair accessible vehicle is needed. <emotion value="grateful"/> Do you have any special instructions or requests for the driver?
+CALLER: Yes. That I'll be out outside in front of the Giant Food store.
+AGENT: Alright, the estimated fare is 7.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Thank you.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 10:26 AM. Your confirmation number is 2 1 3 6 7 3 0 4 6. Is there anything else I can help you with?
+CALLER: Yes. Just just tell the driver a mountain outside in front of the giant Resort Leisure World.
+AGENT: I have noted that you will be outside in front of the Giant Food store. If you want me to update the driver with any other specific instructions like "mountain outside in front of the Giant Resort Leisure World," I can pass that along for you. Would you like me to add that now?
+CALLER: It's
+AGENT: Could you please repeat that last part? I want to make sure I understand correctly.
+CALLER: Yeah. I'm out. In front of the giant squid store at thirty eight six sixty. International Drive, leisure world, so we're spring two zero nine zero six.
+AGENT: Thank you for clarifying. You will be outside in front of the Giant Food store at 3 8 6 6 0 International Drive, Leisure World, Silver Spring. I will make sure the driver gets this updated pickup instruction. Is there anything else I can assist you with?
+CALLER: Yes, ma'am. It's thirty eight six Thirty eight six international drive.
+AGENT: Got it, thank you. The pickup instruction is outside in front of the Giant Food store at 3 8 6 International Drive, Leisure World, Silver Spring. I'll make sure the driver is informed. Is there anything else I can help you with?
+CALLER: I'm at thirty eight six zero
+AGENT: Thank you for the correction. The pickup instruction is outside in front of the Giant Food store at 3 8 6 0 International Drive, Leisure World, Silver Spring. I'll make sure the driver is informed. Is there anything else I can assist you with?
+CALLER: Thank you.
+AGENT: Thank you for calling Barwood & Regency, Arlyn. Have a wonderful day!

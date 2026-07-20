@@ -1,0 +1,17 @@
+AGENT: Hello Maria, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm calling because our taxi is not here yet.
+AGENT: Hmm, let me check on that for you. It looks like there isn't an active trip scheduled under your profile right now. Would you like me to help you book a taxi?
+CALLER: It's under my husband. It's an under my my husband's name Edward Dean.
+AGENT: Hmm, I couldn't find any active trips under Edward Dean's profile. Could you please confirm if the spelling and details are correct, or if there's another way I can assist you?
+CALLER: D e a n Edward We need a taxi right away.
+AGENT: Alright, how would you like to pay for the taxi? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: With it. Credit card credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your taxi?
+CALLER: Five zero three Baltimore Road, Rockville, Maryland. Two zero eight five zero.
+AGENT: Okay, so I have the pickup address as 5 0 3 Baltimore Road, Rockville, Maryland. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: DWI Airport.
+AGENT: Hmm, let me check that address. Just to confirm, did you mean Dulles Airport in Virginia?
+CALLER: No. BWI in Baltimore. Eddie, they don't have any reservation for you.
+AGENT: Okay, so the dropoff address is Baltimore-Washington International Airport at 7 0 5 0 Friendship Road, Baltimore, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes. We have a reservation Oh, here it is, I think. Let's go. Here it is. Okay. Cancel the reservation. Cancel it. We have it now. We have the taxi. Here.

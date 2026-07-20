@@ -1,0 +1,30 @@
+AGENT: Hello Ennette, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Need cap.
+AGENT: Hi! How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Car and ride
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Three zero three seven nine nine.
+AGENT: Thank you, your payment method is set to Call and Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 717 Monroe Street, in Rockville.
+AGENT: I have 7 1 7 Monroe Street, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 1309 East Goody Drive in Rockville.
+AGENT: I have 1 3 0 9 East Gude Drive, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Ennette. I will now proceed with arranging your ride.
+AGENT: You mentioned "cab" as a note for the driver. Is that correct? Please say yes to confirm or provide any changes.
+CALLER: Yes.
+AGENT: When would you like to be picked up?
+CALLER: Now.
+AGENT: Thank you. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One and no.
+AGENT: The estimated fare for your trip is 9.5 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: Great, I'll start collecting the details for your return trip now.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: No return trip.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your main trip is scheduled for today at 10:35 AM. Your confirmation number is 2 1 3 6 6 4 4 8 4. Is there anything else I can help you with?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

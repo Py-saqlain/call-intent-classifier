@@ -1,0 +1,37 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: It's David.
+AGENT: Thanks, David. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I want to see if I could schedule a camp for tomorrow morning, Friday, the tenth, at 08:30AM.
+AGENT: Alright, David, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: How much is the fare roughly from Wheaton to Rockville?
+AGENT: I don't have the fare information yet since we're still gathering your trip details. Meanwhile, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: David, could you please tell me the pickup address for your ride tomorrow morning at 8:30 am? <emotion value="peaceful"/>
+CALLER: Yes. Three zero zero nine Dawson Avenue, Wheaton.
+AGENT: Okay, so I found 3 0 0 9 Dawson Avenue, Wheaton, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found a few locations. 
+ Option one: KidsCo, 7 6 2 0 J Rickenbacker Drive, Gaithersburg. 
+ Option two: Cheer Extreme DMV, 8 3 4 0 Beechcraft Avenue, Gaithersburg. 
+ Option three: You Reach I Teach Basketball Academy, 1 6 7 7 8 Oakmont Avenue, Gaithersburg. 
+ Option four: Pat The Roc Basketball Skills Academy, 8 5 0 0 Anniversary Circle, Gaithersburg. 
+ Option five: Panda Programmer – Gaithersburg, Maryland Summer Camp, 2 0 0 West Diamond Avenue, Gaithersburg. 
+ Which one is correct? <emotion value="hesitant"/>
+CALLER: I have an address of one five zero zero five Shady Grove Road. Rockville.
+AGENT: Okay, so I found 1 5 0 0 5 Shady Grove Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: David, I have that you want to be picked up tomorrow at 8:30 AM. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One passenger. No wheelchair.
+AGENT: Thanks, David. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 26 dollars, paying with Credit Card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience, David. I'm processing your booking now.
+AGENT: David, your main trip is scheduled for tomorrow at 8:30 AM. Your confirmation number is 2 1 3 6 7 1 7 2 2. Is there anything else I can help you with?
+CALLER: Know,
+AGENT: Thank you for calling Barwood & Regency, David. Have a wonderful day!
+CALLER: Okay.

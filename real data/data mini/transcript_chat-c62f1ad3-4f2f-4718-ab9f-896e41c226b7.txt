@@ -1,0 +1,11 @@
+CALLER: Come on.
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Good afternoon. My name is Helen Gibson. And I need to be picked up at quarter to three. I just want to find oh, how far the cab is. 18631 Saint Piper Lane, and I'm going to
+CALLER: Pfizer clinic Mhmm.
+AGENT: Looks like you already have trips from 18631 Sandpiper Lane to 655 Watkins Mill Road at today 2:45 pm, and a will-call trip back. What would you
+CALLER: Yeah. Yep.
+AGENT: Uhh, I'm sorry about that. Your trip scheduled for 2:45 pm is running late and no
+CALLER: Okay. Is it on its way? How soon would it be here?
+AGENT: Uhh, I'm sorry, but there is no driver assigned yet for your trip, so I can't give an exact arrival time. Let me connect you with someone who can assist you right away. <emotion value="sympathetic"/>
+AGENT: I'm connecting you now to a customer service representative who can
+CALLER: Yeah. Because I have an appointment at 03:20.

@@ -1,0 +1,34 @@
+AGENT: Hi Samita, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Can I get a cab?
+AGENT: Alright, how would you like to pay for your cab today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your cab? If you'd like, I can also use your home address at 7 0 3 Brantford Avenue, Silver Spring, Maryland. <emotion value="peaceful"/>
+CALLER: West
+AGENT: Uh, I am sorry, but could you please provide the full pickup address including the street number and city or area? Just "West" is not enough for me to find your location. <emotion value="apologetic"/>
+CALLER: West Westover Elementary School Silver Spring, MD 20904.
+AGENT: Okay, so I found the pickup location as 4 0 1 Hawkesbury Lane, Silver Spring, Maryland 2 0 9 0 4. Is that correct? <emotion value="peaceful"/>
+CALLER: No. It's Westover Elementary School.
+AGENT: I found Westover Elementary School at 4 0 1 Hawkesbury Lane, Silver Spring, Maryland 2 0 9 0 4. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 703 Brentford Avenue, Silver Spring 20904.
+AGENT: Okay, so I found the dropoff location as 7 0 3 Brantford Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Samita.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now,
+AGENT: Okay great! I've got your pickup time set for today at 4:04 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One one.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. You have one passenger traveling, correct? Will you be needing a wheelchair accessible vehicle? <emotion value="hesitant"/>
+CALLER: No. No.
+AGENT: Okay great! I've got that noted. Will you have any special instructions or requests for the driver? <emotion value="peaceful"/>
+CALLER: No. It's just me traveling. And I do not need a wheelchair.
+AGENT: Alright, the estimated fare is 10.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 4:04 PM. Your confirmation number is 2 1 3 6 7 2 2 5 3. Is there anything else I can help you with?
+CALLER: No. What time is the Uber coming?
+AGENT: Uhh, I can't reach the driver directly, but I can connect you with a representative who can help with your driver's arrival time or any other questions you have. Would you like me to do that for you? <emotion value="hesitant"/>
+CALLER: Please connect me. Yes.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

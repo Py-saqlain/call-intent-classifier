@@ -1,0 +1,14 @@
+AGENT: Hello Andrew, this is Ana from Barwood & Regency. You have two trips today — your pickup is scheduled for 2:30 PM, and Vehicle 223 is on the way, expected to arrive around 9:26 AM. How can I assist you today?
+CALLER: Hello, Andrew. This is Anna with Barwood and Regency. You have two trips today. Your pickup is scheduled for 02:30PM, and vehicle 223 is on the way. Expected to arrive around 09:24AM. How can I assist you today?
+AGENT: How can I assist you with your trips today?
+CALLER: How can I assist you with your trips today?
+AGENT: Is there something specific you'd like help with regarding your trips, such as booking a new ride, checking the status of a current trip, or making a change?
+CALLER: Are you looking to book a new ride? Check the status of an existing trip, or something else with your transportation today?
+AGENT: How can I assist you with your transportation needs today?
+CALLER: If you need to make a change to an existing trip,
+CALLER: I can connect you with someone who can assist. What would you like to do?
+AGENT: Would you like to book a new ride, check the status of your current trips, or speak with a representative for any changes or other assistance?
+CALLER: I'm here to help with booking a new ride. Checking your trip status, or connecting you with a representative for changes or other assistance.
+CALLER: What would you like to do?
+AGENT: Please let me know if you want to book a new ride, check the status
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

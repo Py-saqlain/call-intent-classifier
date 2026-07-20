@@ -1,0 +1,30 @@
+AGENT: Hi Denise, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a ride.
+AGENT: Thank you for letting me know. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: I'll use my credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 12389. George Avenue.
+AGENT: I have 1 2 3 8 9
+CALLER: At the UPS store.
+AGENT: I want to make sure I have your pickup address correct. Is it 1 2 3 8 9 Georgia Avenue, Silver Spring, Maryland?
+CALLER: Yes. At the UPS store.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: 3218 Gleneagles Drive, Silver Spring.
+AGENT: I have 3 2 1 8 Gleneagles Drive, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. Yes. Yes. Please your world.
+AGENT: Your dropoff address has been verified, Denise.
+AGENT: When would you like to be picked up?
+CALLER: Right now, I'm burning up.
+AGENT: I've noted your pickup time as right now, today at 6:30 PM. How many passengers will be traveling, including yourself? Also, will anyone need a
+CALLER: Me. One.
+AGENT: Thank you. Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Got it, no wheelchair accessible vehicle needed. Do you have any special instructions or notes for the driver?
+CALLER: No. Hurry up.
+AGENT: The estimated fare for your trip is 15.5 dollars, paying with a credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Your trip is scheduled for today at 6:30 PM. Your confirmation number is 2 1 3 6 7 9 7 9 5. Is there anything else I can help you with?
+AGENT: Take
+CALLER: Ready.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

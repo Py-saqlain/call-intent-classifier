@@ -1,0 +1,8 @@
+AGENT: Hi Khianna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I think
+AGENT: How can I assist you with your ride today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: You don't have any active trips right now. Would you like to book a ride?
+CALLER: Was trying to teach him, but is this for two wines. So I'm calling them to.
+AGENT: How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.

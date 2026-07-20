@@ -1,0 +1,34 @@
+AGENT: Hello Martin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I needed a taxi.
+AGENT: I can help you with that. Could you please tell me where you would like to be picked up?
+CALLER: Thirty six fifty one Gregg Road, Brookville, Maryland
+AGENT: Thank you for the pickup address. How would you like to pay for your ride? We accept cash, credit card, and Call
+CALLER: Fuck. Cash.
+AGENT: Thank you for letting me know you'll be paying with cash.
+AGENT: I have the pickup address as three six five one Gregg Road, Brookeville, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Empire Market, Sunshine, Maryland, Entire Sunshine, Maryland.
+AGENT: Thank you for the dropoff address. I will check the details and confirm it with you shortly.
+AGENT: I found Empire Cafe & Market at 2 2 3 0 1 Georgia Avenue, Brookeville, Maryland. Is that the place you want to go?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Martin.
+AGENT: When would you like to be picked up?
+CALLER: Got I'm sorry. What's that?
+AGENT: Your main trip pickup address is 3651 Gregg Road, Brookeville, Maryland. When would you like to be picked up?
+CALLER: Yes. It As soon as possible, I guess.
+AGENT: I've noted your pickup time as soon as possible. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One. No.
+AGENT: Thank you. I have recorded one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: It's just a round trip. 2.8 each way.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your main trip is 11 dollars, paying with cash. You mentioned you'd like a return trip — would you still like me to set that up?
+CALLER: No.
+AGENT: I'm
+CALLER: Of an hour What is I mean, that's almost the only
+AGENT: Your main trip is scheduled for today at 4:11 PM. The confirmation number is 2 1 3 6 7 9 6 9 1. Is there anything else I can assist you with?
+CALLER: Nope. You were great.
+AGENT: Thank you for calling Barwood & Regency, Martin. Have a wonderful day!
+CALLER: Right.

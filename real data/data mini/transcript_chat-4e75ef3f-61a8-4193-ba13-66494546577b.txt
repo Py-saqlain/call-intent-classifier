@@ -1,0 +1,27 @@
+AGENT: Hello Kathy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like to book a cab.
+AGENT: Thank you for choosing us for your ride. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Great, we'll use cash for your payment.
+AGENT: Could you please tell me the pickup address for your cab ride?
+CALLER: 19113Gratto, G R 0 T T 0, Lane in Germantown, Maryland
+AGENT: I have the pickup address as one nine one one three Grotto Lane, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 11709 Doxdim, D 0 X D A M, Terrace, Germantown, Maryland.
+AGENT: I have the dropoff address as one one seven zero nine Doxdam Terrace, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Kathy.
+AGENT: When would you like to be picked up?
+CALLER: Right now,
+AGENT: Thank you. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One person in no wheelchair.
+AGENT: Thanks for that. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 13 dollars, and you will be paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking your one-way trip. Just a moment please.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 9 7 2 0. The pickup is scheduled for today at 5:19 pm. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Kathy. Have a wonderful day!
+CALLER: Thank you.

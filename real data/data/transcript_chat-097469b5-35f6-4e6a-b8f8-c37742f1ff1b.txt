@@ -1,0 +1,30 @@
+AGENT: Hello Sultision, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Pickup reservation.
+AGENT: Thank you for letting me know about your pickup reservation. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three four one zero eight eight.
+AGENT: Thank you, your payment with Call and Ride is all set. I’m moving forward with your reservation now.
+AGENT: Could you please tell me the pickup address for your reservation?
+CALLER: Ten ten seven blue t terrace.
+CALLER: Gaithersburg, Maryland.
+AGENT: I found a similar address from recent trips: 10107 Bluetee Terrace, Gaithersburg, Maryland. Is this the correct pickup location?
+AGENT: I found a similar address from recent trips: 10107 Bluetee Terrace, Gaithersburg, Maryland. Is that the correct pickup location?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Four three three Muddy Branch Road, Gaithersburg, Maryland.
+AGENT: I found the address 4 3 3 Muddy Branch Road, Gaithersburg, Maryland. Is that the correct dropoff location?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Sultision. I’m now moving your reservation forward.
+AGENT: When would you like to be picked up?
+CALLER: Right now,
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One, no wheelchair.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 16 dollars, paying with Call and Ride. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your main trip is scheduled for today at 10:34 AM. Your confirmation number is 2 1 3 6 7 8 0 0 2. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Sultision. Have a wonderful day.

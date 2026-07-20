@@ -1,0 +1,19 @@
+AGENT: Hello Viga, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hey. Hello? Yeah. Maybe.
+AGENT: How can I assist you with your ride today?
+CALLER: Number fifty four seventeen West Cedar Lane,
+AGENT: Thank you for sharing the address. How would you like to pay for your ride today? We accept cash,
+CALLER: Let's see your lane.
+AGENT: Could you please clarify your payment method for the ride? We accept cash, credit card, and Call and Ride.
+CALLER: Okay. Very kind of very dark and
+AGENT: I want to make sure I understand you correctly. Did you mean to say cash, credit card, or Call and Ride for your payment?
+CALLER: Are you crying?
+AGENT: I’m here to help with your payment for the ride. Could you please tell me how you would like to pay? We accept cash, credit card, or Call and Ride.
+CALLER: Okay.
+AGENT: Thank you. Could you please tell me which payment method you would like to use: cash, credit card, or Call and Ride?
+CALLER: Medicard.
+AGENT: We only accept cash, credit card, and Call and Ride for payment on this line. If you would like, I can connect you to a live agent who can assist with other payment options. Would you like me to do that?
+CALLER: Okay. Tomorrow. Yeah.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

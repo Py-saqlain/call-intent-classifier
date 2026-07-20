@@ -1,0 +1,55 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with William Dotson?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?
+AGENT: Yes, I’m here to help. Is this William Dotson I’m speaking with?
+CALLER: Speaking.
+AGENT: Thanks for confirming, William. This is Barwood & Regency. How can I assist you today?
+CALLER: Book a trip for call and ride.
+AGENT: Alright, I see you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Uh-huh.
+AGENT: Hmmm.. that didn't seem like the six digits I was asking for. Could you please say the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Three four nine nine two five.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: One nine four one nine Buckney Way.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 1 9 4 1 9 Buckingham Way, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the dropoff address? <emotion value="peaceful"/>
+CALLER: One moment.
+AGENT: Take your time. I'm here when you're ready. <emotion value="peaceful"/>
+CALLER: One two nine eight two Middlebrook Road.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 1 2 9 8 2 Middlebrook Road, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now.
+AGENT: Okay great! I've got your pickup time as today at 12:03 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thanks for that. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: One. One and no.
+AGENT: Okay great! I've got one passenger and one wheelchair. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No wheelchair.
+AGENT: Okay, I've updated that to no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, so <break time="250ms"/> your pickup is 1 9 4 1 9 Buckingham Way. <break time="250ms"/> Your dropoff is 1 2 9 8 2 Middlebrook Road. <break time="250ms"/> Pickup time is today at 12:03 PM. <break time="250ms"/> You have one passenger, no wheelchair needed, and payment will be with your Call and Ride account. The estimated fare is 6 dollars and 50 cents, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes. Yes. Yes.
+AGENT: Great! I'll start collecting the details for your return trip now.
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: At 02:00PM,
+AGENT: Just to confirm, you said 2:00 PM for your return trip pickup time, correct? <emotion value="peaceful"/>
+CALLER: Uh-huh.
+AGENT: Okay great! I've got your return trip pickup time as today at 2:00 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No wheelchair and just myself.
+AGENT: Got it. For your return trip, I have the pickup as 1 2 9 8 2 Middlebrook Road and the dropoff as 1 9 4 1 9 Buckingham Way. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 6 dollars and 50 cents, paying with your Call and Ride account. Should I go ahead and book both trips for you? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I am booking both trips for you now. <emotion value="grateful"/>
+AGENT: Thank you for your patience. I am now booking both your main and return trips together.
+AGENT: Your main trip is scheduled for today at 12:03 PM with confirmation number 2 1 3 6 7 0 6 2 8. Your return trip is scheduled for today at 2:00 PM with confirmation number 2 1 3 6 7 0 6 2 9. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, William. Have a wonderful day.
+CALLER: You too hot cheeks.

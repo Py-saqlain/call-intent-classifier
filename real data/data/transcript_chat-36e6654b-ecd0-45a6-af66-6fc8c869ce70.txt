@@ -1,0 +1,71 @@
+AGENT: Hello Tselot, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Good morning to you.
+AGENT: Uhh, good morning! How can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: I want me to register for twelve o'clock to go to I'm I'm in a cup.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: No. Quite right.
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Call and ride. Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="grateful"/>
+CALLER: Three zero
+AGENT: Hmmm.. that didn't seem right, could you please provide the full last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: four three one eight.
+AGENT: Okay so I've got that payment noted as Call And Ride.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: 21 Beacon Road.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 2 1 Ridge Road, Delta, Pennsylvania. Is that the correct pickup address? <emotion value="hesitant"/>
+CALLER: Apartment apartment two three
+AGENT: I see, you want to add apartment two three. Let me update that address for you. <emotion value="peaceful"/>
+AGENT: The address I found is still 2 1 Ridge Road, Delta, Pennsylvania. Does that include your apartment two three?
+CALLER: No. Seven
+AGENT: Okay, so you want to change the apartment number to seven. Let me update that for you. <emotion value="peaceful"/>
+AGENT: The address I found is still 2 1 Ridge Road, Delta, Pennsylvania. Does that include your apartment seven?
+CALLER: 721 Beacon Road.
+AGENT: Okay, so you want to change the pickup address to 7 2 1 Beacon Road. Let me check that for you. <emotion value="peaceful"/>
+AGENT: Okay, so I found 7 2 1 Beacon Road, Silver Spring, Maryland. Is that the correct pickup address?
+CALLER: Yes.
+AGENT: I couldn't find any locations matching "I'm I'm in a cup." Could you please provide the full address or another way to describe your destination?
+CALLER: 721 Beacon Road, Apartment 203. Seven two one Beacon Road, apartment o three, Silver Spring.
+AGENT: Okay, <break time="300ms"/> let me check that address for you.
+AGENT: Okay, so I found 7 2 1 Beacon Road, Silver Spring, Maryland. Is that the correct dropoff address?
+CALLER: Maryland.
+AGENT: Thank you for confirming Maryland. Is 7 2 1 Beacon Road, Silver Spring, Maryland the correct dropoff address?
+CALLER: Yeah. No. The pickup address.
+AGENT: Okay, so just to be clear, 7 2 1 Beacon Road, Silver Spring, Maryland is your pickup address, and you want to provide a different dropoff address? Could you please tell me the dropoff address?
+CALLER: The drop address is
+AGENT: Please go ahead and tell me the dropoff address when you’re ready.
+CALLER: eighteen
+AGENT: Could you please provide the street name or any other details for the dropoff address at number 18?
+CALLER: observation
+AGENT: Thank you. So the dropoff address is 1 8 Observation. Could you please tell me the city and state for this address?
+CALLER: Eighteen observation CT number one zero four town.
+AGENT: Okay, so the dropoff address you gave is 1 8 Observation Court, Apartment 1 0 4, in the town. Could you please tell me the name of the town and the state?
+CALLER: Germantown Germantown, Maryland. Germantown.
+AGENT: Okay, so your dropoff address is 1 8 Observation Court, Apartment 1 0 4, Germantown, Maryland. Is that correct?
+CALLER: Maryland.
+AGENT: Thank you for confirming Maryland. Is 1 8 Observation Court, Apartment 1 0 4, Germantown, Maryland the correct dropoff address?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Tselot.
+AGENT: Just to confirm, you would like to be picked up at twelve o'clock today, correct? <emotion value="peaceful"/>
+CALLER: Yes. 05:00. Yes. Correct.
+AGENT: Okay great! I've got your pickup time as today at 12:00 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Two.
+AGENT: Thanks for letting me know there will be two passengers. Will anyone be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Sorry?
+AGENT: No problem at all. I was just asking if anyone will need a wheelchair-accessible vehicle for the trip? <emotion value="peaceful"/>
+CALLER: Now now.
+AGENT: Just to be sure, are you saying that someone will need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: Sorry?
+AGENT: I want to make sure I understand correctly. Will anyone be needing a wheelchair-accessible vehicle for your trip? <emotion value="peaceful"/>
+CALLER: No. No.
+AGENT: Okay great! I've got that no wheelchair-accessible vehicle is needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: No. Not nothing. Just signing on the driver and pick me up.
+AGENT: Alright, the estimated fare is 66 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. It's okay. No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 12:00 PM. Your confirmation number is 2 1 3 6 7 4 6 1 8. Is there anything else I can help you with?
+CALLER: Repeat it again, the number. Repeat it again, the number.
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 4 6 1 8. Is there anything else I can assist you with?
+CALLER: No. Thank you. That's all.
+AGENT: Thank you for calling Barwood & Regency, Tselot. Have a wonderful day!

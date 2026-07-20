@@ -1,0 +1,44 @@
+AGENT: Hello Brenda, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like a taxi ride from West no. From yes, west from West Diamond Avenue to East Diamond Avenue, please.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Okay, so your pickup is at 8 0 6 West Diamond Avenue, Gaithersburg, Maryland, and your dropoff is at 3 7 0 East Diamond Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. I
+AGENT: I understand, let's correct that. Could you please tell me the correct pickup address? <emotion value="apologetic"/>
+CALLER: no. It is not. I said it backwards. I am I am in
+AGENT: Thank you for clarifying. So you want to be picked up at 3 7 0 East Diamond Avenue, Gaithersburg, Maryland, and dropped off at 8 0 6 West Diamond Avenue, Gaithersburg, Maryland. Is that right? <emotion value="peaceful"/>
+CALLER: forty six Euro Drive, Now. Now.
+AGENT: Just to confirm, you want to be picked up at 3 7 0 East Diamond Avenue, Gaithersburg, Maryland, and dropped off at 4 6 Euro Drive. Could you please tell me the city and state for Euro Drive? <emotion value="peaceful"/>
+CALLER: I am in That is not correct.
+AGENT: Okay, let's make sure we get it right. Could you please tell me your correct pickup address again? <emotion value="apologetic"/>
+CALLER: forty six zero Drive, in Gaithersburg,
+AGENT: Thank you. To confirm, your pickup address is 4 6 0 Drive in Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. No. It is forty six Bureau Drive, the Giant store. In Gaithersburg.
+AGENT: Thank you for the correction. Let me find that address for you. <emotion value="peaceful"/>
+AGENT: I found Giant Food at 4 6 Bureau Drive, Gaithersburg, Maryland. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified, Brenda. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Three seven zero as soon as possible. I want to be dropped off at three seven zero East Diamond Avenue, in Gaithersburg.
+AGENT: Okay, I've set your pickup time as soon as possible. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One
+AGENT: Thanks for letting me know there will be one passenger. Will you need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One There is one passenger No one needs a wheelchair.
+AGENT: Okay, I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 9 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes. Please.
+AGENT: Okay, so booking your trip now. <emotion value="peaceful"/>
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is booked for today at 2:15 PM. Your confirmation number is 2 1 3 6 7 2 0 2 4. Is there anything else I can help you with?
+CALLER: Wait. I have to write down the confirmation number.
+AGENT: Take your time. Just let me know when you're ready, and I can repeat the confirmation number for you.
+CALLER: Hello. Please repeat the confirmation number. Hello?
+AGENT: Your confirmation number is 2 1 3 6 7 2 0 2 4. Is there anything else I can assist you with?
+CALLER: 2136. Seven
+AGENT: Just to confirm, the full confirmation number is 2 1 3 6 7 2 0 2 4. Would you like me to say it again or help with anything else?
+CALLER: No. I'm okay.
+AGENT: Thank you for calling Barwood & Regency, Brenda. Have a wonderful day.

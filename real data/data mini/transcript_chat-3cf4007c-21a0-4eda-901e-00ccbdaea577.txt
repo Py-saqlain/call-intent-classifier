@@ -1,0 +1,27 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Bernice Bennett?
+CALLER: This is the no.
+AGENT: Thank you for letting me know. May I ask who I am speaking with, please? You can also tell
+CALLER: Hello?
+AGENT: I’m here to help. Could you please tell me your name so I can assist you with your ride?
+CALLER: Jesse Alexandria.
+AGENT: I don't see a profile under the name Jesse Alexandria. We can set one up for you when you book a ride. Would you like help with booking a trip today?
+CALLER: Yes.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: To get started, could you please tell me the pickup address for your ride? If you'd like, I can also use your home address at 6 1 1 1 Montrose Road, North Bethesda, Maryland. Would you like
+CALLER: Six
+AGENT: Uh, I am sorry, but could you please repeat the full pickup address? Just saying "six" is not enough for me to find the location.
+CALLER: Six one eleven Montrose Road, Lockville, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 6 1 1 1 Montrose Road, Hyattsville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Locked it. No. No. Lockville.
+AGENT: Okay,
+CALLER: Not Bethesda.
+AGENT: Okay, so you want the pickup address to be 6 1 1 1 Montrose Road in Lockville, Maryland, not Hyattsville or Bethesda. Let me check that for you. <emotion value="apologetic"/>
+AGENT: I’m still seeing 6 1 1 1 Montrose Road, Hyattsville, Maryland. It looks like Lockville is not recognized in our system. Could you please confirm if you want to use 6 1 1 1 Montrose Road, Hyattsville, Maryland instead?
+CALLER: No.
+AGENT: Okay, since Lockville is not recognized, could you please provide a nearby city or landmark to help me find the correct 6 1 1 1 Montrose Road you mean?
+CALLER: Not Bethesda.
+AGENT: Thanks for clarifying that it's not Bethesda. Could you please tell me a nearby landmark or cross street near 6 1 1 1 Montrose Road to help me find the right location?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

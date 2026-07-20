@@ -1,0 +1,48 @@
+AGENT: Hello Clifton, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I wanna schedule a ride for the twelfth. Sunday, uh, to Sandy Spring, Maryland. Round trip
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I I'm having trouble with the reception. I I can hardly hear you.
+AGENT: I understand,
+CALLER: Hey. It's my receiver.
+AGENT: No worries at all, take your time. When you're ready, just let me know how you'd like to pay for your ride—cash, credit card,
+CALLER: Yes. Yeah. Yeah. We see. The address is well, let's see. Just a minute. See. Sandy Spring Church. Sandy Spring u UMC church.
+AGENT: Thanks for sharing that. Just to keep things on track, could you please tell me how you'd like to pay for your ride? We accept cash, credit
+CALLER: And
+AGENT: Alright, no rush. When you’re ready, could you please let me know your preferred payment method for the ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: And Oh, well, yeah. Yes. I want I want a round trip ride and and and and the address is thirteen ten only Sandy Spring Road. Yeah. It's yeah. O l n e y sandy, s a n d y, Spring, s p r I n g, Road. And and that's Sandy Spring, Maryland, two zero eight six o.
+AGENT: Thanks for that address and the date. Now, how would you like to pay for your round trip ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I I like to to pay if I I'll pay my cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+CALLER: K. This is yeah. Yeah. The payment is by cash.
+AGENT: Okay, so your dropoff address is one three one zero Olney Sandy Spring Road, Sandy Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes, ma'am. Yeah. It yes. Yeah. That's you're right. That's 1310 Olney, Sandy Spring Road, Sandy Spring, Maryland two zero eight six o.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah. I will be picked up, uh, at my, uh, address at six twenty four Symphony Woods Drive, Silver Spring, Maryland. To two zero nine zero one.
+AGENT: Thank you for that pickup address. Let me check that for you. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is six two four Symphony Woods Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. 20901.
+AGENT: Your pickup address has been verified, Clifton. I'll now proceed with arranging your round trip ride. <emotion value="peaceful"/>
+AGENT: Thank you for letting me know about the date. What time on July 12th would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Yeah. The yeah. The the pickup as you said, it's it's it's six twenty four Symphony Woods Drive, exactly what you just said. It's Simply Woods Drive, Silver Spring, Maryland, 20901.
+AGENT: I appreciate the address details, but right now I'm focusing on the pickup time for July 12th. What time would you like to be picked up that day? <emotion value="peaceful"/>
+CALLER: I would like to be, uh, picked up at 09:00.
+AGENT: Just to confirm, you would like to be picked up at 9:00 AM on July 12th, correct? <emotion value="peaceful"/>
+CALLER: This is well, this is for for the twelfth. This is for the twelfth?
+AGENT: Yes, that's right. You said 9:00 AM on July 12th. Is that correct? <emotion value="peaceful"/>
+CALLER: This is for the twelfth of you, Sunday. Okay. Alright.
+AGENT: Okay great! I've got your pickup time as 9:00 AM on July 12th. <emotion value="grateful"/> Alright, soo <break time="300ms"/>
+CALLER: Sorry to disturb you, Greg. This is okay. Alright. Alright. You'll be right back. Thank you.
+AGENT: I don't have your passenger count yet. How many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: I'm let's see. You responded to my request for Sunday? Give a pickup. It's it's Symphony Woods Drive. Going to Sandy Spring, Maryland.
+AGENT: I don't have your passenger count yet. How many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah. If you is he clear what I'm asking for?
+AGENT: I want to make sure I understand you correctly. Could you please tell me how many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah. Hey. Hey. Yeah. The feedback the the response you're giving me is not clear. So I I don't know whether you understand what I'm asking for.
+AGENT: Uhh, I want to make sure I have this right for you. You want to schedule a round trip on Sunday, July 12th, from 6 2 4 Symphony Woods Drive in Silver Spring to Sandy Spring, Maryland. Is that correct? And could you please tell me how many passengers will be traveling? <emotion value="peaceful"/>
+CALLER: Oh, yes.
+AGENT: Just to confirm, you would like to be picked up at 9:00 AM on July
+CALLER: Okay. Alright. Alright. Do you alright. Do you do you have me reserved for that, Brian?
+CALLER: You have me reserve for the the twelfth of July 12 for that round trip ride. It is Sandy Spring, Maryland.
+AGENT: Thank you for confirming your pickup time and passenger count for July 12th at 9:00 AM. <emotion value="grateful"/> Will you be needing a wheelchair accessible vehicle for this trip?
+CALLER: I okay. I think I better call back, and I'm okay, Greg. Alright. I I it's it's confusing to me, so it's probably confusing to you. So I I will thank you for your service. Thank you.
+CALLER: Yeah.

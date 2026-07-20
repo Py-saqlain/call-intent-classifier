@@ -1,0 +1,40 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Sage.
+AGENT: Thanks, Sage. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a cab.
+AGENT: I'd be happy to help you with that, Sage. How would you like to pay for your ride today? We accept cash, credit card, and Call
+CALLER: Credit card.
+AGENT: Thank you, Sage. Your payment method is set to credit card.
+AGENT: Sage, could you please tell me the address where you'd like to be picked up?
+CALLER: Four seven zero, College Parkway.
+AGENT: I wasn't able to locate 470 College Parkway. Could you please provide the full street address including the city and state?
+CALLER: 470 College Parkway, Is it Rockwell? Rockville, Maryland?
+AGENT: I have 4 7 0 College Parkway, Rockville, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: A giant in Germantown, Maryland.
+AGENT: I found three Giant Food locations in Germantown, Maryland:
+
+1. 2 0 9 4 4 Frederick Road
+2. 1 3 0 6 0 Middlebrook Road
+3. 1 8 3 3 1 Leaman Farm Road
+
+Which one would you like to go to?
+CALLER: Lehman Farm Road.
+AGENT: Your dropoff address has been verified, Sage. I will now proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: Got it, I'll arrange your pickup as soon as possible. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Could you please tell me how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One One passenger.
+AGENT: Thank you for confirming one passenger. Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: To call when at the pickup location.
+AGENT: The estimated fare for your trip is 26 dollars, and you will be paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 3:14 AM. Your confirmation number is 2 1 3 6 8 0 2 8 9. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Sage. Have a wonderful day.

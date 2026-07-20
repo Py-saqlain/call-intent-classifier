@@ -1,0 +1,36 @@
+AGENT: Hi Patrick, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: This is Debbie. I need to taxi. To six seven zero zero. Seven Farm Parkway,
+AGENT: Hi Debbie, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash
+AGENT: Thank you, Debbie. Your payment method is set to cash.
+AGENT: I wasn't able to locate 6 7 0 0 7 Farm Parkway. Could you please provide the city and state for this address?
+CALLER: 6 what's the number? Hashtag the Taylor. Ask for me. Six seven hundred
+AGENT: Just to clarify, is the address 6 7 0 0 7 Farm Parkway,
+CALLER: You can't
+AGENT: I want to make sure I get your dropoff address right. Could you please say the full street
+CALLER: Yeah. Yeah. Two two two seven hundred three Shore Drive.
+AGENT: Thank you. To confirm, is your dropoff address 2 2 2 7 0 3 Shore Drive?
+CALLER: No, two thousand two hundred seven Sweet Swipe Drive.
+AGENT: Thank you for the correction. Just to confirm, is your dropoff address 2 2 0 7 Sweet Swipe Drive? Could you please also provide the city and state for this address?
+CALLER: Yeah.
+AGENT: I couldn't find 2 2 0 7 Sweet Swipe Drive. Could you please tell me the city and state for this address?
+CALLER: Said two two Clarksburg, Maryland two two seven hundred Sweet Shore Drive,
+AGENT: Thank you for that. Just to confirm, is your dropoff address 2 2 7 0 0 Sweet Shore Drive, Clarksburg, Maryland?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: Two three five two eight fourth heavy way.
+AGENT: Thank you. Just to confirm, is your pickup address 2 3 5 2 8 Fourth Heavy Way? Could you please also provide the city and state for this address?
+CALLER: Clarksburg, Maryland
+AGENT: I couldn't find 2 3 5 2 8 Fourth Heavy Way in Clarksburg, Maryland. Could you please confirm the street name again or provide any nearby landmarks?
+CALLER: Two three five two eight four fame way
+AGENT: Thank you for the clarification. Just to confirm, is your pickup address 2 3 5 2 8 Fame Way, Clarksburg, Maryland?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yeah. Hello?
+AGENT: Yes, I'm here to help. Is your pickup address
+CALLER: I'm ready.
+AGENT: I couldn't find
+CALLER: Two three five two eight fourth.
+AGENT: Could you please provide the full street name and the city and state for your pickup address? That will help me find it accurately.
+CALLER: (225) 222-5284 is the network.
+AGENT: Thank you for the phone number, but I still need the full pickup address including the street name, city, and state to proceed with your taxi booking. Could you please provide that?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

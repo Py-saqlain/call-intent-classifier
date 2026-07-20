@@ -1,0 +1,39 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Fanella over Yeah. What does the address say?
+AGENT: Thanks, Fanella. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I would like to taxi to dinner. For you, uh, she would like a taxi. She's at a McDonald's at New York Avenue. 2228 New York Avenue. Washington DC.
+AGENT: Thank you for sharing your pickup location at 2 2 2 8 New York Avenue, Washington DC. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: That's so good. Ma'am, did you put 222 Eights? Right?
+AGENT: Yes, I have 2 2 2 8 New York Avenue as the pickup address. Would you like to confirm that? Also, how would you like to pay for your ride—cash, credit card, or Call and Ride?
+CALLER: Okay. Yeah. Okay. Yes. Cash. Yeah.
+AGENT: Thank you, Fanella. Your payment method is set to cash.
+AGENT: I have the pickup address as 2 2 2 8 New York Avenue Northeast, Washington, District of Columbia. Is that correct?
+CALLER: Cash.
+AGENT: I have your pickup address as 2 2 2 8 New York Avenue Northeast, Washington, District of Columbia. Could you please confirm if this is correct?
+CALLER: Yes.
+AGENT: I found a few dinner options near 2 2 2 8 New York Avenue Northeast, Washington, District of Columbia. They are:
+
+1. Hunt Brothers Pizza at 2 2 3 0 New York Avenue Northeast
+2. Checkers at 2 3 0 0 New York Avenue Northeast
+3. Hogs on the Hill III at 2 0 0 3 Bladensburg Road Northeast
+4. Panda Gourmet Fusions at 2 7 0 0 New York Avenue Northeast
+
+Which one would you like to go to?
+CALLER: Where I'm going to wait a minute.
+AGENT: Take your time. Just let me know which dinner location you'd like to go to whenever you're ready.
+CALLER: Wait. Hold on a minute. I'm going to 404013 Georgia Avenue, Northwest Washington DC
+AGENT: Thank you for the new dropoff address at 4 0 4 0 1 3 Georgia Avenue Northwest, Washington DC. Let me confirm that for you.
+AGENT: I found the address as 1 0 2 9 Vermont Avenue Northwest, Washington, District of Columbia. Is that the correct dropoff address?
+CALLER: It's four zero one three. Four zero one three.
+AGENT: Thank you for clarifying the address as 4 0 4 0 1 3 Georgia Avenue Northwest, Washington, District of Columbia. Let me check that again for you.
+AGENT: It looks like the system found 1 0 2 9 Vermont Avenue Northwest, Washington, District of Columbia instead of 4 0 4 0 1 3 Georgia Avenue Northwest. Could you please confirm if you want to go to 1 0 2 9 Vermont Avenue Northwest, or would you like to try giving the address again?
+CALLER: Four zero one three.
+AGENT: Thank you for confirming the address as 4 0 4 0 1 3 Georgia Avenue Northwest, Washington, District of Columbia. I will try to find it again for you.
+AGENT: I searched for 4 0 4 0 1 3 Georgia Avenue Northwest, Washington, DC, but I didn't find an exact match. Here are some nearby options:
+
+1. 3Tree Flats at 3 9 1 0 Georgia Avenue Northwest
+2. Boost Mobile at 3 7 2 0 Georgia Avenue Northwest
+3. Georgia Avenue Biz Solutions at 3 6 1 3 Georgia Avenue Northwest
+
+Do any of these match your destination, or could you provide a nearby landmark or cross street to help find the exact address?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

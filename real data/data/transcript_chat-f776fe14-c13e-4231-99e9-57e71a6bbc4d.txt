@@ -1,0 +1,31 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Yeah. Hello? Hello? Yeah. We're not tired of this. When that's Saturday.
+AGENT: I’m here to help. Could you please tell me your name so I can get started with your ride?
+CALLER: Richard.
+AGENT: Thanks, Richard. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: K. We are at takoma bell at one zero eight one zero Baltimore Avenue, Belleville, Maryland.
+AGENT: Thank you for the address, Richard. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: I it'd be a debit.
+AGENT: Thank you, Richard. Your payment by credit card is all set. I'll proceed with your booking now.
+CALLER: Okay. How much would it be to
+AGENT: Before we
+CALLER: MBA Which is it? It's not that far. But I'm a senior citizen. And, uh, you know, I I can barely work.
+AGENT: I understand, Richard. Let's focus on getting your pickup address confirmed first. The pickup address I have is Lust Baltimore, Baltimore, Maryland. Is that correct? Please say yes if it is.
+CALLER: Yes. Yes. And Taco Bell, the it's a it's a business and it's one zero eight one ten Baltimore Avenue.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Is it MBA right here? I guess up.
+AGENT: Could you please clarify the destination address a bit more? Are you referring to the M B A building or another location?
+CALLER: The end behavior. And right here, uh, in go through. We go after up the road and it's on the left side. What happen is you can barely work you know, because he's a serious person. And set off with a leg.
+AGENT: Thank you for the details. To make sure I get the correct destination, could you please provide the full address or the name of the place you want to go to? If you know the street number and street name, that would be very helpful.
+CALLER: It's monitored to mutual administration. Maryland Motor Vehicle Administration, which is just off the road. Whatever it is, young man. The the motor vehicle administration.
+AGENT: I found Maryland Motor Vehicle Administration at six six zero one Ritchie Highway, Glen Burnie, Maryland. Is that the correct destination?
+CALLER: No. It's not that's not the one.
+AGENT: Thank you for letting me know. Could you please provide any additional details or a
+CALLER: No.
+AGENT: I
+CALLER: Hold one second. It's in it's in greenbelt. No. That ain't greenbelt. It's actually Laurel. Laurel is Farham's Bellsville. Hold one sec.
+AGENT: Thank you for the clarification. So the Maryland Motor Vehicle
+CALLER: Oh, my second.
+AGENT: I’m here to help whenever you’re ready. Could you please provide the destination address again when you have it?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Okay.

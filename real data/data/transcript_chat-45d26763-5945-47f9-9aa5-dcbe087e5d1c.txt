@@ -1,0 +1,44 @@
+AGENT: Hi Quin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Taxi.
+AGENT: How can I assist you with your taxi ride today?
+CALLER: Need a pickup.
+CALLER: Pick
+AGENT: Could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and
+CALLER: How would you like to say that? Cash.
+AGENT: Thank you for letting me know you'll be paying with cash.
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: 9901 Medical Drive,
+AGENT: I have 9 9 0 1 Veirs Drive, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: No. No.
+AGENT: Thank you for letting me know. Could you please provide the correct pickup address again?
+CALLER: 9901 Medical Drive,
+AGENT: I have 9 9 0 1 Veirs Drive, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: No. Nine nine zero one medical. Drive
+AGENT: I understand you said 9 9 0 1 Medical Drive, but the closest match I have is 9 9 0 1 Veirs Drive, Rockville, Maryland. Could you please confirm if this is the correct pickup address?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Breathe, Lord. Five four four, pumpkin, plus twelve, I'm still trying to about. 540 bumped Bamson Drive? I'm saying things. Bobstring? Yeah. Bumpson Drive. Bob's thing. Five five four zero Bobstring Drive, Gaithersburg, Maryland.
+AGENT: I couldn't find an exact match for 5 5 4 0 Bumpson Drive, Gaithersburg, Maryland. Could you please confirm if this is the correct dropoff location or provide any nearby landmarks or corrections?
+CALLER: Check me.
+AGENT: Could you please clarify what you mean by "Check me"? Are you asking me to verify the
+CALLER: Okay. Started getting this. Five four zero Bobstring Drive, Gaithersburg, Maryland.
+AGENT: I found some locations near 5 4 0 Bobstring Drive, Gaithersburg, Maryland:
+
+1. Absolute Wellness Massage at 1 8 3 1 0 Montgomery Village Avenue,
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Quin.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Just to clarify, does that mean there are no passengers traveling, or that no one needs a wheelchair-accessible vehicle? Could you please tell me the number of passengers and if any need wheelchair access?
+CALLER: Yeah.
+CALLER: One. And no wheel wheelchair.
+CALLER: Have a great night
+AGENT: Quin, the estimated fare for your trip is 20.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Your trip is scheduled for today at 1:54 AM. The confirmation number is 2 1 3 6 6 9 0 0 5. Is there anything else I can assist you with?
+CALLER: What's the confirmation number?
+AGENT: The confirmation number for your trip is 2 1 3 6 6 9 0 0 5. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Quin. Have a wonderful day.

@@ -1,0 +1,18 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Straight.
+AGENT: Thanks, Straight. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Taxi.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your taxi ride? <emotion value="peaceful"/>
+CALLER: Maryland twenty East
+AGENT: Hmm <break time="350ms"/> let me check that address. To be sure, is that "20 East Maryland" or "Maryland 20 East"? Could you please clarify the street number and street name? <emotion value="hesitant"/>
+CALLER: 200 East Maryland. Mile marker 40.
+AGENT: Okay, so I found the pickup location as 2 0 0 East Street, Frederick, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. Customer service.
+AGENT: Thank you for clarifying. Could you please provide the full address or name of the customer service location you want to be picked up from? <emotion value="peaceful"/>
+CALLER: Maryland East two hundred.
+AGENT: Okay, I found 2 0 0 East Street, Frederick, Maryland again. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: No. Customer service.
+AGENT: I'm sorry, I couldn't find any customer service location at 200 East Maryland. Could you please provide a more specific address

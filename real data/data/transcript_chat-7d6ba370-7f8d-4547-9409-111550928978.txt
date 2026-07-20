@@ -1,0 +1,45 @@
+AGENT: Hi Gwen, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like to get a bar with cab to come to thirty four zero eight Chiswick Court, in Silver Spring, at Leisure World. And it's the white fall insurance, the little area where I'm in, the cul de sac I'm in.
+AGENT: Thank you for sharing your pickup location at 3 4 0 8 Chiswick Court in Silver Spring near Leisure World. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: I have the pickup address as 3 4 0 8 Chiswick Court, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: I found several locations for Leisure World in Silver Spring. Here are some options: The Neurology Center Leisure World Plaza at 3 8 0 1 International Drive, Leisure World Opticians Inc. Exams and Glasses at 3 8 0 4 International Drive, Leisure World Plaza at 3 8 0 0 to 3 8 6 0 International Drive, and Barbara Michaluk, an authorized Leisure World specialist and full service realtor at 3 8 1 6 International Drive. Which one would you like to use?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Gwen. I will now proceed with arranging your trip.
+AGENT: When would you like to be picked up?
+CALLER: I'll be going to aspen hill
+AGENT: Thanks for letting me know your destination is Aspen Hill. When would you like to be picked up?
+CALLER: I can believe right now
+AGENT: Got it, I'll arrange your pickup for right now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: I can be picked up right now.
+AGENT: I have your pickup time set for right now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: There will be just one
+AGENT: Thank you, I have recorded 1 passenger. Will you need a wheelchair-accessible vehicle?
+CALLER: One pass passenger riding and no wheelchair.
+AGENT: Thank you, I have noted 1 passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: I would like to know about how long will it take for them to come for the pickup.
+AGENT: The estimated travel time for your pickup is about 4 minutes. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 7 dollars, and you will be paying with your own payment method. Would you like to schedule a return trip as well?
+CALLER: Yes. I would.
+AGENT: Great, I'll start collecting the details for your return trip now.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Let's see. Just a minute. Let me figure this out. I'll get my hair done hopefully between 11:30 and quarter of twelve. It usually takes an hour. Let me say, twelve thirty
+AGENT: Thank you for letting me know. Just to confirm, you would like to be picked up for your return trip at 12:30 PM, correct?
+CALLER: Correct.
+AGENT: Your return trip pickup time is set for today at 12:30 PM. How many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: What One person will be traveling and no wheelchair accessibility.
+AGENT: For your return trip, I have the pickup address as 3 8 0 1 International Drive, Suite 2 1 0, Silver Spring, Maryland, and the dropoff address as 3 4 0 8 Chiswick Court, Silver Spring, Maryland. Is that correct?
+CALLER: Yes. That address, though, is the hair cuttery. 13609 Connecticut Avenue. That's where I'm going.
+AGENT: Thank you for the correction. I will update your return trip dropoff address to 1 3 6 0 9 Connecticut Avenue. Let me confirm that for you.
+AGENT: I have the return trip dropoff address as 1 3 6 0 9 Connecticut Avenue, Silver Spring, Maryland. Is that correct?
+CALLER: Cool. Correct. Aspen Hill Shopping Center.
+AGENT: Your return trip dropoff address has been verified, Gwen. I will now proceed with arranging your return trip.
+AGENT: The estimated fare for your return trip is 9 dollars and 50 cents, paying with your own payment method. Should I go ahead and book both your trips?
+CALLER: Yes.
+AGENT: Thank you, I am booking both your trips now.
+AGENT: Your main trip is scheduled for today at 11:04 AM with confirmation number 2 1 3 6 6 9 3 0 2. Your return trip is scheduled for today at 12:30 PM with confirmation number 2 1 3 6 6 9 3 0 3. Is there anything else I can assist you with?
+CALLER: That would be all, and thank you
+AGENT: Thank you for calling Barwood & Regency, Gwen. Have a wonderful day!

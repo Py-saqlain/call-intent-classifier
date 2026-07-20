@@ -1,0 +1,12 @@
+AGENT: Hello Yewubdar, this is Ana from Barwood & Regency. Your ride is scheduled for pickup today at 9:30 AM. How can I assist you today?
+CALLER: Are you there?
+AGENT: Uhh yes, I'm here. How can I assist you with your ride today? <emotion
+CALLER: Hello? Oh, I thought it was a machine. I was just checking. Who would be coming and what time.
+AGENT: So, you want to know who will be coming to pick you up and at what time? I can help with that by checking your trip status. Let me look into it for you.
+CALLER: Yes. Thank
+AGENT: You have a trip scheduled for today with pickup at 9:30 am from 5 7 2 1 Grosvenor Lane in Bethesda. No driver or vehicle is assigned yet. Would you like me to keep you updated or help with anything else? <emotion value="peaceful"/>
+CALLER: You mean, like, it's because it's early or you you could didn't you couldn't get a vehicle? It's too early to activate it, is that why?
+AGENT: Yes, that's right. Since your pickup time is still a bit ahead, the system hasn't assigned a driver or vehicle yet. It will happen closer to your scheduled time. Would you like me to keep an eye on it for you? <emotion value="peaceful"/>
+CALLER: And it'll be all
+CALLER: Right.
+AGENT: Alright, if you have any other questions or need assistance with your ride, just let me know. Is there anything else I can help you with right now? <emotion value="peaceful"/>

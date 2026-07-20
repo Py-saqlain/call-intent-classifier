@@ -1,0 +1,38 @@
+AGENT: Hello Morris, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a k f two eighty.
+AGENT: Could you please clarify what you mean by "k f two eighty"? Are you referring to an address, a vehicle number, or something else?
+CALLER: Session. Need I need cab number 280.
+AGENT: I understand you need a cab with the number 280. Could you please provide the pickup address and the destination so I can assist you with your ride request?
+CALLER: Yeah.
+CALLER: But address is nineteen five seven o Crystal Rock Drive. Germantown.
+AGENT: Thank you for the pickup address at 1 9 5 7 0 Crystal Rock Drive, Germantown. Could you please tell me your destination address or where you'd like to go?
+CALLER: Two zero nine one o Frederick Road, in Germantown. Walmart,
+AGENT: Thank you for the addresses. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call it Call him ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+CALLER: Three four seven eight eight seven.
+AGENT: Thank you for providing your Call and Ride information. Your payment method is set to Call And Ride.
+AGENT: I have 1 9 5 7 0 Crystal Rock Drive, Germantown, Maryland as your pickup, and 2 0 9 1 0 Frederick Road, Germantown, Maryland as your dropoff. Is that correct?
+CALLER: Right. Yes.
+AGENT: Your addresses have been verified, Mr. Morris.
+AGENT: When would you like to be picked up?
+CALLER: Waiting for a k f two eighty. Right now, cab two eighty.
+AGENT: I want to make sure I understand correctly. Are you asking for a pickup right now, or would you like to schedule a specific pickup time?
+CALLER: Yeah. Pickup. The pickup is right now.
+AGENT: Thank you. How many passengers will be traveling, including yourself? And will anyone need a
+CALLER: Two. Two. Yeah. I got a wheelchair. That's why I want cab two eighty.
+AGENT: Thank you for letting me know. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 11 dollars, and you will be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No. Not right now.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now?
+CALLER: Okay. Yeah. I need cab two eighty. Yeah.
+AGENT: Thank you. I am booking your trip now.
+AGENT: I'm processing your booking now.
+AGENT: Your main trip is booked with confirmation number 2
+CALLER: Is
+AGENT: Your main trip confirmation number is 2 1 3 6 6 9 5 5 9. Is there anything else I can help you
+CALLER: Okay. Okay. That's it.
+CALLER: Thank you.
+AGENT: Thank you for calling Barwood & Regency, Morris.

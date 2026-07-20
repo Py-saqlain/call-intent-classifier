@@ -1,0 +1,31 @@
+AGENT: Hi Caroline, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Can you please send a cap to six five five Walkersville Road
+AGENT: I can help with that. How would you like to pay for your ride? We accept cash, credit
+CALLER: Calling right. Calling right.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero six eight five six six.
+AGENT: Thank you, your payment method is set to Call and Ride.
+AGENT: I have the pickup address as six five five Watkins Mill Road, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes. It is.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Give me a drop. The the drop off is 161005 Branch Raydeo in Maryland.
+AGENT: Just to confirm, did you say the dropoff address is 1 6 1 0 0 5 Branch Raydeo in Maryland?
+CALLER: One one six one zero zero Crop Branch Way, Bearwood, Maryland.
+AGENT: Thank you for the correction. I want to make sure I have it right: is your dropoff address one one six one zero zero Crop Branch Way, Bearwood, Maryland?
+CALLER: No. It is one. Six, one zero zero Crabs Branch Way. Yeah. Went in Maryland.
+AGENT: Thank you for clarifying. Just to confirm, is your dropoff address one six one zero zero Crabs Branch Way, Gaithersburg, Maryland?
+CALLER: Yes. It is. Yeah. With Maryland.
+AGENT: I have the dropoff address as one six one zero zero Crabbs Branch Way, Rockville, Maryland. Is that correct?
+CALLER: That's right.
+AGENT: Your dropoff address has been verified, Caroline.
+AGENT: When would you like to be picked up?
+CALLER: I would like to be picked up right now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a
+CALLER: One. What No. I don't need a wheelchair.
+AGENT: The estimated fare for your trip from 6 5 5 Watkins Mill Road to 1 6 1 0 0 Crabbs Branch Way is 17.5 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: No. No. No return trip. Can you send a one, please? A one. Can you send a one, b a n, one? Three.
+AGENT: Just to clarify, you
+CALLER: No. No. No. Yeah. No. No. No wine. No wine. No wine. No wine.
+CALLER: No. I made a mistake. No wine.
+AGENT: Just to clarify, you do not want a return trip, correct? I will proceed with booking only the one-way trip. Should
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

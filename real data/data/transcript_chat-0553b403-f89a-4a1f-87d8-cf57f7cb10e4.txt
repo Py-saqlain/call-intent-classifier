@@ -1,0 +1,35 @@
+AGENT: Hello Leah, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I wanna schedule a trip. I'm flirting with you, bitch. And we know even though y'all are women, we're fucking with you. And ours was craziest to be that way. And he said when you flirt with you'll not when you'll give in No. That's not what she said. I'm stupid, and I'm crazy.
+AGENT: How can I assist you with scheduling your trip today?
+CALLER: I would like to be picked up at one two five three zero Milestone Center Drive, Germantown, two zero eight seven six.
+AGENT: Thank you for sharing your pickup address at 1 2 5 3 0 Milestone Center Drive, Germantown, Maryland. How would you like to pay for your trip today? We accept cash, credit card, and Call and Ride.
+CALLER: Call and then cash.
+AGENT: Just to confirm, would you like to pay with Call and Ride or cash for this trip? If it's Call and Ride, I will need the last six digits of your card.
+CALLER: Cash.
+AGENT: Thank you, cash it is. I'll proceed with that payment method for your trip.
+AGENT: I have the pickup address as 1 2 5 3 0 Milestone Center Drive, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Drop off is two zero nine. One zero Frederick Road, Germantown two zero eight seven six.
+AGENT: Thank you for providing the dropoff address at 2 0 9 1 0 Frederick Road, Germantown, Maryland. Let me check that for you.
+AGENT: I have the dropoff address as 2 0 9 1 0 Frederick Road, Germantown, Maryland. Is that correct?
+CALLER: Yeah. Yes.
+AGENT: Your dropoff address has been verified. Thank you, Leah.
+AGENT: When would you like to be picked up?
+CALLER: Nail.
+AGENT: Could you please clarify if you mean "now" for immediate pickup, or if you prefer to schedule a will-call trip to call back later?
+CALLER: Now.
+AGENT: Thanks, I've scheduled your pickup for now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger No care.
+AGENT: Thank you for letting me know there is one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No. Just pull to the lobby entrance.
+AGENT: Leah, the estimated fare for your trip is 8.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Your trip is scheduled for today at 5:37 pm. The confirmation number is 2 1 3 6 6 8 6 1 9. Is there anything else I can help you with?
+CALLER: And this send me the confirmation number via SMS. Through text.
+AGENT: I can't send texts directly, but I can make sure your confirmation number is available in your profile or help you with other options. Would you like me to connect you to someone who can assist with sending a text confirmation?
+CALLER: Yes.
+CALLER: No. K. Disregard connecting me to an agent. I have the confirmation number.
+AGENT: Understood. If you need any further assistance with your trip, just let me know.
+CALLER: Am believe that completes everything. I'll be waiting for the driver at the lobby entrance.
+AGENT: Thank you for calling Barwood & Regency, Leah. Have a wonderful day.

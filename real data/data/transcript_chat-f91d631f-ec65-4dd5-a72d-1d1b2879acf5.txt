@@ -1,0 +1,37 @@
+AGENT: Hi Luis, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I guess. I would like to catch a ride. With my card to mail in our Olney Park from my home address which is
+CALLER: five two two five Pooks Hill Road in Bethesda,
+AGENT: Okay so I've got that payment noted as Credit Card. Could you please tell me the time you'd like to be picked up? <emotion value="grateful"/>
+CALLER: Not credit card, call and ride card.
+AGENT: Okay, so your pickup address is 5 2 2 5 Pooks Hill Road, Bethesda, Maryland, and your dropoff is 1 6 6 0 1 Georgia Avenue, Olney, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yeah. Yes. I'm ready.
+AGENT: Your addresses have been verified, Luis.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: July fourteenth at eight thirty AM
+AGENT: Okay great! I've got your pickup time as July 14th at 8:30 AM. How many passengers will be traveling, including yourself, and will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: No. I'm just traveling by myself, and no one is needing a wheelchair.
+AGENT: Okay great! I've got that noted. Do you have any special instructions or requests for the driver? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 28.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, I will start collecting the details for your return trip. <emotion value="peaceful"/>
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: At four forty five PM. On Tuesday, July 14.
+AGENT: Just to confirm, you want to be picked up for your return trip on July 14th at 4:45 PM, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your return trip pickup time as July 14th at 4:45 PM. How many passengers will be traveling on the return trip, including yourself, and will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: No. No one will be needing a wheelchair.
+AGENT: Thanks
+CALLER: And I'm coming Oh,
+AGENT: For your return trip, I have the pickup at 1 6 6 0 1 Georgia Avenue, Olney, Maryland, and the dropoff at 5 2 2 5 Pooks Hill Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yes.
+AGENT: The estimated fare for your return trip is 28.5 dollars, paying with Credit Card. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Please
+AGENT: Okay, so booking both trips now. <emotion value="peaceful"/>
+AGENT: Thank you for your patience. I'm booking both your trips now.
+AGENT: Your main trip is confirmed with the number 2 1 3 6 7 2 3 0 9, and your pickup is scheduled for July 14th at 8:30 AM. Your return trip is confirmed with the number 2 1 3 6 7 2 3 1 0, scheduled for July 14th at 4:45 PM. Is there anything else I can help you with?
+CALLER: No. You've been very helpful Thank you very much.
+AGENT: Thank you for calling Barwood & Regency, Luis. Have a wonderful day!
+CALLER: Two.
+CALLER: Five.

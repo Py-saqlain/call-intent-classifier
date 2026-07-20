@@ -1,0 +1,51 @@
+AGENT: Hi Tyra, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to do, um, call and ride.
+AGENT: Thank you for letting me know you'd like to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Sure. Just a moment, please.
+AGENT: Take your time. Whenever you're ready, just let me know the last six digits of your Call and Ride card.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay. I'm ready.
+AGENT: Great! Please go ahead and tell me the last six digits of your Call and Ride card.
+CALLER: Three five one four two six.
+AGENT: Thank you. Your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: One four two zero one Wolf w o l f, creek, c r e e k, place,
+AGENT: I have 1 4 2 0 1 Wolf Creek Place, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: and that's apartment one
+AGENT: Thank you for that detail. Just to confirm, is your pickup address 1 4 2 0 1 Wolf Creek Place, Apartment 1, Silver Spring, Maryland?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Sure.
+AGENT: Please tell me the destination or dropoff address for your trip.
+CALLER: That is one eight one six nine Town Center Drive, Olney, a Harris Keter, store,
+AGENT: I have 1 8 1 6 9 Town Center Drive, Olney, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Tyra. I will now proceed with the next steps.
+AGENT: When would you like to be picked up?
+CALLER: Pickup at 04:00. PM.
+AGENT: Your pickup time is set for today at 4:00 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Got it, no wheelchair-accessible vehicle needed. Do you have any special instructions or notes for the driver?
+CALLER: Just have air condition
+AGENT: The estimated fare for your trip is 17 dollars, and you will be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: Great, I'll start collecting the details for your return trip.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: I don't know yet.
+AGENT: No problem, your return trip is recorded as a will-call trip. How many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yep.
+AGENT: Could you please tell me the number of passengers and whether anyone will need a wheelchair-accessible vehicle for your return trip?
+CALLER: One passenger. No wheelchair.
+AGENT: For your return trip, I have 1 8 1 6 9 Town Center Drive as the pickup and 1 4 2 0 1 Wolf Creek Place as the dropoff. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 17 dollars, paying with your Call and Ride account. Should I go ahead and book both your main trip and return trip?
+CALLER: Just book the main trip.
+AGENT: Just to confirm, you want to book only the main trip and not the return trip, correct?
+CALLER: Yes.
+AGENT: Thank you for your patience. I'm processing your main trip booking now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 4 8 3 9. The pickup is today at 4:00 PM. Is there anything else I can help you with?
+CALLER: No. That is it.
+AGENT: Thank you for calling Barwood & Regency, Tyra. Have a wonderful day!
+CALLER: Thank you.

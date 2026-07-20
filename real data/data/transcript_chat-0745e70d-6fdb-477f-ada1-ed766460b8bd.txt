@@ -1,0 +1,29 @@
+AGENT: Hello Carlos, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a ride.
+AGENT: I'd be happy to help with your ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Nine two zero zero Darnstone Road in Rockville.
+AGENT: I have the pickup address as nine two zero zero Darnestown Road, Rockville, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Yes.
+AGENT: Could you please tell me the destination
+CALLER: It's the drop off address to nine seven one nine travail gateway drive in rockville
+AGENT: I have the dropoff address as nine seven one nine Traville Gateway Drive, Rockville, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Carlos. I will now proceed with your ride booking.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One No.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: Can he send a text to me when he on his way?
+AGENT: I understand you'd like the driver to send you a text when they are on their way. I'll make a note of that for the driver.
+AGENT: Carlos, the estimated fare for your trip is 7 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 10:09 AM. Your confirmation number is 2 1 3 6 7 9 2 7 1. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Carlos. Have a wonderful day.

@@ -1,0 +1,30 @@
+AGENT: Hello Jiqing, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to book a taxi, please.
+AGENT: Thank you for choosing us for your ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: I pay call and ride.
+AGENT: Great, I just need the last six digits of your Call and Ride card to proceed. Could you please provide those?
+CALLER: It's a three my car is three five one two zero two.
+AGENT: Thank you for providing your Call and Ride details. Your payment method is set to Call and Ride.
+AGENT: Could you please tell me the pickup address for your taxi ride?
+CALLER: The one one zero Olden Hall Avenue, gate
+AGENT: I have the pickup address as one one zero Odendhal Avenue, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: It's 17060 King James Way.
+AGENT: I have the dropoff address as one seven zero six zero King James Way, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Jiqing. I will now proceed with the next steps.
+AGENT: When would you like to be picked up?
+CALLER: I want pickup before 01:00.
+CALLER: Just like I from now.
+AGENT: Thank you for confirming your pickup time as today at 12:59 PM. How many passengers will be traveling, including yourself? And will you need a wheelchair-accessible vehicle?
+CALLER: Only me. Nor fracture. Nothing else. Only me. One person.
+AGENT: The estimated fare for your trip is 8 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: No. No. I don't need a return.
+AGENT: Okay, I will skip the return trip. Now, should I go ahead and book your one-way trip for today at 12:59 PM?
+CALLER: Yes. Yes. Thank you.
+AGENT: Booking your trip now.
+AGENT: Your trip is booked for today at 12:59 PM. Your confirmation number is 2 1 3 6 6 6 2 8 6. Is there anything else I can help you with?
+CALLER: No. Thank you. I appreciate.
+AGENT: Thank you for calling Barwood & Regency, Jiqing. Have a wonderful day!
+CALLER: You too. Thank you.

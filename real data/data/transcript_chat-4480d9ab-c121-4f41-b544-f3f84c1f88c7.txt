@@ -1,0 +1,50 @@
+AGENT: Hello Kent, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm open. Address?
+AGENT: Would you like to use your home at 7 9 1 9 Tuckerman Lane, Potomac, Maryland as your pickup address?
+CALLER: No.
+AGENT: Where would you like to be picked up from?
+CALLER: One two zero one seven Locks Road.
+AGENT: Just to confirm, did you mean 1 2 0 1 Seven Locks Road? And is that in Rockville, Maryland?
+CALLER: That is correct. Yes.
+AGENT: Thank you. Where would you like to go?
+CALLER: Motor City Drive.
+AGENT: Could you please confirm the full address on Motor City Drive, including the street number and city?
+CALLER: One zero four zero one Drive,
+AGENT: To make sure I have it right, is your destination 1 0 4 0 1 Motor City Drive in Bethesda, Maryland?
+CALLER: Yes. That's right.
+AGENT: Thank you for confirming your destination. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: And I'm going going out. Right now.
+AGENT: Got it, you're ready to go right now. Could you please tell me how you'd like to pay for your ride? Cash, credit card, or Call and Ride?
+CALLER: Yeah. I can't. Yep. Yes.
+AGENT: I want to make sure I understand you correctly. Are you saying you would like to pay with cash, credit card, or Call and Ride? Could you please specify which payment method you prefer?
+CALLER: Yep.
+AGENT: Could you please tell me which payment method you would like to use: cash, credit card, or Call and Ride?
+CALLER: The caller
+AGENT: Just to confirm, did you mean Call and Ride as your payment method?
+CALLER: That's good. Yes.
+AGENT: Great! Could you please provide the last six digits of your Call and Ride card?
+CALLER: Using dollars. Cash is not Alright. Sorry.
+AGENT: Thank you for clarifying. So you would like to pay with cash, is that correct?
+CALLER: Yes. Yes.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: I have the pickup address as 1 2 0 1 Seven Locks Road, suite 1 1 1, Rockville, Maryland, and the dropoff address as 1 0 4 0 1 Motor City Drive, Bethesda, Maryland. Is that correct?
+CALLER: That yes. That's correct.
+AGENT: Your pickup and dropoff addresses have been verified, Kent.
+AGENT: When would you like to be picked up?
+CALLER: Right now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 13 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip. Should I go ahead and book it now?
+CALLER: Please. Yes.
+AGENT: I am booking your trip now.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 3 6 6 3. The pickup is today at 2:52 pm. Is there anything else I can help you with?
+CALLER: No, that'd be all. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Kent. Have a wonderful day.

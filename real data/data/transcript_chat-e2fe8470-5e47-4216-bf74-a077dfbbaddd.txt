@@ -1,0 +1,84 @@
+AGENT: Hello Pamil, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a text, please.
+AGENT: Uhh, could you please tell me a bit more about what kind of text you need? Are you looking to book a ride, check on a trip, or something else? <emotion value="peaceful"/>
+CALLER: I need a text to go to the doctor appointment now.
+CALLER: I have a doctor's appointment
+AGENT: Alright, I understand you have a doctor's appointment. <break time="300ms"/> How would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Alright. All night. Alright.
+AGENT: Hmmm.. <break time="300ms"/> I didn't quite catch your payment method. Could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: All in our Fall and ride.
+AGENT: Just to make sure, did you mean Call and Ride for
+CALLER: Seven times.
+AGENT: Hmmm.. that didn't seem right, could you please say the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Zero four three one two two.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me your pickup address for the ride to your doctor appointment?
+CALLER: One nine eight five one Observation Drive, Germantown, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 19851 Observation Drive, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Hmm <break time="350ms"/> let me check that doctor appointment location for you.
+AGENT: I found a few doctor appointment locations. <break time="700ms"/> Option one: Dr. Parvej Malik, MD at 200 Girard Street, Gaithersburg. <break time="500ms"/> Option two: Olde Towne Urgent Care at 317 East Diamond Avenue, Suite C, Gaithersburg. <break time="500ms"/> Option three: Suhair Abulfarag, MD, a SignatureMD Physician at 604 South Frederick Avenue, Suite 413, Gaithersburg. <break time="500ms"/> Option four: Tehseen Raza Naqvi, MD at 18530 Office Park Drive, Montgomery Village. <break time="500ms"/> Option five: CloseKnit, formerly Comprehensive Primary Care, at 18550 Office Park Drive, Montgomery Village. <break time="500ms"/> Which one is correct?
+CALLER: I have a
+AGENT: Uh, I am sorry, but <break time="300ms"/> could you repeat that? <emotion value="hesitant"/>
+CALLER: appointment at one nine eight five one with Clearway Clearway now, please.
+AGENT: Hmm <break time="350ms"/> let me check
+CALLER: Oh my gosh. 19851 Observation Drive, That's all you need to know.
+AGENT: Perfect, got it! [laughter] Your dropoff address has been verified.
+CALLER: Thank you.
+AGENT: Hmm <break time="350ms"/> let me check that doctor appointment location for you.
+AGENT: I found a few doctor appointment locations.
+CALLER: Don't need to. No. I don't want to hear that again. I've already just put a person on. Driving me crazy.
+AGENT: Your pickup and dropoff addresses must be different. Could you please provide a different dropoff address? <emotion value="apologetic"/>
+CALLER: My pickup address is one nine six zero nine Crystal Rock Drive,
+AGENT: Okay, <break time="300ms"/> let me check that address.
+AGENT: Okay, so I found 19609
+CALLER: That's my pickup address. Oh my god.
+AGENT: Uh, I am sorry, but <break time="300ms"/> could you please provide a different dropoff address? <emotion value="apologetic"/>
+CALLER: My pickup address is 19609 Crystal Rocks Drive,
+AGENT: Okay, <break time="300ms"/> let me check that address.
+CALLER: Germantown, Maryland
+AGENT: Okay, so I found 19609 Crystal Rock Drive, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: I have noted that you would like to be picked up now. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yes.
+AGENT: Okay, great! How many passengers will be traveling, including
+CALLER: Please.
+AGENT: Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: One. One. One
+AGENT: Okay great! Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you. Do you have any special instructions for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, so let me confirm those details. Your pickup is 1 9 8 5 1 Observation Drive. Your dropoff is 1 9 6 0 9 Crystal Rock Drive. Pickup time is 9:49 AM. One passenger will be traveling, and you do need a wheelchair accessible vehicle. The estimated fare is 9.5 dollars, paying with
+CALLER: No. No. No. No. It's all wrong. It's need to be picked up at one nine six zero nine Crystal Rock Drive. Going to one nine eight
+AGENT: Just to confirm, would you like to update the pickup address to 1 9 6 0 9 Crystal Rock Drive and the dropoff to 1 9 8 5 1 Observation Drive for your main trip, or is this for the return trip? <emotion value="apologetic"/>
+CALLER: five one Observation Drive. Now. It's for now.
+AGENT: Alright, so you want to update the pickup address to 1 9 6 0 9 Crystal Rock Drive, the dropoff to 5 1 Observation Drive, and the pickup time to now for your main trip. Is that correct? <emotion value="apologetic"/>
+CALLER: Yes.
+AGENT: Sure, let me update that information for you.
+AGENT: Okay, <break time="300ms"/> let me check that pickup address.
+AGENT: Okay, so I found 19609 Crystal Rock Drive, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: That pickup address is already set as 19609 Crystal Rock Drive. Would you like to update the dropoff address next?
+CALLER: It's 19851 Observation Drive, Same thing I've said several times. Thank you.
+AGENT: Okay, <break time="300ms"/> let me check that dropoff address.
+AGENT: Okay, so I found 19851 Observation Drive, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup and dropoff addresses must be different. Could you please provide a different dropoff address? <emotion value="apologetic"/>
+CALLER: Oh my god. Is there a person I can speak to? I've said this, like, multiple times.
+AGENT: I understand you'd
+CALLER: It's simple. 19609 Crystal Rock going to 19851 Observation Drive.
+AGENT: Thank you for confirming. I am processing your booking now. Please hold on a moment.
+CALLER: Thank you.
+AGENT: Your main trip is scheduled for today at 9:49 AM. Your
+CALLER: Don't feel good.
+AGENT: I'm sorry to hear that you're not feeling well. If there's anything I can do to assist you with your ride or any other needs, please let me know.
+CALLER: How long will that be?
+AGENT: I don't have the exact arrival time for your driver right now. If you'd like, I can connect you to someone who can provide the current status and estimated arrival time. Would you like me to do that?
+CALLER: Yes. I have a doctor's appointment.
+CALLER: Oh,
+AGENT: Uhh <break time="300ms"/> your pickup is scheduled for today at 9:49 AM,
+CALLER: Hello?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

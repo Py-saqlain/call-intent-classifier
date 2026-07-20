@@ -1,0 +1,10 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Yeah. I do. Yeah. Afternoon. This three seven four. I have to challenge you with the the radio. No. Show. For Marie Brown. So I wanna I want to let you know so that it is a of
+AGENT: Thank you for that. Could you please tell me your full name again so I can make sure I have it correctly?
+CALLER: Say it again. It's Marie Marie Brown.
+AGENT: Thanks, Marie. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: What what's what's what's
+AGENT: I’m here to help, Marie. Could you please tell me what you need assistance with today?
+CALLER: seeing that I'm scheduled to pick her and she's not available. So it's no show.
+AGENT: I'm connecting you now to a customer service representative who can assist you
+CALLER: Focus. Okay. Okay. Okay.

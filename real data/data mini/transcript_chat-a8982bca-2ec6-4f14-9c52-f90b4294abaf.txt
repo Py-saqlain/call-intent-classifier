@@ -1,0 +1,14 @@
+AGENT: Hello Mamivan, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're
+CALLER: Take your time. Agent.
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Send me a ride.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Thank you I already put the ride.
+AGENT: Okay, just to make sure I have everything right, how would you like to pay for your ride? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: Thirty p I already moved my right.
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you'd like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Agent. Agent. Agent.
+AGENT: I can take care of the payment details right now — want to keep going?
+CALLER: Agent. Agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

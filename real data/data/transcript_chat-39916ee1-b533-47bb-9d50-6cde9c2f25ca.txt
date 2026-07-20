@@ -1,0 +1,37 @@
+AGENT: Hello Lavonia, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: This is in Livonia. This is a new customer.
+AGENT: Uhh, thanks for letting me know. How can I assist you with the new customer in Livonia today? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Master. One second.
+AGENT: Okay, take your time. Just let me know when you're ready with your payment method. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: One one one six zero Fears Mill Road. Wynn, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address. You said one one one six zero Fears Mill Road, Wynn, Maryland? Just to confirm, did you mean Veirs Mill Road in Wheaton-Glenmont, Maryland? <emotion value="hesitant"/>
+CALLER: We in Maryland. Not Glenmont. We in Maryland. That's one one one six zero Road, Wheaton, Maryland.
+AGENT: Okay, so I found that location as one one one six zero Veirs Mill Road, Wheaton, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. It's correct.
+AGENT: Okay, so I found the address as one one one six zero Veirs Mill Road, Wheaton-Glenmont, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: We email. Yeah. Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: That will be two zero zero nine Hickory Hill Lane, Zippersburg, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address. You said two zero zero nine Hickory Hill Lane, Zippersburg, Maryland? Just to confirm, is that correct? <emotion value="hesitant"/>
+CALLER: No. I said Silver Spring, Maryland.
+AGENT: Okay, so I found that location as two zero zero nine Hickory Hill Lane, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I found the address as two zero zero nine Hickory Hill Lane, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Lavonia.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time set for today at 8:06 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: No. Just one passenger.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: None.
+AGENT: Alright, the estimated fare is 12 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 8:06 PM. Your confirmation number is 2 1 3 6 7 4 4 4 4. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Lavonia. Have a wonderful day!

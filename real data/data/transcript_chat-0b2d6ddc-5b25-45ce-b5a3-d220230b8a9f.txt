@@ -1,0 +1,51 @@
+AGENT: Hi Tj, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I went to set up a cab
+AGENT: Alright, how would you like to pay for your cab today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: call and ride
+AGENT: Okay, great. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero eight nine five eight eight.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your cab? If you'd like, I can use your home address at 1 9 5 5 0 Waters Road, Germantown, Maryland. Would that work for you? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so your pickup address is 1 9 5 5 0 Waters Road, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 21000 Father Hurley Boulevard, Germantown, Maryland 20874.
+AGENT: Okay, so your dropoff address is 2 1 0 0 0 Father Hurley Boulevard, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Tj. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 12:00.
+AGENT: Just to confirm, did you mean 12:00 PM or 12:00 AM for your pickup time? <emotion value="hesitant"/>
+CALLER: 12PM.
+AGENT: Okay great! I've got your pickup time as today at 12:00 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Thanks for letting me know no wheelchair is needed. How many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: One
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: Come to the parking lot.
+AGENT: Alright, the estimated fare is 7.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay, thanks for confirming. I'll start collecting the details for your return trip now.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I'm not sure. Can I just call to activate the trip?
+AGENT: Yes, you can make your return trip a will-call trip and call us when you're ready to be picked up. How many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No vehicle or yeah, no wheelchair. Just one person.
+AGENT: For your return trip, I have the pickup address as 2 1 0 0 0 Father Hurley Boulevard, Germantown, Maryland, and the dropoff address as 1 9 5 5 0 Waters Road, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I understand the return trip addresses are not correct. For the return trip, would you like to update the pickup address, the dropoff address, or both? <emotion value="peaceful"/>
+CALLER: Pickup address.
+AGENT: Please provide the correct pickup address for your return trip. <emotion value="peaceful"/>
+CALLER: It's two zero zero zero nine Century Boulevard, Germantown, Maryland two zero eight seven four.
+AGENT: Sorry about that. Let me ask again: Could you please provide the correct pickup address for your return trip? Just the address, please. <emotion value="peaceful"/>
+CALLER: Two zero zero zero nine. Century Boulevard, Germantown, Maryland two zero eight seven four.
+AGENT: Okay, so your return trip pickup address is 2 0 0 0 9 Century Boulevard, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your return trip pickup address has been verified. Thank you, Tj. <emotion value="peaceful"/>
+AGENT: The estimated fare for your return trip is 8 dollars, paying with Call and Ride. Should I go ahead and book both your main trip and this return trip? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay, so booking both your main trip and return trip now.
+AGENT: Your main trip is scheduled for today at 12:00 PM with confirmation number 2 1 3 6 7 6 8 0 7. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 6 8 0 8. You can call us when you're ready for the return trip and a driver will be sent. Is there anything else I can help you with?
+CALLER: No. That was it.
+AGENT: Thank you for calling Barwood & Regency, Tj. Have a great day!

@@ -1,0 +1,17 @@
+AGENT: Hello Ahmed, this is Ana from Barwood & Regency. How can I help you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I wanna schedule a trip. Can you hear me? Hello?
+AGENT: Yes, I can hear you. To get started with scheduling your trip,
+CALLER: Wanna book a trip.
+AGENT: Great! To help with your booking, may I ask how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, cash is all set for your payment method.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: Eighty Two Zero One Snappersboro, Gettysburg
+AGENT: I couldn't find an address matching "8201 Snappersboro, Gettysburg." Could you please provide the full street address, city, and state for your pickup location?
+CALLER: 8201 Snapper School Road,
+AGENT: Thank you for the address. Could you please tell me the city and
+CALLER: Gettysburg, Maryland
+AGENT: I couldn't find an exact
+CALLER: Okay.
+AGENT: I

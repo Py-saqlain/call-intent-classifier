@@ -1,0 +1,57 @@
+CALLER: Hello. Buy with taxi club, please.
+AGENT: Uhh, okay. Are you looking to book a ride with Taxi Club? If so, could you please tell me your pickup location and where you'd like to go? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: Bar with tax exempt, please. It'll be debit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: What's the address?
+AGENT: Are you asking for the pickup address? If so, I don't have it yet. Could you please tell me where you'd like
+CALLER: One four one two zero.
+AGENT: Thank you. Could you please provide the street name and city for the pickup address? <emotion value="peaceful"/>
+CALLER: Weeping Willow Drive,
+AGENT: And the city, please? <emotion value="peaceful"/>
+CALLER: Rent lease office. Weeping Willow Drive. North Silver Spring, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address. One four one two zero Weeping Willow Drive, North Silver Spring, Maryland.
+AGENT: Okay, so I found that location as one four one two zero Weeping Willow Drive, Silver Spring, Maryland. Is
+CALLER: Yes. C
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: U s aspen hill post office
+CALLER: fourteen zero thirty. Connecticut Avenue,
+AGENT: Hmm <break time="350ms"/> let me check that address. One four zero three
+CALLER: North Silver Spring, Maryland two zero nine zero six.
+AGENT: Thank you for the details. Let me check the full dropoff address: one four zero three zero Connecticut Avenue, North Silver Spring, Maryland.
+AGENT: Okay, so I found that location as one four zero three zero Connecticut Avenue, Silver Spring, Maryland. Is that correct?
+CALLER: 20906.
+AGENT: Thank you for confirming the zip code. Is the dropoff address one four zero three zero Connecticut Avenue,
+CALLER: Yes. C.
+AGENT: Your dropoff address has been verified, Estelle.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I'm ready now.
+AGENT: Okay great! I've got your pickup time as today at 11:41 AM. Alright, soo <break time="300ms"/> so how many
+CALLER: I'll be waiting out front of the building.
+AGENT: Thanks for letting me know you'll be waiting out front of the building. Now, how many passengers
+CALLER: Gracias mercy.
+AGENT: I appreciate your response. How many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: One passenger
+AGENT: Okay great! I've got one passenger. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 6 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, thanks for confirming you'd like a return trip. I'll start collecting the return trip details for you now.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Ten minutes. At the post office. Wait time, meter time,
+CALLER: ten minutes meter time, Then I'm headed to Leigh Hill House fourteen five thirty one. Leigh Hill Road, North Silver Spring, Maryland two zero nine zero six.
+AGENT: Thanks for the details about the meter time and your destination. Now, for your return trip, how many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: One passenger
+AGENT: Okay great! I've got one passenger for the return trip. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No, miss.
+AGENT: Okay, for your return trip, I have the pickup as one four zero three zero Connecticut Avenue, Silver Spring, Maryland, and the dropoff as one four one two zero Weeping Willow Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 6 dollars, paying with Self. Should I go ahead and book both trips for you? <emotion value="peaceful"/>
+CALLER: Thank you.
+AGENT: Okay so <break time="250ms"/> booking both trips now.
+AGENT: Thank you for waiting. Both your main trip and return trip are booked. Your main trip confirmation number is E <break time="300ms"/> 3 <break time="300ms"/> 7 <break time="300ms"/> 2 <break time="300ms"/> 9 <break time="300ms"/> 1. Your return trip confirmation number is E <break time="300ms"/> 3 <break time="300ms"/> 7 <break time="300ms"/> 3 <break time="300ms"/> 0 <break time="300ms"/> 4. Is there anything else I can help you with?
+CALLER: I'll try to remember that. Thank you. Goodbye.
+AGENT: Your main trip is booked for today at 11:41 AM. The confirmation number is 2 1 3 6 7 3 1 3 6. Is there anything else I can assist you with?
+CALLER: Thank you. Goodbye.
+AGENT: Thank you for calling Barwood & Regency, Estelle. Have a wonderful day.

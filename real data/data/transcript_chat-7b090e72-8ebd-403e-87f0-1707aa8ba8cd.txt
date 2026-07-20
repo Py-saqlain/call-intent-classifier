@@ -1,0 +1,34 @@
+AGENT: Hello Maynuna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to book a ride.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Pass.
+AGENT: Just to be sure, did you mean cash for your payment? <emotion value="hesitant"/>
+CALLER: Right.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Seven one eight Rockville Park.
+AGENT: Okay, so I found your pickup as seven one eight Rockville Pike, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 15608 Marathon Circle, Edensburg, Maryland.
+AGENT: I found your dropoff as one five six zero eight Marathon Circle, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, Maynuna.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Today.
+AGENT: Could you please tell me what time today you would like to be picked up? <emotion value="peaceful"/>
+CALLER: 10:45.
+AGENT: Okay great! I've got your pickup time as today at 10:45 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Three passenger.
+AGENT: Thanks for that. Will anyone be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, no wheelchair-accessible vehicle needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare is 18 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 10:45 AM. Your confirmation number is 2 1 3 6 7 1 8 1 6. Is there anything else I can help you with?
+CALLER: So
+AGENT: Yes? Please go ahead with your question or request.
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Maynuna. Have a wonderful day.

@@ -1,0 +1,32 @@
+AGENT: Hello Janette, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a pickup
+AGENT: Thank you for letting me know. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three four zero zero one five.
+AGENT: Thank you, your payment method is set to Call And Ride.
+AGENT: Where would you like to be picked up from?
+CALLER: 503 Blanford Street. Rockville, Maryland 20850.
+AGENT: I have 5 0 3 Blandford Street, Rockville, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Where would you like to go?
+CALLER: One hundred first Street, Rockville, Maryland 20851.
+AGENT: I have 1 0 0 First Street, Rockville, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Janette. I will now proceed with the next steps.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 7 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking your one-way trip. Just to confirm, should I go ahead and book it now?
+CALLER: Yes.
+AGENT: Thank you for your patience. I am now processing your booking.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 8 4 9 4. Your pickup is today at 2:58 PM. Is there anything else I can help you with?
+CALLER: No. That'll be it.
+AGENT: Thank you for calling Barwood & Regency, Janette. Have a

@@ -1,0 +1,36 @@
+AGENT: Hello Shelaine, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hey. How are you doing? Can I get a, um, a pickup destination for
+AGENT: Uhh, how can I assist you with your pickup or destination today? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride?
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Okay. Give me a second.
+AGENT: Take your time. Just let me know the last six digits of your Call and Ride card whenever you're ready. <emotion value="peaceful"/>
+CALLER: The last six is three four eight six one two.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yeah. The pickup address is one one one six zero Burries Mill Road, No. I'm ready. I already told you.
+AGENT: Hmm <break time="350ms"/> let me check that address. You said one one one six zero Burries Mill Road. Did you mean one one one six zero Veirs Mill Road in Wheaton, Maryland? <emotion value="hesitant"/>
+CALLER: Yeah.
+AGENT: Okay, so I found your pickup address as one one one six zero Veirs Mill Road, Wheaton, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Four three zero four Howard Drive Rockville, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address. You said four three zero four Howard Drive, Rockville, Maryland. Is that correct? <emotion value="hesitant"/>
+CALLER: One four No. One four three zero four Bauer Drive, Rockville, Maryland.
+AGENT: Okay, so you corrected the address to one four three zero four Bauer Drive, Rockville, Maryland. Let me check that for you. <emotion value="hesitant"/>
+AGENT: Okay, so I found your dropoff address as one four three zero four Bauer Drive, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Shelaine.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time set for today at 1:52 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: We need wheelchair accessible vehicle, one passenger.
+AGENT: Okay great! I've got one passenger and a wheelchair-accessible vehicle noted. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: Can you come to the lower upper level Macy's entrance six, North Garage.
+AGENT: Alright, the estimated fare is 17.5 dollars, paying with your Call And Ride card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Your main trip is scheduled for today at 1:52 PM. Your confirmation number is 2 1 3 6 7 4 1 5 5. Is there anything else I can help you with?
+CALLER: No. That'd be it.
+AGENT: Thank you for calling Barwood & Regency, Shelaine. Have a wonderful day!

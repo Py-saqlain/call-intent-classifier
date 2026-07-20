@@ -1,0 +1,50 @@
+AGENT: Hello Lori, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I'd like a cab It's gonna be a round trip. I'd like a cab at 01:30.
+AGENT: Alright, how would you like to pay for your cab ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I'm gonna use my cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Thank you for letting me know about the cash payment. Now, could you please tell me the pickup address for your cab ride? <emotion value="peaceful"/>
+CALLER: It's 10000 Brunswick Avenue, Apartment 330, Silver Spring, Maryland
+AGENT: Okay, so I found your pickup address as one zero zero zero zero Brunswick Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct. Yeah. There's two people. Myself and my boyfriend.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address for your trip? <emotion value="peaceful"/>
+CALLER: Okay. Destination is one two zero five one Rockville Pike Rockville, Maryland. It's a Giant Food store.
+AGENT: Okay, I found your dropoff address as one two zero five one Rockville Pike, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct. Yes. Uh-huh.
+AGENT: Your dropoff address has been verified. Thank you, Lori. <emotion value="grateful"/>
+CALLER: Mhmm. Can we have a can we have a cab pick us up at 01:30?
+AGENT: Just to confirm, you would like to be picked up today at 1:30 PM, is that correct? <emotion value="peaceful"/>
+CALLER: Yes. And it's gonna be a round trip.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Alright, soo <break time="300ms"/> how many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: Just one other person.
+AGENT: Okay great! I've got that noted. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. Thank you. It's okay.
+AGENT: Okay, no wheelchair accessible vehicle needed. Do you have any special instructions for the driver? <emotion value="peaceful"/>
+CALLER: Let him know that he's gonna wait out outside for us It's gonna be a round trip. We're just going in to pick up some medicine. And maybe one or two things. At the grocery store. That's it. And then we're coming right straight back. To have them deliver have them pick drive us back home.
+AGENT: Alright, the estimated fare is 17 dollars, paying with Self. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: Yes. Uh-huh.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Return trip, pickup, at, uh, 02:30.
+AGENT: Just to confirm, you would like your return trip pickup today at 2:30 PM, is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Uh-huh.
+AGENT: Okay great! I've got your return trip pickup time set for today at 2:30 PM. Alright, soo <break time="300ms"/> how many passengers will be traveling on the return trip, including yourself? <emotion value="peaceful"/>
+CALLER: Two
+CALLER: Oh, two.
+AGENT: Okay, I've got two passengers for the return trip. Will you be needing a wheelchair accessible vehicle for this trip? <emotion value="peaceful"/>
+CALLER: No, thank you.
+AGENT: For your return trip, I have the pickup address as one two zero five one Rockville Pike, Rockville, Maryland, and the dropoff address as one zero zero zero zero Brunswick Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's correct. Yes.
+AGENT: The estimated fare for your return trip is 18 dollars, paying with Self. Should I go ahead and book both trips for you? <emotion value="peaceful"/>
+CALLER: Yes, please.
+AGENT: Okay so <break time="250ms"/> I'm booking both trips for you now. <emotion value="grateful"/>
+AGENT: I'm booking both
+CALLER: Okay.
+CALLER: Yes. The Giant Food store I just wanna make that a point to you.
+AGENT: Thank you for letting me know about the
+CALLER: Yeah. Giant.
+AGENT: Got it, Giant Food store noted for your trip. If there's anything else you'd like to add or
+CALLER: Okay.
+AGENT: Your main trip
+CALLER: No. That's all, please.
+AGENT: Thank you for calling Barwood & Regency, Lori. Have a wonderful day.
+CALLER: You too. Thank you.

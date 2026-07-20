@@ -1,0 +1,31 @@
+AGENT: Hello, Sheba. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: No. No. I'm I'm just checking to see if my cab will be here at 02:00.
+AGENT: Hmm <break time="300ms"/> I don't see any active trip scheduled for you at 2:00 pm. Would you like me to help you book a ride for that time?
+CALLER: I reserve it.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I book with you this
+AGENT: I want to make sure I understand you correctly. Could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: I say cash. I cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: To get started, could you please tell me the pickup address for your ride? If you'd like, I can use your home address at 1 1 3 5 University Boulevard West, Silver Spring, Maryland. Would that work for you? <emotion value="peaceful"/>
+CALLER: That's my pickup address.
+AGENT: Okay, so your pickup address is 1 1 3 5 University Boulevard West, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yes. Dropoff.
+AGENT: Okay, so your pickup address is 1 1 3 5 University Boulevard West, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. It's correct, please.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 1216. Georgia Avenue,
+AGENT: I found the address 1 2 1 6 Virginia Avenue, Hagerstown, Maryland. Is that the correct dropoff location? <emotion value="hesitant"/>
+CALLER: Okay. That's it. 1216. Turkey Avenue. You got it? Yeah. Listen. Listen. Listen.
+AGENT: Okay, I understand you want to change the dropoff address to 1 2 1 6 Turkey Avenue. Let me check that address for you. <emotion value="peaceful"/>
+AGENT: I found the address 1 2 1 6 Rustic Avenue, Rosedale, Maryland. Is that the correct dropoff location? <emotion value="hesitant"/>
+CALLER: One two zero one six. Georgia Avenue, One twenty one six Georgia Avenue. I don't change I I didn't change it. That's what I gave you in the beginning. No. No. No. No. One one no. No. No. No. No. No. No.
+AGENT: Okay, so just to confirm, your dropoff address is 1 2 1 6 Georgia Avenue. Is that correct? <emotion value="peaceful"/>
+CALLER: No. No. No. No. One one no. No. No. No. No. No. No. What is wrong with you? I've been giving this this morning. What no. Listen. What no. No. No. No. 120.
+AGENT: Uh, I am sorry, but <break time="300ms"/> could you please repeat the dropoff address one more time slowly and clearly for me? I want to make sure I get it exactly right. <emotion value="apologetic"/>
+CALLER: 16 Georgia Avenue. One twenty one six,
+AGENT: I found the address 1 2 1 6 Virginia Avenue, Hagerstown, Maryland. Is that the correct dropoff location? <emotion value="hesitant"/>
+CALLER: Georgia Avenue. No. No. No. One twenty.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+AGENT: Uh, I am sorry, but <break time="300ms"/>
+CALLER: Yeah. Thank you. I'm

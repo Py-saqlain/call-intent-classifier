@@ -1,0 +1,31 @@
+AGENT: Hello anisi, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi at one seven nine zero four Georgia Avenue in Olney, Maryland.
+AGENT: Thank you for sharing your pickup location at one seven nine zero four Georgia Avenue in Olney, Maryland. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, cash is all set for your payment.
+AGENT: I have the pickup address as one seven nine zero four Georgia Avenue, Olney, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Week
+AGENT: Could you please clarify the destination or dropoff address? "Week" doesn't seem to be a location.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: The the destination is the destination is 4521 East West Highway, Bethesda, Maryland.
+AGENT: I have the dropoff address as four five two one East West Highway, Bethesda, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Anisi.
+AGENT: When would you like to be picked up?
+CALLER: Right now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions for the driver?
+CALLER: Not really. It's just one of your drivers Magi, to Masi two eight five. The the the customer left her left her phone in the in his cab.
+AGENT: The estimated fare for your trip from 1 7 9 0 4 Georgia Avenue to 4 5 2 1 East West Highway is 35.5 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: How much the how much do you usually pay?
+AGENT: The estimated fare for your trip is 35.5 dollars. Would you like to schedule a return trip as well?
+CALLER: No. Just going in there.
+AGENT: Your trip is scheduled for today at 12:33 PM. The confirmation number is 2 1 3 6 6 9 3 7 6. Is there anything else I can help you with?
+CALLER: Is there coming in five minutes? That's about it. Thank you.
+AGENT: I understand you're asking if the driver can arrive in about five minutes. I can't contact the driver directly, but I can connect you with a representative who can assist with that. Let me connect you now.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

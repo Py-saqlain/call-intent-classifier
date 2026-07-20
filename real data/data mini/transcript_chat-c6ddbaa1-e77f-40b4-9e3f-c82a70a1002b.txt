@@ -1,0 +1,13 @@
+AGENT: Hello Jean, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, I need to speak to a person about my ride.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: I thought I had canceled my ride but I haven't. So I would like to go ahead and take it.
+AGENT: Okay, I can help you with that. I'll check the status of your ride for you.
+AGENT: It looks like you don't have an active trip scheduled right now. Would you like me to help you book a new ride?
+CALLER: No.
+AGENT: Just to confirm, do you want to cancel the entire booking process so no trips will be booked?
+CALLER: No picture today.
+AGENT: I want to make sure I understand you correctly. Did you mean to say "No pickup today"? Could you please clarify?
+CALLER: Yes.
+AGENT: Alright, since you don't want a pickup today, would you like to cancel the entire booking so that no trips will be scheduled?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

@@ -1,0 +1,28 @@
+AGENT: Hello Sabrina, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I'd like to get a cab
+AGENT: Alright, how would you like to pay for your cab ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yes. Pass.
+AGENT: Hmmm.. that didn't seem right, could you please confirm if you meant cash? If not, could you tell me which payment method you'd like to use? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay. Through this way, through the way.
+AGENT: Hmmm.. I didn't quite catch that. Could you please tell me how you'd like to pay? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: K. Cash. Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? If you'd like, I can use your home address at 2 9 0 0 University Boulevard West, Kensington, Maryland. Would you
+CALLER: Thirty
+AGENT: Hmm <break time="350ms"/> let me check that
+CALLER: No. No. $19.28. Maxwell Avenue. Dundas.
+AGENT: I want to make sure I have this right. Did you mean 1 9 2 8 Maxwell Avenue, Dundas? <emotion value="hesitant"/>
+CALLER: Yes. Yes.
+AGENT: Okay, so I found 1 9 2 8 Maxwell Avenue, Dundalk, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: I'm going to 3517 Eastern Avenue.
+AGENT: Could you please tell me the city and state for 3517 Eastern Avenue? That will help me
+CALLER: No.
+AGENT: Uh, I am sorry, but could you please
+CALLER: I'm I'm go I'm sorry. I'm going to 3617 Eastern Avenue, Highlands in
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I couldn't find 3 6 1 7 Eastern Avenue, Highlands. Could you please provide the city and state for that address? <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Thank you.

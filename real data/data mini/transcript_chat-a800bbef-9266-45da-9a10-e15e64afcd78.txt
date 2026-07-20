@@ -1,0 +1,10 @@
+AGENT: Hello wakuuob, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: You can try to see
+AGENT: Uhh, could you please tell me what you would like help with today? Are you looking to book a ride, check on a trip, or something else? <emotion value="peaceful"/>
+CALLER: Book a ride.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your ride? If you'd like, I can also use your home address at 1 2 3 1 9 New Hampshire Avenue, Silver Spring, Maryland. Would you like to be picked up from there? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.

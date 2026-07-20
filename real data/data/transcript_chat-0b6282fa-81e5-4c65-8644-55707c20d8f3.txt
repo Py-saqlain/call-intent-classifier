@@ -1,0 +1,41 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Warnie Wachuku?
+CALLER: Yes.
+AGENT: Thanks for confirming, Warnie. This is Barwood & Regency. How can I assist you today?
+CALLER: I'd like to have a cab pick me up at 8601 Manchester Road, Silver Spring, Maryland at about 12PM.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so your pickup is at eight six zero one Manchester Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Eighty one fifteen Fenton Street.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+CALLER: Silver Spring Road.
+AGENT: Just to clarify, is your dropoff address eighty one fifteen Fenton Street or eighty one fifteen Silver Spring Road? <emotion value="hesitant"/>
+AGENT: I found a few locations. <break time="700ms"/> Option one: 8115 Fenton Street, Silver Spring, Silver Spring, Maryland. <break time="500ms"/> Option two: 8115 Fenton Street, Silver Spring, Maryland. <break time="500ms"/> Which one is correct? <emotion value="hesitant"/>
+CALLER: eighty one fifth Yes.
+AGENT: Okay, so your dropoff is at eight one one five Fenton Street, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: 8115 Fenton Street.
+AGENT: Your dropoff address has been verified, Warnie.
+AGENT: You mentioned a pickup time of 12 PM today. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One.
+AGENT: Just to clarify, will there be any wheelchair accessibility needed for this trip? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No. Front entrance.
+AGENT: Alright, the estimated fare is 7.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Please
+AGENT: Okay, so booking your trip now. <emotion value="peaceful"/>
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is booked for today at 12:00 PM. Your confirmation number is 2 1 3 6 7 4 6 8 3. Is there anything else I can help you with?
+CALLER: Repeat the confirmation number.
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 4 6 8 3. Is there anything else I can assist you with?
+CALLER: Will they call me when they get downstairs?
+AGENT: Our drivers typically do not call before arrival, but they will come to the front entrance as you requested. If you have any special needs or want to be sure, I can connect you with a representative who can provide more details. Would you like me to do that?
+CALLER: Yes.
+CALLER: Mhmm.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

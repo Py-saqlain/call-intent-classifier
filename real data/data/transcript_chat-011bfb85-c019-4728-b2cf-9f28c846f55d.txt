@@ -1,0 +1,50 @@
+AGENT: Hi Gary, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Uh, need a cab.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Three three three Seth Place.
+AGENT: Okay, so I found your pickup address as three three three Seth Place, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Seven two one Monroe Street,
+AGENT: I found the dropoff address as seven two one Monroe Street, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Gary.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Thank you for your patience. When would you like to be picked up? <emotion value="peaceful"/>
+When would you like to be picked up?
+CALLER: No.
+AGENT: Just to clarify, did you mean you want to be picked up right now, or would you prefer to schedule a will-call trip to call back when you're ready?
+CALLER: No. Yes.
+AGENT: Alright, I'll take that as you want to be picked up right now. Let me record that for you. <emotion value="peaceful"/>
+AGENT: Okay great! I've got your pickup time set for right now. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. Could you please tell me how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: One person.
+AGENT: Okay great! I've got one passenger noted. <emotion value="grateful"/> Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Okay great! I've noted no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or requests for the driver?
+CALLER: No.
+AGENT: The estimated fare is 8.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Alright, thank you. I'll start collecting the details for your return trip now.
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Just to clarify, did you mean you want to be picked up right now for your return trip, or would you prefer to schedule a will-call trip to call back when you're ready?
+CALLER: I'll call back.
+AGENT: Okay, I've recorded your return trip as a will-call trip.
+CALLER: When I'm ready.
+AGENT: Alright, soo <break time="300ms"/> how many passengers will be traveling on your return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One person.
+AGENT: Okay great! I've got one passenger noted for your return trip. <emotion value="grateful"/> Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: For your return trip, I have the pickup address as seven two one Monroe Street, Rockville, Maryland, and the dropoff address as three three three Seth Place, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 8.5 dollars, paying with Self. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so <break time="250ms"/> I'm booking both trips for you now.
+AGENT: Your main trip is scheduled for today at 2:24 AM with confirmation number 2 1 3 6 7 6 6 6 7. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 6 6 6 8. You can call back when you're ready for the return trip and a driver will be dispatched then. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Gary. Have a great day!

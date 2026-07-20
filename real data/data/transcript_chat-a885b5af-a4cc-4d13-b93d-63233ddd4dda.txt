@@ -1,0 +1,26 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: What My name is Maggie.
+AGENT: Thanks, Maggie. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yeah I wanna call a cab
+AGENT: Hi Maggie, how would you like to pay for your cab today? We accept cash, credit card, and Call and Ride.
+CALLER: I got that cash on me.
+AGENT: Thank you, Maggie. Your payment method is set to cash.
+AGENT: Maggie, could you please tell me the address where you'd like to be picked up?
+CALLER: Have a good one. Yes. 9901 Medical Drive.
+AGENT: Just to confirm, your pickup address is 9 9 0 1 Medical Drive. Is that correct?
+CALLER: Yes. Adventist Healthcare. Good morning.
+AGENT: Maggie, I found 9 9 0 1 Veirs Drive, Rockville, Maryland as the pickup address. Is that correct?
+CALLER: No.
+AGENT: Thank you for letting me know. Please provide the correct pickup address or any details you have, and I'll find it for you.
+CALLER: It's 9901 Medical Center Drive,
+AGENT: Thank you, Maggie. Just to confirm, your pickup address is 9 9 0 1 Medical Center Drive. Is that correct?
+CALLER: Yeah.
+AGENT: Maggie, I found 9 9 0 1 Medical Center Drive, Rockville, Maryland as the pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: What what what wishing? Where she going?
+AGENT: Maggie, could you please tell me the address or place where you would like to go?
+CALLER: Metro Center Subway.
+AGENT: Since you mentioned Metro Center Subway, that is a metro-related destination. I will connect you to a live agent who can assist with metro trips. Please hold for a moment.
+CALLER: Live agent
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

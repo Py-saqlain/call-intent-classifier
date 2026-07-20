@@ -1,0 +1,21 @@
+AGENT: Hi Mona, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like to take a taxi to
+AGENT: Okay, I can help you with that. Could you please tell me the address or location you
+CALLER: one two two.
+AGENT: Thanks for that. Could you please tell me the full address or location you want to go to starting with one two two? For
+CALLER: Eight
+CALLER: One. Yeah, one two two six six. Rockville Pike.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and
+CALLER: Hello? It's good.
+CALLER: Yes. Good.
+AGENT: I want to make sure I understand you correctly about payment. Would you like to pay with cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, I have the dropoff address as one two three zero one Braxfield Court, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Correct.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: One two three zero one Braxton Road, Cotch. North Bethesda, Maryland two zero eight five
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, I have the pickup address as one two three zero one Braxfield Court, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. It's correct.
+AGENT: I noticed that the pickup and dropoff addresses are the same. Could you please provide a different pickup address? <emotion value="apologetic"/>

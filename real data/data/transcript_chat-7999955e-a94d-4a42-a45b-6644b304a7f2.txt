@@ -1,0 +1,59 @@
+AGENT: Hi Susi, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Uh-huh. Um, this is Carol Koenig. I called for Susie. Okay. I wanna make it definite that you'll pick us up at 08:30 at, um, Ring House to go to modern smiles.
+AGENT: Thank you for sharing your pickup time and location. How would you like to pay for your ride today? We accept cash, credit card, and
+CALLER: How are you gonna pay?
+AGENT: I’m here to help you with your payment. Could you please tell me how you would like to pay for your ride?
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+CALLER: A credit card or online or you rather do credit card?
+AGENT: I found two locations for Ring House: One is Patriot Urgent Care at 750 Rockville Pike, Rockville, Maryland, and the other is Ring House at 1801 East Jefferson Street, Rockville, Maryland.
+CALLER: No.
+CALLER: Correct.
+AGENT: I found several locations for Modern Smiles: Modern Smile Dental at 901 Russell Avenue, Suite 100, Gaithersburg, Maryland; Gaithersburg Modern Dentistry at 812 Muddy Branch Road, Gaithersburg, Maryland; Olney Modern Dentistry at 3130 Olney Sandy Spring Road, Olney, Maryland; and Modern Smiles Dental at 130 Rollins Avenue, Suite H2, Rockville, Maryland. Which one would you like to go to?
+CALLER: That's the one. That's the one. 130 Rollins Avenue.
+AGENT: Your dropoff address has been verified, Susie.
+AGENT: You mentioned a pickup time of today at 8:30 AM. Is that correct?
+CALLER: Correct.
+AGENT: Thank you for confirming. Just to clarify, your pickup time is scheduled for
+CALLER: And then after we are finished,
+AGENT: How many passengers will be traveling, including yourself? Also, will anyone need a wheelchair-accessible vehicle?
+CALLER: two.
+CALLER: No. We're gonna have our walkers.
+CALLER: That fold.
+AGENT: The estimated fare for your trip is 5.5 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: We don't know what time we'll finish there, but we will call you back.
+AGENT: You'd like to make the return trip a will-call, so you can call us when you're ready. I'll set that up for you.
+CALLER: Correct.
+CALLER: Correct.
+AGENT: Your return trip will be a will-call, with pickup at 130 Rollins Avenue Suite H2 and dropoff at 1801 E Jefferson Street. The estimated fare for the return trip is
+CALLER: Correct.
+AGENT: The estimated fare for the return trip is 6.5 dollars, paying with credit card. Should I go ahead and book both
+CALLER: Okay. Okay.
+CALLER: Now you said a credit card? Wait
+AGENT: Sure, let me update your payment method.
+AGENT: Would you like to use the same payment method, credit
+CALLER: Don't you have a credit card? Yeah. Credit card. Credit card. $5.50 one way and $6.50 another way.
+AGENT: The estimated fare for your return trip is 6.5 dollars, paying with credit card. Should I go ahead
+CALLER: Yes. Thank you.
+AGENT: Thank you
+CALLER: Yeah. Otherwise okay. We'll be out.
+AGENT: Your main trip confirmation number is 2 1 3 6 6 7 0 5 4, and your
+CALLER: Wait. Wait. I I need a pen. Wait.
+AGENT: Take your time. Let me know when you're ready.
+CALLER: Okay.
+CALLER: Okay. What's the confirmation number?
+AGENT: Your main trip confirmation number is 2 1 3 6 6 7 0 5 4, and your return trip
+CALLER: 1 wait. Two one. Wait. Two one Two one. Two one three The confirmation number going
+AGENT: The main trip confirmation number is 2 1 3 6 6 7 0 5 4. The
+CALLER: Yes.
+AGENT: Is there anything else I can assist you with today?
+CALLER: Seven zero five four. No. That's and what's your name?
+AGENT: My name is Ana. How can I help you further?
+CALLER: Anna. No. That's it. Thank you very much.
+AGENT: I'll connect you now.
+CALLER: Connect me or we're finished?
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Well, you were you took all the information. What else do you need?
+AGENT: I can help you with anything else you might need right now. If you want to speak with a person instead, I can connect
+CALLER: No. I don't need anything right now.
+AGENT: Thank you for calling Barwood & Regency, Susi. Have a wonderful day.

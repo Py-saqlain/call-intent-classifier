@@ -1,0 +1,9 @@
+AGENT: Hello James, this is Ana with Barwood & Regency. Your trip is scheduled for pickup today at 12:40 PM. How can I assist you today?
+CALLER: Okay. I asked for him to wait for me for, like, ten minutes, but he said he has to leave. So by 12:40, I was out working. He has already gone twelve in I'm finished right now. I'm at fifty six thirty three fifty. I'm finished with you for a while. Thirty for
+AGENT: I understand you mentioned the driver said they had to leave and you are now finished. If you need any assistance with your ride or want to book a new one, please let me know how I can help.
+CALLER: Yes. I want to look a a a new tip right now.
+AGENT: Looks like you already have a trip from Silver Spring to Hyattsville at 12:40 PM today. What would you like to do next?
+CALLER: I repeat to at 12:40. I'm still waiting at eighty six thirty twenty eight feet for a seat to go to ISB.
+AGENT: Thank you for clarifying your location at 8630 Fenton Street. Since you already have a trip scheduled for 12:40 PM, would you like to check the status of that trip, cancel it, or book a new one?
+CALLER: Book a new
+AGENT: I'm connecting you now to a customer service representative who can help you book a new trip. Please stay on the line.

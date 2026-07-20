@@ -1,0 +1,13 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Tim Colliton?
+CALLER: You are
+AGENT: Thanks, Tim. This is Ana from Barwood & Regency. Your pickup is scheduled for today at 3:30 PM. How can I help you today?
+CALLER: I'd like to cancel both my 03:30PM pickup and my last pickup with you later on today.
+AGENT: I see two trips on your account.  
+Trip one: pickup at 8 6 3 0 Fenton Street in Silver Spring at 3:30 pm going to 1 3 1 5 Apple Avenue.  
+Trip two: pickup at 1 3 1 5 Apple Avenue in Silver Spring at 5:52 pm going to 4 6 2 9 Aspen Hill Road in Rockville.  
+Would you like me to cancel both of these trips for you?
+CALLER: Sure.
+CALLER: Yes.
+AGENT: Okay so both trips have been cancelled for you. Is there anything else I can help you with?
+AGENT: Ummm, it looks like both of those trips were already cancelled. Is there anything else I can help you with?
+CALLER: So I speak to an eight could I speak to an agent, please?

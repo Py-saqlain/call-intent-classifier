@@ -1,0 +1,38 @@
+AGENT: Hello Stewart, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi now.
+AGENT: Thanks for letting me know you need a taxi now. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your taxi?
+AGENT: Take your time. Just let me know when
+CALLER: Five two two five. P o o k s. H I l l Road, by the name of Promenade. It says
+AGENT: I understood your pickup address as 5 2 2 5 Pooks Hill Road, near Promenade. Is that correct?
+CALLER: Yes.
+AGENT: I have the pickup address as 5 2 2 5 Pooks Hill Road,
+CALLER: That's bethesda.
+AGENT: Thank you for confirming. Is 5 2 2 5 Pooks Hill Road, Bethesda, Maryland the correct pickup address?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: It's congressional lane in part of congressional plaza Shopping Center Rockville. Rockville Pike.
+AGENT: I found a few locations matching your description: Congressional North at 1 5 0 1 to 1 5 1 9 Rockville Pike, Congressional Plaza at 1 5 4 Congressional Lane, and The Shops at Congressional Village at 1 7 0 1 Rockville Pike, all in Rockville. Which one would you like to use?
+CALLER: Hello? Repeat that again.
+AGENT: Certainly. The options I found are: Congressional North at 1 5 0 1 to 1 5 1 9 Rockville Pike, Congressional Plaza at 1 5 4 Congressional Lane, and The Shops at Congressional Village at 1 7 0 1 Rockville Pike, all in Rockville. Which one would you like?
+CALLER: Congressional Plaza.
+AGENT: Your dropoff address has been verified, Stewart.
+AGENT: You mentioned you need a taxi now. Is that correct? Please say yes to confirm or let me know if you want a different pickup time.
+CALLER: Yes. Yes. Right now.
+AGENT: How many passengers will be traveling, including yourself? Also, will anyone need a wheelchair-accessible vehicle?
+CALLER: No. One person.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 15 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: I have to maybe
+AGENT: Just to clarify, are you thinking about booking a return trip back to 5225 Pooks Hill Road, or is the trip we just set up your return journey?
+CALLER: No, I will have to I have to talk to the talk to the driver.
+AGENT: That's perfectly fine. Would you like me to go ahead and book your trip now without a return trip?
+CALLER: Yes.
+AGENT: I am booking your trip now.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 9 5 4 7. The pickup is scheduled for today at 1:57 PM. Is there anything else I can assist you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Stewart. Have a great day!
+CALLER: Thank you. Bye bye.

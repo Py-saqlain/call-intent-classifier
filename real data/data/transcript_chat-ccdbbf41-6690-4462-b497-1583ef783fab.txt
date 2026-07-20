@@ -1,0 +1,41 @@
+AGENT: Hello Ida, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to schedule a pickup for tomorrow.
+AGENT: Alright, how would you like to pay for your ride tomorrow? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: To get started, may I have the pickup address for your ride tomorrow? <emotion value="peaceful"/>
+CALLER: Okay. 19301. Well, Watkins Mill Road,
+AGENT: Hmm <break time="350ms"/> let me check that address. 19301 Watkins Mill Road. <emotion value="hesitant"/>
+AGENT: Okay, so I found 1 9 3 0 1 Watkins Mill Road, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, may I have the dropoff address for your ride? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please provide the dropoff address for your ride? <emotion value="peaceful"/>
+CALLER: Ninety four twenty. Key West Avenue.
+AGENT: Hmm <break time="350ms"/> let me check that address. Ninety four twenty Key West Avenue. <emotion value="hesitant"/>
+AGENT: Okay, so I found 9 4 2 0 Key West Avenue, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: 9420 Key West Avenue.
+AGENT: Your dropoff address has been verified.
+AGENT: What time tomorrow would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Eleven ten.
+AGENT: Just to confirm, did you mean eleven ten in the morning or at night? <emotion value="hesitant"/>
+CALLER: In the morning,
+AGENT: Okay great! I've got your pickup time set for tomorrow at 11:10 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One.
+AGENT: Thanks for that. Will you need a wheelchair-accessible vehicle for this trip? <emotion value="peaceful"/>
+CALLER: Yes. Wheelchair access, please.
+AGENT: Okay great! I've noted one passenger and that you need a wheelchair-accessible vehicle. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: Yes. I will. I'd like to have
+AGENT: Please go ahead and tell me the special instructions you'd like to provide for the driver. <emotion value="peaceful"/>
+CALLER: I'd like driver number 339, please.
+AGENT: Alright, so let me confirm those details. Your pickup is 1 9 3 0 1 Watkins Mill Road. Your dropoff is 9 4 2 0 Key West Avenue. Pickup time is tomorrow at 11:10 AM. One passenger will be traveling, and you need a wheelchair-accessible vehicle. Payment will be Self. The estimated fare is 20.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Return is open.
+AGENT: Just to confirm, would you like to set up an open will-call return trip, where you call us when you're ready for the ride back? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Alright, I'll set up the open will-call return trip for you. One moment please.
+AGENT: Your return trip will be a will-call, with pickup at 9 4 2 0 Key West Avenue and dropoff at 1 9 3 0 1 Watkins Mill Road. The estimated fare is 20.5 dollars, paying with Credit Card. Should I go ahead and book both trips for you now? <emotion value="peaceful"/>
+CALLER: Yes, go ahead.
+AGENT: Okay so, I'm booking both trips for you now. One moment please.
+AGENT: Your main trip is scheduled for tomorrow at 11:10 AM with confirmation number 2 1 3 6 7 1 4 8 5. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 1 4 8 6. You can call back when you're ready for the return ride, and a driver will be dispatched then. Is there anything else I can help you with?
+CALLER: Thank you.
+AGENT: Thank you for calling Barwood & Regency, Ida. Have a wonderful day!

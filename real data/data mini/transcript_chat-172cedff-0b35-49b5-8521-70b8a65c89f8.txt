@@ -1,0 +1,10 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with BERHE, SOLOMON?
+CALLER: Yeah.
+AGENT: Thanks, BERHE, SOLOMON. This is Ana from Barwood & Regency. Vehicle 1138 is on the way and will arrive in
+CALLER: So
+CALLER: You had that had that feedback too.
+AGENT: Uhh, I want to make sure I understand you correctly. Are you looking to book a ride, check on a trip, or speak with someone about feedback? How can I assist you today? <emotion value="peaceful"/>
+CALLER: The one for us. Check on the trip.
+AGENT: Okay, so your driver is about 7 minutes away for your pickup at 10100 Rhode Island Avenue in College Park. Anything else I can check for you? <emotion value="content"/>
+CALLER: I would like to speak to someone
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

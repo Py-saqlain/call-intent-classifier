@@ -1,0 +1,50 @@
+AGENT: Hi Jacklyn, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I like a book a cab today for, like, 12:00. Wait. What time? 12:00.
+AGENT: Thanks for letting me know your pickup time is today at 12:00 pm. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Here's the thing. I have some cash so I'll I'll do with cash. But I haven't gone to the bank, so cash for now.
+AGENT: Great, we'll use cash for your payment.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: It's eighty b eight zero b like in boy eight zero b burrow Drive, apartment three seventeen, Gaithersburg, Maryland.
+AGENT: I couldn't find an exact match for 880 B Burrow Drive in Gaithersburg, Maryland. I found a location called 18250 Flower Hill Way in Gaithersburg, Maryland. Is that the correct pickup location?
+CALLER: Eight zero b b u r e a u dry. No. It it's it's No. You you got
+AGENT: Thank you for clarifying. Let's try again. Could you please spell out the street name for me once more?
+CALLER: no. You got the wrong address. It's it's
+AGENT: I understand. Please say the full pickup address again, including the street number, street name, apartment number if any, city, and state, so I can get it exactly right.
+CALLER: okay. Okay. Eighty b. Burrow, b u r e a u Drive, apartment three seventeen, Gaithersburg, Maryland two zero eight seven h. It's Diamond Square Apartments. You've been here before.
+AGENT: I found these locations for Diamond Square Apartments on Bureau Drive in Gaithersburg, Maryland:
+
+1. Diamond Square Apartments, 80 Bureau Drive B, Gaithersburg, Maryland 20878
+2. Diamond Square Apartments, 80 Bureau Drive B, Gaithersburg, Maryland 20878
+3. Diamond Square, 28 Bureau Drive, Gaithersburg, Maryland 20878
+
+Which one would you like to use?
+CALLER: Do you mean? I'm gonna use the one on a Diamond Square apartment. It's eight o b.
+AGENT: Just to confirm, you want to use Diamond Square Apartments at 80 B Bureau Drive, Gaithersburg, Maryland, correct?
+CALLER: Sparrow Drive. Yeah. And tell the driver when he gets here to let me know. I'll come downstairs.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: I'm going to mid mid star health It's five zero one n North Frederick Avenue, Gaithersburg, Maryland
+AGENT: I found a similar address from recent trips: 474 North Frederick Avenue, Gaithersburg, Maryland. Is that the correct destination you want for Mid Star Health?
+CALLER: Mid Shore Health.
+AGENT: Thank you for the correction. Could you please confirm the full address for Mid Shore Health again, including the street number and street name?
+CALLER: No. I want this one. Midstar House is at five zero one North Frederick Avenue.
+AGENT: Your dropoff address has been verified, Jacklyn. I'll proceed with arranging your ride now.
+AGENT: You mentioned your pickup time is today at 12:00 pm. Is that correct?
+CALLER: Okay. It's a it's a medical building. It's called Mid Store House and the address is five zero one North Frederick Avenue, suite okay. You found it?
+AGENT: I’m here to help with your pickup time, passengers, wheelchairs, and driver notes. For the address, I’ll make sure it’s updated correctly. Meanwhile, is your pickup time today at 12:00 pm confirmed?
+CALLER: Yeah. Yes, plea Thanks.
+AGENT: Thank you for confirming your pickup time. How many passengers will be traveling with you, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. I have a doctor's appointment at one.
+AGENT: Thanks for letting me know about your appointment at 1 PM. Now, how many passengers will be traveling with you, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No, just me. One person, me.
+AGENT: Got it, one passenger. Will you need a wheelchair-accessible vehicle for this trip?
+CALLER: No. Nobody. No. No wheelchair.
+AGENT: Thank you for letting me know no wheelchair is needed. Do you have any special instructions or notes for the driver?
+CALLER: No. Just tell him when he gets here to call me. I'll come running out.
+AGENT: Jacklyn, the estimated fare for your trip is 7.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: Yes. Thanks.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: No, I don't need one. I'll call him.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 12:00 PM.
+CALLER: Okay. Thank you very much. Have a good day.
+AGENT: Thank you for calling Barwood & Regency, Jacklyn. Have a wonderful day.

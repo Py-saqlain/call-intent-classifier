@@ -1,0 +1,33 @@
+AGENT: Hi Chris, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi.
+AGENT: Alright, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmmm.. that didn't seem quite clear. Could you please tell me how you would like to pay? Cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: S test Yes.
+AGENT: Hmmm.. I didn't quite catch that. Could you please let me know if you'd like to pay with cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Gas.
+AGENT: Just to confirm, did you mean cash as your payment method? <emotion value="hesitant"/>
+CALLER: Yes. Come on. You bullshit.
+AGENT: Okay so I've got that payment noted as cash. How many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: One one
+AGENT: Okay, I've noted one passenger traveling. Do you need a wheelchair-accessible vehicle for this trip? <emotion value="peaceful"/>
+CALLER: It is zero.
+AGENT: Alright, zero wheelchairs noted. Do you have a pickup address in mind for your taxi? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please tell me the pickup address? Please say the street number digit by digit. <emotion value="peaceful"/>
+CALLER: One
+AGENT: Could you please provide the full pickup address, including the street number digit by digit and the street name? <emotion value="peaceful"/>
+CALLER: Yes. One one two five.
+AGENT: Thank you. Could you please tell me the street name and city for the pickup address? <emotion value="peaceful"/>
+CALLER: One two five zero o Tamari Avenue, Rockville.
+AGENT: Just to confirm, your pickup address is 1 2 5 0 Tamari Avenue, Rockville, Maryland? <emotion value="peaceful"/>
+CALLER: West to Montgomery Avenue. West to Montgomery Avenue. West
+AGENT: Thank you for that. Could you please clarify if your pickup address is 1 2 5 0 Tamari Avenue near West Montgomery Avenue in Rockville, Maryland? <emotion value="peaceful"/>
+CALLER: Rockville, Maryland.
+AGENT: Okay, so I've got that payment noted as cash.
+AGENT: Hmm, let me check that address. I couldn't find an exact match for 1 2 5 0 Tamari Avenue in Rockville, Maryland. I found a location at 1 0 4 3 Rockville Pike, Rockville, Maryland 2 0 8 5 2. Is that the correct pickup location? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: No. No. No.
+AGENT: I understand you said no. Could you please tell me the correct pickup address or clarify what needs to be changed? <emotion
+CALLER: Pick up at this. Wrong.

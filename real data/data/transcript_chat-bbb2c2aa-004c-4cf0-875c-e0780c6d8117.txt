@@ -1,0 +1,16 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Yacob Belai?
+CALLER: Yes.
+AGENT: Thanks for confirming, Yacob. This is Ana from Barwood & Regency. You have two trips today — one with vehicle 1012 scheduled for pickup at 10:36 am, and another with vehicle 677 scheduled for pickup at 12:30 pm. How can I assist you today?
+CALLER: Cancel. Cancel.
+AGENT: Alright, I will connect you to someone who can help with canceling your trip.
+AGENT: I see two trips on your account.  
+Trip one: pickup at 2208 Greenery Lane in Silver Spring at 10:30 am going to 8455 Colesville Road.  
+Trip two: pickup at 8455 Colesville Road in Silver Spring at 12:30 pm going to 2208 Greenery Lane.  
+Which one would you like to cancel?
+CALLER: The first trip first trip.
+AGENT: Okay, so you want to cancel the return trip with pickup at 2208 Greenery Lane at 10:30 am going to 8455 Colesville Road. Is that correct?
+CALLER: Yeah. Yeah.
+AGENT: Okay so that trip has been cancelled for you. Is there anything else I can help you with?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready.

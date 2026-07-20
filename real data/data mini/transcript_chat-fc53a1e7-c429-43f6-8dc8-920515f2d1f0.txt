@@ -1,0 +1,7 @@
+AGENT: Hello, Andre. This is Ana from Barwood & Regency. Your trip is scheduled for pickup today at 8:41 AM. How can I assist you today?
+CALLER: The trip the trip is scheduled for 08:41.
+AGENT: Your driver is about 8 minutes away from your pickup location at 7 8 3 4 Scotland Drive. Would you like any other information?
+CALLER: Did you grab a van?
+AGENT: Yes, your driver is assigned to vehicle number 280, which is a van. Anything else I can check for you?
+CALLER: Mhmm. Okay. That's it.
+CALLER: That's it.

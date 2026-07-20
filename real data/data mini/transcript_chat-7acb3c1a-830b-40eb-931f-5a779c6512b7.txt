@@ -1,0 +1,13 @@
+AGENT: Hello Loretta, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Loretta Davis. Houston in SUV. Luckily, I was able to get in. The other time, I missed my doctor's appointment. Could you send her to Dan to pick me up after my MRI, please?
+AGENT: I want to make sure I understand your request correctly. You would like to book a ride for Loretta Davis in an SUV, to be picked up by Dan after your MRI. Could you please confirm the pickup address and the
+CALLER: Yes. But I need it to Dan. I need a sedan, not an SUV.
+AGENT: Thank you for clarifying that you need a sedan for the pickup by Dan after your MRI. How would you like to pay for this ride? We accept cash, credit card, and
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please provide the pickup address for your
+CALLER: Thank you. So you're sending in sedan? Yes. Sixty four twenty Rockledge. Drive in North Bethesda.
+AGENT: Thank you for the pickup address at 6 4 2 0 Rockledge Drive in North Bethesda. I will confirm that for you.
+AGENT: I have 6 4 2 0 Rockledge Drive, Bethesda,
+CALLER: Yes.
+CALLER: Hi. Thank you for coming so quickly.

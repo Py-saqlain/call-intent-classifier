@@ -1,0 +1,30 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: I have a ring wind. I v o r I, n e for ivoryne, double I, n c for wink.
+AGENT: Thanks, Ivoryne. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yes. I need a tablet taken to Verizon Rockville Park. Then food land. Rockville's Verizon, and Rockville Pike.
+AGENT: Thank you for sharing your trip details. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: car on ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Call on ride. Yes, ma'am.
+AGENT: Thank you for confirming Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Second four.
+AGENT: I want to make sure I have the correct digits for your Call and Ride card. Could you please say all six digits clearly, one after the other?
+CALLER: Thirty four ninety eight eighteen. Okay.
+AGENT: Thank you. Just to confirm, the last six digits you provided are 9 8 1 8? Could you please clarify the full six digits again to be sure?
+CALLER: Three four. Nine eight one eight. 49818.
+AGENT: Thanks for that. It looks like I have five digits: 3 4 9 8 1 8. Could you please say the six digits again, slowly and clearly?
+CALLER: That's six digit. What that is six digit? 324-9818.
+AGENT: I want to make sure I get the six digits exactly right for your Call and Ride card. Could you please say the six digits one more time, slowly and clearly, just the numbers without any dashes or spaces?
+CALLER: Three the letter three. No. No. The number three four nine eight one eight.
+AGENT: Thank you for providing the digits. Your payment method is Call and Ride.
+AGENT: Could you please provide the pickup address for your trip?
+CALLER: Yeah. Visit please, by Please please read back your numbers for me, please. Please read back your numbers. Please read back the number to me, please.
+AGENT: I understand you'd like me to read back the numbers you provided earlier. You said three four nine eight one eight. Now, could you please provide the pickup address for your trip?
+CALLER: Okay. Yeah. Yes.
+AGENT: The numbers you gave don't seem to be a valid pickup address. Could you please provide the full street address, including city and state, for your pickup location?
+CALLER: 13 well, 13 or 13. Parkway. Apartment T 11 B. Rockville, Maryland. ZIP code 20851.
+AGENT: I couldn't locate 13 Parkway Apartment T 11 B in Rockville, Maryland. Could you please double-check the street name or provide any nearby landmarks or cross streets to help identify the pickup address?
+CALLER: 13013. Third 13 or 3rd. Ma'am, listen.
+AGENT: Thank you for that. Just to clarify, is the street number one three zero one three on Third Street? Could you please confirm the full pickup address including the street name, city, and state?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Twin go pot man. Lisa, please, Jesus Christ. The

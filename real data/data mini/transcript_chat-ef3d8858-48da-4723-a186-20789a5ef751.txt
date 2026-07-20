@@ -1,0 +1,14 @@
+AGENT: Hello Herbert, this is Ana with Barwood & Regency. Vehicle 1055 is on the way and should be there for your pickup in about 10 minutes, around 11:03. How can I assist you today?
+CALLER: Why do they keep changing it first, they said 10:30. Now it's 11:03.
+AGENT: Uhh, I understand how that can be frustrating. It sounds like you're asking about the time for your ride. Let me check
+CALLER: No.
+AGENT: Okay, could you please tell me more about what you need help with?
+CALLER: Yeah. Alright. I'm trying to I'm waiting for something to call me. I remember yesterday, I waited four hours at the hospital. You know?
+AGENT: I see, you're waiting for a call and had a long wait at the hospital yesterday. Are you looking to book a ride now or check on the status of a ride you already have?
+CALLER: May I I'm just checking on the status of the one I already have. 20910 Frederick Road, Walmart. I'm out front.
+CALLER: Is one really on the way? I hope And not have me stranded like the last time.
+AGENT: Okay, so your driver is about 10 minutes away now. If you want, I can connect you with someone who can help if you have any concerns about the ride.
+CALLER: No. Didn't talk for the years ten minutes away. The first, said, 10:30. Now it's almost eleven something.
+AGENT: Uhh, I'm sorry about the delay and the confusion with the times. Let me connect you with a representative who can assist you right away.
+CALLER: Okay
+AGENT: I'm connecting you to a

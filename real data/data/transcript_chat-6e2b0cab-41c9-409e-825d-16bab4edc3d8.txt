@@ -1,0 +1,35 @@
+AGENT: Hello Herbert, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I need a taxi at one nine eight zero one observation drive Germantown Holy Cross Hospital main entrance, No emergency side.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: It's just It's gonna be probably card. What my bank card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so your pickup address is 1 9 8 0 1 Observation Drive, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah.
+AGENT: I found a few locations.  
+Option one: 1 8 5 3 0 Office Park Drive, Montgomery Village, Maryland.  
+Option two: 2 2 0 Perry Parkway, Gaithersburg, Maryland, suite 5.  
+Option three: Observation Drive and Holy Cross Hospital, Germantown, Maryland.  
+Option four: 1 9 8 0 1 Observation Drive, Germantown, Maryland.  
+Option five: 1 9 8 0 1 Observation Drive, Germantown, Maryland, Emergency Room.  
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Germantown Maryland emergency room, Holy Cross.
+AGENT: Your dropoff address has been verified, Herbert. I'll now proceed with arranging your trip.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: That's not I'm at 19801 Observation Drive. Germantown.
+AGENT: I understand your pickup location is 19801 Observation Drive, Germantown. To proceed, could you please tell me what time you would like to be picked up? <emotion value="peaceful"/>
+CALLER: Right. Yes.
+AGENT: Thanks for confirming. What time would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now n o w
+AGENT: Okay great! I've got your pickup time as today at 11:08 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. So you taxes in the area?
+AGENT: I’m here to help with your ride details. Could you please tell me how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: You're born. Oh, no. One.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 5 dollars, paying with credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 11:08 AM. Your confirmation number is 2 1 3 6 7 6 8 8 8. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Herbert. Have a wonderful day!
+CALLER: You too.

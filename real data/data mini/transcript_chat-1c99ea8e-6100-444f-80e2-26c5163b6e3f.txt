@@ -1,0 +1,17 @@
+AGENT: Hi Mary, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, I would like to book a ride tomorrow at eleven thirty.
+AGENT: Looks like you already have a trip from Silver Spring to Spencerville tomorrow at 11:30 AM. What would you like to do?
+CALLER: Yes. How about the return trip?
+AGENT: You already have a trip from Silver Spring to Spencerville tomorrow at 11:30 AM. What would you like to do next?
+CALLER: No. This is to go to the Spencerville.
+AGENT: Thanks for clarifying. Would you like to book a return trip from Spencerville back to Silver Spring?
+CALLER: How about to from
+AGENT: Could you please clarify if you want to book a trip from Silver Spring to Spencerville or from Spencerville back to Silver Spring?
+CALLER: Can you cancel this one? I want to talk to another company. This is something this is my first time to to book a ride
+AGENT: I found one trip for you: your first trip tomorrow at 11:30 am from Silver Spring to Spencerville. Should I go ahead and cancel this trip for you?
+CALLER: Cancel it. Can you cancel it?
+AGENT: Your trip with confirmation number 0 2 1 3 6 6 9 3 5 9 has been cancelled. Is there anything else I can help you with?
+CALLER: about return address?
+AGENT: You currently don’t have a return trip booked. Would you like help with booking one or anything else?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Mary. Have a wonderful day.

@@ -1,0 +1,42 @@
+AGENT: Hello Loretta, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I know where you stand at the day and not an SUV, please? Because I can't get in.
+AGENT: Thank you for letting me know about the
+CALLER: SUV came the other time. I could barely get in. I'm at 6420 Rockledge Drive, in North Bethesda.
+AGENT: Thanks for sharing your pickup address. How would you like to pay for your ride today?
+CALLER: I'm sorry. What? Yes. I'm ready to go right now.
+AGENT: No problem at all. To get your ride started, could you please tell
+CALLER: Thank you.
+AGENT: How would you like to pay for your ride? We accept cash, credit card, or Call and Ride.
+CALLER: A credit card.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: Could
+CALLER: Yeah. But how much is it?
+AGENT: I understand you're curious about the fare, but I handle addresses only. Let's start with your pickup address to get your ride arranged. Could you please confirm your pickup
+CALLER: Yes. Hi. It's six four two zero Rockledge Drive in North Bethesda. Yes.
+AGENT: I have 6 4 2 0 Rockledge Drive, Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Yes. No. It's my pickup address.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yeah. It's one four nine two four Emery Lane, Rossville, Maryland two zero eight five three.
+AGENT: I found a similar address: 1 4 9 2 4 Emory Lane, Rockville, Maryland. Is that the correct dropoff
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Loretta.
+AGENT: We have noted that you need one wheelchair. Is that correct?
+CALLER: No. The person in the had the MRI. The person in I'm going to go downstairs and I have a walker.
+AGENT: Thank you for
+CALLER: Not a wheelchair.
+AGENT: Thank you for clarifying that you do not need a wheelchair but will have a walker. Now, how many passengers will be traveling, including yourself?
+CALLER: One. And could you make it a sedan, please? Not an SUV?
+AGENT: I have noted one passenger. Regarding the vehicle type, I will pass along your preference for a sedan to the team. Now, when would you like to be picked up?
+CALLER: At 05:30. What time is it now? At 05:30.
+AGENT: It is currently 5:14 PM. You said 5:30. Just to confirm, do you mean 5:30 PM for your pickup time?
+CALLER: Yes. Yes.
+AGENT: The estimated fare for your trip is 22 dollars, and you will be paying with your own payment method. Would you like to
+CALLER: Thank you. I'm gonna use the credit card. I'm using a credit card.
+AGENT: Sure, let me update your payment method.
+AGENT: The estimated fare is 22 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: Thank you. No. I'm going home. To Emory Lane.
+AGENT: Thank you for the details. I am processing your booking now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 4 8 9 9. Your pickup is today at 5:30 PM. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Loretta. Have a wonderful day!
+CALLER: Thank you.

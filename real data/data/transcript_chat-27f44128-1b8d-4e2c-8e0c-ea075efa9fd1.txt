@@ -1,0 +1,35 @@
+AGENT: Hi James, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab ride.
+AGENT: Alright, how would you like to pay for your cab ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Oh, what's call and ride?
+AGENT: Call and Ride is a convenient payment card you can use with our service to pay for your rides without cash or credit card each time. If you'd like, I can help you use it by asking for the last six digits of your card. Would you like to pay with Call and Ride, or would you prefer cash or credit card instead? <emotion value="peaceful"/>
+CALLER: No. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Three four two nine
+AGENT: Thank you. Could you please provide the street name and city for the pickup address? <emotion value="peaceful"/>
+CALLER: South Leisure World War.
+AGENT: Okay, so I found your pickup address as three four two nine South Leisure World Boulevard, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yeah. It'll be, like, Leisure World. Plaza, 3801 International Drive.
+AGENT: Okay, so I found your dropoff address as three eight zero one International Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, James.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Your main trip pickup address is 3429 South Leisure World Boulevard, Silver Spring, Maryland. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now,
+AGENT: Okay great! I've got your pickup time as today at 3:52 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Immediately. Just just one.
+AGENT: Thanks for letting me know there will be one passenger. <emotion value="grateful"/> Will you need a wheelchair-accessible vehicle for this trip?
+CALLER: No.
+AGENT: Okay, no wheelchair-accessible vehicle needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No. How long will it be?
+AGENT: The estimated travel time for your trip is about 3.5 minutes. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: You can no. Wait. When when when is he gonna be here? Give me an give me a representative.
+CALLER: Hello?
+AGENT: Uhh, how can I assist you with your cab ride today? <emotion value="peaceful"/>
+CALLER: Hello?
+AGENT: Yes, I'm here to help. What can I do for you regarding your cab ride? <emotion value="peaceful"/>
+CALLER: give me a rep
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

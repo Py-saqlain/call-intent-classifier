@@ -1,0 +1,22 @@
+AGENT: Hi Jill, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, I called at fifteen zero four and I'm still waiting There is no sign of a cab.
+AGENT: Hmm, let me check on that for you. It looks like there isn't an active trip scheduled under your profile right now. Would you like me to help you book a new ride?
+CALLER: Yeah. Well, why do I would like a ride a s ASAP. I called at fifteen o four and you put me in a queue and nobody has come. Could you please make it an active call
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I did have an appointment at 04:00 in DC. I'll pay cash
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Yes. Where is it? It's forty six forty six twenty one forty six twenty Leland, l e l a n d, Street, 4620 Leland Street, Bethesda, two zero zero two zero eight one five is the ZIP code. And it's outside Miller's Furs. And I placed the call at
+AGENT: Okay, just to confirm, your pickup address is 4 6 2 0 Leland Street in Bethesda, Maryland, near Miller's Furs. Is that correct? <emotion value="peaceful"/>
+CALLER: 03:04PM. That's right. That's right.
+AGENT: Okay, so your pickup address is 4 6 2 0 Leland Street, Chevy Chase, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's right.
+CALLER: That's correct.
+AGENT: Hmm, I couldn't find a specific address for "DC." Could you please provide a more detailed destination address or a landmark in Washington, D C? <emotion value="hesitant"/>
+AGENT: Hmm, I couldn't find a specific address for "DC." Could you please provide a more detailed destination address or a landmark in Washington, D C? <emotion value="hesitant"/>
+CALLER: Well, if you listen could you give me a person, please? May I speak to a person? Let me speak to a person. May I speak to a person, please?
+CALLER: To a person. Please connect me to a person.
+AGENT: I can help with your booking if you'd like — shall we continue?
+CALLER: Please connect me to an agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you very much. Thank

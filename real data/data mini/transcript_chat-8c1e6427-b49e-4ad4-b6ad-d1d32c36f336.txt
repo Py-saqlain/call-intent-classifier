@@ -1,0 +1,14 @@
+AGENT: Hello Tony, this is Ana with Barwood & Regency. Vehicle 402 is on the way and should arrive for your pickup around 12:42. How can I assist you today?
+CALLER: Cancel ride.
+AGENT: Hmm <break time="300ms"/> I see one trip on your account.
+CALLER: Ready now.
+AGENT: Okay, <break time="300ms"/> I found your first trip with pickup at 5 7 0 8 Mayfair Manor Court in Rockville at 12:38 pm going to 5 2 2 4 Nicholson Lane in Kensington. Should I go ahead and cancel this trip for you? <emotion value="peaceful"/>
+CALLER: Yeah. Cancel.
+AGENT: Okay so <break time="200ms"/> that trip has been cancelled for you. Is there anything else I can help you with? <emotion value="grateful"/>
+CALLER: Cancel the ride.
+AGENT: Hmm <break time="300ms"/> it looks like that trip was already cancelled. Is there anything else I can help you with? <emotion value="apologetic"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Cancel ride.
+AGENT: Ummm, <break time="200ms"/> it looks like that trip was already cancelled. Is there anything else I can help you with? <emotion value="apologetic"/>
+CALLER: Nope. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Tony. Have a wonderful day!

@@ -1,0 +1,55 @@
+AGENT: Hi Tamika, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: The time of Anna, I'm calling to see if you have any cast in the area. Because I know Metro is you know, shut down. But the city road to North Desert is only running. So I just wanna know, do you have any cats
+AGENT: I understand you're looking for a cab since the Metro is shut down. I can help with that. Could you please tell me where you would like to be picked up and your destination?
+CALLER: Yes. One six zero zero one Shady Grove Road, Locksville, Maryland two zero eight five zero. It's the Red Roof Truck.
+AGENT: Thank you for the address details. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Okay. Okay. No no tablet. I'm with.
+AGENT: I want to make sure I understand you correctly. Did you mean to say you would like to pay with cash?
+CALLER: I'm paying with car and ride. No cash.
+AGENT: Great, you mentioned Call and Ride for payment. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero one zero nine two three.
+AGENT: Thank you, your payment with Call and Ride is all set.
+AGENT: I have 1 6 0 0 1 Shady Grove Road, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: I found a location called Red Truck Roofing at 8 5 1 7 Gunn Highway, Odessa, Florida. Is this the place you want to go?
+CALLER: No.
+AGENT: Okay, please provide the correct destination address or the name of the place you want to go.
+CALLER: I'm going to
+AGENT: I didn't catch the destination. Could
+CALLER: there was a one I'm going to Silver Spring Station.
+AGENT: I found several locations for Silver Spring Station:
+
+1. Silver Spring Fire Station 16 at 1 1 1 University Boulevard East, Silver Spring, Maryland
+2. Cameron Street Garage at 8 5 3 0 Cameron Street, Silver Spring, Maryland
+3. Silver Spring Metro Station in Silver Spring, Maryland
+4. 1 1 7 0 Bonifant Street, Silver Spring, Maryland
+5. 8 4 0 0 Colesville Road, Silver Spring, Maryland
+
+Which one would you like to go to?
+CALLER: It was playing station.
+CALLER: Servicing station on Bonham Street. Bonham Street. Eighty four
+AGENT: Just to clarify, are you referring to the
+CALLER: eighty four hundred eighty four 8400 Cove 0 Road, Silver Spring, Maryland 20910.
+AGENT: Your dropoff address has been verified, Tamika.
+AGENT: When would you like to be picked up?
+CALLER: Now do you have any cats ready?
+AGENT: I want to clarify, did you mean "now" for your pickup time? Also, could you please tell me how many passengers will be traveling and if anyone will need a wheelchair-accessible
+CALLER: Yep.
+AGENT: Thank you, I've set your pickup time as now.
+CALLER: No. It's three.
+AGENT: How many of the three passengers will need a wheelchair-accessible vehicle, if any?
+CALLER: None. Zero No wheelchair.
+AGENT: Thank you, I have recorded 3 passengers with no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 42 dollars, and you will be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now?
+CALLER: Yes.
+AGENT: Thank you, I am booking your trip now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 9 2 2 8. Your pickup is today at 9:48 AM. Is there anything else I can help you with?
+CALLER: No. I'm ready to go now. Is the cab coming?
+AGENT: I will connect you to a representative who can check the status of your driver and help you with that. Please hold for a moment.
+CALLER: Mhmm.
+AGENT: I can't contact the driver directly, but I can connect you with a representative who can help with your driver status or any messages for the driver. Let me connect you now.
+AGENT: I'm connecting you to a customer service representative now. Please
+CALLER: Mhmm.

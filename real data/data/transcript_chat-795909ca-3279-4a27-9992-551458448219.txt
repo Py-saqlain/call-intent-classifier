@@ -1,0 +1,39 @@
+AGENT: Hello Arlyn, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I like a to book a trip to and from.
+AGENT: I'd be happy to help with your trip booking. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Colon ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Three four five zero seven one
+AGENT: Thank you for providing your Call and Ride information. Your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: 3520. Payer three four. Silver spring two zero nine zero six.
+AGENT: Just to confirm, is your pickup address 3 5 2 0 Pear Tree Court, Silver Spring, Maryland?
+CALLER: Yeah.
+AGENT: Thank you. I have 3 5 2 0 Pear Tree Court, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yeah. Uh-huh.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: $38.60. International Drive,
+AGENT: I heard "International Drive" as your dropoff address. Could you please confirm the city and state for International Drive?
+CALLER: Diet Food, $38.60. Yeah. $38.60. Silver Spring. Two zero nine zero six.
+AGENT: Just to confirm, is your dropoff address International Drive, Silver Spring, Maryland?
+CALLER: Yes. Uh-huh.
+AGENT: Thank you. I have Ledo Pizza, 3 8 5 0 International Drive, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Nalido Pizza Giant Food Store.
+AGENT: It sounds like you mentioned Nalido Pizza Giant Food Store. Just to clarify, would you like your dropoff address to be at Nalido Pizza Giant Food Store, or should I keep it as Ledo Pizza, 3 8 5 0 International Drive, Silver Spring, Maryland?
+CALLER: No. It's
+AGENT: Could you please clarify the correct dropoff address for me?
+CALLER: thirty eight sixty International Drive,
+AGENT: Just to confirm, is your dropoff address 3 8 6 0 International Drive, Silver Spring, Maryland?
+AGENT: Thank you. I have 3 8 6 0 International Drive, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Arlyn. I will now proceed with arranging your trip.
+AGENT: When would you like to be picked up?
+CALLER: No time. I'll call when I need a ride back home.
+AGENT: Got it, your trip is recorded as a will-call for whenever you call back. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One, no.
+AGENT: Arlyn, the estimated fare for your trip is 8 dollars, paying with your Call and Ride card. Since you mentioned you'll call when you need a ride back home, would you like me to set up a return trip now, or just book this one-way trip for you?
+CALLER: Yes. The one one trip right now.
+AGENT: Thank you for your patience. I am processing your will-call trip booking now.
+AGENT: Your will-call trip is booked with confirmation number 2 1 3 6 6 3 2 2 6. You can call back when you are ready, and a driver will be dispatched to your pickup location shortly. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Arlyn. Have a wonderful day!

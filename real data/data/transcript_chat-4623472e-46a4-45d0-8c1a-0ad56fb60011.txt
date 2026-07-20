@@ -1,0 +1,30 @@
+AGENT: Hi Marie, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: K. I need a taxi. To come to one Bank Street in Gaithersburg
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so I found that location as 4 6 Bureau Drive, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. No. No. I'm at 1 Bank Street. In Gaithersburg.
+AGENT: Okay, so I found that location as 1 Bank Street, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Right. Correct.
+AGENT: Your pickup address has been verified. Now, where would you like to go? <emotion value="peaceful"/>
+CALLER: I'm going to one eight five zero six Nutmeg Place,
+AGENT: Is that Nutmeg Place in Germantown, Maryland? <emotion value="peaceful"/>
+CALLER: Germantown, Maryland.
+AGENT: Okay, so I found that location as 1 8 5 0 6 Nutmeg Place, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I'm ready now.
+AGENT: Okay great! I've got your pickup time as today at 11:48 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Just myself and no will
+AGENT: Okay great! I've got 1 passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Well, I will okay. I will yeah. I need a step stool if they bring a van. I would need a step stool. To get up in the van. It's if they bring a van.
+AGENT: Alright, so let me confirm those details. Your pickup is 1 Bank Street. Your dropoff is 18506 Nutmeg Place. Pickup time is today at 11:48 AM. The estimated fare is 12.5 dollars, paying with cash. You mentioned needing a step stool if a van is sent, and that there is 1 passenger with no wheelchair needed. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 11:48 AM. Your confirmation number is 2 1 3 6 7 0 6 1 1. Is there anything else I can help you with?
+CALLER: Oh, that's it. How much do you say that will be?
+AGENT: I don’t have the ability to provide fare amounts beyond what was shared earlier. If you have any other questions or need assistance, I’m here to help. Is there anything else you’d like to do?
+CALLER: Okay. Now No. That's no. That's it.
+AGENT: Thank you for calling Barwood & Regency, Marie. Have a wonderful day!

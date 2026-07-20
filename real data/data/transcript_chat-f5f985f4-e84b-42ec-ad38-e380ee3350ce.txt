@@ -1,0 +1,38 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Louis Von Rago?
+CALLER: Yes. You are.
+AGENT: Thanks, Louis. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I wanna check to see what's on my ride. Is getting home from today from Georgia Avenue to
+AGENT: Okay, you want to check the details of a ride for today from Georgia Avenue to your home. Let me look into that for you.
+AGENT: Hmm, let me check that for you. It looks like you don't have any active trips scheduled for today from Georgia Avenue to your home. Would you like me to help you book a ride now?
+CALLER: Cook's Hill Road. In the present Yes.
+CALLER: Yes please.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Is one six six zero one
+AGENT: Hmmm.. that sounds like a number, but could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: With my call and ride card? With my call and ride card?
+AGENT: Okay so I've got that you're paying with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Sure. Three one five eight nine two.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: I found a few locations on Georgia Avenue. 
+Option one: 1 4 3 0 1 Georgia Avenue, Silver Spring. 
+Option two: 1 4 1 0 1 Georgia Avenue, Silver Spring. 
+Option three: 1 3 9 9 0 Georgia Avenue, Silver Spring. 
+Option four: 1 3 8 6 0 Georgia Avenue, Aspen Hill. 
+Option five: 1 3 8 7 4 Georgia Avenue, Silver Spring. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: man only told you.
+AGENT: Uh, I am sorry, but could you please repeat which address on Georgia Avenue you would like to use? I want to make sure I get it right. <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: They I get a reporting, and it's not helpful.
+AGENT: I found a few locations on Georgia Avenue. 
+Option one: 1 4 3 0 1 Georgia Avenue, Silver Spring. 
+Option two: 1 4 1 0 1 Georgia Avenue, Silver Spring. 
+Option three: 1 3 9 9 0 Georgia Avenue, Silver Spring. 
+Option four: 1 3 8 6 0 Georgia Avenue, Aspen Hill. 
+Option five: 1 3 8 7 4 Georgia Avenue, Silver Spring. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Ask room.
+AGENT: Uh, I am sorry, but could you please repeat or clarify the address on Georgia Avenue you would like to use? I want to make sure I get it right. <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

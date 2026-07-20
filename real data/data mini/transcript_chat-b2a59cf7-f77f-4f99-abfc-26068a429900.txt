@@ -1,0 +1,6 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Joseph Sanwo?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Why not?
+AGENT: I want to make sure I have the right Joseph Sanwo before we proceed. Are you the Joseph Sanwo I mentioned?
+AGENT: Take your time. Just let me know when you're

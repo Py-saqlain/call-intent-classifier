@@ -1,0 +1,42 @@
+AGENT: Hello Nancy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Um, I need a cab at Adventist Hospital. On in White Oak,
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Adventist Hospital.
+AGENT: I found Adventist HealthCare White Oak Medical Center at 1 1 8 9 0 Healing Way, Silver Spring, Maryland. Is that the pickup location you want? <emotion
+CALLER: Yeah. Yes.
+AGENT: I wasn't able to find a matching location for Adventist Hospital in White Oak as a dropoff address. Could you please provide a more specific dropoff address or a nearby landmark, cross street, or city and state? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Great! Could you please tell me the full dropoff address or a nearby landmark, cross street, or city and state for your destination? <emotion value="peaceful"/>
+CALLER: Healing way.
+AGENT: Could you please provide the street number along with Healing Way? That will help me find the exact address for your dropoff. <emotion value="peaceful"/>
+CALLER: Just a moment.
+AGENT: Take your time. I'm here when you're ready. <emotion value="peaceful"/>
+CALLER: Just a minute. Just a minute.
+AGENT: No problem at all, take your time. I'm here whenever you're ready. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know
+CALLER: Excuse me. What's the street address here? But the number. One one eight nine zero.
+AGENT: Okay, so the street number is one one eight nine zero. Is that correct? <emotion value="peaceful"/>
+CALLER: One one eight nine zero. This one two one, Yep.
+CALLER: Thank you.
+AGENT: Okay, so I found 1 1 8 9 0 Healing Way, Silver Spring, Maryland as your dropoff address. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Nancy.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I'm sorry?
+AGENT: No problem at all. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time as today at 10:58 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One Walker.
+AGENT: Alright, the estimated fare is 5 dollars, paying with cash. You mentioned one passenger and a walker. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No, thank you.
+AGENT: Okay, I will proceed with booking your one-way trip then. <emotion value="peaceful"/>
+AGENT: Thank you for waiting. Your trip is booked with confirmation number N <break time="300ms"/> S <break time="300ms"/> 4 <break time="300ms"/> 9 <break time="300ms"/> 2 <break time="300ms"/> 1. Is there anything else I can assist you with today?
+CALLER: Repeat the number.
+AGENT: Certainly. The confirmation number is N <break time="300ms"/> S <break time="300ms"/> 4 <break time="300ms"/> 9 <break time="300ms"/> 2 <break time="300ms"/> 1. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: I will connect you now for further assistance.
+AGENT: The estimated fare is 5 dollars, paying with cash. Would you like to

@@ -1,0 +1,17 @@
+AGENT: Hello ayoko, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. Good morning. Morning. Can I have a ride? 09:35. Call a ride.
+AGENT: Alright, how would you like to pay? Since you mentioned Call and Ride, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Okay. Zero zero three three four zero six seven. Correct?
+AGENT: Hmmm.. that didn't seem right, could you please say the last six digits of your Call and Ride card again? <emotion value="apologetic"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: C three six eight, one four zero zero zero zero three three four zero c seven.
+AGENT: Hmmm.. that didn't seem right, could you please say only the last six digits of your Call and Ride card clearly? <emotion value="apologetic"/>
+CALLER: Caesar. Three Cesda. Eight, one, four zero zero zero zero three three four zero six seven
+AGENT: Hmmm.. that didn't seem right, could you please say only the last six digits of your Call and Ride card clearly, just the numbers? <emotion value="apologetic"/>
+CALLER: Zero zero three three four zero c seven.
+AGENT: Hmmm.. that didn't seem right, could you please say only the last six digits of your Call and Ride card clearly, just the numbers without any letters? <emotion value="apologetic"/>
+CALLER: Oh, no. Just the number on my card.
+AGENT: Alright, <break time="300ms"/> please say the last six digits of your Call and Ride card, just the numbers only. <emotion value="peaceful"/>
+CALLER: C sub three c is for eight, one four zero zero, zero zero three three. Four zero three seven.
+AGENT: Hmmm.. that didn't seem right, could you please say only the last six digits of your Call and Ride card clearly, just the numbers without any letters? <emotion value="apologetic"/>
+CALLER: Oh, okay. Thank you.

@@ -1,0 +1,33 @@
+AGENT: Hi Heidi, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Anita Cab at Harris Teeter.
+CALLER: And the delta.
+AGENT: Thanks for sharing your pickup location at Harris Teeter. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Pass.
+AGENT: Did you mean cash for your payment method? If not, could you please tell me which payment method you'd like to use?
+CALLER: Cash.
+AGENT: Thank you, cash it is.
+AGENT: I have the pickup address as 7 9 4 0 Norfolk Avenue, Bethesda, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: I wasn't able to find a location for Anita Cab at Harris Teeter. Could you please provide the full address or another nearby landmark for your destination?
+CALLER: No.
+AGENT: I understand. Could you please tell me the street number or a more specific address for your destination? If you don't know the number, just let me know.
+CALLER: 4805 Battery Lane, Harris Teeter, going to forty five zero six five one Drive.
+AGENT: Just to clarify, is your pickup address 4 8 0 5 Battery Lane at Harris Teeter, and your dropoff address 4 5 0 6 5 1 Drive?
+CALLER: Yes. Yes.
+AGENT: I have the pickup address as 4 8 0 5 Battery Lane, Bethesda, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: I have the dropoff address as 4 5 0 6 Gladwyne Drive, Bethesda, Maryland. Is that correct?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified. Thank you, Heidi. I will now proceed with the next steps.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One. No.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 6 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Your main trip is scheduled for today at 4:37 PM. The confirmation number is 2 1 3 6 6 9 6 9 7. Is there anything else I can help you with?
+CALLER: No
+AGENT: Thank you for calling Barwood & Regency, Heidi. Have a wonderful day!
+CALLER: Thank you.

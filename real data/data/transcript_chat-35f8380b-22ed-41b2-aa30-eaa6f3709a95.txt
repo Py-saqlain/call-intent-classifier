@@ -1,0 +1,12 @@
+AGENT: Hello Miller, this is Ana from Barwood & Regency. Your ride with vehicle 1035 has been accepted and is scheduled to arrive by 1:43 pm, about 33 minutes from now. How can I assist you today?
+CALLER: 237. Maybe that's it. That
+AGENT: Could you please tell me how I can assist you with your ride or booking today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Thirty five.
+AGENT: Could you please clarify what you mean by "thirty five"? Are you referring to a time, an address, or something else related to your ride?
+CALLER: Calling right. No. No. Nope. Only 108 or
+AGENT: It sounds like you might be referring to a payment method. Did you mean "Call and Ride" card for payment? Could you please confirm?
+CALLER: Nope. I don't know if they got this. The name on it. No. Call them out. Right? Wins
+AGENT: Looks like you already have a trip from Silver Spring to Germantown at today 1:08 PM. What would you like to do?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: On me.

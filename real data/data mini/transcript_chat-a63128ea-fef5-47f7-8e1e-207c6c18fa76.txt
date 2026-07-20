@@ -1,0 +1,15 @@
+AGENT: Hello Jean, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to schedule a ride.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Four eight zero three Franklin Street, Bethesda, Maryland. Two zero eight one four.
+AGENT: Okay, so I have your pickup address as four eight zero three Franklin Street, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: The destination please bear with me a second. I've got too many pieces of tape in here. Let me call you back. I don't want you to wait while I look for all of this stuff. Just cancel that. I'll call again and start over.
+AGENT: Just to confirm, you would like to cancel this booking and call back later to start over? <emotion value="peaceful"/>
+AGENT: I understand. Whenever you're ready, just give us a call back and we'll be here to help you start fresh. Take your time. <emotion value="peaceful"/>
+CALLER: Yes.
+CALLER: Yes. Thank you.

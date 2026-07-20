@@ -1,0 +1,37 @@
+AGENT: Hello Joseph, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cub to take me home.
+AGENT: I'd be happy to help with your ride home. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Test
+AGENT: Could you please let me know how you'd like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: I have 1 1 1 2 0 Little Fox Lane, Germantown, Maryland as your dropoff address. Is that correct?
+CALLER: That's correct.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: You. What's the address here? Excuse me,
+AGENT: I have your home
+CALLER: Hello? What's your address?
+AGENT: I have your home address as 1 1 1 2 0 Little Fox Lane, Germantown, Maryland. Is that the pickup address you'd like to use?
+CALLER: Alright. No. That's the drop off at the
+AGENT: Just to clarify,
+CALLER: Okay.
+AGENT: Could you please provide the pickup address you'd like for your ride?
+CALLER: Yes. Pickup address is one nine eight four seven Century Boulevard, Germantown, Maryland. Lobby p.
+CALLER: Hello? Did you get that?
+AGENT: I have 1 9 8 4 7 Century Boulevard, Germantown, Maryland as your pickup address. Is that correct?
+CALLER: Yep. That is correct.
+AGENT: Your pickup address has been verified, Joseph. I'll proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: Thanks, I've set your pickup time for today at 3:00 PM. How many passengers will be traveling, including yourself? And will anyone need a
+CALLER: One. Yes. No. Just one at Just me. I know I don't need a wheelchair. I will walk out.
+AGENT: Thank you, I have recorded 1 passenger and no wheelchair needed. Do you have any special instructions for the driver?
+CALLER: I have a walker. I I work with a I move with a walker, so the car should be easily accessible.
+CALLER: To get in an to get in and out.
+AGENT: Joseph, the estimated fare for your trip is 12 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: Yes. No.
+AGENT: Your main trip is scheduled for today at 3:00 PM. Your confirmation number is 2 1 3 6 7 8 3 9 5. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Joseph. Have a wonderful day.
+CALLER: You.
+CALLER: You're welcome.

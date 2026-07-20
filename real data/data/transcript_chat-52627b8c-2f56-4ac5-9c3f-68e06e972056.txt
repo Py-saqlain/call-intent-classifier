@@ -1,0 +1,40 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Elisa Moon?
+CALLER: Yes.
+AGENT: Thanks for confirming, Elisa. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: New ride, call and ride,
+AGENT: Alright, Elisa, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Great! Please go ahead and tell me the last six digits of your Call and Ride card when you're ready. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Ready.
+AGENT: Alright, Elisa, please tell me the last six digits of your Call and Ride card. <emotion value="peaceful"/>
+CALLER: Three four zero five nine three.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Thank you for that. Now, could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: One one two hundred Rockville Pike, Rockville, Maryland
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found the pickup address as one one two zero zero Rockville Pike, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 12202 Brackville Court, North Odessa, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I couldn't find 12202 Brackville Court, North Odessa, Maryland. Could you please double-check the street name or city for me? <emotion value="apologetic"/>
+CALLER: 12202 Backfield Court, Apartment 7, Rockville, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, I found the dropoff address as one two two zero two Braxfield Court, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Elisa.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now,
+AGENT: Okay, I've scheduled your pickup for right now. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a
+CALLER: One. That's for yourself.
+AGENT: Okay great! <emotion value="grateful"/> Will anyone be needing a wheelchair
+CALLER: No.
+AGENT: Okay great! <emotion value="grateful"/> Do you have any special instructions or notes
+CALLER: No.
+AGENT: Alright, Elisa. The estimated fare is 9 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. No.
+AGENT: Your main trip is scheduled for today at 11:23 AM. Your confirmation number is 2 1 3 6 7 5 6 9 6. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Elisa. Have a wonderful day!

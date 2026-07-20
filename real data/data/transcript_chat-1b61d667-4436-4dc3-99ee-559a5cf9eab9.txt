@@ -1,0 +1,47 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Damn it.
+AGENT: I’m here to help you with Barwood & Regency. Could you please tell me your name so I can assist you better?
+CALLER: Diamonds
+AGENT: Thanks, Diamonds. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a cab
+AGENT: Alright, how would you like to pay for your cab ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address where the driver should come to get you? <emotion value="peaceful"/>
+CALLER: Twelve eighty East West Highway.
+AGENT: Okay, so your pickup address is one two eight zero East West Highway, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Take
+CALLER: It's a place to sit down there. Okay.
+AGENT: I want to make sure I understand correctly. Is the pickup address one two eight zero East West Highway, Silver Spring, Maryland? Please say yes if that is correct or provide the correct address. <emotion value="peaceful"/>
+CALLER: What? Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 8516th Street.
+AGENT: Could you please confirm the city and state for 8516th Street? This will help me find the exact location for your dropoff. <emotion value="peaceful"/>
+CALLER: Yeah. Well, I think it's used
+AGENT: Uh, I am sorry, but could you please repeat the city and state for the dropoff address at 8516th Street? I want to make sure I get it right. <emotion value="apologetic"/>
+CALLER: Yeah.
+AGENT: I couldn't find any location for 8516th Street. Could you please provide the full address including the city and state, or any nearby landmark? <emotion value="apologetic"/>
+CALLER: Yes.
+AGENT: Could you please tell me the full dropoff address including the city and state, or a nearby landmark to help find it? <emotion value="peaceful"/>
+CALLER: Silver Spring, Maryland. Yes. Giant
+AGENT: I found a few Giant Food locations in Silver Spring, Maryland. 
+Option one: 3860 International Drive. 
+Option two: 13781 Connecticut Avenue. 
+Option three: 11221 New Hampshire Avenue. 
+Which one would you like to use? <emotion value="peaceful"/>
+CALLER: 8516th Street, Summit Hill Apartment.
+AGENT: I found a couple of locations related to Summit Hill Apartment. Option one: 38 North Summit Drive, Gaithersburg. Option two: 8484 16th Street, Silver Spring. Which one is correct? <emotion value="peaceful"/>
+CALLER: Silver Spring.
+AGENT: Your dropoff address has been verified, Diamonds.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmm <break time="300ms"/> sorry, I didn't catch the pickup time. Could you please tell me what time you'd like to be picked up? <emotion value="hesitant"/>
+CALLER: Right now.
+AGENT: Okay great! I've got your pickup time as today at 7:30 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two. Oh, you just got it? No. I can't went to the garbage. That's why he was touching our shit.
+AGENT: Alright, the estimated fare is 6.5 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Your main trip is scheduled for today at 7:30 PM. Your confirmation number is 2 1 3 6 7 5 2 7 9. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Diamonds. Have a wonderful day!
+CALLER: No problem.

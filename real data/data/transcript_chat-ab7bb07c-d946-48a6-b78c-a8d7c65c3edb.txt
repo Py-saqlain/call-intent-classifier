@@ -1,0 +1,31 @@
+AGENT: Hello Tahmasebi, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Reserves a ride for tomorrow at nine thirty AM in the morning.
+AGENT: Alright, how would you like to pay for your ride tomorrow at 9:30 AM? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Colon, right.
+AGENT: Hmmm.. that sounds like Call and Ride. Did you mean Call and Ride for payment? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay, great. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero zero three five one six four zero.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride tomorrow at 9:30 AM? <emotion value="peaceful"/>
+CALLER: Nine eight nine zero Washingtonian Boulevard, Gadensburg.
+AGENT: Okay, so your pickup address is nine eight nine zero Washingtonian Boulevard, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One seven zero five one Oakmont Avenue, Gadensburg,
+AGENT: Okay, so your dropoff address is one seven zero five one Oakmont Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Mr. Tahmasebi. <emotion value="grateful"/>
+AGENT: You mentioned a pickup time of tomorrow at 9:30 AM. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Okay great! How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Just me? Nothing.
+AGENT: Okay great! Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: No. Thank you.
+AGENT: Alright, the estimated fare is 12.5 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Thank you.
+AGENT: Alright, I will skip the return trip and proceed with booking your one-way ride. Should I go ahead and book it now? <emotion value="peaceful"/>
+AGENT: Thank you for your patience. I am now processing your booking.
+AGENT: Your main trip is booked for tomorrow at 9:30 AM. Your confirmation number is 2 1 3 6 7 5 2 4 1. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Tahmasebi. Have a wonderful day!

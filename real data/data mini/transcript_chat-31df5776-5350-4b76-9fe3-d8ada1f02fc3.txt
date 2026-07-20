@@ -1,0 +1,15 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Crystal.
+AGENT: Thanks, Crystal. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Eight six
+AGENT: Umm, just to be sure, are you referring to a pickup or dropoff address with the number eight six? Could you please provide a bit more detail? <emotion value="hesitant"/>
+CALLER: Age eight.
+AGENT: I’m sorry, I’m not quite sure I understand. Could you please clarify what you mean by "Age eight"? Are you trying to tell me the number of passengers, or something else? <emotion value="hesitant"/>
+CALLER: Piece. Speak to an agent. Fuck.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Two.
+AGENT: Could you please tell me what you mean by "two"? Are you referring to the number of passengers, wheelchairs, or something else?
+CALLER: Connect me to an agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Operator. Please stop.
+AGENT: I'm

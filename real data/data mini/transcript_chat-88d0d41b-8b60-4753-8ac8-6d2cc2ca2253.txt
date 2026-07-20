@@ -1,0 +1,11 @@
+AGENT: Hi Paula, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello. Good morning. This is Patrick. I'm calling from MedStar Montgomery Medical Center in Olney. I need a taxi to give a patient a ride home. Common. Lalani She lives at eighteen two zero six
+AGENT: Thank you for the details, Patrick. To make sure I have it right, you need a taxi to pick up a patient from MedStar Montgomery Medical Center in Olney and take her home to 1 8 2 0 6 — could you please confirm the full street name and city for the home address? Also, do you know when the pickup should be scheduled?
+CALLER: Paladin Drive, Olney, Maryland. Yeah. I didn't
+AGENT: Thank you for confirming the home address as 1 8 2 0 6 Paladin Drive, Olney, Maryland. Could you please let me know when you would like the taxi to pick up the patient from the medical center?
+CALLER: Right right now. Paladin Drive. I'll be there, Alan. The area code
+AGENT: Thanks for the pickup time and address details. How would you like to pay for this ride? We accept cash, credit card, and Call and Ride.
+CALLER: anytime Patient, so he have card. The patient have a card to pay with?
+AGENT: Thank you for letting me know the patient has a card. Could you please specify if it is a credit card, debit card, or a Call and Ride card?
+CALLER: I don't know. I'll have to hold on and why not? Will it hold on? Hello?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

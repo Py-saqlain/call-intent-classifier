@@ -1,0 +1,86 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Serina Wealth?
+CALLER: Yes.
+AGENT: Thanks for confirming, Serina. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I want to reserve a round trip on the seventeenth
+CALLER: Friday,
+AGENT: Alright, how would you like to pay for your round trip on Friday the seventeenth? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Calling right. Calling right.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three four two five zero eight.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip on Friday? If you'd like, I can use your home address at 5 8 0 1 Nicholson Lane, Rockville, Maryland. Would that work for you?
+CALLER: Fifth
+AGENT: Just to
+CALLER: That's right.
+AGENT: Okay, so your pickup address is 5 8 0 1 Nicholson Lane, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address for your trip? <emotion value="peaceful"/>
+CALLER: Yes.
+CALLER: It is ten two one five Fernwood Road,
+AGENT: Okay, so your dropoff address is 1 0 2 1 5 Fernwood Road, Bethesda, Maryland. Is that
+CALLER: building
+AGENT: Uh, I am sorry, but could you please clarify or repeat the full dropoff address including the building number or name? <emotion value="hesitant"/>
+CALLER: Camelier building
+CALLER: ten fifteen Fernwood Road
+AGENT: Okay, so your dropoff address is 1 0 1 5 Fernwood Road, Bethesda, Maryland, at the Camellier building. Is that correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Could you please provide the full dropoff address again, including the building name or number? <emotion value="hesitant"/>
+CALLER: One zero two one five
+CALLER: Fernwood Road,
+AGENT: Okay, so your dropoff address is the Camalier Building, 1 0
+CALLER: Yes. Camelier Building.
+AGENT: Your dropoff address has been verified, Serina.
+AGENT: You mentioned Friday for your pickup. Just to confirm, is that Friday, July 17th? Please say yes if that's correct. <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thanks for confirming the date. What time on Friday, July 17th would you like to be picked up? <emotion value="peaceful"/>
+CALLER: About nine my appointment's at 09:30.
+AGENT: Okay great! I've noted your appointment at 9:30 AM on Friday, July 17th, and scheduled your pickup accordingly. How many passengers will be traveling, including yourself? Also, will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Myself.
+AGENT: Thanks for letting me know there will be just one passenger. Will you need a wheelchair-accessible vehicle for this trip? <emotion value="peaceful"/>
+CALLER: I use a cane I need a sedan.
+AGENT: Alright, the estimated fare is 10 dollars, paying with your Call and Ride card. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: Let's see. Yes.
+AGENT: Great! I'll start collecting the details for your return trip now.
+AGENT: For your return trip, what time on Friday, July 17th would you like to be picked up? <emotion value="peaceful"/>
+CALLER: At 01:30,
+AGENT: Just to confirm, did you mean 1:30 AM or 1:30 PM for your return trip pickup time? <emotion value="hesitant"/>
+CALLER: 01:30PM.
+AGENT: Thanks for confirming 1:30 PM for your return trip pickup. How many passengers will be traveling on the return trip, including yourself? Also, will anyone need
+CALLER: No. No.
+CALLER: No.
+AGENT: Okay, for your return trip, I have the pickup location as the Camalier Building and the dropoff as 5 8 0 1 Nicholson Lane. Is that correct? <emotion value="peaceful"/>
+CALLER: No. It's not. I have to start over.
+AGENT: Just to confirm, you want to cancel the entire booking and start over? If I proceed, no trips will be booked. Is that correct? <emotion value="hesitant"/>
+CALLER: Yes. Yes. Yes.
+AGENT: Alright, I've canceled the entire booking as you requested. If you'd like to start a new ride reservation or need any other assistance, just let me know. <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Sure, let's start fresh. To begin, where would you like to be picked up?
+CALLER: Reservation.
+AGENT: I see you mentioned "Reservation." Could you please tell me the pickup address for your ride? If you'd like, I can use your home address at 5 8 0 1 Nicholson Lane,
+CALLER: Just feel fifty eight zero one zero one
+AGENT: Uh, I am sorry, but could you please repeat the pickup address? I want to make sure I get it
+CALLER: My home address.
+AGENT: Okay, so your pickup address is 5 8 0 1
+CALLER: Fifty eight zero one Nicholson Lane,
+AGENT: Okay, so your pickup address is 5 8 0 1 Nicholson Lane, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address for your trip? <emotion value="peaceful"/>
+CALLER: Amelior building
+AGENT: Could you please provide
+CALLER: ten two one five Fernwood Road,
+AGENT: Okay, so your dropoff address is 1 0 2 1 5 Fernwood Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Serina.
+AGENT: Alright, how would you like to pay for your ride reservation? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Colin Wright.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three four
+AGENT: Hmmm.. that didn't seem like six digits. Could you please provide the full last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Two five zero Hold on. 342508.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,8 @@
+AGENT: Hello Andrew, this is Ana from Barwood & Regency. You have two trips today — your pickup is scheduled for today at 2:30 PM, and Vehicle 223 is on the way and will arrive for your pickup in about 8 minutes at 9:25. How can I assist you today?
+CALLER: This is Anna from Barwood and Regency. You have two trips today. Your pickup is scheduled for today at 02:30PM, and vehicle 223 is on the way and will arrive for your pickup in about six minutes at 09:24AM. How can I assist you today?
+AGENT: How can I assist you with your trips today?
+CALLER: How can I help you with your ride or trip today?
+AGENT: Are you looking to book a new ride, check the status of an existing trip, cancel or change a trip, or speak with a representative?
+CALLER: Are you wanting to book a new ride? Check on a current trip, cancel, or change a trip? Talk with a representative.
+AGENT: Your driver in vehicle 223 is about six minutes away and will arrive shortly for your pickup at 2 7 1 5 Woodedge Road. You also have a second trip scheduled for today at 2:30 pm from 1 1 1 6 0 Veirs Mill Road. Is there anything else I can help you with?
+CALLER: Thank you for calling Barwood and Regency. Andrew. Have a wonderful day.

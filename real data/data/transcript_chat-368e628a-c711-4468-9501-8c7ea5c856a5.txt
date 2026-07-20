@@ -1,0 +1,41 @@
+AGENT: Hello Rick, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to book a new trip. A pick me up, from 14710 Springfield Road, Germantown Road, Germantown, Maryland 20874. I need a pickup right now.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: As soon as possible. Charge card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so your pickup address is one four seven one zero Springfield Road, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Is it 80? A bureau Drive.
+AGENT: Uh, I am sorry, but could you please repeat the dropoff address? I want to make sure I get it right. <emotion value="peaceful"/>
+CALLER: Gaithersburg. Eight
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so your dropoff address is eight zero Bureau Drive, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: eight zero Buural b as boy,
+AGENT: Uh, I am sorry, but could you please repeat the dropoff address? I want to make sure I get it right. <emotion value="peaceful"/>
+CALLER: Eight eighty eight zero a Budo Drive. Are right. You are you are right. Just proceed. Send me the cab as soon as possible. Right away.
+AGENT: Your dropoff address has been verified. Thank you, Rick. I will now proceed with arranging your ride.
+AGENT: You mentioned you want to be picked up right now. Is that correct? <emotion value="peaceful"/>
+CALLER: Right now. Yes.
+AGENT: Okay great! I've got your pickup time set for today at 11:22 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Okay. Test one. Test one. No. Thank you.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. I've recorded 1 passenger and no wheelchair needed. Do you have any special instructions for the driver? <emotion value="hesitant"/>
+CALLER: Right.
+AGENT: Alright, the estimated fare is 21.5 dollars, paying with credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Yeah. Yeah. I like at 05:00.
+AGENT: Just to confirm, you want to schedule a return trip for 5:00 pm, is that right? Or did you mean you do not want a return trip? <emotion value="hesitant"/>
+CALLER: At 05:00, Yes. Yes.
+AGENT: Just to clarify, for your return trip, would you like to be picked up at 5:00 PM? <emotion value="peaceful"/>
+CALLER: Want a return trip. Schedule at 5PM.
+AGENT: Okay great! I've scheduled your return trip pickup for today at 5:00 PM. <emotion value="grateful"/> Now, for your return trip, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. Okay. One. One.
+AGENT: For your return trip, I have the pickup at 80 Bureau Drive, Gaithersburg, Maryland, and the dropoff at one four seven one zero Springfield Road, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: The estimated fare for your return trip is 21.5 dollars, paying with Self. Should I go ahead and book both trips now? <emotion value="peaceful"/>
+CALLER: Yes, please.
+AGENT: Okay so <break time="250ms"/> I'm booking your trips now. <emotion value="grateful"/>
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 11:22 AM with confirmation number 2 1 3 6 7 1 8 4 6. Your return trip is scheduled for today at 5:00 PM with confirmation number 2 1 3 6 7 1 8 4 7. Is there anything else I can help you with?
+CALLER: No. Thank you. Thank you very much. Send the tab as soon as possible.
+AGENT: Thank you for calling Barwood & Regency, Rick. Have a wonderful day!
+CALLER: Okay.

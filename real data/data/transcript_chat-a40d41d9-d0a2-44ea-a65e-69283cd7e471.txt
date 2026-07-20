@@ -1,0 +1,32 @@
+AGENT: Hello Jiqing, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to book a taxi.
+AGENT: Thank you for choosing us for your ride. How would you like to pay for your taxi? We accept cash, credit card, and Call and Ride.
+CALLER: I take car in the ride.
+AGENT: Just to make sure I understand, did you mean you would like to pay with Call and Ride? If so, I will need the last six digits of your Call and Ride card. If not, please let me know which payment method you'd prefer.
+CALLER: My car ride launches six digits. Three five one two zero two.
+AGENT: Thank you for providing your Call and Ride details. Your payment method is set to Call and Ride.
+AGENT: Could you please tell me the pickup address for your taxi?
+CALLER: 17060 King James Way.
+AGENT: I have 1 7 0 6 0 King James Way, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Eight four two much brand yellow.
+AGENT: Could you please clarify or repeat the dropoff address? It seems a bit unclear. If you can provide any nearby landmarks or cross streets, that would help.
+CALLER: Eight four two. Muddy Branch Road. It's dying. Pharmacy.
+AGENT: I found Giant Pharmacy at 8 4 2 Muddy Branch Road, Gaithersburg, Maryland. Is that the dropoff location you want?
+CALLER: Yes. Thank you.
+AGENT: Your dropoff address has been verified, Jiqing. I will now proceed with arranging your taxi.
+AGENT: When would you like to be picked up?
+CALLER: I wanna pick up 11:35.
+AGENT: Just to confirm, you would like to be picked up today at 11:35 AM, correct?
+CALLER: Yes.
+AGENT: How many passengers will be traveling, including yourself? And will you need a wheelchair-accessible vehicle?
+CALLER: Only me. Nothing else. I don't need it.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: Vehicle. The the the
+AGENT: The estimated fare for your trip is 9.5 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking your one-way trip for 11:35 AM. Just a moment please.
+AGENT: Your main trip is scheduled for today at 11:35 AM. The confirmation number is 2 1 3 6 6 6 2 4 1. Is there anything else I can assist you with?
+CALLER: No. Thank you. I appreciate.
+AGENT: Thank you for calling Barwood & Regency, Jiqing. Have a wonderful day!

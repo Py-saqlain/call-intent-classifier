@@ -1,0 +1,13 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Isaiah
+AGENT: Thanks, Isaiah. This is Ana from Barwood & Regency. How can I help you today?
+AGENT: Take your time. Just let
+CALLER: Hi. I am requesting, uh, cap vouchers. Hello?
+AGENT: me know if you want to book a ride or need help with anything else.
+CALLER: I need a cat vouchers.
+AGENT: I want to make sure I understand you correctly—are you asking about cab vouchers for a ride? If so, I can help you with booking a trip or connecting you to the right service. Could you please confirm?
+CALLER: I
+AGENT: I’m here to help. If you want to book a ride or have any questions about cab vouchers, just let me know what you need.
+CALLER: guess, speak to with a representative.
+AGENT: I will connect you to a live representative who can assist you further. Please hold for a moment.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

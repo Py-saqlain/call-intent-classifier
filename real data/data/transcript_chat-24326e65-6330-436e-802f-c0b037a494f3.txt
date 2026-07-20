@@ -1,0 +1,22 @@
+AGENT: Hi Kevin, this is Ana with Barwood & Regency. The driver is at your location now. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Insert now I'd like to cancel a trip.
+CALLER: Oh,
+AGENT: I see you have three upcoming trips: your main trip today at 3:30 pm from Germantown Century Boulevard to Gateshead Circle, your return trip tomorrow at 12:30 pm from Gateshead Circle to Observation Drive, and another main trip tomorrow at 2:30 pm from Observation Drive back to Gateshead Circle. Which one would you like to cancel? Or would you prefer to cancel all of them?
+CALLER: I would like to cancel one today.
+AGENT: Just to confirm, you want to cancel your main trip today at 3:30 pm from 20111 Century Boulevard to 19919 Gateshead Circle, correct?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello? Hello?
+AGENT: I see you have three upcoming trips: your main trip today at 3:30 pm from Germantown Century Boulevard to Gateshead Circle, your
+CALLER: Well, also today, prep.
+AGENT: I understand you want to cancel a trip today. You have a main trip today at 3:30 pm from 20111 Century
+CALLER: Yes.
+AGENT: Your main trip today at 3:30 pm from Century Boulevard to Gateshead Circle has been cancelled. Is there anything else I can help you with?
+CALLER: Does it
+AGENT: Your trip today at 3:30 pm has been cancelled. If you have any other questions or need further assistance, just let me know.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: And and
+AGENT: I see you have three upcoming trips: your main trip today at 3:30 pm from Germantown Century Boulevard to Gateshead Circle, your return trip tomorrow at 12:30 pm from Gateshead Circle to Observation Drive, and another main trip tomorrow at 2:30 pm from Observation Drive back to Gateshead Circle. Which one would you like to cancel? Or would you prefer to cancel all of them?
+CALLER: so bad.
+AGENT: I understand you want to cancel a trip today.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

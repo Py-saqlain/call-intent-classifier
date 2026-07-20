@@ -1,0 +1,6 @@
+AGENT: Hi Suzanne, this is Ana from Barwood & Regency. Your pickup is scheduled for today at 12:15 PM. How can I assist you today?
+CALLER: Hi, Anna. I just wanted to confirm that the 12:15 pickup is coming, and it's a van for wheelchair accessible. Van to pick up a my mother who's in a wheelchair.
+AGENT: Hmm, let me check on that for you. The 12:15 pickup for your mother in a wheelchair is scheduled and active, but I don't see a driver or vehicle assigned yet. I'll keep you posted. Is there anything else you'd like to know? <emotion value="peaceful"/>
+CALLER: I just wanna make sure that it's says on the reservation that it is a wheelchair accessible van.
+CALLER: Anna,
+AGENT: I'm connecting you now to a customer service representative who can confirm the details about the wheelchair accessible van for your mother's pickup. Please stay on the line.

@@ -1,0 +1,15 @@
+AGENT: Hello, Nellie. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to schedule a taxi.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: K.
+AGENT: Hmmm.. that didn't seem right, could you please tell me how you'd like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your taxi? If you'd like, I can use your home address at 5 3 1 Randolph Road, Silver Spring, Maryland. Would you like to be picked up from there? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so your pickup address is 5 3 1 Randolph Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 13875 Outlet Drive,
+CALLER: Silver Spring.
+AGENT: Okay, so your dropoff address is 1 3 8 7 5 Outlet Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>

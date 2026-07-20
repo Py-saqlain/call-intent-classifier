@@ -1,0 +1,43 @@
+AGENT: Hi Wendy, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Book a. Cab to come pick me up to take me off and it has not arrived yet.
+AGENT: So you want to book a new ride, and it sounds like your previous ride hasn't arrived yet. Would you like me to check the status of your current ride first, or go ahead and start booking a new trip for you?
+CALLER: Yes.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? If you'd like, I can use your home address at 1 0 6 4 9 Montrose Avenue, Bethesda, Maryland. Would that work for you?
+CALLER: To be put picked up at
+AGENT: I want to make sure I understand correctly. Are you saying you want to be picked up at your home address, 1 0 6 4 9 Montrose Avenue, Bethesda, Maryland? Or is there a different pickup location you'd like to provide? <emotion value="peaceful"/>
+CALLER: No. No. No. Just her pickup mutation.
+AGENT: Okay, just to be clear, you want to provide only the pickup location for your ride, and no other details right now? Could you please tell me the pickup address you'd like to use? <emotion value="peaceful"/>
+CALLER: Five five five zero Branch of heights. Boulevard, Cherry Chase, Maryland two zero eight one five.
+AGENT: Hmm <break time="350ms"/> I couldn't find 5550 Crabbs Branch Way in Chevy Chase, Maryland. Could you please confirm the street name and number again?
+CALLER: The pickup address is five five five zero friendship height Friendship Heights Boulevard Chevy Chase, Maryland two zero eight one five.
+AGENT: I found a few locations.  
+Option one: 5 5 3 0 Wisconsin Avenue, Chevy Chase.  
+Option two: 5 5 5 0 Friendship Boulevard, Chevy Chase.  
+Option three: 5 5 5 0 Friendship Boulevard, Chevy Chase.  
+Option four: 5 5 5 0 Friendship Boulevard, Chevy Chase.  
+Option five: 5 5 5 0 Friendship Boulevard, Chevy Chase.  
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Option two, Option two. Option two.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One zero six four nine Mantras Avenue, Stessa, Maryland two zero eight one four.
+AGENT: Okay, so the dropoff address I found is 1 0 6 4 9 Montrose Avenue, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Mhmm.
+AGENT: Your dropoff address has been verified. Thank you, Wendy.
+AGENT: Thank you for the pickup address at 5 5 5 0 Branch of Heights Boulevard, Cherry Chase, Maryland. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time as today at 3:41 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: one
+AGENT: Okay great! I've got one passenger. <emotion value="grateful"/> Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Okay great! I've noted that no wheelchair-accessible vehicle is needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No. No.
+AGENT: Alright, the estimated fare is 17.5 dollars, paying with credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 3:41 PM. Your confirmation number is 2 1 3 6 7 7 2 3 7. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Wendy. Have a wonderful day!

@@ -1,0 +1,26 @@
+AGENT: Hello Deborah, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: At pickup.
+AGENT: Uhh, I see you mentioned "at pickup." Could you please tell me how I can assist you with your ride or booking today? <emotion value="peaceful"/>
+AGENT: Uhh, I don't see an active trip for you right now. Would you like me to help you book a ride? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Four zero zero Yes.
+AGENT: Hmmm.. that didn't seem right, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three four
+AGENT: Hmmm.. that didn't seem like six digits. Could you please say the last six digits of your Call and Ride card again? <emotion value="apologetic"/>
+CALLER: eight five. One three.
+AGENT: Hmmm.. that still doesn't seem to be six digits. Could you please say the last six digits of your Call and Ride card all together again? <emotion value="apologetic"/>
+CALLER: 348513.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: One zero four zero zero Old Georgetown Pike.
+AGENT: Okay, so I found 1 0 4 0 0 Old Georgetown Road, Bethesda, Maryland as your pickup address. Is that correct? <emotion value="peaceful"/>
+CALLER: Yep. Yes. And from Italian.
+AGENT: I found a few Italian restaurants. Option one: 7 2 1 2 Muncaster Mill Road, Derwood. Option two: 1 6 1 2 3 Shady Grove Road, Gaithersburg. Option three: 1 6 0 0 4 Shady Grove Road, Gaithersburg, Suite R. Option four: 1 6 0 0 4 Shady Grove Road, Gaithersburg. Option five: 1 5 8 5 5 Redland Road, Rockville. Which one would you like? <emotion value="peaceful"/>
+CALLER: Done. Customer service.
+AGENT: I can help with your booking details — would you like to continue? <emotion value="peaceful"/>
+CALLER: One zero four. Zero zero or no.
+AGENT: Okay, so I found 1 0 4 0 0 Old Georgetown Road, Bethesda, Maryland as your pickup address. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: I found a few Italian restaurants. Option one: 7 2 1 2

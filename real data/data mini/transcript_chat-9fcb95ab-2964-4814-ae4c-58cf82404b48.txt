@@ -1,0 +1,12 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Gwendolyn Adkins?
+CALLER: Yes. We'd need to speak with the
+AGENT: Thanks for confirming, Gwendolyn. This is Ana from Barwood & Regency. Your
+CALLER: representative, please.
+CALLER: Hello?
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Hello? We want a representative, please.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: What? What? We can't hear you.
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: We want a representative We want you to get off the phone and get a representative, a live representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,51 @@
+AGENT: Hello Gerrie, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Okay. I'm gonna need a cab. On I'm sorry, on Tuesday, July seventh
+AGENT: Thanks for letting me know you'll need a cab on Tuesday, July seventh. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: It's it's the credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your ride on Tuesday, July seventh?
+CALLER: Yeah. I would be catch up at. That's r I n g the ring house facility. At eighteen zero one East Jefferson Street, Rockville, Maryland, then I'll be in the front there.
+AGENT: I have the pickup address as one eight zero one East Jefferson Street, Rockville, Maryland. Is that correct?
+CALLER: 1801 East Giversborough. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes.
+AGENT: Could you please tell me the destination or dropoff address for your ride on Tuesday, July seventh?
+CALLER: The Shady Grove Hospital
+AGENT: I found Adventist HealthCare Shady Grove Medical Center at nine nine zero one Medical Center Drive, Rockville, Maryland. Is that the correct destination?
+CALLER: Oh, it's the Shady Grove Hospital Okay. Oh, you have it. Okay. Yes. And about how I my I I wanna be there by three. I don't how long is that destination?
+AGENT: I have the dropoff address as nine nine zero one Medical Center Drive, Rockville, Maryland. Is that correct?
+CALLER: Yes. The shady grove hospital. Yes. And now what I wanna know is how long will the will the ride be? Just like I know what time to tell you to pick me up.
+AGENT: I understand you want to know the ride duration to plan your pickup time. I don't have the exact travel time, but I can help you schedule your pickup for when you want to arrive by 3 pm. Would you like me to arrange your pickup time accordingly?
+CALLER: What what are you going to do? I want you schedule your pickup for William Monteburphy? Two okay. Go ahead. Tell me what time.
+AGENT: To make sure you arrive at Shady Grove Hospital by 3 pm on Tuesday, July seventh, I will schedule your pickup a bit earlier to allow travel time. Could you please tell me your preferred pickup time or if you want me to suggest a pickup time based on typical travel duration?
+CALLER: Tell me your preferred pickup time. To the pickup time, please. Isn't it? I I I I tell me what what you tell me what you think how long it'll take for me to get there, please.
+AGENT: The ride from one eight zero one East Jefferson Street to nine nine zero one Medical Center Drive in Rockville usually takes about 15 to 20 minutes, depending on traffic. To arrive by 3 pm, I would suggest scheduling your pickup around 2:30 pm. Does that work for you?
+CALLER: Alright. Let let's say let's say it you wanna pick my appoint I wanna be there by
+AGENT: I want to make sure I understand correctly. You want to be at Shady Grove Hospital by 3 pm, and you want me to schedule your pickup time accordingly, around 2:30 pm. Is that right?
+CALLER: how about picking me up at Yeah. Okay.
+AGENT: Just to confirm, would you like me to schedule your pickup for 2:30 pm on Tuesday, July seventh so you can arrive at Shady Grove Hospital by 3 pm?
+CALLER: Okay. How about picking me up at 02:15?
+AGENT: Got it. You would like to be picked up at 2:15 pm on Tuesday, July seventh. I'll set that pickup time for you.
+AGENT: Your dropoff address has been verified, Gerrie. I'll proceed with arranging your ride for Tuesday, July seventh at 2:15 pm.
+AGENT: We have your pickup time as Tuesday, July seventh at 2:15 pm. Is that correct?
+CALLER: What let's say about two 02:20. Oh, okay. 02:15. Okay. 02:15.
+AGENT: Just to confirm, your pickup time is Tuesday, July seventh at 2:15 pm. Is that right?
+CALLER: Pickup time is at 02:15. Yes.
+AGENT: Thank you for confirming your pickup time for Tuesday, July seventh at 2:15 pm. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. Now Just just myself.
+AGENT: Got it, one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: Just me. Just one one person. No. We do not need a wheelchair. No.
+AGENT: The estimated fare for your trip is 21 dollars and 50 cents, paying with Self. Would you like to schedule a return trip as well?
+CALLER: Yeah.
+AGENT: Great, I'll start collecting the details for your return trip.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: text that you have to send me you have my cell phone number. Correct?
+AGENT: I don't handle phone numbers or contact details directly. Let's continue with your return trip details. What time would you like to be picked up for your return trip?
+CALLER: I don't know yet. I don't know. I'll have to call you.
+AGENT: No problem, I've recorded your return trip as a will-call trip. When you're ready, just call us back to schedule the pickup. Meanwhile, how many passengers will be traveling on your return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Okay. And approximately, what what is my stair?
+AGENT: Your main trip estimated fare is 21 dollars and 50 cents. Now, how many passengers will be traveling on your return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: What Is it anybody there?
+AGENT: Yes, I'm here to help. How many passengers will be traveling on your return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Oh, Jesus. Oh, just myself, one person.
+AGENT: For your

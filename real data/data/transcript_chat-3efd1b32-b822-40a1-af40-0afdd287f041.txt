@@ -1,0 +1,45 @@
+AGENT: Hello Barry, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need attachment to three five two eight fourth Haven Way seven thirty in the morning tomorrow.
+AGENT: Thank you for sharing your pickup details for tomorrow at 7:30 in the morning. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash,
+AGENT: Thank you, your payment method is set to cash.
+CALLER: Yes.
+AGENT: I have the dropoff address as two three five two eight Forest Haven Way, Clarksburg, Maryland. Is that correct?
+CALLER: Correct. Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: Pickup address is two three five two eight North Havenway,
+AGENT: Thank you for providing the pickup address as two three five two eight North Haven Way. Let me check that for you.
+CALLER: 4th Haven Way.
+AGENT: I found a similar address from recent trips: two three five two eight Forest Haven Way, Clarksburg, Maryland. Is that the correct pickup location?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes. I'm ready for the dropoff address.
+AGENT: Just to confirm, your pickup address is two three five two eight Forest Haven Way, Clarksburg, Maryland. Is that correct?
+CALLER: Correct. Yes.
+AGENT: It looks like the pickup and dropoff addresses you provided are the same. They need to be different for the trip. Could you please provide a different pickup address?
+CALLER: That is a pickup address. The pickup address is two three five two eight Forest Haven Way,
+AGENT: Thank you for clarifying. Since the pickup and dropoff addresses are the same, could you please provide a different dropoff address for your trip?
+CALLER: Yes. Six ten East Diamond Avenue.
+AGENT: Thank you for providing the dropoff address as six ten East Diamond Avenue. Let me check that for you.
+AGENT: I have the dropoff address as six one zero East Diamond Avenue,
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: Two three five two eight forced Haven Way.
+AGENT: Thank you for providing the pickup address as two three five two eight Forest Haven Way. Let me check that for you.
+AGENT: I have the pickup address as two three five two eight
+CALLER: Yeah.
+AGENT: Your pickup address has been verified, Barry.
+AGENT: You mentioned your pickup time as tomorrow at 7:30 in the morning. Is that correct?
+CALLER: Correct. Yes.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two passengers No wheelchair.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: Yeah. Come at 07:30 in the morning tomorrow.
+AGENT: Barry, the estimated fare for your trip is 32 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your trip is scheduled for tomorrow at
+CALLER: K.
+AGENT: The confirmation number for your main trip is 2 1 3 6 6 3 9 0 6. Is there anything else I can help you with?
+CALLER: No. That's all.
+AGENT: Thank you for calling Barwood & Regency, Barry. Have a wonderful day!
+CALLER: Thanks.

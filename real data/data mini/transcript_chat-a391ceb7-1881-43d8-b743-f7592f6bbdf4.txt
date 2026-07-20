@@ -1,0 +1,10 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: No.
+AGENT: I understand. If you need a ride or any assistance, I’m here to help. Could you please tell me your name so I can set up your profile?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+CALLER: Please. No.
+AGENT: Just to confirm, are you sure you want to cancel the entire booking? If you do, no trips will be scheduled.
+CALLER: No. Please. No.
+AGENT: I want to make sure we get everything right for you. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

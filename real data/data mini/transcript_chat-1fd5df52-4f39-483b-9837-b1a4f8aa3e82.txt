@@ -1,0 +1,13 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Did that partially Connecticut.
+AGENT: I'm sorry, I didn't quite catch your name. Could you please tell me your name again?
+CALLER: Salim, Salin.
+AGENT: Thanks, Salim. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Status.
+AGENT: Hmm, let me check that for you. Uhh, I’m not able to find any trips under your profile right now. If you’d like, I can help you book a new ride. Would you like to do that?
+CALLER: Agent.
+CALLER: The system.
+AGENT: Okay, I’m connecting you to a live agent now who can assist you further. Please hold for a moment.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

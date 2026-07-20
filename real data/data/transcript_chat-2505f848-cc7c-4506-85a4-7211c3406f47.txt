@@ -1,0 +1,40 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Janine
+AGENT: Thanks, Janine. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I wanna book a ride. With Pepsi.
+AGENT: Alright, Janine, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash. Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Janine, could you please tell me the pickup address for your ride?
+CALLER: Five three four Rutgers, R U T G E R S And Then Street, Rockville, Maryland 2085. Zero.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, Janine, I found 5 3 4 Rutgers Street, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found a few locations for Pepsi.  
+Option one: 7 0 9 5 Samuel Morse Drive, Columbia, Maryland.  
+Option two: 6 7 5 1 Alexander Bell Drive, Columbia, Maryland.  
+Option three: 3 2 5 7th Street Northwest, Washington, D C.  
+Option four: 7 6 0 0 Assateague Drive, Jessup, Maryland.  
+Option five: Pepsi Place, Hyattsville, Maryland.  
+Which one is correct?
+CALLER: None.
+AGENT: Okay, Janine, I understand none of those are correct. Could you please provide a more specific address, landmark, or cross street near the Pepsi location you want?
+CALLER: No. I wanna go to 1101 Spotswood Drive. In Silver Spring, Maryland.
+AGENT: Thank you, Janine. Let me check that address for you. <emotion value="peaceful"/>
+AGENT: Okay, Janine, I found 1 1 0 1 Spotswood Drive, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Janine. I will now proceed with your booking.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now.
+AGENT: Okay great! I've got your pickup time as today at 3:24 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One One. No. Just one. Person.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 33 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will skip the return trip. Let me proceed with booking your main trip now. <emotion value="peaceful"/>
+AGENT: Thank you for waiting. I'm now processing your main trip booking.
+AGENT: Your main trip is booked for today at 3:24 PM. Your confirmation number is 2 1 3 6 7 2 2 0 6. Is there anything else I can help you with?
+CALLER: How long is the wait time?
+AGENT: I'm connecting you now to a customer service representative who can provide the wait time details. Please stay on the line.

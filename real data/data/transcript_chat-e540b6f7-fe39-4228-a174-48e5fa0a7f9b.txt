@@ -1,0 +1,48 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Lisa Lilley?
+CALLER: Yes. I need to book rides for tomorrow.
+AGENT: Thank you, Lisa. This is Ana from Barwood & Regency. I'll connect you now to get your rides booked for tomorrow.
+AGENT: Alright, Lisa, how would you like to pay for your rides tomorrow? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Calling right Call and ride.
+AGENT: Okay so <break time="300ms"/> you mentioned Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Two one. Why are you swallowing? Hello?
+AGENT: Hmmm.. <break time="300ms"/> I didn't catch that clearly. Could you please say the last six digits of your Call and Ride card again? Just the numbers, please. <emotion value="apologetic"/>
+CALLER: Typed them in. I typed them in. Three three eight two three three.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Lisa, could you please tell me the pickup address for your ride tomorrow? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Thank you. Could you please provide the street number and street name for your pickup location? <emotion value="peaceful"/>
+CALLER: Wait a minute.
+AGENT: Take your time, Lisa. Just let me know when you're ready with the pickup address. <emotion value="peaceful"/>
+CALLER: My pickup location is one four four two one.
+AGENT: Thank you, Lisa. Could you please tell me the street name and city for the pickup address one four four two one? <emotion value="peaceful"/>
+CALLER: Chavelle Garden Circle, Rockville, Maryland two zero eight five zero.
+AGENT: Okay, Lisa, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, Lisa, I found the address as one four four two one Traville Gardens Circle, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmm <break time="350ms"/> I couldn't find any locations matching "book rides for tomorrow." Could you please provide the full destination address or the name of the place you want to go to tomorrow? <emotion value="apologetic"/>
+CALLER: Eight zero zero five Gramercy Boulevard, Sherwood, Maryland two zero eight five five.
+AGENT: Thank you, Lisa. Let me check that address for you. <emotion value="peaceful"/>
+AGENT: Okay, Lisa, I found the address as eight zero zero five Gramercy Boulevard, Derwood, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Lisa. I'll now proceed to arrange your rides.
+AGENT: When would you like to be picked up tomorrow? <emotion value="peaceful"/>
+CALLER: Time it picked up?
+AGENT: Yes, that's right. What time tomorrow would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 12:30.
+AGENT: Just to confirm, you mean 12:30 PM tomorrow for your pickup time, correct? <emotion value="peaceful"/>
+CALLER: 12:30. PM. 12:30PM.
+AGENT: Okay great! I've got your pickup time as tomorrow at 12:30 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Two passengers.
+AGENT: Okay great! I've got two passengers and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Call me when you get here.
+AGENT: Alright, the estimated fare is 14 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. I have three more trips to book. Ask I'm going from eight zero zero five Grand Mercy Boulevard, Derrywood Maryland to 18804 Kiefer Way, Montgomery Village Maryland. Right after I go to 8005 Grand Mercy. I'm picking up my son, and we're going to one eight eight zero four Keepher Way, Montgomery Village.
+AGENT: Sure, let's start with your next trip. You want to go from 8 0 0 5 Gramercy Boulevard, Derrywood, Maryland to 1 8 8 0 4 Kiefer Way, Montgomery Village, Maryland, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Alright, let me update your pickup and dropoff addresses for this trip. <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Just to confirm, do you want to update the pickup and dropoff addresses for your main trip, or is this for a separate new trip? <emotion value="peaceful"/>
+CALLER: Another new trip.
+AGENT: Thanks for clarifying. Since this is a new trip, I will start a fresh booking for you. <emotion value="peaceful"/> Let me begin by collecting the pickup address for this new trip.
+AGENT: I understand you want to update the dropoff address. Could you please provide the full dropoff address for this new trip? <emotion value="peaceful"/>
+CALLER: What trip

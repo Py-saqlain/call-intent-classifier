@@ -1,0 +1,32 @@
+AGENT: Hello Ebenezer, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Good afternoon, trip.
+AGENT: How can I assist you with your trip today?
+CALLER: Booking a trip. I need a cup.
+AGENT: Thanks for letting me know you're booking a trip. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: Sorry. Yeah. Six zero one North Summit Avenue.
+AGENT: I have 6 0 1 North Frederick Avenue, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: yes. Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Four zero eight North Summit Avenue,
+AGENT: I have 4 0 8 North Summit Avenue, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Ebenezer.
+AGENT: You mentioned that you need a cup. Is that correct? Please say yes to confirm or let me know if I should update it.
+CALLER: Okay. Okay. B as a Yes. Yes. I need it. Yeah. Yes. I need a cab.
+AGENT: Thank you for confirming. When would you like to be picked up?
+CALLER: Right now.
+AGENT: I have your pickup time set for right now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One. A few of the a few log loggages.
+AGENT: The estimated fare for your trip is 9 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your cab booking for one passenger with a few pieces of luggage, pickup right now. Please hold on a moment.
+AGENT: Your cab is booked for pickup right now at 8:43 am. The confirmation number for your main trip is 2 1 3 6 6 6 1 6 1. Is there anything else I can help you with?
+CALLER: Hello, please.
+AGENT: Hello again! How can I assist you further with your trip?
+CALLER: That's it.
+AGENT: Thank you for calling Barwood & Regency, Ebenezer. Have a wonderful day!
+CALLER: And thank you. Bye bye.
+AGENT: Thank

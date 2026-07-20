@@ -1,0 +1,28 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Right.
+AGENT: Could you please tell me your name so I can set up your profile?
+CALLER: My name is. And we are ready for the In half an hour time, we'll be there waiting he dropped us off.
+AGENT: I didn't quite catch your name. Could you please say your name again?
+CALLER: Granary. Dau, n d a u.
+AGENT: Thank you, Granary. This is Ana from Barwood & Regency. How can I assist you with your ride today?
+CALLER: We are supposed to be picked up from Rockdale. Where he dropped us off this morning.
+AGENT: Okay, you want to be picked up from Rockdale where you were dropped off this morning. Could you please tell me the full address or any nearby landmarks for the pickup location in Rockdale?
+CALLER: Ninety seven eleven nine What is it? 5 what?
+CALLER: Miss Sandy, what's your what's what's your role?
+CALLER: Guys, 97, eleven nine Hill Way.
+AGENT: Just to confirm, is your pickup address 9 7 1 1 9 Hill Way? And could you please tell me the city or town for this address?
+CALLER: Diving way. It's tied here away.
+AGENT: Thank you. So your pickup address is 9 7 1 1 9 Diving Way. Could you please confirm the city or town for this address?
+CALLER: Rocadales. Maryland. Hello?
+AGENT: Thank you for confirming. Your pickup address is 9 7 1 1 9 Diving Way, Rockdale, Maryland. Where would you like to go?
+CALLER: No. No. They
+AGENT: I want to make sure I understand correctly. Are you saying the pickup address or the
+CALLER: No. That's no. This is the one. Where are you going? Hello? No. This is wrong address.
+AGENT: Alright, let's take it step by step. Could you please tell me the correct pickup address again? I'll make sure to get it right this time.
+CALLER: Uber is gonna make it Okay. Nine seven seven seven. That's it. I can take you.
+CALLER: I'm fucking right in. Where do you see this?
+AGENT: I want
+CALLER: Need? You're having
+AGENT: I want to make sure I understand you correctly. Are you saying you want to book a ride with us or are you planning to use Uber instead?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: I gotta think it has to play this. Yep. I'm gonna say how to play my And you you

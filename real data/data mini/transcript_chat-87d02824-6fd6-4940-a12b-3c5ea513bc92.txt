@@ -1,0 +1,25 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Patricia Thomas?
+CALLER: No, you're not.
+AGENT: Thank you for letting me know. May I ask who I’m speaking with today? You can also tell me if you’d like me to list the names I have on this number.
+CALLER: My name I'm calling from Kaiser Permanente. And I'm just trying to get a cab.
+AGENT: Thanks for that. Since you mentioned you want to book a ride, I’ll connect you now to someone who can help with that right away. One moment please.
+AGENT: Thank you for sharing that. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you for letting me know. Your payment method is set to credit card.
+AGENT: I wasn't able to find a location for "Kaiser Permanente. And I'm just trying" near 1 3 2 3 4 Shawnee Lane, Clarksburg, Maryland. Could you please provide the full pickup address or a nearby
+CALLER: No. Okay. That
+AGENT: I want to make sure I have
+CALLER: the this is in Gaither this is in Gaithersburg, Maryland.
+AGENT: Thank you for that. Could you please provide the
+CALLER: And it is at the the intersection of Frederick Road and Watkins Mill.
+AGENT: Thanks for the details. Could you please provide the street number for the pickup location at the intersection of Frederick Road and Watkins Mill in Gaithersburg, Maryland?
+CALLER: Okay. Hang on a minute. I'm I'm at I'm at Kaiser Permanente, and I'm trying to find the street address.
+AGENT: No problem at all. Take your time to find the street address for Kaiser Permanente in Gaithersburg, Maryland. Just let me know when you have it or if you need help with anything else.
+CALLER: Okay. Well, I'll see if it's on my insurance card. Hold on a minute.
+AGENT: Take your time. I’ll
+CALLER: I'm gonna lay the phone down.
+AGENT: That's perfectly fine. I'll be here when you're ready. Just let me know when you have the address or if you need any assistance.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm gonna have to hang up The street address is not on the card. I'm gonna have to ask somebody here for a street address.
+AGENT: Thank you for calling Barwood & Regency. Have a great day.
+CALLER: Bye.

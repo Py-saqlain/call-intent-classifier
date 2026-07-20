@@ -1,0 +1,13 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Walgreens Largo,
+AGENT: Thank you for that, but I need your name first to set up your profile. Could you please tell me your name?
+CALLER: Walgreens. Largo.
+AGENT: I’m here to help with your rides, but first I need your name to get started. What name should I use for your profile?
+CALLER: Walgreens Fargo,
+AGENT: I want to make sure I get your name right. Could you please say your name slowly or spell it for me?
+CALLER: W a l g r e e n s l a r g o.
+AGENT: Thanks, Walgreens. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Speak to representative.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Live agent, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

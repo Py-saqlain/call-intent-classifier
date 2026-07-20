@@ -1,0 +1,8 @@
+AGENT: Hello Ramatulai, this is Ana from Barwood & Regency. You have two trips today — Vehicle 1034 has arrived at your pickup location, and your trip with vehicle 1034 is confirmed and scheduled for pickup today at 3:35 PM. How can I assist you today?
+CALLER: Hi. How are you?
+AGENT: How can I assist you with your ride today?
+CALLER: Hello? Yeah. I'm calling to cancel the ride
+AGENT: I found four active trips for you: a return trip at 2:30 pm from Silver Spring to Bethesda, a main trip at 3:35 pm from Bethesda to Silver Spring, another return trip tomorrow at 12:30 pm from Silver Spring to Rockville, and a main trip tomorrow at 2:00 pm from Rockville to Silver Spring. Would you like to cancel all of these trips?
+CALLER: Customer service, please.
+CALLER: Hello?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,9 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Cap.
+AGENT: Thanks, Cap. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Agent. Yeah. I got this when I came in here.
+AGENT: Uhh, I want to make sure I understand you correctly. Are you looking to book a ride, check on a trip, or speak with a live agent? <emotion value="hesitant"/>
+CALLER: Agent.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Agent. Please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

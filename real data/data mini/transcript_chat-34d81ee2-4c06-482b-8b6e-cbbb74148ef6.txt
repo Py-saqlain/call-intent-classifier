@@ -1,0 +1,18 @@
+AGENT: Hi Amy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Pickup.
+AGENT: How can I assist you with your pickup today?
+CALLER: Pickup at least.
+AGENT: How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Pickup and drop off at yeah. Cash.
+AGENT: Thank you for letting me know you'll be paying with cash.
+AGENT: I have 2 0 1 4 1 Century Boulevard, Germantown, Maryland as your pickup address. Is that correct?
+CALLER: No. No.
+AGENT: Thank you for letting me know. Please provide the correct pickup address.
+AGENT: Take your time. Just let me know
+CALLER: Lake Forest Transit Center.
+AGENT: I found two locations for Lake Forest Transit Center in Gaithersburg, Maryland. One is Lakeforest Transit Center and Odendhal Avenue, and the other is just Lakeforest Transit Center. Which one would you like to use?
+CALLER: Like, push. Lake Forest Transit Center.
+AGENT: I couldn't find any locations matching "yeah." Could you please provide the full address or a more specific destination?
+CALLER: Speak to representative.
+AGENT: I can help with your pickup details — would you like to continue?
+AGENT: Take your time. Just let me know when you're ready.

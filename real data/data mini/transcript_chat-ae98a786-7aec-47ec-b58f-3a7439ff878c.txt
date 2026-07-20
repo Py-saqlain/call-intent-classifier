@@ -1,0 +1,16 @@
+AGENT: Good morning, appieh. This is Ana from Barwood & Regency. Your trip is scheduled for pickup today at 8:24 AM. Thank you for your patience. How can I assist you today?
+CALLER: And what time is it now?
+AGENT: It's currently 8:17 in the morning. How can I assist you with your ride today?
+CALLER: I need other than that, what else do you have? To take me to Kaiser? I'm missing my appointment.
+AGENT: Looks like you already have a trip from Silver Spring to Kensington at 8:24 this morning. What would you like to do?
+CALLER: Yeah. But run by twenty days.
+AGENT: Could you please clarify what you mean by "run by twenty days"? Are you asking to reschedule your existing trip to a date 20 days from now, or is there something else you need?
+CALLER: Hours
+AGENT: So you would like to change your existing trip to be 20 hours later than the current scheduled time? Is that correct?
+CALLER: No. I don't want to change. I have to be there by 08:00. 08:30, please.
+AGENT: Thank you for clarifying. Since your current trip is scheduled for 8:24 am and you need to be at Kaiser by 8:00 or 8:30, would you like me to help you book a new trip to Kaiser for that time?
+CALLER: Yes. That time, I want to be there, please.
+AGENT: You still have a trip from Silver Spring to Kensington at 8:24 this morning. For a new trip to Kaiser at 8:30, I can connect you with a representative to assist. Would you like me to do that?
+CALLER: God. God. God.
+AGENT: I want to make sure you get the help you need. Let me connect you with a representative who can assist you further. Please hold for a moment.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

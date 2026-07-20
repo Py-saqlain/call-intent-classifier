@@ -1,0 +1,37 @@
+AGENT: Hi Mary, this is Ana with Barwood & Regency. How can I help you today?
+CALLER: I need a cab.
+CALLER: Hello?
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Hello?
+AGENT: Alright, how would you like to pay? We
+CALLER: Credit
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: The pickup address Hold on. Nine two one zero ten Kent Dale. In Bethesda, 9210 Kentdale, at Kentdale. Nine two one zero Kentdale in Bethesda, I need it at 10:30AM on the dot.
+AGENT: Okay, I found a similar address from recent trips: 9 2 1 0 Kentsdale Drive, Potomac, Maryland. Is that the correct pickup location? <emotion value="hesitant"/>
+CALLER: Yes. It is.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: The destination is Clyde in Potomac, Maryland. Clive's restaurant.
+AGENT: I'm sorry, but Clive's restaurant in Potomac, Maryland seems to be outside our service area. Could you please provide a different destination or dropoff address? <emotion value="apologetic"/>
+CALLER: Clyde in Rockville, Maryland.
+AGENT: I found a location called Clyde's Tower Oaks Lodge at 2 Preserve Parkway, Rockville, Maryland. Is that the correct dropoff location? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Mary.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I want you to pick my mother up. Judy Duggan. I want you to pick her up at 10:30AM on the dot to take her to Clive's restaurant. We need to be there at 11:00AM. I need the cab at 10:30AM. To pick up my mother
+AGENT: Okay, just to confirm, you want the pickup time to be 10:30 AM today, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got that pickup time noted for today at 10:30 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including your mother? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Maybe. Maybe.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. Will your mother or anyone traveling need a wheelchair-accessible vehicle? And how many passengers in total will be riding? <emotion value="hesitant"/>
+CALLER: One.
+AGENT: Okay great! I've got one passenger noted. <emotion value="grateful"/> Will you or your mother need a wheelchair-accessible vehicle?
+CALLER: Yes.
+AGENT: Okay great! I've got that a wheelchair-accessible vehicle is needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No just charge me, Mary Anne, with the bill. I will pay for everything.
+AGENT: Alright, the estimated fare is 18 dollars, paying with your own account. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 10:30 AM. Your confirmation number is 2 1 3 6 7 2 9 1 0. Is there anything else I can help you with?
+CALLER: That's it. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Mary. Have a wonderful day!

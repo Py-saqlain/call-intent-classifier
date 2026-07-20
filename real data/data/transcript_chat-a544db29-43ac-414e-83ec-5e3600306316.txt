@@ -1,0 +1,34 @@
+AGENT: Hi Larry, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Good ride.
+AGENT: How can I assist you with your ride today?
+CALLER: Go home.
+AGENT: To get your ride home arranged, may I ask how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: Cash. Cash.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: I have 5 0 9 Bickford Avenue, Rockville, Maryland as your dropoff address. Is that
+CALLER: No. No. No. No.
+AGENT: I understand the dropoff address is not correct. Could you please provide the correct dropoff address?
+CALLER: Right. 4107 Sampson Road, Silver Spring, Maryland two zero nine zero six.
+AGENT: I have 4 1 0 7 Sampson Road, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: 12270 Wilkins Avenue in Montreal.
+AGENT: Montreal is outside our service area. Could you please provide a pickup address within Montgomery County, Washington D C, or Northern Virginia?
+CALLER: 12270 Wilkins Avenue, Rockville.
+CALLER: Thank you.
+AGENT: I have 1 2 2 7 0 Wilkins Avenue, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified, Larry. I will now proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: Asap
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a
+CALLER: One one No. Just me.
+AGENT: Thank you, I have recorded 1 passenger and no wheelchair needed. Do you have any special instructions for the driver?
+CALLER: No. No. Just ASAP.
+AGENT: The estimated fare for your trip is 9.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your main trip is scheduled for today at 8:02 PM. The confirmation number is 2 1 3 6 7 8 5 6 7. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Larry. Have a great day!
+CALLER: Thank you.

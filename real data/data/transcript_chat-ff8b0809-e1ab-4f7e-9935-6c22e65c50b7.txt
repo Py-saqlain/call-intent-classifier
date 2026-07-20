@@ -1,0 +1,43 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Ethel Panda?
+CALLER: Call it. I need it by a wood cap, please. If I can get one. Immediately, I'm going to the emergency.
+AGENT: I understand you need a ride immediately to the emergency. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: No. Cash. Cash.
+AGENT: Thank you for letting me know you'll be paying with cash.
+AGENT: Could you please tell me the pickup address for your ride to the emergency?
+CALLER: One three one six ten.
+AGENT: Thank you. To confirm, is your pickup address one three one six Fenwick Lane, Silver Spring, Maryland?
+CALLER: Code Cool.
+AGENT: To confirm, your pickup address is one three one six Fenwick Lane, Silver Spring, Maryland. Is that correct?
+CALLER: Call that. Yeah. That's cool. That's
+AGENT: I found several emergency-related locations: Olde Towne Urgent Care at 3 1 7 E Diamond Avenue suite C in Gaithersburg, Maryland; Gaithersburg Police Department at 1 6 S Summit Avenue in Gaithersburg, Maryland; Emergency Dentist 24/7 at 1 0 6 S Frederick Avenue in Gaithersburg, Maryland; Emergency Dental Service at 1 0 6 S Frederick Avenue suite 1 0 1 A in Gaithersburg, Maryland; and Dr. Haseeb Noor, DDS Emergency Dentist at 1 2 4 N Frederick Avenue number 6 in Gaithersburg, Maryland. Which one would you like to go to?
+CALLER: No. I'm going to Holy Cross. Please send me a card, please, if you can do it. That's all I needed. I just need a card. I'm going to Holy Cross. Imagine seeing you. I don't need no emergency. I'm wrong or whatever. Just send me a card. I'll pay my cash.
+AGENT: Thank you for the update. To confirm, your dropoff address is Holy Cross. Could you please provide the full address or city and state for Holy Cross so I can find the exact location for you?
+CALLER: I don't I don't have this the cup. I don't have the address. That's a emergency hospital at all. In Silver Spring. I don't have no address for that.
+AGENT: Thank you for clarifying. I will look for Holy Cross Hospital in Silver Spring, Maryland for you.
+AGENT: I found Holy Cross Hospital at 1 5 0 0 Forest Glen Road in Silver Spring, Maryland. Is that the place you want to go?
+CALLER: All it, and you'll find it. Imagine fixing. About it.
+AGENT: To confirm, you want to go to Holy Cross Hospital at 1 5 0 0 Forest Glen Road, Silver Spring, Maryland. Is that correct?
+CALLER: Go ahead.
+AGENT: Your dropoff address has been verified, Ethel. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: Right. What time is it now? In the next twenty minutes.
+AGENT: It's currently 11:04 AM. So you would like to be picked up in about 20 minutes, around 11:25 AM? Is that correct?
+CALLER: 11:30.
+AGENT: I have your pickup time set for today at 11:30 AM. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Color. No. That's me. No. That's me alone.
+AGENT: Thank you. I have recorded 1 passenger and no wheelchair needed. Do you have any special instructions for the driver?
+CALLER: Not at all.
+AGENT: The estimated fare for your trip from 1 3 1 6 Fenwick Lane to 1 5 0 0 Forest Glen Road is 9 dollars and 50 cents, paying with your own payment method. Would you like to schedule a return trip as well?
+CALLER: No. No. It sounds good.
+AGENT: Great. Should I go ahead and book your trip for 11:30 AM today?
+CALLER: No. Yes.
+AGENT: Thank you. I am booking your trip now.
+AGENT: Your trip is booked for today at 11:30 AM. The confirmation number is 2 1 3 6 6 8 0 4 1. Is there anything else I can help you with?
+CALLER: No. Not at all.
+AGENT: This is Barwood & Regency. Could you please tell me your name so I can assist you?
+CALLER: I gave you my name already, etaithers. E t h e l. The last name is Panda. I gave you already in the beginning.
+AGENT: Thanks, Ethel. This is Barwood & Regency. How can I help you today?
+CALLER: I told you I need a cab to go to Holy Cross. This is the second time. Why do I have to repeat this again?
+AGENT: I don't see an active trip scheduled for you right now. Would you like me to help you book a ride to Holy Cross?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Thank you.

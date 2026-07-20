@@ -1,0 +1,23 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: What? Richard Boxer, b o x e r.
+AGENT: Thanks, Richard. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Um, I wanna order a cab.
+AGENT: Thank you, Richard. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Medicare. Credit card.
+AGENT: We warmly accept cash, credit card, and Call and Ride only on this line. Since you mentioned credit card, I will proceed with that for your payment.
+AGENT: Thank you, Richard. Your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your cab ride?
+CALLER: Nine thousand Rockville Pike.
+AGENT: I have the pickup address as nine zero zero zero Rockville Pike, Bethesda, Maryland. Is that correct?
+CALLER: Building
+AGENT: Could you please clarify or provide more details about the building at nine zero zero zero Rockville Pike?
+CALLER: yes. Building 10 North. On Center Drive.
+AGENT: Thank you for the details. Just to confirm, your pickup address is nine zero zero zero Rockville Pike, Building 10 North, on Center Drive, Bethesda, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: It seems the address with Building 10 North on Center Drive at nine zero zero zero Rockville Pike could not be located. Could you please provide the complete street address including the city and state again?
+CALLER: It's nine thousand Rockville Pike Bethesda, Maryland building ten north on Center Drive.
+AGENT: I have the pickup address as nine zero zero zero Rockville Pike, Bethesda, Maryland. Is that correct?
+CALLER: Yes. Building 10 North.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: On Center Drive.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

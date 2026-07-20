@@ -1,0 +1,42 @@
+AGENT: Hi Joyce, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: K. Yes.
+AGENT: How can I assist you with your ride today?
+CALLER: I need a I need a new cab
+AGENT: I'd be happy to help you with that. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash
+AGENT: Thank you, cash it is. I'll proceed with your booking now.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Cash. 422 Valley Brook Drive Silver Spring, Maryland 20904.
+AGENT: Thank you for providing your pickup address as 4 2 2 Valley Brook Drive, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: I have 4 2 2 Valley Brook Drive, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: White oak libeary
+AGENT: I found White Oak Library at 1 1 7 0 1 New Hampshire Avenue, Silver Spring, Maryland. Is that the correct dropoff location?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Joyce.
+AGENT: When would you like to be picked up?
+CALLER: Nail,
+AGENT: Could you please clarify what time you would like to be picked up?
+CALLER: Nail
+AGENT: I want to make sure I understand you correctly. Are you saying "now" for your pickup time?
+CALLER: Yes.
+AGENT: Thank you. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thank you for letting me know no wheelchair is needed. How many passengers will be traveling, including yourself?
+CALLER: One only one passenger, me.
+AGENT: Got it, one passenger including yourself. Do you have any special instructions or notes for the driver?
+CALLER: So That's wrong.
+AGENT: I understand you think something is wrong. Could you please tell me which part you'd like to correct or change?
+CALLER: One person
+AGENT: Thank you for confirming one person. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 7 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 1:17 PM. Your confirmation number is 2 1 3 6 7 8 2 3 9. Is there anything else I can help you with?
+CALLER: Repeat the confirmation number.
+AGENT: The confirmation number for your main trip is 2 1 3 6 7 8 2 3 9. Is there anything else I can assist you with?
+CALLER: No, that's it. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Joyce. Have a wonderful day.

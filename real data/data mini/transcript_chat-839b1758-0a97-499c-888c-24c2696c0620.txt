@@ -1,0 +1,18 @@
+AGENT: Hello Elizabeth, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi.
+AGENT: Thank you for reaching out. How would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your taxi ride?
+CALLER: One six two two zero South Frederick Road,
+AGENT: I couldn't locate 1 6 2 2 0 South Frederick Road. Could you please provide the city and state for this address?
+CALLER: or Frederick Avenue. Sorry.
+AGENT: Thank you for the clarification. Could you please provide the full street number along with Frederick Avenue, as well as the city and state? This will help me find the exact pickup location for you.
+CALLER: One six two two zero Frederick Avenue, Rockville, Maryland.
+AGENT: I found several locations on Frederick Avenue in Rockville, Maryland:
+
+1. Shell at 1 5 7 0 1 Frederick Road
+2. 1 5 5 5 5-D Frederick Road
+3. Exxon at 1 5 2 1 1 Frederick Road
+4. U-Haul Neighborhood Dealer at 1 5 2 1 1 Frederick Road
+5. Meineke Car Care Center at 1 5 1 2 7 Frederick Road

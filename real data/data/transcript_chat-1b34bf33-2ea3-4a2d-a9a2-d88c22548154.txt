@@ -1,0 +1,40 @@
+AGENT: Hi Pamela, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a pickup.
+AGENT: Alright, how
+CALLER: one four five one
+CALLER: I need a pickup at one four five one zero Homecrest Road.
+AGENT: Thanks for sharing your pickup address at 1 4 5 1 0 Homecrest Road. Now, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash, please.
+AGENT: Okay so I've got that payment noted as cash.
+AGENT: Could you please provide the full pickup address
+CALLER: My
+AGENT: Uh, I am sorry, but could you please repeat that? I didn't catch the full pickup address.
+CALLER: the pickup address is one four five one zero
+AGENT: Hmm, let me check
+CALLER: Holmcrest one word, Road, Homecrest Road, What is the problem?
+AGENT: Thank you for clarifying. Just to confirm, is your pickup address 1 4 5 1 0 Homecrest Road?
+CALLER: Yes.
+AGENT: Okay, so I found that location. Is your pickup address 1 4 5 1 0
+CALLER: No.
+AGENT: I see, thank you for letting me know. Could you please provide the correct pickup address again?
+CALLER: One four five one zero Homecrest Road, Silver Spring.
+AGENT: Okay, so I found that location. Is
+CALLER: Maryland
+AGENT: Okay, so I found that location. Is your pickup address 1 4 5 1 0 Homecrest Road, Aspen Hill, Maryland?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: My destination is one three seven eight one Connecticut Avenue. Silver Spring.
+AGENT: Okay, so I found that location. Is your dropoff address 1 3 7 8 1 Connecticut Avenue, Silver Spring, Maryland?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Pamela. I will now proceed with the next steps for your trip.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: In fifteen minutes.
+AGENT: Okay great! I've got your pickup time set for today at 2:06 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: No. No one else.
+AGENT: Okay great! I've got 1 passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: No. I do not. I wish they would hurry. You're my third attempt
+AGENT: Alright, the estimated fare is 9 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. I'll call when I need a pickup.
+AGENT: Okay, I understand you prefer to call when you need a pickup. I'll go ahead and book your one-way trip now. <emotion value="peaceful"/>
+AGENT: Okay, so your return trip will be will-call, with pickup at 13781 Connecticut Avenue and dropoff at 14510 Homecrest Road. The fare is 9 dollars, paying with cash. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: No.

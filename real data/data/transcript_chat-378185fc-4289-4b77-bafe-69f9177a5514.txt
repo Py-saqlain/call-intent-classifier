@@ -1,0 +1,32 @@
+AGENT: Hello Jamier, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Question to driver.
+AGENT: Uhh, could you please tell me what question you have for the driver? I'll do my best to assist you. <emotion value="peaceful"/>
+CALLER: No. Requesting a driver.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 557 West Diamond Avenue. Bakersfield, Maryland 20877.
+AGENT: Hmm, I couldn't find 557 West Diamond Avenue in Bakersfield, Maryland. Could you please confirm the city or nearby landmark, or provide any additional details to help locate the pickup address? <emotion value="apologetic"/>
+CALLER: It's five five seven West Gate West Diamond Avenue, Gaithersburg. Maryland. Gaithersburg,
+AGENT: Okay, so I found 5 7 5 West Diamond Avenue, Gaithersburg, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Drop off address is one one one six Criswell Lane, Silver Spring, zero two zero nine zero one.
+AGENT: I found 1 1 1 6 Snider Lane, Silver Spring, Maryland. Is that the correct dropoff address? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, Jamier.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now.
+AGENT: Okay great! I've got your pickup time set for right now. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thanks for letting me know there will be one passenger. Will you be needing a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. And only one passenger.
+AGENT: Okay, I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare is 44.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 10:03 PM. Your confirmation number is 2 1 3 6 7 2 7 8 1. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Jamier. Have a wonderful day!

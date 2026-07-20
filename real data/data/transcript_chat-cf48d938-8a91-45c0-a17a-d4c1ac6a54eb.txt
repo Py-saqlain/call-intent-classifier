@@ -1,0 +1,28 @@
+AGENT: Hello Seth, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like a cab.
+AGENT: Thank you for choosing us for your ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Card.
+AGENT: Thank you, your payment by credit card is all set.
+AGENT: Could you please tell me the pickup address for your cab ride?
+CALLER: Six zero seven zero California Circle, Rockville Maryland two zero eight five two apartment four zero four
+AGENT: I have the pickup address as six zero seven zero California Circle, North Bethesda, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Six four one zero Rockledge Drive, suite four zero two bethesda Maryland two zero eight one seven.
+AGENT: I have the dropoff address as six four one zero Rockledge Drive, Bethesda, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Seth. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: Now.
+AGENT: How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger.
+AGENT: Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions for the driver?
+CALLER: If you get your quickly and can get me to my appointment, by 09:10, I will add an extra, keyword extra, two dollars to your tip.
+AGENT: The estimated fare is 12 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking your one-way trip. Just to confirm, you want a pickup now from 6 0 7 0 California Circle to 6 4 1 0 Rockledge Drive, one passenger, no wheelchair, paying with Self, aiming to arrive by 9:10 am with your special tip note included. Should I go ahead and book this trip?
+CALLER: Yes.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 4 3

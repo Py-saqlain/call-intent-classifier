@@ -1,0 +1,14 @@
+AGENT: Hi Wanda, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I'm calling, um, to see if my ride is here I am at one zero two one eight Springwood Road. I am with the medic Medicaid transportation.
+AGENT: I don't see any active trip scheduled for you right now. Would you like me to help you book a ride?
+CALLER: Yeah. It's with the Medicaid program transportation.
+AGENT: Thank you for letting me know about the Medicaid program. For this ride, we accept payment by cash, credit card, or Call and Ride. How would you like to pay today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: With Medicaid transportation program, I don't pay.
+AGENT: I understand that you mentioned Medicaid transportation, but for this service, we only accept cash, credit card, or Call and Ride as payment methods. If you'd like, I can connect you to a live agent who may be able to assist with Medicaid-related options. Would you like me to do that for you?
+CALLER: Okay.
+CALLER: Mhmm.
+AGENT: I'm connecting you now to a customer service representative who can assist you further. Please stay on the line.
+AGENT: I'm connecting you now to a customer service representative who can assist you further. Please stay on the line.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you.

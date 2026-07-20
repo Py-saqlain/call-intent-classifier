@@ -1,0 +1,47 @@
+AGENT: Hello Viga, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Alright. I'm ready.
+AGENT: I don't see any active trips scheduled for you right now. Would you like me to help you book a ride?
+CALLER: Yeah.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: It's very good.
+AGENT: Thank you! Just to confirm, how would you like to pay for your ride today? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? If you'd like, I can use your home address at 5 5 3 0 Wisconsin Avenue, Chevy Chase, Maryland. Would that work for you? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, please provide the pickup address you'd like us to use. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: For it's seven two seven six Wisconsin Let me do this.
+AGENT: Thank you. Just to confirm, is your pickup address 7 2 7 6 Wisconsin Avenue? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I found your pickup address as 7 2 7 6 Wisconsin Avenue, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Two eight five zero Quebec
+AGENT: Thank you. Just to confirm, is your dropoff address 2 8 5 0 Quebec? <emotion value="peaceful"/>
+CALLER: Street Northwest,
+AGENT: Okay, so I found your dropoff address as 2 8 5 0 Quebec Street Northwest, Washington, District of Columbia. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah.
+AGENT: Your dropoff address has been verified, Viga.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Yeah. It's good.
+AGENT: Could you please tell me the time you would like to be picked up? <emotion value="hesitant"/>
+CALLER: Now, I guess. I don't know what that means.
+AGENT: Okay, I've noted your pickup time as now. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: The one person. Alright.
+AGENT: Okay great! I've got that noted for one passenger. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah.
+AGENT: Okay great! I've noted that you will need a wheelchair accessible vehicle. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No. No. No. No. No. Alright. Alright. Okay. It's not good. Alright.
+AGENT: Alright, the estimated fare is 15 dollars, paying with credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Possibly.
+AGENT: Just to clarify, would you like me to set up a return trip for you now, or would you prefer to decide later? <emotion value="hesitant"/>
+CALLER: I have no idea.
+AGENT: No problem at all. If you want, I can hold off on the return trip for now, and you can always call back later to arrange it when you’re ready. Would you like me to proceed with booking just the one-way trip for now? <emotion value="peaceful"/>
+CALLER: Could I don't know. Alright. I I don't know. Maybe just forget it.
+AGENT: Thank you for your patience. Your main trip is scheduled for today at 8:43 AM. Your confirmation number is 2 1 3 6 7 4 6 1 0. Is there anything else I can assist you with?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yeah. I'm ready. I'm ready. Okay.
+AGENT: I’m unable to contact the driver directly, but I can connect you with a representative who can help with any messages or issues for the driver. Would you like me to do that for you?

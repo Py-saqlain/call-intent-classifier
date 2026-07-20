@@ -1,0 +1,22 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Kim Pipari?
+CALLER: Yes.
+AGENT: Thanks for confirming, Kim. This is Barwood & Regency. How can I assist you today?
+CALLER: Taxi. Two sixty eight twenty three New Hampshire Avenue, Silver Springs.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Colon rise.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Thirty four five two two zero.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Okay, so I found 4 8 5 1 New Hampshire Avenue, Takoma Park, Takoma Park, Maryland. Is that the
+CALLER: No. I said sixty eight twenty three. Operator.
+AGENT: Hmm, I couldn't find 2 6 8 2 3 New
+CALLER: You can say $48.51. I hate this machine. I hate borrowing.
+AGENT: I understand this can be frustrating. Let's try again to get your pickup address right. Could you please
+CALLER: No.
+AGENT: I
+CALLER: Six eight two three. Six eight two three New Hampshire Avenue.
+AGENT: I can help you get that pickup address right — want to continue?
+CALLER: Yes.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

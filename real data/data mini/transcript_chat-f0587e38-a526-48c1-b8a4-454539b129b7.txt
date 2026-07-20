@@ -1,0 +1,17 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Lisa Lilley?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready. For what? What do you wanna know if I'm ready for?
+AGENT: I just wanted to confirm if I’m speaking with Lisa Lilley so I can assist you properly. Is that correct?
+CALLER: This is Lisa Lilly. Yes. This is Lisa Lilly. This is Lisa Lilly. Yes. This is Lisa Lily. That's me.
+AGENT: Thanks, Lisa. This is Ana from Barwood & Regency. Your pickup is scheduled for today at 12:30 PM. How can I help you today?
+CALLER: I need to make another pickup. I need to pick up at 10:00.
+AGENT: You already have trips from Rockville to Derwood at 12:30 PM and back at 7 PM today. What would you like to do?
+CALLER: I'd like to go to well, I don't have the address.
+AGENT: Okay, if you don’t have the address, I can help you find it or you can provide any nearby landmark or name. Would you like me to connect you with someone who can assist with that?
+CALLER: Holy crust. Holy Cross Hospital, Germantown. Is on Observation Drive Holy Cross, in Germantown. It's on Observation Drive. Hello? Hello? Hello?
+AGENT: You still have trips from Rockville to Derwood at 12:30 PM and back at 7 PM today. Would you like to book this new trip to Holy Cross Hospital with help from a representative?
+CALLER: I need to go to Holy Cross Hospital Observation Drive in Germantown. At 10:00?
+AGENT: Since you already have trips scheduled today, I can connect you with a representative who can help you book this new trip to Holy Cross Hospital at 10:00. Would you like me to do that?
+CALLER: Okay.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Yes please

@@ -1,0 +1,25 @@
+AGENT: Hi jay, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need I need a taxi from Costco to my home, to Northwest Bright.
+AGENT: Thank you for sharing your trip details. How would you like to pay for your ride? We accept cash, credit card, and
+CALLER: Cash. Cash. Cash.
+AGENT: Thank you for choosing cash as your payment method.
+AGENT: I wasn't able to find a Costco near 7 6 0 5 Georgia Avenue Northwest Washington DC. Could you please provide the full street address for the pickup location?
+CALLER: Uh, Castor Diaz meal. What is the address on the issue?
+AGENT: Just to clarify, are you saying the pickup location is "Castor Diaz meal"? Could you please confirm or provide the street number for that address?
+CALLER: Costco in Wheaton. Costco Wheaton. Castle Wheaton. Diaz me up.
+AGENT: Thank you for clarifying. Could you please provide the street number for the Costco in Wheaton? If you don't know the number, I can search for Costco locations in Wheaton for you.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello? The passport address is eleven eleven one six zero. Versus Mill Road,
+AGENT: Thank you for the address. Just to
+CALLER: Hello? Okay.
+AGENT: I found several places at 11160 Veirs Mill Road in Wheaton. Here are some options: Macy's, Target, McDonald's at Wheaton Mall, CVS Pharmacy, and ALDO. Which one would you like to use as your pickup location?
+CALLER: Costco and ranch.
+AGENT: I didn't see a Costco at 11160 Veirs Mill Road. Could you please provide a bit more detail or another nearby landmark or street number for the Costco in Wheaton?
+CALLER: Okay. Man does Terry
+AGENT: Could you please clarify or provide more details about the pickup location? If you have a street number or nearby landmark, that would help me find it for you.
+CALLER: The this street number is eleven eleven eleven one six zero Bears Mill Road, Castro entrance main entrance.
+AGENT: At 11160 Veirs Mill Road in Wheaton, I found Macy's, Target, McDonald's at Wheaton Mall, CVS Pharmacy, and ALDO. Which one is closest to the main entrance you mentioned, or which would you like to use as your pickup location?
+CALLER: I like to use Costco. Costco.
+AGENT: I understand you want to use Costco as your pickup location, but I don't see a Costco at 11160 Veirs Mill Road. Could you please provide the street number or a nearby landmark for the Costco in Wheaton?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Thank you.

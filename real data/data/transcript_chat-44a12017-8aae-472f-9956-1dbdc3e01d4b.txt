@@ -1,0 +1,31 @@
+AGENT: Hello Barry, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I had taxi come to two zero nine one zero Credit Road.
+AGENT: Thank you for confirming the address at two zero nine one zero Credit Road. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, cash it is.
+AGENT: I have the pickup address as two zero nine one zero Frederick Road, Germantown, Maryland. Is that correct?
+CALLER: Correct. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. Two three five two eight Forest Haven Way.
+AGENT: Thank you. I will check the address at two three five two eight Forest Haven Way.
+AGENT: I have the dropoff address as two three five two eight Forest Haven Way, Clarksburg, Maryland. Is that correct?
+CALLER: Correct. Yes.
+AGENT: Your dropoff address has been verified. Thank you, Barry.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two.
+AGENT: Will anyone be needing a wheelchair-accessible vehicle?
+CALLER: Well, yes.
+AGENT: Do you have any special instructions or information for the driver?
+CALLER: Yes.
+AGENT: Please tell me the special instructions or information you'd like the driver to know.
+CALLER: Tom, not right now. As soon as possible.
+AGENT: The estimated fare is 16 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now?
+CALLER: Okay. Yes.
+AGENT: I am now booking your trip.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 5 8 6. The pickup is scheduled for today at 6:56 PM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Barry. Have a great day!

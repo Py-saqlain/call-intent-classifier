@@ -1,0 +1,31 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Dana Bowen?
+CALLER: Yep.
+AGENT: Thanks for confirming, Dana. This is Barwood & Regency. How can I assist you today?
+CALLER: I need a job right now.
+AGENT: Uhh, I want to make sure I understand you correctly — are you looking to book a ride right now? <emotion value="hesitant"/>
+CALLER: I Yeah, cat. You know what? I'm gonna get up and go to my favorite bus stop. I'm gonna get a fuck. What's up? I need a taxi, barely.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Right now.
+AGENT: I want to make sure I understand you correctly — are you saying you want to pay right now, or are you telling me when you want the ride? Could you please tell me how you'd like to pay? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Thanks for that. Just to be clear, would you like to pay with cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: One nine one nine seven one eight Crystal I mean, uh, Century Boulevard,
+AGENT: Okay, let me check that address. One nine one nine seven one eight Century Boulevard. <emotion value="peaceful"/>
+AGENT: I couldn't find that address. Could you please provide the full street address including the city and state? <emotion value="apologetic"/>
+CALLER: Jones Hill Safeway. I know you
+AGENT: Thanks for that. Since "Jones Hill Safeway" is a business name, I'll look it up for you. <emotion value="peaceful"/>
+AGENT: I found a few Safeway locations. Option one: 20211 Goshen Road, Gaithersburg, Maryland. Option two: 403 Redland Boulevard, Rockville, Maryland. Option three: 5510 Norbeck Road, Rockville, Maryland. Which one is correct? <emotion value="hesitant"/>
+CALLER: Quiet in Germantown. On Central Boulevard.
+AGENT: Thanks for that. Just to clarify, are you saying the pickup is on Century Boulevard in Germantown, Maryland? <emotion value="hesitant"/>
+CALLER: Yes. Take away.
+AGENT: Okay, let me check Century Boulevard in Germantown, Maryland for you. <emotion value="peaceful"/>
+AGENT: I found a few locations on Century Boulevard in Germantown, Maryland. Option one: 20025 Century Boulevard, Germantown. Option two: 19941 Century Boulevard, Germantown. Option three: 20111 Century Boulevard, Suite C, Germantown. Option four: 20013 Century Boulevard, Germantown. Option five: 20010 Century Boulevard, Suite 100, Germantown. Which one is correct? <emotion value="hesitant"/>
+CALLER: Good. Good. Just worry. Same place. Place.
+AGENT: Just to make sure I understand, are you confirming the pickup address as 20025 Century Boulevard, Germantown, Maryland? <emotion value="hesitant"/>
+CALLER: Right.
+AGENT: Your pickup address has been verified. Now, I will look for the bus stop you want to go to. <emotion value="peaceful"/>
+AGENT: I found a few bus stops. Option one: Woodfield Road and
+CALLER: Mister.

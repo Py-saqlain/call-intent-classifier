@@ -1,0 +1,10 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Paul, I was waiting for a kid. Well, I had to show him up yet.
+AGENT: Thanks, Paul. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Oh, I'm on the way at you, because I was waiting for a father to come and get me and it hadn't shown up yet.
+AGENT: I understand you're on your way and waiting for someone to pick you up. Is there something I can assist you with regarding a ride or booking?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay. I will. Thank you.
+AGENT: If you need any help with booking a ride or have any questions, just let me know. I'm here to assist you.
+CALLER: Okay. I will.
+AGENT: Is there anything else I can

@@ -1,0 +1,47 @@
+AGENT: Hello Luis, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I'd like to schedule a ride with my call and ride card, please.
+AGENT: Thank you for letting me know you'd like to use your Call and Ride card. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Once give me a minute.
+AGENT: Take your time. Just let me know the last six digits of your Call and Ride card whenever you're ready.
+CALLER: Okay.
+AGENT: Whenever you're ready, please provide the last six digits of your Call and Ride card so I can proceed with the payment verification.
+CALLER: Okay, Anna. I'm getting it. Sorry. Okay. It's it is
+AGENT: No problem at all. Please go ahead and say the last six digits of your Call and Ride card when you're ready.
+CALLER: Thank
+AGENT: I didn't catch the digits yet. Could you please say the last six digits of your Call and Ride card?
+CALLER: Three one five
+AGENT: I heard "three one five," but I need six digits for your Call and Ride card. Could you please provide the full six-digit number?
+CALLER: Three one five eight nine two.
+AGENT: Thank you for providing the digits. Your payment method Call And Ride has been verified.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Five two two five Pook Hill Road in Bethesda.
+AGENT: I have 5 2 2 5 Pooks Hill Road, Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Correct.
+AGENT: Could you please tell me the destination or dropoff address for your ride?
+CALLER: Seventeen o one
+AGENT: Could you please provide the full street name and city for the dropoff address at seventeen o one?
+CALLER: Correct. Seventeen o one Yes. Seventeen o one Brock
+AGENT: Could you please confirm the full dropoff address including the street number, street name, and city? For example, "seventeen o one Brock Avenue, [city]."
+CALLER: Yes. Seventeen o one Brock Seventeen o one Rockville
+AGENT: I have 1 7 0 1 Arbutus Avenue, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: No. 1701 Rockville Pike.
+AGENT: I have 1 7 0 1 Rockville Pike, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Luis. I'll proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: Two fifteen. Today.
+AGENT: Just to confirm, you would like to be picked up today at 2:15 PM, correct?
+CALLER: Yes.
+AGENT: Thank you for confirming your pickup time at 2:15 PM today. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No, just myself one person and no no special accommodations.
+AGENT: Luis, the estimated fare for your trip is 14.5 dollars, paying with Call And Ride. Would you like to schedule a return trip as well?
+CALLER: No, that's okay. Thank you.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 2:15 PM. Your confirmation number is 2 1 3 6 7 9 4 5 2. Is there anything else I can help you with?
+CALLER: Did you repeat that confirmation?
+AGENT: Yes, your confirmation number is 2 1 3 6 7 9 4 5 2 for your trip today at 2:15 PM. Is there anything else I can assist you with?
+CALLER: No, that's okay. Thank you very much, Anna.
+AGENT: Thank you for calling Barwood & Regency, Luis. Have a wonderful day!
+CALLER: Thank you.

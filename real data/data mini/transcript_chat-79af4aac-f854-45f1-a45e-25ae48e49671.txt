@@ -1,0 +1,10 @@
+AGENT: Hello Josephine, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like to to you. The tablet. Taken off to Walmart. These I thank you.
+AGENT: I want to make sure I understand you correctly. Are you looking to book a ride to Walmart? If so, could you please tell me your pickup address and when you would like to be picked up?
+CALLER: I would like to get
+AGENT: Could you please tell me where you would like to be picked up from?
+CALLER: I you're you're ready. I I calling already so I'm just waiting for the text for regency. To to to Walmart right now.
+AGENT: I don't see an active trip to Walmart right now. Would you like me to help you book one?
+CALLER: No. I I already booked the trip to Walmart. This afternoon. And I'm waiting for the the the the whatever to come and take me to Walmart. I booked the trip already.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Yeah.

@@ -1,0 +1,19 @@
+AGENT: Hello, Ahsaint. This is Ana from Barwood & Regency. Vehicle 1009 is on the way and will arrive in approximately 18 minutes. Also, you have a will-call trip scheduled today from 655 Watkins Mill Road in Gaithersburg to 9308 Willow Creek Drive in Montgomery Village. How can I assist you today?
+CALLER: My pickup. Is 18207 Last Dice Circle,
+AGENT: Looks like you already have trips from Montgomery Village to Gaithersburg at 9:15 am today, and from Gaithersburg to Montgomery Village as a will-call today. What would you like to do? <emotion value="grateful"/>
+CALLER: Apartment 103, Yes.
+AGENT: Could you please clarify if you want to update your pickup or dropoff address to Apartment 103, or if this is for a new trip?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Your current ride is already on the way — did you also want to activate your will-call trip? <emotion value="grateful"/>
+CALLER: It see the middle apartment. It turn up on the right.
+AGENT: It sounds like you might be describing your location, but just to be sure, are you asking to activate your will-call trip now, or is there something else I can assist you with?
+CALLER: No. I'm going to the hospital. No. Don't buy Kaiser. I'm waiting for the taxi.
+AGENT: Okay, so your driver is about 18 minutes away from 9:40 am for your current trip to the hospital. Is there anything else I can help you with? <emotion value="content"/>
+CALLER: It's 09:30. It's 09:15, they said.
+AGENT: Hmm, let me check that for you. <emotion value="peaceful"/>
+Your pickup was scheduled for 9:15 am, and the driver is currently estimated to arrive around 9:40 am, so there is a bit of a delay. Would you like me to connect you with someone who can assist further?
+CALLER: Okay. Now I'm waiting for the tax No. I'm outside waiting.
+AGENT: I'm really sorry about the wait. Let me connect you with a representative who can help right away. <emotion value="sympathetic"/>
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Okay.

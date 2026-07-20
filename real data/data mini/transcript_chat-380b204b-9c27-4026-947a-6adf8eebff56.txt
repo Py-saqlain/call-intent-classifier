@@ -1,0 +1,11 @@
+AGENT: Hello Alba, this is Ana from Barwood & Regency. I see you have a will-call trip scheduled today from 1 2 2 0 1 Plum Orchard Drive to 1 7 2 5 Staley Manor Drive in Silver Spring. How can I assist you today?
+CALLER: No. Correct. What you want me to do is cooking.
+AGENT: I want to make sure I understand you correctly. Are you looking to book a ride, or is there something else I can assist you with today?
+CALLER: I'd like you to send me a copy, please.
+AGENT: Could you please clarify what kind of copy you would like me to send you? Are you referring to a copy of a booking confirmation, receipt, or something else?
+CALLER: I would like to get a taxi, please.
+AGENT: Looks like you already have a trip from 1 2 2 0 1 Plum Orchard Drive to 1 7 2 5 Staley Manor Drive scheduled as a will-call for today. What would you like to do next?
+CALLER: I would like to speak to a representative, please.
+AGENT: I can actually help with will-call activation right here — usually faster than waiting for an agent. What do you need today?
+CALLER: I call a cab this morning, and they never showed up. I have to reschedule my appointment. I have an appointment for 02:00. Could you send me a call, please?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

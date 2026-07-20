@@ -1,0 +1,18 @@
+AGENT: Hi Peter, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Uh, the need for from from you.
+AGENT: Uhh, could you please tell me a bit more about what you need help with today? <emotion value="peaceful"/>
+CALLER: I think had a call I had a an appointment for a pickup but I think it was slowed down.
+AGENT: Uhh, I checked and it looks like you don't have an active trip scheduled right now. Would you like me to help you book a new pickup? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Just to confirm, you want to cancel the booking and not schedule a new trip, is that right? <emotion value="hesitant"/>
+CALLER: Not for today.
+AGENT: Thanks for clarifying. Would you like to schedule a pickup for another day instead? <emotion value="peaceful"/>
+CALLER: I thought it was canceled. But if it is not canceled, then it could be used. Can I have the pickup?
+AGENT: Alright, I will help you arrange a pickup. Let me start by confirming your payment method. <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your pickup? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I'm with metro access, so I don't pay anything.
+AGENT: I understand you mentioned Metro Access, but for this line we only accept cash, credit card, or Call and Ride as payment methods. Could you please let me know which of these you'd like to use? <emotion value="peaceful"/>
+CALLER: Add on note, sir. Somebody called me. I don't know. I'm calling about the the call. It was a missed call. You can forget about it.
+AGENT: Thanks for letting me know. Now, how would you like to pay for your pickup? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Hi.
+AGENT: Hello! How would you like to pay for your pickup? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>

@@ -1,0 +1,33 @@
+AGENT: Hi Alex, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I need to make a reservation.
+AGENT: I'd be happy to help with your reservation. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: I'm going to pay with credit card.
+AGENT: Thank you for letting me know you'll be paying with credit card. Your payment method is set as Credit Card.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 800 South Frederick Avenue,
+AGENT: I have 8 0 0 South Frederick Avenue, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yes. That's correct.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Yes. 730 21st Street Northwest in Washington, DC.
+AGENT: I have 7 3 0 21st Street Northwest, Washington, District of Columbia as your dropoff address. Is that correct?
+CALLER: Yes. That's correct.
+AGENT: Your dropoff address has been verified, Alex. I'll now proceed with the next steps for your reservation.
+AGENT: When would you like to be picked up?
+CALLER: Saturday at class PM.
+AGENT: I want to make sure I understood correctly—did you mean Saturday at 1 PM? Could you please confirm the exact time you want to be picked up on Saturday?
+CALLER: One passenger and no wheelchair and no instructions for the driver.
+AGENT: The estimated fare for your trip is 53.5 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: Yes. But keep it open for now.
+AGENT: I will set up an open will-call return trip for you.
+AGENT: Your return trip will be an open will-call trip, paying with your credit card, from 730 21st Street Northwest back to 800 South Frederick Avenue. The estimated fare is 53.5 dollars. Should I go ahead and book both trips now?
+CALLER: Yes.
+AGENT: Booking both trips now for you.
+AGENT: Thank you for waiting. I am now booking both your main trip and your open will-call return trip.
+AGENT: Your main trip is scheduled for July 18th at 1:00 PM with confirmation number 2 1 3 6 7 8 9 8 0. Your return trip is an open will-call trip with confirmation number 2 1 3 6 7 8 9 8 1. Is there anything else I can assist you with?
+CALLER: That is the one that's not
+AGENT: Could you please clarify what you mean by "That is the one that's not"? I want to make sure I understand correctly to assist
+CALLER: No. No. That's that's fine. I think that's what we did.
+AGENT: Great, I'm glad everything is as you wanted. If you need anything else, just let me know.
+CALLER: Thank you.
+AGENT: You're very welcome. If you need any further assistance, feel free to reach out anytime.
+AGENT: Take your time. Just let me know when you're ready.

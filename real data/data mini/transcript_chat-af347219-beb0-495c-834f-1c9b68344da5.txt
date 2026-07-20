@@ -1,0 +1,28 @@
+AGENT: Hello MS., this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab, taxi, barwood taxi.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: Okay. Scratch. Crush.
+AGENT: Hmmm.. that didn't seem right, could you try again? How would you like to pay? Cash, credit card, or Call and Ride?
+CALLER: Cash
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup
+CALLER: Okay.
+AGENT: Could you please provide the pickup address where the driver should come to get you? <emotion value="peaceful"/>
+CALLER: Pickup address What is the pickup address?
+AGENT: Yes, I’m asking for the pickup address. Where should the driver pick you
+CALLER: Fifty Maryland Avenue.
+CALLER: 50 Maryland Avenue.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: It's gonna be six eight one zero m e l o d y Melody Lane, Bitterstadt, Maryland two zero nine one zero. Two zero eight two.
+CALLER: Two zero eight one seven. Two zero eight one zero.
+AGENT: Hmm <break time="350ms"/> let me check that address. Could you
+CALLER: Two zero eight one zero.
+AGENT: I want to make sure I have the correct dropoff address.
+CALLER: Two zero eight one zero.
+AGENT: I’m sorry, I need a bit more information to find the dropoff address. Could you
+CALLER: Yeah. Yes.
+AGENT: I couldn't find Melody Lane near 50 Maryland Avenue in Rockville, Maryland. Could you please provide
+CALLER: The dropout Two no. No. No. Two two zero eight one seven.
+AGENT: Hmm <break time="350ms"/> let me check that address. Could you please repeat the full dropoff address including the street number, street name,
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: m e s. Okay.

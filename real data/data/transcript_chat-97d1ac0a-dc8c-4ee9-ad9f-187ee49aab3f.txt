@@ -1,0 +1,40 @@
+AGENT: Hello Dashrak, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I want to book a ride for tomorrow.
+AGENT: Alright, how would you like to pay for your ride tomorrow? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call on the ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: It is zero zero three five zero five four three.
+AGENT: Hmmm.. that didn't seem right, could you please say the last six digits of your Call and Ride card again? <emotion value="apologetic"/>
+CALLER: Three five
+AGENT: Could you please provide all six digits of your Call and Ride card? I only heard two digits so far. <emotion value="hesitant"/>
+CALLER: zero five
+AGENT: I’m still missing some digits. Could you please say all six digits of your Call and Ride card together? <emotion value="hesitant"/>
+CALLER: Three five zero zero
+AGENT: I’m still missing some digits. Could you please say all six digits of your Call and Ride card together? <emotion value="hesitant"/>
+CALLER: Three five zero zero three five zero five four three.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: It is two zero nine one zero Frederick Road, Germantown Maryland.
+AGENT: Okay, so your pickup address is 2 0 9 1 0 Frederick Road, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Twenty four seven hundred. Tandem Drive, Damascus
+AGENT: Okay, so your dropoff address is 2 4 7 0 0 Tandem Drive, Damascus, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Dashrak.
+AGENT: What time tomorrow would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 07:30PM. Evening, 07:30.
+AGENT: Okay great! I've got your pickup time as tomorrow at 7:30 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. But I will have PCA with me.
+AGENT: Thank you for letting me know you'll have a PCA with you. I've noted that no wheelchair is needed. <emotion value="grateful"/> How many passengers will be traveling, including yourself?
+CALLER: Two. Two passenger.
+AGENT: Alright, the estimated fare is 22.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: This is from Walmart. We are going home. So just one day. Yeah.
+AGENT: Thank you for the details. I’m processing your booking now. Please hold on a moment.
+CALLER: Sure.
+AGENT: I'm still working on your booking. Please give me just a moment.
+AGENT: Your main trip is scheduled for tomorrow at 7:30 PM. Your confirmation number is 2 1 3 6 7 3 4 9 2. Is there anything else I can help you with?
+AGENT: I'm still working on your booking. Please give me just a moment.
+AGENT: Your main trip is scheduled for tomorrow at 7:30 PM. Your confirmation number is 2 1 3 6 7 3 4 9 2. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Dashrak. Have a wonderful day!

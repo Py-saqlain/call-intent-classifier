@@ -1,0 +1,30 @@
+AGENT: Hello Tony, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm calling for Robert He is in Rockville that 04:10, he called. And he's waiting So I'm calling for him. To have him picked up to come to 14643 Power Drive.
+AGENT: Thank you for the information. Just to confirm, you want to arrange a pickup for Robert in Rockville around 4:10 pm, and the destination is 14643 Bauer Drive, Rockville, Maryland, correct? Also,
+CALLER: Because that
+AGENT: I want to make
+CALLER: Yes. Yes.
+AGENT: Thank you for confirming the details. How would Robert like to pay for this ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, cash payment is noted for Robert's ride.
+CALLER: Thank you.
+AGENT: I found several locations in Rockville. Would you like to be picked up at Mallory Square on Siesta Ky Way, The Gardens of Traville on Traville Gardens Circle, Bauer Park on Bauer Drive, or one of the apartments at 14632 Bauer Drive? Please let me know which one is correct.
+CALLER: The destination is one four six four three Dollar Drive.
+AGENT: Just to clarify, did you mean 14643 Bauer Drive for the destination?
+CALLER: Yes.
+AGENT: I have 1 4 6 4 3 Bauer Drive, Rockville, Maryland as the destination. Is that correct?
+CALLER: Yes.
+AGENT: I wasn't able to find a specific address for the pickup in Rockville near 14643 Bauer Drive. Could you please provide a more detailed pickup address or a nearby landmark or cross street?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?
+AGENT: Yes, I'm here to help. Could you please provide the detailed pickup address or a nearby landmark in Rockville?
+CALLER: It's four ten but I'm not sure of the street.
+AGENT: Thank you for that. Since you’re not sure of the street,
+CALLER: He called you and said where he was.
+AGENT: I understand. Could you please tell me any nearby landmarks, businesses, or cross streets around where he is waiting? That will help me find the pickup location more accurately.
+CALLER: Can you hold, please?
+AGENT: Of course, take your time. I'll be here when you're ready.
+CALLER: But thank you.
+AGENT: You're welcome. Whenever you're ready to provide the pickup details, just let me know.
+CALLER: I will do just that. I'll call you right back.
+AGENT: Thank you for calling Barwood & Regency, Tony. Have a wonderful day.

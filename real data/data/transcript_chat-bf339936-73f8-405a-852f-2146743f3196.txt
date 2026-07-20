@@ -1,0 +1,44 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Brian Druskin?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yeah. I want a taxi.
+AGENT: Thanks for confirming, Brian. This is Barwood & Regency. How can I assist you with your taxi ride today?
+CALLER: Yeah. I need a taxi from a giant store. To Circle.
+AGENT: Okay, you want a taxi from a Giant store to Circle. Could you please tell me which Giant store location you mean, or the city it's in? Also, is there a specific Circle you want to go to?
+CALLER: One two four two nine. Oh, Oh. Warming. Please. Excuse me?
+AGENT: Just to make sure I got that right, is your pickup location 1 2 4 2 9 Old Warming? Could you please confirm or clarify the street name?
+CALLER: On. 1242 now. 12429. 1 North Cove Circle. Germantown. Yeah.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Debit card?
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+CALLER: Excuse me. What do you say?
+AGENT: I’m here to help. Could you please provide the full address or name of the dropoff location you want? If you only know the street name, please tell me that and the street number if you have it.
+AGENT: Hmm <break time="350ms"/> let me check that address again. The address 1 2 4 2 9 North Cove Circle in Germantown, Maryland could not be found. Could you please confirm the street name or provide any nearby landmarks or cross streets to help me locate it? <emotion value="apologetic"/>
+CALLER: Hello. Why is that gentleman here?
+AGENT: I’m here to assist you with your taxi ride. Could you please tell me the correct pickup address again so I can help you book your ride?
+CALLER: What do you say you want? Take me from the Middlebrook Road.
+AGENT: Thank you. Could you please provide the street number on Middlebrook Road for your pickup?
+CALLER: What do you say you want? Take me from the Middlebrook Road. Yeah. Hold on. It's at one three zero six zero. One three zero six zero. Mini Brook Road, Giant everybody? Hello? Hello?
+AGENT: Okay, so your pickup is 1 3 0 6 0 Middlebrook Road, Germantown, Maryland. Is that correct?
+CALLER: Yeah. Yeah. One three zero six zero, Meadowbrook Road.
+AGENT: I found a few locations for Circle in Germantown, Maryland. 
+Option one: 18832 Bent Willow Circle. <break time="500ms"/> 
+Option two: 19228 Circle Gate Drive. <break time="500ms"/> 
+Option three: 12825 Wisteria Drive. <break time="500ms"/> 
+Option four: 12912 Falling Water Circle. <break time="500ms"/> 
+Option five: 19709 Executive Park Circle number two. <break time="500ms"/> 
+Which one would you like?
+CALLER: What's that? This one, you are picking me how much location. It's at the one three zero six zero Middlebrook Road,
+AGENT: Yes, your pickup is confirmed at 1 3 0 6 0 Middlebrook Road, Germantown, Maryland. Now, please let me know which of the Circle locations in Germantown you would like to go to from the list I provided.
+CALLER: 104 Circle. Yeah.
+AGENT: I didn't catch the full address for the dropoff. Could you please provide the street number and the full street name for the Circle location you want to go to?
+CALLER: The one two four two nine.
+AGENT: Thank you. Just to confirm, is your dropoff address 1 2 4 2 9 Circle Gate Drive, Germantown, Maryland?
+CALLER: 124291 North Cove.
+AGENT: Hmm <break time="350ms"/> let me check that address. I want to make sure I have it right. You said 1 2 4 2 9 1 North Cove? Could you please confirm the street name and city again? <emotion value="hesitant"/>
+CALLER: Now Walmart's. Yeah. 1242910 Circle, Germantown.
+AGENT: I want to make sure I understand correctly. Is your dropoff address 1 2 4 2 9 1 0 Circle, Germantown, Maryland? Could you please confirm or clarify the street name or any nearby landmarks?
+CALLER: No. No.
+AGENT: Okay, no problem. Could you please provide the dropoff address again? If you only know part of it, any additional details like street number, street name, or nearby landmarks would be very helpful.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Walnut cove circle.
+AGENT: Thank you for that. Just to

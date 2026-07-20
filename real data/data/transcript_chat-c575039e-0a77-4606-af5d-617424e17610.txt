@@ -1,0 +1,32 @@
+AGENT: Hello, Hirshberg. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a taxi.
+AGENT: Thank you for choosing us for your taxi ride. How would you like to pay for your trip? We accept cash, credit card,
+CALLER: Credit.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your taxi ride?
+CALLER: Six one zero zero Davenport Terrace, Bethesda.
+AGENT: I have the pickup address as six one zero zero Davenport Terrace, Bethesda, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Reagan Airport.
+AGENT: I have the dropoff address as two four zero one Smith Boulevard, Arlington, Virginia. Is that correct?
+CALLER: Is that DCA Airport?
+AGENT: Yes, two four zero one Smith Boulevard, Arlington, Virginia is the address for Ronald Reagan Washington National Airport, also known as DCA Airport. Should I proceed with this dropoff address?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Mr. Hirshberg. I will now proceed with arranging your taxi ride.
+AGENT: When would you like to be picked up?
+CALLER: 7AM tomorrow morning.
+AGENT: Thank you. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No wheelchair. Two passengers.
+AGENT: Got it, two passengers and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 34.5 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No. I wanna pick up at 7AM.
+AGENT: Just to confirm, your pickup time is tomorrow at 7 AM, correct?
+CALLER: Yes.
+AGENT: Thank you for confirming your pickup time at 7 AM tomorrow. Should I go ahead and book your trip now?
+CALLER: Yes.
+AGENT: I am booking your trip now.
+AGENT: Your trip is booked for tomorrow at 7 AM. Your confirmation number is 2 1 3 6 7 0 2 2 4. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Hirshberg. Have a wonderful day!

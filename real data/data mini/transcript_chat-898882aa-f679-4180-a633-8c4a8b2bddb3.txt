@@ -1,0 +1,17 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Tiana Sturkins.
+AGENT: Thanks, Tiana. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a wheelchair accessible tax
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Thank you for letting me know about the payment. Now, could you please tell me the pickup address for your wheelchair accessible taxi? <emotion value="peaceful"/>
+CALLER: One one five zero two Galt Avenue, Silver Spring, Maryland.
+AGENT: I found the pickup address as one one five zero two Amherst Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will disregard that address. Could you please repeat the pickup address again? <emotion value="apologetic"/>
+CALLER: One one five zero two galt Avenue, Silver Spring, Maryland.
+AGENT: I see the address you gave is coming up as one one five zero two Amherst Avenue, Silver Spring, Maryland. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide the pickup address again, maybe with any nearby landmarks or cross streets to help find it? <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

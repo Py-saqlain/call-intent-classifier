@@ -1,0 +1,8 @@
+AGENT: Hello Dung, this is Ana from Barwood & Regency. Vehicle 645 is on the way and will arrive for pickup in about 10 minutes at 9:42 am. Also, you have a will-call trip scheduled today from 15001 Shady Grove Road in Rockville to 12439 Falconbridge Drive in Gaithersburg. How can I assist you today?
+CALLER: Yeah. I just checked driver coming late. Right? What time they come in?
+AGENT: I'll check the status and estimated arrival time of your driver for you. Just a moment, please.
+AGENT: Okay, so your driver is about 7 minutes away and should arrive around 9:43 am. Is there anything else I can help you with?
+CALLER: No. Thank you. I just checked to make sure. They're coming. Okay. Thank you.
+AGENT: Uhh, so take your time getting ready. If you need to pass a message to the driver or have any issues, I can't contact the driver directly, but I can connect you with a representative who can help. Would you like me to do that for you? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

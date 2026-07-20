@@ -1,0 +1,18 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Name is Tedros, t e o d r o s. Last name is Hoglu, h a I l u.
+AGENT: Thank you, Tedros. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yes. I actually have a question. I'm trying to set up appointment for someone to take my daughter from Silver Spring to Chevy Chase, Maryland.
+AGENT: Okay, I can help with that. You want to arrange a ride for your daughter from Silver Spring to Chevy Chase, Maryland. Is there a specific date and time you would like the pickup to be?
+CALLER: Yes. Hold on. Mom. It'll be July 14. At 08:20AM.
+AGENT: Thank you for that. Just to confirm, you want a ride on July 14th at 8:20 am from Silver Spring to Chevy Chase, Maryland for your daughter. Is that correct? Also, do you know how many passengers will be riding and if there are any special needs or wheelchair requirements?
+CALLER: No. Just to one passenger.
+AGENT: Alright, how would you like to pay for this ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Okay. The is it possible to find out how much this ride will cost?
+AGENT: I don't have the fare information yet since we're still gathering your trip details. Meanwhile, how would you like to pay for this ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: No. Will be cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Hmm <break time="350ms"/> I couldn't find any locations for just "Silver Spring, Maryland" alone. Could you please provide a more complete pickup address, like a street number and street name in Silver Spring? <emotion value="apologetic"/>
+CALLER: Okay. It possible to talk to a live agent?
+AGENT: I can help you with the pickup address right now — would you like to continue?
+CALLER: No. Is it possible to talk to a live agent?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

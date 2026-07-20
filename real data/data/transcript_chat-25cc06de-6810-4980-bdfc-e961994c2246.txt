@@ -1,0 +1,34 @@
+AGENT: Hello Morris, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Escapotaxi.
+AGENT: How can I assist you with your taxi needs today? Would you like to book a ride?
+CALLER: I like to book a rhyme.
+AGENT: I'd be happy to help you book a ride. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Thank you for choosing Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three four three one nine one.
+AGENT: Thank you, your payment with Call and Ride has been verified.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Two zero zero one four. Frederick Road, Germantown, Maryland
+AGENT: I have 2 0 0 1 4 Frederick Road, Germantown, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Two zero nine zero eight Frederick Road, Germantown, Maryland
+AGENT: I have 2 0 9 0 8 Frederick Road, Germantown, Maryland as your dropoff address. Is that correct?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified. Thank you, Morris.
+AGENT: When would you like to be picked up?
+CALLER: Right now,
+AGENT: How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+CALLER: One passenger, no wheel to accessible vehicle.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 7.5 dollars, and you will be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now?
+CALLER: Yes.
+AGENT: I am booking your trip now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 3 2 3 2. Your pickup is today at 10:04 am. Is there anything else I can help you with?
+CALLER: That'll be all. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Morris. Have a wonderful day!

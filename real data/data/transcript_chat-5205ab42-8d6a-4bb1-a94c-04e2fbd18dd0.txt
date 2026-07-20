@@ -1,0 +1,32 @@
+AGENT: Hello Thomas, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, can I get picked up from 20002? Space, h o f f s c e a d, lane l n, Gadsburg, Maryland. ZIP code, 20886.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call
+CALLER: And yeah. Cached.
+AGENT: Okay so I've got cash noted for your payment. Let me process that for you now.
+AGENT: Okay so I've got that payment noted as cash.
+CALLER: Okay. And the location destination I'm getting to?
+AGENT: I have your pickup address as 2 0 0 0 2 Hoffstead Lane, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: I found your pickup address as 2 0 0 0 2 Hoffstead Lane, Gaithersburg, Maryland. Is
+CALLER: Right.
+AGENT: Your pickup address has been verified. Now, could you please tell me your destination or dropoff address? <emotion value="peaceful"/>
+CALLER: My my destination is Walmart. A Germantown
+CALLER: Maryland.
+AGENT: Let me check that location.
+AGENT: I found one location: Walmart Supercenter at 2 0 9 1 0 Frederick Road, Germantown, Maryland. Is that the correct destination? <emotion value="peaceful"/>
+I found one location: Walmart Supercenter at 2 0 9 1 0 Frederick Road, Germantown, Maryland. Is that the correct destination? <emotion value="peaceful"/>
+CALLER: Yes. Correct. Destination. And how much would it cost?
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Soon as possible.
+AGENT: Okay great! I've got your pickup time as today at 6:54 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. But I have a quick question. What is the price? From here to there?
+AGENT: The estimated fare for your main trip is $14.50. Now, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Just one. Traveling.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No. Nothing. Just No. Yeah. I I have enough. Yeah,
+AGENT: Alright, so let me confirm those details. Your pickup is 2 0 0 0 2 Hoffstead Lane. Your dropoff is 2 0 9 1 0 Frederick Road. Pickup time is today at 6:54 PM. You have one passenger traveling, no wheelchair needed, and payment will be by yourself. The estimated fare is 14 dollars and 50 cents, paying with your own payment method. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Okay.
+CALLER: No. No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 6:54 PM. Your confirmation number is 2 1 3 6 7 1 4 0 1. Is there anything else I can help you with?
+CALLER: You know, just Thank you.

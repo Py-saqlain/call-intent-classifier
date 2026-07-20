@@ -1,0 +1,49 @@
+AGENT: Hello MILA, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Taxi
+AGENT: How can I assist you with your taxi ride today?
+CALLER: One one six University Boulevard, Safeway,
+AGENT: Thank you for sharing your destination. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card. Credit card.
+AGENT: Thank you, your payment by credit card is all set.
+AGENT: I have 1 1 6 University Boulevard West, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: No. Destination. Pickup is 721 Beacon Road, Silver Springs.
+AGENT: I have 7 2 1 Beacon Road, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Thanks. Yes.
+AGENT: I found several Safeway locations: one at 2 0 2 1 1 Goshen Road, Gaithersburg, Maryland; another Safeway Pharmacy at the same address; a Safeway Bakery also at 2 0 2 1 1 Goshen Road, Montgomery Village, Maryland; and a Safeway Bakery at 4 0 3 Redland Boulevard, Rockville, Maryland. Which one would you like to go to?
+CALLER: University Boulevard
+AGENT: Just to clarify, are you asking to go to the Safeway located on University Boulevard, or would you like to change your destination to University Boulevard instead of Safeway?
+CALLER: Yes.
+CALLER: Safeway is on University Boulevard.
+CALLER: I
+AGENT: I found Safeway at 1 1 6 University Boulevard West, Silver Spring, Maryland. Is that the correct destination?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Mila.
+AGENT: When would you like to be picked up?
+CALLER: Twenty minutes.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: What Just one.
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thank you. Do you have any special instructions or notes for
+CALLER: No.
+AGENT: Mila, the estimated fare for your trip is
+CALLER: No. I I use a cane. That's all.
+AGENT: Thank you for letting me know about your cane. The estimated fare for your trip is 13 dollars, and the payment method on file is credit card. Would you like to schedule a return trip as well?
+CALLER: Yeah.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: No. Twenty minutes.
+AGENT: Just to confirm, do you mean you want to be picked up 20 minutes after your first trip, or at a specific time like 4:20 PM?
+CALLER: 05:00PM.
+AGENT: Your return trip pickup is scheduled for today at 5:00 PM. How many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: What One.
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle for the return trip?
+CALLER: No, ma'am.
+AGENT: For your return trip, I have the pickup address as 1 1 6 University Boulevard West and the dropoff address as 7 2 1 Beacon Road. Is that correct?
+CALLER: Correct.
+AGENT: The estimated fare for your return trip is 13 dollars, paying with Self. Should I go ahead and book both trips?
+CALLER: Yes.
+AGENT: Booking your trips now.
+AGENT: Your main trip is scheduled for today at 4:23 PM with confirmation number 2 1 3 6 6 5 7 9 6. Your return trip is scheduled for today at 5:00 PM with confirmation number 2 1 3 6 6 5 7 9 7. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, MILA. Have a wonderful day.
+CALLER: Bye bye.

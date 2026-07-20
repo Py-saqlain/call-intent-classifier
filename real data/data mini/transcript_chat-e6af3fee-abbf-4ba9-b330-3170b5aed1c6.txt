@@ -1,0 +1,9 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Duck Donald?
+CALLER: Hello? Hello? Hello? Can you hear me? Yes.
+AGENT: Yes, I can hear you clearly. Are you Duck Donald?
+CALLER: No. I'm not on that.
+AGENT: Thank you for letting me know. May I ask who I’m speaking with today? The names I have here include Lambert Okoro, Anthony Peete, Eva Everett, Marian Floyd, Maria Aguilara, Eric Hearn, Flori Liss, Florette Rhoden, Clifton, Ruby Watson, Charles Bailey, George Richmond, and Stuart Goins. Which one is yours?
+CALLER: Can I speak with an agent
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

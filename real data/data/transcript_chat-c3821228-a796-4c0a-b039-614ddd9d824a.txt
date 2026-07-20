@@ -1,0 +1,14 @@
+AGENT: Hello Maria, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi. Can I get a taxi to 199 Avenue? To two six Gettysburg, Hello? Hello?
+AGENT: Umm, I want to make sure I understand correctly. Are you asking for a taxi to 199 Avenue and then to 2 6 Gettysburg? Could you please clarify the full addresses or the exact destinations you want?
+CALLER: 199 Rollins Avenue, to 212 Brook Avenue in Gaithersburg. I need a taxi now.
+AGENT: Alright, how would you like to pay for your taxi? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Hello?
+AGENT: Yes, I'm here. How would you like to pay for your taxi? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmmm.. that didn't seem quite clear. Could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: Test. Oh, no. Catch. Cash. Let me me oh,
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so your dropoff address is 1 9 9 Rollins Avenue, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.

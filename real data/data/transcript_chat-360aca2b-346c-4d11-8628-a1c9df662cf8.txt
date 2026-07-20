@@ -1,0 +1,60 @@
+AGENT: Hi Sheryl, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to book a ride.
+AGENT: Thank you for choosing us for your ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?
+AGENT: I'm here to help. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Calm. Comma,
+AGENT: Did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: Please provide the last six digits of your Call and Ride card when you're ready.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Three four five nine one five.
+AGENT: Thank you, your payment with Call and Ride is all set.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 5th 036 Southport Drive, Bethesda, Maryland two zero eight one four.
+AGENT: I have 6 0 3 6 Southport Drive, Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Go ahead.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 104000 saying no number 7.
+AGENT: Could you please clarify the street name or the full address for the dropoff? The number you mentioned, 104000, seems incomplete without the street name.
+CALLER: 104 Drug Mill, Old Georgetown Road. But there's a
+AGENT: I have 1 0 4 0 0 Old Georgetown Road, Bethesda, Maryland as your dropoff address. Is that correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Sheryl.
+AGENT: When would you like to be picked up?
+CALLER: Now how long after was
+AGENT: Just to clarify, do you want to be picked up right now, or are you asking about a different pickup time?
+CALLER: But right now.
+AGENT: Got it, I'll arrange your pickup for right now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thank you. Will you need a wheelchair-accessible vehicle for this trip?
+CALLER: No.
+AGENT: Thank you. Do you have any special instructions or information for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 6 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: Love.
+AGENT: Just to clarify, are you saying you would like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Nine forty five.
+AGENT: Just to confirm, do you mean 9:45 AM or 9:45 PM for your return trip pickup time?
+CALLER: 9.8.
+AGENT: Could you please clarify if you mean 9:08 or 9:80? Also, is that AM or PM for your return trip pickup time?
+CALLER: Pickup time. 09:30 pickup time.
+AGENT: Thank you. How many passengers will be traveling on your return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thank you. Will you need a wheelchair-accessible vehicle for your return trip?
+CALLER: No.
+AGENT: For your return trip, I have the pickup address as 1 0 4 0 0 Old Georgetown Road, and the dropoff as 6 0 3 6 Southport Drive, Bethesda. Is that correct?
+CALLER: Correct.
+AGENT: The estimated fare for your return trip is 6 dollars, paying with your Call and Ride account. Should I go ahead and book both trips for you?
+CALLER: I didn't cut down what time I want you picked up.
+AGENT: Thank you for letting me know. What time would you like to be picked up for your return trip?
+CALLER: Yes. What time you're pick me up? It might be best for the 09:30 is
+AGENT: Just to confirm, you want your return trip pickup scheduled for 9:30 am, correct?
+CALLER: call it Well, look. What time you gonna pick me up in my house to go to
+AGENT: Could you please tell me the pickup address for your trip from your house?
+CALLER: It's 23136 Southport Drive. But there's no what time is it gonna pick me up?
+AGENT: Thank you for the address. To make sure everything is correct, what time would you like to be picked up from 2 3 1 3 6 Southport Drive?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

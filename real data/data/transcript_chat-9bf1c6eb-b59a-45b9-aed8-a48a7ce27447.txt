@@ -1,0 +1,54 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Loise Macauley?
+CALLER: Yes. Yes.
+AGENT: Thanks for confirming, Loise. This is Barwood & Regency. How can I assist you today?
+CALLER: I'm making a reservation for this morning at ten ten thirty AM. This morning.
+AGENT: Thank you for letting me know your pickup time is this morning around 10:10 or 10:30. How would you like to pay for your ride? We accept cash, credit
+CALLER: Ten. Ten thirty. Listen. Listen. Listen. 10:30, half past ten.
+AGENT: Got it, your pickup time is 10:30 this morning. Now, could you please tell me
+CALLER: 10:30. So Go ahead. Yes.
+AGENT: Thank you for confirming 10:30 this morning. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call on call and ride Call and ride.
+AGENT: Thank you for choosing Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three two five four two zero.
+AGENT: Thank you, your Call and Ride payment is all set.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: One three zero zero five. Country Ridge Drive, Germantown.
+AGENT: I have 1 3 0 0 5 Country Ridge Drive, Germantown, Maryland as your pickup address. Is that correct?
+CALLER: Yes. Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Destination is one three zero six zero. Middlebrook Road at the Giant Food Store. One three zero six zero Middlebrook Road at the Giant full stop.
+AGENT: I found Giant Food at 1 3 0 6 0 Middlebrook Road, Germantown, Maryland. Is that the correct dropoff location?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Loise.
+AGENT: Just to confirm, your pickup time is today at 10:30 am. Is that correct?
+CALLER: Yes.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just me. 1. 1. 1. 1. Just me. Hello. Just me.
+AGENT: Thank you, I have recorded 1 passenger and no wheelchair needed.
+CALLER: Alone. Just me.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: Yes. No. They should just call when they're at my door. When the when they're in front of the house, they should call.
+AGENT: Loise, the estimated fare for your trip is 5.5 dollars, and you will be paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: This number. Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Yes.
+CALLER: It should pick me at 11:30AM. To come back to Germantown. Pick me at 11:30AM to come back to Germantown.
+AGENT: Just to confirm, you want your return trip pickup at 11:30 AM. Is that correct?
+CALLER: Yes. From Giant.
+AGENT: Your return trip pickup is scheduled for today at 11:30 AM. How many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One one one one one. One. Just me. Just me.
+AGENT: For your return trip, I have the pickup at 1 3 0 6 0 Middlebrook Road and the dropoff at 1 3 0 0 5 Country Ridge Drive. Is that correct?
+CALLER: Correct.
+AGENT: For your return trip, the estimated fare is 5.5 dollars, and you will be paying with your Call and Ride card. Should I go ahead and book both your main trip and return trip?
+CALLER: Yes, please.
+AGENT: Thank you, I am booking both your main trip and return trip now.
+CALLER: Yes.
+AGENT: Your main trip is scheduled for
+CALLER: Thank you.
+AGENT: Your main trip is scheduled for today at 10:30 AM with confirmation number 2 1 3 6 8 0 3 3 4. Your return trip is scheduled for today at 11:30 AM with confirmation number 2 1 3 6 8 0 3 3 5. Is there anything else I can help you with?
+CALLER: No. No. Thank you.
+CALLER: Six.
+AGENT: Could you please clarify what the number six refers to? Are you indicating the number of passengers, wheelchairs, or something else?
+AGENT: Thank you for calling Barwood & Regency, Loise. Have a
+CALLER: No. Thank thank you.
+CALLER: You.

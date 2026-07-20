@@ -1,0 +1,16 @@
+AGENT: Hello Ceasar, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need transportation. From one one one six p as in middle cross wheat plaza. JC Penny front door.
+AGENT: Thank you for sharing your pickup location. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Going back.
+AGENT: Would you like to use the same payment method as your main trip for your return trip?
+CALLER: Can you repeat?
+AGENT: Would you like to pay for your return trip using the same method you plan to use for your initial ride?
+CALLER: Yeah. I'll give you the number. For the call and ride. Three five one seven eight zero.
+AGENT: Thank you for providing your Call and Ride number. Your payment method is set to Call And Ride.
+AGENT: I have 1 1 1 6 Veirs Mill Road, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: No. No. Did I say which? Wait to plaza. Wait to plaza.
+AGENT: Thank you for the correction. To make sure I get it right, is your pickup address "One one one six Plaza, Rockville, Maryland," or could you please provide the full street name or any nearby landmark?
+CALLER: No. No. No. No. Wrong. I say, this is a direction gives me a lot for with the.
+AGENT: I want to make sure I understand your pickup location correctly. Could you please say the full address or the name of the plaza or nearby landmark again? If you can spell out any part of it, that would help too.
+CALLER: I see one one one six DS Mill Road, Wheaton Plaza. I wear it transport in JC Pen front door.
+AGENT: I have 1 1 1 6 Veirs Mill Road, Rockville, Maryland as your pickup address. Is that correct?

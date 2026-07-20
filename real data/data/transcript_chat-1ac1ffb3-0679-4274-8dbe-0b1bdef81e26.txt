@@ -1,0 +1,55 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with CARLETHA?
+CALLER: Yes. Sure.
+AGENT: Thanks for confirming, CARLETHA. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Oh, I need a cab at fourteen in the fourteen. Tied it with court.
+AGENT: Thank you for sharing your pickup time and location. How would you like to
+CALLER: Silver Spring, Maryland
+AGENT: Thanks for letting me know your pickup location is Silver Spring, Maryland. Could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: it'll be cash.
+AGENT: Thank you, I have noted cash as your payment method.
+AGENT: I have 1 4 Tynewick Court, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: I'm going to yes. I'm going to thirty nine zero one Aspen Hill Road. At the coals. In Silver Spring.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Thirty nine zero one Aspen Hill Road, Silver Spring, Maryland.
+AGENT: I have 3 9 0 1 Aspen Hill Road, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. That's correct.
+AGENT: Your dropoff address has been verified, Carletha. I will now proceed with the next steps for your trip.
+AGENT: You mentioned a pickup time of 2 PM. Is that correct?
+CALLER: What time was it now?
+AGENT: It is currently 1:18 PM. Is 2 PM the correct pickup time for your ride?
+CALLER: You know, I want him here as soon as possible.
+AGENT: Got it, I'll arrange for a pickup as soon as possible. How many passengers will be traveling, and will anyone need a
+CALLER: Okay. It no. No. It's just two.
+AGENT: Thank you for letting me know there will be two passengers and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: Mhmm. No. I'm going to Kohl's and do some shopping.
+AGENT: The estimated fare for your trip to Kohl's is 8.5 dollars, and you will be paying with cash. Would you like to schedule a
+CALLER: Mhmm. Mhmm. Oh, yeah. I know what time What time can you be finished?
+AGENT: Could you please clarify if you are asking about the estimated duration of the trip or the time you would like to be picked up for your return trip?
+CALLER: I've been picked up at four thirty. That might be too late. 03:30. This is she's at 03:30.
+AGENT: Just
+CALLER: 03:30.
+AGENT: Just to confirm, you would like to be picked up at 3:30 PM today, correct?
+CALLER: What did you say for? What did you say for? Four? No. It's right down the street. Four four would be fine. Four. There was times that to do some shopping.
+AGENT: I understand you would prefer a pickup time of 4:00 PM today. Is that correct?
+CALLER: Yes.
+AGENT: Thank you for confirming your pickup time as 4:00 PM today. How many passengers will be traveling, and will anyone need a
+AGENT: Your pickup
+CALLER: No. It'd be two. Coming back.
+AGENT: Just to confirm, would you like to update the number of passengers for your main trip, or use it for the return trip?
+CALLER: No. It was just two coming back. Two for the return trip.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: 4PM.
+AGENT: Just to confirm, you would like your return trip pickup at 4:00 PM today, correct?
+CALLER: Yeah. That's correct.
+AGENT: The return trip pickup time must be at least 10 minutes after your main trip pickup time, which is today at 4:00 PM. Could you please provide a return pickup time that is later than 4:10 PM? Or would you prefer to just book a one-way trip instead?
+CALLER: No. No. I guess I just did I have to call and book a you said three? What about three? Could they come at three?
+AGENT: A return pickup at 3:00 PM would be before your main trip pickup at 4:00 PM, so that won't work. Would you like to choose a time after 4:10 PM for your return trip, or would you prefer to book just a one-way trip?
+CALLER: Yeah. It's a long way trip.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: I wanna be picked up I told you before, then you just
+AGENT: I understand you mentioned a pickup time before. Could you please tell me again the exact time you would like for your return trip pickup?
+CALLER: Oh, your pickup time to no. We're not gonna I said I wanna be picked up at four. So they can come at four at the place, third nine zero one.
+AGENT: You mentioned you want to be picked up at 4:00 PM for your return trip. Is that correct?
+CALLER: Yes.
+AGENT: The return trip pickup time must be at least 10 minutes after your main trip pickup time, which is today at 4:00 PM.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

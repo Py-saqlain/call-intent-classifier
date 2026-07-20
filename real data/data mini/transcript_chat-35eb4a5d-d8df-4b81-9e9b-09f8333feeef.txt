@@ -1,0 +1,10 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Island Oates?
+CALLER: Yes.
+AGENT: Thanks, Island. This is Barwood & Regency. Your trip has been accepted, and vehicle 4 1 3 is on the way with an estimated pickup time of 2:29. How can I assist you today?
+CALLER: I would like to speak to a representative
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: I would like to know what time what's the ETA
+AGENT: Sure, I can check the ETA for you right now.
+AGENT: Okay, so your driver with vehicle 4 1 3 has been assigned and is scheduled to arrive by 2:29 pm. Anything else?
+CALLER: Can I speak to an agent?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

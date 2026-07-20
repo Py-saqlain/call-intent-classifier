@@ -1,0 +1,11 @@
+AGENT: Hello Anthony, this is Ana with Barwood & Regency. Your trip is scheduled for pickup today at 1:31 PM. How can I assist you today?
+CALLER: I just said it on my ride.
+AGENT: Uhh, I want to make sure I understand you correctly. Are you saying you want to book a ride now, or are you referring to a ride you already have scheduled? Could you please clarify a bit more? <emotion value="hesitant"/>
+CALLER: Alright. It already has scheduled.
+AGENT: Thanks for letting me know you already have a scheduled ride. What would you like to do next? Would you like to check the status, cancel, change the ride, or speak with a representative? <emotion value="grateful"/>
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today? <emotion value="grateful"/>
+CALLER: Tanker stand.
+AGENT: Could you please clarify what you mean by "Tanker stand"? Are you referring to a pickup or dropoff location, or something else related to your ride? <emotion value="hesitant"/>
+CALLER: Check the status.
+AGENT: Uhh, I'm sorry about that. Your scheduled ride from 13817 Outlet Drive to 14023 Castle Boulevard is running late. Let me connect you with a representative who can help right away. <emotion value="sympathetic"/>
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

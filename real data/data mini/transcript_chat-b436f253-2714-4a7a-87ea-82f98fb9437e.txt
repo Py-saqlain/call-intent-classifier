@@ -1,0 +1,11 @@
+AGENT: Hello America, this is Ana from Barwood & Regency. Vehicle 346 is on the way and should arrive in about one minute, around 10:01. How can I assist you today?
+CALLER: Yeah. Still still waiting for the text. I don't know. Show up yet.
+AGENT: I understand you're waiting for a text about your ride. Let me check the status for you. I'll connect you to the trip status team who can provide the latest update.
+AGENT: Your driver is currently at the pickup location at 10203 Kindly Court in Montgomery Village. The vehicle number is 346. Is there anything else I can help you with?
+CALLER: Yes. Okay. No. I still waiting for the test. I don't know what time they're going to be here.
+AGENT: Your driver is already at your pickup location, so they should be arriving very shortly. If you want, I can connect you to customer support for more details. Would you like me to do that?
+CALLER: But I don't know. I I I'm I'm outside. I don't have a
+AGENT: I understand you're outside and waiting. Since the driver is at your pickup address now, they should see you soon. If you want, I can connect you to customer support who can assist further. Would you like me to do that?
+CALLER: No. You said that that is going to be here soon, but I don't know what soon is going to be here. Still wet and outside, but I don't know how any caravan here.
+AGENT: I understand the uncertainty can be frustrating. The system shows your driver is already at your pickup location, so they should be arriving any moment now. If you'd like, I can connect you to customer support who can provide more precise details. Would you like me to do that?
+CALLER: Okay.

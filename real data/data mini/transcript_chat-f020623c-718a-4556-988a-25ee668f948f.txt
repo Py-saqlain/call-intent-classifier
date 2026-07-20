@@ -1,0 +1,19 @@
+AGENT: Hello Sally, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I need the taxi cab around the return.
+AGENT: Got it, I'll arrange the return trip once your main trip is set up. Alright, how would you like to pay? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yeah. Do you have any specific you know, like, how much they charge to balance your report?
+AGENT: I don't have the fare information yet since we're still gathering your trip details. Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yep.
+AGENT: Thanks for that. Could you please tell me which payment method you'd like to use: cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: My debit card. Yeah. Credit card. Yes.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: To get started, may I have the pickup address for your trip, please? <emotion value="peaceful"/>
+CALLER: Can you can you speak can you speak to somebody directly?
+AGENT: I can collect that pickup address for you right now — want to continue? <emotion value="peaceful"/>
+CALLER: five nine Lytonia Drive, Gaithersburg, in d
+AGENT: Hmm <break time="350ms"/> let me check that address. I couldn't find that exact location. Could you please confirm the street number and spelling again for the pickup address? <emotion value="apologetic"/>
+AGENT: Could you please confirm the pickup address again? The number and street name you gave didn't come up in our system.
+CALLER: Can can you talk to customer service, please? Operator. Can I talk to customer six seventy six fifty nine Lytonia Drive, Gettysburg,
+CALLER: Seventy six fifty nine Lytonia Drive, Gittensburg.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you.

@@ -1,0 +1,34 @@
+AGENT: Hello Jill, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your cab? <emotion value="peaceful"/>
+CALLER: Yes. One one seven one four. Leesboro Circle, Silver Spring, Maryland 20902.
+AGENT: Okay, so I found your pickup address as one one seven one four Leesborough Circle, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Fourteen seven zero one. Avery Road, Rockville, Maryland.
+AGENT: Okay, so I found your dropoff address as one four seven zero one Avery Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct. Correct.
+AGENT: Your dropoff address has been verified. Thank you, Jill. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Your main trip pickup address is 11714 Leesborough Circle, Silver Spring, Maryland. When would you like to be picked up? <emotion value="peaceful"/>
+When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Yes. Can you please have them call me when they're out? Now? Yes.
+AGENT: Okay great! I've noted your pickup time as now and that the driver should call you when they are out. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Now. Thank you. One. Just one.
+AGENT: Alright, the estimated fare is 22.5 dollars, paying with your credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will proceed with booking just your main trip then. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Thank you.
+AGENT: I'm processing your booking now. Please hold on a moment.
+CALLER: Yes, ma'am.
+AGENT: I'm still working on your booking. Please give me just a moment.
+AGENT: Your main trip is scheduled for today at 9:36 AM. Your confirmation number is 2 1 3 6 7 6 7 9 4. Is there anything else I can help you with?
+AGENT: Your main trip is scheduled for today at 9:36 AM. Your confirmation number is 2 1 3 6 7 6 7 9 4. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Jill. Have a wonderful day!
+CALLER: Thank you.
+AGENT: You're very welcome!
+CALLER: You too.

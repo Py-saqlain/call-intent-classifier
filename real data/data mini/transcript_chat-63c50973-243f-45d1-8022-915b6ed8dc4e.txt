@@ -1,0 +1,11 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Gabriel Jiffar?
+CALLER: Yes.
+AGENT: Thank you for confirming.
+AGENT: Thanks, Gabriel. This is Barwood & Regency. How can I help you today?
+CALLER: Checking the status of my trip.
+AGENT: Hmm, let me pull that up for you. It looks like you don't have an active trip scheduled right now. Would you like me to help you book a ride?
+CALLER: Wait. Can I speak with an agent?
+CALLER: Agent, please.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

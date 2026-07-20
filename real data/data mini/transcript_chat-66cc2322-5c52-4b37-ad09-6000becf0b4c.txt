@@ -1,0 +1,16 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Cab.
+AGENT: Thanks for that. Could you please tell me your full name so I can set up your profile?
+CALLER: Cab 15.
+AGENT: I want to make sure I get your full name correctly. Could you please say your first and last name for me?
+CALLER: Tab 15.
+AGENT: I’m still not quite catching your full name. Could you please say your first and last name slowly and clearly for me?
+CALLER: Tab. Five
+AGENT: Thanks, Tab. This is Ana from Barwood & Regency. How can I help you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yes.
+AGENT: How can I assist you with your cab ride today?
+CALLER: Agent.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Agent, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

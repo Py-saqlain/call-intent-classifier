@@ -1,0 +1,29 @@
+AGENT: Hello Rankan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to text you to Union Station tomorrow morning. At 08:45.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: To start, may I have the pickup address for your ride to Union Station tomorrow morning at 8:45? <emotion value="peaceful"/>
+CALLER: 7731. Rockton, r o c t o n, Court, chevy chase, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 7 7 3 1 Rocton Court, Chevy Chase, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found a few locations. <break time="700ms"/> Option one: 1 1 7 7 1 5th Street Northwest, Washington, D C. <break time="500ms"/> Option two: 1 0 2 H Street Northeast, Washington, D C. <break time="500ms"/> Option three: Union Station Metro, 1st Street Exit, Washington, D C. <break time="500ms"/> Option four: Union Station, Washington, D C. <break time="500ms"/> Option five: Union Station, Washington, D C. <break time="500ms"/> Which one is correct? <emotion value="hesitant"/>
+CALLER: The three, 4, and five all sound the same.
+AGENT: Okay, so just to clarify, you mean option three, option four, or option five, correct? <emotion value="hesitant"/>
+CALLER: Read read the three, four, and five. Read them again, please.
+AGENT: Sure. Option three is Union Station Metro, 1st Street Exit, Washington, D C. <break time="500ms"/> Option four is Union Station, Washington, D C. <break time="500ms"/> Option five is Union Station, Washington, D C. <emotion value="hesitant"/>
+CALLER: Option four or five, either one. Both both are the same.
+AGENT: Your dropoff address has been verified.
+AGENT: Your pickup address has been verified.
+AGENT: You mentioned pickup tomorrow at 8:45 AM. Is that correct? <emotion value="peaceful"/>
+CALLER: That is correct.
+AGENT: Okay great! How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Not wheelchair, but I have a roller walker. And it's for two pre home. Of course.
+AGENT: Alright, so let me confirm those details. Your pickup is your home at 7 7 3 1 Rocton Court. Your dropoff is Union Station in Washington. Pickup time is tomorrow at 8:45 AM. You will be traveling with two passengers, no wheelchair but you have a roller walker, and payment is by credit card. The estimated fare is 27.5 dollars, paying with credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Thank you.
+AGENT: Thank you for your patience. I am now processing your booking.
+AGENT: Your main trip is booked for tomorrow at 8:45 AM. Your confirmation number is 2 1 3 6 7 1 4 8 7. Is there anything else I can help you with?
+CALLER: Fine. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Rankan. Have a wonderful day!
+CALLER: Thank you.

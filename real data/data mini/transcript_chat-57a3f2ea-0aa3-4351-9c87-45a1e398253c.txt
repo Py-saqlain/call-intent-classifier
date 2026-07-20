@@ -1,0 +1,13 @@
+AGENT: Hello Cheryl, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Can I schedule a tab for someone else and pay for it on my credit card?
+AGENT: Uhh, I can help with scheduling a trip for someone else. For payment with your credit card, I want to make sure we get that set up correctly. Let me connect you to the booking team who can assist with the details of scheduling and payment options for another person.
+AGENT: Alright, how would you like to pay for the ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: And Debit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for the ride? <emotion value="peaceful"/>
+CALLER: One one three four two Prince George Drive, Wheaton, Maryland
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I'm sorry, I couldn't locate 1 1 3 4 2 Prince George Drive in Wheaton, Maryland. Could you please confirm the street number and name again or provide a nearby landmark? <emotion value="apologetic"/>
+CALLER: One one three four two Prince King George Drive, Wheaton, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I couldn't find any results for 1 1 3 4 2 Prince King George Drive in Wheaton, Maryland. Could you please double-check

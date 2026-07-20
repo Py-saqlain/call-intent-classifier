@@ -1,0 +1,11 @@
+AGENT: Hi Bryan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Medic eight to one nine one zero five Frederick Road.
+AGENT: Thank you for sharing that address. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Right.
+AGENT: Could you please let me know which payment method you would like to use: cash, credit card, or Call and Ride?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Great! Which payment method will you be using for this ride? Cash, credit card, or Call and Ride?
+CALLER: A h.
+AGENT: I want to make sure I understand you correctly. Did you mean cash as your payment method?
+CALLER: What?

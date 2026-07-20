@@ -1,0 +1,25 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Uh-huh. Yes.
+AGENT: Could you please tell me your name so I can assist you with setting up your profile?
+CALLER: That's right.
+AGENT: I want to make sure I have your name correctly. Could you please say your name for me?
+CALLER: Mulcarta.
+AGENT: Thank you, Mulcarta. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Sure. Would like, um, a pickup at 4646 Montgomery Avenue. Bethesda, Maryland. As soon as possible, please.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so I found that location: 4 6 4 6 Montgomery Avenue, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's correct.
+AGENT: Your pickup address has been verified. Could you please tell me your destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Sure. The drop off address is four three zero five thirty eighth Street, Northwest,
+AGENT: Hmm
+CALLER: Washington, DC two zero one six.
+AGENT: Thank you for that. Just to confirm, your dropoff address is 4 3 0 5 3 8th Street Northwest, Washington, DC, correct? <emotion value="peaceful"/>
+CALLER: No. That's forty three zero five thirty eighth Street,
+AGENT: Thank you for
+CALLER: Northwest
+AGENT: Thank you for clarifying. Just to confirm, your dropoff address is 4 3 0 5 3 8th Street Northwest, Washington, DC, correct? <emotion value="peaceful"/>
+CALLER: No. It's four thousand three hundred and five thirty eight Street, two zero zero one nine Oh, not the two zero zero one six Northwest. Washington, DC.
+AGENT: Uh, I am sorry, but could you please repeat the street number part of your dropoff address again? I want to make sure I get it exactly right. <emotion value="apologetic"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

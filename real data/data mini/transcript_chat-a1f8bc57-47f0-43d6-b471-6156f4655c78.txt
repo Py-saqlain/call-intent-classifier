@@ -1,0 +1,27 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Billy Ross.
+AGENT: Thanks, Billy. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I want wanna know I wanna text the cat cab to take me from here to
+AGENT: Could you please tell me the pickup address and the destination where you'd like to go?
+CALLER: White Oak music.
+AGENT: Thank you. Could you please confirm the full pickup address or location you want the cab to come to?
+CALLER: Eight five eight
+AGENT: Just to confirm, is your pickup address 8 5 8 White Oak Music?
+CALLER: yeah. 8502.
+AGENT: Thank you for the correction. So your pickup address is 8 5 0 2 White Oak Music. Is that right? Also, could you please tell me the full destination address or location?
+CALLER: No. No. Eight eight five zero two Leonard Drive, Silver Spring, Maryland
+AGENT: Thank you for the address. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash. I wanna go to seventeen hundred April Lane.
+AGENT: Thank you for letting me know you'll be paying with cash.
+AGENT: Is there anything else I can assist you with regarding your ride?
+CALLER: White Oak Community Center. How much would they cost? How much do they
+AGENT: I have the dropoff address as 1700 April Lane, Silver Spring, Maryland. However, I couldn't locate the pickup address at 8 8 5 0 2 Leonard Drive. Could you please provide the full pickup address again, including the street name and city?
+AGENT: I couldn't locate 8 8 5 0 2 Leonard Drive, Silver Spring, Maryland in our system. Could you please confirm the full pickup address again, including the street name and city?
+CALLER: That's it. No. No. Eight five zero eight five zero
+AGENT: I want to make sure I have your pickup address correct. You said "eight five zero eight five zero." Could you please confirm the street name and city for this address?
+CALLER: Eight five zero two.
+AGENT: Thank you for clarifying. Could you please provide the street name and city for the address "8 5 0 2"? This will help me locate your pickup address accurately.
+CALLER: zero two.
+AGENT: I understand the street number is 8 5 0 2. Could you please tell me the street name and city for this address?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Lemmitt Drive.

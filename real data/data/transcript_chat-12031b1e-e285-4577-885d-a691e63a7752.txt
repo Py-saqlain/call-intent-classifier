@@ -1,0 +1,53 @@
+AGENT: Hello Evelyn, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a two x.
+AGENT: Uhh, just to make sure I understand correctly, are you asking to book a ride for two passengers? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Pass.
+AGENT: Just to check, did you mean cash for your payment? <emotion
+CALLER: Cost. Discount, Yes.
+AGENT: I don't have the fare information yet. Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Pass.
+AGENT: Just to check, did you mean cash for your payment? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: May I have the pickup address for your ride, please? <emotion value="peaceful"/>
+CALLER: One stick seven one five Cyrus, c y r u s, suite, Davisville,
+AGENT: Okay, so I found 1 6 7 1 5 Cyrus Street, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, may I have the dropoff address? <emotion value="peaceful"/>
+CALLER: One three nine zero Drive, Rockville. Maryland.
+AGENT: Okay, so I found 1 3 9 0 Piccard Drive, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified.
+AGENT: We have that there will be 2 passengers traveling. Is that correct? <emotion value="peaceful"/>
+CALLER: On the one passenger.
+AGENT: Okay, I've updated the passenger count to 1. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! Your pickup time is set for today at 9:12 AM. Will you be needing a wheelchair accessible vehicle? <emotion value="grateful"/>
+CALLER: I'm sorry. What?
+AGENT: No problem at all. I was asking if you will need a wheelchair accessible vehicle for your trip? <emotion value="hesitant"/>
+CALLER: No.
+AGENT: Okay great! I've noted that no wheelchair accessible vehicle is needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: I have a service dog
+AGENT: Alright, the estimated fare is 10 dollars, paying with cash. You mentioned you have a service dog, and I have noted that. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes. But I don't know what time.
+AGENT: No problem. Would you prefer to book the return trip now with a specific time, or make it a will-call return so you can call us when you're ready? <emotion value="peaceful"/>
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: I will call when I'm ready. I will call when I'm ready.
+AGENT: Got it, your return trip is set as will-call, so you can call us when you're ready. Alright, soo <break time="300ms"/> so how many passengers will be traveling on your return trip, including yourself? <emotion value="peaceful"/>
+CALLER: One
+AGENT: Okay great! I've noted 1 passenger for your return trip. Will you be needing a wheelchair accessible vehicle for the return trip? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Just to confirm, for your return trip, the pickup will be 1 3 9 0 Piccard Drive, Rockville, Maryland, and the dropoff will be 1 6 7 1 5 Cyrus Street, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: The estimated fare for your return trip is 10 dollars, paying with Self. Should I go ahead and book both trips for you? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Just to confirm, you do not want to book either trip, so no rides will be scheduled. Is that correct? <emotion value="hesitant"/>
+CALLER: No.
+AGENT: Alright, understood. Would you like to make any changes to your trips before we proceed with booking? <emotion value="peaceful"/>
+CALLER: No change. I just wanna book.
+CALLER: Correct.
+AGENT: Thank you for confirming. I’m processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 9:12 AM with confirmation number 2 1 3 6 7 1 7 3 9. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 1 7 4 0. You can call back when you are ready for the return trip, and a driver will be dispatched then. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Evelyn. Have a wonderful day!

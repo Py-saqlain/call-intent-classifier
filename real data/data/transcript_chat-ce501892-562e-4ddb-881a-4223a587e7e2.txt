@@ -1,0 +1,40 @@
+AGENT: Hello Seung, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I I might need a taxi.
+AGENT: I'm glad to help you with that. How would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride.
+CALLER: With a credit card?
+AGENT: Thank you for letting me know. Your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your taxi ride?
+CALLER: Yes.
+AGENT: Thank you. Could you please provide the pickup address where the driver should come to get you?
+CALLER: Three five seven
+AGENT: To make sure I have the full pickup address, could you please tell me the street name and city as well?
+CALLER: Three five seven Three five seven eight. Gleneagles. 3578 Glen Eagles. Drive, Silver Spring.
+AGENT: I have the pickup address as three five seven eight Gleneagles Drive, Silver Spring, Maryland. Is that correct?
+CALLER: Right. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: I it's three three zero three at It it it it's a glen eagle. No. It's a
+AGENT: Could you please clarify the dropoff address again? You mentioned something like three three zero three and Gleneagles, but I want to make sure I get it right.
+CALLER: One second. I I one second.
+AGENT: Take your time. Whenever you're ready, just let me know the dropoff address.
+CALLER: Yeah. It's
+AGENT: I'm here to help. Please go ahead and tell me the dropoff address when you're ready.
+CALLER: Yeah. One second.
+AGENT: No problem, take your time. Just let me know the dropoff address when you're ready.
+CALLER: And sure. Yeah. Three three zero three North Laser World. Laser world. My polar bear.
+AGENT: The location "Laser World" you mentioned appears to be outside our service area. Could you please provide a different dropoff address within our service area?
+CALLER: It's one second. Three three zero three most laser world. There is world.
+AGENT: Thank you for clarifying. Just to confirm, is the dropoff address three three zero three Most Laser World?
+CALLER: Yes.
+AGENT: I couldn't find an exact match for three three zero three Most Laser World. Could you please provide any nearby landmark, cross street, or a different address to help me locate your dropoff?
+CALLER: Yeah. One one one second.
+AGENT: Take your time. Just let me know the dropoff address when you're ready.
+CALLER: Yeah. One second.
+AGENT: No rush at all. Whenever you're ready, please share the dropoff address.
+CALLER: Yeah.
+AGENT: Could you please provide the dropoff address for your ride?
+CALLER: One second.
+AGENT: Take your time. I'll be here when you're ready to provide the dropoff address.
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.
+CALLER: Yeah.

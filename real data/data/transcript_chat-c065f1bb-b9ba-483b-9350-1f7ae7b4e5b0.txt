@@ -1,0 +1,81 @@
+AGENT: Hi Jimmy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hey, Adam. This is Jane calling. Anna, I need to set up a cab for tomorrow morning for July the fourteenth,
+AGENT: Okay, I can help with that. Could you please tell me the pickup address and the destination for your cab ride tomorrow morning?
+CALLER: Yeah. The the pickup address is 13724 Drake Drive, Rockville, Maryland And the address I'm going to is one eight one one and it's up in Olney, Maryland at the doctor's office which is doctor Bannon's office. In Olney,
+AGENT: Alright, how would you like to pay for your ride tomorrow morning? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: On Prince Philip Drive?
+AGENT: I want to make sure I have your payment method first before we go back to addresses. How would you like to pay for your ride? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: It's gonna go on my call and back card.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Thirty one eighty seven eighty nine.
+AGENT: Thank you, your Call and Ride payment is all set.
+AGENT: Okay, so I have your pickup as 1 3 7 2 4 Drake Drive, Rockville, Maryland, and your dropoff as 1 8 1 1 Olney Road, Pimmit Hills, Virginia. Is that correct? <emotion value="peaceful"/>
+CALLER: No. No. No. Let me give you no. Let me give you the full information on that address.
+AGENT: Okay, please go ahead and provide the full correct address for your dropoff. <emotion value="peaceful"/>
+CALLER: The full address for the drop off is one eight one one Prince Philip Drive, in Olney, Maryland. And it's on Olney Drive.
+AGENT: Thank you for the correction. Let me check that address for you. <emotion value="peaceful"/>
+AGENT: I couldn't find an exact match for 1 8 1 1 Prince Philip Drive in Olney, Maryland. However, I found a location at 1 8 1 1 1 Prince Philip Drive, Suite 2 0 7, Olney, Maryland 2 0 8 3 2. Is that the correct place? <emotion value="hesitant"/>
+CALLER: That's the correct place, but it's the the suite number is three twenty three twenty seven. And it's for doctor Bannon.
+AGENT: Okay, so the suite number is three twenty three twenty seven at 1 8 1 1 1 Prince Philip Drive for Doctor Bannon. Let me check that for you. <emotion value="peaceful"/>
+AGENT: Hmm, I couldn't find that exact suite number at 1 8 1 1 1 Prince Philip Drive for Doctor Bannon. Could you please confirm if the suite number might be different or provide any nearby landmarks? <emotion value="apologetic"/>
+CALLER: Wait a minute. I was given to you.
+AGENT: I understand, and I want to make sure we get this right. Could you please repeat the full dropoff address including the suite number one more time? <emotion value="peaceful"/>
+CALLER: No. It's suite number suite
+AGENT: I’m sorry, I didn’t catch the full suite number. Could you please say the suite number again? <emotion value="apologetic"/>
+CALLER: Alright. That's one
+AGENT: Thank you. Please continue with the rest of the suite number. <emotion value="peaceful"/>
+CALLER: It's sweet three
+AGENT: Got it, suite one three. Please continue with the rest of the suite number if there is more. <emotion value="peaceful"/>
+CALLER: It's three twenty step no. Not three one three.
+AGENT: Thank you for clarifying. So the suite number is three twenty. Is that correct? <emotion value="peaceful"/>
+CALLER: No. No. No.
+AGENT: Okay, please say the suite number again slowly so I can get it right. <emotion value="peaceful"/>
+CALLER: 327.
+AGENT: Thank you for that. So the suite number is three two seven. Is that correct? <emotion value="peaceful"/>
+CALLER: Okay. It's three. Two three two seven. That's correct.
+AGENT: Just to confirm, the suite number is three two three two seven. Is that right? <emotion value="peaceful"/>
+CALLER: No. No. No. No. No. It's three two seven.
+AGENT: Thank you for clarifying. So the suite number is three two seven. Is that correct? <emotion value="peaceful"/>
+CALLER: The that's correct. Three two seven
+AGENT: Thank you for confirming the suite number as three two seven. Let me check that full dropoff address for you now. <emotion value="peaceful"/>
+AGENT: I found a couple of locations for 1 8 1 1 1 Prince Philip Drive Suite 3 2 7 in Olney, Maryland. 
+
+Option one: Paul Bannen, M D at 1 8 1 1 1 Prince Philip Drive, Suite 3 2 7, Olney. 
+
+Option two: Community Hematology-Oncology Practitioners at 1 8 1 1 1 Prince Philip Drive, Olney. 
+
+Which one is the correct dropoff location? <emotion value="hesitant"/>
+CALLER: Yes, please.
+AGENT: Just to clarify, do you mean the first option, Paul Bannen, M D at 1 8 1 1 1 Prince Philip Drive, Suite 3 2 7, Olney? <emotion value="peaceful"/>
+CALLER: The one for doctor Ben and you told me the first time.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+AGENT: You mentioned your pickup time as tomorrow morning. Is that correct? <emotion value="peaceful"/>
+CALLER: That's number one. I need that
+AGENT: Hmm <break time="300ms"/> sorry, I want to make sure I understand correctly. Did you mean your pickup time is tomorrow morning? <emotion value="hesitant"/>
+CALLER: Yeah. Tomorrow, at no. Tomorrow afternoon. Never mind. Give me give me some of the
+AGENT: Alright, so your pickup time is tomorrow afternoon. Could you please tell me what time in the afternoon you would like to be picked up? <emotion value="peaceful"/>
+CALLER: I need to be picked up because my appointment my original appointment is at eleven thirty in the morning I need to be picked up around nine, 09:45.
+AGENT: Just to confirm, you would like to be picked up tomorrow at 9:45 AM, correct? <emotion value="peaceful"/>
+CALLER: Or 10:00.
+AGENT: Okay, so your pickup time is tomorrow at 10:00 AM. Is that right? <emotion value="peaceful"/>
+CALLER: No. Put that at 10:00.
+AGENT: Okay great! I've got your pickup time as tomorrow at 10:00 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. Just
+AGENT: Could you please tell me how many passengers will be traveling, including yourself? And how many will need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. It's just me.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: I'll let him know when I get there. When he when he comes to get me.
+AGENT: Alright, the estimated fare is 21.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No, ma'am. No. It's only a one way.
+AGENT: Okay, I understand you want just a one-way trip. Let me take care of that for you.
+AGENT: I'm processing your one-way trip booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for tomorrow at 10:00 AM. Your confirmation number is 2 1 3 6 7 5 8 5 3. Is there anything else I can help you with?
+CALLER: Six.
+AGENT: Just to clarify, would you like me to repeat the confirmation number for you?
+CALLER: Can you give me that number again?
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 5 8 5 3. Is there anything else I can assist you with?
+CALLER: Yes.
+AGENT: What else can I assist you with today?
+CALLER: No. Thank you.
+CALLER: Thank you very much.
+AGENT: Thank you for calling Barwood & Regency, Jimmy. Have a wonderful day!

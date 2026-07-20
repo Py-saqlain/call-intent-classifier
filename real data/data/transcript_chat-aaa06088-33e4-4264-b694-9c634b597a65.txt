@@ -1,0 +1,31 @@
+AGENT: Hello Albert, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Detention.
+AGENT: Could you please tell me a bit more about what you need help with regarding detention? Are you looking to book a ride, check on a trip, or something else?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Book a ride.
+AGENT: Thank you for letting me know you'd like to book a ride. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Arise. Credit card.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: Nine five five one. Horizon one. Montgomery Village, Merrill.
+AGENT: I have 9 5 5 1 Horizon Run Road, Montgomery Village, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Yeah. One eight two five eight contour Road. Gaithersburg, Maryland.
+AGENT: I found a similar address: 1 8 2 8 6 Contour Road, Gaithersburg, Maryland. Is that the correct dropoff location?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Albert.
+AGENT: When would you like to be picked up?
+CALLER: Right now,
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One and no.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 5.5 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: Great, I will start collecting the details for your return trip.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Cancel return trip.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 6 8 3 4. The pickup is today at 12:15 PM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Albert. Have a wonderful day.

@@ -1,0 +1,25 @@
+AGENT: Hi Alex, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I need to make a reservation. One, four nine nine five City Cloak, floor to nine six four one Athens Place in Gaithersburg, Maryland and I'll be paying with credit card for this place. It is just only one passenger, and I do not need a wheelchair.
+AGENT: Thank you for letting me know you'll be paying with a credit card. Your payment method is confirmed as Credit Card.
+AGENT: I have the dropoff address as 9 6 4 1 Athens Place, Gaithersburg, Maryland. That is confirmed. However, I couldn't locate the pickup address you gave me as 1 4 9 9 5 City Cloak, Gaithersburg, Maryland. Could you please provide the full pickup address again, including the street name and city?
+CALLER: One four nine nine five Shady Grove Road in Rockville, Maryland.
+AGENT: I have the pickup address as 1 4 9 9 5 Shady Grove Road, Rockville, Maryland. Is that correct?
+CALLER: Yep.
+AGENT: Your pickup address has been verified, Alex.
+AGENT: You mentioned there will be one passenger and no wheelchair needed. Is that correct?
+CALLER: Yeah.
+AGENT: When would you like to be picked up?
+CALLER: Sunday at 9AM.
+AGENT: You mentioned Sunday at 9 AM for pickup. Since today is Monday, July 6th, just to confirm, did you mean next Sunday at 9 AM?
+CALLER: Yes.
+AGENT: Your pickup time is set for next Sunday at 9 AM. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 8 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No notes.
+AGENT: Thank you for letting me know there are no special instructions. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now?
+CALLER: Yeah.
+AGENT: I am booking your trip now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 8 1 1 2. The pickup is scheduled for July 12th at 9:00 AM. Is there anything else I can help you with?
+CALLER: Thank you.

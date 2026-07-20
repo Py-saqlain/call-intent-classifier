@@ -1,0 +1,35 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Tanya Satinsky?
+CALLER: Yes.
+AGENT: Thanks for confirming, Tanya. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I would like to book a cab
+AGENT: Thank you for letting me know, Tanya. To get started with your cab booking, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, Tanya. Your payment method is set to cash. I’m passing this along now so we can continue with your booking.
+AGENT: Tanya, could you please tell me the pickup address for your cab?
+CALLER: Six sixty nine zero three Rockledge Drive,
+AGENT: I wasn't able to locate 6 6 9 0 3 Rockledge Drive. Could you please provide the city and state for that address?
+CALLER: It's sixty nine zero three Rockledge Drive.
+AGENT: Thank you for clarifying the street number as six nine zero three Rockledge Drive. Could you please also provide the city and state for this address?
+CALLER: Bethesda, Maryland.
+AGENT: I have 6 9 0 3 Rockledge Drive, Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One ninety eight Alpine Road, Rockville, Maryland
+AGENT: I have 1 9 8 Halpine Road, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Tanya. I’m passing this along now to complete your booking.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: I have your pickup time set for as soon as possible, today at 2:45 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One.
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip from 6 9 0 3 Rockledge Drive to 1 9 8 Halpine Road is 13.5 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking your one-way trip. Just a moment please.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your trip is scheduled for today at 2:45 PM. The confirmation number is 2 1 3 6 7 9 6 2 1. Is there anything else I can help you with?
+CALLER: No. Thank you very much.
+AGENT: Thank you for calling Barwood & Regency, Tanya. Have a wonderful day.

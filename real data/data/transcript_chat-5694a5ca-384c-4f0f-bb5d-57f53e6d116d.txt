@@ -1,0 +1,35 @@
+AGENT: Hello Jacqueline, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like a taxi, please.
+AGENT: Thank you for choosing us for your ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: All in right.
+AGENT: Could you please clarify if you meant cash, credit card, or Call and Ride for your payment? I want to make sure I get it right for you.
+CALLER: Pauline Wright Calling ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three three seven six zero seven.
+AGENT: Thank you, your payment method is set to Call And Ride.
+AGENT: May I have the pickup address for your ride, please?
+CALLER: One two two zero eight Canterfield Terrace, Germantown, Maryland.
+AGENT: I have 1 2 2 0 8 Canterfield Terrace, Germantown, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Two zero nine ten Frederick Road, Germantown.
+AGENT: I have 2 0 9 1 0 Frederick Road, Germantown, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Jacqueline. I will now proceed with the next steps.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible,
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Only one
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+AGENT: Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: Jacqueline, the estimated fare for your trip is 10 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience, Jacqueline. I'm processing your booking now.
+AGENT: Jacqueline, your main trip is scheduled for today at 9:37 am. Your confirmation number is 2 1 3 6 6 3 2 0 3. Is there anything else I can assist you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Jacqueline. Have a wonderful day!

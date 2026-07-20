@@ -1,0 +1,40 @@
+AGENT: Hello Arlyn, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I like to book a trip to to the store.
+AGENT: Thank you for letting me know about your trip to the store. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: Thirty five twenty. Payer Tree Court, Silver Spring 20906.
+AGENT: Just to confirm, is your pickup address 3 5 2 0 Pear Tree Court, Silver Spring, Maryland?
+CALLER: Yes.
+AGENT: Thank you for confirming. Your pickup address is 3 5 2 0 Pear Tree Court, Silver Spring, Maryland. Is that correct?
+CALLER: Yes. I like to book a two way trip.
+CALLER: When I'm ready to be picked up, I'll call.
+AGENT: I have noted that you want to call when you are ready to be picked up. Please choose which store you would like to go to from the following options: Adorable Angelics at 3 7 1 8 Capulet Terrace, United States Postal Service at 1 4 0 3 0 Connecticut Avenue, Floor & Decor at 1 4 0 1 4 Connecticut Avenue, Esoteric Agenda Shop at 3 8 4 0 Tremayne Terrace, or La Fiesta Bonita at 1 4 3 4 7 Georgia Avenue, all in Silver Spring, Maryland. Which one would you like?
+AGENT: I found several stores near your pickup address: Adorable
+CALLER: Thirty eight thirty eight sixty Giant Food store.
+AGENT: Just to confirm, is your dropoff address 3 8 6 0 International Drive, Silver Spring, Maryland?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified. Thank you, Arlyn. I will now proceed with arranging your trip.
+AGENT: When would you like to be picked up?
+CALLER: I'm not sure.
+AGENT: No problem, I have recorded your trip as a will-call, so you can call us back when you are ready. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One No.
+AGENT: Thank you, I have noted 1 passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: Can you call me when he gets to my destination?
+AGENT: The estimated fare for your trip is 8 dollars, paying with your credit card. You mentioned you'd like a return trip — would you still like me to set that up?
+CALLER: Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Twelve thirty.
+AGENT: Just to confirm, do you mean twelve thirty PM for your return trip pickup time?
+CALLER: Yes.
+AGENT: Thank you, your return trip pickup time is set for today at 12:30 PM. How many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: What one. No.
+AGENT: For your return trip, I have the pickup address as 3 8 6 0 International Drive and the dropoff address as 3 5 2 0 Pear Tree Court. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 8 dollars, paying with Self. Should I go ahead and book both trips?
+CALLER: Yes.
+AGENT: Booking your trips now.
+AGENT: Your main trip is booked as a will-call with confirmation number 2 1 3 6 6 7 9 6 5. Your return trip is scheduled for today at 12:30 PM with confirmation number 2 1 3 6 6 7 9 6 6. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Arlyn. Have a wonderful day!

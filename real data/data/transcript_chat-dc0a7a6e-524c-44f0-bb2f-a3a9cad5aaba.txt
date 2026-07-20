@@ -1,0 +1,30 @@
+AGENT: Hi Jayson, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm at, uh, six ten East Diamond Avenue. Suite one hundred a. Gaithersburg, Maryland two zero eight seven seven. I need to be picked up.
+AGENT: Thank you for sharing your pickup location at 6 1 0 East Diamond Avenue, Suite 1 0 0 A, Gaithersburg, Maryland. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Great, since you’re paying with Call and Ride, could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero eight four four nine eight.
+AGENT: Thank you, your Call and Ride payment is all set.
+AGENT: I have 6 1 0 East Diamond Avenue, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yes. It's correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One two zero three eight Chestnut Glen Road, Clarksburg, Maryland two zero eight seven one.
+AGENT: Thank you for the dropoff address at 1 2 0 3 8 Chestnut Glen Road, Clarksburg, Maryland. Let me confirm and validate that for you.
+AGENT: I have 1 2 0 3 8 Chestnut Glen Road, Clarksburg, Maryland as your dropoff address. Is that correct?
+CALLER: That's correct. Yes. Thank you.
+AGENT: Your dropoff address has been verified. Thank you, Jayson.
+AGENT: When would you like to be picked up?
+CALLER: Twenty five minutes.
+AGENT: Thank you. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Only need to Just one passenger.
+AGENT: Thank you for letting me know there will be one passenger. Will you need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thank you. Do you have any special instructions or information for the driver?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: No.
+AGENT: The estimated fare for your trip is 27.5 dollars, and you'll be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No. No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 11:36 AM. The confirmation number is 2 1 3 6 6 9 3 1 5. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Jayson. Have a wonderful day!

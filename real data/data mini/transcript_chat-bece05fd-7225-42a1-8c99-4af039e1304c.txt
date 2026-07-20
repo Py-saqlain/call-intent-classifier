@@ -1,0 +1,25 @@
+AGENT: Hi Diane, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I wanna book a taxi.
+AGENT: Thank you for choosing us for your taxi ride. How would you like to pay for your trip? We accept cash, credit
+CALLER: Right. Oh, Call and ride.
+AGENT: Great, you’d like to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Four zero one four one three.
+AGENT: Thank you, your payment with Call and Ride is all set.
+AGENT: Could you please tell me the pickup address for your taxi ride?
+CALLER: 5700 Blue Avenue in Rockville.
+AGENT: I have 5 7 0 0 Bou Avenue, Rockville, Maryland as your pickup address. Is that
+CALLER: No. Fifty seven fifty seven Blue Avenue.
+AGENT: I couldn't find an exact match for 5 7 5 7 Blue Avenue in Rockville, Maryland. I found a place called Upper Rock Circle in Rockville, Maryland nearby. Is this the location you meant?
+CALLER: No. No. No. No. I'm not too can I talk to agent, please?
+AGENT: I can help you with the pickup address right now — would you like to continue?
+CALLER: Yeah. 5700 Blue Avenue in Rockville.
+AGENT: I have 5 7 0 0 Bou Avenue, Rockville, Maryland as your pickup address. Is that
+CALLER: Nope. Blue. Blue Avenue.
+AGENT: Thank you for clarifying. Could you please provide the full pickup address again, including the street number and city?
+CALLER: It's 57 Blue Avenue in Rockville.
+AGENT: I
+CALLER: The seventeenth
+AGENT: I didn't find an exact match for 5 7 Blue Avenue in Rockville, Maryland. Could you
+CALLER: He's
+AGENT: I’m
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

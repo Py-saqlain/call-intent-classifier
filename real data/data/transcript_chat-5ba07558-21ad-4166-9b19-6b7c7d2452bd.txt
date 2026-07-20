@@ -1,0 +1,34 @@
+AGENT: Hello Janette, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: My name is Kimberly.
+AGENT: Hi Kimberly, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: I'd like to book a call and ride pickup.
+AGENT: Alright, Kimberly, since you chose Call and Ride, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three four zero zero one five.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Kimberly, could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: 503 Blanford Street, Rockville, Maryland. Two zero eight five zero
+AGENT: Okay, Kimberly, let me check that pickup address for you. <emotion value="peaceful"/>
+AGENT: Okay, Kimberly, I have 5 0 3 Blandford Street, Rockville, Maryland as your pickup address. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One hundred first Street, Rockville, Maryland.
+AGENT: Okay, Kimberly, let me check that dropoff address for you. <emotion value="peaceful"/>
+CALLER: Two zero eight five o.
+AGENT: I have 1 0 1 Gibbs Street, Rockville, Maryland as the dropoff address. Is that correct? <emotion value="peaceful"/>
+CALLER: Can you repeat that?
+AGENT: Sure, Kimberly. The dropoff address I have is 1 0 1 Gibbs Street, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. It's one hundred first three. God will marlot.
+CALLER: 2085O.
+AGENT: Okay Kimberly, I understand you want to correct the dropoff address. You mentioned "one hundred first three God will Marlot" and "2085O." Could you please clarify or provide the full street address again? If you can spell out the street name or any landmarks, that would help me find the exact location for you. <emotion
+CALLER: There's is one hundred first Street, Rockville, Maryland two zero eight five one.
+AGENT: Okay Kimberly, let me check the dropoff address 1 0 1 1 Street, Rockville, Maryland, two zero eight five one. <emotion value="peaceful"/>
+AGENT: Okay Kimberly, I have 1 0 1 1 Nelson Street, Rockville, Maryland as your dropoff address. Is that correct? <emotion value="peaceful"/>
+CALLER: No. No. It's not.
+AGENT: Okay Kimberly, I will discard that suggestion. Please tell me the dropoff address again, and I will look it up for you. <emotion value="apologetic"/>
+AGENT: Please provide the dropoff address again, Kimberly, and I will look it up for you. <emotion value="peaceful"/>
+CALLER: One
+AGENT: Could you
+CALLER: one hundred one hundred first Street. Rockwell, Maryland 20850. Five one
+AGENT: Okay Kimberly, let me check the dropoff address 1 0 1 1 1 Street, Rockville, Maryland, five one. <emotion value="peaceful"/>
+AGENT: Hmm <break time="350ms"/> I couldn't
+CALLER: Can I get a a a

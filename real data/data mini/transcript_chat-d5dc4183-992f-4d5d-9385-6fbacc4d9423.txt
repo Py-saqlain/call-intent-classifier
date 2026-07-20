@@ -1,0 +1,14 @@
+AGENT: Hi Mark, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Why you have to go?
+AGENT: Uhh, I'm here to help you with your ride or any questions you have about your trips. What can I assist you with today? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello? Oh, I'm very glad you were on the phone.
+AGENT: Yeah, I'm here for you. How can I assist you with your ride or transportation needs today? <emotion value="grateful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello? Is this the toy? Is this? Yeah. Okay. This attack is this is it. Tax Hello? Goodness. Hello?
+AGENT: Uhh, I’m here to help. Could you please tell me what you need assistance with regarding your ride or transportation? <emotion value="hesitant"/>
+CALLER: I am ready. What's for the
+AGENT: So, you’re ready for your pickup? Let me check if you have a ride already on the way or if you need to activate a will-call trip. Just a moment, please.
+AGENT: You don't have any active trips right now. Would you like me to help you book a ride?
+CALLER: What service is this?
+AGENT: This is Barwood Cab and Regency Taxi, providing rides in Montgomery County, DC, and Northern Virginia. How can I assist you with your transportation needs?

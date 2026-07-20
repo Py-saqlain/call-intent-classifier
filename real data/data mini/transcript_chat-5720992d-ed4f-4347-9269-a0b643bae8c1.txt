@@ -1,0 +1,6 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Anita Bardliving?
+CALLER: Yes.
+AGENT: Thanks for confirming, Anita. This is Barwood & Regency. How can I assist you today?
+CALLER: Where is my ride?
+AGENT: Hmm <break time="300ms"/> I don't see any active trips scheduled for you right now. Would you like me to help you book a ride? <emotion value="peaceful"/>
+CALLER: No representative.

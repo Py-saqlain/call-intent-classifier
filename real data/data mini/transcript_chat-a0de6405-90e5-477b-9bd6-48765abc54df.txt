@@ -1,0 +1,20 @@
+AGENT: Hello Eva, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Can I get a cab at two zero zero two five Central Boulevard, Germantown, Maryland
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: Call and ride?
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="grateful"/>
+AGENT: Could you please tell me the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Thirty
+AGENT: Hmmm.. that
+CALLER: thirty seventy four seven seven.
+AGENT: Okay so I've got the last six digits as 3 0 7 4 7 7. Let me verify that for you. <emotion value="peaceful"/>
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Okay, so your dropoff address is 2
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: Is one eight eight six
+AGENT: Thank you. Could you please provide the street name and city for the pickup address starting with one eight eight six? <emotion
+CALLER: Two
+AGENT: Okay, I heard "two." Could you please provide the full street name and city for the pickup address starting with one eight eight six
+CALLER: six two.
+AGENT: Okay, I heard "six two." Could you please provide the full street name and city for the pickup address starting with one eight eight six six two? <emotion value="peaceful"/>

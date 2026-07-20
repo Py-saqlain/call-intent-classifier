@@ -1,0 +1,43 @@
+AGENT: Hello Helen, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, I need it a taxi. To take me from the urgent care in the in the floor of 1st Floor of the Barlow Building. To 8100 Connecticut Avenue. A short distance How long will it take?
+CALLER: For them to come?
+AGENT: Thanks for sharing your trip details. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: I can give cash. It's fine.
+AGENT: Thank you, cash payment is all set for your ride.
+CALLER: What will it be?
+AGENT: I found two urgent care locations that might match what you said: MedStar Health Urgent Care at 1 8 0 4 5 Georgia Avenue in Olney, Maryland, and MinuteClinic at CVS at 3 1 1 0 Olney Sandy Spring Road in Olney, Maryland. Which
+CALLER: No.
+AGENT: Thanks for letting me know. Could you
+CALLER: No. I'm in no. I am not in I am not there. I am on Wisconsin Avenue in the Barlow Building. Wisconsin Avenue
+AGENT: Thank you for clarifying. You're at the Barlow Building on Wisconsin Avenue. Could
+CALLER: I I said 4. Yes. And and I'm in the urgent care, which is on the first floor.
+AGENT: Got it. You're at 4 0 0 0 Wisconsin Avenue, in the Barlow Building, first floor urgent care. Let me check that address for you.
+CALLER: Yes. Yes.
+AGENT: I have 4 0 0 0 Wisconsin Avenue Northwest, Washington, District of Columbia. Is that correct?
+AGENT: Take your time. Just let
+CALLER: I think it's in Maryland. It's it's is it DC? It's 5454 Wisconsin. Maryland. They are ridiculous. Hello? Hello?
+CALLER: Let's see. 454 Wisconsin Avenue.
+CALLER: Maryland, not district.
+AGENT: I have 5 4 5 4 Wisconsin Avenue, Chevy Chase, Maryland. Is that correct?
+CALLER: Correct. Yes. It's correct.
+AGENT: Your pickup address has been verified, Helen. Now, could you please provide the destination or dropoff address?
+AGENT: When would you like to be picked up?
+CALLER: Eight one a When right now? As soon as possible.
+AGENT: Got it, I'll arrange your pickup as soon as possible. How many passengers will be
+CALLER: Ask at a possible
+AGENT: Could you please tell me how many passengers will be traveling, including yourself? Also,
+CALLER: Half. Half. Half. Only only my one. One. One. Paraspin.
+AGENT: Thank you, I have recorded 1 passenger. Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Thank you, I have noted that no wheelchair accessible vehicle is needed. Do you have any special instructions or notes for the driver?
+CALLER: No. I just want to know about when how long it'll take for them to be there and what it will cost. That's all. What when will the driver be here?
+AGENT: Your main trip pickup address is 5454 Wisconsin Avenue, Chevy Chase, Maryland. For information about the driver's arrival time and the cost of your trip, I will connect you to the main
+CALLER: Yes.
+AGENT: You don't have any active trips scheduled right now. Would you like me to help you book a ride?
+CALLER: You mean you don't have anybody who could pick me up? Is that it?
+AGENT: That's right, there is no driver currently assigned to pick
+CALLER: What how can you help
+AGENT: I can help
+CALLER: How can you help me?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Thank

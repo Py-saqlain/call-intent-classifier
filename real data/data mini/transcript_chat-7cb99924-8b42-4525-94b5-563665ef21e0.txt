@@ -1,0 +1,14 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Martina?
+CALLER: Yeah.
+AGENT: Thanks for confirming, Martina. This is Barwood & Regency. Your trip is scheduled for pickup today at 2:02 PM. How can I assist you today?
+CALLER: Um, could I please elaborate?
+AGENT: Of course, please go ahead and tell me what you need. <emotion value="grateful"/>
+CALLER: Okay.
+AGENT: I'm here to listen whenever you're ready. What can I help you with today? <emotion value="peaceful"/>
+CALLER: I'm on a cab to six zero seven.
+AGENT: Just to make sure I have it right, you’re saying you’re currently in a cab to 6 0 7 Blandford Street in Rockville? Is that correct? <emotion value="grateful"/>
+CALLER: No. I need a cab to 607 Bradford Street.
+AGENT: Looks like you already have a trip from 6 0 7 Blandford Street to 8 9 9 Rockville Pike at today 2:02 PM. What would you like to do? <emotion value="grateful"/>
+CALLER: Try try to find out if your cat is ready.
+AGENT: Uhh <break time="300ms"/> I'm sorry about that. Your trip from 6 0 7 Bradford Street to 8 9 9 Rockville Pike is marked as running late, and no driver has been assigned yet. Let me connect you with a representative who can help right away. <emotion value="sympathetic"/>
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

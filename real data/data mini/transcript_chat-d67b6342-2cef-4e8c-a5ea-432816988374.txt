@@ -1,0 +1,6 @@
+AGENT: Hi Ricky, this is Ana from Barwood & Regency. Vehicle 541 has arrived at your pickup location. How can I assist you today?
+CALLER: Okay. Let me go outside.
+AGENT: Alright, take your time. Is there anything else I can assist you with while you get ready? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

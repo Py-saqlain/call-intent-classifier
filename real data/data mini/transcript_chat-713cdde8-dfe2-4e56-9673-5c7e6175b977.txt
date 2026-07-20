@@ -1,0 +1,20 @@
+AGENT: Hi Matt, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to book a trip
+AGENT: Okay, I can help you with that. I'll connect you to the booking team who will assist you with your trip details.
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: May I have the pickup address for your trip, please? <emotion value="peaceful"/>
+CALLER: 700 Sligo Avenue, Silver Spring,
+CALLER: Maryland two zero nine one zero.
+AGENT: Okay, so I found 700 Sligo Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. May I have the dropoff address for your trip? <emotion value="peaceful"/>
+CALLER: Holy Cross and Silver Spring.
+AGENT: I found a few locations. 
+ Option one: 1 9 8 0 1 Observation Drive, Germantown. 
+ Option two: 1 3 4 1 5 Connecticut Avenue, Aspen Hill, Silver Spring. 
+ Option three: 1 5 0 0 Forest Glen Road, Silver Spring. 
+ Option four: 7 9 8 7 Georgia Avenue, Silver Spring. 
+ Which one is correct? <emotion value="hesitant"/>
+CALLER: I'm not sure yet.

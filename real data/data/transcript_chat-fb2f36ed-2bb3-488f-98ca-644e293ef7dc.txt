@@ -1,0 +1,31 @@
+AGENT: Hi Karen, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I wanna book a trip. I'm ready. I talk to a Social Security represent I mean, can can I, uh, make an appointment
+AGENT: I'd be happy to help you with your trip booking. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, cash is all set for your payment method.
+AGENT: Where would you like to be picked up from?
+CALLER: 26370 Woodfield Road in Damascus, Maryland.
+AGENT: I have 2 6 3 7 0 Woodfield Road, Damascus, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Where would you like to go?
+CALLER: I like to go to Social Security in Rockville
+AGENT: I found Social Security Administration
+CALLER: Pike on Rockville, Maryland.
+AGENT: Just to clarify, did you mean the Social Security Administration at 3 1 5 North Washington Street, Rockville, Maryland, or are you referring
+CALLER: Yes. Yeah.
+AGENT: Your dropoff address has been verified, Karen.
+AGENT: When would you like to be picked up?
+CALLER: It two thirty.
+AGENT: Just to confirm, you mean 2:30 PM today, correct?
+CALLER: Oh, no. I leave right now.
+AGENT: Got it, I'll arrange your pickup for right now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: I need a wheelchair accessible vehicle, and I need a cab eleven twenty five.
+AGENT: The estimated fare for your trip is 45.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: Let me speak to a representative.
+AGENT: I’m connecting you to a representative now who can assist you further.
+CALLER: Tony. He did the trip up there is $40. But we're gonna give him that. But she did an estimate.
+AGENT: Your
+CALLER: That's what it cost.
+AGENT: Your main trip is confirmed with confirmation number 2 1 3 6 6 4 6 2 2, and the pickup is scheduled for today at 1:16 PM. Is there anything else I can help you with?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

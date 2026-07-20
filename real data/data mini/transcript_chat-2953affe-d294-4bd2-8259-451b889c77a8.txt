@@ -1,0 +1,9 @@
+AGENT: Hello Joyce, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello. Um, I'm I'm waiting for Ryan this number just popped my phone. Who am I talking to, please?
+AGENT: How can I assist you today? Are you calling about a ride, a booking, or something else? <emotion value="peaceful"/>
+CALLER: Alright. Yeah. Right. Yes. Arise. You met your accent. Please. Are you here? It should be my window was two to 02:30.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: No. What is this? Uber? No. Metro access, it's usually free. I'm I'm scheduled to them already. There's usually no pay.
+AGENT: I understand, but for this service, we only accept cash, credit card, or Call and Ride for payment. If you'd like, I can connect you to a live agent who can help with other options. Would you like me to do that? <emotion value="peaceful"/>
+CALLER: Okay. Thank you.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

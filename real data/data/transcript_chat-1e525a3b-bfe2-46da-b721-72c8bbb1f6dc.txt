@@ -1,0 +1,42 @@
+AGENT: Hi Maura, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi, Anna. I'd like to reserve a taxi cab for tomorrow.
+AGENT: Thank you for letting me know. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you for choosing credit card as your payment method. I'll proceed with that.
+AGENT: Could you please tell me the pickup address for your
+CALLER: Can you walk? One zero one one zero Kensington Parkway, Kensington, Maryland
+AGENT: Just to confirm, your pickup address is one zero one one zero
+CALLER: two zero eight nine five.
+AGENT: Thank you for the correction. So your pickup address is two zero eight nine five Kensington Parkway, Kensington, Maryland. Is that correct?
+CALLER: No. No. That is not correct. We should start again.
+AGENT: Understood. Let's start over. Could you please provide your pickup address again?
+CALLER: One zero one one zero Kensington Parkway, Kensington, Maryland.
+AGENT: Just to confirm, your pickup address is one zero one one zero Kensington Parkway, Kensington, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Ronald Reagan National Airport.
+AGENT: Just to confirm, your dropoff address is two four zero one Smith Boulevard, Arlington, Virginia. Is that correct?
+CALLER: No. National Airport.
+AGENT: I found Ronald Reagan Washington National Airport at 2401 Smith Boulevard, Arlington, Virginia. Is that the correct dropoff location?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Maura.
+AGENT: What time tomorrow would you like to be picked up?
+CALLER: Five am
+AGENT: Just to confirm, you would like to be picked up tomorrow at 5:00 AM, correct?
+CALLER: Correct.
+AGENT: Thank you for confirming your pickup time. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger no wheelchair accessibility is required.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: Front porch lights will be on so he can see the number the house.
+AGENT: Maura, the estimated fare for your trip is 40.5 dollars, paying with a credit card. Would you like to schedule a return trip as well?
+CALLER: Thank you.
+AGENT: I'm processing your booking now. Please hold on a moment.
+CALLER: Thank you.
+AGENT: Your main trip is scheduled for tomorrow at 5:00 AM. The confirmation number is 2 1 3 6 7 9 2 8 6. Is there anything else I can assist you with?
+CALLER: Will you call be upon arrival tomorrow morning?
+AGENT: I don’t have the ability to make calls, but your driver will typically arrive at the pickup location around the scheduled time. If you want, I can connect you to a representative who can provide more details about driver notifications. Would you like me to do that?
+CALLER: No, that's okay. Please confirm again the arrival time tomorrow.
+AGENT: Your pickup is scheduled for tomorrow at 5:00 AM. Is there anything else I can help you with?
+CALLER: No thank you
+AGENT: Thank you for calling Barwood & Regency, Maura. Have a wonderful day.
+CALLER: Me too.

@@ -1,0 +1,26 @@
+AGENT: Hi Mary, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Oh, I I want a taxi cab. And I'm waiting and the pickup address is seven one zero one Timokrase Boulevard and Bethesda, Maryland. And I'm waiting here And I'm going to 8809. They're waiting me Court, Potomac, Maryland. And I'm just repeating. The pickup address is seven one zero one Democracy Boulevard, Bethesda, Maryland, and going to eight eight zero nine Merry Maid Court, Potomac, Maryland I'm waiting now and and cash customers here.
+AGENT: Okay so I've got that payment noted as cash.
+AGENT: Okay, so your pickup is at seven one zero one Democracy Boulevard, Bethesda, Maryland, and your destination is eight eight zero nine Mary Mead Court, Potomac, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Right.
+AGENT: Your addresses have been verified, Mary.
+AGENT: You mentioned you want to be picked up now. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Okay great! I've got your pickup time as today at 4:55 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: What is it? I don't need any other adults. Just I don't need a wheelchair. No. No wheelchair. Nothing.
+AGENT: Alright, the estimated fare is 11 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Just myself. Okay.
+AGENT: Would you like me to set up a return trip for you, or just the one way trip for now? <emotion value="peaceful"/>
+CALLER: Okay. Pardon me?
+AGENT: Would you like me to arrange a return trip for you after this ride, or do you want to book only this one-way trip right now? <emotion value="peaceful"/>
+CALLER: No. This is one trip.
+AGENT: Your trip is scheduled for today at 4:55 PM. Your confirmation number is 2 1 3 6 7 4 3 3 2. Is there anything else I can help you with?
+CALLER: Only this trip.
+AGENT: You already have a scheduled trip today at 4:55 PM with confirmation number 2 1 3 6 7 4 3 3 2. Is there anything else I can assist you with?
+CALLER: As soon as possible, please. Okay?
+AGENT: I’m sending your request to book a trip as soon as possible. Please hold on for just a moment.
+AGENT: You already have a scheduled trip today at 4:55 PM with confirmation number 2 1 3 6 7 4 3 3 2. Is there anything else I can assist you with?
+CALLER: No. That's all. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Mary. Have a wonderful day!
+CALLER: Okay.
+AGENT: If you need anything else in the future,

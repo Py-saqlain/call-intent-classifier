@@ -1,0 +1,17 @@
+AGENT: Hello Shenna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Order a cab. To six two five Drive, at the Giant.
+AGENT: Could you please confirm the full address for the pickup location? Also, is the destination the Giant store at 6 2 5 Drive, or is that the pickup address? And do you have a preferred pickup time?
+CALLER: Rockville,
+AGENT: Thank you. Just to be sure, is your pickup location 6 2 5 Drive in Rockville, or is that the Giant store address? And where would you like to be dropped off? Also, when would you like the pickup?
+CALLER: Pickup. The address is six two five Rockwood apartment.
+AGENT: Thanks for clarifying. So your pickup address is 6 2 5 Rockwood Apartment. Could you please tell me the city for that address? Also, where would you like to go? And when should the pickup be?
+CALLER: I like like, the. Could I speak to an agent?
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Thank you for calling Barwood and Regency. Have a great day, Shenna.
+CALLER: Oh, no. Oh, no. Hello?
+AGENT: I’m here to help. What can I do for you today?
+CALLER: Hello. I need a live agent.
+CALLER: That one's in my head. Kinda work something. So I moved out to walk and catch a rut.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

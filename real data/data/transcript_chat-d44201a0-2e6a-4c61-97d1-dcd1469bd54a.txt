@@ -1,0 +1,24 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Maureen Pierre?
+CALLER: Yes.
+AGENT: Thanks, Maureen. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I would like your tab to go to that. Is
+AGENT: Could you please clarify what you would like to book a trip to?
+CALLER: To to the dialysis center. On Georgia Avenue.
+AGENT: Thank you for letting me know the destination is the dialysis center on Georgia Avenue. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash. Yes. Got
+AGENT: Thank you, Maureen. Your payment method is set to cash.
+AGENT: Could you please provide the pickup address for your trip?
+CALLER: Fourteen two zero seven Georgia Avenue.
+AGENT: I have 1 4 2 0 7 Georgia Avenue, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: It seems the pickup address 1 4 2 0 7 Georgia Avenue, Silver Spring, Maryland could not be located. Could you please confirm the city and state for this address?
+CALLER: 14207. Georgia Avenue, Silver Spring, Maryland 20906.
+AGENT: I have 1 4 2 0 7 Georgia Avenue, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yeah.
+AGENT: The pickup address 1 4 2 0 7 Georgia Avenue, Silver Spring, Maryland still cannot be located. Could you please provide any additional details or landmarks near this address to help find it?
+CALLER: Close to Berkeley Road.
+AGENT: I found Northgate Apartments at 1 4 2 0 7 Grand Pre Road, Silver Spring, Maryland. Is this the correct pickup location?
+CALLER: No. No. No.
+AGENT: Thank you for letting me know that is not the correct pickup location. Could you please provide another nearby landmark or cross street to help identify your pickup address?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Cross street is Bell Free Road.

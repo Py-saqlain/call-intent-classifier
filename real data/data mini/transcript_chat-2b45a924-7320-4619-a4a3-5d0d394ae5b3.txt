@@ -1,0 +1,15 @@
+AGENT: Hello, rumani. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like to get a cat.
+AGENT: Could you please clarify if you meant to say you would like to book a cab ride? I'm here to help with transportation bookings.
+CALLER: Yeah.
+AGENT: Thanks for confirming. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Hello?
+AGENT: I'm here to help. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Hello?
+AGENT: I’m here to assist you. Could you please tell me how you would like to pay for your ride? Your options are cash, credit card, or Call and Ride.
+CALLER: Yes. Yes.
+AGENT: Just to make sure I understand, would you like to pay with cash, credit card, or Call and Ride?
+CALLER: Yes.
+AGENT: Could you please specify if you would like to pay with cash, credit card, or Call and Ride?
+CALLER: Uh-uh.
+AGENT: I want to make sure I get this right for you. Would you prefer to pay with cash, credit card, or Call

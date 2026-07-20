@@ -1,0 +1,37 @@
+AGENT: Hello Seth, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like a ride.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Eight Eight Five Rockville pipe.
+AGENT: Okay, so your pickup address is 8 8 5 Rockville Pike, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Six zero seven o California one is the state circle. Rockville, Maryland 20852.
+AGENT: Okay, so your dropoff address is 6 0 7 0 California Circle, North Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Seth. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time as today at 5:10 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One,
+AGENT: Got it, one passenger. Do you also need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Get here quick.
+AGENT: The estimated fare is 9 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, I'll skip the return trip and proceed with booking your one-way ride. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so <break time="250ms"/> I'm booking your ride now. <emotion value="grateful"/>
+AGENT: Thank you for waiting. Your ride is booked for today at 5:10 pm. The confirmation number is S <break time="300ms"/> E <break time="300ms"/> T <break time="300ms"/> H <break time="300ms"/> 4 <break time="300ms"/> 2 <break time="300ms"/> 7 <break time="300ms"/> 1. Is there anything else I can help you with?
+CALLER: No.
+AGENT: I will connect you now.
+AGENT: The estimated fare is 9 dollars, paying with Cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for waiting. I'm booking your ride now.
+AGENT: Your ride is booked for today at 5:10 pm. The confirmation number is 2 1 3 6 7 6 1 7 0. Is there anything else I can help you with?
+CALLER: No.
+AGENT: I will connect you now.
+AGENT: Thank you for calling Barwood & Regency, Seth. Have a wonderful day.

@@ -1,0 +1,41 @@
+AGENT: Hello Audrey, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab at the Germantown Hallcross Hospital in the ER entrance.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: May I have the pickup address for your ride, please? <emotion value="peaceful"/>
+CALLER: Alright. What's the address here? What's the address?
+AGENT: I want to make sure I understand correctly. Could you please tell me the pickup address where the driver should come to get you? <emotion value="peaceful"/>
+CALLER: Well, hold on.
+AGENT: Take your time. Whenever you're ready, just let me know the pickup address. <emotion value="peaceful"/>
+CALLER: One nine eight zero one. Observation Drive. Observation Drive.
+AGENT: Okay, so I found 1 9 8 0 1 Observation Drive, Germantown, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+CALLER: Or if possible.
+AGENT: I found one location: Holy Cross Germantown Hospital Emergency Room at 1 9 8 0 1 Observation Drive, Germantown, Maryland. Is that the correct dropoff address? <emotion value="peaceful"/>
+AGENT: I found one location: Holy Cross Germantown Hospital Emergency Room at 1 9 8 0 1 Observation Drive, Germantown, Maryland. Is that the correct dropoff address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now. And my drop off my drop off address is thirteen d a e LL Avenue. Bells Avenue in Rockville.
+AGENT: Okay, I've got your pickup time as right now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: One one time, sir. No wheelchair meat. No wheelchair vehicle need. And no wheelchair vehicle needed. It's one passenger.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Thank you for providing all the details. Your ride request is now being processed. If you need anything else, just let me know.
+AGENT: Okay, so
+CALLER: No.
+AGENT: Uh, I am sorry, but could you please repeat the pickup address? <emotion value="apologetic"/>
+CALLER: One address
+AGENT: Could you please provide the full pickup address again? <emotion value="peaceful"/>
+CALLER: Hold on. One nine eight zero one. Austeration Drive, in Germantown.
+AGENT: Okay, so I found 1 9 8 0 1 Observation Drive, Germantown, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Yes. That's the correct pickup address.
+AGENT: Alright, so let me confirm those details. Your pickup address has been updated. What time would you like to schedule your pickup? <emotion value="peaceful"/>
+AGENT: Alright, so your pickup is 1 9 8
+CALLER: White neck.
+AGENT: Your main trip payment method is Credit Card. How many passengers will be traveling, including yourself?
+CALLER: Yeah.
+AGENT: I'm connecting you to a customer service representative
+CALLER: One

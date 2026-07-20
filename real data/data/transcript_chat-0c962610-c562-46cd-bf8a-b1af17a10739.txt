@@ -1,0 +1,33 @@
+AGENT: Hello Nancy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Oh, my name came right up. I I need a cab for Monday morning, um, at 6AM. And my address, you do you have that? 15 Oxford Street,
+AGENT: Alright, how would you like to pay for your ride on Monday morning? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash is fine. What is it about? It's I'm going to Reagan. It's about $35 or something. Or I forget.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+CALLER: Mhmm. Do you know how much it is?
+AGENT: Okay, so I have your pickup as 15 Oxford Street, Chevy Chase, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's right.
+AGENT: Thank you for confirming. Your pickup address is 1 5 Oxford Street, Chevy Chase, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Reagan Airport.
+AGENT: I found Ronald Reagan Washington National Airport at 2401 Smith Boulevard, Arlington, Virginia. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Nancy.
+AGENT: You mentioned Monday at 6 AM for your pickup time. Is that correct? <emotion value="peaceful"/>
+CALLER: Right. Yes. That's right.
+AGENT: Okay great! I've got your pickup time for Monday at 6 AM noted. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: What no. Just one person and a backpack.
+AGENT: Alright, the estimated fare is 31 dollars, paying with cash. Would you like to schedule
+CALLER: Okay.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Yeah. I'm gonna leave that open because I'm not sure.
+AGENT: Okay, I've recorded your return trip as a will-call trip with no specific pickup time. <emotion value="grateful"/> Now, how many passengers will be traveling on the return trip, including yourself? And will anyone need a
+CALLER: Just fine.
+CALLER: No. Just myself.
+AGENT: For your return trip, I have the pickup as 2401 Smith Boulevard, Arlington, Virginia, and the dropoff as 15 Oxford Street, Chevy Chase, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. But I'm not gonna book that now because I don't know if that's gonna when I'm coming back.
+AGENT: Thank you for letting me know. I’m processing your main trip booking now. Please hold on a moment.
+AGENT: Your main trip is booked for July 13th at 6:00 am. Your confirmation number is 2 1 3 6 7 2 9 1 2. Is there anything else I can help you with?
+CALLER: No, that's all. Thank you so much.
+AGENT: Thank you for calling Barwood & Regency, Nancy. Have a wonderful day!
+CALLER: Thank you. Bye.

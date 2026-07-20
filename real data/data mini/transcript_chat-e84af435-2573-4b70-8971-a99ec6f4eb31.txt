@@ -1,0 +1,9 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Luis Litama.
+AGENT: Thanks, Luis. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: What time are you guys coming to pick it up, mister?
+AGENT: Uhh, so it sounds like you want to schedule a pickup. Let me connect you to the booking team who can help set that up for you.
+AGENT: Alright, Luis, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: How many about the pay? You got a Medicaid. What the fuck?
+AGENT: I understand your concern, Luis. We only accept cash, credit card, and Call and Ride for payment on this line. If you'd like, I can connect you to a live agent who can help with Medicaid or other options. Would you like me to do that? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.

@@ -1,0 +1,7 @@
+AGENT: Hello Shirley, this is Ana with Barwood & Regency. Your trip is scheduled for pickup today at 8:10 PM. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Don't know.
+AGENT: Uhh, no worries at all. Would you like me to help you book a ride, check the status of an existing trip, or connect you with someone who can assist you further? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

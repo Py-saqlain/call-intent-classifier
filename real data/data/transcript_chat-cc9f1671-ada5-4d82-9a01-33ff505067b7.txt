@@ -1,0 +1,31 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Yes.
+AGENT: Could you please tell me your name so I can set up your profile?
+CALLER: That's what I'm asking.
+AGENT: I understand. If you’d like, I can help you get started with a ride. When you’re ready, just let me know your name so I can create your profile for you.
+CALLER: Yeah.
+AGENT: Thank you. What name should I use to create your profile?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm here to help whenever you're ready.
+AGENT: I want to make sure I get your name right. Could you please say your name for me?
+CALLER: Of course. My name is Anna. Now I have your name to set up your profile with Barwood and Regency?
+AGENT: Thank you, Anna. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Thanks, Anna. This is Anna from Barwood and Regency. How can I help you today?
+AGENT: Uhh, I’m Ana, and I’m here to help you with your ride. If you’d like to book a trip or need assistance, just let me know what you need. <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Okay, Anna. How can I assist you with your ride today? If you wanna book a ride or need help with anything else,
+AGENT: I’m here to help with your payment method for the ride. Could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: just tell me what you need, and I'll get you to the right place. I'm happy to help with your ride.
+AGENT: Thanks for that. To get started, could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: But first, I need your name to get started. What name should I use for your profile?
+AGENT: I already have your name as Anna. Now, could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I'm here to help with your enrollment method whenever you're ready.
+AGENT: Hmmm.. that didn't seem quite right, could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: I'm here to help with your enrollment method whenever you're ready. Could you please tell me your name for the pro Could you please tell me who you would like to pay for your ride? Wanna make sure I have your name correctly Credit 40% fallen ride. Could you please tell me your name? Understand you wanna tell me your payment method. Could you please confirm how you would like to pay for your ride? We accept cash, credit card, and call and ride.
+AGENT: Hmmm.. that didn't seem quite right, could you try again and tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: You. I wanna let you know about your payment correctly before we proceed. Before we proceed, please tell me I have your name. Please. I'm here to assist you with your ride.
+AGENT: I want to make sure I have everything right. Could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: But first, I need your name to set up your profile. Could you please tell me your name? Of course. My You wanna make sure I get
+AGENT: I already have your name as Anna. Now, could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: everything right. In Regions Bank. Please tell me your name so I can set up your profile? I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

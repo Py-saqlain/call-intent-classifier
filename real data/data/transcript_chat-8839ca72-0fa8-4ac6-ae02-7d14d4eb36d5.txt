@@ -1,0 +1,63 @@
+AGENT: Hello osbhel, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I never heard from Montgomery Moore. To Aspen Hill, bro.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Alright.
+AGENT: Hmmm.. that didn't seem right, could you try again? How would you like to pay for your ride? Cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Orange rice.
+AGENT: Hmmm.. <break time="300ms"/> I didn't quite catch that. Did you mean Call and Ride for payment? Or would you prefer cash or credit card? <emotion value="hesitant"/>
+CALLER: Pulling right.
+AGENT: Just to make sure, did you mean Call and Ride for payment? Or would you like to pay with cash or credit card? <emotion value="hesitant"/>
+CALLER: Yeah. No. Call and ride.
+AGENT: Okay so <break time="300ms"/> you've chosen Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Thirty five zero five seven six.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: You got me?
+AGENT: Yes, I'm here and ready to help. Could you please provide the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: Device starts a moment remote.
+AGENT: Uh, I am sorry, but could you please repeat that? I want to make sure I get your pickup address correctly. <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm really Montgomery and Mo, they buy
+AGENT: Hmm <break time="350ms"/> let me check that address. Did you mean Montgomery and Mo? Could you please clarify the street names or nearby landmarks? <emotion value="hesitant"/>
+CALLER: Yeah. They buy stuff in Montgomery Mall. They buy stuff in in Mall.
+AGENT: Okay, so your pickup is Montgomery Mall. Just to confirm, is that Montgomery Mall in Bethesda, Maryland? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah.
+AGENT: Okay, so I found Montgomery Mall, Bethesda, Maryland. Is that correct for your pickup address? <emotion value="peaceful"/>
+CALLER: Yeah. It's correct.
+AGENT: Okay, so your pickup address is 7 1 0 1 Democracy Boulevard, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah. Montgomery Mall. The buy stuff. They buy stuff.
+AGENT: I found a few locations for Aspen Hill.  
+Option one: 3 0 4 North Stonestreet Avenue A, Rockville.  
+Option two: 3 4 6 0 Olney Laytonsville Road number 2 2 2, Olney.  
+Option
+CALLER: No. I'll explain here a road. Aspen Hill Road. 4511 Aspen Hill Road.
+AGENT: Okay, so you mean 4 5 1 1 Aspen Hill Road. Is that correct? <emotion value="peaceful"/>
+CALLER: Alright.
+AGENT: Okay, so your dropoff
+CALLER: Alright.
+AGENT: Okay, so your dropoff address is 4 5 1 1 Aspen Hill Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: I'm a Montgomery Mall I I stopped the Montgomery Mall.
+AGENT: Okay, so your pickup is Montgomery Mall. Just to confirm, is that Montgomery Mall at 7 1 0 1 Democracy Boulevard, Bethesda, Maryland? <emotion value="peaceful"/>
+CALLER: It's right here in the bus stop.
+AGENT: Okay, so your pickup address is 7 1 0 1 Democracy Boulevard, Bethesda, Maryland, at the bus stop. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified, Osbhel.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now,
+AGENT: Okay great! I've got your pickup time as today at 3:57 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible
+CALLER: Oh, Oh. Only only one.
+AGENT: Okay great! <emotion value="grateful"/> Will you be needing a wheelchair accessible vehicle?
+CALLER: No. No wheelchair.
+AGENT: Okay great! <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 22 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Okay. Alright.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 3:57 PM. Your confirmation number is 2 1 3 6 7 4 3 1 0. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, osbhel. Have a wonderful day!

@@ -1,0 +1,38 @@
+AGENT: Hi Kathy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a cab.
+AGENT: Alright, how would you like to pay for your cab today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: 10. You're there.
+AGENT: Hmmm.. that didn't seem right, could you try again? How would you like to pay for your cab? Cash, credit card, or Call and Ride? <emotion value="apologetic"/>
+CALLER: Yes. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: May I have the pickup address for your cab, please? <emotion value="peaceful"/>
+CALLER: One one seven zero nine Zacks Terrace. D o d a m
+CALLER: Lindsay, that is that
+AGENT: Okay, I found a close match for 1 1 7 0 9 Zacks Terrace in Germantown, Maryland. Is 1 1 7 0 9 Doxdam Terrace, Germantown, Maryland the correct pickup address? <emotion value="hesitant"/>
+AGENT: Okay, so I found 11709 Doxdam Terrace, Germantown, Maryland. Is that correct? <emotion value="hesitant"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. May I have the dropoff address, please? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please tell me the dropoff address for your ride? <emotion value="peaceful"/>
+CALLER: Is your baby One one
+AGENT: Uh, I am sorry, but could you repeat that? I didn't quite catch the dropoff address. <emotion value="apologetic"/>
+CALLER: One one four five five
+AGENT: Could you please provide the street name or location for the dropoff address along with the number one one four five five? <emotion value="peaceful"/>
+CALLER: One one four five five One one with the One one four five five Take this. One one four five five apple is it apple? Apple bread. Drive.
+AGENT: I found 1 1 4 5 5 Applegrath Way, Germantown, Maryland. Is that the correct dropoff address? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now Hate this with boy. You don't go outside. You're crazy.
+AGENT: Just to be sure, did you mean you want to be picked up right now? Or would you prefer to schedule a will-call trip to call back when you're ready? <emotion value="hesitant"/>
+CALLER: Yes. Right now.
+CALLER: Right now.
+AGENT: Alright, soo <break time="300ms"/> so how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+AGENT: Okay great! I've got your pickup time as right now. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two and no wheelchair. That's what they do.
+AGENT: Alright, so let me confirm those details. Your pickup is 1 1 7 0 9 Doxdam Terrace. Your dropoff is 1 1 4 5 5 Applegrath Way. Pickup time is right now. You have two passengers traveling, and no wheelchairs needed. The estimated fare is 7 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for confirming. I am processing your booking now. Please hold on a moment.
+AGENT: Your main trip is booked for today at 6:24 PM. Your confirmation number is 2 1 3 6 7 1 0 1 9. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Kathy. Have a wonderful day!

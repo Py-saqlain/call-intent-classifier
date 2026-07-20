@@ -1,0 +1,42 @@
+AGENT: Hi Nicole, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm at Black Rock. In in Germantown.
+AGENT: Okay, I understand you're at Black Rock in Germantown. Are you looking to book a ride from there? If so, where would you like to go?
+CALLER: Yeah. 18310 Federal Tree Way.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Alright.
+AGENT: Hmmm.. that didn't seem like a payment method. Could you please tell me how you'd like to pay? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: Call and rider.
+AGENT: Did you mean Call and Ride for your payment method? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Hmmm.. I
+CALLER: Three four five three
+AGENT: Hmmm.. that didn't seem right, could you please provide the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Three four five three two nine.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: I found a few locations for Black Rock in Germantown. 
+Option one: 1 2 9 0 1 Town Commons Drive, Germantown. 
+Option two: 1 7 3 2 6 Germantown Road, Germantown. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: The first one.
+AGENT: Your pickup address has been verified, Nicole.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now.
+AGENT: Okay, great! How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Only one, and now
+AGENT: Hmm, sorry, let me get that right. You mentioned one passenger. Could you please confirm if anyone will need a
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: No. Yeah. No.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special
+CALLER: Nobody can answer the question.
+AGENT: I understand. If you don't have any special instructions for the driver, just let me know by saying "No." Otherwise, please tell me any details the driver should know. <emotion value="hesitant"/>
+CALLER: No. No.
+CALLER: No.
+AGENT: Alright, the estimated fare is 17.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No. No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 2:02 PM. Your confirmation number is 2 1 3 6 7 4 1 6 3. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Nicole. Have a wonderful day.

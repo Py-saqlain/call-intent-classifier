@@ -1,0 +1,46 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Carmilla Cogil,
+AGENT: Thanks, Carmilla. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a cab, please.
+AGENT: Thank you, Carmilla. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, Carmilla. Your payment method is set to credit card.
+AGENT: Carmilla, could you please tell me the pickup address for your cab ride?
+CALLER: Nine thousand Rockdale Pike
+AGENT: I have the pickup address as nine zero zero zero Rockville Pike, Bethesda, Maryland. Is that correct?
+CALLER: building ten north.
+AGENT: Thank you for that detail. To make sure I have it right, is your pickup address nine zero zero zero Rockville Pike, Building Ten North, Bethesda, Maryland?
+CALLER: Building 10.
+AGENT: Got it. Just to confirm, your pickup address is nine zero zero zero Rockville Pike, Building 10, Bethesda, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: On Center Drive.
+AGENT: I found a few locations related to Center Drive. Here are some options:
+
+1. Dr. Bruce Rind - Center for Health and Healing at 800 South Frederick Avenue, Suite 212, Gaithersburg, Maryland
+2. Gastro Center of Maryland at 501 North Frederick Avenue, Suite 204, Gaithersburg, Maryland
+3. Medical Center Drive in Maryland, zip code 20850, with specific intersections at 9711 and 9800
+
+Which one would you like to use for your dropoff?
+CALLER: My drop off is one four three zero nine Shoreham Drive, Silver Spring, Maryland.
+AGENT: I have the dropoff address as Maryland. Could you please confirm if that is correct?
+CALLER: The address is one four three zero nine Shoreham, s h o r e h a m, Drive, Silver Maryland
+AGENT: I want to make sure I have your dropoff address right. Is it one four three zero nine Shoreham Drive, Silver Spring, Maryland?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Carmilla. I will now proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: Thank you. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 29.5 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking your one-way trip. Just to confirm, should I go ahead and book it now?
+CALLER: Yes.
+AGENT: I am booking your trip now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 4 9 1 9. Your pickup is today at 5:58 PM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Carmilla. Have a wonderful day!

@@ -1,0 +1,18 @@
+AGENT: Hi Mary, this is Ana from Barwood & Regency. Vehicle 1006 has arrived at your pickup location. How can I assist you today?
+AGENT: Take your time. Just let me know when you're
+CALLER: No. It's okay.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: I forgot to give you the pickup at Cheesecake Factory. So the you know, I was I was going to call you to tell tell me it's a Cheesecake Factory. And then you are here. Thank you.
+AGENT: Alright, so you want to book a pickup from Cheesecake Factory. Let me get that set up for you right now.
+AGENT: Looks like you already have a trip from Bethesda to Potomac at today 4:55 PM. What would you like to do?
+CALLER: How did you know? There is a lot of different places, and
+AGENT: I see you have an active trip scheduled from Bethesda to Potomac at 4:55 PM today. Would you like to check the status, cancel, change it, or book a new trip?
+CALLER: A busy day. P. P. P. So today is a busy day for you?
+AGENT: Uhh, I’m here to help you whenever you need, no matter how busy it gets. What can I assist you with right now? <emotion value="peaceful"/>
+CALLER: Oh, they are going to go to the party? They need they need a car Oh,
+AGENT: Are you asking about arranging a ride to a party? If so, I can help you book that trip. Just let me know the pickup and dropoff details.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: You usually you know, the drive driving around the steer or is it possible? Yeah. I'm I'm asking you as driving some more in the or the if there's some dysuria, that's true.
+AGENT: Uhh, if you're asking about the driver staying nearby or waiting, I can help with that. Could you please tell me more about what you need for your ride? <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Today, they said it's gonna be raining, but the week we didn't have a raining this morning.

@@ -1,0 +1,38 @@
+AGENT: Hi Jacqueline, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I went taxi, please.
+AGENT: I can help you with booking a taxi ride. Could you please tell me your pickup location?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Two zero nine one o. Frederick Road. Walmart. Three. Back. Pickup. Is two zero nine one zero Frederick Road,
+AGENT: Thank you for the pickup address at two zero nine one zero Frederick Road near Walmart. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: call and ride
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three three seven six zero seven.
+AGENT: Thank you, your payment with Call and Ride is all set.
+AGENT: I have the pickup address as two zero nine one zero Frederick Road, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: I found several Walmart locations at two zero nine one zero Frederick Road in Germantown, Maryland. They include Walmart Deli, Walmart Supercenter, Walmart Auto Care Center, Walmart Pharmacy, and Walmart Vision & Glasses. Which one would you like to go to?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Roman Grove Street. Get a grocery. I'm going to Walmart grocery on Frederick Road.
+AGENT: Your dropoff address has been verified. Thank you, Jacqueline. I will now proceed with arranging your trip.
+AGENT: You mentioned there will be 3 passengers traveling. Is that correct?
+CALLER: No. No. No. No. Only one passenger.
+AGENT: Thank you for confirming there is only one passenger. When would you like to be picked up?
+CALLER: I'm going to I'm gonna be picked up I'm going to 12208 Canterfield Terrace. That's the drop off.
+AGENT: Sure, let me update that address.
+AGENT: I have the dropoff address as one two two zero eight Canterfield Terrace, Germantown, Maryland. Is that correct?
+CALLER: That's correct.
+AGENT: The dropoff address has been successfully updated. What time would you like to schedule your pickup?
+AGENT: You mentioned there will be one passenger traveling. Is that correct?
+CALLER: No. Right.
+AGENT: Thank you for confirming one passenger. When would you like to be picked up?
+CALLER: I would like to be picked up as soon as possible.
+AGENT: I've scheduled your pickup for today as soon as possible. Will you need a wheelchair accessible vehicle?
+CALLER: I'm ready to go. No.
+AGENT: The estimated fare for your trip is 10 dollars, and you will be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking your one-way trip then. Should I go ahead and book it now?
+CALLER: Yes.
+AGENT: I am booking your trip now.
+AGENT: Your main trip is scheduled for today at 11:09 AM. Your confirmation number is 2 1 3 6 6 3 2 9 7. Is there anything else I can assist you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Jacqueline. Have a wonderful day!

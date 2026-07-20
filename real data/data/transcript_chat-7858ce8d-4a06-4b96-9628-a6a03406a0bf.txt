@@ -1,0 +1,57 @@
+AGENT: Hello Patrick, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to reserve a cab
+AGENT: Alright, how would you like to pay for your cab ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: But Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Nine zero zero zero Rockville Pike. In Bethesda, Maryland, two zero eight one four. The Sapra House.
+AGENT: Okay, so your pickup address is nine zero zero zero Rockville Pike, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide the correct pickup address again? <emotion value="apologetic"/>
+CALLER: 9000 Rockville Pike. Bethesda. Maryland. APRA, House,
+AGENT: Okay, so your pickup address is nine zero zero zero Rockville Pike, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: I see, thank you. Could you please clarify what part of the pickup address needs to be corrected or provide the full correct pickup address again? <emotion value="apologetic"/>
+CALLER: And these additional address information
+AGENT: I understand you want to add more details to the pickup address. Could you please provide the full, complete pickup address including those additional details? <emotion value="peaceful"/>
+CALLER: Nine thousand Rockville Pike bethesda, Maryland two zero eight one four. At the Safra House
+AGENT: Okay, so your pickup address is nine zero zero zero Rockville Pike, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: or Saffra Family Lodge.
+AGENT: I found Edmond J. Safra Family Lodge at 6 5 Center Drive, Bethesda, Maryland. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Dulles International Airport.
+AGENT: I found 1 Aviation Circle, Washington, District of Columbia. Is that the correct destination? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Patrick.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Your pickup address is 65 Center Drive, Bethesda, Maryland. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Nine thirty
+AGENT: Hmm <break time="300ms"/> I was asking about how many passengers will be traveling and if anyone needs a wheelchair-accessible vehicle. Could you please tell me that? <emotion value="hesitant"/>
+AGENT: Okay great! I've got your pickup time noted as today at 9:30 PM. Now, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: The passengers, no wheelchair accessible.
+AGENT: Okay great! I've got 1 passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: Incorrect.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. Could you please tell me again how many passengers will be traveling and if anyone needs a wheelchair-accessible vehicle? <emotion value="apologetic"/>
+CALLER: Two passengers. No wheelchairs.
+AGENT: Okay great! I've updated your passenger count to 2 with no wheelchairs needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: Currently incorrect time on reservation.
+AGENT: I understand you want to change the pickup time. When would you like to be picked up instead? <emotion value="peaceful"/>
+CALLER: Nine thirty AM tomorrow.
+AGENT: Okay great! I've updated your pickup time to tomorrow at 9:30 AM. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: Pickup at Safra House
+AGENT: Sure, let me update that address.
+AGENT: I found Edmond J. Safra Family Lodge at 6 5 Center Drive, Bethesda, Maryland. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Alright, the pickup address has been successfully updated. What time would you like the pickup? <emotion value="peaceful"/>
+AGENT: Just to confirm, your pickup time is tomorrow at 9:30 AM, with 2 passengers and no wheelchairs needed. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Alright, the estimated fare is 37.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will proceed with booking your one-way trip then. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so <break time="250ms"/> I'm booking your trip now.
+AGENT: Your trip is booked for tomorrow at 9:30 AM. Your confirmation number is 2 1 3 6 7 2 2 5 7. Is there anything else I can help you with?
+CALLER: Nope.
+AGENT: Thank you for calling Barwood & Regency, Patrick. Have a wonderful day!
+CALLER: Thank you.

@@ -1,0 +1,44 @@
+AGENT: Hello Angela, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm booking for a cab.
+AGENT: Thank you for choosing us for your cab ride. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Colin Wright.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: Could you please provide the last six
+CALLER: Zero six eight seven eight zero. Zero six eight seven eight zero.
+AGENT: Thank you for providing your Call and Ride details. Your payment method is set to Call and Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: One one four three one Stony Point Place, Germantown.
+AGENT: I have 1 1 4 3 1 Stoney Point Place, Germantown, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: At T J Max at two zero nine zero six
+AGENT: Could you please
+CALLER: Frederick Road, Germantown.
+AGENT: I found a few T.J. Maxx locations. Here are the ones that match your request:
+
+1. 20906-B Frederick Road, Germantown, Maryland
+2. 18329 Village Mart Drive, Olney, Maryland
+3. 1776 East Jefferson Street, Rockville, Maryland
+
+Which one would you like to use?
+CALLER: The one at Germantown Road.
+AGENT: Just to clarify, did you mean the T.J. Maxx at 20906-B Frederick Road in Germantown, Maryland?
+CALLER: No. It's in Germantown, Maryland. Germantown Road.
+AGENT: Thank you for clarifying. Could you please provide the street number for the T.J. Maxx location on Germantown Road?
+CALLER: Two zero nine zero six Germantown Road, Frederick Road, Germantown.
+AGENT: I found T.J. Maxx at 20906-B Frederick Road, Germantown, Maryland. Is that the dropoff location you want?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Angela. I will now proceed with the next steps for your booking.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a
+CALLER: What One. No.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Angela, the estimated fare for your trip is 8 dollars, paying with Call and Ride. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 11:05 AM. Your confirmation number is 2 1 3 6 7 8 0 2 2. Is there anything else I can help you with?
+CALLER: That's it. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Angela. Have

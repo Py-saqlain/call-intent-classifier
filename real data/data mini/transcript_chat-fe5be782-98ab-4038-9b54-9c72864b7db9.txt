@@ -1,0 +1,22 @@
+AGENT: Hi Keith, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. My name is Jimmy. I'm trying to get a cab from 5830 Riggs Road, Gaithersburg, Maryland.
+AGENT: Okay, Jimmy, I can help you with
+CALLER: I'm going to one one five
+AGENT: Could you please tell me the full address or location for your destination starting with one one five?
+CALLER: Yeah. One one five Summerville Road, Shady Grove Metro. Rockville, Maryland.
+AGENT: Thanks for that. Just to confirm, your pickup is at 5 8 3 0 Riggs Road, Gaithersburg, Maryland, and your dropoff is at 1 1 5 Somerville Road near Shady Grove Metro, Rockville, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Alright, Jimmy, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. I'll proceed with that now.
+AGENT: Okay so I've got that payment noted as cash.
+CALLER: Okay.
+AGENT: <emotion value="peaceful"/> Hi there! Could you please tell me the pickup address for your ride?
+AGENT: Your pickup address at 5 8
+CALLER: I just gave it to you.
+AGENT: <emotion value="peaceful"/> Thank you for that. Let me check the dropoff address you provided: 1 1 5 Somerville Road, Rockville, Maryland.
+AGENT: <emotion value="hesitant"/> I couldn't find an exact match for
+CALLER: Correct. What is is you say connect me with a agent. Connect me with a agent. Connect me with an agent.
+AGENT: I can help you with your booking details — would you like to continue?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Okay.

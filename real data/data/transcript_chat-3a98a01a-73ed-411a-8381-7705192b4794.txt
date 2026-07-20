@@ -1,0 +1,44 @@
+AGENT: Hello Bautista, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Need a pickup.
+AGENT: Thank you for reaching out. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Okay. Hurry pain. They wanna know all you're paying.
+AGENT: I want to make sure I understand you correctly. Could you please tell me how you would like to pay for your ride? Your options are cash, credit card, or Call and Ride.
+CALLER: Cash. Cash. Cash.
+AGENT: Thank you for letting me know you'll be paying with cash.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Corner of Shady Grove Road and Crab's Branch Way.
+AGENT: I found two locations near the corner of Shady Grove Road and Crabbs Branch Way: Feasty Crab at 1 6 8 1 1 Crabbs Branch Way in Derwood, Maryland, and McDonald's at 1 6 7 0 1 Crabbs Branch Way in Rockville, Maryland. Which one would you like to use as your pickup location?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yeah. What? Have you have him pick up at the table? Exxon gas station. It's it's a computer. It was just it just two options. McDonald's.
+AGENT: Thank you for clarifying. You would like to be picked up at the Exxon gas station near the corner of Shady Grove Road and Crabbs Branch Way, not McDonald's. Let me look for that location now.
+AGENT: I found three Exxon gas stations nearby: one at 7 9 8 3 Muncaster Mill Road in Gaithersburg, Maryland; one at 1 6 7 0 5 Crabbs Branch Way in Rockville, Maryland; and one at 1 6 4 2 5 Frederick Road in Gaithersburg, Maryland. Which one would you like to use as your pickup location?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Crab's branch
+CALLER: But I want the address the destination.
+AGENT: Thank you for clarifying. Could you please provide the full destination address including the street number and city for Crab's Branch?
+AGENT: I found a few places on Crabbs Branch Way and nearby: Feasty Crab at 1 6 8 1 1 Crabbs Branch Way in Derwood, Maryland; Giant Food at 1 6 8 3 7 Crabbs Branch Way in Derwood, Maryland; and Giant Food at 8 4 2 Muddy Branch Road in Gaithersburg, Maryland. Which one would you like to use as your destination?
+CALLER: Like for small.
+AGENT: Could you please clarify or provide a bit more detail about your destination? Are you referring to a specific place or address near Crabbs Branch?
+CALLER: Length four small.
+AGENT: I want to make sure I understand you correctly. Could you please provide more details or clarify what you mean by "Length four small" for your destination?
+CALLER: Wait wait for a small, I guess.
+AGENT: Thank you for your patience. Just to clarify, are you saying your destination is "Small" or something similar? Could you please provide any additional details or a nearby landmark to help me find the exact address?
+CALLER: It's a it's a like, cost it's near Costco.
+AGENT: I found two Costco locations near Crabbs Branch Way: one at 8 8 0 Russell Avenue in Gaithersburg, Maryland, and another at 1 1 1 6 0 Veirs Mill Road in Silver Spring, Maryland. Which one would you like to use as your destination?
+CALLER: Gaithersburg.
+AGENT: Your dropoff address has been verified, Mr. Bautista.
+AGENT: When would you like to be picked up?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: So the bus is coming in now.
+AGENT: Could you please tell me the exact time you would like to be picked up? For example, you can say a specific hour like 7 PM or 8:30 AM.
+CALLER: So you got that, boss?
+AGENT: I want to make sure I have your pickup time correctly. Could you please tell me the exact time you want to be picked up?
+CALLER: $10.45. Yes.
+AGENT: It sounds like you mentioned a number, but I want to confirm the pickup time. Could you please tell me the time you want to be picked up? For example, you can say 7 PM or 8:30 AM.
+CALLER: 45.
+AGENT: Just to clarify, did you mean 12:45 AM or 12:45 PM for your pickup time?
+CALLER: $10.45.
+AGENT: I want to make sure I understand your pickup time correctly. Are you saying you want to be picked up at 10:45 PM?
+CALLER: Yeah.
+AGENT: I have your pickup time as today at 10:45 PM. How many

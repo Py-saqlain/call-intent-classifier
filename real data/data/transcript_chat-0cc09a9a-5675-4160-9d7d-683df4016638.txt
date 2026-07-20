@@ -1,0 +1,48 @@
+AGENT: Hi Emily, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to ask you, please.
+AGENT: Uhh, sure, I'm here to help. What would you like to ask about? <emotion value="peaceful"/>
+CALLER: Say it again.
+AGENT: Okay, I'm here to help. What would you like to ask about? <emotion value="peaceful"/>
+CALLER: How do I see?
+AGENT: Hmm, could you please tell me a bit more about what you mean by "how do I see"? Are you asking about checking a ride status, booking a trip, or something else? <emotion value="hesitant"/>
+CALLER: Yes. Yes. I need to
+AGENT: Alright, it sounds like you want to check something or maybe book a ride. Could you please tell me exactly what you need help with? For example, do you want to book a new ride, check the status of a current ride, or something else? <emotion value="peaceful"/>
+CALLER: I need this now. Right?
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and
+CALLER: Notebook. I'm gonna cuss cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Pickup address is Gaithersburg, Hen Gate 355 to Gatysburg, get this work.
+AGENT: Hmm <break
+CALLER: 355, get this work. Get.
+CALLER: Pharmacy.
+AGENT: Okay, let me check that pickup address. <emotion value="peaceful"/>
+AGENT: I couldn't find an exact match for 355 Hen Gate in Gaithersburg, but I found a location at 425 South Frederick Avenue, apartment number 421, Gaithersburg, Maryland. Is that the correct pickup location? <emotion
+CALLER: Not not a not a not apartment. Gaithersburg, CVS. Pharmacy in 355 CVS Pharmacy.
+AGENT: Okay, let me search for CVS Pharmacy in Gaithersburg for you. <emotion value="peaceful"/>
+AGENT: I found a few CVS Pharmacy locations in Gaithersburg. 
+Option one:
+CALLER: Yes.
+AGENT: Could you please tell me which CVS Pharmacy location you mean? Here are the options again: 
+
+Option one: 19100 Montgomery Village Avenue, Gaithersburg. 
+Option two: 546 North Frederick Avenue, Gaithersburg. 
+Option three: 25 Grand Corner Avenue, Gaithersburg. 
+
+Which one is
+CALLER: Yes. That's that is Frederick Avenue.
+AGENT: Okay, so your pickup address is 546 North Frederick Avenue, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Don't know about the number, but I know Fred Frederick Avenue, Gaithersburg.
+CALLER: I don't know the number.
+AGENT: Okay, since you’re not sure about the number on Frederick Avenue in Gaithersburg, could you please provide any nearby landmarks or cross streets to help me find the exact location? <emotion value="peaceful"/>
+CALLER: This morning, I booked it and I get the ride. Now I need to go come come back to my house.
+CALLER: I'm in the this morning.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. Now, could you please provide the dropoff address for your current trip? <emotion value="peaceful"/>
+CALLER: Say it again.
+AGENT: Sure! I noted that you want a return trip after this one. Now, could you please tell me the dropoff address for your current trip? <emotion value="peaceful"/>
+CALLER: Please give me for someone to help me. Don't take my time.
+CALLER: Okay.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Okay.
+AGENT: (connected to
+CALLER: Okay.

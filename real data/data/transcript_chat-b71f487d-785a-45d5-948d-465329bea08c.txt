@@ -1,0 +1,48 @@
+AGENT: Hello Evan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to arrange to have a cab pick me up tomorrow. And I'm going to the doctor's office at 15245 Shady Grove Road, the South Tower.
+AGENT: Thank you for sharing your
+CALLER: Now let me let me ask let me ask you a question. Can instead of sending a regular cab, because I'm probably gonna be using my wheelchair, do you have a wheelchair accessible vehicle?
+AGENT: I understand your need for a wheelchair accessible vehicle. I’m here to help with payment, but I’ll make sure your request for a wheelchair accessible cab is noted and handled properly. Meanwhile, could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Let me ask you, how much how much would the charge be anyway?
+AGENT: I don't have the fare information yet, but I will make sure to get that for you as we proceed. For now, could you please let me know how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: I'm probably probably gonna use a credit card.
+AGENT: Thank you for letting me know you'll be using a credit card. Your payment method is set to credit card. I'll proceed with arranging your ride now.
+CALLER: Okay.
+AGENT: I have the dropoff address as one five two four five Shady Grove Road, Rockville, Maryland. Is that correct?
+CALLER: No. Just remember, it's the South it's the South Tower. So, uh, because there's two there's there's two entrances. The one one says North Tower, and I was there I was there yesterday. One says North Tower, the other one says South Tower. So I'd I'd be going to the South Tower and you know, because the doctor's office is inside that entrance.
+AGENT: Thank you for clarifying that you need the South Tower entrance. Let me look specifically for the South Tower at 15245 Shady Grove Road.
+AGENT: I found a location called Shady Grove Plaza at 15245 Shady Grove Road, Rockville, Maryland. Is
+CALLER: Yeah. No.
+CALLER: No. No. My appointment is for 10:00 in the morning. So I the reason I'm calling now is I'd like to arrange for pickup, you know, like, when they come when they come to the apartment here to come and get me. I'd like to arrange for pickup at 9AM.
+AGENT: Thank you for letting me know about your appointment time and pickup preference. Let's
+CALLER: Because I understand from the last time I called that, yeah. Yeah. Because you you had mentioned that, uh, before, it was like a twenty four hour notice that you need.
+AGENT: I appreciate you sharing that. I'll make sure to note your requested pickup time of 9 AM tomorrow. Now, could you please provide the pickup address where the driver should come to get you?
+CALLER: Yeah. It's going to be it's going to be in the parking lot. At 908 Beacon Square Court It's in other words, it's it's right it's right next to the rental office, but I'm I'm probably gonna go out the other side of the building where there's a ramp and then wheel around to the to the parking lot. So this way, they can they they'll see me in the wheelchair in the parking lot in front of my car.
+AGENT: Thank you for the detailed pickup location. Just to confirm, your pickup address is 9 0 8 Beacon Square Court, Gaithersburg, Maryland, correct?
+CALLER: That's correct.
+AGENT: I have your pickup address as 9 0 8 Beacon Square Court, Gaithersburg, Maryland. Is that correct?
+CALLER: That's correct.
+AGENT: Your pickup address has been verified, Evan. Now, I'll proceed with arranging your ride for tomorrow at 9 AM to the South Tower at 15245 Shady Grove Road.
+AGENT: What time tomorrow would you like to be picked up?
+CALLER: Okay. 9AM. Because my appointment is for 10:00.
+AGENT: Just to confirm, you want to be picked up tomorrow at 9:00 AM, correct?
+CALLER: That's correct.
+CALLER: Now after after I get the blood test, uh, I'm probably gonna have to go back home. So so so so the thing is is that I'm gonna call I'm gonna call you for for pick up because I don't know exactly how long it's gonna be I get that blood test or when I get that concluded. But I'll still probably need a wheelchair accessible vehicle.
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. Now, how many passengers will be traveling with you tomorrow, including yourself? And will you need a wheelchair
+CALLER: Just me.
+CALLER: Yes. Uh, yes. I do.
+AGENT: Please tell me the special instructions or any details you want the driver to know.
+CALLER: No. No. No. No special details. In other words, just a wheelchair accessible vehicle. You know, hopefully.
+AGENT: The estimated fare for your trip tomorrow at 9:00 AM from 9 0 8 Beacon Square Court to 1 5 2 4 5 Shady Grove Road is 15 dollars, paying with credit card. You mentioned you'd like a return trip with a wheelchair accessible vehicle and you'll call us when you're ready for pickup. Would you still like me to set up that return trip for you?
+CALLER: Yes. But I don't know exactly what time.
+AGENT: That's perfectly fine. I'll set up the return trip as a will-call, so you can call us when you're ready for pickup. Let me take care of that for you now.
+CALLER: Okay.
+AGENT: Your return trip will be a will-call from 1 5 2 4 5 Shady Grove Road back to 9 0 8 Beacon Square Court, with the same fare of 15 dollars, paying by credit card. Should I go ahead and book both your main trip and this will-call return trip now?
+CALLER: That's yes.
+AGENT: Thank you. I am booking both your main trip and the will-call return trip now.
+AGENT: I'm processing your booking now. Please hold on a moment.
+CALLER: Okay.
+AGENT: Your main trip is confirmed with confirmation number 2 1 3 6 7 9 2 2 4 for tomorrow at 9:00 AM. Your return trip is a will-call with confirmation number 2 1 3 6 7 9 2 2 5 for tomorrow. Is there anything else I can help you with?
+CALLER: No. That's it.
+AGENT: Thank you for calling Barwood & Regency, Evan. Have a wonderful day.
+CALLER: Thank you.

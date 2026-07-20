@@ -1,0 +1,16 @@
+AGENT: Hi
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Speak to a representative
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Cancel the red.
+AGENT: I can take care of that for you.
+AGENT: I see four trips for you: a return trip today at 2:30 pm from Gaithersburg to Rockville, another return trip tomorrow at 1:30 pm also from Gaithersburg, a main trip scheduled as will-call from Rockville to Gaithersburg, and another main trip will-call from Gaithersburg to Gaithersburg. Could you please clarify which one you mean by "the red"? Or if you want, I can help cancel all
+CALLER: To to today, Today. The one that 02:30. I need to cancel that because they just canceled my appointment.
+AGENT: Just to confirm, you want to cancel your return trip today at 2:30 pm from Gaithersburg to Rockville, correct?
+CALLER: I'm not. The return trip.
+AGENT: Thanks for clarifying. I'll cancel your return trip today at 2:30 pm from Gaithersburg to Rockville
+CALLER: From from twelve Delamont
+AGENT: You mean the return trip today at 2:30 pm from 12 Dalamar Street in Gaithersburg to Rockville, right? Should I go ahead and cancel that one?
+CALLER: yeah. Cancel the one from Delamore to six thousand Executive Boulevard because it's with the the appointment is canceled.
+AGENT: That return trip from 12 Dalamar Street to 6000 Executive Boulevard was already cancelled. Is there anything else I can help you with?
+CALLER: It's already canceled.

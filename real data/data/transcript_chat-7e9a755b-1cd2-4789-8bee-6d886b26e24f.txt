@@ -1,0 +1,22 @@
+AGENT: Hello Emiline, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I need a taxi at fifteen three twenty Pine Orchard Drive,
+AGENT: Thank you for sharing your pickup address at 1 5 3 2 0 Pine Orchard Drive. How would you like to pay for your ride today? We accept cash, credit
+CALLER: Yes. Cash. Cash. Cash.
+AGENT: Thank you for confirming cash as your payment method.
+CALLER: Thank you.
+AGENT: I have the pickup address as 1 5 3 2 0 Pine Orchard Drive, Silver Spring, Maryland. Is that correct?
+CALLER: Mhmm. Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. I'm going to my house at three three one seven two a dirty cut with a d d e r l e y. Court.
+AGENT: Thank you for the dropoff address at 3 3 1 7 2 Adderley Court. Let me confirm that for you.
+AGENT: I couldn't
+CALLER: No. Or not. Three one month. Three one seven two Three one seven two.
+AGENT: Thank you for clarifying the street number as 3 1 7 2. Could you please confirm the full dropoff address including the street name, city, and state?
+CALLER: Mhmm.
+AGENT: Could you please provide the street name,
+CALLER: Okay. So it's three it's a d d l e y. Hot. Three one seven two Albury Court.
+AGENT: Thank you for the
+CALLER: I know. Yeah. What did you keep they have already picked me there before. That was about maybe two weeks ago or three. At under a cold. That's where I'm going. The pickup address is one five three two zero. Pine Orchard Drive.
+AGENT: I couldn't find Adderley Court near your pickup address at 1 5 3 2 0 Pine Orchard Drive, Silver Spring, Maryland. Could you please
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Okay. Okay. Okay. Okay. The pickup address is okay. Okay.

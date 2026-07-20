@@ -1,0 +1,17 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Marcia Diggs?
+CALLER: Yeah.
+AGENT: Thanks for confirming, Marcia. This is Ana from Barwood & Regency. Vehicle 207 is on the way and will arrive for your pickup in about 7 minutes at 11:52. How can I assist you today?
+CALLER: Hi. I wanna pick up and delivery.
+AGENT: Okay, I can help with that. Could you please tell me the pickup address and the delivery address?
+CALLER: Six zero seven Bradford. Apartment number four.
+AGENT: Thanks for that. Just to confirm, your pickup address is 6 0 7 Blandford Street, Apartment 4, correct? And could you please provide the delivery address?
+CALLER: Yes. Six Hotel in Bradford Street.
+AGENT: I want to make sure I have it right. You said "Six Hotel in Bradford Street." Did you mean 6 0 7 Blandford Street again, or is this a different address? Could you please clarify the delivery address?
+CALLER: I'm on 607 Bamford Street. Apartment 4.
+AGENT: Thanks for confirming your pickup address as 6 0 7 Blandford Street, Apartment 4. Could you please tell me the delivery address where you want your items taken?
+CALLER: 891 Rockville Rockwood Pipe.
+AGENT: Just to confirm, your delivery address is 8 9 1 Rockville Pike, Rockville, correct?
+CALLER: Yeah.
+AGENT: Looks like you already have a trip from 6 0 7 Blandford Street to 8 9 9 Rockville Pike at 11:25 this morning. What would you like to do?
+CALLER: Book my trip.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

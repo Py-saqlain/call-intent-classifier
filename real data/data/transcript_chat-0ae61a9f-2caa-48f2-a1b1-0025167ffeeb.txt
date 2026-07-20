@@ -1,0 +1,62 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Ralph?
+CALLER: Oh,
+AGENT: Are you Ralph, or is there someone else I can help you with today?
+CALLER: Ralph.
+AGENT: Thanks for confirming, Ralph. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: You have
+AGENT: Uhh, I’m here to help, Ralph. What can I do for you today? <emotion value="peaceful"/>
+CALLER: Okay. Sure.
+AGENT: What kind of ride can I assist you with today?
+CALLER: Oh, cab ride?
+AGENT: Yes, we can definitely help you with a cab ride. Where would you like to be picked up, and where are you headed?
+CALLER: One five nine zero one four three.
+AGENT: Could you please tell me the street name or location that goes with that number?
+CALLER: AquaMobile.
+AGENT: Just to be sure, is your pickup address 1 5 9 0 1 4 3 AquaMobile? Or is that your destination?
+CALLER: Test amount.
+AGENT: I’m sorry, I didn’t quite catch that. Could you please clarify if you want to book a ride, or if you need help with something else?
+CALLER: Oh, Sunil.
+AGENT: I’m not sure I understand. Are you trying to book a ride, or do you need assistance with something else?
+CALLER: Yes.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Hmmm.. that didn't seem quite clear. Could you please tell me if you'd like to pay with cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Hmm <break time="350ms"/> I couldn't find the address "1 5 9 0 1 4 3 AquaMobile." Could you please provide the full street address, including the city and state? <emotion value="apologetic"/>
+CALLER: 15901, cleared to bridge. Cross runway. Two eight five five.
+AGENT: Thank you for that information. Just to clarify, is your pickup address 1 5 9 0 1 Cleared to Bridge Cross Runway, or is there a different street name or city you would like to provide? <emotion value="hesitant"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Ready.
+AGENT: Could you please repeat the full pickup address including the street number, street name, city, and state? This will help me find the exact location for your pickup. <emotion value="peaceful"/>
+CALLER: 159, operator, bridge. Five five.
+AGENT: I want to make sure I get this right. Are you saying your pickup address is 1 5 9 Operator Bridge Five Five? Could you please confirm the street name and city as well? <emotion value="hesitant"/>
+CALLER: Customer one, Jeremy Chase.
+AGENT: I see you mentioned "Customer one, Jeremy Chase." If you need to speak with a person or operator, I will connect you now.
+CALLER: Okay.
+AGENT: I can help you with the pickup address right now — want to continue?
+CALLER: One-five-nine-zero-one-four
+CALLER: Yes.
+AGENT: Hello, I’m here to help with your pickup address. Could you please provide the full street address including the street number, street name, city, and state? <emotion value="peaceful"/>
+AGENT: The address 7 0 0 Maple Avenue, Johnstown, Pennsylvania 1 5 9 0 1 is outside our service area. Could you please provide a different pickup address within our service area? <emotion value="apologetic"/>
+CALLER: 1590 Frederick Road, Rockville, Maryland 2855
+AGENT: Okay, I found 1 5 9 0 Kimblewick Road, Rockville, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 7013. Lower Paul Drive. Cross Terminal 2853.
+AGENT: Thank you for the dropoff address information. Just to clarify, is your destination 7 0 1 3 Lower Paul Drive, or is there a different street name or city you would like to provide? <emotion value="hesitant"/>
+CALLER: It shows it says what most of it went to remote
+AGENT: I’m sorry, I didn’t quite catch that. Could you please repeat the dropoff address including the street number, street name, city, and state? <emotion value="apologetic"/>
+CALLER: 713, middle of Park Ridge, drop from around two eight nine five.
+AGENT: Thanks for that. Just to make sure I have it right, is your dropoff address 7 1 3 Middle of Park Ridge, or is there a different street name or city you want to provide? <emotion value="hesitant"/>
+CALLER: Seven seven one three River Falls Road Southport, Maryland. 20855.
+AGENT: Hmm <break time="350ms"/> I couldn't find the address "7 7 1 3 River Falls Road, Southport, Maryland." Could you please confirm the street name and city again? <emotion value="apologetic"/>
+CALLER: No. No.
+AGENT: Okay, no problem. Could you please provide the full dropoff address again, including the street number, street name, city, and state? <emotion value="peaceful"/>
+CALLER: So seven seven. Seven seven one three Miller Fall Ridge. M I l e r. Red. Be. I'm in 2855.
+AGENT: Thank you for that. Just to confirm, is your dropoff address 7 7 1 3 Miller Fall Ridge, or is there a different street name or city you want to provide? <emotion value="hesitant"/>
+CALLER: I'll put bread.
+AGENT: I’m sorry, I didn’t quite catch that. Could you please repeat the dropoff address including the street number, street name, city, and state? <emotion value="apologetic"/>
+CALLER: Seven steps. Seven sec one three.
+AGENT: I want to make sure I get this right. Could you please say the full dropoff address again, including the street number, street name, city, and state? <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

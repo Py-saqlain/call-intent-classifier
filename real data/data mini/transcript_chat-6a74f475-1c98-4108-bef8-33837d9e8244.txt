@@ -1,0 +1,16 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Donald. Vanville
+AGENT: Thanks, Donald. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need I have a schedule and I need someone to pick me up earlier.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Now
+AGENT: Let me get that set up for you right now.
+AGENT: Thank you, Donald. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: It's already paid for.
+AGENT: Thank you for letting me know that your ride is already paid for. I will proceed accordingly.
+AGENT: I understand, Donald. Just to confirm, could you please tell me how you would like to pay for this ride? We accept cash, credit card, and Call and Ride.
+CALLER: Can I speak to a representative, please?
+CALLER: Hello?
+AGENT: I’m here to help. Would you like me to connect you with a representative?
+CALLER: Yes, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

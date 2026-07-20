@@ -1,0 +1,30 @@
+AGENT: Hi Dianne, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a ride to one two three zero one Old Columbia Pike right away.
+AGENT: Thank you for letting me know your destination. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: I have a call in mind I would like to pay with
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: My colon right card number is three two three eight five four.
+AGENT: Thank you for providing your Call and Ride card details. Your payment method is set to Call and Ride.
+AGENT: I have the dropoff address as one two three zero one Old Columbia Pike, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: Four two zero seven Arborwood Court, Burtonsville, Maryland.
+AGENT: Thank you. Let me confirm the pickup address as four two zero seven Arborwood Court, Burtonsville, Maryland. Is that correct?
+CALLER: Yeah.
+AGENT: I have the pickup address as four two zero seven Arbor Wood Court, Burtonsville, Maryland. Is that correct?
+CALLER: Yeah.
+AGENT: Your pickup address has been verified, Dianne.
+AGENT: You mentioned you would like to be picked up right away. Is that correct? Please say yes to confirm or let me know if you want a different pickup time.
+CALLER: Yes. Yes. Right away.
+AGENT: How many passengers will be traveling, including yourself? Also, will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger No mobility aid.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: Yes. Pick me up in front of the driveway. And I would like to enter this car and pull off right away.
+AGENT: The estimated fare for your trip is 18.5 dollars, and you will be paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now?
+CALLER: Yeah.
+AGENT: I am booking your trip now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 7 9 2 2. The pickup is scheduled for today at 9:34 AM. Is there anything else I can help you with?
+CALLER: No. That's it.
+AGENT: Thank you for calling Barwood & Regency, Dianne. Have a wonderful day!

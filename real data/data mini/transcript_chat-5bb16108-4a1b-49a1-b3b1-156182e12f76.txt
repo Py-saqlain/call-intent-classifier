@@ -1,0 +1,11 @@
+AGENT: Hi Sally, this is Ana with Barwood & Regency. Vehicle 421 is on the way and will arrive for your pickup in approximately 24 hours. How can I assist you today?
+CALLER: Twenty four hours
+AGENT: Could you please tell me what you would like to do for the next twenty-four hours? Are you looking to book a ride, check
+CALLER: Yeah. No. I'm I'm I'm waiting for it now.
+CALLER: Right now.
+AGENT: You already have a trip from Potomac to Bethesda scheduled for today at 12:00 PM. What would you like to do next?
+CALLER: Oh, well, I I got a call, but I did there was nobody on it. I didn't know who it was. Has somebody tried to call me?
+AGENT: I see your driver is assigned and on the way, but the pickup is scheduled for 12:00 AM tomorrow, so the vehicle will arrive then. I understand you got a call with no one on it, but I don't see any other calls
+CALLER: No. Not tomorrow. How how did you get is there a driver on the way right now? I made this call for now, not tomorrow. Gosh.
+AGENT: Your trip is scheduled for midnight tomorrow, so the driver is assigned but will arrive then. If you want a
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

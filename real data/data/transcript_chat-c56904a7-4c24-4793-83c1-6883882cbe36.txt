@@ -1,0 +1,53 @@
+AGENT: Hello Jone, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Well, um, it would be nice to get a barwood cab to nine thousand rockville pike I'm in the kiss k I s s
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready. I'm ready right now.
+AGENT: Great! Could you please tell me how you would like to pay? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: I'm in the oat center
+AGENT: It sounds like you mentioned the oat center, but I want to make sure about your payment method first. How would you like to pay for your ride? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: Press start.
+AGENT: Hmmm.. that didn't seem like a payment method. Could you please tell me how you would like to pay? Cash, credit card, or Call and Ride? <emotion value="apologetic"/>
+CALLER: Are you saying I can't pay with a credit card?
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Hmm, I couldn't find a location for "kiss" near your home address. Could you please provide the full pickup address or a nearby landmark? <emotion value="apologetic"/>
+CALLER: My home address I wanna be taken from nine thousand Rockville Pike to nine seven zero seven zero Georgetown Road, That's 20814.
+AGENT: Okay, so your dropoff is 9 0 0 0 Rockville Pike, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's my pickup point. I'm in the kiss and ride parking lot I'm in the shelter where the passengers get picked up. So I'd appreciate it if the driver would drive around the lot and look for me.
+AGENT: Thank you for clarifying. So your pickup is at the kiss and ride parking lot shelter at 9 0 0 0 Rockville Pike, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. 20814.
+AGENT: Thank you. Your dropoff address is 9 7 0 7 Old Georgetown Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. 20814.
+AGENT: Your dropoff address has been verified, Jone. I'll now proceed with the next steps.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: I'm ready right now.
+AGENT: Okay great! I've got your pickup time as today at 5:06 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: You know, what what the number of of
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="apologetic"/>
+CALLER: One No. No. Thank you.
+AGENT: Okay great! I've got 1 passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: If he will please
+AGENT: Could you please tell me what special instructions or notes you would like me to pass along to the driver? <emotion value="peaceful"/>
+CALLER: take time and look for Yes. I would like for him to take his time in the parking lot and look for me in the passenger shelter. There's just a little brief thing in case it's raining or something.
+AGENT: Alright, the estimated fare is 8 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. The the return trip is my home.
+AGENT: Just to clarify, are you booking a return trip back to your home, or is the trip we just set up your return journey? <emotion value="hesitant"/>
+CALLER: The trip I wanna be picked up at 9000 Rockville Pike in the Kiss and Ride parking lot and I wanna be taken to nine seven zero seven Old Georgetown Road, Bethesda, Maryland two zero eight one four.
+AGENT: Thank you for confirming your main trip details. Since you mentioned the return trip is to your home, would you like me to set up a return trip for you now, or just book the one-way trip for today? <emotion value="peaceful"/>
+CALLER: Well, I think if you pick me up at the nih
+AGENT: Thank you for the details. I’m processing your trip now. Please hold on a moment.
+CALLER: Parking lot at nine
+AGENT: I'm still working on booking your trip. Please give me just a moment.
+AGENT: Your main trip is scheduled for today at 5:06 PM with confirmation number 2 1 3 6 7 6 1 6 8. Is there anything else I can assist you with?
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 6 1 6. Your pickup is today at 5:06 pm. Is there anything else I can help you with?
+CALLER: And I could way that I for that
+AGENT: You already have a trip from 9000 Rockville Pike, Bethesda to 9707 Old Georgetown Road at today 5:06 pm. What would you like to do? <emotion value="grateful"/>
+CALLER: No. But there is no way I could possibly remember that or may
+AGENT: I understand it can be a lot to keep track of. Would you like me to connect you with a representative who can help manage your trips? <emotion value="peaceful"/>
+CALLER: No. I don't think that's necessary.
+AGENT: Alright, if you need any help with your current trip or want to book another one later, just let me know. What would you like to do now? <emotion value="peaceful"/>
+CALLER: But I would like to know the number the You would like the the of the taxicab, please.
+AGENT: Okay, so your taxi vehicle number is 3 1 0. Is there anything else I can assist you with? <emotion value="content"/>
+CALLER: No, thank you. That's fine. 310 is the cab number. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Jone. Have a wonderful day!

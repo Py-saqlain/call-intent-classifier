@@ -1,0 +1,14 @@
+AGENT: Hi Mary, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi.
+AGENT: Thank you for reaching out. How would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the address where you'd like to be picked up?
+CALLER: I'm at the corner of Tuckerman and I four ninety five in Bethesda.
+AGENT: I have Brighton Gardens of Tuckerman Lane Nursing Home, North Bethesda, Maryland as your pickup address. Is that correct? Please say yes if it is.
+CALLER: No. No. I don't even know where that is.
+AGENT: Thank you for letting me know. Could you please provide the street number or a more specific address near the corner of Tuckerman Lane and the road you mentioned? This will help me find the correct pickup location for you.
+CALLER: Taxi. Taxi. Taxi.
+AGENT: I want to make sure I get your pickup address right. Could you please tell me the street number or a nearby landmark at the corner of Tuckerman Lane and the other road you mentioned?
+CALLER: Can you can you can you get somebody for me?
+AGENT: I can help you find the right pickup address — would you like to continue?

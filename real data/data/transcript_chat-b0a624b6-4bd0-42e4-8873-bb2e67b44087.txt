@@ -1,0 +1,38 @@
+AGENT: Hello Brown, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: It's 100And80. I'd like to get a taxi.
+AGENT: Thank you for letting me know you'd like a taxi. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride. Calling ride. Calling ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six
+CALLER: Yes. Yes. Yes.
+AGENT: Great! Please provide the last six digits of your Call and Ride card when you're ready.
+CALLER: I need to
+AGENT: It looks like your message got cut off. Could you please provide the last six digits of your Call and Ride card?
+CALLER: $33.92 80.
+AGENT: It seems like you mentioned an amount, but I still need the last six digits of your Call and Ride card to proceed with payment. Could you please provide those six digits?
+CALLER: Okay. Okay. Thirty three twenty two and There you go.
+AGENT: Thank you for providing your Call and Ride information. Your payment method is set to Call And Ride.
+AGENT: I wasn't able to locate the dropoff address "100And80." Could you please provide the full street address, including the city and state, for your destination?
+CALLER: 12436 Daventry Way,
+AGENT: I couldn't find 12436 Daventry Way. Could you please provide the city and state for this address?
+CALLER: One three four two six. Daventry Way,
+AGENT: Thank you for repeating the address number. Could you please also provide the city and state for Daventry Way?
+CALLER: Germantown, Maryland 20874.
+AGENT: I have 1 3 4 2 6 Daventry Way, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address?
+CALLER: 20 Maryland Avenue.
+AGENT: I have 2 0 Maryland Avenue, Rockville, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified, Mr. Brown.
+AGENT: When would you like to be picked up?
+CALLER: Now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One. No. Maybe not.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No. Just call my phone when he's outside, please.
+AGENT: The estimated fare for your trip is 29.5 dollars, paying with your Call And Ride card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 11:24 PM. Your confirmation number is 2 1 3 6 6 7 3 6 2. Is there anything else I can assist you with?
+CALLER: That's it.
+AGENT: Thank you for calling Barwood & Regency, Brown. Have a wonderful day!

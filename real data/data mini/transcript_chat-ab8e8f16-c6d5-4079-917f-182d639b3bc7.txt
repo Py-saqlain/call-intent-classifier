@@ -1,0 +1,13 @@
+AGENT: Hello Michael, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: What do you want
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: I need a cab here, please.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I need a cap.
+AGENT: I understand you need a cab. Just to confirm, how would you like to pay for your ride? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: Cat.
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you'd like to pay? Cash, credit card, or Call and Ride? <emotion value="apologetic"/>
+CALLER: Well, here we go. First name?
+AGENT: I’m here to help with your payment method for the ride. How would you like to pay? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: Where'd you pick
+AGENT: I don't have your pickup address yet. Let's continue with your payment first. How would you like to pay? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>

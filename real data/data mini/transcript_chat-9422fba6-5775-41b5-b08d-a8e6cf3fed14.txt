@@ -1,0 +1,12 @@
+AGENT: Hello Graham, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: You finish? You finish?
+AGENT: Umm, I’m here to help. What can I assist you with today? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Okay, what would you like to do? Are you looking to book a ride, check on a trip, or speak with someone? <emotion value="peaceful"/>
+CALLER: I need help for a lot of things.
+AGENT: I’m here to help with whatever you need. Could you please tell me the most important thing you want to start with? <emotion value="peaceful"/>
+CALLER: I need help for a lot of things. I need help for a lot of things. Through the documentation, the voice, take Stephanie home. Right? Skip. I'm okay. Hey. What did you say that part for?
+AGENT: I want to make sure I understand you correctly. Are you looking to book a ride to take Stephanie home, or is there something else you need help with? <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Did you take her over this morning? Okay. I thought my tech I was in by myself until eleven. Benikin's eleven. Oh. They picked up in 08:00? Ten fifty

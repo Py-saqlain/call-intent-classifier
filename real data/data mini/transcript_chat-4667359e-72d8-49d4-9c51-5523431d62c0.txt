@@ -1,0 +1,16 @@
+AGENT: Hello, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Agent Agent. Agent. Hello?
+AGENT: Uhh, yes, I'm here. How can I assist you today? <emotion value="peaceful"/>
+CALLER: Agent. Agent. Call me. Yes. Can I assist you today?
+AGENT: Okay, I’m here to help. What can I do for you today? <emotion value="peaceful"/>
+CALLER: Can I speak to a agent?
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+AGENT: Take your time. Just let me know when
+CALLER: Hello?
+AGENT: Take your time. Just let me know when you're ready or if you'd like me to connect you to a person. <emotion value="peaceful"/>
+CALLER: Agent. Agent. Agent. Agent.
+AGENT: Did you want to tell me what you need, or shall I transfer you? <emotion value="peaceful"/>
+CALLER: Connect me to a person, plea
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+AGENT: I'm experiencing a technical limitation
+CALLER: Thank you so much.

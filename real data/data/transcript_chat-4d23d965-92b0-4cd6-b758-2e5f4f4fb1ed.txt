@@ -1,0 +1,41 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Hello? Uh-huh. Hi. Laura Henschel, h e n s c h e l.
+AGENT: Thanks, Laura. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Uh, we need a cab, um, over here at 50 Maryland Avenue, but we're on the Monroe side of the oh, it's 101 Monroe Street? Okay. One zero one.
+AGENT: Alright, Laura, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I don't hear. Yet. Hot. It's the courthouse.
+AGENT: I want to make sure I understand your payment method for the ride. Could you please tell me how you'd like to pay? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: Yeah. Credit card. Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, Laura, I found the address as 5 0 Maryland Avenue, Annapolis, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. No. No. One no. That's wrong. No. One zero one Maryland Avenue. 1011 Rose Oh, excuse me. 101 Monroe Street.
+AGENT: Thank you for the correction, Laura. Let me check the address for one zero one Monroe Street now. <emotion value="apologetic"/>
+AGENT: Okay, Laura, I found the address as 1 0 1 Monroe Street, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: What's in where are we going?
+AGENT: Where would you like to go? Please tell me the destination or dropoff address. <emotion value="peaceful"/>
+CALLER: 200 Monroe Street. Two
+AGENT: Thank you. Just to confirm, is your dropoff address 2 0 0 Monroe Street? <emotion value="peaceful"/>
+CALLER: two hundred Monroe Street.
+AGENT: Hmm, I found 2 0 0 Francis Street, Uniontown, Pennsylvania. Is that the correct dropoff address? <emotion value="hesitant"/>
+CALLER: No. No. Monroe 2 is it 200 Monroe Street? Not 300. 200. 200 Monroe Street. Rockville, Maryland
+AGENT: Thank you for the correction. Let me check 2 0 0 Monroe Street, Rockville, Maryland for you. <emotion value="apologetic"/>
+AGENT: Okay, Laura, I found the address as 2 0 0 Monroe Street, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Laura.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: And right away,
+AGENT: Okay great! I've got your pickup time as today at 3:18 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two of us. No that's no no, uh, no disability.
+AGENT: Okay great! I've got that noted. Will you have any special instructions or requests for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 5.5 dollars, paying with your credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so <break time="250ms"/> I'm booking your trip now. <emotion value="grateful"/>
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 2 1 9 8. Your pickup is today at 3:18 pm. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Laura. Have a wonderful day!
+CALLER: You too.

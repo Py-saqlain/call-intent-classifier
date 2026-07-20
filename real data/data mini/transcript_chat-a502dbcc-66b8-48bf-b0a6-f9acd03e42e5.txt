@@ -1,0 +1,26 @@
+AGENT: Hi Jed, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, I need a cab from Giant Food in Durwood to one six three two five Decker Place, Durwood.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: I found Giant Food at 1 6 8 3 7 Crabbs Branch Way, Derwood, Maryland. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified, Jed.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Your main trip pickup address is 16837 Crabbs Branch Way, Derwood, Maryland. When would you like to be picked up? <emotion value="peaceful"/>
+When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! I've got your pickup time as today at 7:09 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Now. Now. One
+AGENT: Thanks for letting me know there will be one passenger. <emotion value="grateful"/> Will anyone need a wheelchair-accessible vehicle?
+CALLER: One and no.
+AGENT: Okay, I've got no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: No. Special instructions. No.
+AGENT: Alright, the estimated fare is 5.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Your main trip is booked for today at 7:09 PM. Your confirmation number is 2 1 3 6 7 4 3 6 0. Is there anything else I can help you with?
+CALLER: Denise, can I get the confirmation number again?
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 4 3 6 0. Is there anything else I can assist you with?
+CALLER: No,
+AGENT: Thank you for calling Barwood & Regency, Jed. Have a wonderful day!
+CALLER: No. Alright. You go.

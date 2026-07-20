@@ -1,0 +1,13 @@
+AGENT: Hello Robert, this is Ana with Barwood & Regency. Your pickup is scheduled for today at 2:28 PM. How can I assist you today?
+CALLER: When I cancel my pickup with or Marlin, in 02/28 to no meeting time at all.
+AGENT: I want to make sure I understand correctly. Are you asking to cancel a pickup scheduled for February 28th with or near Marlin, and that there is no specific meeting time for that pickup? Could you please confirm or clarify?
+CALLER: No. No. I ain't saying anything anything. Anything. I ain't I wanna cancel my pickup from 06:30 to going to 18 North Drive. At 02:28PM. We canceled the trip with Lindsey. We're gonna cancel the trip. Okay? Canada. Canada. Canada. Canada.
+AGENT: I see you have three upcoming trips: your main trip today at 2:28 pm from 630 East Diamond Avenue to 18 North Summit Drive, a return trip tomorrow at 7:30 am from 18 North Summit Drive to 630 East Diamond Avenue, and another main trip tomorrow at 12:50 pm from 630 East Diamond Avenue to 18 North Summit Drive.
+
+Which one would you like to cancel? Or do you want to cancel all of them?
+CALLER: It's good. It's the first can't do the first one, can't do the other two. He the first said and me the other two. Cancel the first one, me the other two. You hear me? Give me the first one, give me the other two. Give the first one, you hear me?
+AGENT: Just to be sure I understand, you want to cancel the first trip at 2:28 pm today, but keep the other two trips tomorrow, correct? Please confirm so I can proceed with the
+CALLER: Correct. Correct. Correct. I think correct. Damn it.
+AGENT: The trip at 2:28 pm today from 630 East Diamond Avenue to 18 North Summit Drive has been cancelled. Is there anything else I can help you with?
+CALLER: No. Have a nice day.
+AGENT: Thank you for calling Barwood & Regency, Robert. Have a great day.

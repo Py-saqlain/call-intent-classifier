@@ -1,0 +1,16 @@
+AGENT: Hello Celestine, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Women have calling about
+AGENT: How can I assist you with your ride today?
+CALLER: Yeah. You you picked me up. I would have a car to ride.
+AGENT: It sounds like you want to book a ride. Could you please tell me where you would like
+CALLER: Hello? Hello? Six forty Hello? 417 on the breast.
+AGENT: Thank you for sharing that. To proceed with your ride booking, could you please let me know how you would like to pay? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Go ahead.
+AGENT: Could you please tell me which payment method you would like to use for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: You
+AGENT: I didn't quite catch that. Could you please tell me if you'd like to pay with cash, credit card,
+CALLER: Stop what? You got it. You got it. It. You
+AGENT: Thank you for confirming. Could you please specify if you would
+CALLER: Bye.
+AGENT: Thank you for calling Barwood & Regency, Celestine. Have a wonderful day!

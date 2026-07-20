@@ -1,0 +1,45 @@
+AGENT: Hello Alba, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Could you send me a call, please? Thank you.
+AGENT: Uhh, just to be sure, when you say "send me a call," do you mean you'd like to book a ride with us? Or is there something else I can assist you with? <emotion value="peaceful"/>
+CALLER: Yes. I like I like I like to book a ride, please.
+CALLER: Sorry.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? If you'd like, I can use your
+CALLER: Yes. It's One seven two five
+AGENT: Uh, I am sorry, but could you please provide the full street address including the street name and city
+CALLER: Steely
+AGENT: Thank you. Let me check that address. One seven two five Steely. Could you please confirm the
+CALLER: One
+AGENT: Hmm, let me check that address. Just to confirm, is your pickup address one seven two five Steely? Could you please tell me
+CALLER: One one one one seven two five Staley Manor Drive,
+AGENT: Okay, so I
+CALLER: Silver Spring, Maryland
+AGENT: Okay, so I found your pickup address as one seven two five Staley Manor Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Two I mean, sorry. Sorry. One two two zero one from Otter Drive, Silver Spring, Maryland.
+AGENT: Okay, so I found the dropoff address as one two two zero one Atherton Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. One two two zero one plum. Plum Orchard Drive, p l u m, Plum Orchard Drive, Silver Spring, Maryland.
+AGENT: Okay, so I found the dropoff address as one two two zero one Plum Orchard Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Alba.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: You will upon now.
+AGENT: Okay great! I've got your pickup time set for today at 8:29 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One No.
+AGENT: Okay great! I've got 1 passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 8.5 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes. Not yet.
+CALLER: I don't know how long I will stay.
+AGENT: Alright, I understand you’re not sure when you’ll be ready for the return trip. Would you like me to set up a will-call return trip so you can call us when you’re ready, or would you prefer to schedule a specific return time
+CALLER: Yes. Yeah. Yes.
+AGENT: Okay, I've set up your return trip as a will-call, with pickup at 12201 Plum Orchard Drive and dropoff at 1725 Staley Manor Drive. The fare for the return trip will also be 8.5 dollars, paying with cash. Should I go ahead and book both trips
+CALLER: Yes.
+AGENT: Thank you for your patience. I'm processing your booking
+CALLER: Here. You're welcome.
+AGENT: Your main trip confirmation number is 2 1 3 6 7 7 9 2 6, and your return trip confirmation number is 2 1 3 6 7 7 9 2 7. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Alba. Have a wonderful day.

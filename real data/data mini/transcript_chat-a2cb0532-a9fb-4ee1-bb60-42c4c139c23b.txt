@@ -1,0 +1,10 @@
+AGENT: Hi John, this is Ana with Barwood & Regency. Your pickup is scheduled for today at 12:00 PM. How can I assist you today?
+CALLER: I'd like to make reservations for our cab Come by my house at one one five two three George Avenue, Silver Spring.
+AGENT: Looks like you already have trips from 11523 Georgia Avenue to 8807 Colesville Road at 9:10 am, and back at 12:00 pm. What would you like to do? <emotion value="grateful"/>
+CALLER: I'd like to make reservations for the cab today at nine ten AM in my house at 11523 George Avenue, Silver Spring, at a two eighty eight zero seven Coastal Road, Silver Spring at 09:10AM.
+AGENT: You already have trips scheduled from 11523 Georgia Avenue to 8807 Colesville Road at 9:10 am, and back at 12:00 pm. What would you like to do? <emotion value="grateful"/>
+CALLER: Just keep it. Reservation for the cab at nine, ten AM. Today, today is today is Friday, 07/10/2026. O 07/10/2026. I had the cat come by my house at 11523 Georgia Avenue, Silver Spring. At a two eighty eight zero seven Colesville Road, Silver Spring, and then return trip from 12PM at at eight eight zero seven Holstville Road, Silver Spring, the 115334 Avenue, Silver Spring at twelve noon.
+AGENT: It looks like you want to keep your existing trips as scheduled for today at 9:10 am from 11523 Georgia Avenue to 8807 Colesville Road, and the return trip at 12:00 pm. Is that correct? <emotion value="grateful"/>
+CALLER: Correct.
+AGENT: Thank you for calling Barwood & Regency, John. Have a great day.
+CALLER: Right.

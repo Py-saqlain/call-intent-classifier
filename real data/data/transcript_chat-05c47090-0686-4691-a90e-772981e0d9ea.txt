@@ -1,0 +1,32 @@
+AGENT: Hi Patrick, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need taxi to to two three five two eight fourth Havenway.
+AGENT: Thank you for sharing your destination. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: I have the pickup address as two three five two eight Forest Haven Way, Clarksburg, Maryland. Is that correct?
+CALLER: Correct. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 20910 Frederick Road.
+AGENT: Thank you for the destination address. To make sure I have it right, is your dropoff address two zero nine one zero Frederick Road?
+CALLER: Yes.
+AGENT: I have the dropoff address as two zero nine one zero Frederick Road, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Patrick. I will now proceed with arranging your trip.
+AGENT: When would you like to be picked up?
+CALLER: No.
+AGENT: Just to clarify, did you mean you want to be picked up right now, or would you prefer to call back later when you are ready?
+CALLER: Right right right now.
+AGENT: Thank you, I have your pickup time as right now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Two passengers.
+AGENT: Thank you for letting me know there will be two passengers. Will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thank you, I have noted no wheelchair accessibility needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 13 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with just the one-way trip. Should I go ahead and book this trip for you now?
+CALLER: Yes.
+AGENT: I am booking your trip now.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 5 7 8 6. The pickup is scheduled for today at 3:47 PM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Patrick. Have a great day!

@@ -1,0 +1,32 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Donna Shields?
+CALLER: Yes.
+AGENT: Thanks for confirming, Donna. This is Barwood & Regency. How can I assist you today?
+CALLER: Need taxi.
+AGENT: Thank you for letting me know, Donna. How would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, Donna. Your payment by credit card is all set.
+AGENT: Donna, could you please tell me the pickup address for your taxi?
+CALLER: Sixty four twenty Rockledge Drive in Bethesda.
+AGENT: I have 6 4 1 0 Rockledge Drive in Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: No. No.
+AGENT: Thank you for letting me know. Could you please repeat the pickup address again?
+CALLER: Sixty four twenty Rockledge Drive in Bethesda.
+AGENT: I have 6 4 2 0 Rockledge Drive in Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One five one zero one. Interlaken Drive, in Silver Spring, Unit 108.
+AGENT: I have 1 5 1 0 1 Interlachen Drive in Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Donna.
+AGENT: When would you like to be picked up?
+CALLER: Now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One, and I need a wheelchair accessible via?
+AGENT: Thank you. Will you have any special instructions or notes for the driver?
+CALLER: Need a ramp.
+AGENT: The estimated fare is 27 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking your one-way trip now.
+AGENT: Your trip is scheduled for today at 12:00 PM. The confirmation number is 2 1 3 6 6 3 3 6 6. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Donna. Have a wonderful day!

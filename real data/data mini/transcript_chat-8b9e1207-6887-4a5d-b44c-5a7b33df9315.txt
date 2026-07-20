@@ -1,0 +1,13 @@
+AGENT: Hello Khianna, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Associate.
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Associate. Licensed.
+AGENT: Uhh, could you please tell me how I can assist you with your ride or booking today? <emotion value="peaceful"/>
+CALLER: Live ticket.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Life season.
+AGENT: I'm sorry, I didn't quite catch that. Could you please tell me how I can assist you with your ride or booking today?
+CALLER: I'm not booking a ride.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

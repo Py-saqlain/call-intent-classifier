@@ -1,0 +1,8 @@
+AGENT: Hello, behshiz. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Yeah. Hello?
+AGENT: How can I assist you with your ride today?
+CALLER: My address is one four four three one Can I be God then Apart from that, four one three z? B, d as in baby. I want to go to nine seven zero one. Fillet Road. Date is Berg. M d two zero eight. Two seven two nine
+AGENT: Thank you for sharing your trip details. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

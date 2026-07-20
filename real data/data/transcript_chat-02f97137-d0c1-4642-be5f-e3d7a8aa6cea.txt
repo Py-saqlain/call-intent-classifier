@@ -1,0 +1,29 @@
+AGENT: Hi Paul, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi from Colesville to Kensington.
+AGENT: Thank you for letting me know your trip details. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: I found Dunkin' at 1 3 8 0 4 Outlet Drive, Silver Spring, Maryland. Is this the correct pickup location?
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide the full pickup address or a nearby landmark to help me find the correct location?
+CALLER: One three two two seven. Bregman Road, Silver Spring, Maryland.
+AGENT: I have 1 3 2 2 7 Bregman Road, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: I found several locations in Kensington:
+
+1. Kensington Club at 1 2 3 2 0 Parklawn Drive, Rockville, Maryland.
+2. North Kensington, Maryland.
+3. Arden Courts at 4 3 0 1 Knowles Avenue, Kensington, Maryland.
+4. Pharmacy at Kaiser Permanente Kensington Medical Center, 1 0 8 1 0 Connecticut Avenue, Kensington, Maryland.
+5. Kensington Pizza & Kabob House at 3 7 0 1 University Boulevard West, Kensington, Maryland.
+
+Which one would you like to use as your dropoff location?
+CALLER: None.
+AGENT: Thank you for letting me know. Could you please provide a more specific address, landmark, or cross street in Kensington to help me find the correct dropoff location?
+CALLER: 10527. Summit Avenue.
+CALLER: Kensington, Maryland.
+AGENT: I have North Kensington, Maryland as the dropoff address. Is that correct?
+AGENT: I have North Kensington, Maryland as the dropoff address. Is that correct?
+CALLER: No. One zero five two seven Summit Avenue, Kensington.
+AGENT: I have North Kensington, Maryland as the dropoff address. Is that correct?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

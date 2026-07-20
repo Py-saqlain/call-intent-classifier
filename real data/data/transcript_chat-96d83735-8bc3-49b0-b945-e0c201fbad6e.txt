@@ -1,0 +1,39 @@
+AGENT: Hi Nancy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab right away.
+AGENT: Thank you for letting me know. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Yeah. I think pay cash or and I will pay top dollar I've got to get there.
+AGENT: Thank you for choosing cash as your payment method.
+AGENT: Could you please tell me the pickup address?
+CALLER: $77.25. Wisconsin Avenue.
+AGENT: Just to clarify, is your pickup address 7 7 2 5 Wisconsin Avenue?
+CALLER: Yes. And it says there.
+AGENT: I have 7 7 2 5 Wisconsin Avenue, Chevy Chase, Maryland as your pickup address. Is that correct?
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes.
+AGENT: Could you please tell me the destination or dropoff address where you want to go?
+CALLER: It is yes. It's in Randolph Road. And Planet Fitness. There's a huge building right on the corner. Of Randolph Road. Planet Fitness,
+AGENT: I found two Planet Fitness locations on Randolph Road. One is at 5 5 2 0 Randolph Road in Rockville, Maryland, and the other is at 2 2 0 1 Randolph Road in Wheaton-Glenmont, Maryland. Which one would you like to go to?
+CALLER: No. No. Not waiting. The first one. Not waiting.
+AGENT: Your dropoff address has been verified, Nancy.
+AGENT: You mentioned you need a pickup right now. Is that correct? Please say yes to confirm or let me know if you want a different pickup time.
+CALLER: No. I I am desperate. I wanna pick up right now can come in one minute, I would appreciate it.
+AGENT: Thank you for confirming the pickup time as right now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One,
+AGENT: Will the one passenger need a wheelchair-accessible vehicle?
+CALLER: No. No.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No. Just please come quickly because they're gonna tow my car. Please.
+AGENT: The estimated fare for your trip from 7 7 2 5 Wisconsin Avenue to 5 5 2 0 Randolph Road is 18 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No. That's it. I just enable pay extra for the person if they can just come now.
+AGENT: I understand you'd like the driver to come as soon as possible. Should I go ahead and book your trip now?
+CALLER: And I'm yes, please. And tell me how long it will take and I will pay him extra.
+AGENT: Thank you. I am booking your trip now. Regarding the exact arrival time, I will pass your request along, but I cannot guarantee the driver’s ETA or any extra payment arrangements over the phone. Your trip is being processed.
+AGENT: Thank you for waiting. I am booking your trip now.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 5 8 4 8. Your pickup is today at 5:38 PM. Is there anything else I can help you with?
+CALLER: Yes, you can count me when you think they caught when you think the cab is coming?
+AGENT: I don't have the exact arrival time for the driver, but the pickup is scheduled for 5:38 PM today. If you need any other help, just let me know.
+CALLER: No. I just want I just wanted to really calm. And and and really, really desperate because they're gonna tow my car
+AGENT: I understand how urgent this is for you. The driver will do their best to get to you quickly. If there’s anything else you need or any changes, please let me know.
+CALLER: Yes.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

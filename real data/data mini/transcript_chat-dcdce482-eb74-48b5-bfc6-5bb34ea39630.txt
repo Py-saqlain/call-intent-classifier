@@ -1,0 +1,8 @@
+AGENT: Hi Noah, this is Ana from Barwood & Regency. Vehicle 511 is on the way and will arrive for your pickup in about 11 minutes at 5:10 pm. How can I assist you today?
+CALLER: Cancel rise.
+AGENT: I will connect you to the trip cancellation team to help with canceling your ride. Please hold for a moment.
+AGENT: Hmm <break time="300ms"/> I see one trip on your account. <break time="300ms"/> It is your first trip, pickup at 8 4 0 4 Colesville Road in Silver Spring at 5:01 pm going to 1 0 0 3 North Belgrade Road in Silver Spring. <break time="300ms"/> Would you like me to cancel this trip for you? <emotion value="peaceful"/>
+CALLER: Nope.
+AGENT: Okay, no problem. If you need help with anything else, just let me know.
+AGENT: Alright, if you change your mind or need help with anything else, just let me know.
+AGENT: Take your time. Just let me know when you're ready.

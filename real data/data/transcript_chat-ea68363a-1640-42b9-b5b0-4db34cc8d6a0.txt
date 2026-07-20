@@ -1,0 +1,55 @@
+AGENT: Hello Gladys, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Can I get a taxi, please?
+AGENT: I'd be happy to help you with that. How would you like to pay for your taxi? We accept cash, credit card, and Call and Ride.
+CALLER: Color ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yeah.
+AGENT: Could you please tell me the last six digits of your Call and Ride card?
+CALLER: Three five zero one eight eight.
+AGENT: Thank you for providing your Call and Ride details. Your payment method is set to Call And Ride.
+AGENT: Where would you like to be picked up?
+CALLER: It's Montgomery Mall. 125 Democracy Boulevard.
+AGENT: I found a
+CALLER: At the AMC Theatres.
+AGENT: I have 6 7 2 0 Rockledge Drive, Bethesda, Maryland 2 0 8 1 7, near AMC Theatres. Is that the correct pickup address?
+CALLER: No. No. No.
+AGENT: Thank you for letting me know. Could you please provide the pickup address again or any nearby landmark or cross street to help identify it?
+CALLER: Seven one two five Democracy Boulevard,
+AGENT: I have 7 1 2 5 Democracy Boulevard, Bethesda, Maryland. Is that the correct pickup address?
+CALLER: Yeah. Correct.
+AGENT: Your pickup address has been verified. Where would you like to go? What is your destination or dropoff address?
+CALLER: At the at the at the four four seven one zero Elm Street,
+AGENT: I couldn't find 4 4 7 1 0 Elm Street. Could you please provide the city and state for that address?
+CALLER: It's 4710 Elm Street, Bethesda.
+AGENT: I have 4 7 1 0 Elm Street, Bethesda, Maryland. Is that the correct dropoff address?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Gladys. I will now proceed with arranging your taxi.
+AGENT: When would you like to be picked up?
+CALLER: At the as of in front of the food hall in Montgomery Mall.
+AGENT: I noticed you mentioned a location, but right now I'm focusing on collecting your pickup time, number of passengers, wheelchair needs, and any driver instructions. Could you please tell me what time you'd like to be
+CALLER: Oh, okay.
+AGENT: No problem. What time would you like to be picked up?
+CALLER: Right now,
+CALLER: Right now. Please. If one passenger Right now.
+AGENT: Thank you for that. To confirm, you have one passenger and need no wheelchair-accessible vehicle, correct? Also, do you have
+CALLER: Think Correct.
+AGENT: Thank you for confirming one
+CALLER: Nurse
+AGENT: Thank you for letting me know. I have recorded "nurse" as a special instruction for the driver. Do you have any other instructions or details you'd like the driver to know?
+CALLER: No. Nurse is not correct. I don't need a nurse. I just need him to pick me up at the uh, at the entrance of the food hall Montgomery Mall.
+AGENT: Understood, I have removed the nurse instruction. Now, do you have any special instructions for the driver, or should I note no special instructions?
+CALLER: Pick me up at the food court entrance of Montgomery Mall.
+AGENT: Sure, let me update that address.
+AGENT: I found the Westfield Montgomery Food Court at 7 1 0 1 Democracy Boulevard, Bethesda, Maryland. Is that the correct pickup location?
+CALLER: Yes.
+AGENT: The pickup address has been successfully updated. What time would you like your pickup?
+AGENT: To confirm, your pickup time is today at 6:45 PM, with one passenger and no wheelchair needed. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your trip is 18 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will skip the return trip. Now, should I go ahead and book your ride for today at 6:45 PM?
+CALLER: Yes.
+AGENT: I am booking your ride now.
+AGENT: Your ride is booked for today at 6:45 PM. Your confirmation number is 2 1 3 6 6 9 7 6 0. Is there anything else I can help you with?
+CALLER: No. That's it.
+AGENT: Thank you for calling Barwood & Regency, gladys. Have a wonderful day!

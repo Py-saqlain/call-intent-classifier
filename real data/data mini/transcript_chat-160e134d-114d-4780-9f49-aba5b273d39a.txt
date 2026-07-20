@@ -1,0 +1,24 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: E m e b e t.
+AGENT: Thanks, Emebet. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a taxi.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Oh, which one is the convenient one? I don't know. Felipe. Whatever I want? I
+AGENT: Hmmm.. <break time="300ms"/> all three options are convenient, so it really depends on what you prefer. Cash is simple, credit card works well if you want to pay by card, and Call and Ride is a prepaid card option. Which one would you like to use? <emotion value="hesitant"/>
+CALLER: Oh, credit card prepaid one. Credit card.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: To get started, could you please tell me the pickup address for your taxi ride? <emotion value="peaceful"/>
+CALLER: One four five zero six Dansanen Terrace, Silver Spring, Maryland two zero nine zero six.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I found a close address: 1 4 3 0 1 Georgia Avenue, Silver Spring, Maryland. Is that the correct pickup location? <emotion value="hesitant"/>
+CALLER: Oh, no. No.
+AGENT: Okay, please provide the correct pickup address again. <emotion value="apologetic"/>
+CALLER: No. Wrong.
+AGENT: Uh, I am sorry, but could you repeat the pickup address one more time, please? <emotion value="apologative"/>
+Uh, I am sorry, but could you repeat the pickup address one more time, please? <emotion value="apologetic"/>
+CALLER: One four
+AGENT: I’m sorry, I didn’t catch the full address. Could you please say the complete pickup address again, including the street number and street name? <emotion value="peaceful"/>
+CALLER: Yeah. Okay. One four five zero six d u n s I n a n e. Terrace, s I l v e r spring, p r I n g, Maryland. Two zero nine zero six.
+AGENT: Thank you for repeating that. Let me check the address again.
+AGENT: I found a close address: 1 4 3 0 1 Georgia Avenue, Silver Spring, Maryland. Is that the correct pickup location? <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

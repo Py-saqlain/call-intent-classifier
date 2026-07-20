@@ -1,0 +1,9 @@
+AGENT: Hi Mary, this is Ana with Barwood & Regency. Vehicle 1187 is on the way and should be there in about 13 minutes, aiming to pick you up around 12:54. How can I assist you today?
+CALLER: Hello. You just told me twenty minutes ago It will take about eight minutes, And now it's how many minutes? Twenty minutes ago, you said that it would take eight minutes.
+AGENT: I understand you're checking on the current status of your ride and the estimated time. Let me connect you to the trip status team who can provide the latest update on your driver's arrival.
+AGENT: Your current trip pickup was scheduled for 12:25 pm, and the estimated travel time is about 8 minutes. If you want, I can check the driver's exact location or help with anything else.
+CALLER: Yes. Please do.
+AGENT: The system shows your driver is on the way but the estimated arrival time seems off, showing about 1423 minutes. I will connect you with a customer representative who can provide a clearer update right away.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+AGENT: I'm experiencing a technical
+CALLER: Mhmm. Okay.

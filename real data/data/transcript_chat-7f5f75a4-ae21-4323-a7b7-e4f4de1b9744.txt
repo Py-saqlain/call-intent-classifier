@@ -1,0 +1,31 @@
+AGENT: Hi Sally, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to go to Five Guys Rest restaurant. In Bethesda, Maryland It's one oak four one four Auto Park Drive.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Past. Pass. Pass.
+AGENT: Hmmm.. that sounds like it might be cash. Did you mean to pay with cash? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so I have the dropoff as 1 0 4 1 4 Auto Park Avenue, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: Eight one nine six. Inverness Ridge Road, But Potomac.
+AGENT: Just to confirm, your pickup address is 8 1 9 6 Inverness Ridge Road, Potomac, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. And I just need a regular taxi, not a SUV or anything.
+AGENT: Okay, so your pickup address is 8 1 9 6 Inverness Ridge Road, Potomac, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified, Sally. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: At let's see. Eleven twenty. No. No. Eleven fifteen.
+AGENT: Just to confirm, you would like to be picked up today at 11:15 AM, is that correct? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time as today at 11:15 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One one that I have I have a foldable rollator. Which is a walker. Bolt up.
+AGENT: Alright, the estimated fare is 9.5 dollars, paying with cash. You mentioned one passenger with a foldable rollator walker. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. It's usually not that much Has it gone up? The price?
+AGENT: The estimated fare for your trip is 9.5 dollars. If you have any concerns about the fare or want to discuss payment options, I can connect you to a live agent who can assist further. Would you like me to do that? <emotion value="hesitant"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 11:15 AM. Your confirmation number is 2 1 3 6 7 1 7 8 3. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Sally. Have a wonderful day!
+CALLER: They need to man. Ma'am. Hello?

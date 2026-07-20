@@ -1,0 +1,32 @@
+AGENT: Hello Ella, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to book a round trip ticket. A round trip
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Debit cards.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: To get started, could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: Thirty six sixteen Pear Tree Court, Asson Hill.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found your pickup address as three six one six Pear Tree Court, Aspen Hill, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One three eight seven zero Georgia Avenue. Silver Spring.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found your dropoff address as one three eight seven zero Georgia Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Maryland.
+AGENT: Thank you for confirming. Is the dropoff address one three eight seven zero Georgia Avenue, Silver Spring, Maryland? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Ella. I'll now proceed to arrange your round trip. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now,
+AGENT: Okay great! I've got your pickup time as today at 11:14 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: I'll call back. Just one
+AGENT: Okay great! I've noted one passenger and that you'll call back when ready. Will you need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Just myself and no wheelchair.
+AGENT: Alright, the estimated fare is 6.5 dollars, paying with credit card. You mentioned you'd like a return trip — would you still like me to set that up? <emotion value="peaceful"/>
+CALLER: Thank you.
+AGENT: I'm processing your main trip booking now. Please hold on a moment.
+AGENT: Your main trip is booked as a will-call reservation with confirmation number 2 1 3 6 7 1 8 4 0. You can call back when you're ready, and a driver will be dispatched to your pickup location then. Is there anything else I can help you with?
+CALLER: No, that's it. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Ella. Have a wonderful day!
+CALLER: Thank you.

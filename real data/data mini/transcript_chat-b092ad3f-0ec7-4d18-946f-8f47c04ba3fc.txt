@@ -1,0 +1,8 @@
+AGENT: Good morning, Edna. This is Ana from Barwood & Regency. Your pickup is scheduled for today at 10:00 AM, and you also have a will-call trip today from 19851 Observation Drive in Germantown to 19317 Club House Road in Montgomery Village. How can I assist you today?
+CALLER: I'd like to confirm the pickup cab.
+AGENT: Your pickup is scheduled for today at 10:00 AM, but no driver or vehicle has been assigned yet. I'll keep you posted. Is there anything else I can help with?
+CALLER: Yes. A confirmation that I have a cab at 10:00.
+AGENT: You have a scheduled pickup today at 10:00 AM from 1 9 3 1 7 Club House Road in Montgomery Village. However, no driver or vehicle has been assigned yet. Would you like me to keep monitoring this for you?
+CALLER: Yes, please. And, uh, activate the call for a cab, please.
+AGENT: I’m unable to contact the driver directly, but I can connect you with a customer support representative who can assist with your request to activate the cab. Let me connect you now.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

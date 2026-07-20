@@ -1,0 +1,32 @@
+AGENT: Hello, this is Ana with Barwood & Regency. How can I assist you today, Hyman?
+CALLER: Uh, I'd like a cab to pick me up at six one one one Montrose Road.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: K.
+AGENT: Hmmm.. that didn't seem right, could you try again? How would you like to pay for your ride? Cash, credit card, or Call and Ride? <emotion value="apologetic"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so I found 6 1 1 1 Montrose Road, North Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Could you please tell me your destination or dropoff address? <emotion value="peaceful"/>
+CALLER: K. Five two five five Lockborough Road Northwest, Washington DC.
+AGENT: Okay, so I found 5 2 5 5 Loughboro Road Northwest, Washington, District of Columbia. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+AGENT: Okay, I have your pickup time as tomorrow at 6:11 AM. How many passengers will be traveling, including yourself? And will anyone need a
+CALLER: Uh, right now.
+AGENT: Hmm, sorry, let me get that right. You said you want to be picked up right now instead of tomorrow at 6:11 AM? <emotion
+CALLER: One.
+AGENT: Okay great! I've updated your pickup time to right now and noted 1 passenger. Will you be needing a wheelchair accessible vehicle? <emotion value="grateful"/>
+CALLER: Right. No. But I do have a cane. But that's okay.
+AGENT: Alright, so let me confirm those details. Your pickup is 6 1 1 1 Montrose Road. Your dropoff is 5 2 5 5 Loughboro Road Northwest. Pickup time is today at 12:40 PM. You have 1 passenger, and you will be using a wheelchair accessible vehicle. The estimated fare is 28.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Not at the moment.
+AGENT: Alright, I will skip the return trip for now. Should I go ahead and book your ride for today at 12:40 PM from Montrose Road to Loughboro Road Northwest? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so I am booking your ride now. <emotion value="grateful"/>
+AGENT: Thank you for waiting. Your ride is booked with confirmation number H <break time="300ms"/> Y <break time="300ms"/> 3 <break time="300ms"/> 8 <break time="300ms"/> 7 <break time="300ms"/> 4. Is there anything else I can assist you with?
+CALLER: Nope.
+AGENT: Your ride is booked with confirmation number 2 1 3 6 7 0 6 6 2. Your pickup is today at 12:40 PM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Hyman. Have a wonderful day!
+CALLER: Thank you.

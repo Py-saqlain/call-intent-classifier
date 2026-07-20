@@ -1,0 +1,56 @@
+AGENT: Hello Sheba, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Today, I would like to have a cab. To my doctor's office.
+AGENT: Alright, how would you like to pay for your ride today? We accept
+CALLER: I'm at the I had to pay cash today. I don't have cash.
+AGENT: Hmmm.. that didn't seem right, could you try again? How would
+CALLER: I don't have a caller ride.
+AGENT: Just to be sure, did you mean Call and Ride, the payment card? Or would you prefer to pay with cash or credit card instead?
+CALLER: I said cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me your pickup address?
+CALLER: Eleven thirty five University Boulevard, West, eleven to 5 University Boulevard West,
+AGENT: Okay, let me check that address.  You said eleven thirty five University Boulevard West, correct?
+CALLER: Mhmm. Yeah.
+AGENT: Okay, so I found your pickup address as one one three five University Boulevard West, Silver Spring, Maryland. Is that correct?
+CALLER: Yes. That's correct.
+AGENT: I found a few locations for the doctor's office near one one three five University Boulevard West, Silver Spring. 
+Option one: 1131 University Boulevard West, Silver Spring, Maryland, The Warwick Apartments. 
+Option two: 1131 University Boulevard West, Silver Spring, Maryland, Connection Dental. 
+Option three: 1131 University Boulevard West, Silver Spring, Maryland, Dr. Susan Pearson. 
+Option four: 1135 University Boulevard West, Silver Spring, Maryland, Arcola Towers. 
+Option five: 1111 University Boulevard West, Silver Spring, Maryland, Lee Dentistry of Silver Spring. 
+Which one is correct?
+CALLER: 1155 University Boulevard West,
+AGENT: That looks like a correction to the dropoff address. Let me check that for you.
+AGENT: I found the dropoff
+CALLER: Yes. No. No. That's pickup. Pickup. Pickup. Pickup. That's my pickup.
+AGENT: Okay, just to clarify, the address one one five five University Boulevard West is your pickup address, not the dropoff?
+CALLER: No. No. No. No. One one three five. Three five University Boulevard West, One one three five.
+AGENT: Thank you for clarifying. Your pickup address is one one three five University Boulevard West, Silver Spring, Maryland, correct?
+CALLER: Yeah. Yeah. And drop is
+AGENT: Please go ahead and tell me the dropoff address when you're ready.
+CALLER: three zero one three zero one gosh.
+AGENT: Could you please
+CALLER: To Three zero one two
+AGENT: Uh, I am sorry, but could you repeat the dropoff address? I want to make sure I get it right.
+CALLER: Yeah. Yeah. Yeah. I'm thinking I'm thinking about it. Let me see. It's 2 it's oh gosh. Just
+AGENT: Take your time. Whenever
+CALLER: it is two oh, god. To 201. I guess a lot the I guess I'll let the drop I it was oh my gosh.
+AGENT: No problem, take your time. Could you please try to say the dropoff address again slowly when you're
+CALLER: And
+AGENT: I’m here to help whenever you’re
+CALLER: And I'm I'm I'm not gonna remember. Let me see. Oh, boy. Two,
+AGENT: No rush at all. If it helps, you can tell me any part of the address you remember, like the street name or city, and we can work from there.
+CALLER: Yeah. It's a Georgia Avenue. It's Georgia Avenue. Two zero one And the age two zero one two six.
+AGENT: Thank you. Just to confirm, your
+CALLER: Two two two zero one two five five. Should be the cell. Two zero one two five two two six. Okay. Two zero one two six. Georgia Avenue,
+AGENT: Okay, let me check that dropoff address on Georgia Avenue with the numbers you gave.
+AGENT: I couldn't find an exact match for two zero one two six Georgia Avenue, Silver Spring, Maryland. Could you please confirm if you meant 14301 Georgia Avenue, Silver Spring, Maryland?
+CALLER: No. Too old. Two zero one two five two six
+AGENT: Okay, I understand you meant two zero one two five two six Georgia Avenue. Let me check that address for you.
+CALLER: So no. No. No. I have two no. No. No. No. Two zero one two six. 20126.
+AGENT: Uh, I am
+CALLER: Georgia Avenue.
+AGENT: Uh, I am sorry, but could you please confirm the street number again for the Georgia Avenue address? It sounded like you said two zero one two six, is that correct?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: 2012 yeah. Two zero okay.

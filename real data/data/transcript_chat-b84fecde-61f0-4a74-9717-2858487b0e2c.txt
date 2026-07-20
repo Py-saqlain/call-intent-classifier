@@ -1,0 +1,32 @@
+AGENT: Hi Sally, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I need a taxi now.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: I'm gonna be picked up at eight one nine six Inverness Ridge Road, Potomac,
+AGENT: Okay, so your pickup address is eight one nine six Inverness Ridge Road, Potomac, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One zero three two three Old Georgetown Road. Balducci's grocery store.
+AGENT: I found Balducci's Food Lovers Market at 1 0 3 2 3 Old Georgetown Road, Bethesda, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, Sally.
+AGENT: You mentioned you need a taxi now. Is that correct? Please say yes if that is right. <emotion value="peaceful"/>
+CALLER: Yeah. Yeah.
+AGENT: Okay great! I've got your pickup time as now, today at 12:42 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: No. Just a regular, Kathy. I don't like the SUVs.
+AGENT: The estimated fare is 11.5
+CALLER: Well, I like some of them. I don't like the one what? Hello?
+AGENT: Thank you for letting me know about your preference for a regular car without SUVs. I'm processing your booking now. Please hold on a moment.
+CALLER: Okay.
+AGENT: Your main trip
+CALLER: I wanna tell you something.
+AGENT: Of course, I'm here to listen. What would you like to tell me?
+CALLER: I I don't object to SUVs. But I don't like the ones where they have to put a step stool. On, and I have to step on that. Those are the larger ones, I guess.
+AGENT: Thank you for sharing that with me. I understand you prefer regular cars or SUVs without the step stool for easier access. I'll make sure to note that preference for
+CALLER: Right.
+AGENT: Got it. If there’s anything else you want to add or if you need another ride, just let me know. Is there anything else I can help you with right now?
+CALLER: Thank you. That's it.
+AGENT: Thank you for calling Barwood & Regency, Sally. Have a wonderful day!
+CALLER: You know, do you have

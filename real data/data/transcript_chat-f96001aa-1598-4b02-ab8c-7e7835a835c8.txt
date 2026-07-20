@@ -1,0 +1,46 @@
+AGENT: Hi Victoria, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Place ride pickup reservation.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: All in ride.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great! Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three two zero two five six
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: One four five one four. Home Crust Road, Silver Spring, Maryland 20906.
+AGENT: Okay, so your pickup address is one four five one four Homecrest Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Three eight zero one. International Drive,
+AGENT: Could you please provide the city and state for three eight zero one International Drive? <emotion value="peaceful"/>
+CALLER: Silver Spring, Maryland two zero nine zero six.
+AGENT: Okay, so your dropoff address is three eight zero one International Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Victoria, I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 10:30AM.
+AGENT: Okay great! I've got your pickup time as today at 10:30 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: No wheelchair left necessary. Myself and one additional person.
+AGENT: Okay great! I've got 2 passengers and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: So then, if possible,
+AGENT: Could you please tell me any special instructions or notes you would like the driver to know? <emotion value="peaceful"/>
+CALLER: no additional notes
+AGENT: Alright, the estimated fare is 9.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, great! I'll start collecting the details for your return trip now. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: I don't know yet.
+AGENT: Okay, I've recorded your return trip as a will-call trip since you're not sure about the pickup time yet. Alright, soo <break time="300ms"/> how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No wheelchair needed. It will be myself and one passenger.
+AGENT: For your return trip, I have the pickup address as three eight zero one International Drive and the dropoff address as one four five one four Homecrest Road. Is that correct? <emotion value="peaceful"/>
+CALLER: Repeat that information.
+AGENT: Sure! For your return trip, the pickup address is three eight zero one International Drive, and the dropoff address is one four five one four Homecrest Road. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 10.5 dollars, paying with Call and Ride. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so <break time="250ms"/> I am booking both trips for you now. <emotion value="grateful"/>
+AGENT: Thank you for your patience. I am booking both your main and return trips now.
+AGENT: Your main trip is scheduled for today at 10:30 AM with confirmation number 2 1 3 6 7 6 6 7 6. Your return trip is a will-call booking with confirmation number 2 1 3 6 7 6 7 7. You can call back when you are ready for the return trip and a driver will be sent then. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Victoria. Have a wonderful day!

@@ -1,0 +1,14 @@
+AGENT: Hi Kevin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I was calling to see if you all found me a cab.
+AGENT: Okay, let me check on your ride status for you. I'll connect you to the trip status agent right now.
+AGENT: It looks like you don't have an active trip scheduled right now. Would you like me to help you book a ride?
+CALLER: I need to speak with someone.
+CALLER: Hello.
+AGENT: Uhh, how can I assist you today? Are you looking to book a ride, check on a trip, or speak with someone? <emotion value="peaceful"/>
+CALLER: I need I need to speak with someone.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: I need to know what time my cab is gonna be here.
+AGENT: Okay, I can check your ride status for you right now.
+AGENT: Uhh, I’m sorry, but it looks like you don’t have an active trip scheduled right now. Would you like me to help you book a ride? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

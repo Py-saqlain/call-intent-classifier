@@ -1,0 +1,26 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Unknown?
+CALLER: You're speaking with me, and I wanna call you right for my my friend. She's downstairs waiting.
+AGENT: Thanks for letting me know, Ethel. This is Barwood & Regency. How can I assist you today?
+CALLER: No. Can I give you the address and send the card? You want the address now? That's Bywood and New Jersey. You know? You want the address?
+AGENT: Okay, I understand you want to give me the address now. Just to confirm, is your pickup location Barwood and New Jersey? And would you like to pay with a card?
+CALLER: Correct.
+AGENT: Okay so I've got that payment noted as Credit Card.
+AGENT: I found a location called Giant Food at 1 2 8 0 East West Highway, Silver Spring, Maryland. Is this the correct pickup location?
+CALLER: Cash. Cash. Not credit card. Cash.
+AGENT: Thank you for clarifying that you will be paying with cash. Now, could you please provide the destination or dropoff address?
+CALLER: no. Can you listen? Let me give you the address.
+AGENT: Yes, I am listening. Please go ahead and give me the destination or dropoff address.
+CALLER: Can you give me the can you wait and let me wait? Don't have mercy, these people.
+AGENT: I’m here to help, Ethel. Take your time, and whenever you’re ready, just let me know the destination address.
+CALLER: Can you wait and let me call? Let me give you the address, the pickup address.
+AGENT: Of course, I’m here and ready to take the pickup address whenever you’re ready to provide it.
+CALLER: Listen. The address is one three one six Fenwick Lane.
+AGENT: Okay, let me check that address.
+AGENT: Okay, so I found 1 3 1 6 Fenwick Lane, Silver Spring, Maryland. Is that correct?
+CALLER: Okay. The address is one three one six ten Week Lane.
+AGENT: Okay, I understand you want to correct the address to 1 3 1 6 Ten Week Lane. Let me check that for you.
+AGENT: I found 1 3 1 6 Fenwick Lane, Silver Spring, Maryland again. Is that the correct pickup address?
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. That's the correct address.
+AGENT: Thank you for confirming the pickup address. Now, may I have the destination or dropoff address, please?

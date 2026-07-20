@@ -1,0 +1,11 @@
+AGENT: Hi Jacqueline, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm waiting for, uh, some of the regions The guy told me he would be here in ten minutes. That time has gone.
+AGENT: I understand you're waiting for your ride and the driver was expected about ten minutes ago. Let me connect you to the trip status team who can provide the latest update on your driver's location and estimated arrival.
+AGENT: I don't
+CALLER: Okay. Thank you.
+CALLER: Oh, I fantastic right here. No. It's like a wham.
+AGENT: I want to make
+CALLER: He's stopped. I don't know.
+AGENT: It sounds like your driver has stopped nearby. If you need any assistance or want me to check on your trip status again, just let me know. Is there anything else I can help you with right now?
+CALLER: No. That's it.
+AGENT: Thank you for calling Barwood & Regency, Jacqueline. Have a wonderful day.

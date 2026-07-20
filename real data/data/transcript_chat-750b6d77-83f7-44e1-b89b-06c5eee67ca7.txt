@@ -1,0 +1,33 @@
+AGENT: Hi Jeff, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hoping to schedule a taxi for tomorrow.
+AGENT: Alright, how would you like to pay for your ride tomorrow? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride tomorrow? <emotion value="peaceful"/>
+CALLER: One zero two one six. Frederick Avenue, Kensington, Maryland.
+AGENT: Okay, so I found your pickup location as one zero two one six Frederick Avenue, Kensington, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Union Station
+AGENT: I found a few locations for Union Station. 
+Option one: 1177 15th Street Northwest, Washington, D C. 
+Option two: 102 H Street Northeast, Washington, D C. 
+Option three: 1st Street Exit, Washington, D C. 
+Option four: Washington, D C 20002 (Union Station). 
+Option five: Washington, D C 20002 (Union Station). 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: The last
+AGENT: Your dropoff address has been verified, Jeff.
+AGENT: What time tomorrow would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 10:30.
+AGENT: Just to confirm, you mean 10:30 AM or 10:30 PM tomorrow? <emotion value="peaceful"/>
+CALLER: 10:30AM.
+AGENT: Okay great! I've got your pickup time as tomorrow at 10:30 AM. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One person. No accessibility problems. No need for assistance with luggage.
+AGENT: Alright, the estimated fare is 28.5, paying with Credit Card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No thanks.
+AGENT: Your ride is scheduled for tomorrow at 10:30 AM. Your confirmation number is 2 1 3 6 7 6 6 3 2. Is there anything else I can help you with?
+CALLER: Could you repeat that confirmation number?
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 6 6 3 2. Is there anything else I can assist you with?
+CALLER: Nope. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Jeff. Have a wonderful day!

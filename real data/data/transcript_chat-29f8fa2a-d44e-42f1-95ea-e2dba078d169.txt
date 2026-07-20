@@ -1,0 +1,40 @@
+AGENT: Hello Chow, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I would like to go from one one two one five Oakleaf Drive which is Ann Creek Apartment C, to the health to health care Medical Center in White
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so your pickup address is 1 1 2 1 5 Oak Leaf Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: I found a couple of locations for Health Care Medical Center in White. 
+Option one: 1 1 8 9 0 Healing Way, Silver Spring, Maryland. 
+Option two: 1 1 8 8 6 Healing Way, Suite 4 0 1, Silver Spring, Maryland. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Yes. And, actually, I'll be waiting at the lobby of the of the building, Apartment C, Building C, I mean, Building C of the of the on-site apartment That's correct. That's the correct one.
+AGENT: Your dropoff address has been verified. Thank you, Mr. Chow.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: The first one is the hospital. It's one one eight nine zero I'm mister Hope.
+AGENT: Sure, let me update that address.
+AGENT: Okay, so your pickup address is 1 1 8 9 0 Healing Way, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Now No. No.
+AGENT: Okay, please provide the correct pickup address again. <emotion value="peaceful"/>
+CALLER: Pickup. I'm here. I'm here in apartment one one two one zero
+AGENT: Could you please tell me the street name and city for apartment 1 1 2 1 0? That way I can find the full pickup address for you. <emotion value="peaceful"/>
+CALLER: 11215 Oakleaf Drive.
+AGENT: Okay, so your pickup address is 1 1 2 1 5 Oak Leaf Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Drive, Silver Spring, Maryland.
+AGENT: Alright, the pickup address has been successfully updated. What time would you like the pickup? <emotion value="peaceful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Correct. Correct.
+AGENT: Hmm, sorry, let me get that right. I need to know what time you would like to be picked up. Could you please tell me the pickup time? <emotion value="apologetic"/>
+CALLER: Now.
+AGENT: Okay great! I've got your pickup time as today at 9:23 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Two two no. No. It no. Just ordinary passengers.
+AGENT: Okay great! I've got 2 passengers and no wheelchairs. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: Mhmm. No. Actually, you you know it is actually about well, half an hour. Driving or fifteen minutes driving from pickup address to the destination address. Yeah. Everything is in Silver Spring.
+AGENT: Alright, the estimated fare is 13.5 dollars, paying with credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Okay. Understand. No. Later. I I can do that later.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 5 5 4 6. Your pickup is today at 9:23 AM. Is there anything else I can help you with?
+CALLER: Mhmm. That's all. Actually, you you can send this confirmation number to my phone, which is the one I'm used to I'm using to call you, (301) 693-8282. Because I don't have the I have a pen to I don't have a pen to write down this confirmation number.
+AGENT: Thank you for calling Barwood & Regency, Chow. Have a wonderful day!
+CALLER: Mhmm. Thank you. Bye bye.

@@ -1,0 +1,38 @@
+AGENT: Hi Carlos, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Need a ride home from the market now.
+AGENT: Thanks for letting me know. How would you like to pay for your ride? We accept cash, credit card, or Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment by credit card is all set.
+AGENT: I found several markets you might mean: La Union Market Mercado Latino at 8 0 3 5 Snouffer School Road Unit G in Gaithersburg, Madina Market at 1 8 5 3 8 Woodfield Road in Gaithersburg, H2 African Market at 8 3 5 5 Snouffer School Road in Gaithersburg, Las Latinas Store Market at 8 4 1 1 Snouffer School Road in Gaithersburg, and Derwood Saturday Farmers Market at 1 6 5 0 1 Redland Road in Rockville. Which one would you like to be picked up from?
+CALLER: Just a moment. I need to find the address.
+AGENT: Take your time. Just let me know the address or market name when you're ready.
+CALLER: Okay. I'm ready.
+AGENT: Great! Please tell me the address or the name of the market where you'd like to be picked up.
+CALLER: Giant Market at nine seven one nine Traveal Gateway Drive in Rockville.
+AGENT: Your pickup address has been verified, Carlos. Now, could you please confirm the dropoff address at 8 1 6 Fordham Street in Rockville, Maryland? Is that correct?
+AGENT: You mentioned you want to be picked up now. Is that correct? Please say yes to confirm or let me know if you want a different time.
+CALLER: Now I'm going to that's not correct. I want a different I need a different drop off address.
+AGENT: I understand you want to change your dropoff address. I will update that for you. Meanwhile, could you please tell me when you would like to be picked up?
+CALLER: Right away.
+AGENT: I've set your pickup time as right away. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One passenger. No wheelchairs.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: It's very hard outside. I'm waiting in the market. Have the driver call me. When he arrives, and I'll come out
+AGENT: Carlos, the estimated fare for your trip is 14.5 dollars, paying with credit card. Would you like to schedule a return trip as well?
+CALLER: You have the wrong return address. I wanna correct my return address.
+AGENT: Just to confirm, would you like to update the return trip address, or do you want to change the dropoff address for your main trip?
+CALLER: Drop off.
+AGENT: Sure, let me update that dropoff address for your main trip.
+AGENT: Please provide the new dropoff address you'd like to use.
+CALLER: Address for main trip.
+AGENT: Could you please tell me the new dropoff address for your main trip?
+CALLER: Nine two zero zero Darnstone Road, Rockville.
+AGENT: Please confirm the dropoff address as nine two zero zero Darnestown Road, Rockville, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been successfully updated. Would you like to schedule a return trip as well?
+AGENT: Carlos, the estimated fare for your trip is 7 dollars, paying with credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 12:48 PM. Your confirmation number is two one three six seven nine four zero three. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Carlos. Have a great day!

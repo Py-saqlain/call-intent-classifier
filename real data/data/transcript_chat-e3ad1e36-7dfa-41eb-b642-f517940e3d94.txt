@@ -1,0 +1,32 @@
+AGENT: Good morning, Josephine. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Wanna book a trip.
+AGENT: Thanks for choosing us for your trip. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Very good.
+AGENT: Could you please let me know which payment method you'd like to use for your trip? Cash, credit card, or Call and Ride?
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Where would you like to be picked up from?
+CALLER: One three nine two one. Castle Boulevard Silver Spring.
+AGENT: I have 1 3 9 2 1 Castle Boulevard, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Three one three two
+AGENT: Could
+CALLER: Bruce Jamie Road Silver Spring,
+AGENT: I couldn't locate 3 1 3 2 Bruce Jamie Road, Silver Spring, Maryland. Could you please provide the full street address including city and state again?
+CALLER: three one three two Bridge Cheney Road, Silver Spring, Maryland
+AGENT: Did you mean 3 1 3 2 Briggs Chaney Road, Silver Spring, Maryland as your dropoff address?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Josephine.
+AGENT: When would you like to be picked up?
+CALLER: Right now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thanks for letting me know no wheelchair is needed. How many passengers will be traveling, including yourself?
+CALLER: Two. Two
+AGENT: I have recorded two passengers and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 6 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Your main trip is scheduled for today at 9:04 AM. The confirmation number is 2 1 3 6 6 5 4 0 5. Is there anything else I can help you with?
+CALLER: No.

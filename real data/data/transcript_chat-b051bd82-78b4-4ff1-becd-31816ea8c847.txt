@@ -1,0 +1,42 @@
+AGENT: Hello Sabrina, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: You need a cab.
+AGENT: Uhh, how can I assist you with your cab ride today? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your cab ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your cab ride? <emotion value="peaceful"/>
+CALLER: Sixty nine zero two Westchester Drive,
+AGENT: Okay, so I found 6902 Westchester Drive, Temple Hills, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Yeah. Yes.
+AGENT: Your pickup address has been verified. Could you please provide the dropoff address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please tell me the dropoff address for your cab ride? <emotion value="peaceful"/>
+CALLER: Thirteen two.
+AGENT: Uh, I am sorry, but could you repeat the dropoff address with the street name or location? Just "thirteen two" is not enough for me to find it. <emotion value="peaceful"/>
+CALLER: Thirteen sixty two Congo.
+AGENT: Hmm, let me check that address. Could you please provide the full street name or any nearby landmark for "thirteen sixty two Congo"? <emotion value="peaceful"/>
+AGENT: I'm sorry, but the location "Congo" is outside our service area. Could you please provide a different dropoff address within Montgomery County, DC, or Northern Virginia? <emotion value="apologetic"/>
+CALLER: 1362 Congress Street Southeast, Washington, DC. Street. It's not.
+AGENT: Okay, so I found 1362 Congress Street Southeast, Washington, District of Columbia. Is that the correct dropoff address? <emotion value="peaceful"/>
+CALLER: D c one three six two Congress Yes. Yeah. Yeah. Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: In twenty minutes.
+AGENT: Okay great! I've got your pickup time set for today at 5:26 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just one just me.
+AGENT: Thanks for that. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: Alright, so let me confirm those details. Your pickup is 6902 Westchester Drive. Your dropoff is 1362 Congress Street Southeast. Pickup time is today at 5:26 PM. One passenger, no wheelchair needed. The estimated fare is 22.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Hello.
+AGENT: Hello! How can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: I'm finished. With my ride request.
+AGENT: Thank you for letting me know. I am processing your ride request now. Please hold on a moment.
+CALLER: Right. Thank you.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 0 9 7 8. Pickup is today at 5:26 PM. Is there anything else I can help you with?
+AGENT: Your main trip is scheduled for today at 5:26 PM. Your confirmation number is 2 1 3 6 7 0 9 7 8. Is there anything else I can help you with?
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 7 0 9 7 8. Pickup is today at 5:26 PM. Is there anything else I can assist you with?
+CALLER: That's it.
+AGENT: Thank you for calling Barwood & Regency, Sabrina. Have a wonderful day!
+CALLER: Thank you.

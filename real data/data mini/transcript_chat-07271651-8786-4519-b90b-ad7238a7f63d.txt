@@ -1,0 +1,13 @@
+AGENT: Hi Janice, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: So Yes, please.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Yes, sir.
+AGENT: Could you please tell me what you need help with? Would you like me to assist you now, or should I connect you to a person?
+CALLER: Oh, yeah. I'm quiet.
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: Oh, lord. Is it cough?
+AGENT: I'm here to help with your ride or booking needs. Could you please let me know what you'd like assistance with?
+CALLER: Oh, no. I know my friend had had that.
+AGENT: If you have any questions or need help with a ride, just let me know. I'm here to assist you whenever you're ready.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

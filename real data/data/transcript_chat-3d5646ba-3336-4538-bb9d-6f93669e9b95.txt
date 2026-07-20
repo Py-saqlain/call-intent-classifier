@@ -1,0 +1,42 @@
+AGENT: Hello Betty, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Um, I need a cab right away.
+AGENT: Thank you for letting me know. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Column ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Zero two five eight four eight.
+AGENT: Thank you, your payment method is set to Call and Ride.
+AGENT: Where would you like to be picked up?
+CALLER: zero two five eight four eight. One two eight zero one o columbia pike.
+AGENT: I have 1 2 8 0 1 Old Columbia Pike, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Where would you like to go?
+CALLER: I would like to go to fifteen hundred Forest Glen Road.
+AGENT: I have 1 5 0 0 Forest Glen Road, Silver Spring, Maryland as your destination. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Betty. I will now proceed with arranging your ride.
+AGENT: You mentioned you need a cab right away. Is that correct for your pickup time? Please say yes to confirm or let me know if you want a different time.
+CALLER: Yes, please.
+CALLER: Yes, please. Yes, please. I'm ready now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just Good. Just one. No.
+AGENT: Thank you. Will you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Betty, the estimated fare for your trip is 19 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: Yes, please.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Twelve noon.
+AGENT: Just to confirm, you want to be picked up for your return trip today at 12:00 PM, correct?
+CALLER: Yes.
+AGENT: How many passengers will be traveling on your return trip, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Just one One one passenger
+AGENT: For your return trip, I have the pickup as 1 5 0 0 Forest Glen Road, Silver Spring, Maryland, and the dropoff as 1 2 8 0 1 Old Columbia Pike, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 19 dollars, paying with your Call and Ride account. Should I go ahead and book both your main and return trips?
+CALLER: Yes.
+AGENT: I am now booking both your main and return trips. Please hold on a moment.
+AGENT: Both your main trip and return trip are booked. Your main trip confirmation number is 2 1 3 6 6 9 2 3 3, with pickup today at 9:54 AM. Your return trip confirmation number is 2 1 3 6 6 9 2 3 4, with pickup today at 12:00 PM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Betty. Have a wonderful day!

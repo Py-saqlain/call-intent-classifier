@@ -1,0 +1,8 @@
+AGENT: Hello degans, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Medicap.
+AGENT: Thank you for sharing that. For payment, we accept cash, credit card, or Call and Ride. Could you please let me know which of these you'd like to use for your ride?
+CALLER: Thank you, Joe. How can I help you?
+AGENT: It sounds like you might want to continue with your ride booking. Could you please tell me how you would like to pay for your trip? We accept cash, credit card, or Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?
+AGENT: I'm here to help. When you're ready,

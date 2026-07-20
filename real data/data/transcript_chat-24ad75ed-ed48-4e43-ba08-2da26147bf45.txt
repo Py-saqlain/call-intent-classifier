@@ -1,0 +1,43 @@
+AGENT: Hello Miss, this is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Taxi.
+AGENT: Okay, I can help you with that. Are you looking to book a taxi ride now or schedule one for later?
+CALLER: Schedule one for later.
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: To get started, could you please tell me the pickup address for your ride?
+CALLER: 1804 Alberti Drive,
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found 1 8 0 4 Alberti Drive, Silver Spring, Maryland as your pickup address. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thank you. I will verify your pickup address now. <emotion value="peaceful"/>
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One one one two zero five. Prosperity Drive,
+AGENT: Hmm, let me check that address. <emotion value="peaceful"/>
+AGENT: I couldn't find that address as given. Could you please provide the full street address including the city and state for the dropoff? <emotion value="apologetic"/>
+CALLER: 11205 Prosperity Drive, White Oak,
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: I still couldn't find 1 1 2 0 5 Prosperity Drive, White Oak, Maryland. Could you please confirm the state or provide any nearby landmarks or cross streets to help locate it? <emotion value="apologetic"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Thank you. Could you please provide the full dropoff address again, including the street number, street name, city, and state?
+CALLER: One two five zero one Prosperity Drive, Silver Spring. Maryland.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found 1 2 5 0 1 Prosperity Drive, Silver Spring, Maryland as your dropoff address. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thank you. I will verify your dropoff address now. <emotion value="peaceful"/>
+AGENT: Your dropoff address has been verified. Thank you, Miss.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Two fifteen
+AGENT: Just to confirm, you mean 2:15 PM today for your pickup time, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One and no wheelchair.
+AGENT: Okay great! Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 19 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will proceed with booking just your one-way trip. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so <break time="250ms"/> I'm booking your trip now. <|diff_marker|>functions.confirm_and_book  />
+You're all set! A driver will be dispatched to your pickup location shortly. <emotion value="grateful"/>

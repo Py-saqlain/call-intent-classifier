@@ -1,0 +1,45 @@
+AGENT: Hello Dor, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: A cab at 7216 Mudkast Mill Road, Durwood, Maryland.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride
+AGENT: Okay, I understand you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Call and ride. Three four six three six eight.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: I'm sorry, but I couldn't locate 7 2 1 6 Mudkast Mill Road in Durwood, Maryland. Could you please confirm the street number, street name, city, and state again? <emotion value="apologetic"/>
+CALLER: Seven seven two one six Mill Road, Durwood, Maryland two zero eight five five.
+AGENT: Just to confirm, is your pickup address 7 7 2 1 6 Mill Road, Durwood, Maryland? <emotion value="peaceful"/>
+CALLER: No. No. Oh my god. 7216 Mudkast Mill Road, Sherwood, Maryland 20855.
+AGENT: Okay, so your pickup address is 7 2 1 6 Mudkast Mill Road, Sherwood, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: I'm sorry. What do you think? Okay. Yes.
+AGENT: Hmm <break time="350ms"/> let me check that address again. I couldn't find 7 2 1 6 Mudkast Mill Road in Sherwood, Maryland either. Could you please confirm the street number, street name, city, and state once more? <emotion value="apologetic"/>
+CALLER: Is this the right this is the right one. Right? Yeah. Seven two one six Mudcaster Mill Road, Subway,
+AGENT: Uh, I am sorry, but could you repeat the city name? I want to make sure I get it exactly right. <emotion value="peaceful"/>
+CALLER: Wow. Durwood. Durwood, Maryland.
+AGENT: Okay, I found 7 2 1 6 Muncaster Mill Road Bay 6, Derwood, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: No. Take a dollar for a tip for you. No.
+AGENT: Thank you for your kind thought! Now, could you please tell me where you would like to be dropped off? <emotion value="peaceful"/>
+CALLER: One six one zero zero Crabs Branch Way.
+AGENT: Could you please tell me the city and state for 1 6 1 0 0 Crabs Branch Way? <emotion value="peaceful"/>
+CALLER: Oh, I thought it'd be more than that.
+AGENT: I’m here to help with your address. Could you please provide the city and state for 1 6 1 0 0 Crabs Branch Way? <emotion value="peaceful"/>
+CALLER: Durwood, Maryland
+AGENT: Okay, I found 1 6 1 0 0 Crabbs Branch Way, Rockville, Maryland. Is that the correct dropoff address? <emotion value="peaceful"/>
+CALLER: Thank you. Durwood, Maryland. Thank you, miss.
+AGENT: If you want to confirm, is the dropoff address 1 6 1 0 0 Crabbs Branch Way, Rockville, Maryland? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, DOR. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now.
+AGENT: Okay, I've scheduled your pickup for now. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One
+AGENT: Thank you. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay great! <emotion value="grateful"/> Do you have any special instructions for the driver? <emotion value="peaceful"/>
+CALLER: No. Thank you.
+AGENT: Alright, the estimated fare is 9.5, paying with Call And Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Your main trip is scheduled for today at 8:03 PM. Your confirmation number is 2 1 3 6 7 6 6 1. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Dor. Have a wonderful day!

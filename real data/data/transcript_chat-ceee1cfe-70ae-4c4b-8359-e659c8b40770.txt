@@ -1,0 +1,32 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Daniel Mudd.
+AGENT: Thanks, Daniel. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Pickup and drop off for one person.
+AGENT: Could you please tell me the pickup address or location?
+CALLER: Three eight four zero Bethesda Avenue.
+AGENT: Thank you. And where would you like to be dropped off?
+CALLER: Congressional Country Club.
+AGENT: Thank you for the details. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, Daniel. Your payment method is set to cash.
+AGENT: I couldn't find an exact match for 3 8 4 0 Bethesda Avenue. However, I found 7 1 7 0 Woodmont Avenue, Bethesda, Maryland 2 0 8 1 5. Is that the correct pickup location?
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide the correct pickup address or a nearby landmark to help me find it?
+CALLER: Apple store on Bethesda Avenue.
+AGENT: I found Apple Bethesda Row at 4 8 6 0 Bethesda Avenue, Bethesda, Maryland. Is that the correct pickup location?
+CALLER: Yes.
+AGENT: I found Congressional Country Club at 8 5 0 0 River Road, Bethesda, Maryland. Is that the correct dropoff location?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Daniel. I will now proceed with arranging your trip.
+AGENT: You mentioned one passenger. Is that correct?
+CALLER: Yes.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: Thank you. Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Daniel, the estimated fare for your trip is 17.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience, Daniel. I'm processing your booking now.
+AGENT: Daniel, your main trip is scheduled for today at 2:44 pm. Your confirmation number is 2 1 3 6 7 9 6 1 8. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Daniel. Have a wonderful day.

@@ -1,0 +1,33 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with David Saah?
+CALLER: I need a I need a taxi to pick me up right now, please.
+AGENT: Just to make sure, are you David Saah?
+CALLER: Are you there? Yes. I am.
+AGENT: Thanks, David. This is Barwood & Regency. How can I assist you with your ride today?
+CALLER: I need to be picked up right now from where I am at Capital One Bank at five zero nine North Frederick Avenue, Gaithersburg, Maryland right now. Need I need a taxi to pick me up, please.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride
+AGENT: Okay, great. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three two three one one zero.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Okay, so I found Capital One Bank at 5 0 9 North Frederick Avenue, Gaithersburg, Maryland. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: Thank you. Yeah. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yes. It is. Yes.
+AGENT: Could you please tell me the destination or dropoff address for your ride? <emotion value="peaceful"/>
+CALLER: Shagrove Road,
+AGENT: Hmm <break time="350ms"/> let me check that address. Shagrove Road — could you please confirm the city and state for that road?
+CALLER: One five two one five Shea Grylls Road.
+AGENT: Thank you. Just to confirm, is the address 1 5 2 1 5 Shagrove Road? Could you please also confirm the city and state for this address? <emotion value="peaceful"/>
+CALLER: Rosslyn, Maryland. Say it.
+AGENT: Hmm <break time="350ms"/> Rosslyn, Maryland. Just to let you know, Rosslyn is actually in Virginia, not Maryland. Could you please confirm if you meant Rosslyn, Virginia, or a different city in Maryland? <emotion value="hesitant"/>
+CALLER: Shady Grove Road. S h a d y, g r o v e. Shady Grove Road, No. No. Rockville. Rockville, Maryland.
+CALLER: Rockville, Maryland.
+AGENT: Okay, so I found 8 0 0 King Farm Boulevard, Rockville, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+AGENT: I found a location for you: 8 0 0 King Farm Boulevard, Rockville, Maryland. Is that the correct dropoff address? <emotion value="peaceful"/>
+CALLER: Rockville. No. That's not the address I'm going to. No. I'm not go I'm not going to this address. I need a operator.
+CALLER: Go in there. No. No. No. Operator. Agent.
+AGENT: I can help you with the drop-off address right now — shall we continue?
+CALLER: No. I'm not going there. I need to speak to operator right now.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: I need a operator to speak to me because you you have the wrong address.
+AGENT: I'm connecting you to a customer

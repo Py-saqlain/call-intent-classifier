@@ -1,0 +1,25 @@
+AGENT: Hello Andrew, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. I need a cab from
+AGENT: Where would you like the cab to pick you up from?
+CALLER: the hospital. McGowie General.
+AGENT: And where would you like to go from McGowie General Hospital?
+CALLER: Four one one nine post gate service. In Silver Spring.
+AGENT: Thank you for the details. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Debit card.
+AGENT: Thank you, your payment method is set as credit card. I'll proceed with your booking now.
+CALLER: Twenty three thousand. East
+AGENT: I found two locations for McGowie General Hospital: Holy Cross Hospital at 1 5 0 0 Forest Glen Road, Silver Spring, Maryland, and Patient First Primary & Urgent Care at 8 2 0 6 Georgia Avenue, Silver Spring, Maryland. Which one would you like to use?
+CALLER: Georgia Avenue two zero three.
+AGENT: Just to confirm, you want the pickup at 8 2 0 6 Georgia Avenue, Silver Spring, Maryland, correct?
+CALLER: Yeah. Is that what you're gonna be general? Yeah. That's Montgomery general.
+AGENT: Your pickup address has been verified, Andrew.
+AGENT: When would you like to be picked up?
+CALLER: Now, if you're ready.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. No. Just one. I don't need a wheelchair to lift.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare is 24.5 dollars, paying with your debit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking your one-way trip. Just to confirm, should I go ahead and book it now?
+CALLER: I'll call you back.

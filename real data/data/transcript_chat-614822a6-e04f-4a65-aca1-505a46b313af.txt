@@ -1,0 +1,28 @@
+AGENT: Hello, andre. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: You know what I'm calling?
+AGENT: How can I assist you with your ride today?
+CALLER: Right. Come here, cab down here.
+AGENT: There is no active trip scheduled for you right now. Would you like me to help you book a cab?
+CALLER: Video.
+AGENT: Could you please tell me more about what you need help with regarding "video"? Are you looking to book a ride somewhere, check a trip, or something else?
+CALLER: Yeah. Book a ride.
+AGENT: How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Yes. Change.
+AGENT: I understand you'd like to change your payment method. Could you please tell me which payment method you'd like to use instead? We accept cash, credit card, and Call and Ride.
+CALLER: Case.
+AGENT: Thank you, I have noted your payment method as cash.
+AGENT: Could you please provide the pickup address for your ride?
+AGENT: Take your time. Just let me know when you're
+CALLER: Very six no. Excuse me. Seven eight four three Scott Lane Drive. Bridgeham,
+AGENT: Thank you for the address. Just to confirm, is your pickup address seven eight four three Scott Lane Drive, in Bridgeman?
+CALLER: Yeah.
+AGENT: I wasn't able to locate seven eight four three Scott Lane Drive in Bridgeman. Could you please provide the city and state for this address?
+CALLER: It's seven eight three four
+CALLER: sooner mean, now as damn.
+AGENT: Just to clarify, is your pickup address seven eight three four Scotland Drive in Potomac,
+CALLER: Seven eighteen
+AGENT: I want to make sure I have your pickup address correct. Is it seven one eight Scotland Drive in Potomac,
+CALLER: Yeah.
+AGENT: I couldn't find an exact match for seven one eight Scotland Drive
+CALLER: Yeah.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

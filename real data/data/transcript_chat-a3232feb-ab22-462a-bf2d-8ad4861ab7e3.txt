@@ -1,0 +1,92 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: My name is Natalie Rosen. I called a while ago for a cab, and I'm still waiting.
+AGENT: Thanks, Natalie. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I called a while ago for a cab, and I'm still waiting.
+AGENT: I don't see an active trip under your profile right now. Would you like me to help you book a new ride?
+CALLER: I need to go home, and it's probably been an an hour at least. I've been waiting for the cab.
+AGENT: I don't see any active trip scheduled for you right now. Would you like me to help you book a ride home?
+CALLER: Okay.
+AGENT: May I have your pickup address, please?
+CALLER: Forty eight forty. Boiling Brook Parkway.
+AGENT: Just to confirm, your pickup address is 4 8 4 0 Boiling Brook Parkway, correct?
+CALLER: Right. Right.
+AGENT: Thank you. And where would you like to go?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?
+AGENT: Yes, I'm here. Where would you like to go from 4 8 4 0 Boiling Brook Parkway?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I've been waiting. It's gotta be an hour.
+AGENT: I understand the wait has been long, and I'm sorry for the inconvenience. Since there’s no active trip showing for you, I can help you book a new ride right now if you’d like. Would you like to proceed with that?
+CALLER: Oh, what was that?
+AGENT: I said I can help you book a new ride right now since there’s no active trip showing for you. Would you like me to go ahead and book it?
+CALLER: Okay.
+AGENT: Great. Where would you like to go from 4 8 4 0 Boiling Brook Parkway?
+CALLER: Right.
+AGENT: Could you please tell me the destination address for your ride from 4 8 4 0 Boiling Brook Parkway?
+CALLER: Right.
+AGENT: I want to make sure I have your destination correctly. Could you please tell me the address or place you want to go to from 4 8 4 0 Boiling Brook Parkway?
+CALLER: Right. That's where I'm to be picked up.
+AGENT: Thank you for confirming your pickup at 4 8 4 0 Boiling Brook Parkway. Could you please tell me your destination address or where you want to go?
+CALLER: Right.
+AGENT: I want to make sure I understand correctly—are you saying your destination is also 4 8 4 0 Boiling Brook Parkway, or is there another place you want to go?
+CALLER: But 14401. Travail Gardens Circle,
+AGENT: Thank you. To confirm, your destination is 1 4 4 0 1 Travilah Gardens Circle, correct?
+CALLER: Right.
+AGENT: Thank you. What time would you like your pickup?
+CALLER: Phone. I've been waiting a long time.
+AGENT: I understand you've been waiting a long time. Would you like your pickup as soon as possible, or is there a specific time you prefer?
+CALLER: Yes.
+AGENT: Thank you. Just to confirm, you want your pickup from 4 8 4 0 Boiling Brook Parkway to 1 4 4 0 1 Travilah Gardens Circle as soon as possible, correct?
+CALLER: Yes.
+AGENT: How many passengers will be riding with you?
+CALLER: Just me.
+AGENT: Thank you. Will you be paying with cash, Call and Ride, or another method?
+CALLER: Pardon me?
+AGENT: I just want to confirm how you will be paying for the ride—cash, Call and Ride card, or another payment method?
+CALLER: Credit card.
+AGENT: Thank you. To confirm, your payment method is credit card. Is that correct?
+CALLER: Yes.
+AGENT: Thank you, Natalie. I am now booking your ride from 4 8 4 0 Boiling Brook Parkway to 1 4 4 0 1 Travilah Gardens Circle for as soon as possible with credit card payment for one passenger. Please hold on a moment while I complete this.
+AGENT: How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you for confirming your payment method as credit card.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 4840 Boilingbrook Parkway,
+AGENT: I have 4 8 4 0 Boiling Brook Parkway, North Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Right. Rockville.
+AGENT: Thank you for the clarification. I have 4 8 4 0 Boiling Brook Parkway, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: 14401, travail, Gardens Circle, and that's in Rockville.
+AGENT: I have 1 4 4 0 1 Traville Gardens Circle, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Natalie. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: As soon as somebody can get here.
+AGENT: Got it, I have your pickup time as today at 3:08 PM. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Just me.
+AGENT: Thank you. Will you have any special instructions or notes for the driver?
+CALLER: Pardon me?
+AGENT: I was asking if you have any special instructions or notes you'd like the driver to know about, such as assistance needs, luggage, or anything else. Do you have any?
+CALLER: No. I don't think so.
+AGENT: The estimated fare for your trip is 24.5 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No, I don't think so.
+AGENT: Alright, I will proceed with just the one-way trip. Should I go ahead and book it for you now?
+CALLER: No. Alright.
+AGENT: Just to confirm, you do not want to book any trips right now, and no trips will be scheduled. Is that correct?
+CALLER: Oh, yes.
+AGENT: Just to confirm, since you said no to booking, no trips will be scheduled or booked. Is that correct?
+CALLER: Right.
+AGENT: I see that no trip details have been provided yet. If you want to cancel the booking process and not schedule any trips, please confirm that you want to cancel and no trips will be booked. Is that correct?
+CALLER: It's Yeah. I was just kidding. Oh, they they don't they ask. They best parts they never end up coming back. Yes.
+AGENT: I understand. Since you want to proceed with booking, let's start by getting your pickup address. May I have the address where you'd like to be picked up?
+CALLER: Have to do this. 4840. Foiling Brook Parkway in Rockville. Will somebody be coming soon? I've been waiting a long time.
+AGENT: Thank you for the pickup address at 4 8 4 0 Foiling Brook Parkway, Rockville. I will check on the timing for you. Meanwhile, how many passengers will be traveling, including yourself?
+CALLER: One. One.
+AGENT: Thanks for confirming one passenger. Next, will anyone need a wheelchair-accessible vehicle for this trip?
+AGENT: I didn't quite catch the full pickup address. Could you please provide the complete street address, including the street name, city, and state?
+CALLER: 4840. Boiling Brook Parkway, Rockville, Maryland
+AGENT: I have 4 8 4 0 Boiling Brook Parkway, Rockville, Maryland 2 0 8 5 2 as your pickup address. Is that correct?
+CALLER: Right. Yes.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Right. Thanks.

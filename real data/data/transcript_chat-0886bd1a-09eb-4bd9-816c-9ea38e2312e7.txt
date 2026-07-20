@@ -1,0 +1,38 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Serina Wealth?
+CALLER: Yeah.
+AGENT: Thanks for confirming, Serina. This is Barwood & Regency. How can I assist you today?
+CALLER: I was going to get a ride for you, but I don't have my card with me. My call and ride card. So I guess I can't do that.
+AGENT: Uhh, I understand about not having your Call and Ride card with you. If you'd like, I can connect you with a representative who can help with payment options or other arrangements. Would you like me to do that for you? <emotion value="peaceful"/>
+CALLER: I just wanna yeah. I'll just pay cash. Yeah.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: To get started, could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Ten two fifteen one zero two one five Camelier building Fernwood Road,
+AGENT: Hmm, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found that location as Camalier Building, 1 0 2 1 5 Fernwood Road, suite 6 2 0. Is that correct? <emotion value="peaceful"/>
+CALLER: We what?
+AGENT: I found the Camalier Building at 1 0 2 1 5 Fernwood Road, suite 6 2 0. Is that the right pickup address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the dropoff address? <emotion value="peaceful"/>
+CALLER: What what was that last
+AGENT: Your pickup address has been verified. Could you please tell me the dropoff address now? <emotion value="peaceful"/>
+CALLER: 5801 Nicholson Lane,
+AGENT: Hmm, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I found that location as 5 8 0 1 Nicholson Lane, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yep. Yeah.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now As soon as possible.
+AGENT: Okay great! I've got your pickup time as today at 3:33 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Is that just me just me I need a sedan.
+AGENT: Alright, so let me confirm those details. Your pickup is at the Camalier Building. Your dropoff is 5 8 0 1 Nicholson Lane. Pickup time is today at 3:33 PM. You have one passenger traveling, and you need a wheelchair-accessible vehicle. The estimated fare is 10.5 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: A sedan
+AGENT: I see you prefer a sedan. Just to confirm, would you like me to update your vehicle preference to a sedan for this trip? <emotion value="peaceful"/>
+CALLER: I have to have a sedan. Health wise,
+AGENT: Thank you for letting me know that a sedan is necessary for your health. I'll make sure to note that your vehicle must be a sedan. Would you like me to update your booking with that vehicle type now? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thank you for confirming. I want to make sure I update the right details for you. We can update payment, pickup, dropoff, time, passengers, or wheelchair needs. Since you mentioned needing a sedan for health reasons, should I update your wheelchair requirement instead to reflect that? <emotion value="peaceful"/>
+CALLER: To a what?
+AGENT: I meant, since we can't update the vehicle type directly, would you like me to update your wheelchair requirement to make sure the vehicle suits your health needs? For example, if you need a wheelchair-accessible vehicle or not. Does that sound right? <emotion value="peaceful"/>
+CALLER: Oh, listen. I don't know what the hell you're talking about.
+AGENT: I’m sorry for the confusion. Let me
+CALLER: Just forget it.

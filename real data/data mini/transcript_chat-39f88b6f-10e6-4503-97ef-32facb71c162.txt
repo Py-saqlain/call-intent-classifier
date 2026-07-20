@@ -1,0 +1,9 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Jose Perez Agueta.
+AGENT: Thanks, Jose. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I wanted to risk like, I had a I had a pickup at two, but I don't know if I'm able to, like, if they're able to pick me up at one one thirty? Because I'm already, like, done. My appointment.
+AGENT: I understand you'd like to adjust your pickup time to one thirty. Before we proceed with that, could you please let me know how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Insurance? I guess.
+AGENT: We warmly accept only cash, credit card, and Call and Ride for payment on this line. If you'd like, I can connect you to a live agent who can help with insurance or other payment options. Would you like me to do that?
+CALLER: Sure.
+AGENT: I'm connecting you now to a customer service representative who can assist with insurance and payment options. Please stay on the line.

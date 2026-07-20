@@ -1,0 +1,36 @@
+AGENT: Hello, Clair. This is Ana with Barwood & Regency. How can I help you today?
+CALLER: I need the taxi to pick up the place 13103 Checkerspin Way.
+AGENT: Uhh, just to make sure, did you mean 13103 Chalkstone Way in Silver Spring, Maryland? Could you please confirm? <emotion value="hesitant"/>
+CALLER: Yes. Yes.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I mind.
+AGENT: Hmmm.. that didn't seem quite clear, could you please tell me again how you'd like to pay? We accept cash, credit card, and Call and Ride. <emotion value="hesitant"/>
+CALLER: Cash on three. Can't I do? Rental service.
+AGENT: Okay so I've got that payment noted as cash. Just to be sure, are you asking if you can use a rental service for your ride, or did you mean something else? <emotion value="peaceful"/>
+CALLER: What did you say? Hello?
+AGENT: I noted your payment as cash. Could you please clarify if you were asking about using a rental service for your ride? <emotion value="hesitant"/>
+CALLER: Need to pay credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so your pickup address is 1 3 1 0 3 Chalkstone Way, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Right.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?
+AGENT: Yes, I'm here. Whenever you're ready, please tell me the destination or dropoff address for your ride. <emotion value="peaceful"/>
+CALLER: Okay. This is the barrage
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I'm sorry, but I couldn't find any location matching "the barrage." Could you please provide the full street address or another nearby landmark for your destination? <emotion value="apologetic"/>
+CALLER: This is the battery taxi company?
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I found a few locations.  
+Option one: 8 2 0 1 Snouffer School Road, Gaithersburg, Maryland.  
+Option two: 1 8 3 1 1 Lost Knife Circle Unit, Montgomery Village, Maryland.  
+Option three: 1 5 8 0 5 Paramount Drive, Rockville, Maryland.  
+Option four: 4 0 2 King Farm Boulevard, Rockville, Maryland.  
+Option five: 7 4 4 Clopper Road Apartment 3 1, Gaithersburg, Maryland.  
+Which one is correct? <emotion value="hesitant"/>
+CALLER: I didn't say to that.
+AGENT: Uh, I am sorry, but could you please tell me the exact destination address or a nearby landmark again? <emotion value="hesitant"/>
+CALLER: Shitty bullshit. She doesn't know nothing. I told you so many times. Why you changed it I directed you so many times?
+AGENT: I'm connecting you now to a customer service representative who can assist you further. Please stay on the line.
+CALLER: Alright.

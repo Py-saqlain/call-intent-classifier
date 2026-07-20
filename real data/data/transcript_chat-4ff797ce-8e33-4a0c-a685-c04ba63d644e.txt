@@ -1,0 +1,42 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Levine?
+CALLER: Yes. You are. I would like to get a taxi Hello? Hello?
+AGENT: Of course, I can help with that. Let me connect you now.
+AGENT: Alright, how would you like to pay for your taxi ride today? We accept cash, credit card, and Call
+CALLER: Hello?
+AGENT: Hi there, just to check, how would you like to pay for
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. Let me proceed with verifying it for you.
+AGENT: Okay so I've got that payment noted as cash.
+AGENT: Could you please tell me the pickup address for your taxi ride?
+CALLER: I said cash. Yeah. But three thousand five. South Leisure World Boulevard, Silver Spring, And I want to go to one three nine seven five Connecticut Avenue,
+AGENT: Okay, so your pickup address is 3 0 0 5 South Leisure World Boulevard, Silver Spring, Maryland. Let me confirm that for you.
+AGENT: Okay, so
+CALLER: Yep.
+AGENT: Your pickup address has been verified. Now, about your destination, you mentioned one three nine seven five Connecticut Avenue. Let me confirm that address for you.
+AGENT: Okay, so your dropoff address is one three nine seven five Connecticut Avenue, Silver Spring, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. I will now proceed to arrange your taxi ride.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No. I like it now. No.
+AGENT: Just to be sure, do you want a pickup right now, or would you prefer to schedule a will-call trip for later? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time set for right now, today at 3:28 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: No. We are two passenger.
+AGENT: Okay great! I've got two passengers and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 11 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yep. Maybe. Yeah. What? Not sure. Maybe yes. Yes.
+AGENT: Okay, I understand you'd like to schedule a return trip. I'll start collecting the details
+CALLER: I hear what
+AGENT: For your return trip, what time would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now Now.
+AGENT: Before we continue, may I please have your name again?
+CALLER: My name is Claude Levin.
+AGENT: Thanks, Claude. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I want to go to to live to to be picked up a trip three thousand five South Leisure Wood Boulevard, silver screen. To go to Connecticut Avenue now
+AGENT: Thank you for your patience, Claude. I'm processing your trip from 3 0 0 5 South Leisure Wood Boulevard, Silver Spring to Connecticut Avenue for pickup now. Please hold on a moment.
+AGENT: Your main trip is booked for today at 3:28 PM. The confirmation
+CALLER: Oh, yeah.
+AGENT: The confirmation number for your main trip is 2 1 3 6 7 3 4 9 3. Is there anything else I can assist you with?
+CALLER: No. Just call back soon as you can.
+AGENT: Thank you for calling Barwood & Regency, Claude. Have a wonderful day!

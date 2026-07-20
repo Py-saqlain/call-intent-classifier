@@ -1,0 +1,27 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Georgina Williams?
+CALLER: No. I'm I was calling either or Regency. My husband just got discharged, and we I thought someone called Borgwood, but it hasn't showed up. So can you send someone, Regency or Barwood?
+AGENT: Thank you for letting me know. Could you please tell me your name so I can find your profile and assist you with sending a ride?
+CALLER: Okay. My name is Kathleen with a k. The last name is cum cumian, k u m k u m I a n, Kumkumian.
+AGENT: Thanks, Kathleen. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yes. Uh, my husband just got discharged from Suburban Hospital. We're in the lobby now waiting for a cab.
+AGENT: Okay, I understand you need a ride from Suburban Hospital lobby. Would you like me to arrange a pickup
+CALLER: Yes. Uh-huh.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for the ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Okay. Cash is a cash is okay.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. Forty seven zero one Willard Avenue, Chevy Chase, Maryland
+AGENT: Okay, so I have the dropoff address as four seven zero one Willard Avenue, Chevy Chase, Maryland. Is
+CALLER: Yes.
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Kathleen.
+AGENT: I have the pickup time as right now. Is that correct? <emotion value="peaceful"/>
+CALLER: Okay. What time? What time is pickup time?
+AGENT: Your pickup time is right now, as you said. Alright, soo <break time="300ms"/> so how many passengers will be traveling,
+CALLER: Oh, okay. Thank you. Thank you. Thank you very much. Bye bye. I want you to be here.
+AGENT: If you would like to end the call or need further assistance, I can connect you to a live agent who can help you directly. Would you like me to do that for you? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

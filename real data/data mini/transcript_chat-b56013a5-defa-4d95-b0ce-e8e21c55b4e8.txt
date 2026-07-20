@@ -1,0 +1,10 @@
+AGENT: Hello Robert, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Yeah. I'm thinking why person, but
+AGENT: Could you please tell me a bit more about what you need help with? Whether it's booking a ride, checking on a trip, or something else, I'm here to assist.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Talk to the live person, please.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: You wanna talk to a live version, damn it.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

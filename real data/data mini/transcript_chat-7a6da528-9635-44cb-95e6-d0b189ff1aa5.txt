@@ -1,0 +1,13 @@
+AGENT: Good morning, Celestine. This is Ana from Barwood & Regency. Your pickup is scheduled for today at 5:30 AM. How can I assist you today?
+CALLER: Hello?
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Yes. I was wondering how long did you get a cat?
+AGENT: Hmm, I want to make sure I understand you correctly. Are you asking about the status or estimated arrival time of a ride you have booked? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Hmm, it looks like your ride is active but no driver has been assigned yet. I'll keep you posted. Is there anything else I can check for you? <emotion value="peaceful"/>
+AGENT: Hmm, your driver has not been assigned yet for this ride scheduled at 5:30 am from West Side Drive to Queen Victoria Court. I'll keep you updated. Anything else I can help with? <emotion value="peaceful"/>
+CALLER: It's today. Right?
+AGENT: Yes, your pickup is scheduled for today at 5:30 am. Would you like me to check anything else for you? <emotion value="peaceful"/>
+CALLER: But it but it's past 05:30.
+AGENT: Uhh, I'm sorry about that. It looks like the pickup time has passed and no driver was assigned yet. Let me connect you with a representative who can help right away. <emotion value="sympathetic"/>
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

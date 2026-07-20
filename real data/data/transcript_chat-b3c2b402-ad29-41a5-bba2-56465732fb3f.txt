@@ -1,0 +1,25 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Mark,
+AGENT: Thanks, Mark. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need to hire a cab to take me from two five four b Market Street East Gaithersburg, Maryland two thirty three hundred Toledo Road, Hyattsville, Maryland.
+AGENT: Alright, Mark, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I can use a credit card or cash, but I need to know how much it's gonna cost.
+AGENT: I don't have the fare information just yet, Mark. Could you please confirm if you'd prefer to pay by credit card or cash for this trip? <emotion value="peaceful"/>
+CALLER: I can pay by cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, Mark, I have your pickup address confirmed as 254 Market Street East, Gaithersburg, Maryland. However, I couldn't locate the dropoff address you gave me at 2 3 3 0 0 Toledo Road, Hyattsville. Could you please provide the full dropoff address again, including the street name and city? <emotion value="peaceful"/>
+CALLER: It is three three zero zero Toledo, Road, Hyattsville, Maryland.
+AGENT: Okay, Mark, I found the dropoff address as three three zero zero Toledo Road, Hyattsville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Mark.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: As soon as possible, but I need to know how much first.
+AGENT: I understand you'd like to know the cost, but I don't have that information yet. For now, could you please confirm if you want to be picked up as soon as possible? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time as today at 3:41 PM. How many passengers will be traveling, including yourself? And will
+CALLER: No. No. No. No. I will not allow you to pick me up until I know the cost.
+AGENT: I understand your concern about the cost. While I can't provide the fare right now,
+CALLER: Representative, please. Representative, please. Representative, please.
+CALLER: Do not send a cab to my address.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you.

@@ -1,0 +1,17 @@
+AGENT: Hello Barbara, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I just need to know if you're picking me up tomorrow. At 10:15.
+AGENT: Yes, you have a pickup scheduled tomorrow at 10:15 am from 2 0 9 Monroe Street in Rockville. Would you like me to help with anything else?
+CALLER: No. It's six one two and taking me to six one two five Montessori.
+AGENT: Just to confirm, your pickup address is 6 1 2 and your dropoff address is 6 1 2 5 Montrose Road, both in Rockville?
+CALLER: No. My pickup address is two zero nine Monroe Street.
+AGENT: Thank you for clarifying. Your pickup address is 2 0 9 Monroe Street, and your dropoff address is 6 1 2 5 Montrose Road, both in Rockville. Is that correct?
+CALLER: Yes. And you're picking me up tomorrow at 10:15?
+AGENT: Yes, that's correct. Your pickup is scheduled for
+CALLER: Alright.
+CALLER: 1015.
+AGENT: Looks like you already have a trip from 2 0 9 Monroe Street to 6 1 2
+CALLER: Sir.
+AGENT: Status, cancel, change, a new trip, or something else?
+CALLER: No. I just wanna make sure you're picking me up 10:15 tomorrow.
+AGENT: You do have a trip scheduled for tomorrow at 10:15 am from 2 0 9 Monroe Street to 6 1 2 5 Montrose Road. Is there anything else you'd like to do with this trip?
+CALLER: No. Thank you.

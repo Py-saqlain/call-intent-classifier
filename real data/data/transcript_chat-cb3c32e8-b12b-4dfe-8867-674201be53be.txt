@@ -1,0 +1,48 @@
+AGENT: Hello TEWARI, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello?
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Recording was the recording. Recording. It's a lady. Hello?
+AGENT: Okay, I’m here to help. What can I do for you regarding your ride? <emotion value="peaceful"/>
+CALLER: Sorry. Yeah. I have to move. Right?
+AGENT: Alright, if you need to book a ride to help with your move or anything else, just let me know the details like where you want to be picked up and your destination. How can I assist you with your trip? <emotion value="peaceful"/>
+CALLER: Where's the pickup? Pickup, like Pickup. Pickup, I is three seven one three Koonmai Drive,
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Goal and rolling. Falling live.
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Call and ride. Colon rice. Colon rice, the boy. Eat me. Colon rice. Card number in the Card number Hello?
+AGENT: Okay so I've got that you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Could you please say the last six digits of your Call and Ride card for me? <emotion value="peaceful"/>
+CALLER: Three zero zero one two six.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Okay, so your pickup address is 3 7 1 3 Queen Mary Drive, Olney, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Okay. Dropoff address is the one eight one zero nine print Philip Drive.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so your dropoff address is 1 8 1 0 9 Prince Philip Drive, Olney, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: yeah. Yeah. It's correct.
+AGENT: Your dropoff address has been verified. Thank you, Mr. Tewari. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 01:00. 01:30. No. 12:30.
+AGENT: Just to clarify, did you mean 1:00 PM, 1:30 PM, or 12:30 PM for your pickup time? <emotion value="hesitant"/>
+CALLER: 12:30. 12:30. 12:30PM. 12:40, the whole way.
+AGENT: The time you requested has already passed. When would you like to be picked up instead? <emotion value="hesitant"/>
+CALLER: 12:45.
+AGENT: Okay great! I've got your pickup time as today at 12:45 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Now do we have no? Okay. Okay. Thanks. Just one. Just one.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: It's a it's a doctor appointment. We have go to the on time.
+AGENT: Alright, the estimated fare is 8.5 dollars, paying with Call and Ride. You mentioned this is for a doctor appointment and you need to be on time. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Information number. No. That is ten. Give me number, please? We don't know.
+AGENT: Okay, I've recorded your return trip as a will-call trip. Now, how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No. For real. Give me a confirmation number, please.
+AGENT: I don't have a confirmation number yet for the return trip. But I do see your notes saying this is for a doctor appointment and you need to go on time. Now, how many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Don't need the return. Just to go.
+AGENT: Thank you for your patience. I'm processing your trip booking now. Please hold on just a moment.
+AGENT: Your trip is booked for today at 12:45 PM. Your confirmation number is 2 1 3 6 7 6 9 9 3. Is there anything else I can help you with?
+CALLER: Repeat for me.
+AGENT: Your trip is scheduled for today at 12:45 PM. The confirmation number is 2 1 3 6 7 6 9 9 3. Is there anything else I can assist you with?
+CALLER: Nine No. Thank you. Thank you so much. Have a nice day.

@@ -1,0 +1,63 @@
+AGENT: Hello, Gordon. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, I need a taxi.
+AGENT: Alright, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Visa.
+AGENT: Thanks for letting me know. We only accept cash, credit card, and Call and Ride here. Would you like to pay with cash, credit card, or Call and Ride instead? <emotion value="hesitant"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Six Montgomery Village Avenue.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I couldn't find an exact match for six Montgomery Village Avenue. The closest address I found is seven four zero six Wisconsin Avenue, Bethesda, Maryland. Is that the correct pickup location? <emotion value="hesitant"/>
+CALLER: No. No.
+AGENT: Okay, I understand. Could you please provide the full address again or any nearby landmarks to help me find the correct pickup location? <emotion value="apologetic"/>
+CALLER: No. Six Montgomery Village Avenue, across from firehouse seven zero eight on Montgomery Village Avenue.
+AGENT: Thank you for the extra details. Let me check six Montgomery Village Avenue, across from firehouse seven zero eight on Montgomery Village Avenue. <emotion value="peaceful"/>
+AGENT: I found a few locations at six Montgomery Village Avenue in Gaithersburg. 
+
+Option one: Firehouse Deli, six Montgomery Village Avenue. <break time="500ms"/> 
+Option two: Adventist Medical Group, six Montgomery Village Avenue, Suite four zero two. <break time="500ms"/> 
+Option three: Maryland Eye Institute, six Montgomery Village Avenue, Suite one zero three. 
+
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Sure. That's seven cross Country Way, Gaithersburg, 20879.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I found the address as seven Cross Country Court, Gaithersburg, Maryland. Is that correct for your dropoff location? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Gordon.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Uh, as ASAP when you have somebody available.
+AGENT: Okay great! I've got your pickup time as today at 3:13 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: What? One
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. You said one passenger, correct? And will you need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: I do have a walker. One passenger.
+AGENT: Alright, the estimated fare is 9.5 dollars, paying with your credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. I do have a walker though.
+AGENT: Thank you for letting me know you have a walker. I've noted that for your trip. Since you said no to the return trip, should I go ahead and book your ride now? <emotion value="peaceful"/>
+CALLER: No. Not at this time.
+AGENT: Just to confirm, you do not want to book any trips right now, and no rides will be scheduled. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Alright, I will cancel the booking and no trips will be scheduled. If you need anything else later, just let me know.
+AGENT: Thank you for confirming you do not want to book any trips right now. If you change your mind or need assistance later, just let me know. Is there anything else I can help you with today? <emotion value="peaceful"/>
+CALLER: Yes. Assistance.
+CALLER: Hello?
+AGENT: Uhh, how can I assist you with your ride or booking today? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Can can
+AGENT: Hmmm.. that didn't seem right, could you try again? You can pay with cash, credit card, or Call and Ride. <emotion value="apologetic"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: 6 Montgomery Village Avenue.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I found the address as six Montgomery Village Avenue, Gaithersburg, Maryland. Is that correct for your pickup location? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Seven. Cross country Court.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I found the address as seven Cross Country Court, Gaithersburg, Maryland. Is that correct for your dropoff location? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Gordon.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

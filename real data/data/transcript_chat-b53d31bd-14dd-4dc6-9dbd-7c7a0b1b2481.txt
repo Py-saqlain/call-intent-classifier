@@ -1,0 +1,64 @@
+AGENT: Hello Farangis, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: We need the ride
+AGENT: Thank you for letting me know. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: All and right.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? If so, I will need the last six digits of your Call and Ride card. If not, please let me know which
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: I didn't catch the digits. Could you please say the last six digits of your Call and Ride card?
+CALLER: Three five two one seven six.
+AGENT: Thank you, your payment with Call and Ride is all set.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 9890 Washingtonian Boulevard.
+AGENT: I have 9 8 9 0 Washingtonian Boulevard, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Restigate Foodie Drive.
+AGENT: I couldn't find any results for Restigate Foodie Drive. Could you please provide the full address or another nearby landmark or street name?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Three East Drive.
+AGENT: What is the street number on Three East Drive?
+CALLER: Callahan is
+AGENT: Could you please provide the street number on Three East Drive? If you don't know the number, I can try searching nearby.
+CALLER: And If
+AGENT: I didn't quite catch that. Could you please tell me the street number on Three East Drive? If you don't know it, I can try searching for locations on Three East Drive near your pickup address.
+CALLER: It is the physiotherapy.
+AGENT: Thank you for that information. To help find the correct address, could you please tell me the street number or any nearby cross street for the physiotherapy on Three East Drive? If you don't know the street number, I can try searching for physiotherapy locations on Three East Drive near your pickup address.
+CALLER: Near FedEx. FedEx. Pickup address is nine eight nine zero. Washingtonian Boulevard. Pickup address is 9890 Washingtonian Boulevard.
+AGENT: I found several physiotherapy locations near FedEx. Here are some options:
+
+1. Resurgent Performance Physical Therapy at 16810 Oakmont Avenue, Gaithersburg, Maryland
+2. ATI Physical Therapy at 18302 Contour Road, Montgomery Village, Maryland
+3. Good Shepherd Physical Therapy at 16220 Frederick Road, Suite 325, Gaithersburg, Maryland
+4. MHC HealthCare at 803
+CALLER: No. No. No. No. No. No. The address is seven three six one Challahon Place, Roxbury, Minidac.
+AGENT: Thank you for the address. Just to confirm, is your dropoff address 7 3 6 1 Challahon Place, Roxbury, Minidac?
+CALLER: Seven three six one Callahan Freight Rockville Marina. Rockville.
+AGENT: Thank you for the clarification. Just to confirm, is your dropoff address 7 3 6 1 Callahan Freight, Rockville, Maryland?
+CALLER: Halohan Place. Place.
+AGENT: Thank you for the correction. Just to confirm, is your dropoff address 7 3 6 1 Callahan Place, Rockville, Maryland?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Farangis. I will now proceed with the next steps.
+AGENT: When would you like to be picked up?
+CALLER: At seven thirty.
+AGENT: Just to confirm, do you mean 7:30 AM or 7:30 PM for your pickup time?
+CALLER: 07:20AM. 07:20AM.
+AGENT: I have your pickup time as today at 7:20 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two people.
+AGENT: Thank you. Will anyone be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Got it, no wheelchair-accessible vehicle needed. Do you have any special instructions or notes for the driver?
+CALLER: No. Be on time.
+AGENT: The estimated fare for your trip is 14 dollars, and you'll be paying with your Call and Ride account. Would you like to schedule a return trip as well?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: No. No.
+AGENT: Understood, we'll just book the one-way trip for you. Should I go ahead and book it now?
+CALLER: Yes.
+AGENT: Thank you. I am now booking your trip for today at 7:20 AM from 9 8 9 0 Washingtonian Boulevard to 7 3 6 1 Calhoun Place for two passengers, paying with your Call and Ride account.
+AGENT: Your trip is booked for today at 7:20 AM. The confirmation number is 2 1 3 6 6 9 1 3 9. Is there anything else I can help you with?
+CALLER: Be on time.
+AGENT: I understand, and I'll make sure the driver is aware to be on time for your pickup. Is there anything else you need?
+AGENT: Take your time. Just
+CALLER: No.
+CALLER: No

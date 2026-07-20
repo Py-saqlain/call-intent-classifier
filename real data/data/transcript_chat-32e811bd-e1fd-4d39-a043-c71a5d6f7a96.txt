@@ -1,0 +1,31 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Natalie Rosa.
+AGENT: Thanks, Natalie. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Could you please send the cab to forty eight forty Boiling Brook Parkway.
+AGENT: Thank you for the address, Natalie. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit cards.
+AGENT: Thank you, Natalie. Your payment method is set to credit card.
+AGENT: Natalie, I have the pickup address as four eight four zero Boiling Brook Parkway, North Bethesda, Maryland. Is that correct?
+CALLER: Rockville, Maryland.
+AGENT: Thank you, Natalie. I have the pickup address as four eight four zero Boiling Brook Parkway, Rockville, Maryland. Is that correct?
+CALLER: Right.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One four four zero one Treville Gardens Circle.
+AGENT: Thank you for the dropoff address. May I have the city and state for one four four zero one Treville Gardens Circle, please?
+CALLER: Right.
+AGENT: Could you please confirm the city and state for one four four zero one Treville Gardens Circle? This will help me verify the address correctly.
+CALLER: Rockville Rockville, Maryland.
+AGENT: Natalie, I have the dropoff address as one four four zero one Traville Gardens Circle, Rockville, Maryland. Is that correct?
+CALLER: It's Travail Gardens Circle.
+AGENT: Thank you for the correction, Natalie. I have the dropoff address as one four four zero one Traville Gardens Circle, Rockville, Maryland. Is that correct?
+CALLER: Travail garden circle
+AGENT: Natalie, just to confirm, is the dropoff address one four four zero one Traville Gardens Circle, Rockville, Maryland?
+CALLER: It's trasil, t r a v I l l e.
+AGENT: Thank you for the spelling, Natalie. I have it as Traville Gardens Circle. Is that correct?
+CALLER: R-vill Gardens Circle.
+AGENT: Thank you for clarifying, Natalie. Just to confirm, is the dropoff address one four four zero one Traville Gardens Circle, Rockville, Maryland?
+CALLER: Okay.
+AGENT: Your dropoff address has been verified, Natalie.
+AGENT: When would you like to be picked up?
+CALLER: Pardon me? Oh,
+AGENT: When

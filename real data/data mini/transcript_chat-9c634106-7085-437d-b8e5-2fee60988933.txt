@@ -1,0 +1,12 @@
+AGENT: Thank you for calling Barwood & Regency. May I have your name or the phone number on your account to help you today?
+CALLER: No. Three zero one nine eight four one nine one nine.
+AGENT: I didn't catch your name just yet. Could you please tell me your name so I can assist you?
+CALLER: Maybe
+AGENT: Could you please tell me your name so I can assist you with your ride?
+CALLER: v I v I. B v b I v I.
+AGENT: Thanks, v. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a live person, please. I understand the robot.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: How long is long?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Mhmm.

@@ -1,0 +1,33 @@
+AGENT: Hello Maryland, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi.
+AGENT: Alright, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: That's
+AGENT: Hmmm.. that didn't seem right, could you try again? How would you like to pay for your taxi? Cash, credit card, or Call and Ride? <emotion value="apologetic"/>
+CALLER: I said pass.
+AGENT: Just to be sure, did you mean cash when you said "pass"? <emotion value="hesitant"/>
+CALLER: Hello?
+AGENT: Could you please confirm if you meant cash for your payment? <emotion value="hesitant"/>
+CALLER: I said cash, c a s h.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: May I have the pickup address for your trip, please? <emotion value="peaceful"/>
+CALLER: We are we are all 44 Goshen Road, Gaithersburg. Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 2 0 0 4 4 Goshen Road, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. May I have the dropoff address, please? <emotion value="peaceful"/>
+CALLER: 9142 Churchill Dublin, Gaithersburg.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 9 1 4 2 Turtle Dove Lane, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Just one passenger, Joseph.
+AGENT: Alright, soo how many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Hmm, sorry, let me get that right. How many passengers will be traveling, including yourself? <emotion value="apologetic"/>
+CALLER: Hello?
+AGENT: How many passengers will be traveling, including yourself? <emotion value="peaceful"/>
+CALLER: Catch.
+AGENT: Alright, soo how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Yes. I'm ready now.

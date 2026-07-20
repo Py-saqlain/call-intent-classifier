@@ -1,0 +1,63 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Yes. Edward Webman, w e b m a n.
+AGENT: Thanks, Edward. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I wanna make a reservation for my sister. Tomorrow. Tomorrow morning.
+AGENT: Thank you
+CALLER: She's going from
+AGENT: How would your sister like to pay for the ride? We accept cash, credit card, and Call and Ride.
+CALLER: How about a we call it a debit card.
+AGENT: Thank you for letting me know about the debit card. Now, could you please provide the pickup address for your sister's ride tomorrow morning?
+CALLER: Yes. Three one four eight Gracefield Road, Silver Spring, Maryland
+AGENT: I have 3 1 4 8 Gracefield Road, Silver Spring, Maryland as
+CALLER: two zero nine zero four.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address for your sister's ride?
+CALLER: Yes. One five zero zero North
+AGENT: Could you please
+CALLER: Beauregard Street,
+AGENT: Could you please provide the city and state for the dropoff address?
+CALLER: Alexandria, Virginia.
+AGENT: I have 1 5 0 0 North Beauregard Street, Alexandria, Virginia as the dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Edward. I will now proceed with the next steps for your sister's reservation.
+AGENT: You mentioned tomorrow morning for the pickup time. Is that correct?
+CALLER: Yes.
+AGENT: Thank you for confirming. How many passengers will be traveling, including your sister? And will she need a wheelchair-accessible vehicle?
+CALLER: One. No.
+AGENT: Got it, one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: Yes.
+CALLER: I The driver should wait thirty minutes for the return trip.
+AGENT: Got it, I'll check on the return trip once your main trip details are complete. I'll make sure the driver knows to wait thirty minutes.
+Could you please tell me the special instructions or notes you'd like the driver to have?
+CALLER: My sister's going to a medical appointment.
+CALLER: The the return trip should begin around 11AM.
+AGENT: The estimated fare for your main trip is 59 dollars, paying with credit card. You mentioned you'd like a return trip as well. Would you like me to start setting up the return trip for around 11 AM?
+CALLER: Yes.
+AGENT: For the return trip, what time would you like your sister to be picked up?
+CALLER: 11AM.
+AGENT: Just to confirm, you mean 11 AM for the return trip pickup time, correct?
+CALLER: Yes.
+AGENT: The time you requested for the return trip has already passed. Could you please provide a new pickup time for the return trip?
+CALLER: It's 11AM tomorrow. This trip is for tomorrow. Friday. July 17.
+AGENT: Thank you for clarifying that the return trip is for tomorrow, July 17th, at 11 AM. I will update that for you now.
+AGENT: The return trip
+CALLER: And the the initial trip is also the starting trip is also for tomorrow.
+AGENT: Your initial trip is scheduled for tomorrow at 9:00 AM. For the return trip, how many passengers will
+CALLER: Correct.
+AGENT: How many passengers will be traveling on the return trip, and will a wheelchair-accessible vehicle be needed?
+CALLER: One. One one passenger No wheelchair.
+AGENT: For the return trip, I have the pickup as 1 5 0 0 North Beauregard Street and the dropoff as 3 1 4 8 Gracefield Road. Is that correct?
+CALLER: Correct.
+AGENT: For your return trip, the pickup is at 1 5 0 0 North Beauregard Street, and the dropoff is at 3 1 4 8 Gracefield Road, scheduled for 11:00 AM tomorrow, with one passenger and a wheelchair-accessible vehicle requested. The estimated fare is 59 dollars, and payment will be by Self. Should I go ahead and book both trips?
+CALLER: No wheelchair. No wheelchair.
+AGENT: Just to confirm, should I update the wheelchair count to zero for your return trip?
+CALLER: Yes.
+AGENT: Thank you for confirming. How many wheelchairs will be needed for the return trip?
+CALLER: Zero.
+AGENT: For your return trip, the estimated fare is 57 dollars and 50 cents, paying with Self. Should I go ahead and book both your main trip and return trip?
+CALLER: Yes.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for tomorrow at 9:00 AM with confirmation number 2 1 3 6 7 9 6 8 0. Your return trip is scheduled for tomorrow at 11:00 AM with confirmation number 2 1 3 6 7 9 6 8 1. Is there anything else I can assist you with?
+CALLER: Repeat. Repeat confirmation numbers.
+AGENT: Certainly. Your main trip confirmation number is 2 1 3 6 7 9 6 8 0. Your return trip confirmation number is 2 1 3 6 7 9 6 8 1. Is there anything else I can help you with?
+CALLER: That's it.
+AGENT: Thank you for calling Barwood & Regency, Edward. Have a wonderful day.

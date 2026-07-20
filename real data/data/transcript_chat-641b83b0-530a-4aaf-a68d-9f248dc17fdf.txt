@@ -1,0 +1,32 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Nancy Carter
+AGENT: Thanks, Nancy. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Schedule a pickup with wheelchair accessibility.
+AGENT: Thank you for letting me know about the wheelchair accessibility. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, Nancy. Your payment method is set to credit card.
+AGENT: Nancy, could you please tell me the pickup address for your ride?
+CALLER: Fifty five thirty Wisconsin Avenue.
+AGENT: I have 5 5 3 0 Wisconsin Avenue, Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Five zero three King Farm Boulevard,
+AGENT: I have 5 0 3 King Farm Boulevard, Rockville, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Nancy. I will now proceed with the next steps to arrange your ride.
+AGENT: I have that you need one wheelchair-accessible vehicle. Is that correct? Please say yes to confirm or no to correct.
+CALLER: Yeah.
+AGENT: Thank you for confirming the wheelchair accessibility. When would you like to be picked up?
+CALLER: Two thirty.
+AGENT: Just to confirm, did you mean 2:30 PM today? Please say yes to confirm or no to correct.
+CALLER: Yes.
+AGENT: Thank you for confirming the pickup time of 2:30 PM today. How many passengers will be traveling, including yourself? Also, please let me know if any of the passengers will need wheelchair accessibility.
+CALLER: Three people
+AGENT: Thank you. I have recorded 3 passengers including one needing wheelchair accessibility. Do you have any special instructions or notes for the driver?
+CALLER: one in a wheelchair, one collapsible wheelchair.
+AGENT: Nancy, the estimated fare for your trip is 39 dollars, and you will be paying with a credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I am processing your booking now.
+AGENT: Your main trip is scheduled for today at 2:30 PM. Your confirmation number is 2 1 3 6 7 9 4 8 2. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Nancy. Have a wonderful day.

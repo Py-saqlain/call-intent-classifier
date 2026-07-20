@@ -1,0 +1,30 @@
+AGENT: Hello Maureen, this is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I need to book a call and ride.
+AGENT: Thank you for choosing Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three four five five seven six.
+AGENT: Thank you for providing your Call and Ride card digits. Your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 20944 Frederick Road, in Germantown, Maryland the Giant.
+AGENT: I have the pickup address as two zero nine four four Frederick Road, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: 1901 Sev Bailey Bridge Road. ZIP Maryland.
+AGENT: I couldn't locate 1901 Sev Bailey Bridge Road, Maryland. Could you please provide the full street address including the city and state?
+CALLER: One nine zero. One seven Staley Bridge Road. In Germantown, Maryland.
+AGENT: I have the dropoff address as one nine zero one seven Staleybridge Road, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Maureen. I will now proceed with the next steps.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just me, no.
+AGENT: Do you have any special instructions for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 11 dollars, paying with your Call And Ride card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now?
+CALLER: Yes.
+AGENT: I am booking your trip now.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 9 4 6 3. The pickup is scheduled for today at 1:36 PM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Maureen. Have a wonderful day!

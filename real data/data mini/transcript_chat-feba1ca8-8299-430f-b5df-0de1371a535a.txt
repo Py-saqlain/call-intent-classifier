@@ -1,0 +1,8 @@
+AGENT: Hi Nick, this is Ana from Barwood & Regency. Vehicle 1025 has arrived at your pickup location, and you also have a will-call trip scheduled today from 1 3 8 7 0 Georgia Avenue in Silver Spring to 2 7 1 5 Snowbird Terrace in Aspen Hill. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: So representative,
+AGENT: How can I assist you today? Are you looking to book a ride, check on a trip, or speak with a representative?
+CALLER: Check on a trip.
+AGENT: Okay, so your driver is currently at your pickup location at 2 7 1 5 Snowbird Terrace in Aspen Hill. The vehicle number is 1 0 2 5. You also have a will-call trip scheduled from 1 3 8 7 0 Georgia Avenue back to your home. Anything else?
+CALLER: Representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

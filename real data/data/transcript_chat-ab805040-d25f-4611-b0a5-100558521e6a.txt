@@ -1,0 +1,35 @@
+AGENT: Good morning, Josephine. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I like to book book a trip.
+AGENT: Thank you for choosing us for your trip. How would you like to pay today? We accept cash, credit card, and Call and
+CALLER: Hi. Hard.
+AGENT: I want to make sure I understand you correctly. Could you please tell me how you'd like to pay for your trip? We accept cash, credit
+CALLER: Because
+CALLER: Cost.
+AGENT: I understand that cost is important to you. Could you please tell me where you would like to be picked up and your destination? That way, I can help you with booking your trip.
+CALLER: One three nine two one Castle Boulevard, c West Point.
+AGENT: Thanks for sharing your pickup address at 1 3 9 2 1 Castle Boulevard, West Point. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: One three nine two one. Silver Spring Castle Boulevard Silver Spring.
+AGENT: I see you mentioned 1 3 9 2 1 Castle Boulevard in Silver Spring. Could you please let me know how you would like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Crush. Cash.
+AGENT: Thank you for letting me know you'll be paying with cash.
+AGENT: I have 1 3 9 2 1 Castle Boulevard, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: One three three zero seven. New Hampshire Avenue, Silver Spring.
+AGENT: Thank you. I will check the address 1 3 3 0 7 New Hampshire Avenue, Silver Spring.
+AGENT: I have 1 3 3 0 7 New Hampshire Avenue, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Josephine.
+AGENT: When would you like to be picked up?
+CALLER: Right now,
+AGENT: Thanks, I've noted your pickup time as right now. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thank you for letting me know no wheelchair is needed. How many passengers will be traveling?
+CALLER: Two.
+AGENT: Thanks, I have recorded 2 passengers and no wheelchairs. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 15 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 5 2 6 1. Your pickup is today at 6:46 AM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Josephine. Have a wonderful day.

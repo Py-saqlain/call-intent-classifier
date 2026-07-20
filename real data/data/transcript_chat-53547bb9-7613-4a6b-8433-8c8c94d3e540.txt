@@ -1,0 +1,56 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Diane Abney?
+CALLER: Yes.
+AGENT: Thanks for confirming, Diane. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I need a care now.
+AGENT: Okay, I understand you need a ride now. Let me get that started for you.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash. Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: May I have the pickup address for your ride, please? If you want me to use your home address, just let me know. <emotion value="peaceful"/>
+CALLER: One One. Five two four five Sadie Grove Road, Rock ville, Maryland One five two. Two four five one five two four five Shady Grove, Road, Rockville, Maryland.
+AGENT: Hmm  let me check that address.
+AGENT: Okay, so I found that location as 1 5 2 4 5 Shady Grove Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. Yes. No entrance. The north entrance.
+AGENT: Uh, I am sorry, but could you please repeat the pickup address with the north entrance included? <emotion value="apologetic"/>
+AGENT: Take your time. Just let me know when
+CALLER: One five four one five two four five Sadie Grove Road, North entrance, Rockville, Maryland
+AGENT: I couldn't find that exact number on Shady Grove Road, but I found 1 5 2 4 5 Shady Grove Road Suite 1 5 0 in Rockville, Maryland. Is that the correct pickup location? <emotion
+CALLER: that's that's it.
+CALLER: Yes. It is.
+AGENT: Perfect, got it! Your pickup address has been verified. [laughter]
+CALLER: Going to going home. To five three one Lawson Way.
+AGENT: Okay, so I have your pickup as 1 5 2 4 5 Shady Grove
+CALLER: Re enter
+AGENT: Okay, just to confirm, your pickup address is 1 5 2 4 5 Shady Grove Road, Rockville, Maryland, and your dropoff address is 5 3 1 Lawson Way, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Right. Three entrance.
+AGENT: Uh, I am sorry, but could you please clarify which entrance you mean for the pickup address? <emotion value="apologetic"/>
+CALLER: Pickup. Going home. Pickup. Is north entrance. North entrance for pickup. Going home dropped me off at the rear entrance.
+AGENT: Okay, I understand your pickup is at the north entrance of 1 5 2 4 5 Shady Grove Road, Rockville, Maryland, and your dropoff is at the rear entrance of 5 3 1 Lawson Way, Rockville, Maryland. Let me check those details. <emotion value="peaceful"/>
+AGENT: Your pickup address has been verified.
+AGENT: You mentioned you need a ride now. Is that correct? Please say yes to confirm or let me know if you want a different pickup time. <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Okay great! How many passengers will be traveling, including yourself? And will anyone
+CALLER: I want to be picked up now.
+AGENT: I have your pickup time set for now. Could you please tell me how many passengers will be traveling,
+CALLER: Two.
+AGENT: Thanks for letting me know there will be two passengers. Will you need a
+CALLER: Two.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. Just to clarify, do you need a wheelchair accessible vehicle for your trip? Please say yes or no. <emotion value="hesitant"/>
+CALLER: Yes. Yes.
+AGENT: Okay great! I've got
+CALLER: Yes.
+AGENT: Please tell me any special instructions or information the driver should know for your trip. <emotion value="peaceful"/>
+CALLER: Done right now. Are they here?
+AGENT: I’ve noted that for the driver. The driver is not dispatched yet; we are still gathering your trip details. Is there anything else you’d like to add or change? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I’m processing your booking now.
+AGENT: Your main trip is scheduled for today at 10:07 AM. Your confirmation number is 2 1 3 6 7 0 5 1 2. Is there anything else I can help you with?
+CALLER: Cancel trip. Cancel trip.
+AGENT: Hmm <break time="300ms"/> I'm sorry, I don't see any upcoming trips on your account to cancel. Is there anything else I can help you with? <emotion value="apologetic"/>
+CALLER: Okay. That's why I'm writing.
+CALLER: Hello?
+AGENT: Could you please tell me which trip you'd like to cancel? <emotion value="hesitant"/>
+CALLER: Hello?
+AGENT: Could you please tell me
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: She the her ride is here.

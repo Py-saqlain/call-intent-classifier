@@ -1,0 +1,24 @@
+AGENT: Hello Wagdy, this is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Good on your call.
+AGENT: How can I assist you with your ride today?
+CALLER: Need to book a taxi?
+AGENT: I'd be happy to help you book a taxi. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Hello? Column. Right?
+AGENT: It sounds like you might be saying Call and Ride. Did you mean to pay with Call and Ride? If so, could you please provide the last six digits of your Call and Ride card? If not, just let me know which payment method you'd prefer.
+CALLER: Yes.
+AGENT: Great! Please provide the last six digits of your Call and Ride card when you're ready.
+CALLER: 338944.
+AGENT: Thank you, your payment with Call and Ride has been verified. I'll proceed with your booking now.
+AGENT: Could you please tell me the pickup address for your taxi ride?
+CALLER: 19701 Viess Road.
+AGENT: I have 1 9 7 0 1 Graystone Road, Baltimore County, Maryland as your pickup address. Is that correct?
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide the correct pickup address again?
+CALLER: Seven zero one Veer Road,
+AGENT: I have 7 0 1 Kelly Road, Cumberland, Maryland as your pickup address. Is that correct?
+CALLER: Come on, shit, man. Just give me your just give me your associate now. So annoying. Just give me a live associate.
+CALLER: Hello?
+AGENT: I’m here to help. What can I do for you today?
+CALLER: Associate.
+AGENT: I can help with your booking if you'd like — shall we continue?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

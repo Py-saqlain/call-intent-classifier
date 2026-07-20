@@ -1,0 +1,15 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Yes. I the the we are we are out. The passenger or we are out. Now we are out. We don't see it. We we don't see him. I one nine seven six nine Crystal Rock. Drive. Mhmm. We are out. We don't see him.
+AGENT: Thank you for that information. Could you please tell me your name so I can assist you with your ride?
+CALLER: Okay. My name is.
+AGENT: I’m ready to hear your name whenever you’re ready to say it.
+CALLER: Repeat.
+AGENT: Of course. Please tell me your name so I can help you set up your profile and assist with your ride.
+CALLER: I don't understand what you say. Mhmm.
+AGENT: No problem at all. I’m asking for your name so I can create your profile and help you with your ride. Could you please tell me your name?
+CALLER: Buchanan.
+AGENT: Thank you, Buchanan. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yes. The passenger of come pick off. Us It tells us he's outside now. We come outside waiting. We don't see the taxi.
+AGENT: I understand you're waiting outside for your taxi, but you don't see it yet. If you'd like, I can connect you to someone who can check on your driver's status and help you further. Would you like me to do that?
+CALLER: Yes. He called he called me again. He called it. Mhmm. I don't mean can do. Mhmm. Don't
+AGENT: I'm connecting you now to a customer service representative who can assist you with your driver. Please stay on the line.

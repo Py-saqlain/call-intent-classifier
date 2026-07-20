@@ -1,0 +1,22 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: I'm glen. Can you pass me here at U Haul What number is what address is this?
+AGENT: Thanks, Glen. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Can you place us here in U Haul? Trucking Services? I five nine zero one Eagle Ford. It's Norfolk School Road? Five Eight five zero one Snowperschool Road?
+AGENT: Thank you for the details, Glen. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: That's Cash.
+AGENT: Thank you, Glen. Your payment method is set to cash.
+AGENT: Glen, I have your pickup address as 5 9 0 1 Taylor Road, Fort Belvoir, Virginia. Is that correct? Also, I couldn't locate the dropoff address you gave. Could you please provide the full dropoff address including the street name and city?
+CALLER: No. No.
+AGENT: Thank you for letting me know, Glen. Could you please tell me the correct pickup address?
+CALLER: You can text me here
+AGENT: I’m here to assist you with your ride booking, Glen. Could you please provide the correct pickup address so I can help you?
+CALLER: Eight five zero one
+AGENT: Thank you, Glen. To make sure I have it right, could you please tell me the street name and city that go with the number eight five zero one?
+CALLER: Snoopers School Road, Gaithersburg, Maryland two zero eight seven nine.
+AGENT: Glen, I have your pickup address as eight five zero one Snouffer School Road, Gaithersburg, Maryland. Is that correct?
+CALLER: It's a U Haul building.
+AGENT: Thank you for that detail, Glen. Is the pickup address eight five zero one Snouffer School Road, Gaithersburg, Maryland correct for the U Haul building?
+CALLER: Correct.
+CALLER: Correct.
+AGENT: Glen, I have your dropoff address as eight five zero one Snouffer School Road, Gaithersburg, Maryland. Is that correct?
+AGENT: Glen, I couldn't find an exact match for 5 8 5 0 1 Snouffer School Road. Could you please confirm if you meant 8 0 1 9 Snouffer School Road, Gaithersburg, Maryland?

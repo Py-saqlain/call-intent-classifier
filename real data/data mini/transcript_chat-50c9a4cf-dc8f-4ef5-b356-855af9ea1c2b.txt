@@ -1,0 +1,12 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Hello?
+AGENT: Hi there! This is Ana with Barwood & Regency. Could you please tell me your name?
+CALLER: Aurelia and Olive. Aurelia Hollis.
+AGENT: Thanks, Aurelia. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: My ride left me I'm outside.
+AGENT: Thanks for letting me know you're outside. Take your time, and if there's anything else I can help you with, just let me know.
+CALLER: We don't see the van. And he called me, and I told him
+AGENT: I understand
+CALLER: He's not in front of the building?
+AGENT: I’m sorry to hear that you don’t see the van in front of the building. I’m unable to contact the driver directly, but I can connect you with a customer support representative who can assist you with this. Would you like me to do that for you?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

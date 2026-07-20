@@ -1,0 +1,45 @@
+AGENT: Hi John, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab at three seven one five University Boulevard It's a CVS in Kensington.
+AGENT: Thank you for that information. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Energy. Cash.
+AGENT: Thank you, cash it is. I'll proceed with your booking now.
+AGENT: I have 3 7 1 5 University
+CALLER: How long will it take to get a cab?
+AGENT: I found a CVS at 3 7 1 5 University Boulevard West, Kensington, Maryland. Is that the place you want to go?
+CALLER: Right. That's that's the place I wanna be picked up at.
+AGENT: Your dropoff address has been verified, John. I'll now proceed with arranging your ride.
+AGENT: When would you like to be picked up?
+CALLER: I I didn't give you a dropoff. What drop off do you have from
+CALLER: Hello? I didn't give you a dropoff.
+AGENT: Your main trip dropoff address is 3 7 1 5 University Boulevard West, Kensington, Maryland. When would you like to be picked
+CALLER: No. That's the pickup. That's the pickup. That's
+AGENT: Sure, let me update that address.
+AGENT: Could you please provide the full pickup address again so I can update it correctly?
+CALLER: Yeah. Yes. 3715 University Boulevard, West Kensington.
+AGENT: I have 3 7 1 5 University Boulevard West, Kensington, Maryland as your pickup address. Is that correct?
+CALLER: Right. Right. Yes, ma'am.
+AGENT: The pickup address has been successfully updated. What time would you like to schedule your pickup?
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible.
+AGENT: Got it, I'll arrange your pickup as soon as possible. How many passengers
+CALLER: As soon as possible
+AGENT: I have your pickup time as as soon as possible. How many passengers will be traveling, including yourself?
+CALLER: Just me. Just me.
+AGENT: Thank you for letting me know there will be just one passenger.
+CALLER: I'm a senior citizen. Right? I can't I can't walk. As far as I gotta go.
+AGENT: Thank you for sharing that. Would you like a wheelchair-accessible vehicle for your ride?
+CALLER: No. I have I have a I have a cane, but just
+AGENT: John, the estimated fare for your trip is 5
+CALLER: I can't stand up anymore. Been out all day. Very My name is Jerry. My name is Jerry.
+AGENT: Thank you for letting me know, Jerry. I want to make sure your ride is as comfortable as possible. Since you mentioned you can't stand up and have a cane, would you like me to arrange a wheelchair-accessible vehicle for you?
+CALLER: No. That's alright. You don't have to go out of out of your way. Just the cab that can get here as soon as possible.
+AGENT: Understood, Jerry. We'll arrange a regular cab to pick you up as soon as possible. Would you like to schedule a return trip as well?
+CALLER: Okay. No. I'm going home.
+AGENT: Thank you, Jerry. I’m processing your ride booking now. Please hold on a moment.
+AGENT: Jerry, your main trip is scheduled for today at 4:30 PM. Your confirmation number is
+CALLER: Yes.
+AGENT: The confirmation number is 2 1 3 6 7 9 7 0 2. Is there anything else I can help you with?
+CALLER: No. Just let me get a cab. I'm in so much pain right now. There's no place for me to sit in the morning.
+AGENT: I understand, Jerry. Your cab is on its way for your pickup today at 4:30 PM. If you need anything else, just let me know.
+CALLER: Okay. Thank you. Thank you very much.
+AGENT: You're very welcome, Jerry. Take care.

@@ -1,0 +1,12 @@
+AGENT: Hello, this is Ana with Barwood & Regency. How can I assist you today, Linda?
+CALLER: Client prevent given Client ID number, two one two three three six. I'm wondering the ETA.
+AGENT: Okay, I will check the status and ETA for the client with ID 212336. Just a moment, please.
+AGENT: Uhh <break time="300ms"/> there is no active trip scheduled for that client ID. Would you like help booking a ride? <emotion value="peaceful"/>
+AGENT: Uhh <break time="300ms"/> I don't see any active trip for client ID 212336 right now. Would you like me to help you schedule a ride? <emotion value="peaceful"/>
+AGENT: Uhh <break time="300ms"/> I don't see any active trip for client ID 212336 right now. Would you like me to help you schedule a ride? <emotion value="peaceful"/>
+Uhh <break time="300ms"/> I don't see any active trip for client ID 212336 right now. Would you like me to help you schedule a ride? <emotion value="peaceful"/>
+CALLER: Representative. Representative.
+CALLER: Representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

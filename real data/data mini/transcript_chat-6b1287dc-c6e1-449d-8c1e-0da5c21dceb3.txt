@@ -1,0 +1,9 @@
+AGENT: Hello Kan, this is Ana from Barwood & Regency. Vehicle 503 has arrived at your pickup location. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Whose house are you at?
+AGENT: Could you please tell me the pickup address you'd like to use? If you want to be picked up from your home, I can
+CALLER: Where are you at?
+AGENT: I'm here to help you with your ride. Could you please tell me what you need assistance with today?
+CALLER: Oh my fucking god.
+AGENT: I'm here to assist you. Please let me know how I can help with your ride or any other request.
+AGENT: Take your time. Just let me know when you're ready.

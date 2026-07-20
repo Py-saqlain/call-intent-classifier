@@ -1,0 +1,29 @@
+AGENT: Hello Mary, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a ride.
+AGENT: Uhh, okay, I can help you with that. Could you please tell me where you would like to be picked up from? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card,
+CALLER: Picked up from picked up from 4977 Battery Lane, Bethesda, Maryland.
+AGENT: Okay, I've got your pickup address as 4 9 7 7 Battery Lane, Bethesda, Maryland. Now, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so your pickup address is 4 9 7 7 Battery Lane, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Drop off address is four seven zero one Sangamore, s a n g a m o e, Road, Bethesda, Maryland
+AGENT: Okay, let me check that address. 4 7 0 1 Sangamore Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so your dropoff address is 4 7 0 1 Sangamore Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Mary.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Today at one o'clock PM.
+AGENT: Okay great! I've got your pickup time as today at 1:00 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One. Myself, no wheelchair necessary.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 14.5 dollars, paying with credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 1:00 PM. Your confirmation number is 2 1 3 6 7 7 8 6 0. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Mary. Have a wonderful day!

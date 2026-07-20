@@ -1,0 +1,32 @@
+AGENT: Hi Maria, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi.
+AGENT: Thank you for reaching out. How would you like to pay for your taxi ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride
+AGENT: I can help with Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three four eight six six one.
+AGENT: Thank you, your Call and Ride payment is all set.
+AGENT: Where would you like to be picked up?
+CALLER: Three two one University Boulevard West, Silver Spring, Maryland two zero nine zero one.
+AGENT: I have 3 2 1 University Boulevard West, Silver Spring, Maryland. Is that correct?
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Where would you like to go?
+CALLER: I want to go toward one one one six zero Sears Mill Road, Wheaton, Maryland two zero nine zero two. Costco
+AGENT: I have 1 1 1 6 0 Veirs Mill Road Suite Department 4, Wheaton-Glenmont, Maryland. Is that correct?
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide the dropoff address again?
+CALLER: Wheaton Wheaton Mall in Maryland.
+AGENT: I found a few locations for Wheaton Mall in Maryland: Wheaton Plaza at 2 7 7 4 to 2 7 9 8 University Boulevard West, Silver Spring; Westfield Wheaton at 1 1 1
+CALLER: That one.
+AGENT: Your dropoff address has been verified, Maria. I will now proceed with your booking.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Just two. No wheelchair.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 13.5 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 12:46 PM. Your confirmation number is 2 1 3 6 7 9 3 9 9. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Maria. Have a wonderful day.

@@ -1,0 +1,42 @@
+AGENT: Hello Leah, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Schedule a trip.
+AGENT: Thank you for choosing us for your trip. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Biden's said, oh, she's gonna be so immaculate. Let her go to the web store and did from there. I still do your f I. Go back and groom until they'll pick her up. And then for there, we don't know what we want to be delay.
+AGENT: I’m sorry, I didn’t quite catch your payment method. Could you please tell me how you would like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Yes.
+AGENT: Could you please specify which payment method you would like to use: cash, credit card, or Call and Ride?
+CALLER: Pass. Exactly. Pass.
+AGENT: Just to confirm, did you mean cash as your payment method?
+CALLER: Yes.
+AGENT: Thank you, your payment method is set to cash.
+AGENT: Could you please tell me the pickup address for your trip?
+CALLER: One nine eight one nine eight zero one observation drive. Germantown, two zero eight seven six.
+AGENT: I have the pickup address as one nine eight zero one Observation Drive, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: 06. 00. Seneca Meadows. Parkway, Germantown two zero eight seven six.
+AGENT: I couldn't find an exact match for six hundred Seneca Meadows Parkway in Germantown, Maryland. However, I found a location called 20330 Seneca Meadows Parkway B, Germantown, Maryland 20876. Is that the correct dropoff address?
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide the correct dropoff address again?
+CALLER: Two zero
+AGENT: Could you please provide the full dropoff address including the street name and city? Just the number "20" is not enough to locate it.
+CALLER: 206. Zero zero Seneca, Meadows Parkway. Germantown two zero eight seven six
+AGENT: I have the dropoff address as two zero six zero zero Seneca Meadows Parkway, Germantown, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Leah. I will now proceed with the next steps.
+AGENT: When would you like to be picked up?
+CALLER: Ma'am,
+AGENT: Could you please tell me the time you would like to be picked up?
+CALLER: I'd like to be picked up now.
+AGENT: Got it, I have your pickup time as today at 7:32 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: What
+AGENT: Could you please tell me how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One One. Passenger No care.
+AGENT: Thank you, I have recorded 1 passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: MST ER entrance. Of Holy Cross.
+AGENT: Leah, the estimated fare for your trip is 10 dollars, paying with cash. You mentioned you'd like a return trip — would you still like me to set that up?
+CALLER: No return trip.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your trip is scheduled for today at 7:32 AM. Your confirmation number is 2 1 3 6 6 7 7 3 2. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Leah. Have a wonderful day.

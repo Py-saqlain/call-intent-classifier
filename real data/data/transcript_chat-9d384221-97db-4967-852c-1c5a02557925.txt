@@ -1,0 +1,49 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with James?
+CALLER: Yeah. I'm on road for dinner.
+AGENT: Thanks for confirming, James. This is Barwood & Regency. How can I assist you today?
+CALLER: I'm a need a pickup Oh my god. I don't need to know the name and address here. What's the address?
+AGENT: Could you please tell me the pickup address you want for your ride? If you want to be picked up from your home, I can use the address we have on file for you.
+CALLER: Hello?
+AGENT: I'm here to help. Could you please tell me where you'd like to be picked up? If it's your home, I can use the address we have on file.
+CALLER: Giant food Middlewood Road.
+AGENT: Thank you for that. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Great, I can help with that. Could you please provide the last six digits of your Call and Ride card?
+CALLER: What's the left of your call in front? O eight nine five.
+AGENT: Just to confirm, the last six digits of your Call and Ride card are zero eight nine five? Could you please provide the full six digits? It seems like there might be some missing digits.
+CALLER: O eight nine five eight eight.
+AGENT: Thank you for providing your Call and Ride card digits. Your payment method is set to Call and Ride.
+AGENT: I found Giant Food at 20044 Goshen Road, Gaithersburg, Maryland. Is this the pickup location you want?
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide more details or another nearby landmark or address to help me find the correct Giant Food location on Middlewood Road?
+CALLER: Service. Middlebrook Road.
+AGENT: Just to clarify, did you mean Middlebrook Road instead of Middlewood Road for the Giant Food location?
+CALLER: Yes.
+AGENT: I found Giant Food at 13060 Middlebrook Road, Germantown, Maryland. Is this the pickup location you want?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Home.
+AGENT: I have 1 8 3 4 5 Lost Knife Circle, Montgomery Village, Maryland as your dropoff address. Is that correct?
+CALLER: No.
+AGENT: Thank you for letting me know. Please provide the correct dropoff address or a nearby landmark so I can find the right location for you.
+CALLER: One nine five five zero water Road, Germantown, Maryland.
+AGENT: I have 1 9 5 5 0 Waters Road, Germantown, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, James.
+AGENT: When would you like to be picked up?
+CALLER: Now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Two and no.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip is 7 dollars, and you will be paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now?
+CALLER: Yes. Saw shirts out of
+AGENT: Thank you, I am booking your trip now.
+AGENT: Your
+CALLER: You got see me then as well?
+AGENT: Your main trip is confirmed with confirmation number 2 1 3 6 6 9 6 6 1, and your pickup is today at 3:43 PM. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you
+CALLER: Three forty three

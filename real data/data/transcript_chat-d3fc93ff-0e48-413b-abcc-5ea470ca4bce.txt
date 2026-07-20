@@ -1,0 +1,29 @@
+AGENT: Hello Erkus, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Schedule rides.
+AGENT: Alright, how would you like to pay for your rides today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Call and ride
+AGENT: Okay, I understand you'd like to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: three four five zero. Five three.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Three zero three. Adclair Road, Rockville, Maryland
+AGENT: Okay, so your pickup address is 3 0 3 Adclare Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Two five one. Hungerford Road, Rockville, Maryland
+AGENT: I found a similar address from recent trips: 2 5 1 Hungerford Drive, Rockville, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Erkus. <emotion value="peaceful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now.
+AGENT: Okay, your pickup time is set for today at 3:24 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: 2 and no.
+AGENT: Okay great! I've got 2 passengers and no wheelchair needed. Do you have any special instructions for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 8.5 dollars, paying with Call And Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm booking your trip now.
+AGENT: Your main trip is booked for today at 3:24 PM. Your confirmation number is 2 1 3 6 7 6 0 9 9. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Erkus. Have a wonderful day!
+CALLER: You too. Bye bye.

@@ -1,0 +1,10 @@
+AGENT: Hello Seung, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hi. Alright. Yeah.
+AGENT: How can I assist you with your ride today?
+CALLER: Hot. Oh, okay. Yeah. Mhmm.
+AGENT: Would you like me to check the status of a current trip, help you book a new ride, or connect you with someone who can assist you further?
+CALLER: Thank you, John. Hey.
+AGENT: If you need help with a ride or anything else, just let me know what you'd like to do.
+CALLER: Good job. And then you go forward. Good. Perfect. Perfect. Thank you. You know? I got it up. I just really yeah.
+AGENT: If you'd like to book a ride or have any questions about your trips, please tell me what you need, and

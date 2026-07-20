@@ -1,0 +1,9 @@
+AGENT: Hi Lucas, this is Ana with Barwood & Regency. You have two trips today — one scheduled for pickup at 11:30 AM with vehicle 562, and another with vehicle 634 arriving in about 5 minutes. How can I assist you today?
+CALLER: To an agent.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: I put the pages
+AGENT: Could you please clarify what you mean by "I put the pages"? Are you referring to booking a ride, checking a trip, or something else? I'm here to help.
+CALLER: I
+AGENT: Did you want to tell me what you need, or shall I transfer you?
+CALLER: Transfer me.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

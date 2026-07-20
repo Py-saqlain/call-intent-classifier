@@ -1,0 +1,15 @@
+AGENT: Hello Seung, this is Ana with Barwood & Regency. Vehicle 579 is on the way and will arrive for your pickup in approximately 1431 minutes. How can I assist you today?
+CALLER: Uh, yes. Uh, you know, I am at the eighth floor two c like a Charlie, and then rockville pipe. Is it correct?
+AGENT: Okay, just to make sure I have it right: you're at the eighth floor, suite 2C, at Rockville Pike? Is that correct?
+CALLER: Right. Eight four two c Rockville Pike.
+AGENT: Looks like you already have a trip from Rockville to Silver Spring scheduled for today at 2:14 PM. What would you like to do?
+CALLER: What time?
+AGENT: Okay, so your pickup is scheduled for today at 2:14 PM. Anything else I can check for you?
+CALLER: Is it two two forty one?
+AGENT: Yes, the driver number is 1 0 2 4 4 1. Would you like to know anything else?
+CALLER: But you will you will arrive to pick up at the two four one
+AGENT: Your pickup is scheduled for 2:14 PM, and the driver assigned is number 1 0 2 4 4 1. Is there anything else you'd like to know?
+CALLER: But I've been waiting, waiting, but he did not come yet.
+AGENT: Uhh <break time="300ms"/> I'm sorry about that. <break time="300ms"/> Let me connect you with a representative who can help right away.
+CALLER: Yeah.
+AGENT: I'm connecting you to a

@@ -1,0 +1,11 @@
+AGENT: Hello Woodrow, this is Ana with Barwood & Regency. Vehicle 1135 is on the way and should arrive in about 2 minutes, aiming to pick you up around 10:32. How can I assist you today?
+CALLER: Where is the where is the ride at?
+AGENT: Your driver is about 3 minutes away, scheduled to pick you up at 10:35 am from 220 Skidmore Boulevard in Gaithersburg. Anything else?
+CALLER: No. He he he he told me 10:20. Ain't no fucking 10:35.
+AGENT: I understand the difference in times can be frustrating. The system shows your pickup is scheduled for 10:35 am. If you'd like, I can connect you with a customer representative who can assist further. Would you like me to do that?
+CALLER: No. No. 10:20. 10:20.
+AGENT: I hear you saying 10:20. The system still shows 10:35 for your pickup. To make sure everything is clear and on time, I can connect you with a customer representative who can help with this. Would you like me to connect you now?
+CALLER: Yeah. Yeah. Do you know how to be on time?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: They they told me ten twenty. Not 10:35.
+CALLER: They they told me ten twenty. Not 10:35. No. 10:20.

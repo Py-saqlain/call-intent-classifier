@@ -1,0 +1,16 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Duck Donald?
+CALLER: Representative, please.
+AGENT: Of course — I can also book rides, check your trip status, or cancel trips right here if that's what you need. Let me connect you to a representative now.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Customer strip.
+AGENT: I want to make sure I understand you correctly. Could you please clarify what you mean by "customer strip"? Are you looking to book a ride, check a trip, or speak with a representative?
+CALLER: Check a trip. Check a trip.
+AGENT: I'll check the status of your trip for you. Just a moment, please.
+AGENT: I want to make sure I have the right person to check your trip. Could you please tell me your name?
+CALLER: Check up on your on the truck.
+AGENT: I want to help you check your trip, but I need your name first to find your information. Could you please tell me your name?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Representative.
+AGENT: Of course — I can also book rides, check your trip status, or cancel trips right here if that's what you need. Let me connect you to a representative now.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Representative

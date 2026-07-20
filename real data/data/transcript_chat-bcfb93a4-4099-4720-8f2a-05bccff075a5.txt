@@ -1,0 +1,33 @@
+AGENT: Hello Mary, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi. I would like to make an reservation today at ten forty
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: Oh, cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+CALLER: Mhmm.
+AGENT: To get started, could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Okay. So eight eight zero nine Mary Mead Court, Potomac, Maryland
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+CALLER: Mhmm.
+AGENT: Okay, so your pickup address is eight eight zero nine Mary Mead Court, Potomac, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Mhmm. Mhmm. Right.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Mhmm.
+AGENT: Where would you like to be dropped off? Please provide
+CALLER: K. Drop off address is
+AGENT: Please go ahead and tell me the dropoff address when you're ready. <emotion value="peaceful"/>
+CALLER: one one wait a minute, 11 wait a minute, I'm ready. 113317 Lacks Road, Potomac, Maryland.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+CALLER: Mhmm.
+AGENT: I'm sorry, but I couldn't find that address. Could you please double-check the street number and name for the dropoff location? If you're not sure about the number, just let me know the street name and I can help
+CALLER: Shut up. I'll look it.
+AGENT: Take your time. Just let me
+CALLER: Wait a minute. Dropoff. No. Address is one one three three one seven lakh Road, Potomac, Maryland.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+CALLER: Mhmm.
+AGENT: Okay, so your dropoff address is one zero zero zero zero Falls Road, Potomac, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. No. No. No. No. No. No. Drop off address to one one three three one Seven Laps Road, Potomac, Maryland.
+AGENT: Thank you for the
+CALLER: May I may I speak to you got it now?
+AGENT: I can help you with the pickup address right now — shall we continue?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Yes.

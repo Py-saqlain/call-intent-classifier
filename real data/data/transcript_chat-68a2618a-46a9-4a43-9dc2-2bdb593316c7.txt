@@ -1,0 +1,45 @@
+AGENT: Hi Jane, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a taxi to the doctors.
+AGENT: Thank you for letting me know. How would you like to pay for
+CALLER: Did you hear me?
+AGENT: Yes, I heard you. How would you like to pay for your ride? We accept cash, credit card, and
+CALLER: Calling Colin Ross Calling right.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yeah.
+AGENT: Could you please tell me the last six digits of your Call and Ride card?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I just gave it to you. Three four five six five nine
+AGENT: Thank you for providing the digits. Your payment method is Call and Ride. I’m moving forward with your booking now.
+AGENT: Could you please provide the pickup address for your trip?
+CALLER: Three two one. University Boulevard, West apartment two zero five, Silver Spring, Maryland two zero nine zero one Come in the front of the building.
+AGENT: I have 3 2 1 University Boulevard West, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: I found several doctors' offices near you: C C I Health Services Gaithersburg at 220 Girard Street Suite 100, Gaithersburg, Maryland; Olde Towne Urgent Care at 317 East Diamond Avenue Suite C, Gaithersburg, Maryland; Holy Cross Health Partners Progressive Medical Care at 18530 Office Park Drive, Montgomery Village, Maryland; Tehseen Raza Naqvi, M D at 18530 Office Park Drive, Montgomery Village, Maryland; and CloseKnit, formerly Comprehensive Primary Care, at 18550 Office Park Drive, Montgomery Village, Maryland. Which one would you like to go to?
+CALLER: Comprehensive women's help One zero three one three Georgia Avenue, Silver Spring, Maryland
+AGENT: I found Comprehensive Women's Health at 10313 Georgia Avenue, Suite 307, Silver Spring, Maryland. Is that the place you want to go?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Jane. I’m now passing your trip details along to complete your booking.
+AGENT: When would you like to be picked up?
+CALLER: As soon as possible now
+AGENT: Got it, I have your pickup time as today at 9:53 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Just myself.
+AGENT: Thank you. I have recorded 1 passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: Other than come to the front of the building, it will read three two one. On the building entrance.
+AGENT: The estimated fare is 9 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: No. Why is there so much money?
+AGENT: I understand your concern about the fare. I don’t have the ability to explain fare details beyond what the system provides. If you’d like, I can connect you to a live agent who can assist you further. Would you like me to do that?
+CALLER: No. Thanks. No. No. That's no. No. Thanks.
+AGENT: Understood. Should I go ahead and book your one-way trip now?
+CALLER: Yes, please.
+AGENT: Thank you. I am booking your trip now.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 9:53 am. Your confirmation number is 2 1 3 6 7 9 2 5 9. Is there anything else I can help you with?
+CALLER: Repeat
+AGENT: Your main trip is scheduled for today at 9:53 am. Your confirmation number
+CALLER: Can you meet
+AGENT: I’m here to help with your ride booking. If you have a question or need assistance with your trip, please let me know.
+CALLER: No. Give me my confirmation number, please.
+AGENT: Your confirmation number is 2 1 3 6 7 9 2 5 9. Is there anything else I can assist you with?
+CALLER: No thank you
+AGENT: Thank you for calling Barwood & Regency, Jane. Have a wonderful day.
+CALLER: You too.

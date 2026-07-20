@@ -1,0 +1,16 @@
+AGENT: Hello Joan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'm calling to request a a cab.
+AGENT: Alright, how would you like to pay for your cab today? We accept cash, credit
+CALLER: A taxi,
+CALLER: I I pay with cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your cab? If you'd like, I can use your home address at 5 0 0 6 Wickett Terrace, Bethesda, Maryland.
+CALLER: 5006. I'm at the Capital One Bank. And
+AGENT: Hmm <break
+CALLER: I'm currently at the Capital One Bank, and me get let me get the address. I'm sorry. I don't have to complete I wanna give you the wrong thing.
+AGENT: No problem at all. Take your time, and whenever
+CALLER: So but So I'm wanna make sure I use the right address. That's the I'm sorry. Just one moment, please. One moment. I'm sorry.
+AGENT: Take all the time you need. I'm here whenever you're ready to provide the correct pickup address.
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+AGENT: I haven't heard from you for a while. Please call Barwood & Regency Taxi back when you're ready. Goodbye.

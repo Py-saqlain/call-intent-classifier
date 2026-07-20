@@ -1,0 +1,23 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Yes, group.
+AGENT: I want to make sure I got your name correctly. Could you please say your name again?
+CALLER: Ruth,
+AGENT: Thank you, Ruth. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yeah. And I I would like to know how one makes an appointment with a borrower driver to take us from our home to a medical destination.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I think credit card.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the address where you would like to be picked up from?
+CALLER: Well, I'm not planning to order the ride to the right now. I wanted to know the process so I could call tomorrow morning after affirming about my travel.
+AGENT: Got it, Ruth. So you want to know how to make a reservation for a future ride, and you'll call back tomorrow when you're ready to book. Is that right?
+CALLER: That's correct. Okay. How long does it take the from reservation to the ride?
+AGENT: I don’t have exact timing details, but when you call to make your reservation, we’ll schedule your pickup time based on your needs. If you call tomorrow
+CALLER: Okay.
+AGENT: Whenever you're ready to book, just call us with your pickup and dropoff addresses and the time you want to
+CALLER: Mhmm.
+AGENT: Since you’re not ready to book right now, would you like me to help you with anything else about the process or any other questions?
+CALLER: No. We'll call tomorrow for sure.
+AGENT: Alright, Ruth. I'll be here when you call tomorrow to assist you with your ride. If you need anything else then, just let us know.
+CALLER: Thanks.
+AGENT: You're very welcome, Ruth. Take care!
+CALLER: Bye. You too.

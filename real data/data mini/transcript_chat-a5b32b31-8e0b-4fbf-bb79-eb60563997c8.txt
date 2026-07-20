@@ -1,0 +1,20 @@
+AGENT: Hello Lady, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Hi. I'm calling from Doubletree by Hilton. For a guest here for pickup.
+AGENT: May I have the pickup address and the guest's destination or any other details for the ride?
+CALLER: 06:20. Perry Parkway, Gaithersburg, Maryland
+AGENT: Thank you for the details. How would the guest like to pay for the ride? We accept cash, credit card, and Call and Ride.
+CALLER: Yeah.
+AGENT: Could you please let me know which payment method the guest prefers: cash, credit card, or Call and Ride?
+CALLER: credit card Cash.
+AGENT: Thank you, the payment method is set to credit card.
+AGENT: Is there anything else I can assist you with regarding this ride?
+AGENT: I have 6 2 0 Perry Parkway, Gaithersburg, Maryland as the pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Where are you heading to? Are you heading to? And Washington DC? The mall in Washington DC?
+AGENT: I found several places called "The mall" in Washington DC area:
+
+1. Chevy Chase Pavilion at 5335 Wisconsin Avenue Northwest, Washington, DC
+2. Tysons Corner Center at 1961 Chain Bridge Road, Tysons, Virginia
+3. DC USA at 3100 14th Street Northwest, Washington, DC
+4. Georgetown Park at

@@ -1,0 +1,17 @@
+AGENT: Hi Susi, this is Ana from Barwood & Regency. I see you have a will-call trip scheduled today from 130 Rollins Avenue Suite H2 to 1801 East Jefferson Street in Rockville. How can I assist you
+CALLER: Well, somebody called but we weren't ready. I mean, it was a little too early. Could you send someone now?
+AGENT: You have a will-call trip on file for today from 130 Rollins Avenue Suite H2 in Rockville to 1801 East Jefferson Street in Rockville. Would you like me to activate that trip now, or would you prefer to book a new ride?
+CALLER: Well, I guess they're supposed to leave from ring house.
+AGENT: Just to be sure, when you say "ring house," could you please confirm the full address or
+CALLER: It was supposed to eighteen o one eighteen o one East Jefferson Street.
+AGENT: Thank you for clarifying. So the pickup address should be 1 8 0 1 East Jefferson Street in Rockville, is that correct?
+CALLER: Yes.
+CALLER: Yes.
+AGENT: The trip with reference number zero two one three six six seven zero five five is now activated. A driver will be dispatched to 1 8 0 1 East Jefferson Street in Rockville shortly. If you need anything else, just let me know.
+CALLER: Okay. Sure, please. That heavy. Many minutes does that mean?
+AGENT: Your trip is activated with confirmation number zero two one three six six seven zero five five. A driver will be dispatched to 1 8 0 1 East Jefferson Street in Rockville shortly. Unfortunately, I don't have the exact arrival time, but the driver will be there as soon as possible.
+CALLER: Okay.
+AGENT: Is there
+CALLER: Okay. Thank you. Bye bye.
+AGENT: Thank you for calling
+CALLER: Yes. We'll be here soon. So be there soon.

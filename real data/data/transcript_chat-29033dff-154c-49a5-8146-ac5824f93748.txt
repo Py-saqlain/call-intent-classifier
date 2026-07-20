@@ -1,0 +1,37 @@
+AGENT: Hi Leah, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Schedule a taxi.
+AGENT: I'd be happy to help schedule your taxi. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, cash is all set for your payment.
+AGENT: Could you please tell me the pickup address for your taxi?
+CALLER: Yes. It's eight zero four zero thirteen. Three. Silver rain. ZIP code, two zero nine. One zero.
+AGENT: I want to make sure I have your pickup address correct. Did you say 8 0 4 0 1 3 3 Silver Rain? Could you please confirm the city and state for this address?
+CALLER: Zero forty. Thirteen Sprigg. Silver Spring two zero nine. One zero.
+AGENT: Thank you for the clarification. Just to confirm, is your pickup address 8 0 4 0 1 3 Sprigg Street, Silver Spring, Maryland?
+CALLER: Eight zero four zero. Thirteen Street, Stella Spring, two zero nine one zero.
+AGENT: Thank you for the update. To confirm, is your pickup address 8 0 4 0 1 3 Street, Silver Spring, Maryland? Could you please confirm the street name again? You mentioned "Stella Spring"—did you mean "Silver Spring"?
+CALLER: Silver Spring. Correct.
+AGENT: I wasn't able to locate 8 0 4 0 1 3 Street in Silver Spring, Maryland. Could you please provide the full street address again, including the street number and street name?
+CALLER: Eight zero four zero. Thirteen. Three. Silver Spring, two zero nine. One zero.
+AGENT: Thank you. To clarify, is your pickup address 8 0 4 0 1 3 3 Silver Spring, Maryland? Could you please confirm the street name for this address?
+CALLER: Eight zero four zero thirteenth Street, Silver Spring, two zero nine one zero.
+AGENT: I have 8 0 4 0 13th Street, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yes. Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Eight two five Ellsworth Drive, Silver Spring, two zero nine, one zero.
+AGENT: I have 8 2 5 Ellsworth Drive, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified. Thank you, Leah.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: One one person.
+CALLER: No chair.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: I need to be picked up at the main entrance of the Days Inn. Hotel.
+AGENT: The estimated fare for your trip is 6.5 dollars, and you will be paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+CALLER: Pain is cast.
+AGENT: Your main trip is scheduled for today at 11:21 AM. The confirmation number is 2 1 3 6 6 5 5 3 0. Is there anything else I can help you with?
+CALLER: Please mail me the tracker.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

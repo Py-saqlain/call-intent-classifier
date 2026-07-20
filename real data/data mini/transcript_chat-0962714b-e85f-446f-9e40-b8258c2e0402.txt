@@ -1,0 +1,14 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Rita Ester?
+CALLER: Yes.
+AGENT: Thanks for confirming, Rita. This is Barwood & Regency. How can I assist you today?
+CALLER: Book a cab.
+AGENT: You already have a trip scheduled from Washington to Silver Spring on August 11th at 2:45 PM. What would you like to do next? <emotion value="grateful"/>
+CALLER: Open eleven, Book a shook for the day. All of sudden, I got a trip booked from Washington DC to hear. Almost.
+AGENT: Just to make sure I understand, you want to book a new trip for today around 11 AM, but you mentioned you already have a trip booked from Washington DC to here. Would you like to book this new trip anyway, or do you want to change or cancel the existing one?
+CALLER: I don't have a existing trip. I would like to book a trip today.
+AGENT: I understand you want to book a trip for today at 11 AM, but you do have a trip scheduled from Washington to Silver Spring on August 11th at 2:45 PM. Would you like to book this new trip as an additional ride, or would you prefer to change or cancel the existing one?
+CALLER: No. You're
+AGENT: I want to make sure I understand you correctly. Would you like to book a new trip for today at 11 AM and do not want to keep the existing trip? Or is there something else you'd like to do?
+CALLER: The existing pill for whatever reason cancel it. Let me speak to a agent. Speak to a agent.
+CALLER: The existing pill for whatever reason cancel it. Let me speak to a agent. Speak to a agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

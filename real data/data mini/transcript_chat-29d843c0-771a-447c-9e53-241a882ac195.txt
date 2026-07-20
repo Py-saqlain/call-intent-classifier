@@ -1,0 +1,28 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Sarah Kaplan?
+CALLER: Yes.
+AGENT: Thanks for confirming, Sarah. This is Barwood & Regency. How can I assist you today?
+CALLER: Would like to schedule a cab. You can call and ride in ten minutes.
+AGENT: Alright, how would you like to pay? You mentioned Call and Ride, so could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Three four four six. Six zero.
+AGENT: Okay so I've got that payment noted as Call And Ride. <emotion value="grateful"/>
+AGENT: To get started, could you please tell me the pickup address for your cab? <emotion value="peaceful"/>
+CALLER: Three March
+AGENT: Uh, I am sorry, but could you repeat that pickup address? <emotion value="apologetic"/>
+CALLER: 13 Marsh Hollow Plate
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I couldn't find an exact match for 13 Marsh Hollow Place. However, I found a location at 1 6 3 2 0 Connors Wyoming, number 13, Rockville, Maryland 2 0
+CALLER: Not what I
+AGENT: Uh, I am sorry, but could you please provide the correct pickup address again? <emotion value="apologetic"/>
+CALLER: 213 Marsh Hollow Place.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so your pickup address is 2 1 3 Marsh Hollow Place, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: One two Rockville pipe.
+AGENT: Uh, I am sorry, but could you repeat the dropoff address? <emotion value="apologetic"/>
+CALLER: One two two six
+AGENT: Could you please provide the street name or location for the dropoff address along with the number one two two six? <emotion value="peaceful"/>
+CALLER: six. Rockville pike
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

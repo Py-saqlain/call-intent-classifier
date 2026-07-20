@@ -1,0 +1,11 @@
+AGENT: Hello Domine, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I want to order a ten
+AGENT: Thanks for letting me know. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: tomorrow morning service One gigawatt.
+AGENT: I have your pickup as one gigawatt tomorrow morning. How would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I want to talk to an agent.
+AGENT: I can help with your booking details — would you like to continue?
+CALLER: I want to talk to an agent
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

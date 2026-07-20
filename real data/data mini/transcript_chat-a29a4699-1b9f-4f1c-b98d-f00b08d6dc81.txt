@@ -1,0 +1,8 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: On both.
+AGENT: Could you please tell me your name so I can assist you with your ride?
+CALLER: Bamboo.
+AGENT: Thanks, Bamboo. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Customer service.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+AGENT: Take your time. Just let me know when you're ready.

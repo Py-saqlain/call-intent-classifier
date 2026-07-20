@@ -1,0 +1,48 @@
+AGENT: Hello Lucy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like a car to take me up to the Safeway.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: One three zero one zero. Shadyside Lane.
+AGENT: Okay, so I have one three zero one zero Shadyside Lane. Could you please tell me the city and state for this address?
+CALLER: Germantown.
+AGENT: And the state, please?
+CALLER: Germantown, Maryland
+AGENT: Okay, so I found the pickup address as one three zero one zero Shadyside Lane, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found a few Safeway locations. 
+Option one: 1 9 7 1 8 Germantown Road, Germantown. 
+Option two: 2 0 2 1 1 Goshen Road, Gaithersburg. 
+Which one would you like to go to? <emotion value="hesitant"/>
+CALLER: To Emmontown.
+AGENT: Uh, I am sorry, but I didn't quite catch that. Could you please specify if you want the Safeway on Germantown Road in Germantown or the one on Goshen Road in Gaithersburg? <emotion value="hesitant"/>
+CALLER: The one on Germantown Road in Germantown.
+AGENT: Your dropoff address has been verified, Lucy.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay, I've got your pickup time as today at 7:10 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One passenger. No wheelchair.
+AGENT: Okay great! I've got that noted. Do you have any special instructions or requests for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 7.5 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: In an hour after they dropped me off.
+AGENT: Got it. What time would you like to be picked up for your return trip? You can specify an exact time or say something like "2 hours after my first trip." <emotion value="peaceful"/>
+CALLER: One hour after my first trip,
+AGENT: Okay, for your return trip, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One
+AGENT: Thanks for that. Will you need a wheelchair-accessible vehicle for your return trip? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: For your return trip, I have the pickup at one nine seven one eight Germantown Road, Germantown, Maryland, and the dropoff at one three zero one zero Shadyside Lane, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 7.5 dollars, paying with your self account. Should I go ahead and book both trips? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay so <break time="250ms"/> I'm booking both trips for you now. <emotion value="grateful"/>
+AGENT: I'm processing your booking for both trips now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 7:10 PM with confirmation number 2 1 3 6 7 3 6 4 7. Your return trip is scheduled for today at 8:10 PM with confirmation number 2 1 3 6 7 3 6 4 8. Is there anything else I can help you with?
+CALLER: Oh, 08:10 is too soon because your driver is not gonna get here right now. So that's at least fifteen minutes. So that will be 08:25, and then they have to drop me off So you have to make that for, like, 08:30.
+AGENT: I understand you'd like to adjust your return trip pickup to 8:30 PM instead of 8:10 PM. Let me connect you to the booking team who can help update that for you.
+AGENT: I can't contact the driver directly to adjust the time, but I can connect you with a representative who can help with that. Let me transfer you now.
+CALLER: Alright.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Okay.

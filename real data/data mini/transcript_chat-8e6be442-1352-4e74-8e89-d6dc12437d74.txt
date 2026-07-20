@@ -1,0 +1,17 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Victoria.
+AGENT: Thank you, Victoria. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Pickup. I need a pickup at 1600 Ring Road, Landover, Maryland.
+AGENT: Alright, Victoria, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Card.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, Victoria, I have the pickup address as one six zero zero Ring Road, Landover, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Alright. Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Thank you.
+AGENT: You're welcome. Could you please tell me the destination or dropoff address for your ride? <emotion value="peaceful"/>
+CALLER: Three zero zero eight Early Harvest Avenue.
+AGENT: Thank you, Victoria. Let me check that address. <emotion value="peaceful"/>
+AGENT: I couldn't find 3008 Early Harvest Avenue. Could you please provide the city and state for that address? <emotion value="apologetic"/>
+CALLER: Upper Marlboro, Maryland.
+AGENT: I still couldn't locate 3008 Early Harvest Avenue, Upper Marlboro, Maryland. Could you please confirm if the street number or street name might be different, or provide any nearby landmarks? <emotion value="apologetic"/>

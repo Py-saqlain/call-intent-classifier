@@ -1,0 +1,11 @@
+AGENT: Hi Karen, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello? I'm at the Giant on six twenty five Ongleford Drive, Rockville, Maryland I'm trying to go home.
+AGENT: Thank you for letting me know your pickup location is the Giant at 6 2 5 Ongleford Drive in Rockville, Maryland, and your destination is home. I will use your saved home address for the dropoff. Let me process this ride request for you.
+AGENT: Looks like you already have trips scheduled from 709 Lenmore Avenue to 5544 Norbeck Road at 10:30 AM tomorrow, and later at 3:15 PM, plus several more. What would you like
+CALLER: No.
+AGENT: Could you please let me know if you want to check
+AGENT: Take your time. Just let me know when you're
+CALLER: I would like a I would like to I'm at grocery shopping Just grocery shopping. Hello? Can you hear me, ma'am?
+AGENT: I’m here and ready to help whenever you’re ready. Just let me know what you’d like to do next.
+CALLER: I'm ready. Yeah.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

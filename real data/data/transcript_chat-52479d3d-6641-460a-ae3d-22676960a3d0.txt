@@ -1,0 +1,28 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Dylan Anderson.
+AGENT: Thanks, Dylan. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Taxi cab, please.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your taxi cab? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Card. Card. Card. Card. Card.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your taxi cab? <emotion value="peaceful"/>
+CALLER: Ninety eight hundred Martin Luther King Avenue, Maryland.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 9 8 0 0 Martin Luther King
+CALLER: Or Martin Luther King Junior Highway.
+AGENT: Okay, so I found 9 8 0 0 Martin Luther King Junior Highway, Lanham, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Eight. Zero two one Georgia Avenue Northwest,
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I couldn't find an exact match for 8 0 2 1 Georgia Avenue Northwest. The closest location I found is 3 5 0 6 Georgia Avenue Northwest, Washington, District of Columbia. Is that the correct dropoff address? <emotion value="hesitant"/>
+CALLER: Yeah. That's fine. That's fine. That's fine. That's That's fine. That's good.
+AGENT: Okay, so I found 3 5 0 6 Georgia Avenue Northwest, Washington, District of Columbia. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Dylan.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now. My phone's gonna die. Please now.
+AGENT: Okay great! <emotion value="grateful"/> I've got your pickup time as now. Alright, soo <break time="300ms"/> how many passengers will be traveling, including yourself? And will anyone need a
+CALLER: Two. Two No. Two.
+AGENT: Okay great! <emotion value="grateful"/> I've got 2 passengers and no wheelchairs. Do you have any special instructions for the driver?
+CALLER: No. Why? Because that's why they called to see my mom left. What time is it?

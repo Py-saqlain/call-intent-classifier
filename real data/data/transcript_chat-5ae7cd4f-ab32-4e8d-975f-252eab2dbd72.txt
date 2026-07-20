@@ -1,0 +1,81 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Tammy Howard, Good luck, darling. Yeah. They're both together. Yeah. She said and. Hello?
+AGENT: Thanks, Tammy. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Schedule ride
+AGENT: Alright, Tammy, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Tammy, could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Do you have the address One four four three one Chevelle Gardens Circle, Upfield, New York. Address.
+AGENT: Hmm <break time="350ms"/> let me check that address. One four four three one Chevelle Gardens Circle, Upfield, New York is
+CALLER: No.
+AGENT: Okay, Tammy, could you please provide the correct pickup address again? <emotion value="peaceful"/>
+CALLER: One four four three one Tridel Gargans Circle, Rockdale, Maryland.
+AGENT: Uh, I am sorry, but could you please provide the street number for Tridel Gargans Circle in Rockdale, Maryland? Or if you have a nearby landmark or business, that might help. <emotion value="apologetic"/>
+CALLER: One.
+AGENT: Thank you. Could you please say the full pickup address again, including the street number and street name? <emotion value="peaceful"/>
+CALLER: One one four four three one Jeville Gardens Circle.
+AGENT: Hmm <break time="350ms"/> let me check that address. One one four four three one Jeville Gardens Circle. Is that correct?
+CALLER: One one. No. Not right.
+AGENT: Okay, Tammy, could you please repeat the correct street name for your pickup address? <emotion value="peaceful"/>
+CALLER: One four four three one Treville Gardens Circle.
+AGENT: Okay, so I found 1 4 4 3 1 Traville Gardens Circle, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please tell me the dropoff address? <emotion value="peaceful"/>
+CALLER: Okay. Just a minute. Would you give me that number? I don't have my glasses on. Hold on.
+AGENT: Take your time, Tammy. Whenever you're ready, just let me know the dropoff address. <emotion value="peaceful"/>
+CALLER: Can you read it to me?
+AGENT: I’m here to help with your ride details, Tammy.
+CALLER: Hold on. Where I
+AGENT: Whenever you’re ready, Tammy, please tell
+CALLER: One zero zero six zero I can't I'm trying to. No. It's yeah. One zero zero six six six Darnstown Road,
+AGENT: Hmm <break time="350ms"/> let me check that address. One zero zero six six six Darnstown Road. Is that
+CALLER: One six six.
+AGENT: Okay, so the address is one zero
+CALLER: No. No. One zero zero six six Barnstown Road,
+AGENT: Okay, Tammy, could you please confirm the full dropoff address again, including the street number and street name? <emotion value="peaceful"/>
+CALLER: One zero zero six six. Dawnstown Road, Rockville, Maryland.
+AGENT: Okay, so I found 1 0 0 6 6 Darnestown Road, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: That's correct.
+AGENT: Your dropoff address has been verified.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Tell her you need a wheelchair. I need a wheelchair. You're gonna have to get me to send that.
+AGENT: Thanks
+CALLER: 10:00.
+AGENT: Just to confirm, you mean 10:00 AM for your pickup time? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time set for today at 10:00 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers
+CALLER: Need a two passengers one in a wheelchair.
+AGENT: Alright, so let me confirm those details. Your pickup is 1 4 4 3 1 Traville Gardens Circle. Your dropoff is 1 0 0 6 6 Darnestown Road. Pickup time is 10:00 AM. You have two passengers, one of whom will need a wheelchair. The estimated fare is 7 dollars, paying with a credit card. Would you like to schedule a return trip as well? <emotion
+CALLER: It's
+AGENT: Just to clarify, were you about to say something about scheduling a return trip, or did you want to update any details before we proceed? <emotion value="peaceful"/>
+CALLER: I return trip. Seven hour.
+AGENT: Just to clarify, are you booking a return trip back to 1 4 4 3 1 Traville Gardens Circle, or is the trip we just set up your return journey? <emotion value="peaceful"/>
+CALLER: Right. And return. Journey. Challenges Travel Garden. We need a return trip.
+AGENT: Thank you for confirming you want a return trip. When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: Well, the dog is at the vet. I don't know. Should we say, what, eleven? Eleven? O'clock AM.
+AGENT: Okay, I've set your return trip pickup time for today at 11:00 AM and noted that your dog is at the vet. <emotion value="grateful"/> Alright, soo <break time="300ms"/> how many passengers will be traveling on the return trip, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Cheese. Yes. Two passengers, one wheelchair.
+AGENT: Got it. Just to confirm, for your return
+CALLER: Will you make can ma'am. Can you transport the dog with us?
+CALLER: To the vet.
+AGENT: I want to make sure I understand correctly, Tammy. You would
+CALLER: So on the trip to the vet, we need
+AGENT: I want to make sure I understand correctly, Tammy. You would like to bring your dog with you on the trip to the vet, is that right? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Thank you for confirming, Tammy. I have noted that you will be traveling with your dog on the trip to the vet. <emotion value="grateful"/>
+CALLER: A little teeny dog.
+AGENT: Thank you for sharing that, Tammy. I’ve made a note that you’ll be traveling with a small dog. <emotion value="grateful"/>
+CALLER: Is there anything else
+AGENT: If you have any other details or questions about your trip, feel free to let me know, Tammy.
+CALLER: Okay. Everything's fine.
+AGENT: Thank you, Tammy. I’m passing your details along now.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready.
+AGENT: Great! Please tell me the dropoff address for your ride.
+CALLER: We just told it to you.
+AGENT: I understand, Tammy. To make sure I have it correctly, could you please confirm the dropoff address once more?
+CALLER: For the trip there, one zero zero six six Garnstown Road,
+AGENT: Hmm <break time="350ms"/> let me check that address. One zero zero six six Garnstown Road.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: They're gonna call

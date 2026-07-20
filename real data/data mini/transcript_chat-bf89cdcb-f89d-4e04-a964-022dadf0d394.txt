@@ -1,0 +1,13 @@
+AGENT: Hi Marian, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Are we doing? I really need somebody to talk to. Why is this robot talking?
+AGENT: I'm here to help you as best as I can. If you'd prefer to speak with a live person, I can connect you to one right away. Would you like me to do that?
+CALLER: We just wanna see if our if our taxi is gonna hear.
+CALLER: See when is the tax what time is the taxi coming?
+AGENT: I don't see an active trip scheduled for you right now. Would you like me to help you book a taxi?
+CALLER: Cool. We have it we have it from yesterday. We have it 01:30. Pickup, please. Three zero zero five.
+AGENT: Just to confirm, you want a pickup tomorrow at 1:30 pm
+CALLER: What did you do? You did what what happened?
+AGENT: I’m just making sure I have your pickup time right
+CALLER: No. Today. Today. Oh, can can I speak to a live person? Can you can I speak to a live person?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: No. No. We didn't.

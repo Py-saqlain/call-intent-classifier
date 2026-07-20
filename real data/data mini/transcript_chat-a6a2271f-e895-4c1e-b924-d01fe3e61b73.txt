@@ -1,0 +1,21 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Christine Simms?
+CALLER: Yes.
+AGENT: Thanks for confirming, Christine. This is Barwood & Regency. How can I assist you today?
+CALLER: I need, um, who am I speaking with, please?
+AGENT: Uhh, this is Ana with Barwood and Regency. How can I assist you today? <emotion value="peaceful"/>
+CALLER: Okay. I wasn't sure. Thank you. AI. Anna, I'd like to make going to one one zero one five West Avenue, Kensington, Maryland.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I said I would like to make call and ride.
+AGENT: Okay so <break time="300ms"/> you would like to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yes, Anna.
+AGENT: Hmmm.. <break time="300ms"/> I didn't catch the last six digits of your Call and Ride card. Could you please say those digits for me? <emotion value="apologetic"/>
+CALLER: 00038510.
+AGENT: Hmmm.. <break time="300ms"/> that didn't seem right, could you try again with just the last six digits of your Call and Ride card? <emotion value="apologetic"/>
+CALLER: Zero zero zero three eight. Five one zero. So this is a AI. Customer service.
+AGENT: Hmmm.. <break time="300ms"/> that sounded like eight digits. I only need the last six digits of your Call and Ride card. Could you please say just those six digits? <emotion value="apologetic"/>
+CALLER: Zero agent.
+AGENT: Hmmm.. <break time="300ms"/> I didn't quite get that. Could you please say the last six digits of your Call and Ride card again? <emotion value="apologetic"/>
+CALLER: 00038510.
+AGENT: Hmmm.. <break time="300ms"/> that still sounds like eight digits. The last six digits only, please. Could you try again? <emotion value="apologetic"/>
+CALLER: Can I speak to customer service?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,38 @@
+AGENT: Hi Michael, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to order a taxi.
+AGENT: Thank you for choosing us for your ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Card.
+AGENT: Great, we'll use your credit card for payment.
+AGENT: Could you please tell me the pickup address for your taxi?
+CALLER: Rockville Station.
+AGENT: I found a few locations for Rockville Station:
+
+1. Rockville MARC/Amtrak Station, Rockville, Maryland
+2. 251 Hungerford Drive, Rockville, Maryland
+3. Rockville Station Kiss & Ride at 251 Hungerford Drive, Rockville, Maryland
+4. 307 South Stonestreet Avenue, Rockville, Maryland
+
+Which one would you like to use for your pickup?
+CALLER: Kitchen ride.
+AGENT: Could you please clarify or provide more details about the pickup location? I want to make sure I get the correct address for you.
+CALLER: Station
+AGENT: Just to confirm, are you referring to the Rockville MARC/Amtrak Station in Rockville, Maryland for your pickup?
+CALLER: Yeah. Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: 14209 Georgia Avenue.
+AGENT: I have 1 4 2 0 9 Georgia Avenue, Silver Spring, Maryland as the dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Michael.
+AGENT: When would you like to be picked up?
+CALLER: Right now.
+AGENT: How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Only one.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare for your trip from Rockville to 1 4 2 0 9 Georgia Avenue is 16 dollars and 50 cents, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Okay, I will proceed with booking just the one-way trip for you.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 11:13 PM. Your confirmation number is 2 1 3 6 6 5 2 3 5. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Michael. Have a wonderful day.

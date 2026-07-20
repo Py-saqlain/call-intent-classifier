@@ -1,0 +1,28 @@
+AGENT: Hi Kristen, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Book a taxi.
+AGENT: Thank you for choosing us for your ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please tell me the pickup address for your taxi?
+CALLER: Six one zero one Wilson Lane, Maryland.
+AGENT: I have 6 1 0 1 Wilson Lane, Bethesda, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: 10029 Gable Manor Court, Potomac, Maryland.
+AGENT: I have 1 0 0 2 9 Gable Manor Court, Potomac, Maryland as your dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, Kristen. I will now proceed with your booking.
+AGENT: When would you like to be picked up?
+CALLER: 03:30PM.
+AGENT: Got it, your pickup time is today at 3:30 PM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One person.
+AGENT: Thank you. Will you be needing a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: You will be picking up my son at the main gate of Landon School.
+AGENT: The estimated fare for your trip is 19.5 dollars, paying with a credit card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 3:30 PM. Your confirmation number is 2 1 3 6 7 9 5 7 0. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Kristen. Have a wonderful day.

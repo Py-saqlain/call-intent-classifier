@@ -1,0 +1,16 @@
+AGENT: Hello Eilyn, this is Ana with Barwood & Regency. Vehicle 665 has arrived at your pickup location. How can I assist you today?
+CALLER: Okay. What what time what time pickup?
+AGENT: Uhh, could you please tell me what time you'd like to be picked up? <emotion value="peaceful"/>
+CALLER: Yeah. The pickup, The the transportation right here in the Baltimore.
+AGENT: Looks like you already have a trip from Baltimore to Takoma Park at today 5:00 PM. What would you like to do? <emotion value="grateful"/>
+CALLER: Yeah. I wait the transportation. In the in the burtimore. I need go to my house in Takoma Park.
+AGENT: Okay, so your driver is currently at the pickup location in Baltimore, ready to take you to your house in Takoma Park. Is there anything else I can help you with? <emotion value="content"/>
+AGENT: Okay, your driver is currently at the pickup location in Baltimore and ready to take you to your house in Takoma Park. Is there anything else I can assist you with? <emotion value="content"/>
+CALLER: What time? Pickup.
+AGENT: Your pickup time is today at 5:00 PM. Would you like me to help with anything else? <emotion value="peaceful"/>
+CALLER: But do I hear the tapping the pipe no. No. No. I know here in the the touch it on here in the Baltimore.
+AGENT: Uhh, I want to make sure I understand you correctly. Are you saying you are at the pickup location in Baltimore now and waiting for your ride? <emotion value="peaceful"/>
+CALLER: I wait.
+AGENT: Okay, I see you are waiting at the pickup location in Baltimore. Your driver is there now and should be with you shortly. Is there anything else I can do for you? <emotion value="content"/>
+CALLER: What time? Pickup.
+AGENT: Your pickup time was scheduled for today at 5:00 PM. Is

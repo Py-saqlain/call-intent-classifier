@@ -1,0 +1,56 @@
+AGENT: Hi Tamika, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cap.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Caller one. Colorway. Call a ride.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Great, could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero one zero nine two three.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Get Doris Avenue.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I'm sorry, but Get Doris Avenue appears to be outside our service area. Could you please provide a different pickup address within Montgomery County, D C, or Northern Virginia? <emotion value="apologetic"/>
+CALLER: Dorvis Avenue, West Constant Avenue,
+AGENT: Hmm <break time="350ms"/> let me check that address. Could you please confirm if you meant Dorvis Avenue or West Constant Avenue as your pickup location? <emotion value="hesitant"/>
+CALLER: 5708 Wisconsin Avenue.
+AGENT: Okay, 5 7 0 8 Wisconsin Avenue. <emotion value="peaceful"/> Let me check that address for you.
+AGENT: I couldn't find 5708 Wisconsin Avenue. Could you please provide the full street address including the city and state? <emotion value="apologetic"/>
+CALLER: Sixty seven zero seven West Compton Avenue,
+AGENT: Okay, 6 7 0 7 West Compton Avenue. <emotion value="peaceful"/> Let me check that address for you.
+AGENT: I couldn't find 6 7 0 7 West Compton Avenue. Could you please provide the city and state for that address? <emotion value="apologetic"/>
+CALLER: 6708 Wisconsin Avenue.
+AGENT: Okay, 6 7 0 8 Wisconsin Avenue. <emotion value="peaceful"/> Let me check that address for you.
+AGENT: Okay, I found 6 7 0 8 Wisconsin Avenue, Chevy Chase, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Fifty seven zero eight. Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: The dropoff address is
+AGENT: Could you please tell me the dropoff address for your ride? <emotion value="peaceful"/>
+CALLER: Just a second.
+AGENT: Take your time. Whenever you're ready, please provide the dropoff address. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Jeremy eight zero nine seventy eight zero nine Wisconsin Avenue, Bethesda, Maryland two zero eight one four.
+AGENT: Okay, 8 0 9 7 8 0 9 Wisconsin Avenue, Bethesda, Maryland. <emotion value="peaceful"/> Let me check that address for you.
+AGENT: I couldn't find an exact match for 8 0 9 7 8 0 9 Wisconsin Avenue, Bethesda, Maryland. Did you mean 7 8 0 9 Wisconsin Avenue, Bethesda, Maryland 2 0 8 1 4? <emotion value="hesitant"/>
+CALLER: Say it again. Add my. Right?
+AGENT: Sure, I said: Did you mean 7 8 0 9 Wisconsin Avenue, Bethesda, Maryland 2 0 8 1 4? Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. What's the First time. Back there.
+AGENT: Okay, I found 7 8 0 9 Wisconsin Avenue, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: I don't wanna hear. Yes.
+AGENT: Your dropoff address has been verified, Tamika.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay, I've got your pickup time as today at 3:45 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Four.
+AGENT: Thank you. Will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Four. No. Door.
+AGENT: Alright, the estimated fare is 6.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Great, I'll start collecting the details for your return trip now. <emotion value="peaceful"/>
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No. Customer service.
+AGENT: Your main trip is scheduled for today at 3:45 AM. Your confirmation number is 2 1 3 6 7 4 4 9 3. Is there anything else I can help you with?
+CALLER: Customer service.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today? <emotion value="peaceful"/>
+CALLER: Customer service agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

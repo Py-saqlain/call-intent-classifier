@@ -1,0 +1,10 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Njideka Odiana?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Neither wheelchair accessible tab.
+AGENT: I want to make sure I understand you correctly. Are you saying neither profile is wheelchair accessible, or are you referring to something else? Could you please clarify?
+CALLER: I I need a wheelchair accessible cab.
+AGENT: Thank you for letting me know. I will make sure to note that you need a wheelchair accessible cab. Before we proceed, can you please confirm if you are Njideka Odiana?
+CALLER: Now
+AGENT: Thanks, Njideka. This is Ana from Barwood & Regency. Your pickup is scheduled for today at 7:52 AM. I see you need a wheelchair accessible cab. How can I assist you further with your ride?
+CALLER: That's all. That's all.
+AGENT: Thank you for calling Barwood & Regency, Njideka. Have a wonderful day.

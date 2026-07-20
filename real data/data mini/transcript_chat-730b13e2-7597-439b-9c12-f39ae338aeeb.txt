@@ -1,0 +1,10 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Duck Donald?
+CALLER: No.
+AGENT: Thank you for letting me know. May I ask who I’m speaking with today? You can also tell me if you’d like me to list the names I have on this number.
+CALLER: Metro access.
+AGENT: I can help with rides, trip status, or cancellations here. Since you mentioned Metro Access, if you want to speak with a live agent, I can connect you right away. Would you like me to do that?
+CALLER: Yes.
+CALLER: Agent
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

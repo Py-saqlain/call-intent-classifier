@@ -1,0 +1,22 @@
+AGENT: Hello, Loretta. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to get a a cab pickup at 10:15 this morning.
+AGENT: I can help with that. Could you please tell me the pickup address and the destination for your cab ride?
+CALLER: Pickup address, one two eight one five Fairchild Drive, Germantown, two zero eight seven four, Maryland.
+AGENT: Thank you for the pickup address. Where would you like to go?
+CALLER: I'm going to
+AGENT: I didn't catch your destination. Could you please tell me where you are going?
+CALLER: One nine two
+AGENT: Could you please complete the destination address starting with one nine two?
+CALLER: I see
+AGENT: I want to make sure I have your destination address correctly. Could you please provide the full address or location you want to go to?
+CALLER: One nine two zero one
+AGENT: Could you please provide the full street name and city for the destination address starting with one nine two zero one?
+CALLER: one zero one field drive
+AGENT: Just to confirm, is your destination address 1 9 2 0 1 Woodfield Road, Gaithersburg, Maryland, or did you mean 1 0 1 Field Drive somewhere else? Could you please clarify the full destination address?
+CALLER: Woodfield Drive.
+AGENT: Thank you for confirming the destination address. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Great! Could you please provide the last six digits of your Call and Ride card?
+CALLER: May I please speak to a person
+CALLER: Hello? May may I please speak to a person
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

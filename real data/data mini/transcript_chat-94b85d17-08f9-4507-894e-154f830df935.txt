@@ -1,0 +1,13 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Ready.
+AGENT: Great! What name should I use to set up your profile?
+CALLER: Hello? Yeah. This is some wicked shit. Where can we come on the phone?
+AGENT: I’m here to help you with Barwood & Regency rides. Could you please tell me your name so I can set up your profile?
+CALLER: How would you start this? Get his first
+AGENT: I’m sorry, I didn’t quite catch that. Could you please tell me your first name?
+CALLER: not adventures. I've never been through this before. I'm still waiting. I would never come back to. This is sad. Check with him. I thought you say you spend a check now. No. You get a free Uber.
+AGENT: I understand this is new for you, and I’m here to help with your ride. To get started, could you please tell me your first name? That way, I can set up your profile and assist you better.
+CALLER: What? I get a free Uber. I would do.
+AGENT: I’m here to assist you with Barwood & Regency rides. To help you with a ride, I’ll need your first name to set up your profile. Could you please tell me your name?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

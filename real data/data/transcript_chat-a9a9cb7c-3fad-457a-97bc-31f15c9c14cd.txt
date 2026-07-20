@@ -1,0 +1,48 @@
+AGENT: Hello Sean, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello? Who are you Hello?
+AGENT: Hi there! How can I assist you with your ride today?
+CALLER: How long is the wait?
+AGENT: You don't have any active trips right now. Would you like me to help you book a ride?
+CALLER: Yeah. Yes.
+AGENT: Thank you for confirming. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Great, we'll use cash for your payment.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Eleven eleven University Boulevard West.
+AGENT: I have 1 1 1 1 University Boulevard West, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Nine four four zero Georgia Avenue, Silver Spring, Maryland.
+AGENT: I have 9 4 4 0 Georgia Avenue, Silver Spring, Maryland as your dropoff address. Is that correct?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified. Thank you, Sean. I will now proceed with your booking.
+AGENT: When would you like to be picked up?
+CALLER: Now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. One.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: Call went downstairs.
+AGENT: Sean, the estimated fare for your trip is 11 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Thirty minutes after dropoff.
+AGENT: For your return trip, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One. No. One person.
+AGENT: For your return trip, I have the pickup as 9 4 4 0 Georgia Avenue, Silver Spring, and the dropoff as 1 1 1 1 University Boulevard West. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 11 dollars, paying with cash. Should I go ahead and book both trips for you?
+CALLER: Yes.
+AGENT: Thank you, Sean. I am now booking both your trips.
+AGENT: Your main trip is scheduled for today at 7:09 PM with confirmation number 2 1 3 6 7 8 5 5 5. Your return trip is scheduled for today at 7:39 PM with confirmation number 2 1 3 6 7 8 5 5 6. Is there anything else I can help you with?
+CALLER: So
+AGENT: Yes? Please let me know how I can assist you further.
+CALLER: I said no.
+AGENT: I am processing your booking now. Please hold on a moment.
+AGENT: Your trips are already booked with confirmation numbers 2 1 3 6 7 8 5 5 5 for the main trip and 2 1 3 6 7 8 5 5 6 for the return trip. Is there anything else I can assist you with?
+CALLER: Yeah.
+AGENT: Please let me know what else you need help with.
+CALLER: The pickup time needs to be changed.
+AGENT: I understand you'd like to change the pickup time for your trip. Trip modifications need to be handled by a live agent. Let me connect you with someone who can
+CALLER: Yeah.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+AGENT: I've hit a limitation on my end, so I'll

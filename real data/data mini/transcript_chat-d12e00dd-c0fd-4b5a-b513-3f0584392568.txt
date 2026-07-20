@@ -1,0 +1,9 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Hello?
+AGENT: Hi there! This is Ana with Barwood & Regency. Could you please tell me your name?
+CALLER: No.
+AGENT: I understand. If you’d like, I can connect you to a live agent who can assist you further. Would you like me to do that?
+CALLER: Yes. Yeah. Hello? Yeah.
+CALLER: Hello? Yes. Hello? Hello?
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thanks.

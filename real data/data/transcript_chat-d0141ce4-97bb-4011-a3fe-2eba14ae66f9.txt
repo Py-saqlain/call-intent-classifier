@@ -1,0 +1,58 @@
+AGENT: Hello Mary, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Okay. I'm at the seven nine five five takoma then
+AGENT: Alright,
+CALLER: Bethesda, Maryland, and I'm going to eight eight zero nine Mary Mead Court Potomac, Maryland.
+AGENT: Thanks for sharing your pickup and dropoff locations. Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Mhmm. Cash.
+AGENT: Okay so I've got that payment noted as cash.
+AGENT: Hmm, I
+CALLER: Mhmm.
+AGENT: Uh, I am sorry, but could you please provide the full street number and street name for your pickup location?
+CALLER: Pickup location is seven nine five five Hakoyman Lane, it is Maryland
+AGENT: Okay, let me check that address
+CALLER: And I'm going to uh-huh, Yeah.
+AGENT: Okay, I found the address as seven nine five five
+CALLER: Seven nine five five.
+AGENT: Yes, seven nine five five Tuckerman Lane, Potomac, Maryland. Is that correct?
+CALLER: Right.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Eight eight zero nine Mary Mead Port
+AGENT: Could you please confirm the full dropoff address? Is it eight eight zero
+CALLER: to Tomok, Maryland.
+AGENT: Okay, just to confirm, is your dropoff address eight eight zero nine Mary Mead Court, Potomac, Maryland?
+CALLER: Also, pickup address is either Rockville or Potomac. It's the same thing. So seven nine five five Tokoma Lane, Potomac, Maryland or Rockville, Maryland. Same thing. Rockville, Potomac is same.
+AGENT: Hmm, let me check that address for you.
+AGENT: Okay, I found the address as seven nine five five Tuckerman Lane, Potomac, Maryland. Is that correct?
+CALLER: Mhmm. Mhmm. Yeah. Put them on all Rockville. It's the same thing. Potomac and Rockville, same thing.
+AGENT: Your pickup address has been verified as seven nine five five Tuckerman Lane, Rockville, Maryland. Now, could you please provide the destination or dropoff address?
+CALLER: Eight eight zero nine Mary Lee Court,
+AGENT: Could you please confirm the full
+CALLER: Potomac, Maryland.
+AGENT: Okay, I found the dropoff address as eight eight zero nine Mary Mead Court, Potomac, Maryland. Is that correct?
+CALLER: Okay.
+CALLER: Correct.
+AGENT: Your dropoff address has been verified. Thank you, Mary.
+AGENT: When would you like to be picked up?
+CALLER: Mhmm. Okay.
+AGENT: Could you please tell me what time you would like to be picked up?
+CALLER: I'm waiting now. I'm waiting now.
+AGENT: Got it, you
+CALLER: Would you please send that as soon as possible, please?
+AGENT: Okay, I've noted your pickup time as soon as possible. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a
+CALLER: Mhmm. Just one. Me. Only me.
+AGENT: Okay great! I've got that noted. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: Mhmm. No. No. No. No. Nothing.
+AGENT: Okay, I've noted that no wheelchair accessible vehicle is needed. Do you have any special instructions or requests for the driver?
+CALLER: No. No. No. No special instructions. No.
+AGENT: Alright, the estimated fare is 12 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion
+CALLER: Mhmm. Mhmm. No. No. That was the last destination.
+AGENT: Thank you for the information. I am processing your booking now.
+AGENT: Your
+CALLER: Mhmm. Mhmm.
+AGENT: Your main trip is scheduled for today at 4:09 PM. The confirmation number is 2 1 3 6 7 6 1 3 8. Is there anything else I can help you with?
+CALLER: No. I'm waiting. Would you please send that
+AGENT: I have your trip confirmed and the driver will be dispatched as scheduled. If you need any further assistance or updates, just let
+CALLER: as soon as possible, please?
+AGENT: Your trip is already scheduled for as soon as possible, today at 4:09 PM. The driver
+CALLER: No. No. No. I okay. Alright.
+AGENT: Thank you for calling Barwood & Regency, Mary. Have a wonderful day.

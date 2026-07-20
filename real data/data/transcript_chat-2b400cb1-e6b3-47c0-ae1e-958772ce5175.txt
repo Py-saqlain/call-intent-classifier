@@ -1,0 +1,19 @@
+AGENT: Hello, andre. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Yeah. I wanna cab to take me to the, uh, store right at the street from here.
+AGENT: Thanks for letting me know about your trip to the store. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: paid K.
+AGENT: Just to make sure, did you mean cash for your payment?
+CALLER: K. Yes.
+AGENT: Thank you for confirming cash as your payment method.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Seventy eight thirty four Scott Lane Drive. From America.
+AGENT: I have 7 8 3 4 Scotland Drive, Potomac, Potomac, Maryland as your pickup address. Is that correct?
+CALLER: There's only one batoma there. One batoma. Gotta take one out.
+AGENT: Thanks for clarifying. Could you please provide the correct pickup address again?
+CALLER: Oh, seventy eight thirty four Scotland Drive, October,
+AGENT: I have 7 8 3 4 Scotland Drive, Potomac, Maryland as your pickup address. Is that correct?
+CALLER: Correct. Correct.
+AGENT: The store location you mentioned appears to be outside our service area. Could you please provide a different destination address?
+CALLER: It's still on this one one something. It's it's it's
+AGENT: Could you please provide the street number or any other details for the store location so I can find the correct address for you?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

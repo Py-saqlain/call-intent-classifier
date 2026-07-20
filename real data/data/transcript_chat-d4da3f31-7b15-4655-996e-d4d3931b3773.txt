@@ -1,0 +1,67 @@
+AGENT: Hello Ronalis, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Good evening. I would like to look at taxi for tomorrow morning. Early morning.
+AGENT: Alright, how would you like to pay for your ride tomorrow morning? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: To get started, could you please tell me the pickup address for your ride tomorrow morning? <emotion value="peaceful"/>
+CALLER: Oh oh, hold on. Hold on, please. Okay. Now for you, I need to take the other test. Too.
+AGENT: I want to make sure I understand correctly. Are you saying you need a ride to a testing location? If so, could you please provide the
+CALLER: Yes. Right. Yeah. Where I pick up from fifteen four hundred Bassett Lane apartment three e, Silver Spring, Maryland two zero nine zero six.
+AGENT: Okay, so your pickup address is 1 5 4 0 0 Bassett Lane, apartment 3 E, Silver Spring, Maryland. Let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so I have your pickup as one five four zero zero Bassett Lane, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. It is correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address for your ride? <emotion value="peaceful"/>
+CALLER: Two one. It's nine seven one one Sky Hill Way, Rockville Netherlands, two zero eight five. Zero.
+AGENT: Just to confirm, your dropoff address is two one nine seven one one Sky Hill Way, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: No. It's nine seven one one. Skyhill Way.
+AGENT: Thank you for the correction. So your dropoff address is nine seven one one Skyhill Way, Rockville, Maryland. Let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so your dropoff address is nine seven one one Skyhill Way, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. It is.
+AGENT: Your dropoff address has been verified. Thank you, Ronalis.
+AGENT: You mentioned you want to be picked up tomorrow morning. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time set for tomorrow at 8:00 AM. <emotion value="grateful"/>
+CALLER: Time time of pickup.
+AGENT: Your pickup time is set for tomorrow at 8:00 AM. Now, soo <break time="300ms"/> so how many
+CALLER: No. No. No. No. No. No. No. No. No. No. No. No. No. No. Not 8AM. Sorry. Hello? Hello?
+AGENT: Hmm <break time="300ms"/>
+CALLER: Hello?
+AGENT: I
+CALLER: Hello?
+AGENT: I see you want a different pickup time than 8 AM tomorrow. Could you please tell me the exact time you would like to be picked up tomorrow morning? <emotion value="hesitant"/>
+CALLER: Yeah. Sure. It's five six five five forty. AM. Sorry. Four sorry. Sorry. 04:40. 04:40AM.
+AGENT: Okay, just to confirm, you want to be picked up tomorrow at 4:40 AM, correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay great! I've got your pickup time set for tomorrow at 4:40 AM. <emotion value="grateful"/> Now, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. Three people.
+AGENT: Okay great! I've got three passengers and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Not really. Thank you.
+AGENT: Alright, the estimated fare is 30.5, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: How much? How much is the money? Hello? How much is the payment? Did you say that it $35?
+AGENT: The estimated fare for your trip is $30.5. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: We'd like to to do that, but we have no what time we'd be back.
+AGENT: No problem. You can decide
+CALLER: We need a ride back. We have not no. We don't know how what how late would they coming back.
+AGENT: Just to clarify, would you like to book a return trip now with an open will-call time, so you can call when you're ready for the ride back? Or would you prefer to schedule a specific return time now? <emotion value="peaceful"/>
+CALLER: Yes. No. We'll call
+AGENT: Okay, so your return trip will be a will-call, meaning you can call when you're ready for the ride back. The
+CALLER: we don't know what time we'll be back. Yep.
+AGENT: Okay, so your return trip
+CALLER: The pickup place will be ninety seven ninety seven Sorry?
+AGENT: Just to confirm, for your return trip pickup, did you mean 9 7 1 1 Skyhill Way? <emotion value="peaceful"/>
+CALLER: Yes. We'll be coming back from there. Yes.
+AGENT: Great, I have your return trip pickup as 9 7 1 1 Skyhill Way. The dropoff will be your original pickup location at 1 5 4 0 0 Bassett Lane. <emotion value="peaceful"/> Should I go ahead and book both trips for you now?
+CALLER: No. No. The the the the return one will call because we we we know what time we are going to be back.
+AGENT: Okay, so just to confirm, you want the return trip to be will-call, so you will call when you're ready for the ride back, and you don't want to schedule a specific return time now? <emotion value="peaceful"/>
+CALLER: Yep. No.
+CALLER: Thank you.
+AGENT: Your main trip is scheduled for tomorrow at 4:40 AM with confirmation number 2 1 3 6 7 3 5 9 6. Your return trip is a will-call
+CALLER: Two one two one three Can you repeat the confirmation number, please?
+AGENT: Certainly. For the main trip, the confirmation
+CALLER: Hello?
+AGENT: Could you please let me know if you want me to repeat the confirmation number for the main trip, the return trip, or both?
+CALLER: Yes.
+AGENT: For the main trip, the confirmation number is 2 1 3 6 7 3
+CALLER: They they
+AGENT: For the return trip, the confirmation number is 2 1 3 6 7 3 5 9 7. Is there anything else I can help you with?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

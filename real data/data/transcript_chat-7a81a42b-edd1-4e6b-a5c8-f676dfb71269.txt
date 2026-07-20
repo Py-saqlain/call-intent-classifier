@@ -1,0 +1,26 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: What is your name? She she call she call the taxi already. She's in another look. Three one hundred Leesburg Boulevard. He waiting for the taxi.
+AGENT: I'm Ana with Barwood & Regency, here to help you. Could you please tell me your name so I can assist with the taxi for the person at 3 1 0 0 Leesburg Boulevard?
+CALLER: Yeah. Can you send it once?
+AGENT: Thank you. How would you like to pay for the ride? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card. Credit card.
+AGENT: Thank you for choosing credit card as your payment method.
+AGENT: Could
+CALLER: How long this gonna take?
+AGENT: I’m here to help with your pickup and dropoff addresses first. Could you please tell me the pickup address for your ride? Once I have that, I can assist further.
+CALLER: Thirty one hundred. Leesiewood Boulevard,
+AGENT: I couldn't find 3 1 0 0
+CALLER: Number look.
+AGENT: Could you please provide the full street number and the city and state for the pickup address? That will help me locate it accurately.
+CALLER: Lisiwa Boulevard Lisiwa Boulevard. Lisiwa Lisiwa Boulevard.
+AGENT: I want to make sure I have this right. Could you please tell me the full street number along with the city and state for Lisiwa Boulevard? That way, I can find the exact pickup location for you.
+CALLER: Silver Spring, Maryland,
+AGENT: I found Woodvale Apartments at 1 3 8 3 1 Castle Boulevard in Silver Spring, Maryland. Is that the pickup location you want?
+CALLER: No. Leisure. I said Leisure Boulevard.
+AGENT: Thank you for clarifying. Since Leisure Boulevard did not come up in the search, could you please provide the full street number and confirm the city and state again? That will help me find the correct pickup address for you.
+CALLER: Lisiwa Boulevard, thirty one hundred. Lisiwa Boulevard
+AGENT: Just to confirm, is your pickup address 3 1 0 0 Lisiwa Boulevard in Silver
+CALLER: The name of
+AGENT: I want to make sure I understand correctly. Are you saying the street name is
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Can I yes? Can I speak

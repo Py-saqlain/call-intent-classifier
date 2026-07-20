@@ -1,0 +1,40 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Joseph Sanwo?
+CALLER: Yep. Speaking.
+AGENT: Thanks for confirming, Joseph. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: Trying to book a ride.
+AGENT: I'd be happy to help with your ride booking. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+CALLER: Colon ride. But Columb ride.
+AGENT: Just to make sure I understand correctly, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes. Yes.
+AGENT: Great! Please provide the last six digits of your Call and Ride card when you're ready.
+CALLER: Three three two four zero zero.
+AGENT: Thank you, your payment with Call and Ride is all set. I'll proceed with the booking now.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Six five five Watkins Mill, Gaithersburg.
+AGENT: I have the pickup address as six five five Watkins Mill Road, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Two zero six zero zero. Seneca Drive Parkway. Germantown.
+AGENT: I couldn't locate the address "20600 Seneca Drive Parkway, Germantown." Could you please confirm the street name and city again, or provide any nearby landmarks or cross streets to help identify the dropoff location?
+CALLER: Wegmans store. No. My store. Six zero zero teneca Parkway
+AGENT: I found Wegmans at 2 0 6 0 0 Seneca Meadows Parkway, Germantown, Maryland. Is that the correct dropoff location?
+CALLER: Seneca Drive, Parkway. German Town.
+AGENT: Just to clarify, you want to be dropped off at Wegmans on Seneca Drive Parkway in Germantown, Maryland? The address I found is 2 0 6 0 0 Seneca Meadows Parkway. Is that correct, or is there a different address on Seneca Drive Parkway you want?
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified, Joseph.
+AGENT: When would you like to be picked up?
+CALLER: That's correct. Mhmm.
+AGENT: Could you please tell me the specific time you would like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No. No. Dude, Two.
+AGENT: Thank you, I have recorded 2 passengers and no wheelchair needed. Do you have any special instructions for the driver?
+CALLER: That one?
+AGENT: Could you please tell me if you have any special instructions or requests for the driver? If not, just let me know.
+CALLER: None.
+AGENT: The estimated fare is 15 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No. No.
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your main trip is scheduled for today at 2:33 PM. Your confirmation number is 2 1 3 6 6 4 7 5 1. Is there anything else I can assist you with?
+CALLER: No. That would be all.
+AGENT: Thank you for calling Barwood & Regency, Joseph. Have a wonderful day!

@@ -1,0 +1,13 @@
+AGENT: Hello OTARI, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Cheap preview.
+AGENT: Could you please tell me a bit more about what you need help with? Are you looking to book a ride, check on a trip, or something else?
+CALLER: Check on a trip.
+AGENT: You have two upcoming trips scheduled for tomorrow in Rockville. The first pickup is at 9:30 am from 1 2 6 3 0 Veirs Mill Road to 9 9 0 5 Medical Center Drive. The second pickup is at 11:45 am from 9 9 0 5 Medical Center Drive back to 1 2 6 3 0 Veirs Mill Road. Would you like details on either trip or help with something else?
+CALLER: Something else.
+CALLER: Representative.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: What is the tab number?
+AGENT: Could you please clarify what you mean by "tab number"? Are you referring to a trip confirmation number or something else?
+CALLER: CAS number. Yes.
+AGENT: I understand you're asking about a CAS number, which I believe refers to a trip confirmation number. To assist you with that, I will connect you to a representative who can provide the details you need.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,33 @@
+AGENT: Hello Sima, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, I need card. I need to have order for tomorrow morning. Thursday, 07:20AM.
+AGENT: Okay so I've got that payment noted as Credit Card.
+AGENT: May I have the pickup address for your ride tomorrow morning
+CALLER: For two hundred
+AGENT: Uh, I am sorry, but could you please repeat the pickup address for your ride tomorrow morning?
+CALLER: pay call and ride card. Yes. One four four zero one Travella Garden Circle, Rockville.
+AGENT: Okay, so I found 1 4 4 0 1 Traville Gardens Circle, Rockville. Is that correct?
+CALLER: Correct.
+CALLER: Correct.
+AGENT: Your pickup address has been verified. May I have the dropoff address for your ride?
+CALLER: Address pickup. Address, pickup, o one four four zero one Tradiva Garden Circle. And I'm going to six four, one zero Rockledge Drive, And the test, they don't know.
+AGENT: Okay, so I found 6 4 1 0 Rockledge Drive. Is that correct?
+CALLER: Yes. It's correct. When I going.
+AGENT: Your dropoff address has been verified.
+AGENT: Just to confirm, you would like a pickup tomorrow at 7:20 AM for 2 passengers, is that correct? <emotion value="peaceful"/>
+CALLER: No. No. One passenger. One.
+AGENT: Okay great! I've got one passenger for tomorrow at 7:20 AM. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: I pay call and ride card.
+AGENT: Just to confirm, your pickup is scheduled for tomorrow at 7:20 AM with one passenger. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Correct.
+AGENT: Thank you for confirming. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: I'm sorry. I don't understand what
+AGENT: No problem at all. I just want to check if you will need a vehicle that can accommodate a wheelchair. Will you need that kind of vehicle? <emotion value="peaceful"/>
+CALLER: I pay pay call and ride card.
+AGENT: Just to confirm, your pickup is scheduled for tomorrow at 7:20 AM with one passenger. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Correct.
+AGENT: Thank you for confirming. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: I'm sorry. I don't understand. What do you say?
+AGENT: No problem at all. I just want to check if you will need a vehicle that can accommodate a wheelchair. Will you need that kind of vehicle? <emotion value="peaceful"/>
+CALLER: Sorry.
+AGENT: That's okay, no need to apologize. Will you be needing a wheelchair accessible vehicle for your trip? <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

@@ -1,0 +1,13 @@
+AGENT: Hello Barbara, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Looking for my ride.
+AGENT: How about I check the status and location of your current ride for you?
+CALLER: Okay.
+AGENT: I don't see any active trips scheduled for you right now. Would you like me to help you book a ride?
+CALLER: No. I have it,
+AGENT: Just to confirm, since you mentioned you have the ride, would you like to cancel this booking request so no new trips are scheduled?
+CALLER: No.
+AGENT: Alright, since you don't want to cancel, is there something specific you'd like help with regarding your ride?
+CALLER: Where is my ride?
+AGENT: Hmm, let me check that for you. Uhh, I'm sorry, but I don't see any active trips scheduled for you right now. Is there something else I can assist you with? <emotion value="sympathetic"/>
+CALLER: Yes. Customer service.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

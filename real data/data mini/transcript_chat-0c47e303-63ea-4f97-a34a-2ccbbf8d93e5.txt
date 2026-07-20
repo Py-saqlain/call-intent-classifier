@@ -1,0 +1,22 @@
+AGENT: Hello Reginald, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Taxi.
+AGENT: How can I assist you with your taxi ride today?
+CALLER: I need a pickup.
+AGENT: Thank you for letting me know. How would you like to pay for your ride? We accept cash, credit card,
+CALLER: Cash.
+AGENT: Thank you, cash is all set for your payment.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Two zero four four wait. Hold on. Let me ask them that. Address. K. Excuse me. Hello?
+CALLER: Oh, do you work there? No. Oh, what's the address? I'm calling a taxi.
+AGENT: Yes, I’m here to help you with your
+CALLER: Two zero four four two two zero four four Goshen Road.
+AGENT: I wasn't able to
+CALLER: Well, thank you.
+AGENT: I’m here to help you with your pickup address. Could you please provide the full street
+CALLER: Two zero eight Okay.
+AGENT: Thank you. Could you please provide the full street name and
+CALLER: Two two zero zero two zero zero four four Goshen Road, Gaithersburg, Maryland 20879. Two zero zero four four Ocean Road, Gaithersburg, Maryland 20879.
+AGENT: I couldn't find an exact match for the address you gave me. Did you mean 20044
+CALLER: This is
+AGENT: Could
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

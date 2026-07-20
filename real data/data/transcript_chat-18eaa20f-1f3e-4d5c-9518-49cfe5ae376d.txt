@@ -1,0 +1,48 @@
+AGENT: Hello Patricia, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Oh, you sound so nice.
+AGENT: Uhh, thank you so much for saying that.
+CALLER: I made a trip I need a trip to Kaiser Permanente in Gaithersburg. And it's at 655 Watkins Mill Road,
+AGENT: Alright, how would you like to pay for your trip to Kaiser
+CALLER: It's not in Gaithersburg. It's right off that main
+AGENT: Thanks for clarifying that. Just
+CALLER: Debit card. Debit card.
+AGENT: Okay so I've got that payment noted as debit card. I'll proceed with verifying
+AGENT: Okay so I've got that payment noted as credit card.
+CALLER: Okay.
+CALLER: Can I just ask them to add a couple dollars for a tip? Can I do it that way?
+AGENT: I understand your question about tipping, but I’m here to help with your pickup and dropoff addresses. Let’s first confirm
+CALLER: Okay. Alright.
+AGENT: I found the dropoff address as 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. It's a $2.40 that goes to Frederick. It's off that road.
+AGENT: Thank you for confirming the dropoff address at 6 5 5 Watkins Mill Road, Gaithersburg, Maryland. Your dropoff address has been verified. Now, could you
+CALLER: Yes.
+AGENT: Okay, so I have your home address as 8 0 3 1 Rising Ridge Road, Bethesda, Maryland. Is that where you'd like to be picked up from? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found the pickup address as 8 0 3 1 Rising Ridge Road, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. It's in the community of River Hill.
+AGENT: Your pickup address has been verified, Patricia.
+CALLER: okay. Okay. Good.
+AGENT: When would you like to be picked up for your trip to Kaiser
+CALLER: You're very good, by the way. I love your voice.
+AGENT: Thank you so much, I appreciate
+CALLER: I'm ready.
+AGENT: Alright,
+CALLER: I'm ready.
+AGENT: When would you like to be picked up for your trip to Kaiser Permanente? <emotion value="peaceful"/>
+CALLER: I'm ready right now.
+AGENT: Okay great! I've got your pickup time as today at 6:08 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Yes. No. Just me. Just one.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: Pat, do they call you when they're at your address to pick you up?
+AGENT: I don't handle calls from drivers, but I can help get your trip details set up. Do you have any special instructions for the driver that I can note for you? <emotion value="peaceful"/>
+CALLER: No. It's just whether I should be at the end of my driveway. I don't know if it might rain or if I can if it at sometimes they call, and if they call, I can get the call and then come right out. What works best? Do you know?
+AGENT: I understand your concern. Typically, drivers aim to arrive right at your pickup location, but they might not always call before arrival. If you prefer, you can be ready at the end of your driveway to make pickup easier, especially if the weather might be bad. Would you like me to add a note for the driver to call you when they arrive? <emotion value="peaceful"/>
+CALLER: Yes. And then I'll go down to the end of the driveway. How long will he be picking me up?
+AGENT: The estimated fare for your trip is $39. I've noted that you'd like the driver to call you when they arrive so you
+CALLER: What's that?
+AGENT: Your estimated fare for the trip is $39. Now, do you have any other special instructions or notes for the driver besides wanting a call when they arrive? <emotion value="peaceful"/>
+CALLER: How long do you think it'll be?
+AGENT: The
+CALLER: Pickup time.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Okay, thanks.

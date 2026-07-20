@@ -1,0 +1,11 @@
+AGENT: Hello Geraldine, this is Ana from Barwood & Regency. Your ride with vehicle 1187 is confirmed and will arrive by 2:09 pm, about 58 minutes from now. How can I assist you today?
+CALLER: Can I come in here earlier?
+AGENT: Could you please clarify if you are asking to schedule a ride for an earlier time than previously planned, or if you need help with something else?
+CALLER: I want a earlier ride than planned.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: I to see what time my ride is coming.
+AGENT: Your driver is about 18 minutes away, with a pickup scheduled at 1:49 pm from 5 5 4 4 Norbeck Road in Rockville. Would you like to change this pickup time to an earlier one?
+CALLER: How how how far away is he again?
+AGENT: Your driver is about 18 minutes away from your pickup location. Is there anything else I can help with?
+CALLER: No. That's fine. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Geraldine. Have a wonderful day!

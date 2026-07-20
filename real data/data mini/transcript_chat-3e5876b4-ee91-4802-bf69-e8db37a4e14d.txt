@@ -1,0 +1,8 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Hello? Did you have the app for the taxi?
+AGENT: Of course—I can help with booking rides, checking your trip status, or canceling trips right here. What can I assist you with today?
+CALLER: Would like to have the the agency app taxi app, application. Like a Uber app. So do you have a a residency app that I can use in the future? To book? To schedule, arrive, the taxes,
+AGENT: I understand you're interested in an app like Uber for Barwood & Regency to book and schedule rides. I don't handle app downloads or tech support directly, but I can connect you to someone who can help with that. Would you like me to transfer you to a live agent for assistance with the app?
+CALLER: Okay, please.
+CALLER: Okay.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

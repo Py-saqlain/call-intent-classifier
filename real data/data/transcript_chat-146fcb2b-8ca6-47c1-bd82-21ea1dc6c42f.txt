@@ -1,0 +1,40 @@
+AGENT: Hi Marie, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, I need a taxi. I'm at the Shade Grove Station. On the lower level.
+AGENT: Thank you for letting me know your location at Shade Grove Station on the lower level. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash. Cash.
+AGENT: Thank you for choosing cash as your payment method.
+AGENT: I found several locations related to Shady Grove Station. Here are some options: 
+
+1. 15903 Somerville Drive, Rockville, Maryland
+2. Redland, Maryland 20855 (Shady Grove)
+3. Shady Grove Station & Bay E, Redland, Maryland
+4. Shady Grove Metro Station Kiss & Ride, Parking lot, Redland Road, Derwood, Maryland
+5. Redland, Maryland (Shady Grove)
+
+Which one would you like to use for your pickup location?
+CALLER: I'm at the Shady Grove. Station in Roth ville. On the lower level.
+AGENT: Just to confirm, you are at Shady Grove Station in Rockville, Maryland, on the lower level. Is that correct?
+CALLER: Yeah. Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Okay. Okay. I'm going to one five two four five Shady Grove Road. In rockville
+AGENT: Just to confirm, your dropoff address is 1 5 2 4 5 Shady Grove Road, Rockville, Maryland. Is that correct?
+CALLER: That's where I'm yes, I'm going there. Yes. Yes.
+AGENT: Just to confirm, your dropoff address is 1 5 2 4 5 Shady Grove Road, Rockville, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Your dropoff address has been verified, Marie.
+AGENT: When would you like to be picked up?
+CALLER: I'm ready now.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. This one.
+AGENT: Thank you. How many passengers will be traveling, including yourself?
+CALLER: Just myself.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No. No.
+AGENT: The estimated fare for your trip is 10.5 dollars, paying with Self. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now?
+CALLER: Yes. I'm ready. How long would that be?
+AGENT: Thank you for your patience. I am now processing your booking.
+AGENT: Your trip is booked with confirmation number 2 1 3 6 6 3 1 1 8. The pickup is today at 8:15 am. Is there anything else I can help you with?
+CALLER: No, ma'am.
+AGENT: Thank you for calling Barwood & Regency, Marie. Have a wonderful day.

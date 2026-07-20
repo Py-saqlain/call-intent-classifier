@@ -1,0 +1,26 @@
+AGENT: Hello Aviva, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hi. Good afternoon. Can I have taxi, please? With the cash. Hello?
+AGENT: I can help you with that taxi booking. Could you please tell me the pickup address?
+CALLER: Okay. My peak up address is eleven ten Fiddler Lane.
+AGENT: Thank you. And where would you like to go?
+CALLER: I like to go fourteen five, Mhmm. Two zero. Yanchi. Fiddler Lane is the same thing.
+AGENT: Just to confirm, your destination is 1 4 5 2 0 Yanchi Fiddler Lane? Could you please confirm if that's correct?
+CALLER: Hi. You one four five two zero. Fiddler Road. Fiddler Road. Road. I'm sorry.
+AGENT: Thanks for clarifying. Your destination is 1 4 5 2 0 Fiddler Road. Is that right?
+CALLER: Mhmm. Yes. You're right. Yeah.
+AGENT: Got it. And when would you like the pickup?
+CALLER: Alright. Nope. If you can. Right now now we are outside. By the door. Can you tell me the price, please?
+AGENT: I will arrange a taxi for you to be picked up right now. Regarding the price, I don't have that information myself, but I can help you book the ride. Let me go ahead and process your booking with the pickup at 1 1 1 0 Fiddler Lane and dropoff at 1 4 5 2 0 Fiddler Road, paying with cash.
+AGENT: Thank you for letting me know you'll be paying with cash. Your payment
+CALLER: How long can I take the taxi will be here?
+AGENT: Both your pickup at 1 1 1 0 Fiddler Lane, Accokeek, Maryland, and dropoff at 1 4 5 2 0 Clopper Road, Boyds, Maryland, are confirmed. I will now proceed with arranging your ride.
+CALLER: Okay. How many how many minutes the driver will be here? 1110 Fiddler Lane. You have information?
+AGENT: I don't have the exact arrival time for the driver, but once your ride is booked, you can get updates on the driver's estimated time of arrival. Let me proceed with finalizing your booking now.
+AGENT: Your pickup and dropoff addresses have been verified, Aviva.
+AGENT: You mentioned you want to be picked up right now. Is that correct?
+CALLER: Yes. And the. They will come. Yes. I I'm waiting, but I wanna know the price because it's not for me. It's for my friend. I wanna let her know.
+AGENT: Thanks for confirming your pickup time as right now. Next, how many passengers will be traveling, including your friend? Also, will anyone need a wheelchair-accessible vehicle?
+CALLER: No. No. No. No. Only one only one. One passenger only.
+AGENT: Thank you for letting me know there will be one passenger and no wheelchair
+CALLER: Just go back a watch. It's not?
+AGENT: I want to make sure I understand you correctly. Are you saying you want to go back to the previous question about passengers and wheelchairs, or is there something else you'd like to update?

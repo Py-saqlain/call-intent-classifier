@@ -1,0 +1,12 @@
+AGENT: Hello Laurence, this is Ana with Barwood & Regency. You have two trips today — one pickup scheduled for 12:30 PM and your vehicle 477 is scheduled for pickup at 6:46 AM. How can I assist you today?
+CALLER: I'd like to cancel both appointments both rides, please.
+AGENT: I see two trips on your account for today.  
+Trip one: pickup at 1 9 9 Rollins Avenue in Rockville at 7:00 am going to 8 8 1 4 Kensington Parkway in North Chevy Chase.  
+Trip two: pickup at 8 8 1 4 Kensington Parkway in North Chevy Chase at 12:30 pm going to 1 9 9 Rollins Avenue in Rockville.  
+Would you like to cancel both of these trips?
+CALLER: Yes. Yes.
+AGENT: Okay so both trips, the one at 7:00 am from Rockville to North Chevy Chase and the one at 12:30 pm from North Chevy Chase to Rockville, have been cancelled for you. Is there anything else I can help you with?
+CALLER: Please. I'd like to cancel them, please. Emmanuel, I canceled.
+AGENT: Hmm, could you clarify which trip you'd like to cancel?
+CALLER: I'd like to cancel both trips please. Wait a minute
+AGENT: I see that both trips you mentioned were already cancelled. Is there anything else I can help you with?

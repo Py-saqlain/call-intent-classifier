@@ -1,0 +1,6 @@
+AGENT: Hello Sumter, this is Ana from Barwood & Regency. You have two trips today — one confirmed for pickup at 12:30 PM and another accepted for pickup at 3:45 PM. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Customer service.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: Customer service. Customer service.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

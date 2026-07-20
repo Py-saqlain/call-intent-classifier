@@ -1,0 +1,13 @@
+AGENT: Hello Cynthia, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Uh, taxi Taxi.
+AGENT: How can I assist you with your taxi needs today?
+CALLER: I'll be hungry and. Speak to a representative. Gotcha. You. You're welcome, dear. No. I've been I've been good. But I just
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: liquid ID. Well, I'll have to at Crazy party. Because I'd encouraged to use my $10 coupon. You got CVS here? You pay $10 a month. But you'd get you pay $5 a month, you get a $10 coupon. And then you always get 20% off all CVS That's why we stopped at CVS. That's why you see any of my stuff, like, a lot of the CVS plan stuff. But I've been doing that
+AGENT: It sounds like you might want to book a ride or have a question about a trip. Could you please tell me if you'd like to schedule a ride or if you need help with something else?
+CALLER: I've had it before. Yes. Schedule a ride.
+AGENT: Thank you for letting me know you'd like to schedule a ride. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+AGENT: Thank you for letting me know you'd like to schedule a ride. How would you like to pay for your trip? We accept cash, credit card, and Call and Ride.
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Speak to a representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

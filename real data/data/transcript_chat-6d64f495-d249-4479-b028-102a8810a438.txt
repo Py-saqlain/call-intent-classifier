@@ -1,0 +1,53 @@
+AGENT: Hi Farangis, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: We need it. Right?
+AGENT: Could you please tell me what you need? Are you looking to book a ride, check a trip status, or something else?
+CALLER: Take a ride.
+AGENT: How would you like to pay for your
+CALLER: AI is clean. They don't understand. Colon. Right?
+AGENT: I want to make sure I understand you correctly. Could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Thank you for choosing Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three five two one seven six.
+AGENT: Thank you, your payment with Call and Ride is all set. The system will now proceed with your booking.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Three five The address here? I think it's, like,
+AGENT: Could you please provide the full pickup address including the street name and city? Just the numbers alone won't be enough to locate it.
+CALLER: Three sorry. Seven three six one Callahan Place, Rockville, Maryland.
+AGENT: I have 7 3 6 1 Calhoun Place, Rockville, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Loving chair adults teacher.
+AGENT: Could you please clarify or provide more details about the dropoff location? If it's a business or a specific address, that would help me find it
+CALLER: Lobbying chair. Loving care.
+AGENT: I found several locations for Loving Care:
+
+1. Loving Care Adult Medical Day Care at 1 7 0 5 1 Oakmont Avenue A, Gaithersburg, Maryland
+2. Loving Care Home Services at 4 8 1 North
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified, Farangis.
+AGENT: When would you like to be picked up?
+CALLER: 9AM.
+AGENT: Thank you. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Yes. No. Two people.
+AGENT: Got it, two passengers and one wheelchair-accessible vehicle. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare is 12 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: Yes.
+AGENT: Great, I'll start collecting the details for your return trip.
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: Nine fifteen. Or twenty.
+AGENT: Just to confirm, did you mean 9:15 AM or 9:15 PM for your return trip pickup time?
+CALLER: Nine fifteen AM.
+AGENT: Thank you. For your return trip, how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Why? No. One person.
+AGENT: For your return trip, I have the pickup address as 1 7 0 5 1 Oakmont Avenue A, Gaithersburg, Maryland, and the dropoff address as 7 3 6 1 Calhoun Place, Rockville, Maryland. Is that correct?
+CALLER: Dropoff address is wrong. Dropoff address is nine eight nine zero Washingtonian Boulevard.
+AGENT: I have 9 8 9 0 Washingtonian Boulevard, Gaithersburg, Maryland as your return trip dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your return trip dropoff address has been verified, Farangis.
+AGENT: The estimated fare for your return trip is 12 dollars, paying with your Call and Ride card. Should I go ahead and book both trips?
+CALLER: Yes.
+AGENT: Booking your trips now.
+AGENT: Your main trip is scheduled for today at 9:00 AM with confirmation number 2 1 3 6 6 9 1 8 7, and your return trip is scheduled for today at 9:15 AM with confirmation number 2 1 3 6 6 9 1 8 8. Is there anything else I can help you with?
+CALLER: Thank you. No.
+AGENT: Thank you for calling Barwood & Regency, Farangis. Have a wonderful day!

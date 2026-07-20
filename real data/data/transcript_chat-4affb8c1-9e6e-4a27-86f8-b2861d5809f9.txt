@@ -1,0 +1,42 @@
+AGENT: Hello, Rebbeca. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab.
+AGENT: Alright, how would you like to pay for your cab today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash,
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your cab? <emotion value="peaceful"/>
+CALLER: Two zero nine one zero Frederick Road, Germantown, Oh, never mind. And you just start over.
+AGENT: Hmm <break time="350ms"/> let me check that address. You said two zero nine one zero Frederick Road, Germantown, Ohio? Just to confirm, is that correct? <emotion value="hesitant"/>
+CALLER: No.
+CALLER: No. No. No.
+AGENT: Just to confirm, would you like to cancel the entire booking? If you do, no trips
+CALLER: Let me start over.
+AGENT: Sure, let me update that address.
+AGENT: Okay, let's start fresh. Could you please tell me your pickup address? <emotion value="peaceful"/>
+CALLER: Two zero nine one zero. Frederick Road, Germantown, Maryland.
+AGENT: Okay, so I found the address as two zero nine one zero Frederick Road, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Nine three seven seven Chad Burn Place, St. Petersburg, Maryland
+AGENT: Hmm <break time="350ms"/> I couldn't find 9377 Chad Burn Place, St. Petersburg, Maryland. Could you please double-check the address or provide any nearby landmarks or cross streets? <emotion value="apologetic"/>
+CALLER: Nine three seven seven Gaithersburg, Maryland Gaithersburg, Maryland,
+AGENT: Okay, I found the address as nine three seven seven Chadburn Place,
+CALLER: Scatersburg,
+AGENT: Hmm <break time="350ms"/> let me check that address. You said nine three seven seven Chadburn Place, Scatersburg? Could you please confirm the city name again? <emotion value="hesitant"/>
+CALLER: Gaithersburg, Gaithersburg.
+AGENT: Thank you for confirming Gaithersburg. So the dropoff address is nine three seven seven Chadburn Place, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Rebbeca.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now, Now.
+AGENT: Okay great! I've got your pickup time as today at 2:07 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Just myself.
+AGENT: Okay great! I've got one passenger. Will you be needing a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: No.
+AGENT: Okay great! I've noted no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: I'm at the Walmart I'm at the pharmacy side. Pharmacy side.
+AGENT: Alright, the estimated fare is 15.5 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 2:07 PM. Your confirmation number is 2 1 3 6 7 5 9 0 2. Is there anything else I can help you with?
+CALLER: That's all.
+AGENT: Thank you for calling Barwood & Regency, Rebbeca. Have a wonderful day!

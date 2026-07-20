@@ -1,0 +1,8 @@
+AGENT: Hi Ina, this is Ana from Barwood & Regency. You have two trips today — your ride with vehicle 223 is scheduled for pickup at 11:30 AM, and that same vehicle is on the way, expected to arrive in about 11 minutes around 10:24. How can I assist you today?
+CALLER: Yes. I need another cab as soon as possible.
+AGENT: Looks like you already have trips from Gaithersburg to Columbia at 9:45 AM and back at 11:30 AM. What would you like to do?
+CALLER: At 09:45, it's past 09:45. It is 10:15. I'm supposed to be there at 10:45.
+AGENT: Your driver for the 9:45 AM trip is about 10 minutes away and should get you there close to your 10:45 AM appointment. Would you still like to book another cab now?
+CALLER: He called me twenty minutes ago. No. No. No. No. He he told me twenty minutes ago. I just called him and told me give him another ten minutes. How many times are gonna keep changing the time?
+AGENT: I understand how frustrating that must be. Since your driver is running late, I'll connect you with a customer representative who can assist you further.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

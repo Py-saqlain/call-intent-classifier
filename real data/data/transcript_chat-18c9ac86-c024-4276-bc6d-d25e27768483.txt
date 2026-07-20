@@ -1,0 +1,45 @@
+AGENT: Hello Alba, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I would like you to send me a copy, please. Bao cup.
+AGENT: Uhh, could you please clarify what kind of copy you would like me to send you? Are you referring to a copy of a receipt, a booking confirmation, or something else? <emotion value="hesitant"/>
+CALLER: No. No. No. I want you to send me a card. Taxi.
+AGENT: Okay, so you would like to get a taxi ride. Could you please tell me your pickup address? <emotion value="grateful"/>
+CALLER: One seven two five Staley Manor Drive,
+AGENT: Alright, how would you like to pay for your taxi ride? We accept cash, credit card, and
+CALLER: Silver Spring, Maryland
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. Let me proceed with verifying that for you.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Okay, so your pickup address is 1
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: It's global. One three eight one four Outlet Drive,
+AGENT: Thank you. Could you please tell me the city and state for one three eight one four Outlet Drive? <emotion
+CALLER: Michigan,
+AGENT: Thank you. Could you please provide the city name again? You mentioned Michigan, which is a state. <emotion
+CALLER: Odler Drive, Silver Spring. Okay. It's Outlet Drive, in Bridgechaney. Shopping center.
+AGENT: Hmm, let me check that address. One three eight one four Outlet Drive, Bridgechaney, Silver Spring, Maryland, is that correct? <emotion value="hesitant"/>
+CALLER: Yes. It's food market. Yes. Marketplace.
+CALLER: Which is Globe Oil.
+AGENT: I found Global Food at one three
+CALLER: 13814 Outlook Drive, in
+AGENT: Uh, I am sorry, but could you repeat the dropoff address once more? I want to make sure I have it exactly right. <emotion value="apologetic"/>
+CALLER: 13814 Outlet Drive, Bridge Jamie Shopping Center. Global.
+AGENT: Okay, so I found Global Food at one three eight one four Outlet Drive, Bridgechaney Shopping Center, Silver Spring, Maryland. Is that the correct dropoff location? <emotion
+CALLER: Yes. Yes.
+AGENT: Your dropoff address has been verified. Thank you, Alba.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Thank you. Now
+AGENT: Okay great! I've got your pickup time as today at 11:46 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible
+CALLER: Thank you. No. One.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No. No. Thank you.
+AGENT: Alright, the estimated fare is 10.5 dollars, paying with cash. Would you like to schedule a return trip as well?
+CALLER: Thank you.
+AGENT: Thank you for your patience. I'm processing your booking now.
+CALLER: You have come. Welcome.
+AGENT: Your main trip is scheduled for today at 11:46 AM. Your confirmation number is 2 1 3 6 7 4 6 8 2. Is there anything else I can help you with?
+CALLER: Could you say move again? Could you tell me the confirmation again?
+AGENT: Certainly. Your confirmation number is 2 1 3 6 7 4 6 8 2. Is there anything else I can assist you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Alba. Have a wonderful day!
+CALLER: You're welcome. You too. Thank you.

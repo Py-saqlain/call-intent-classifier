@@ -1,0 +1,15 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Vinora Baul?
+CALLER: Yes.
+AGENT: Thanks, Vinora. This is Ana from Barwood & Regency. Vehicle 397 has arrived at your pickup location. How can I assist you today?
+CALLER: Because I thought the tax came.
+AGENT: I understand. Is there
+CALLER: What what I I I missed I missed.
+AGENT: It sounds like you might be asking if you missed your ride or if the taxi has already arrived. Is that right? Would you like me to check the status of your current trip for you?
+CALLER: Where is the time for us?
+AGENT: Your pickup is scheduled for today at 2:27 pm from 1 2 3 1 1 Parklawn Drive in Rockville. Would you like me to check anything else?
+CALLER: But it said it's not it just causes me. My driver is waiting outside, but I don't see no driver outside.
+AGENT: I’m sorry you can’t see your driver outside even though the system shows they are there; I’ll connect you with a customer representative who can assist you right away.
+AGENT: I'm connecting you to a customer service representative now. Please
+CALLER: Yes, please. Because there's no driver all the time.
+AGENT: I’m connecting you to a
+CALLER: Yeah.

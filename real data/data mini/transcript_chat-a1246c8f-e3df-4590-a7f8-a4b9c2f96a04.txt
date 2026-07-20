@@ -1,0 +1,22 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Loise Macauley?
+CALLER: Yes. I want to get a vision for tomorrow.
+AGENT: Alright, how would you like to pay for your ride tomorrow? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Got call and ride. Call and ride.
+AGENT: Okay, just to confirm, you mean Call and Ride for payment, right? If so, could you please provide the last six
+CALLER: Correct.
+AGENT: Great, please go ahead and tell me the last six digits of your Call and Ride card when you're ready. <emotion value="peaceful"/>
+CALLER: Zero three two five four two zero.
+AGENT: Okay so I've got that payment
+AGENT: Thank you for that. Now, could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: One three zero zero five.
+CALLER: Country Ridge Drive, Germantown two zero eight seven four.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is one three zero zero five Country Ridge Drive, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: I found a few locations for "get a vision for tomorrow." Option one: 7630 Airpark Road, Gaithersburg. Option two: 8010 Gramercy Boulevard Unit G, Derwood. Option three: 108 Olde Towne Avenue, Gaithersburg. Option four: 9673 Lost Knife Road, Gaithersburg. Option five: 18304 Contour Road, Montgomery Village. Which one is correct? <emotion value="hesitant"/>
+CALLER: I don't know what you're talking about. I did not give you that address.
+AGENT: I understand, no problem. Could you please provide a clearer or more specific
+CALLER: What makes a human?
+CALLER: Please put me to human. Agent. Because I understand this.
+CALLER: My god.
+AGENT: I'm connecting you

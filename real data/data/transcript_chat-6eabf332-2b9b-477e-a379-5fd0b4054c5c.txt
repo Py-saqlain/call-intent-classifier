@@ -1,0 +1,52 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Rachel Estrada?
+CALLER: Yes.
+AGENT: Thanks for confirming, Rachel. This is Ana from Barwood & Regency. How can I assist you today?
+CALLER: I need to get picked up.
+AGENT: Thank you for letting me know. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Colon rise. Card.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card? If not, please let me know which payment method you'd prefer.
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+CALLER: Yes. I'm here.
+AGENT: Thanks for confirming. Did you mean Call and Ride for your payment? If yes, please provide the last six digits of your Call and Ride card. If you meant a different payment method like cash or credit card, just let me know.
+CALLER: Three four zero eight nine zero.
+AGENT: Thank you, your payment method is Call and Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Two tough CT block fill Maryland.
+AGENT: I have 2 Taft Court, Rockville, Maryland as your pickup address. Is that correct? Please say yes if it is, or provide a correction.
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Yes. Harris Teeters. Two two seven zero zero. Suite Tough doctor Maryland.
+AGENT: Just to clarify, did you mean Harris Teeter at 2 2 7 0 0 Suite Taft Doctor, Maryland? Could you please confirm or correct that?
+CALLER: Yes.
+CALLER: That's correct.
+AGENT: It seems the address you provided could not be located as given. Could you please provide the full street address, including the street number and city, for the Harris Teeter location?
+CALLER: Harris Teeter, two two seven zero zero suite sac, doctor, Klausburg, Maryland two zero eight seven one.
+AGENT: I found Harris Teeter at 2 2 7 0 0 Sweet Shrub Drive, Clarksburg, Maryland. Is this the correct dropoff location?
+CALLER: Repeat.
+AGENT: I found Harris Teeter at 2 2 7 0 0 Sweet Shrub Drive, Clarksburg, Maryland. Is this the correct dropoff location?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Rachel.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will
+CALLER: No.
+AGENT: Just to clarify, do you mean no
+CALLER: Just me.
+AGENT: Thank you. Will you be needing a wheelchair accessible vehicle?
+CALLER: No.
+AGENT: Thank you. Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Rachel, the estimated fare for your trip is 36 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well?
+CALLER: Now
+AGENT: What time would you like to be picked up for your return trip?
+CALLER: No time.
+AGENT: Your return trip has been recorded as a will-call trip. How many passengers will be traveling on the return trip, including yourself? And will any of them need a wheelchair accessible vehicle?
+CALLER: No one.
+AGENT: Just to confirm, does that mean no passengers will be traveling on the return trip? Could you please clarify the number of passengers for the return trip?
+CALLER: No. I don't need a return trip. There's no passion to risk. They're going to go home. I just need to get to Harris Peters.
+AGENT: Rachel, your trip to Harris Peters is scheduled for today at 12:44 PM. Your confirmation number is 2 1 3 6 6 9 3 8 8. Is there anything else I can help you with?
+CALLER: No.
+AGENT: If you need any further assistance or want to book another trip, just let me know.
+CALLER: I'm good. Bye.
+AGENT: Thank you for calling Barwood & Regency, Rachel. Have a wonderful day!

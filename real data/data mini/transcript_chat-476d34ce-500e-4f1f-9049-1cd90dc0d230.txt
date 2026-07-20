@@ -1,0 +1,23 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Susan Jones?
+CALLER: Yeah.
+AGENT: Thanks for confirming, Susan. This is Barwood & Regency. How can I assist you today?
+CALLER: What's the kind of order cap?
+AGENT: Could you please clarify what you mean by "order cap"? Are you asking about the types of rides or vehicles we offer, or something else? I'm here to help!
+CALLER: No. No. I need a ride to the giant. I need a ride to the giant. I need a taxi.
+AGENT: Thank you for letting me know you need a taxi to the Giant. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Great, you chose Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three zero five four one four.
+AGENT: Thank you, your Call and Ride payment is verified.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: 601 East Randolph Road, Silver Spring.
+AGENT: I have 6 0 1 East Randolph Road, Silver Spring, Maryland as your pickup address. Is that correct?
+CALLER: Yeah.
+CALLER: Yes.
+AGENT: I found several locations for "the giant": 
+
+1. Giant Food Gas Station at 1 3 4 5 5 New Hampshire Avenue, Silver Spring, Maryland. 
+2. Peapod by Giant Food at 1 3 4 9 0 New Hampshire Avenue, Colesville, Maryland. 
+3. Giant Pharmacy at 1 3 4 9 0 New Hampshire Avenue, Colesville, Maryland. 
+4. Giant Food at 1 3 4 9 0 New Hampshire Avenue, Colesville, Maryland. 
+5. Giant Food Bakery at 1 3 4 9 0 New

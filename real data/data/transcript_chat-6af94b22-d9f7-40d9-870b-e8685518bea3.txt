@@ -1,0 +1,27 @@
+AGENT: Hello Douglas, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Ordering a taxi.
+AGENT: Thank you for choosing us for your ride. How would you like to pay today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Thank you, cash it is.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: One seven zero one. Rockville Pike, Suite A 5, Rockville, Maryland 20852.
+AGENT: I couldn't find an exact match for one seven zero one Rockville Pike Suite A 5 in Rockville, Maryland. I did find a location at nine seven zero seven Key West Avenue, Suite one four zero, Rockville, Maryland 20850. Is that the correct pickup location?
+CALLER: No.
+AGENT: Thank you for letting me know. Could you please provide the pickup address again or any nearby landmark or cross street to help me find it?
+CALLER: Relax the back store. 1701. Rockville Pike,
+AGENT: I found Relax The Back at one seven zero one Rockville Pike, Suite A 5, Rockville, Maryland 20852. Is that the correct pickup location?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: One three at well Court,
+AGENT: I found thirteen Webley Court in Sterling, Virginia. Is that the correct dropoff location?
+CALLER: Potomac Maryland two zero eight five two.
+AGENT: I couldn't find any location for Potomac, Maryland 20852. Could you please provide the full dropoff address including the street number and street name?
+CALLER: One three at well court
+AGENT: I found thirteen Webley Court in Sterling, Virginia. Is that the correct dropoff location?
+CALLER: Potomac, Maryland two zero eight five four. No. No.
+AGENT: Thank you for clarifying. Could you please provide the full street address in Potomac, Maryland, including the street number and street name? This will help me find the correct dropoff location for you.
+CALLER: One three a t w e l l Court,
+AGENT: I found thirteen Alden Court in Sterling, Virginia. Is that the correct dropoff location?
+CALLER: Potomac, Maryland two
+AGENT: It seems like the address is incomplete. Could you please provide the full street number and street name for the dropoff location in Potomac, Maryland?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

@@ -1,0 +1,45 @@
+AGENT: Good morning, Herbert. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I need a taxi at the CVS at let me see if I can get the address. Wait a minute.
+AGENT: Uhh, take your time. Whenever you're
+CALLER: Walk to the front. Okay.
+AGENT: Alright, whenever you're ready, just let me know the address or any details you have for your taxi pickup or dropoff. I'm here to help.
+CALLER: It's one nine nine zero one I think it's Frederick
+CALLER: Frederick Road. In Gaithersburg, CVS
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: It's gonna be debit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+CALLER: Okay.
+AGENT: Okay, so I have the dropoff as one nine one zero five Frederick Road, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah. Yeah. Good morning. Do you know how long it'll be? Only about something while I'm waiting on the same pet.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: Oh, can you
+CALLER: No. It's not. The the pickup no. You got it wrong, ma'am. The pickup address is one nine nine zero one
+AGENT: Okay, I understand. You said the pickup address is one nine nine zero one. Could you please tell me the street name and city for that pickup address? <emotion value="peaceful"/>
+CALLER: Yes. Ma'am, is this is this Frederick Rose? Okay. Yes. Frederick Road, Gatensburg. CVS.
+CALLER: Oh, no. Germantown. She said Germantown.
+AGENT: Okay, just to make sure I have it right: your pickup address is one nine nine zero one Frederick Road, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yeah. Yes.
+AGENT: Okay, so I have the pickup as one nine nine zero one Frederick Road, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified, Mr. Herbert. I'll now proceed with arranging your trip.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now And I'm going to one nine eight zero one Observation Drive, Holy Cross Hospital? So pick me up at the 19901, like I just told Frederick Rudd.
+AGENT: Okay,
+CALLER: CVS.
+AGENT: Yes, I have your pickup address as 1 9 9 0 1 Frederick Road in Germantown, Maryland. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need
+CALLER: Hello?
+CALLER: Great. Just one.
+AGENT: Okay
+CALLER: Una.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. Did you mean no wheelchair needed, or one wheelchair needed?
+CALLER: No. No.
+AGENT: Okay, no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No. I'm just ready to be picked up now. At the CVS.
+AGENT: Thank you for providing all the details. Your pickup time is set for now at the CVS location, with one passenger and no wheelchair needed. If you need anything else, just let me know.
+AGENT: Alright, the estimated fare is 8.5, paying with credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Two p no. Please wait.
+AGENT: Just to clarify, when you say "two p no," do you mean you want to update the number of passengers to two, or is there something else you'd like to change?
+CALLER: No. It's just me. It's just one.
+AGENT: Got it, just one passenger. Would you like to schedule a return trip as well? <emotion
+CALLER: Oh, come on. These No. Please wait. System processing. Swipe or insert card and follow instructions on PIN pad.
+AGENT: It sounds like you want to update or confirm your payment method. Sure, let me

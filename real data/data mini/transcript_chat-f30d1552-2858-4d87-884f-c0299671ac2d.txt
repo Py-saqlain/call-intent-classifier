@@ -1,0 +1,10 @@
+AGENT: Hi Anet, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Customer
+AGENT: Hi there! How can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Customer assist
+AGENT: Sure, I’m here to help. What can I do for you regarding your ride? <emotion value="peaceful"/>
+CALLER: Customer
+AGENT: Yes, I’m here to assist you. What would you like help with today? <emotion value="peaceful"/>
+CALLER: I want customer
+AGENT: Could you please tell me a bit more about what you need help with regarding the customer? I want to make sure I connect you to the right assistance. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.

@@ -1,0 +1,12 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Adrian Barber?
+CALLER: Yes.
+AGENT: Thanks, Adrian. This is Barwood & Regency. Your ride with vehicle 1181 is scheduled to arrive by 7:19 pm. How can I assist you today?
+CALLER: You know, agent
+AGENT: How can I assist you with your ride today?
+CALLER: Yep.
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: She's agent.
+AGENT: Could you please clarify what you mean by "She's agent"? Are you asking to speak with a live agent or is there something specific you need help with?
+CALLER: A ride agent.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,42 @@
+AGENT: Hi Audrey, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab at nine nine zero one Medical Center Drive at the hospital. At the main entrance
+AGENT: Thank you for sharing your pickup location at nine nine zero one Medical Center Drive, main entrance of the hospital. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: I have the pickup address as nine nine zero one Medical Center Drive, Rockville, Maryland. Is that correct?
+CALLER: Yeah.
+AGENT: I found several locations for the hospital main entrance: NIH Visitor Parking Lot at Center Drive, Bethesda, Maryland; NIH Clinical Center at 10 Center Drive, Bethesda, Maryland; National Institutes of Health at 9000 Rockville Pike, Bethesda, Maryland; MedStar Georgetown University Hospital at 3800 Reservoir Road Northwest, Washington, D C; and MedStar Washington Hospital Center at 110 Irving Street Northwest, Washington, D C. Which one would you like to use?
+CALLER: Nine nine zero one Medical Center Drive.
+AGENT: That address is your pickup location. Could
+CALLER: It's getting to hospital.
+AGENT: Thanks for clarifying. Could you please specify which hospital from the list I mentioned earlier you want to go to?
+CALLER: I need to go to you need to come to hospital to pick me up.
+AGENT: Just to confirm, you want a ride from the hospital at nine nine zero one Medical Center Drive, Rockville, Maryland, correct? And where would you like to go from there?
+CALLER: Yeah. 13 Bills Avenue.
+AGENT: Thank you for the destination address at 13 Bills Avenue. Could you please tell me the city and state for that address?
+CALLER: Walkville, Maryland
+AGENT: Thank you. I will now look up 13 Bills Avenue, Walkville, Maryland to confirm the address.
+AGENT: I couldn't find 13 Bills Avenue in Walkville, Maryland. Could you please double-check the street name or provide a nearby landmark or cross street to help locate it?
+CALLER: It's 13 Ave over by North Washington Street.
+AGENT: Thank you for the additional details. Just to clarify, is the address 13 Avenue near North Washington Street in Walkville, Maryland?
+CALLER: It's 13 Bills Avenue.
+AGENT: Thanks for confirming the street name as 13 Bills Avenue. Since the previous lookup
+CALLER: Bill Grant on top. Yeah. There's Bill's Grand Apartments.
+AGENT: Thank you for that detail. I will now search for Bill's Grand Apartments near 13 Bills Avenue, Walkville, Maryland to find the correct address.
+AGENT: I found some places related to Bill's Grand Apartments near 13 Bills Avenue, Walkville, Maryland: Bills Music House at 743 Frederick Road, Catonsville; Bill's Place at 1516 West Baltimore Street, Baltimore; Mr. Bill's Terrace Inn Crab House at 200 Eastern Boulevard, Essex; and Bill's Place at 12719 High Germany Road, Little Orleans. Do any of these match the location you want to go to?
+CALLER: No. Bells Grands Apartment in 13 Bill Bills Avenue.
+AGENT: Thank you for clarifying. Since the exact address is still unclear, could you please provide a nearby landmark, cross street, or any additional details to help me find Bells Grands Apartment at 13 Bills Avenue?
+CALLER: I can show the driver.
+AGENT: I understand. Since the exact address is unclear, the driver will rely on your guidance when they arrive. Your pickup is confirmed at nine nine zero one Medical Center Drive, Rockville, Maryland. I will now proceed with validating your dropoff as best as possible.
+AGENT: I’m having trouble locating 13 Bills Avenue in Walkville, Maryland. Could you please provide the full street address including any apartment or building number, or a nearby landmark to help find it?
+CALLER: 13 Bills Avenue the bill grand apartment
+AGENT: Thank you for repeating the address as 13 Bills Avenue, Bill Grand Apartment. Since the exact location is still unclear, could you please provide any nearby cross street, landmark, or additional detail to help find it?
+CALLER: I was not because street is
+AGENT: I want to make sure I understand correctly. Could you please
+CALLER: not Washington Street.
+AGENT: Thank you for clarifying that the street is not Washington Street. Could you please tell me the correct cross street or any other nearby landmark to help locate 13 Bills Avenue and Bill Grand Apartment?
+CALLER: And the prostate is North Washington Street and Bells Avenue.
+AGENT: Thank you for the clarification. Just to confirm, is the address near the intersection of North Washington Street and Bells Avenue?
+CALLER: Yeah.
+AGENT: I couldn't find 13 Bills Avenue near North Washington Street in Walkville, Maryland. Could you please provide the full street address or another nearby landmark to help locate it?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

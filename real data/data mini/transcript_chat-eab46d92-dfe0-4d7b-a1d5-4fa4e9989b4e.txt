@@ -1,0 +1,11 @@
+AGENT: Hi Woodrow, this is Ana from Barwood & Regency. You have two trips today — Vehicle 665 is on the way and will arrive in about 16 minutes at 10:13,
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Alrighty.
+AGENT: How can I assist you with your ride today?
+CALLER: What? Time is supposed to be here?
+AGENT: Are you asking about the pickup time for a ride, or would you like to schedule a ride for a specific time? Let me know how I can
+CALLER: Yeah. No. No. No. No. No. But I want you know what hi. Pick up time. Pickup time.
+AGENT: It sounds like you want to know the pickup time for a ride. Let me connect you to the trip status team who can provide that information for you.
+AGENT: You have a pickup scheduled today at 10:00 am from 220 Skidmore Boulevard in Gaithersburg, and a return trip pickup at 12:10 pm from 2421 Linden Lane in Silver Spring. Would you like any more details?
+CALLER: No.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,13 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Hello?
+AGENT: Hi there! This is Ana with Barwood & Regency. May I please have your name?
+CALLER: I need a customer service.
+AGENT: Of course—I can help with booking rides, checking your trip status, or canceling trips right here. What can I assist you with today?
+CALLER: Live representative.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: I need a cab.
+AGENT: Let me get that set up for you right now.
+AGENT: I’m here to help you get a cab. Could you please tell me your name so I can set up your profile?
+CALLER: I need a cap live representative.
+CALLER: I need to talk to an operator.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

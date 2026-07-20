@@ -1,0 +1,15 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Larisa Yelovich?
+CALLER: Exactly right.
+AGENT: Thanks for confirming, Larisa. This is Barwood & Regency. How can I assist you today?
+CALLER: I'd like to order a taxi.
+AGENT: Alright, how would you like to pay for your taxi today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Oh, I'm right. Yes.
+AGENT: Hmmm.. that didn't seem quite clear, could you please tell me again how you would like to pay? Cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Both MRI
+AGENT: Hmmm.. that didn't seem quite clear, could you please tell me again how you would like to pay? Cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Number three. Colon right.
+AGENT: Hmmm.. that didn't seem quite clear, could you please tell me again how you would like to pay? Cash, credit card, or Call and Ride? <emotion value="hesitant"/>
+CALLER: Cohen Wright.
+AGENT: Just to make sure, did you mean Call and Ride for your payment method? <emotion value="hesitant"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+CALLER: Can I speak to someone else who who will understand?

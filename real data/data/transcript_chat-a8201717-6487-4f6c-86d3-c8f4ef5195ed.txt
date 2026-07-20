@@ -1,0 +1,45 @@
+AGENT: Hello SHANTE, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab, please.
+AGENT: Thank you for reaching out. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Call and ride.
+AGENT: Great, I can help with that. Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three five
+AGENT: It looks like you provided only two digits. I need the full last six digits of your Call and Ride card to proceed. Could you please say all six digits?
+CALLER: two zero six nine.
+AGENT: You have provided four digits so far. Could you please provide the complete last six digits of your Call and Ride card?
+CALLER: 352069.
+AGENT: Thank you, your Call and Ride payment method is all set.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: Two zero one one one Central Boulevard, Germantown, Maryland.
+AGENT: I found a similar address from recent trips: 20111 Century Boulevard, Germantown, Maryland. Is that the correct pickup location?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Three six North Summit Drive, Gaithersburg, Maryland.
+AGENT: I have 3 6 North Summit Drive, Gaithersburg, Maryland as the dropoff address. Is that correct?
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Shante. I will now proceed with the next steps.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Repeat.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Two.
+AGENT: Will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: The estimated fare is 20 dollars, paying with your Call and Ride account. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking just the one-way trip for you. Should I go ahead and book it now?
+CALLER: Yes.
+AGENT: I am booking your trip now.
+AGENT: Your main trip is booked with confirmation number 2 1 3 6 6 7 9 9 8. The pickup is today at 10:20 AM. Is there anything else I can help you with?
+CALLER: Repeat confirmation.
+AGENT: The confirmation number for your main trip is 2 1 3 6 6 7 9 9 8. Is there anything else I can assist you with?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Repeat.
+AGENT: The confirmation number for your main trip is 2 1 3 6 6 7 9 9 8. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, SHANTE. Have a wonderful day.

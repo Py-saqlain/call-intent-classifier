@@ -1,0 +1,10 @@
+AGENT: Hello OLUSOLA, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I'm just trying to check if my right is from.
+AGENT: You don't have any active trips scheduled right now. Would you like help booking a ride?
+CALLER: No. Can you check? Do you have me to be picked up at one five three zero one Pine Orchard?
+AGENT: I don't see any active trips scheduled for pickup at 1 5 3 0 1 Pine Orchard. Would you like me to help you book a ride from there?
+CALLER: No. I just wanna know if you you have the active trip for me, but if not, it's alright. Thank you.
+AGENT: I checked and you don't have any active trips scheduled at the moment. If you need help with anything else, just let me know.
+CALLER: No. No. You know what? I just wanna accept that. I'm I'm good otherwise.
+AGENT: I understand you're all set for now. If you need any assistance later, feel free to reach out.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

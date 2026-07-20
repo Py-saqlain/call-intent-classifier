@@ -1,0 +1,11 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Luis,
+AGENT: Thanks, Luis. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: My question is, what time do you guys come and pick it up? Address pick it up at 394 North Avenue.
+AGENT: Alright, Luis, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: This is already in the system. Why you ask that question?
+AGENT: I understand, Luis. Just to make sure everything is set correctly, could you please confirm how you would like to pay for this trip? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: The medicaid is in the system.
+AGENT: Thank you for letting me know, Luis. For this service, we only accept cash, credit card, or Call and Ride as payment methods. If you'd like, I can connect you to a live agent who can assist you further with Medicaid or other options. Would you like me to do that? <emotion value="peaceful"/>
+CALLER: Okay. Okay,
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

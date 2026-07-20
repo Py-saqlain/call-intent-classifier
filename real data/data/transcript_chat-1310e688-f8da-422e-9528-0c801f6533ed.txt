@@ -1,0 +1,23 @@
+AGENT: Hello, andre. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yeah. What was his talk? Store.
+AGENT: Could you please clarify what you mean by "his talk" and "store"? Are you asking about a ride to or from a store, or something else? I'm here to help.
+CALLER: Yeah. Yum, man. I brought to the store.
+AGENT: It sounds like you want to book a ride to the store. Could you please tell me the pickup address and the store's address where you want to go? Also, let me know if you have a preferred pickup time.
+CALLER: Who who who I address? Seventy four No. It's gonna be seventy eight thirty four Scotland Drive.
+AGENT: Thank you for that. Just to confirm, your pickup address is 7 8 3 4 Scotland Drive, Potomac, Maryland, correct? And is the store your dropoff location, or do you have a specific store address you'd like to share?
+CALLER: Or I got a stool that's right up the street. Or is it done or something? It's a it's a. I mean, Amazon.
+AGENT: Thanks for clarifying. So your pickup is 7 8 3 4 Scotland Drive, Potomac, Maryland, and your dropoff is an Amazon location nearby, is that right? Could you please confirm if you want the ride now or at a specific time?
+CALLER: Right.
+AGENT: Thank you for sharing your pickup and dropoff details. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: I want it now.
+AGENT: Got it, you want the ride now. Could you please let me know how you would like to pay? Cash, credit card, or Call and Ride?
+CALLER: And it's not the case. Cash.
+AGENT: Thank you, cash is all set for your payment.
+AGENT: I have 7 8 3 4 Scotland Drive, Potomac, Potomac, Maryland as your pickup address. Is that correct?
+CALLER: No. No. Seven eight three four Scarlet Drive. Potomac, Maryland.
+AGENT: Thank you for the correction. Just to confirm, your pickup address is 7 8 3 4 Scarlet Drive, Potomac, Maryland, right?
+CALLER: Yeah. So for that, seven months old.
+AGENT: I found 7 8 3 4 Scotland Drive, Potomac, Maryland as the closest match. Is that the correct pickup address?
+CALLER: What'd you say? Seven eight three four
+AGENT: I said 7 8 3 4 Scotland Drive, Potomac, Maryland. Is that the correct pickup address?
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

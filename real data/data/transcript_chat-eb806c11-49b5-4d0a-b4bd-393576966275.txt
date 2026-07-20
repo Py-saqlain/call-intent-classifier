@@ -1,0 +1,35 @@
+AGENT: Hello Chow, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello? Can you hear me? Hello? Hello? Can you hear me?
+AGENT: Uhh yes, I can hear you. How can I assist you today? <emotion value="peaceful"/>
+CALLER: It's Can you send a text to take my wife? From the Healthcare Hospital in Mayo to send it back to the home at 11215 Oakleaf Drive, Apartment C 916. So that's a go home in for the night.
+AGENT: Alright, how would you like to pay for the ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: I found a few locations for Healthcare Hospital in Mayo. 
+Option one: 220 Girard Street, Suite 100, Gaithersburg, Maryland. 
+Option two: 201 Russell Avenue, Gaithersburg, Maryland. 
+Option three: 702 Russell Avenue, Suite 100, Gaithersburg, Maryland. 
+Option four: 220 Perry Parkway, Suite 5, Gaithersburg, Maryland. 
+Option five: 655 Watkins Mill Road, Gaithersburg, Maryland. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: No. That's why in our one one eight nine zero zero zero zero zero zero zero in super speed measuring. It is the Adventist Healthcare Medical Center, but it's actually hospital.
+AGENT: Uh, I am sorry, but could you please repeat the street number and the full address for the pickup location? I want to make sure I get it exactly right. <emotion value="apologetic"/>
+CALLER: Let me let me in Silver Spring, Maryland.
+AGENT: Thank you for that. Could you please provide the full street address or the street number and street name for the Adventist Healthcare Medical Center in Silver Spring, Maryland? That way I can find the exact location for your pickup. <emotion value="peaceful"/>
+CALLER: One, two, three, one one eight nine zero hearing aid service for United It's called Adventist Healthcare Medical Center.
+AGENT: Okay, just to confirm, your pickup is at 1 2 3 1 1 8 9 0 Hearing Aid Service for United, Adventist Healthcare Medical Center, Silver Spring, Maryland. Is that correct? <emotion value="hesitant"/>
+CALLER: Me repeat this. One one eight nine zero Peering Way, Silver Spring, Maryland. Did you get that?
+AGENT: Okay, so your pickup address is 1 1 8 9 0 Peering Way, Silver Spring, Maryland. Is that correct? <emotion value="hesitant"/>
+CALLER: U l I n d. Space and then w a y. Did you get that? It's 11 here. 11890. Here the gray. Silver Spring United
+AGENT: Thank you for clarifying. Just to confirm, your pickup address is 1 1 8 9 0 Peering Way, Silver Spring, Maryland. Is that correct? <emotion value="hesitant"/>
+CALLER: I'm gonna turn this up a little bit. Yeah. It's still turning red again. So
+AGENT: I want to make sure I have your pickup address exactly right. Could you please say the full address one more time slowly, including the street number, street name, and city? <emotion value="peaceful"/>
+CALLER: One one eight nine zero zero j Silver Spring, Maryland
+AGENT: Okay, just to confirm, your pickup address is 1 1 8 9 0 Healing Wyoming, Silver Spring, Maryland. Is that correct? <emotion value="hesitant"/>
+CALLER: Yep. Yeah. And then she wants to go home with one one two one five Drive, apartment c, seven six Silver Street, Maryland. Is the origination of this from
+AGENT: Okay, just to confirm, your dropoff address is 1 1 2 1 5 Oak Leaf Drive, Silver Spring, Maryland. Is that correct? <emotion value="hesitant"/>
+CALLER: Yes. I'm talking about c dialing 6, and we have to put that u.
+AGENT: Thank you for clarifying. So your dropoff address is 1 1 2 1 5 Oak Leaf Drive, Apartment C 9 1 6, Silver Spring, Maryland. Is that correct? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+AGENT: I

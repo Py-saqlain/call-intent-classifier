@@ -1,0 +1,38 @@
+AGENT: Hello Betsy, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I wanna book a trip to National Airport tomorrow at 8AM.
+AGENT: Alright, how would you like to pay for your trip? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Okay, so I have the dropoff address as two four zero one Smith Boulevard, Arlington, Virginia. Is that correct? <emotion value="peaceful"/>
+CALLER: No. National Airport.
+AGENT: I found Ronald Reagan Washington National Airport at 2401 Smith Boulevard, Arlington, Virginia. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: Well, yes, National Airport Southwest Southwest Airlines.
+AGENT: Just to clarify, is your pickup location National Airport Southwest Airlines, or did you mean something else? <emotion value="peaceful"/>
+CALLER: Yes. Well, yes, National Airport Southwest Southwest Airlines. Four eight
+AGENT: I found Southwest Airlines at 2401 Ronald Reagan Washington National Airport Access Road, Arlington, Virginia. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: No. I mean, that's my drop off point.
+AGENT: Thank you for clarifying. Could you please tell me your pickup address? <emotion value="peaceful"/>
+CALLER: No. Drop off location. Four eight four nine Langdrum Lane, Chevy Chase, Maryland 20815.
+AGENT: Just to confirm, is your dropoff address four eight four nine Langdrum Lane, Chevy Chase, Maryland? <emotion value="peaceful"/>
+CALLER: No. Pickup. No. No. It's my pickup address.
+AGENT: Just to confirm, is your pickup address four eight four nine Langdrum Lane, Chevy Chase, Maryland? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified, Betsy.
+AGENT: You mentioned you want to be picked up tomorrow at 8 AM. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. July tenth 8AM.
+AGENT: Okay great! I've got your pickup time as tomorrow at 8 AM. How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: One,
+AGENT: Alright, one passenger noted. Will you need a wheelchair-accessible vehicle for this trip? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: Last house on the right, dead end, Langdrum Lane.
+AGENT: Alright, the estimated fare is 30.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for tomorrow at 8 AM. Your confirmation number is 2 1 3 6 7 2 7 6 3. Is there anything else I can help you with?
+CALLER: Repeat.
+AGENT: Certainly. Your main trip is scheduled for tomorrow at 8 AM. The confirmation number is 2 1 3 6 7 2 7 6 3. Is there anything else I can assist you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Betsy. Have a wonderful day.

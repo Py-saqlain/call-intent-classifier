@@ -1,0 +1,32 @@
+AGENT: Hello Bryan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need cab
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Staff.
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you'd like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? If you'd like, I can use your home address at one seven eight two two Buehler Road, Olney, Maryland. Would that work for you? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so your pickup address is one seven eight two two Buehler Road, Olney, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Sweet spot, Georgia Avenue, Olney, Maryland.
+AGENT: I found Sweetspot Dispensary Olney at one eight zero seven zero Georgia Avenue, Olney, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Yeah. Yes.
+AGENT: Your dropoff address has been verified, Bryan.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: As soon as possible.
+AGENT: Okay, I've got your pickup time as today at 1:41 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Hmm <break time="300ms"/> sorry, just to be clear, do you mean no passengers or no wheelchair needed? Could you please tell me how many passengers will be traveling and if anyone needs a wheelchair-accessible vehicle? <emotion
+CALLER: No passengers and no wheelchair.
+CALLER: No.
+AGENT: Hmm <break time="300ms"/> sorry, I recorded one passenger since no passengers can't be booked. Now, do you have any special instructions for the driver? <emotion value="hesitant"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 5.5 dollars, paying with cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 1:41 PM. Your confirmation number is 2 1 3 6 7 3 2 6 6. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Bryan. Have a wonderful day!
+CALLER: Thank you. Bye.

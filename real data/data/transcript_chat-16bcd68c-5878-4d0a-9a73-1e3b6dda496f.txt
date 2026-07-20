@@ -1,0 +1,53 @@
+AGENT: Hello Mary, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I'd like to schedule a cab to pick me up at 09:30. I mean, oops. I mean, at ten forty five.
+AGENT: Thanks for letting me know your pickup time is 10:45 am. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Alright. Color ride.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? If so, could you please provide the last six digits of your Call and Ride card?
+CALLER: Yes.
+AGENT: Could you please provide the last six digits of your Call and Ride card?
+CALLER: Three three four three six
+AGENT: Thank you for providing your Call and Ride details. Your payment method is set to Call And Ride.
+AGENT: Could you please tell me the pickup address for your ride?
+CALLER: One four two
+AGENT: Could you please provide the street name and city for the pickup address starting with one four two?
+CALLER: three three Albert four
+AGENT: Could you please confirm the full pickup address including the street number, street name, and city? For example, "one four two three three Albert four" does not seem complete.
+CALLER: 14233 Arbor Forest Drive.
+AGENT: I have the pickup address as one four two three three Arbor Forest Drive, Rockville, Maryland. Is that correct?
+CALLER: Yes. Who's going?
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: One summit
+AGENT: Could you please provide the street name and city for the dropoff address starting with "One Summit"?
+CALLER: 1 Summit Avenue in Gaithersburg, Maryland.
+AGENT: I found the dropoff address as one Wells Avenue, Gaithersburg, Maryland. Is that correct?
+CALLER: 1 Summit Avenue,
+AGENT: I still have the dropoff address as one Wells Avenue, Gaithersburg, Maryland. Could you please confirm or provide a different address?
+CALLER: One Summit Avenue. Is it? Gaithersburg, Maryland.
+AGENT: I found several locations near 1 Summit Avenue, Gaithersburg, Maryland:
+
+1. Spring Ridge at 374 North Summit Avenue
+2. Streamside Apartments at 340 North Summit Avenue, Apartment 4
+3. 313 North Summit Avenue
+4. Gaithersburg Elementary School at 35 North Summit Avenue
+5. Shell at 15 South Summit Avenue
+
+Which one would you like to use?
+CALLER: Avenue.
+AGENT: Could you please specify which of the locations on Summit Avenue you would like to use for your dropoff? For example, Spring Ridge at 374 North Summit Avenue, or Gaithersburg Elementary School at 35 North Summit Avenue?
+CALLER: Number one, Summit Avenue, in Gaithersburg.
+AGENT: Your dropoff address has been verified, Mary. I'll proceed with arranging your ride now.
+AGENT: Just to confirm, you would like to be picked up today at 10:45 am, is that correct?
+CALLER: Yes.
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: 2 and no. And my name is Jeanette, not Mary.
+AGENT: Thank you, Jeanette. Do you have any special instructions or notes for the driver?
+CALLER: Just some work. Maybe in the front.
+AGENT: The estimated fare for your trip is 18 dollars, paying with your Call And Ride card. Would you like to schedule a return trip as well?
+CALLER: No.
+AGENT: Alright, I will proceed with booking your one-way trip. Just to confirm, should I go ahead and book it now?
+CALLER: Yeah.
+AGENT: Thank you, Jeanette. I am now booking your trip for pickup at 1 4 2 3 3 Arbor Forest Drive to 3 7 4 North Summit Avenue at 10:45 am today, for 2 passengers with no wheelchairs, paying with your Call And Ride card.
+AGENT: Thank you for your patience, Jeanette. I am processing your booking now.
+AGENT: Jeanette, your main trip is booked with confirmation number 2 1 3 6 7 9 2 4 8. Your pickup is today at 10:45 am. Is there anything else I can help you with?
+CALLER: No. That's it.
+AGENT: Thank you for calling Barwood & Regency, Mary. Have a wonderful day.

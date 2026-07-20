@@ -1,0 +1,55 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with noaniking?
+CALLER: This is Melanie King.
+AGENT: Thanks, Melanie. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I can't.
+AGENT: Uhh, I want to make sure I understand you correctly. Are you saying you can't book a ride right now, or is there something else you'd like help with? <emotion value="hesitant"/>
+CALLER: No. I'd like to book a line.
+AGENT: Alright, <break time="300ms"/> how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Alright. I'm going to send.
+AGENT: Hmmm.. <break time="300ms"/> I didn't quite catch that. Could you
+CALLER: Alright.
+AGENT: Hmmm.. <break time="300ms"/> that didn't seem right, could you try again? How would you like to pay for your ride? Cash, credit card, or Call and Ride? <emotion value="apologetic"/>
+CALLER: Call and rise. Columbia.
+AGENT: Just to confirm, did you mean Call and Ride for your payment method? <emotion value="peaceful"/>
+CALLER: Then
+AGENT: Alright, <break time="300ms"/> could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?
+AGENT: Alright, <break time="300ms"/> how would you like to pay? We
+CALLER: Three four one six six six.
+AGENT: Okay so <break time="300ms"/> I've
+AGENT: Hmm <break time="350ms"/> let me check that address. Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: One two five zero three. Winicksburg Manor.
+AGENT: Okay, so I have one two five zero three Winicksburg Manor. <break time="300ms"/> Hmm, let me check that address.
+AGENT: Okay, so I found
+CALLER: What's that
+AGENT: I found the address as one two five zero three Winexburg Manor Drive, Silver Spring, Maryland. Is that correct? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Eight three zero one. Sixteenth Street, Silver Spring.
+AGENT: Okay, so I have eight three zero one Sixteenth Street, Silver Spring. <break time="300ms"/> Let me check that address.
+AGENT: Okay, I found the address as eight three zero one one
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Melanie.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now
+AGENT: Okay great! <break time="200ms"/> I've got your pickup time set for today at 7:08 PM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: One one
+CALLER: Hello?
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. You said one passenger, correct? And will you need a
+CALLER: Hello?
+AGENT: I’m here to help. Could you please tell me how many passengers will be
+CALLER: Yes.
+CALLER: One passenger.
+AGENT: Okay great! <break time="200ms"/> I've got that noted. Will you be needing a wheelchair accessible vehicle? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay great! <break time="200ms"/> I've got that noted. Do you have any special instructions for the driver? <emotion value="peaceful"/>
+CALLER: No. But please hurry.
+AGENT: Alright, the estimated fare is 17.5 dollars, paying with Call and Ride. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. Thank you.
+AGENT: Alright, I will proceed with booking your one-way trip then. Just to confirm, should I go ahead and book your ride now? <emotion value="peaceful"/>
+CALLER: Yes, please.
+AGENT: Okay so <break time="250ms"/> I’m booking your ride now.
+AGENT: Your main trip is booked for today at 7:08 PM. Your confirmation number is 2 1 3 6 7 5 2 7 6. Is there anything else I can help you with?
+CALLER: No. Thank you.
+AGENT: Thank you for calling Barwood & Regency, Melanie. Have a wonderful day!

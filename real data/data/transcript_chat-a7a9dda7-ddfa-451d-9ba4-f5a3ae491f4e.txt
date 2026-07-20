@@ -1,0 +1,26 @@
+AGENT: Hello Beverly, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Do you pick up the Marlboro pie
+AGENT: Hi there, just to clarify, are you asking if we pick up from Marlboro Pike? Also, when you're ready, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride.
+CALLER: Yes.
+AGENT: Great, thanks for confirming the pickup location. Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: I I need to know if you come this far. This is in this is on lumber pipe. In Prince George's County.
+AGENT: Thank you for that information. Just to make sure I have it right, is your pickup address 2 0 7, 2 5 8 9 Naylor Road Southeast, Washington, D C? Or is there a different address on Marlboro Pike in Prince George's County you'd like to use? <emotion value="hesitant"/>
+CALLER: Yes. 4800, Womburg Heights.
+AGENT: Okay, just to confirm, your pickup address is 4 8 0 0 Womburg Heights. Could you please tell me the city and state for that address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please provide the city and state for 4 8 0 0 Womburg Heights? This will help me confirm the exact pickup location. <emotion value="peaceful"/>
+CALLER: This is mall, bello, pint. Marl, m a r l b o r o. Marlboro Pipes.
+AGENT: Hmm <break
+CALLER: Care for the high
+AGENT: Uh, I am sorry, but could you please repeat that? I want to make sure I get your pickup address correctly. <emotion value="hesitant"/>
+CALLER: Four eight zero zero. M a r l d o r o mulberry pike,
+AGENT: Thank you for clarifying. Just
+CALLER: in.
+AGENT: Okay, let me check that address. 4 8 0 0 Marlboro Pike.
+AGENT: Okay, so I found 4 8 0 0 Marlboro Pike, Capitol Heights, Maryland.
+CALLER: Yeah.
+AGENT: I'm sorry, but I couldn't find any location for "Marlboro pie." Could you please provide the full dropoff address or another nearby landmark?
+CALLER: I I don't remember landmark. Thank you very much. Have a good day.

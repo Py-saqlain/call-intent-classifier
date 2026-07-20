@@ -1,0 +1,81 @@
+AGENT: Hi Joan, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I did a a a cap from one one okay. One one eight eight No. 8 wait a minute. Let me write let me write it. Okay. And then after the 9, it's a 0. Okay. This is the address. One one eight nine zero Hilli Way, White Oak, which is actually silver spring You know, we're still in Silver Spring, Maryland. The the seventh day Adventist, Hospital. It's called
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: White Oak medic center, you know,
+AGENT: Thanks for that information. Just to make sure, how would you like to pay for your ride? Cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: White Oak medic center, you know, We it would be it would it would be debit.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+CALLER: Debit.
+AGENT: Okay, so I found the pickup location as one one eight nine zero Healing Way, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: Sure, let me update your payment method.
+AGENT: Alright, your payment method has been updated to credit card. What pickup address should I use for your ride? <emotion value="peaceful"/>
+CALLER: Right. Mhmm. Right. 11890 Hilli Way, uh-huh,
+CALLER: me talk to my wife. Hold one second.
+AGENT: I'm here whenever you're ready. Just let me know when you'd like to continue. <emotion value="peaceful"/>
+AGENT: Of course, take your time. I'll be here when you're ready. <emotion value="peaceful"/>
+AGENT: I'm here whenever you're ready. Take your time. <emotion value="peaceful"/>
+CALLER: Okay.
+AGENT: Thanks for letting me know. Regarding your dropoff, I found two locations: Option one: 1 2 0 4 0 Plum Orchard Drive, Silver Spring. Option two: 1 1 8 9 0 Healing Way, Silver Spring. Which one is correct? <emotion value="peaceful"/>
+CALLER: Okay. Pick as a prompt hard drive, but it'll be better. You know, what's the address on parked? Because there is a bus stop there. And if you get here, we're flashing lights. They call the ambulance.
+AGENT: Just to clarify, you would like to be dropped off at the Adventist HealthCare White Oak Medical Center located at one one eight nine zero Healing Way, Silver Spring, Maryland, near the bus stop? <emotion value="peaceful"/>
+CALLER: So it'd rather be they the second one is what No. You're picking us up here. You're picking up here.
+AGENT: Okay, so you want the pickup location to be Adventist HealthCare White Oak Medical Center at one one eight nine zero Healing Way, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. You can do that.
+AGENT: I found two locations for the dropoff: Option one is one two zero four zero Plum Orchard Drive, Silver Spring. Option two is one one eight nine zero Healing Way, Silver Spring. Which one would you like to use? <emotion value="peaceful"/>
+CALLER: I already told you. Is, know, a one on promo card.
+AGENT: Thanks for clarifying. So you want to be dropped off at one two zero four zero Plum Orchard Drive, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Joan. I'll now proceed with the next steps.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Okay. Now
+AGENT: Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Yes, Juan.
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. Could you please tell me how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: Just one. You don't need to bring a wheelchair. You don't need to bring a wheelchair. You don't need to bring a wheelchair. You don't need to bring a wheelchair. You don't need to bring a wheelchair. Block.
+AGENT: Okay great! <break time="200ms"/> I've got one passenger and no wheelchair needed. Do you have any special instructions for the driver? <emotion value="grateful"/>
+CALLER: See, speaks Spanish, very little English.
+AGENT: Alright, the estimated fare is 5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Okay.
+AGENT: For your return trip, when would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Okay. We're gonna do MBA but I'm I'm I'm just you know? Yeah. Because I don't know if you have enough room in there. But that's why I'm taking the bus, so it'll take me to ride there. The MBA is on Baltimore Avenue. And Rhode Island almost. In, uh, Bellsville, Maryland.
+AGENT: I don't have the passenger count for your return trip yet. How many passengers will be traveling on the return trip, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Just one. Just one. Just one.
+AGENT: Okay, I've got one passenger for the return trip. When would you like to be picked up for that trip? <emotion value="peaceful"/>
+CALLER: Return trip. What time is it now? Seven. Uh, return trip will be about eleven. Between 10:30 and eleven.
+AGENT: Thanks for that. Just to confirm, you want your return trip pickup time between 10:30 AM and 11:00 AM? <emotion value="peaceful"/>
+CALLER: Right. Mhmm.
+AGENT: Okay great! <break time="200ms"/> I've scheduled your return trip pickup for today at 11:00 AM. Will you need a wheelchair-accessible vehicle for the return trip? <emotion value="grateful"/>
+CALLER: If you wanna ping it, that'd be fine.
+AGENT: For your return trip, I have the pickup at one two zero four zero Plum Orchard Drive and the dropoff at one one eight nine zero Healing Way. Is that correct? <emotion value="peaceful"/>
+CALLER: Where are you picking this up? You picking this up on one one eight nine zero. Hilliway, Why? And you're you taking her to row Baltimore Avenue.
+AGENT: Just to clarify, you want the return trip pickup at one one eight nine zero Healing Way, and the dropoff at Baltimore Avenue? Could you please confirm the full address for the dropoff on Baltimore Avenue? <emotion value="peaceful"/>
+CALLER: With Baltimore Avenue Right.
+AGENT: Could you please provide the full street number and name for the Baltimore Avenue address so I can confirm it correctly? <emotion value="peaceful"/>
+CALLER: Yes. It's MBA
+AGENT: I want to make sure I understand correctly. Are you saying the dropoff address is on Baltimore Avenue? Could you please provide the full street number or any additional details to help me locate it? <emotion value="peaceful"/>
+CALLER: okay. Hold one second. Hold one second. I have it written down. Hold one second.
+AGENT: Take your time. I'll be here when you're ready. <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay. One three six zero zero
+AGENT: Thanks. Is the full dropoff address one three six zero zero Baltimore Avenue? <emotion value="peaceful"/>
+CALLER: Baltimore Avenue, Bellsville, Maryland.
+AGENT: Okay, so the dropoff address is one three six zero zero Baltimore Avenue, Beltsville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Right. Correct.
+CALLER: Correct. Thank you.
+AGENT: I couldn't find an exact match for one three six zero zero Baltimore Avenue, Beltsville, Maryland. However, I found a location at one zero eight two zero Rhode Island Avenue, Suite A, Beltsville, Maryland. Is that the place you meant? <emotion value="hesitant"/>
+AGENT: I found a location near one three six zero zero Baltimore Avenue, Beltsville, Maryland. It is 1 0 8 2 0 Rhode Island Avenue Suite A, Beltsville, Maryland 2 0 7 0 5. Is that the correct dropoff location? <emotion value="hesitant"/>
+CALLER: Okay. Yeah. That that'd be fine.
+AGENT: Your dropoff address for the return trip has been verified, Joan. I'll proceed with the next steps.
+AGENT: The estimated fare for your return trip is 13 dollars and 50 cents, paying with Self. Should I go ahead and book both trips? <emotion value="peaceful"/>
+AGENT: Would you like to use the same payment method, credit card, for your return trip as well? <emotion value="peaceful"/>
+CALLER: I'm I'm just doing one way
+AGENT: Thank you for letting me know. I’m processing your one-way trip booking now. Please hold on a moment.
+AGENT: Your one-way trip is booked for today at 7:07 AM. Your confirmation number is 2 1 3 6 7 7 8 4 5. Is there anything else I can help you with?
+CALLER: Two two one six seven one Yep. Seven three zero five. Is that the confirmation number?
+AGENT: The confirmation number I have for your trip is 2 1 3 6 7 7 8 4 5. Would you like me to repeat it again?
+CALLER: Yes.
+AGENT: Your confirmation number is 2 1 3 6 7 7 8 4 5. Is there anything else I can assist you with?
+CALLER: Thank you. Yeah.
+AGENT: You're welcome. If you need anything else, just let me know.
+CALLER: No.
+CALLER: Have a good day.

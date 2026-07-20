@@ -1,0 +1,17 @@
+AGENT: Hi Caroline, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a cab, please.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit Credit, please.
+AGENT: Okay so I've got that payment noted as Credit Card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? If you'd like, I can also use your
+CALLER: Eight seven eight seven zero nine Fenway Drive.
+AGENT: Hmm <break time="350ms"/> I couldn't find 8 7 8 7 0 9 Fenway Drive. Could you please provide the city and state for
+CALLER: No. No. Eight seven eight seven zero nine Fenway Drive.
+AGENT: Thank you for repeating that. Could you please tell me the city and state for 8 7 8 7 0 9 Fenway Drive? <emotion value="hesitant"/>
+CALLER: You're not eight seven zero nine. Fenway Drive.
+AGENT: Just to be sure, is your pickup address 8 7 8 7 0 9 Fenway Drive? If so, could you please provide the city
+CALLER: No No. Eight seven zero nine. Fenway Drive,
+AGENT: Thank you for clarifying. Could you please tell me the city and state for 8 7 0 9 Fenway Drive? <emotion value="hesitant"/>
+CALLER: It does that Maryland
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.
+AGENT: Okay, so I found 8 7 0 9

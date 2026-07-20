@@ -1,0 +1,55 @@
+AGENT: Hello George, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to book a ride to Dallas Airport tomorrow.
+AGENT: Alright, how would you like to pay for your ride tomorrow to Dallas Airport? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: I like to pay cash. K. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+CALLER: Pardon? Say again?
+AGENT: Could you please tell me the pickup address for your ride to Dulles Airport tomorrow? <emotion value="peaceful"/>
+CALLER: Nine eight zero seven Veres Drive, Rockville.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is nine eight zero seven Veirs Drive, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found Dulles International Airport at 1 Saarinen Circle, Dulles, Virginia. Is that the correct destination? <emotion value="peaceful"/>
+CALLER: Duluth Airport. Right?
+AGENT: Just to confirm, you mean Dulles International Airport at 1 Saarinen Circle, Dulles, Virginia? <emotion value="hesitant"/>
+CALLER: At what?
+AGENT: The address is
+CALLER: No. Wait. I need to pick up it. 5PM tomorrow.
+AGENT: Got it, you want a pickup from Dulles International Airport tomorrow at 5 PM. Could you please provide the dropoff address for your ride?
+CALLER: Right.
+AGENT: Okay, so your pickup address is one Saarinen Circle, Dulles, Virginia. Is that correct? <emotion value="peaceful"/>
+CALLER: No. No. No. No. No. No.
+AGENT: Okay, please provide the correct pickup address for your ride tomorrow at 5 PM. <emotion value="peaceful"/>
+CALLER: Hello? Nine eight zero seven Veres Drive, Rockville.
+AGENT: Okay, let me check that address again. <emotion value="peaceful"/>
+AGENT: Okay, so your pickup address is nine eight zero seven Veirs Drive, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found Dulles International Airport at 1 Saarinen Circle, Dulles, Virginia. Is that the correct destination? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Thank you, George.
+AGENT: What time tomorrow would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 5PM.
+AGENT: Just to confirm, you would like to be picked up tomorrow at 5 PM, correct? <emotion value="peaceful"/>
+AGENT: Okay great! I've got your pickup time set for tomorrow at 5 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Kiss myself.
+AGENT: Hmm
+CALLER: That'll be one.
+AGENT: Okay, one passenger noted. Do you need a wheelchair-accessible vehicle for this trip? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay great! I've got one passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No.
+AGENT: Alright, the estimated fare is 74 dollars, paying with Cash. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for tomorrow at 5:00 pm. Your confirmation number is 2 1 3 6 7 1 9 1 7. Is there anything else I can help you with?
+CALLER: No. Can you repeat everything? Repeat. Everything.
+AGENT: Certainly. Your main trip is scheduled for tomorrow at 5:00 pm. The fare is 74 dollars, paying with Cash. Your confirmation number is 2 1 3 6 7 1 9 1 7. Is there anything else I can assist you with?
+CALLER: Repeat the pickup address.
+AGENT: Your pickup address is 9 8 0 3 Veirs Drive, Rockville, Maryland. Is there anything else I can do for you?
+CALLER: The pickup address is 9 yeah. Nine eight zero seven Pierce Drive.
+AGENT: Thank you for the correction. To make sure I have it right,
+CALLER: Okay.
+AGENT: You already have a trip from Rockville to Dulles tomorrow at 5:00 pm. What would you like to do?
+CALLER: Yes. That's good.
+AGENT: Thank you for calling Barwood & Regency, George. Have a wonderful day.
+CALLER: Can the driver message me

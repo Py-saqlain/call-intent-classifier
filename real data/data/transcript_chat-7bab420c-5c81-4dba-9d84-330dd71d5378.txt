@@ -1,0 +1,37 @@
+AGENT: Hi Mary, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to get a cab to take me to the grocery store.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: It's colonized.
+AGENT: Hmmm.. that didn't seem right, could you please tell me again how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+CALLER: Call and ride.
+AGENT: Okay so I've got that payment noted as Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Yes. It's three three five four nine four.
+AGENT: Thank you for providing your Call and Ride card details. Your payment method is confirmed as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+CALLER: Can you repeat that, please? I there's no. Yes. Pickup address is one four three one one Georgia Avenue,
+AGENT: Okay, so your pickup address is one four three one one Georgia Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: apartment one zero four,
+AGENT: Thank you for that detail. So your full pickup address is one four three one one Georgia Avenue, apartment one zero four, Silver Spring, Maryland. Is that right? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I found the address as one four three one one Georgia Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Apartment 104,
+AGENT: Thank you for clarifying. Just to confirm, your pickup address is one four three one one Georgia Avenue, apartment one zero four, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: I found a few grocery stores near your pickup address. Option one: La Fiesta Bonita at one four three four seven Georgia Avenue, Silver Spring. Option two: Seven Mile Market in Silver Spring. Option three: Giant Food at three eight six zero International Drive, Silver Spring. Option four: Giant Food at one three seven eight one Connecticut Avenue, Silver Spring. Option five: Lotte Plaza Market at one three six two five Georgia Avenue, Silver Spring. Which one would you like to go to? <emotion value="peaceful"/>
+CALLER: Auction four one three seven eight one Connecticut Avenue, Silver Spring.
+AGENT: Your dropoff address has been verified. Mary, I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now,
+AGENT: Okay great! I've got your pickup time as today at 9:28 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: one and no vehicle problem.
+AGENT: Okay great! I've got 1 passenger and no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="grateful"/>
+CALLER: I'll be waiting outside for him.
+AGENT: Alright, the estimated fare is 5.5 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Not at this time.
+AGENT: Okay, I will proceed with booking your one-way trip then. Just to confirm, should I go ahead and book this ride for you now? <emotion value="peaceful"/>
+CALLER: Yes. I'm at at the one four three one one Georgia Avenue, apartment one zero four.
+AGENT: Thank you for confirming. I have your pickup address as 1 4 3 1 1 Georgia Avenue, apartment 1 0 4. I will proceed with booking your ride now. <emotion value="grateful"/>
+AGENT: Thank you for waiting. I'm now booking your trip from 1 4 3 1 1 Georgia Avenue, apartment 1 0 4. Please hold on a moment.
+AGENT: Your main trip is booked for today at 9:28 AM. Your confirmation number is 2 1 3 6 7 2 9 8 6. Is there anything else I can help you with?
+CALLER: Thank you. Alright.
+AGENT: Thank you for calling Barwood & Regency, Mary. Have a wonderful day!

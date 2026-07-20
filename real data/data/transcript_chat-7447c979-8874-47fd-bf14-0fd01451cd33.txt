@@ -1,0 +1,31 @@
+AGENT: Hi Leah, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Request a trip.
+AGENT: Thank you for reaching out. How would you like to pay for your trip today? We accept cash, credit card, and Call and Ride.
+CALLER: Cash.
+AGENT: Great, I have your payment method as cash.
+AGENT: Could you please provide the pickup address for your trip?
+CALLER: One two five three. Zero. Milestone entry. Drive. Germantown, c zero eight seven six.
+AGENT: I couldn't locate the pickup address as given. Could you please confirm the full street address, city, and state again for the pickup?
+CALLER: One three five three zero Mild Center Drive, Germantown, two zero eight. Seven. Six.
+AGENT: I found a location called 19512 Amaranth Drive in Germantown, Maryland 20874. Is this the correct pickup location?
+CALLER: No.
+AGENT: Thank you for letting me know. Please provide the correct pickup address again, and I'll look it up for you.
+CALLER: One. Two,
+AGENT: It seems like your message was cut off. Could you please provide the full pickup address again?
+CALLER: five three, zero, one two five three zero. Mile Stone. Center drive.
+AGENT: I found a location called Studio 6 Extended Stay Washington, D.C. Germantown Maryland at 12530 Milestone Center Drive, Germantown, Maryland 20876. Is this the correct pickup location?
+CALLER: Yeah.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Yeah. He dropoff is six six. North Court,
+AGENT: Thank you. Could you please provide the city and state for the dropoff address at six six North Court?
+CALLER: Street, and the ZIP code is one
+AGENT: I understand the dropoff address includes six six North Court Street. Could you please provide the city and state for this address? The ZIP code is not needed.
+CALLER: seven zero one.
+AGENT: Could you please tell me the city and state for the dropoff address at six six North Court Street?
+CALLER: Street, and the ZIP code is t one seven zero one.
+AGENT: I understand the ZIP code is 2 1 7 0 1, but I still need the city and state for the dropoff address at six six North Court Street. Could you please provide those?
+CALLER: address It's North Court Street.
+AGENT: Thank you. Could you please provide the city and state for the dropoff address on North Court Street?
+CALLER: North. Court. Three.
+AGENT: I want to make sure I have the correct
+CALLER: North. Court. Three.

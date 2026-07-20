@@ -1,0 +1,11 @@
+AGENT: Hi Shawn, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. Uh, Micah Kay. Pickup time at 03:00. Michael King.
+AGENT: Alright, how would you like to pay for your ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: They do Medicare for him. Medicare. He got transportation.
+AGENT: I appreciate you letting me know, but for this service, we only accept cash, credit card, and Call and Ride. Would you like to use one of those payment methods? <emotion value="peaceful"/>
+CALLER: No. I don't. Because I'm calling because we have been there for a week now. They've been picking them up. Is this b a r w o o k?
+AGENT: Thank you for sharing that. Since Medicare is not accepted here, I can connect you to a live agent who might be able to assist you further. Would you like me to do that for you? <emotion value="peaceful"/>
+CALLER: Yeah. So that's the cab stuff that's been taking note. That's the cab something that's been picking us up. That's what I'm saying. And they do medicaid transportation.
+AGENT: I'm connecting
+CALLER: And Claudia, it's a virtual worker.
+AGENT: I'm

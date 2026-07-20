@@ -1,0 +1,16 @@
+AGENT: Hi Michael, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello.
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Hola.
+AGENT: Hi there! What can I do for you regarding your ride today? <emotion value="peaceful"/>
+CALLER: Hola.
+AGENT: Hello again! How can I help you with your transportation needs today? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Van
+AGENT: I want to make sure I understand you correctly. Are you looking to book a van for your ride?
+CALLER: Farward ban
+AGENT: Uhh, I want to make sure I understand you correctly. Are you asking about booking a van for your ride?
+CALLER: Barwood ban?
+AGENT: Are you asking about booking a van with Barwood Cab? If so, I can help you with that. Could you please tell me your pickup location and destination?
+CALLER: Three
+AGENT: Could you please clarify if "three" refers to the number of passengers, wheelchairs, or something else for your ride?

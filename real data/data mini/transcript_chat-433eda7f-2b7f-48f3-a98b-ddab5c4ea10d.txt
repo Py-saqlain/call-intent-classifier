@@ -1,0 +1,21 @@
+AGENT: Hello Annette, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: For company. I need to get over
+AGENT: Umm, I want to make sure I understand you correctly. Are you looking to book a ride for your company to get somewhere? Could you please tell me where you need to go? <emotion value="peaceful"/>
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Agent. Agent.
+AGENT: I'm here to help you. When you're ready, please let me know how you'd like to pay for your ride—cash, credit card, or Call and Ride? <emotion value="peaceful"/>
+CALLER: Sure. Robot
+AGENT: I’m here to assist you personally. Could you please tell me how you would like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: You're a robot. Credit card
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Listen. Human being.
+AGENT: I’m here with you. Please tell me the pickup address when you’re ready. <emotion value="peaceful"/>
+CALLER: No. No. I don't even know the
+AGENT: I understand. If you’re not sure about the pickup address, could you tell me a nearby landmark, cross street, or any place close to where you want to be picked up? That way I can help find the right location. <emotion value="peaceful"/>
+CALLER: No. Human being.
+AGENT: I can help you with your booking — would you like to continue? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Did you hear

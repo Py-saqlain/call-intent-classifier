@@ -1,0 +1,46 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Mary hall?
+CALLER: Yes.
+AGENT: Thanks for confirming, Mary. This is Barwood & Regency. How can I assist you today?
+CALLER: Like to be picked up
+AGENT: Okay, I can help with that. Could you please tell me the pickup address you'd like to use?
+CALLER: Eight zero b. Vero Drive, Gaithersburg, Maryland
+AGENT: Thanks for that. Just to confirm, your pickup address is 8 0 B Vero Drive, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Great. Where would you like to go?
+CALLER: Two two nine. JetBlue Boulevard, Gaithersburg, Maryland
+AGENT: Thank you. To confirm, your destination is 2 2 9 JetBlue Boulevard, Gaithersburg, Maryland. Is that right?
+CALLER: No.
+AGENT: Okay, no problem. Could you please tell me the correct destination address again?
+CALLER: Two two nine Kentlands. Boulevard Gaithersburg, Maryland.
+AGENT: Thanks for clarifying. Your destination is 2 2 9 Kentlands Boulevard, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: Got it. When would you like to be picked up?
+CALLER: Now
+AGENT: Alright, you want to be picked up now from 8 0 B Vero Drive, Gaithersburg, Maryland, going to 2 2 9 Kentlands Boulevard, Gaithersburg, Maryland. Is that all correct? And do you have a preferred payment method?
+CALLER: Yes.
+AGENT: Alright, how would you like to pay? We accept cash, credit card, and Call and Ride. <emotion
+CALLER: Call and ride.
+AGENT: Okay, just to confirm, you said Call and Ride.
+CALLER: Paul and ride.
+AGENT: Hmmm.. that didn't seem right, could you please confirm if you meant Call and Ride? If not, please let me know how you'd like to pay. <emotion value="apologetic"/>
+CALLER: Call en route.
+AGENT: Okay, I understand you mean Call and Ride. Could you please provide the last six digits of your Call and Ride card? <emotion value="peaceful"/>
+CALLER: Zero six three nine one four.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Okay, so your pickup is 80 Bureau Drive, Gaithersburg, Maryland, and your dropoff is 229 Kentlands Boulevard, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your addresses have been verified, Mary.
+AGENT: You mentioned you'd like to be picked up now. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: One No.
+AGENT: Okay great! <emotion value="grateful"/> Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Alright, the estimated fare is 10.5 dollars, paying with your Call and Ride card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Okay, I will proceed with booking just your one-way trip then. Should I go ahead and book it now? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Okay, so I am booking your trip now. <emotion value="peaceful"/>
+AGENT: I'm processing your booking now. Please hold on a moment.
+AGENT: Your trip is booked for today at 10:05 AM. Your confirmation number is 2 1 3 6 7 5 5 8 8. Is there anything else I can help you with?
+CALLER: No.

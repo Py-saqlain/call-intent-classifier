@@ -1,0 +1,10 @@
+AGENT: Good morning, Everett. This is Ana with Barwood & Regency. Your ride is scheduled for pickup today at 7:00 AM. How can I assist you today?
+CALLER: Uh, have you found a ride for me?
+AGENT: I can help you with that. Are you looking to book a new ride now, or would you like to check the status of a ride you already have scheduled?
+CALLER: No. I already have one scheduled, miss. I'd like to know if it's on its way.
+AGENT: Your scheduled trip for 7:00 am from 609 Whetstone Glen Street to 655 Watkins Mill Road is active, but no driver has been assigned yet. I'll keep you posted. Is there anything else I can help with?
+CALLER: No. I just hope they get here so I don't be late. Since I called you yesterday.
+AGENT: I understand your concern, and I hope the driver is assigned soon to get you there on time. If you want, I can connect you with a customer representative who can provide more immediate updates. Would you like me to do that?
+CALLER: Please Please. Yes, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Thank you.

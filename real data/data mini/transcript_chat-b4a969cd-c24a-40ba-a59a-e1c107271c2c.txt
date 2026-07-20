@@ -1,0 +1,15 @@
+AGENT: Hi Michael, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need to book a trip.
+AGENT: Okay, I can help you with that. Could you please tell me where you would like to be picked up from? <emotion value="grateful"/>
+AGENT: Alright, how would you like to pay for your trip?
+CALLER: My two.
+AGENT: Hmmm.. that didn't seem right, could you please tell me how you would like to pay? We accept cash, credit card, and Call and Ride. <emotion value="apologetic"/>
+AGENT: Take your time. Just
+CALLER: Very good.
+AGENT: Alright, how would you like to pay? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: Five two five Fair Avenue, Silver Spring, Maryland two zero nine one zero.
+AGENT: Okay, so I found 5 2 5 Wayne Avenue, Silver Spring, Maryland. Is that the correct pickup address? <emotion value="peaceful"/>
+CALLER: Is that not what I no. No. It's not.

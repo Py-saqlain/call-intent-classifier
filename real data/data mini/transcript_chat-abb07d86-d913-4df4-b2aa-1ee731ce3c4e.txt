@@ -1,0 +1,10 @@
+AGENT: Hello Abel, this is Ana from Barwood & Regency. You have two trips today — Vehicle 1126 has arrived at your pickup location, and your trip with vehicle 1126 is accepted and scheduled for pickup today at 4:30 PM. How can I assist you today?
+CALLER: Which part of the speech did the my pickup car sent?
+AGENT: Uhh, could you please clarify what you mean by "the part of the speech" regarding your pickup car? Are you asking about the status or location of your ride, or something else? <emotion value="hesitant"/>
+CALLER: The location.
+AGENT: Okay, so your current pickup car is at 8 7 0 4 Colesville Road in Silver Spring, Maryland. Is there anything else I can help you with? <emotion value="content"/>
+CALLER: Which side of the street did the pickup car it waiting for me on Colesfield Road? Or Fenton? Street?
+AGENT: Uhh, the system doesn't show which side of the street the car is waiting on Colesville Road or Fenton Street. If you want, I can connect you with a representative who might assist further. <emotion value="sympathetic"/>
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.
+CALLER: Yes. Please connect me.
+AGENT: I'm

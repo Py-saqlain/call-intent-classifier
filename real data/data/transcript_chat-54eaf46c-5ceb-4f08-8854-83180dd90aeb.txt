@@ -1,0 +1,33 @@
+AGENT: Hi Caroline, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: No. I need the cab. I'm trying to get the cab two eighty. The wheelchair cab to come get me. If that's possible.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cab people. No credit card.
+AGENT: Okay so I've got that you do not want to pay by credit card. Would you prefer to pay with cash or Call and Ride? <emotion value="peaceful"/>
+CALLER: No. I said credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address where the wheelchair cab should come to get you? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Thank you. Could you please provide the full pickup address including the street number and street name? <emotion value="peaceful"/>
+CALLER: Yeah. 19307.
+AGENT: Thank you. Could you please tell me the
+CALLER: I'm gonna do it if you let me.
+AGENT: Uh, I am sorry, but could you please repeat the full pickup address including the street name along with the number 1 9 3 0 7? <emotion value="hesitant"/>
+CALLER: If you if if if you let me okay. One nine three zero seven Clubhouse Road, Apartment 102,
+AGENT: Okay, so I found the pickup location as one nine three zero seven Club House Road, Gaithersburg, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Right. Mhmm. That's correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Okay. One seven three five. Germantown Road, I gotta be there. Gotta be there by eight. So 07:30 can be picked up.
+AGENT: Hmm, let me check that address. I couldn't find one seven three five Germantown Road. Could you please provide
+CALLER: Three three ten.
+AGENT: Thank you. Could you please tell me the street name and city for the dropoff address with the number three three one zero? <emotion value="peaceful"/>
+CALLER: It's just it's Germantown Road, Suite 310.
+AGENT: Okay, I found the dropoff location as three three one zero Gallows Road, Falls Church, Virginia. Is that correct? <emotion value="peaceful"/>
+CALLER: Oh, Germantown who?
+AGENT: Uh, I am sorry, but could you please repeat the dropoff address including the street number and street name? <emotion
+CALLER: I don't fall straight.
+AGENT: Uh, I am sorry, but could you please repeat the dropoff address including the street number and street name? <emotion value="hesitant"/>
+CALLER: You really tripping me out bad. I'm hurting.
+CALLER: One nine seven three five Germantown Road, suite three ten I gotta be there by 08:00.
+CALLER: So 07:30 been no pickup time.
+AGENT: Okay, I found the dropoff location as one nine seven three five Germantown Road Suite three zero zero, Germantown, Maryland. Is that correct? <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

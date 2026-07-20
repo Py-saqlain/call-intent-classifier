@@ -1,0 +1,57 @@
+AGENT: Hello, this is Barwood & Regency. Am I speaking with Unknown?
+CALLER: Yeah. I need recovery.
+AGENT: Thanks for confirming, Unknown. This is Barwood & Regency. How can I assist you with your recovery ride today?
+CALLER: I need a cab. I need a cab, please. Can I have a cab, please? I need one.
+AGENT: Alright, how would you like to pay for your cab ride today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Hello? Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address where the driver should come to get you? <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: I have your payment method as cash. Now, could you please provide the pickup address where you would like the cab to pick you up? <emotion value="peaceful"/>
+CALLER: Yeah. This address is one Could you hold on?
+AGENT: Of course, take your time. Just let me know the pickup address when you're ready. <emotion value="peaceful"/>
+CALLER: One zero zero One four zero zero. East West Highway.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: I couldn't locate 1 0 0 1 4 0 0 East West Highway. Could you please provide the city and state for that address? <emotion value="apologetic"/>
+CALLER: One four Yes. What?
+AGENT: Uh, I am sorry, but could you please repeat the city and state for the address on East West Highway? <emotion value="apologetic"/>
+CALLER: One four
+AGENT: I’m sorry, I still need the city and state for the East West Highway address to find it. Could you please tell me the city and state? <emotion value="apologetic"/>
+CALLER: Silver Spring in Maryland. Listen. Silver Spring, Maryland.
+AGENT: Okay, so I found that location: 1 4 0 0 East West Highway, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Correct.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Could you please tell me the destination or dropoff address where you want to go? <emotion value="peaceful"/>
+CALLER: I'm going to the social service
+AGENT: I found a few locations for social service. 
+Option one: 6 2 0 E Diamond Avenue, Gaithersburg. 
+Option two: 2 0 0 Girard Street, Suite 2 1 2-b, Gaithersburg. 
+Option three: 1 Wells Avenue, Gaithersburg. 
+Option four: 8 Russell Avenue, Unit 1 0 7, Gaithersburg. 
+Option five: 8 6 1 5 E Village Avenue, Montgomery Village. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Georgia Avenue. Social service. On Georgia. This is on Georgia Avenue.
+AGENT: Thank you for that detail. Could you please provide the street number or any other part of the address on Georgia Avenue for the social service location? <emotion value="peaceful"/>
+CALLER: I I don't know. They are it's on Georgia. Avenue Silver Spring. Social service in Silver Springs. Georgia Avenue
+AGENT: I found a few locations for social service on Georgia Avenue in Silver Spring. 
+Option one: 8 8 1 8 Georgia Avenue, Silver Spring. 
+Option two: 8 8 1 8 Georgia Avenue, Silver Spring. 
+Option three: 8 8 1 8 Georgia Avenue, Silver Spring. 
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Yes. Correct. Correct. Correct.
+AGENT: Your dropoff address has been verified, Unknown. I will now proceed with arranging your ride.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: No. Right now, if I have right now.
+AGENT: Okay great! I've got your pickup time as today at 2:51 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Okay. Okay. Thank you. One. One.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Will you be needing a wheelchair accessible vehicle?
+CALLER: No. No. I'm alone. I'll be the only one.
+AGENT: Okay great! I've got that noted. <emotion value="grateful"/> Do you have any special instructions for the driver?
+CALLER: No. No. Not at all. No. No.
+AGENT: Alright, the estimated fare is 6.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 2:51 PM. Your confirmation number is 2 1 3 6 7 3 4 3 2. Is there anything else I can help you with?
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency. Have a wonderful day!

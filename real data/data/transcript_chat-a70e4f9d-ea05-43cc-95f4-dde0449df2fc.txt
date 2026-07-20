@@ -1,0 +1,11 @@
+AGENT: Hi Mark, this is Ana with Barwood & Regency. Your pickup is scheduled for today at 3:45 PM. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+AGENT: I haven't heard from you in a while. Are you still there? I'll end this call shortly if I don't hear from you.
+CALLER: I hope it's
+AGENT: Uhh, I didn't quite catch that. Could you please tell me how I can assist you today? <emotion value="peaceful"/>
+CALLER: call it at 24 Unit Size 245. For the patient to to join 199. The wrong bill
+AGENT: Umm, it sounds like you might be mentioning an address and something about a bill, but I want to make sure I understand you correctly. Are you trying to book a ride, check on a trip, or speak with a representative about a billing issue?
+CALLER: Is it? I'm going wrong way or wrong way one-one-one-nine.
+AGENT: Okay, it sounds like you might be concerned about an address or a trip going to the wrong place, possibly 1 1 1 9 Rockville Pike? If this is about an existing trip or a billing issue, I can connect you to a representative who can help. Would you like me to do that?
+CALLER: Yes.
+AGENT: I'm connecting you now to a customer service representative who can assist you further. Please stay on the line.

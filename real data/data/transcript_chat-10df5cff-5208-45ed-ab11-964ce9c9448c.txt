@@ -1,0 +1,42 @@
+AGENT: Hello Esabell, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Isabelle,
+AGENT: Uhh, how can I assist you with your ride today? <emotion value="peaceful"/>
+CALLER: Hello?
+AGENT: Yeah, I'm here. What can I help you with regarding your ride? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Oh, no. No. I'm gonna get clothes.
+AGENT: Okay, so you want to book a ride to go get
+CALLER: I mean, it's not
+AGENT: Uhh, I’m here to help whenever you’re ready. Could you please tell me if you want to book a ride or if there’s something else I can assist you with? <emotion value="peaceful"/>
+CALLER: Book a ride.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride? If you want to be picked up from your home at 1
+CALLER: What's the address here?
+AGENT: Your
+CALLER: Or you wanna go somewhere else?
+AGENT: I was about to say, your home address is 1 1 2 5 1 Grandview
+CALLER: We can't even see it. It's loading something. Yeah. One one two five one.
+AGENT: Okay, so your pickup address is one one two five one Grandview Avenue, Silver
+CALLER: One one two five one. One two five one. Yeah. Avenue.
+AGENT: Thank you for confirming. Your pickup address is one one two five one Grandview Avenue, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Okay, so I found your pickup address as one one two five one
+CALLER: Don't fucking out in any good thing.
+AGENT: I want to make sure I get your pickup address exactly right. Just to confirm, is your pickup address one one two five one Grandview Avenue, Silver Spring, Maryland? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: 8400 Silver Springs Avenue. Eighty four hundred
+AGENT: Thank you. To confirm, your dropoff address is 8 4
+CALLER: Cross Road.
+AGENT: Okay, so your dropoff address is 8 4 0 0 Silver Springs Avenue Cross Road. Is that correct? <emotion value="peaceful"/>
+CALLER: Yes. Yeah.
+AGENT: Hmm, let me check that address. I couldn't find an exact match for 8 4 0 0 Silver Springs Avenue Cross Road. I found a location at 1 0 3 1 3 Georgia Avenue, apartment 3 0 7, Silver Spring, Maryland 2 0 9 0 2. Is that the place you want to go?
+CALLER: No.
+AGENT: Okay, could you please repeat the dropoff address or provide more details so I can find the correct location? <emotion
+CALLER: No. It's four zero eight four zero zero Road.
+AGENT: Thank you for the clarification. Just to confirm, is your dropoff address 4 0 8 4 0 0 Road? Could you please provide the street name or any additional details to help me find the exact location? <emotion value="peaceful"/>
+CALLER: It's
+AGENT: Could you please complete the address or provide the street name so I can assist you better? <emotion value="peaceful"/>
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

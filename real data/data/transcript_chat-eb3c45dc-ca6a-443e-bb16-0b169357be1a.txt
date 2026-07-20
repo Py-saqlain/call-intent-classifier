@@ -1,0 +1,38 @@
+AGENT: Hi Emoi, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Service Customer service.
+AGENT: Uhh, how can I assist you with your ride or booking today? <emotion value="peaceful"/>
+CALLER: I need a a customer service, please.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: Wait.
+AGENT: Alright, take your time. Just let me know when you're ready or if there's something I can help with. <emotion value="peaceful"/>
+CALLER: He's meeting a lot.
+AGENT: Could you please tell me a bit more about what you need help with regarding the meeting? That way I can assist you better. <emotion value="hesitant"/>
+CALLER: I need to ride back home.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Credit card. Credit card.
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Okay, so your dropoff address is 7 3 4 1 Gold Ring Terrace, Derwood, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: I need a cab number one zero nine two.
+AGENT: I understand you mentioned a cab number, but first I want to make sure your dropoff address is correct. Is 7 3 4 1 Gold Ring Terrace, Derwood, Maryland the right dropoff location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified. Now, could you please provide the pickup address? <emotion value="peaceful"/>
+CALLER: Nine nine zero one Medical Center Drive,
+AGENT: Okay, so your pickup address is 9 9 0 1 Medical Center Drive, Rockville, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. In the case. And the cab number 1092.
+AGENT: Your pickup address has been verified, Emoi.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 1140.
+AGENT: Just to confirm, did you mean 11:40 AM or 11:40 PM for your pickup time? <emotion value="hesitant"/>
+CALLER: AM
+AGENT: Okay great! I've got your pickup time as today at 11:40 AM. Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle? <emotion value="grateful"/>
+CALLER: Yeah. This is wheelchair. Cab number 1092.
+AGENT: The estimated fare is 13 dollars, paying with your credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: Can you give me the cab number, please?
+AGENT: I don't have the cab number assigned yet, but I can help you with anything else you need for your trip. Would you like to schedule a return trip? <emotion value="peaceful"/>
+CALLER: No. Camp number. I need a cab number 1092.
+AGENT: Just to clarify, are you requesting to update your trip to use cab number 1092 specifically? Or is there something else you'd like me to do with that number? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Thanks for confirming. I will update your trip to use cab number 1092. <emotion value="peaceful"/>
+AGENT: I’m sorry, but I can’t update the cab number directly. Is there something else you'd like to update or any other assistance I can provide? <emotion value="apologetic"/>
+CALLER: No. Just update with that cab number.
+AGENT: I understand you'd like to update the cab number to 1092, but unfortunately, I can't update the cab number directly. If you need help with anything

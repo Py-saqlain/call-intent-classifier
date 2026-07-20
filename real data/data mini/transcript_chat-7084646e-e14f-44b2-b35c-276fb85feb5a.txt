@@ -1,0 +1,8 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Screen us. Yes.
+AGENT: I want to make sure I got your name right. Could you please say your name again for me?
+CALLER: Katrina Stitch. Do
+AGENT: Thanks, Katrina. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: Checking on my ride.
+AGENT: Hmm, let me check on that for you. Uhh, it looks like I can't find any active trips under your profile right now. Would you like me to help you book a new ride? <emotion value="peaceful"/>
+CALLER: No. Operator.

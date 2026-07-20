@@ -1,0 +1,8 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Lisa Lilley?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?
+AGENT: Yes, I’m here. Is this Lisa Lilley I’m speaking with?
+CALLER: I wanna talk to an agent I wanna talk to a live agent. I wanna talk to a live agent, a customer service representative. I wanna talk to a customer service representative, a live agent. Hello? I wanna talk to customer service representative, a live agent. Hello?
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: No. I want you to connect me. Transfer me to a customer service representative. Transfer me to a live agent, please.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

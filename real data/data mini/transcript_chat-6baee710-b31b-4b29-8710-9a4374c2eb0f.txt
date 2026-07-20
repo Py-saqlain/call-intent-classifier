@@ -1,0 +1,10 @@
+AGENT: Hello Loretta, this is Ana from Barwood & Regency. Your pickup is scheduled for today at 10:15 AM. How can I assist you today?
+CALLER: May I speak to a person, please?
+AGENT: I can actually help with cancellations and checking your trip status right here — usually faster than waiting for an agent. What do you need today?
+CALLER: I need to know, do I have a return trip?
+AGENT: You do not have a return trip scheduled for your current ride. Is there anything else I can check for you?
+CALLER: Yes. I need a return trip.
+AGENT: Looks like you already have a trip from Germantown to Gaithersburg at today 10:15 am. What would you like to do?
+CALLER: I need to I I from I need to be picked up at the at 01:00. At the church.
+AGENT: Since you already have a trip scheduled, booking a new one requires assistance from a representative. I'll connect you with someone who can help with that.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,40 @@
+AGENT: Hello John, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I want to book a reservation for pickup tomorrow.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Hello? It be paid with credit card?
+AGENT: Okay so I've got that payment noted as credit card. Let me process it for you now. <emotion value="grateful"/>
+AGENT: Okay so I've got that payment noted as credit card. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your ride tomorrow? <emotion value="peaceful"/>
+CALLER: Eight six five four Piney Branch Road,
+AGENT: Okay, so I found 8 6 5 4 Piney Branch Road, Silver Spring, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: apartment twelve,
+AGENT: Okay, just to clarify, is your full pickup address 8 6 5 4 Piney Branch Road, Apartment 12, Silver Spring, Maryland? <emotion value="peaceful"/>
+CALLER: Yes. 20901.
+AGENT: Your pickup address has been verified. Could you please provide the dropoff address? <emotion value="peaceful"/>
+CALLER: Yes. With, uh, ZIP code 20901.
+AGENT: Thank you for that. Could you please tell me the dropoff address for your ride? <emotion value="peaceful"/>
+CALLER: BWI
+AGENT: For Baltimore-Washington International Airport, would you like arrivals or departures? <emotion value="peaceful"/>
+CALLER: No. I I want to leave my apartment at 07:00.
+AGENT: I understand you want to leave your apartment at 7:00 am. Could you please provide the dropoff address for your ride? <emotion value="peaceful"/>
+CALLER: Southwest
+AGENT: Could you please clarify if "Southwest" is part of the dropoff address or if you mean Southwest Airlines at Baltimore-Washington International Airport? If it's the airport, would you like arrivals or departures? <emotion value="peaceful"/>
+CALLER: I would like to go to subway airline departures
+AGENT: Just to confirm, you want to go to Baltimore-Washington International Airport, Southwest Airlines departures. Is that correct? <emotion value="peaceful"/>
+CALLER: Right.
+AGENT: Your dropoff address has been verified.
+AGENT: What time tomorrow would you like to be picked up? <emotion value="peaceful"/>
+CALLER: 07:00. AM.
+AGENT: Okay great! I've got your pickup time as tomorrow at 7:00 AM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: Trust me. That's it.
+AGENT: Okay great! I've noted 1 passenger and no wheelchair needed. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: No. Oh, by the way, driver, call me when you you get to my address. Call when you are at my address.
+AGENT: Alright, so let me confirm those details. Your pickup is 8 6 5 4 Piney Branch Road. Your dropoff is 7 0 5 0 Friendship Road. Pickup time is tomorrow at 7:00 AM. You have 1 passenger and a wheelchair is needed. The estimated fare is 77 dollars, paying with your credit card. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your trip is booked for tomorrow at 7:00 AM. Your confirmation number is 2 1 3 6 7 0 9 4 3. Is there anything else I can help you with?
+CALLER: Customer service, please.
+CALLER: Hello?
+AGENT: Uhh, how can I assist you further with your reservation or anything else today? <emotion value="peaceful"/>
+CALLER: I need to speak with a live customer service person please thank you
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,16 @@
+AGENT: Hello chaiteria, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Yes. I'm calling to book a trip.
+AGENT: Alright, how would you like to pay for your trip today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Corn and dry.
+AGENT: Hmmm.. that didn't seem right, could you please tell
+CALLER: Corn and dry.
+AGENT: Did you mean Call and Ride for your payment method? If so, I can ask for the last six digits of your card. <emotion value="hesitant"/>
+CALLER: Three zero nine three seven four.
+AGENT: Okay so I've got that payment noted as Call and Ride. <emotion value="grateful"/>
+AGENT: Could you please tell me the pickup address for your trip? <emotion value="peaceful"/>
+CALLER: Three seven zero four at Torreya Road in Kensington.
+AGENT: Okay, let me check that address. <emotion value="peaceful"/>
+AGENT: I found the address as three seven zero four Astoria Road, Kensington, Maryland. Is that correct? <emotion value="hesitant"/>
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: No, I don't. Let me come back

@@ -1,0 +1,48 @@
+AGENT: Hello, this is Ana with Barwood & Regency. May I have your name, please?
+CALLER: Maria,
+AGENT: Thanks, Maria. This is Ana from Barwood & Regency. How can I help you today?
+CALLER: I need a taxi to the Red Roof Inn on Road going to the motel six.
+AGENT: Alright, Maria, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so <break time="300ms"/> I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Maria, could you please tell me the pickup address where the driver should come to get you? <emotion value="peaceful"/>
+CALLER: I'm ready now.
+AGENT: Thank you, Maria. Could you please provide the street address or location where you would like to be picked up? <emotion value="peaceful"/>
+CALLER: Red Roof Inn, Shady Grove Road.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Maria, I found Red Roof PLUS+ Washington, DC - Rockville at 1 6 0 0 1 Shady Grove Road, Rockville, Maryland. Is that the correct pickup location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Maria, I found a few Red Roof Inn locations on Road.  
+Option one: 1 2 5 2 5 Laurel - Bowie Road, Laurel, Maryland.  
+Option two: 6 0 0 New York Avenue Northeast, Washington, D C.  
+Option three: 8 0 0 0 Washington Boulevard, Jessup, Maryland.  
+Option four: 7 2 1 East Market Street, Leesburg, Virginia.  
+Which one is correct? <emotion value="hesitant"/>
+CALLER: Rockville Rockville.
+AGENT: Maria, just to confirm, you want the dropoff at Rockville? The options I have are in Laurel, Washington D C, Jessup, and Leesburg, but none in Rockville. Could you please clarify or provide more details about the dropoff location? <emotion value="hesitant"/>
+CALLER: The Motel 6 Gaithersburg, Maryland. I want the Motel 6 Maryland.
+AGENT: Thank you, Maria. Let me look up Motel 6 in Gaithersburg, Maryland for you. <emotion value="peaceful"/>
+AGENT: Maria, I found Motel 6 Gaithersburg, Washington at 4 9 7 Quince Orchard Road, Gaithersburg, Maryland. Is that the correct dropoff location? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Your dropoff address has been verified, Maria.
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Right now.
+AGENT: Okay great! I've got your pickup time as right now. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thanks for letting me know no wheelchair is needed. How many passengers will be traveling? <emotion value="peaceful"/>
+CALLER: Three
+AGENT: Okay great! I've got three passengers and no wheelchairs. <emotion value="grateful"/> Do you have any special instructions or notes for the driver?
+CALLER: Please hurry.
+AGENT: Alright, the estimated fare is 13.5 dollars, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I'm ready
+AGENT: When would you like to be picked up for your return trip? <emotion value="peaceful"/>
+CALLER: No return.
+AGENT: Thank you for waiting. I'm processing your booking now.
+AGENT: Your main trip is booked for today at 3:36 AM. Your confirmation number is 2 1 3 6 7 6 6 7 2. Is there anything else I can help you with?
+CALLER: How long till the passenger get there?
+AGENT: For questions about trip status or arrival times, I can connect you with a representative who can provide the latest updates. Would you like me to do that for you?
+CALLER: Yeah.
+CALLER: Hello?
+AGENT: Hi Maria, I'm here to help. Since you asked about how long until the passenger arrives, I'll connect you with someone who can provide the latest trip status and ETA. Please hold for a moment.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

@@ -1,0 +1,19 @@
+AGENT: Hello Barry, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: It's actually come to two three five two eight fourth Havenway.
+AGENT: Thank you for sharing your address. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: One, Cash.
+AGENT: Thank you, I have noted that you will be paying with cash.
+AGENT: I have your pickup address as two three five two eight Forest Haven Way, Clarksburg, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Thank you. Your pickup address has been verified. Now, could you please provide the destination or dropoff address?
+CALLER: Two zero nine four four Frederick Road.
+AGENT: Thank you for the dropoff address. I have two zero nine four four Frederick Road. Could you please tell me the city and state for this address?
+CALLER: Clarksburg, Maryland No. Germantown, Maryland.
+AGENT: I have the dropoff address as two zero nine four four Frederick Road, Germantown, Maryland. Is that correct?
+CALLER: Correct.
+AGENT: Both your addresses have been verified, Barry.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: How many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: No.
+AGENT: Thank you. How many passengers will be traveling, including yourself?

@@ -1,0 +1,15 @@
+AGENT: Hi Quin, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Hello?
+AGENT: How can I assist you with your ride today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?
+AGENT: I'm here to help. Are you looking to book a ride, check on a trip, or speak with someone?
+CALLER: We are capturing
+AGENT: Could you please tell me more about what you mean by "we are capturing"? Are you looking to book a ride or need assistance with something else?
+CALLER: And, yeah, that's it.
+AGENT: Would you like me to help you book a ride now? If so, please let me know your pickup location and destination.
+CALLER: Yeah.
+AGENT: How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Yeah. Yeah.
+AGENT: Just to make sure, would you like to pay with cash, credit card, or Call and Ride?
+AGENT: Take your time. Just let me know when you're ready.

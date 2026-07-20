@@ -1,0 +1,11 @@
+AGENT: Hi Shiella, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need a I need a cap, please. My name is, um, Maryam, And my card number is you want my card number?
+AGENT: I can help you with booking a cab. To get started, could you please tell me your pickup location? Also, just to confirm, when you mention your card, are you referring to the Call and Ride payment card?
+CALLER: Let me let me let me. Me tell you card number. Card number is zero I ride in car. And now I ride in on. And then my the my card number is zero six
+AGENT: Thank you for letting me know you want to pay with Call and Ride. Could you please provide the last six digits of your Call and Ride card?
+CALLER: two three seven nine. And here is the trade address. Here is. Two two five Nude Washington Street Rockville, Maryland. And I go to the home care slot.
+AGENT: Thank you for the addresses. I noticed the Call and Ride card digits you gave are only four digits. Could you please provide the full last six digits of your Call and Ride card?
+CALLER: I told you 06062379.
+AGENT: Thank you for providing your Call and Ride card number. Your payment method is confirmed as Call and Ride.
+CALLER: Okay. Thank you.
+AGENT: I have 225 North Washington Street, Rockville, Maryland for

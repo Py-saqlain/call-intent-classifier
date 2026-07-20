@@ -1,0 +1,48 @@
+AGENT: Hello, behshiz. This is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I want the appointment for the doctor.
+AGENT: Could you please tell me the pickup address and the doctor's appointment location? Also, when would you like the pickup time to be?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Hello?
+AGENT: Hi
+CALLER: Yeah. Ready. Okay. Okay. Okay. One I have one four four three one seven thousand there's a And I'll quit and be
+AGENT: Uhh, I want to make sure I got that right. Did you say your pickup address is 1 4 4 3 1 7 0 0 0? Could you please confirm or clarify that for me? <emotion value="hesitant"/>
+CALLER: Yes. I want to and appointment at.
+AGENT: Thank you for confirming your pickup address. Could you please tell me the full address or location of the appointment you want to go to? Also, when would you like the pickup time to be?
+CALLER: Yes. I was going south. Appointment. I want appointment for the doctor.
+AGENT: Okay, I understand you want a ride to a doctor's appointment.
+CALLER: I want the appointment that's for the doctor.
+AGENT: Alright, I see you want to book a ride for
+CALLER: I want the appointment that's for the house. Six.
+AGENT: To make sure I understand, are you saying you want a ride to a doctor's appointment at your house, or
+CALLER: Pardon me.
+CALLER: Yeah. Yes. My day surgery is there. Number is one zero one zero Medical Drive Rockville only.
+AGENT: Alright, how would you like to pay for your ride? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Yes. Cash. Cash. Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Hmm, let me check that address. I wasn't able to locate either the
+CALLER: Say again.
+AGENT: Uh, I am sorry, but I wasn't able to locate either the pickup or dropoff address you gave me. Let's start with your pickup address. Could you please tell me where you will
+CALLER: Okay. Because pick up me. One one four four Harry one Guardian, spirit
+AGENT: Hmm, let me check that address. Did you say one one four four Harry one Guardian, spirit?
+CALLER: Yes. Yes. Yes.
+AGENT: Uh, I am sorry, but I couldn't find that address. Could you please provide the street number and street name again for your pickup location?
+AGENT: Could you please provide the pickup address again?
+CALLER: I want to take an appointment for this taxi. Appointment.
+AGENT: I understand you want to book a taxi for an appointment.
+CALLER: Appointment.
+AGENT: I understand you want to book a taxi for an appointment. Could you please tell me the address where you want to be picked up?
+CALLER: The job?
+AGENT: I'm sorry, could you please clarify if you mean your workplace as the pickup location?
+CALLER: Yes.
+AGENT: Could you please provide the full address of your workplace for pickup?
+CALLER: Mhmm.
+AGENT: Could you please tell me the street number and street name of your workplace address?
+CALLER: Hey. Cash. Cash. Cash.
+AGENT: I have your payment method as cash. Now, let's start with your pickup address. Could you please tell me where you will be picked up from?
+CALLER: Yeah.
+AGENT: Could you please provide the street number and street name for your pickup location?
+CALLER: Yes. I want to pay take it as a two thirty.
+AGENT: I understand you want a pickup at 2:30. Could you please tell me the pickup address where the driver should come to get you?
+CALLER: So
+AGENT: Could you please tell
+AGENT: I'm experiencing a technical limitation on my end. Let me connect you with a human agent who can assist you better.

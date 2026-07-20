@@ -1,0 +1,51 @@
+AGENT: Hello Michael, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Peter Cap.
+AGENT: Uhh, could you please tell me how I can assist you today? Are you looking to book a ride or need help with something else? <emotion value="peaceful"/>
+CALLER: I need a cab, please. Cab, please.
+AGENT: Alright, how would you like to pay for your cab today? We accept cash, credit card, and Call and Ride. <emotion value="peaceful"/>
+CALLER: Cash.
+AGENT: Okay so I've got that payment noted as cash. <emotion value="grateful"/>
+AGENT: Could you please provide the pickup address for your cab? If you'd like, I can also use your home address at 2 0 1 1 1 Century Boulevard, Germantown, Maryland. Would you prefer that? <emotion value="peaceful"/>
+CALLER: No. It's one nine nine East Montgomery Avenue, Chesapeake's Pizza.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 1 9 9 East Montgomery Avenue, Rockville, Maryland, is that correct? <emotion value="peaceful"/>
+CALLER: Yeah. Yeah.
+AGENT: Your pickup address has been verified. Now, could you please provide the destination or dropoff address? <emotion value="peaceful"/>
+CALLER: Where are you going?
+AGENT: I’m here to help you get where you need to go. Could you please tell me the address or place you want to be dropped off at? <emotion value="peaceful"/>
+CALLER: This is not a good address. Six eight one
+AGENT: Okay, I understand you want to update the dropoff address to six eight one. Could you please provide the street name and city or any other details for that address? <emotion value="hesitant"/>
+CALLER: six eight one zero Melody Drive,
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: I found 6 8 1 0 Reynard Drive, Springfield, Virginia. Is that the correct dropoff address? <emotion value="peaceful"/>
+CALLER: No. No.
+AGENT: Okay, please provide the correct dropoff address or any nearby landmark or business name to help me find it. <emotion value="peaceful"/>
+CALLER: Six eight one zero Melody Lane, Bethesda Mount.
+AGENT: Hmm <break time="350ms"/> let me check that address.
+AGENT: Okay, so I found 6 8 1 0 Melody Lane, Bethesda, Maryland. Is that correct? <emotion value="peaceful"/>
+CALLER: Yeah.
+AGENT: Your dropoff address has been verified. Thank you, Michael. <emotion value="grateful"/>
+AGENT: When would you like to be picked up? <emotion value="peaceful"/>
+CALLER: Now.
+AGENT: Okay great! I've got your pickup time set for today at 1:54 PM. <emotion value="grateful"/> Alright, soo <break time="300ms"/> so how many passengers will be traveling, including yourself? And will anyone need a wheelchair-accessible vehicle?
+CALLER: I don't they're gonna come somewhere along here. Okay. One.
+AGENT: Okay, I've got one passenger. Will you need a wheelchair-accessible vehicle? <emotion value="peaceful"/>
+CALLER: Cheese. Here we go. Your name?
+AGENT: Hmm <break time="300ms"/> sorry, let me get that right. Did you mean to say if you need a wheelchair-accessible vehicle? <emotion value="hesitant"/>
+CALLER: No.
+AGENT: Okay, no wheelchair needed. Do you have any special instructions or notes for the driver? <emotion value="peaceful"/>
+CALLER: Yes.
+AGENT: Please tell me the special instructions or notes you want the driver to know. <emotion value="peaceful"/>
+CALLER: Pickup is at Chesapeake's piece Good. Need a receipt?
+AGENT: Alright, the estimated fare is 23.5, paying with Self. Would you like to schedule a return trip as well? <emotion value="peaceful"/>
+CALLER: No. No. I was on the side. You're welcome, buddy.
+AGENT: Thank you for your patience. I'm processing your booking now.
+AGENT: Your main trip is scheduled for today at 1:54 PM. Your confirmation number is 2 1 3 6 7 5 8 9 7. Is there anything else I can help you with?
+CALLER: It said last twenty four hours. You said three minutes?
+AGENT: The pickup time you provided is for today at 1:54 PM, which is just a few minutes from now. If you meant a different time or need to adjust it, I can help with that. Would you like to change the pickup time?
+CALLER: No.
+AGENT: Alright. Is there anything else I can assist you with today?
+CALLER: Oh, they must fight.
+AGENT: If you need any further assistance or have any questions, just let me know. I'm here to help.
+CALLER: On the higher Mark
+AGENT: Could you please clarify what you mean by "On the higher Mark"? I want to make sure I understand you

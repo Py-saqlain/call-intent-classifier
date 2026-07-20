@@ -1,0 +1,15 @@
+AGENT: Hi Khianna, this is Ana with Barwood & Regency. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Okay. Okay. Yes. Hi. Okay.
+AGENT: Hi there! How can I assist you with your ride today?
+CALLER: But also about this one.
+AGENT: Could you please tell me a bit more about what you need help with regarding this one?
+CALLER: Okay.
+AGENT: Uhh, I want to make sure I
+CALLER: Representative, please. Life
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: Live Azure. These people
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+CALLER: So go ahead. Vision. Representative.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

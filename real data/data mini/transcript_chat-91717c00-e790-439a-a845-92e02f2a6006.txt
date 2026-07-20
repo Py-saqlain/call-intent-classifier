@@ -1,0 +1,4 @@
+AGENT: Hello, this is Ana with Barwood & Regency. Am I speaking with Precious Middleton?
+CALLER: Yes.
+AGENT: Thanks, Precious. This is Ana from Barwood & Regency. Your ride is scheduled for pickup today at 12:00 PM. How can I assist you today?
+AGENT: Take your time. Just let me know when you're ready.

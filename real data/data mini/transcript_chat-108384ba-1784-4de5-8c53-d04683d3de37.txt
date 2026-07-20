@@ -1,0 +1,10 @@
+AGENT: Hi Sheryl, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: Customer.
+AGENT: Hello, how can I assist you with your ride today?
+CALLER: I'll talk to a customer.
+AGENT: I can connect you to a person, though the agent wait can be long — if it's quick, I can help right now instead. Which would you prefer?
+AGENT: Take your time. Just let me know when you're ready.
+CALLER: I don't probably go from forever.
+AGENT: I want to make sure I understand you correctly. Are you saying you don't want to go far, or is there something else you'd like help with?
+CALLER: I wanna talk to customer service.
+AGENT: I'm connecting you to a customer service representative now. Please stay on the line.

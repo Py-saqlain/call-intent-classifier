@@ -1,0 +1,40 @@
+AGENT: Hi Roger, this is Ana with Barwood & Regency. How can I assist you today?
+CALLER: I need transportation.
+AGENT: Thank you for reaching out. How would you like to pay for your ride today? We accept cash, credit card, and Call and Ride.
+CALLER: Credit card.
+AGENT: Thank you, your payment method is set to credit card.
+AGENT: Could you please provide the pickup address for your ride?
+CALLER: One two one Harmony Hall Road, Gaithersburg.
+AGENT: I have 1 2 1 Harmony Hall Road, Gaithersburg, Maryland as your pickup address. Is that correct?
+CALLER: Yes.
+AGENT: Your pickup address has been verified. Could you please provide the destination or dropoff address?
+CALLER: Seven forty five South Frederick,
+AGENT: Could you please provide the city and state for the dropoff address at seven forty five South Frederick?
+CALLER: Gaithersburg.
+AGENT: I have 7 4 5 South Frederick Avenue, Gaithersburg, Maryland as your dropoff address. Is that correct?
+CALLER: Gaithersburg, Maryland. Yes.
+AGENT: Your dropoff address has been verified, Roger. I will now proceed with the next steps for your ride.
+AGENT: When would you like to be picked up?
+CALLER: Now
+AGENT: Thank you. How many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Just one person, no wheelchair.
+AGENT: Got it, one passenger and no wheelchair needed. Do you have any special instructions or notes for the driver?
+CALLER: Just call me when they when they arrive.
+AGENT: The estimated fare for your trip is 8.5 dollars, paying with your credit card. Would you like to schedule a return trip as well?
+CALLER: It's gonna be a round trip.
+AGENT: Got it, I'll arrange the return trip once your main trip details are complete. For the return trip, when would you like to be picked up?
+CALLER: Within five minutes.
+AGENT: The return trip pickup time must be at least 10 minutes after your main trip pickup time, which is today at 11:10 AM. Could you please provide a valid return pickup time that is at least 10 minutes later, or would you prefer to just book a one-way trip instead?
+CALLER: Round trip, ten minutes.
+AGENT: Thank you. For the return trip, how many passengers will be traveling, and will anyone need a wheelchair-accessible vehicle?
+CALLER: Just one person. No wheelchair.
+AGENT: For your return trip, I have the pickup address as 7 4 5 South Frederick Avenue, Gaithersburg, Maryland, and the dropoff address as 1 2 1 Harmony Hall Road, Gaithersburg, Maryland. Is that correct?
+CALLER: Yes.
+AGENT: The estimated fare for your return trip is 8.5 dollars, paying with your credit card. Should I go ahead and book both trips now?
+CALLER: Yes.
+AGENT: Thank you for your patience. I'm processing your round-trip booking now.
+AGENT: Your round-trip booking is confirmed. The main trip confirmation number is 2 1 3 6 7 8 0 3 5 with pickup today at 11:10 AM. The return trip confirmation number is 2 1 3 6 7 8 0 3 6 with pickup today at 9:10 PM. Is there anything else I can help you with?
+CALLER: No.
+CALLER: No.
+AGENT: Thank you for calling Barwood & Regency, Roger. Have a wonderful day.
+CALLER: Yep.
