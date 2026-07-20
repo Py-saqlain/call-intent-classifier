@@ -24,11 +24,11 @@ The task started as a classical ML problem — train a model to classify call in
 
 **Upload interface:**
 
-![Upload UI](screenshots/upload_ui.png)
+![Upload UI](screenshots/upload_ui.jpg)
 
 **Classification result:**
 
-![Classification result](screenshots/classify_result.png)
+![Classification result](screenshots/classify_result.jpg)
 
 ## Tech Stack
 
